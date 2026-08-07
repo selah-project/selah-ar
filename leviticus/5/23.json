@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 5:23",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "و⟨يكون⟩ إذ أخطأ وأذنب أن يُعيد ⟨את⟩ المغصوب الذي غصبه أو ⟨את⟩ المظلمة التي ظلمها أو ⟨את⟩ الوديعة التي وُديعت لديه أو ⟨את⟩ الضالّة التي وجدها،",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و⟨يكون⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذ"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "أخطأ"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "وأذنب"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "أن يُعيد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المغصوب"
+    },
+    {
+      "surface": "הגזלה",
+      "gloss": "المغصوب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "גזל",
+      "gloss": "غصبه"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المظلمة"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "المظلمة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ظلمها"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الوديعة"
+    },
+    {
+      "surface": "הפקדון",
+      "gloss": "الوديعة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "הפקד",
+      "gloss": "وُديعت"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "لديه"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الضالّة"
+    },
+    {
+      "surface": "האבדה",
+      "gloss": "الضالّة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "وجدها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:53.049438582Z",
+  "model": "glm-5.2"
+}

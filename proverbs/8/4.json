@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "إليكم يا رجالاً أنادي، وصوتي إلى بني آدم.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "إليكم"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "يا رجالاً"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "أنادي"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "وصوتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:23:21.632588337Z",
+  "model": "glm-5.2"
+}

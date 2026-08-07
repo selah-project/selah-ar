@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 74,
+  "translation": "إلى متى يا إلوهيم يَهْجُر العدوّ؟ هل يَحتقر المبغض اسمك إلى الأبد؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "متى"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "يا إلوهيم"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "يَهْجُر"
+    },
+    {
+      "surface": "צר",
+      "gloss": "العدوّ"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "هل يَحتقر"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "المبغض"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "اسمك"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "إلى الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:34.194298927Z",
+  "model": "glm-5.2"
+}

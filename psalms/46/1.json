@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 46,
+  "translation": "للمُنْشِد، لَبْني قوراخ، على عَلَموت، ترنيمة.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "للمُنْشِد"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لَبْني"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قوراخ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "عَلَموت"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ترنيمة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:56.993011632Z",
+  "model": "glm-5.2"
+}

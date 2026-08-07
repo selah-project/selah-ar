@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 7:10",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وإذا امرأةٌ للقائه، لباسُ امرأةٍ زانية، ومحروسةُ القلبِ.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "للقائه"
+    },
+    {
+      "surface": "שית",
+      "gloss": "لباس"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "امرأةٍ زانية"
+    },
+    {
+      "surface": "ונצרת",
+      "gloss": "ومحروسة"
+    },
+    {
+      "surface": "לב",
+      "gloss": "القلب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:56.807046320Z",
+  "model": "glm-5.2"
+}

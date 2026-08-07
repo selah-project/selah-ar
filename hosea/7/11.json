@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 7:11",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "و⟨كان⟩ إفرايم كحمامة ساذجة لا قلب لها: مصرايم دعوا، أشّور ذهبوا.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "إفرايم"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "كحمامة"
+    },
+    {
+      "surface": "פותה",
+      "gloss": "ساذجة"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "دعوا"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "أشّور"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ذهبوا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:21:33.835210027Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 144,
+  "ref": "psalms 119:144",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "صِدِقٌ ⟨هي⟩ شهاداتُكَ إلى الأبد، فهِّمني فأحيَا",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "صِدِق"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "شهاداتُكَ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "فهِّمني"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "فأحيَا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:50.741329927Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "لأنه لا بقوسي أتوكّل، وحدري لا تخلّصني.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "بقوسي"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "أتوكّل"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "وحدري"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "تخلّصني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:09.782865279Z",
+  "model": "glm-5.2"
+}

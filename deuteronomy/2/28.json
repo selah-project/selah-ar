@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 2:28",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "طعامًا بالفضة تَبيعُني فآكلُ، وماءً بالفضة تُعطيني فأشربُ؛ فقط أعبرُ على قدمَيَّ.»",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "طعامًا"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "بالفضة"
+    },
+    {
+      "surface": "תשברני",
+      "gloss": "تَبيعُني"
+    },
+    {
+      "surface": "ואכלתי",
+      "gloss": "فآكلُ"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "وماءً"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "بالفضة"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "تُعطيني"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "فأشربُ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "فقط"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "أعبرُ"
+    },
+    {
+      "surface": "ברגלי",
+      "gloss": "على قدمَيَّ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:48:04.759376127Z",
+  "model": "glm-5.2"
+}

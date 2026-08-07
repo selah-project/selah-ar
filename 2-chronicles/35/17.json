@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "وفعل بنو إسرائيل الموجودون ⟨את⟩ الفصح في ذلك الوقت، و⟨את⟩ عيد الفطير سبعة أيام.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "وفعل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "الموجودون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الفصح"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "الفصح"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "في وقت"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "عيد"
+    },
+    {
+      "surface": "חג",
+      "gloss": "عيد"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "الفطير"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سبعة"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيام"
+    }
+  ],
+  "timestamp": "2026-08-07T05:32:37.964869627Z",
+  "model": "glm-5.2"
+}

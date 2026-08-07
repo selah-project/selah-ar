@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "شهوةُ الصدّيقين إنّما ⟨هي⟩ خيرٌ، ورجاءُ الأشرار غضبٌ.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "شهوةُ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "الصدّيقين"
+    },
+    {
+      "surface": "אך",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خيرٌ"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "ورجاءُ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الأشرار"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "غضبٌ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:24:42.644250133Z",
+  "model": "glm-5.2"
+}

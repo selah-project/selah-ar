@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "الرّاشِع ⟨في⟩ شموخ أنفِه لا يطلب — «لا إلوهيم!» كلَّ مؤامراته.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "الرّاشِع"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "في شموخ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "أنفه"
+    },
+    {
+      "surface": "בל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "يطلب"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "مؤامراته"
+    }
+  ],
+  "timestamp": "2026-08-07T03:42:36.501718688Z",
+  "model": "glm-5.2"
+}

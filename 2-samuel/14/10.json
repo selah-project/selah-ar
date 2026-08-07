@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 14:10",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "فقال الملك: «⟨من⟩ يتكلّم ⟨إليكِ⟩ فهاتيه إليَّ، ولا يزيد بعد أن يمسّكِ».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "المتكلّم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليكِ"
+    },
+    {
+      "surface": "והבאתו",
+      "gloss": "وهاتيه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليَّ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "يزيد"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "לגעת",
+      "gloss": "أن يمسّ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "كِ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:35:54.215287402Z",
+  "model": "glm-5.2"
+}

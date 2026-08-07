@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 26:21",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "فحمٌ ⟨لـ⟩ جمرٍ وحطبٌ ⟨لـ⟩ نارٍ، ورجلُ مَدُوناتٍ ⟨لـ⟩ إشعالِ خصومة.",
+  "tokens": [
+    {
+      "surface": "פחם",
+      "gloss": "فحم"
+    },
+    {
+      "surface": "לגחלים",
+      "gloss": "لِـجمر"
+    },
+    {
+      "surface": "ועצים",
+      "gloss": "وحطب"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "لِـنار"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ورجل"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "خصومات"
+    },
+    {
+      "surface": "לחרחר",
+      "gloss": "لِـإشعال"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "خصومة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:35.594410905Z",
+  "model": "glm-5.2"
+}

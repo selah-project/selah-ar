@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "لذلك كلُّ الأيدي ترتخي، وكلُّ قلبِ إنسانٍ يذوب.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "الأيدي"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ترتخي"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "يذوب"
+    }
+  ],
+  "timestamp": "2026-08-07T02:06:57.846972087Z",
+  "model": "glm-5.2"
+}

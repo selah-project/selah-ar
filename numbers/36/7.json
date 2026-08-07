@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 36:7",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "ولا تدور ميراثٌ لبَنِي يسرائيل من سبط إلى سبط، لأن كلَّ امرئٍ بميراث سبط آبائه يلتصقون، بَنُو يسرائيل.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "تدور"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ميراث"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لبَنِي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "من سبط"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "سبط"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كلَّ امرئٍ"
+    },
+    {
+      "surface": "בנחלת",
+      "gloss": "بميراث"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "سبط"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "آبائه"
+    },
+    {
+      "surface": "ידבקו",
+      "gloss": "يلتصقون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنُو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:28.808900861Z",
+  "model": "glm-5.2"
+}

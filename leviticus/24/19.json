@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "ورجلٌ إذا أحدثَ عيبًا في قريبه: كما فعلَ هكذا يُفعَلُ به",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ورجلٌ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "أحدثَ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "عيبًا"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "في قريبه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعلَ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يُفعَلُ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به"
+    }
+  ],
+  "timestamp": "2026-08-07T00:26:10.385620009Z",
+  "model": "glm-5.2"
+}

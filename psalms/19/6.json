@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 19:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وهو كَعَريسٍ يخرج من حِجلَه، يبتهج كَجبّارٍ لِركضٍ طريقًا.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "كعريس"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "يخرج"
+    },
+    {
+      "surface": "מחפתו",
+      "gloss": "من حجلِه"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "يبتهج"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "كجبّار"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "لركض"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "طريقًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:17.095866126Z",
+  "model": "glm-5.2"
+}

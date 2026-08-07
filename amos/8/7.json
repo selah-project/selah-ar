@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "حلف يهوه بعزّة يعقوف: «إن كنتُ أنسى إلى الأبد كلّ أعمالهم هكذا!»",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "حلف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "بعزّة"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "أنسى"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "أعمالهم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:27:16.919217329Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "صخّابةٌ هي وتمرّدٌ، في بيتها لا تستقرّ قدماها،",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "صخّابة"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "وتمرّد"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "في بيتها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "تستقرّ"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "قدماها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:56.807167076Z",
+  "model": "glm-5.2"
+}

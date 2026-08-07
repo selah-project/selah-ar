@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "وَأَصْعَدَ السُّرُجَ أَمَامَ يَهوه، كَمَا أَوْصَى يَهوه ⟨את⟩ موشيه.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "وَأَصْعَدَ"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "السُّرُجَ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أَمَامَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كَمَا"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أَوْصَى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:13.789581125Z",
+  "model": "glm-5.2"
+}

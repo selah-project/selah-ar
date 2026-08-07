@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 15:13",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وكلّ من لا يطلب يهوه إلهَ إسرائيل يُقتَل، من الصغير وإلى الكبير، من رجل وإلى امرأة.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "يطلب"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلهَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "يُقتَل"
+    },
+    {
+      "surface": "למן",
+      "gloss": "من"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "الصغير"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "الكبير"
+    },
+    {
+      "surface": "למאיש",
+      "gloss": "من رجل"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:26:13.671242063Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "إلى متى أرى الراية، أسمع صوت الشوفار؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "متى"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "أرى"
+    },
+    {
+      "surface": "נס",
+      "gloss": "الراية"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "أسمع"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "الشوفار"
+    }
+  ],
+  "timestamp": "2026-08-07T02:29:49.628068403Z",
+  "model": "glm-5.2"
+}

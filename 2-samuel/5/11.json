@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 5:11",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "ويرسل حيرام ملك صُور رسلًا إلى داود، وخشب أرز، ونجّاري خشب ونجّاري حجر جدران، فيبنون بيتًا لداود.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ويرسل"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "حيرام"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صُور"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "رسلًا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "وخشب"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "أرز"
+    },
+    {
+      "surface": "וחרשי",
+      "gloss": "ونجّاري"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "خشب"
+    },
+    {
+      "surface": "וחרשי",
+      "gloss": "ونجّاري"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "حجر"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "جدران"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "فيبنون"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيتًا"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لداود"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:00.130705786Z",
+  "model": "glm-5.2"
+}

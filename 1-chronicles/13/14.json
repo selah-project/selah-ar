@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فأقام تابوت إلوهيم مع بيت عوبيد أدوم في بيته ثلاثة أشهر، وبارك يهوه ⟨את⟩ بيت عوبيد أدوم و⟨את⟩ كلّ ما له.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "فأقام"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عوبيد"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "أدوم"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "في بيته"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ثلاثة"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "أشهر"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "وبارك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عوبيد"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "أدوم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:07.352704412Z",
+  "model": "glm-5.2"
+}

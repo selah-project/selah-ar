@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 16:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وهو يكون حمارًا وحشيًّا ⟨من⟩ إنسان، يدُه في كلٍّ، ويدُ كلٍّ فيه، و⟨على⟩ وجه جميع إخوته يسكن.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "حمارًا وحشيًّا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يدُه"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلٍّ"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ويدُ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلٍّ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و⟨على⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميع"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "إخوته"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "يسكن"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:19.549058825Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 120,
+  "translation": "يهوه، أنقِذْ نَفسي من شفةِ الكذب، من لسانٍ غاشّ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "أنقِذْ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفسي"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "من شفةِ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "الكذب"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "من لسانٍ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "غاشّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:13:22.186648679Z",
+  "model": "glm-5.2"
+}

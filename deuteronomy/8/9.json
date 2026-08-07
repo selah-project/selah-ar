@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 8:9",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "أرضًا لا ⟨تأكل⟩ فيها خبزًا ⟨في⟩ فقر، لا تنقص شيئًا فيها؛ أرضًا حجارتُها حديدٌ ومن جبالها تحفر نحاسًا.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "أرضًا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "במסכנת",
+      "gloss": "في فقر"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "تأكل"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "تنقص"
+    },
+    {
+      "surface": "כל",
+      "gloss": "شيء"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرضًا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "حجارتها"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "حديد"
+    },
+    {
+      "surface": "ומהרריה",
+      "gloss": "ومن جبالها"
+    },
+    {
+      "surface": "תחצב",
+      "gloss": "تحفر"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "نحاس"
+    }
+  ],
+  "timestamp": "2026-08-07T00:53:58.121025068Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 41:22",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "فرأيتُ في حلمي، وإذا سبع سنابل صاعدة على ساقٍ واحدٍ، ممتلئة وحسنة.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "فرأيتُ"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "في حلمي"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبع"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "سنابل"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "صاعدة"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "على ساقٍ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدٍ"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "ممتلئة"
+    },
+    {
+      "surface": "וטבות",
+      "gloss": "وحسنة"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:24.477400414Z",
+  "model": "glm-5.2"
+}

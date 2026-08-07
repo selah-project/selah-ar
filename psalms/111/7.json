@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 111,
+  "translation": "ماعَلي يديه إمِتٌ ومشپاط، مؤتمنون كلّ پقودايه",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "ماعَلي"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "يديه"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "إمِتٌ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ومشپاط"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "مؤتمنون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "پقودايه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:38.812048042Z",
+  "model": "glm-5.2"
+}

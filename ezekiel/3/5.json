@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 3:5",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "لأنّك لستَ مُرسَلًا إلى شعبٍ عميقِ الشَّفة وثقيلِ اللسان، بل إلى بيت يِسراائل.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعبٍ"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "عميقِ"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "الشَّفة"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "وثقيلِ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "اللسان"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "مُرسَلًا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسراائل"
+    }
+  ],
+  "timestamp": "2026-08-07T02:55:30.133380688Z",
+  "model": "glm-5.2"
+}

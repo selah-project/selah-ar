@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 23:30",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "وكلّ نَفْس تعمل كلّ مَلَكَه في عينِ اليومِ هذا، وأبيدُ ⟨את⟩ النفسَ تلك من وسط شعبها.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "النفس"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تعمل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "في عينِ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليومِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "وأبيدُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "النفسَ تلك"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "النفسَ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "تلك"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "من وسط"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "شعبها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:26:55.398472815Z",
+  "model": "glm-5.2"
+}

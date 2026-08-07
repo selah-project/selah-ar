@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 38:4",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "أين كنتُمْ عند تأسيسي أرضًا؟ أخبر إن كنتَ تعرفُ ذا فَهْم.",
+  "tokens": [
+    {
+      "surface": "איפה",
+      "gloss": "أين"
+    },
+    {
+      "surface": "היית",
+      "gloss": "كنتَ"
+    },
+    {
+      "surface": "ביסדי",
+      "gloss": "عند تأسيسي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "أخبر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "تعرف"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "فَهْم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:43:40.395515113Z",
+  "model": "glm-5.2"
+}

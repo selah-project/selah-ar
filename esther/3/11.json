@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 3:11",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وقال الملك لِهامان: «الفضّةُ لك وللشعب أن تعمل به كالطيّب في عينيك».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "لِهامان"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "الفضّة"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "مُعطاة"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "والشعب"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "أن تعمل"
+    },
+    {
+      "surface": "בו",
+      "gloss": "به"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "كالطيّب"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "في عينيك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:54:01.718061707Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "منتصفَ الليلِ أقومُ لأحمدَك، على أحكامِ صِدقِكَ.",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "منتصفَ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "الليلِ"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "أقومُ"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "لأحمدَ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ك"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "أحكامِ"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "صِدقِكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:03.956063090Z",
+  "model": "glm-5.2"
+}

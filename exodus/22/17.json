@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "ساحرةً لا تُحييها.",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "ساحرة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "تُحييها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:55.950304072Z",
+  "model": "glm-5.2"
+}

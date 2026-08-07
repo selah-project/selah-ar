@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "فأرسل داود إلى يوآب: «أرسل إليّ ⟨את⟩ أوريّا الحثّيّ». فأرسل يوآب ⟨את⟩ أوريّا إلى داود.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "أرسل"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أوريّا"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "أوريّا"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "الحثّيّ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أوريّا"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "أوريّا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    }
+  ],
+  "timestamp": "2026-08-07T01:34:32.898456510Z",
+  "model": "glm-5.2"
+}

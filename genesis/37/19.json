@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 37:19",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "فقالوا رجلٌ إلى أخيه: هوذا صاحب الأحلام هذا قادم.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقالوا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "أخيه"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "صاحب"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "الأحلام"
+    },
+    {
+      "surface": "הלזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "בא",
+      "gloss": "قادم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:39.831062759Z",
+  "model": "glm-5.2"
+}

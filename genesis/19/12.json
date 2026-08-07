@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 19:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وقال الرجال للوط: «هل بعد مَن لك هنا؟ صهر وبنوك وبناتك وكل من لك في المدينة، أخرجه من المكان.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "الرجال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوط"
+    },
+    {
+      "surface": "עד",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "פה",
+      "gloss": "هنا"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "صهر"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "وبنوك"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "وبناتك"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "من"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "في المدينة"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "أخرجه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "المكان"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:29.833999030Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 15:5",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وأيّ رجُلٍ يمسّ مِشكانه يغسل ثيابه ويرتسل في الماء ويكون طامسًا حتى المساء.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "وأيّ رجُل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "يمسّ"
+    },
+    {
+      "surface": "במשכבו",
+      "gloss": "مِشكانه"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "يغسل"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ثيابه"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ويرتسل"
+    },
+    {
+      "surface": "במים",
+      "gloss": "في الماء"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ويكون طامسًا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "المساء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:22:59.773098938Z",
+  "model": "glm-5.2"
+}

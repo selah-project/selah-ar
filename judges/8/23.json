@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 8:23",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "فقال لهم جِدعون: لا أتسلَّط أنا عليكم، ولا يتسلَّط ابني عليكم. يهوه يتسلَّط عليكم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "جِدعون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אמשל",
+      "gloss": "أتسلَّط"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "عليكم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "يتسلَّط"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ابني"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "عليكم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "يتسلَّط"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "عليكم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:15:29.184888881Z",
+  "model": "glm-5.2"
+}

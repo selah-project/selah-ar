@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "ويقرّب منه قُربانه، إشًّة ليهوه: ⟨את⟩ الشحم الذي يغطّي ⟨את⟩ الأحشاء، و⟨את⟩ كلّ الشحم الذي على الأحشاء.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ويقرّب"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "قُربانه"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "إشًّة"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشحم"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "الشحم"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "الذي يغطّي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأحشاء"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "الأحشاء"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "الشحم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "الأحشاء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:51.244608269Z",
+  "model": "glm-5.2"
+}

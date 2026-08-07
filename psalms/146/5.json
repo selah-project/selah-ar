@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 146:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 146,
+  "translation": "طُوبى لِمَنْ ⟨إلهُ⟩ يعقوف ⟨هو⟩ عونُه، ورجاؤه على يهوه إلهِه",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "طُوبى"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "لِمَنْ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "בעזרו",
+      "gloss": "عونُه"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ورجاؤه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "إلهِه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:19:35.764332930Z",
+  "model": "glm-5.2"
+}

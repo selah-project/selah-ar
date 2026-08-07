@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "ولِمَن في حورماه، ولِمَن في بور عاشان، ولِمَن في عاتاك،",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "ولِمَن"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "في حورماه"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "ولِمَن"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "في بور"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "عاشان"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "ولِمَن"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "في عاتاك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:30:46.532674472Z",
+  "model": "glm-5.2"
+}

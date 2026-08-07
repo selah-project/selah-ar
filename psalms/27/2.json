@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "عند اقتراب المُفسِدين عليّ لالتهامي، أعدائي وخصومي — هم تعثروا وسقطوا.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "عند اقتراب"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عليّ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "المُفسِدين"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "لالتهام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بَشَري"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "بَشَري"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "أعدائي"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "وخصومي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "تعثروا"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "وسقطوا"
+    }
+  ],
+  "timestamp": "2026-08-07T06:02:36.812739098Z",
+  "model": "glm-5.2"
+}

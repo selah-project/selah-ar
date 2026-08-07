@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 85,
+  "translation": "حَمَلتَ ذَنبَ شعبِكَ، غَطَّيتَ كلَّ خطيئَتِهم. صَلاه",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "حَمَلتَ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ذَنب"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "شعبِكَ"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "غطَّيتَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "خطيئَتِهم"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "صَلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:37.359657359Z",
+  "model": "glm-5.2"
+}

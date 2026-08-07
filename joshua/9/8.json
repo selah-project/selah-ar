@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 9:8",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فقالوا ليهوشوع: «عبيدُك نحن.» فقال لهم يهوشوع: «من أنتم؟ ومن أين تأتون؟»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقالوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ل"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشوع"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "عبيدُك"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "نحن"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشوع"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "ومن أين"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "تأتون"
+    }
+  ],
+  "timestamp": "2026-08-07T01:04:19.492700233Z",
+  "model": "glm-5.2"
+}

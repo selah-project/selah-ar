@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨كان⟩ في الصباح فكتب داوود كتابًا إلى يوآب، وأرسله بيد أوريّا.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "في الصباح"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "فكتب"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "كتابًا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "وأرسله"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بيد"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "أوريّا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:34:36.807946505Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وحارب يوآڤ في ربّات بني عمّون، وأمسك ⟨את⟩ مدينة المُلك.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "وحارب"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآڤ"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "في ربّات"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمّون"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "وأمسك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مدينة"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "المُلك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:34:33.384309668Z",
+  "model": "glm-5.2"
+}

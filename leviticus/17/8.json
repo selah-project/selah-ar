@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 17:8",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وإليهم تقول: أيُّ رجلٍ من بيت يِسراائيل، ومن الغير المقيم في وسطهم، الذي يُصعِدُ عولاه أو ذبيحة،",
+  "tokens": [
+    {
+      "surface": "ואלהם",
+      "gloss": "وإليهم"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "تقول"
+    },
+    {
+      "surface": "איש",
+      "gloss": "أيُّ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلٍ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "من بيت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسراائيل"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "الغير"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "يقيم"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "في وسطهم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "يُصعِد"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "عولاه"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ذبيحة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:00.768904430Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 44:5",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "هذا يقول ليهوه ⟨أنا⟩، وهذا يدعو باسم يعقوف، وهذا يكتب يده ليهوه، وباسم يسرايل يلقّب ⟨نفسه⟩.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "يقول"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "وهذا"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "يدعو"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "باسم"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "وهذا"
+    },
+    {
+      "surface": "יכתב",
+      "gloss": "يكتب"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "وباسم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "יכנה",
+      "gloss": "يلقّب"
+    }
+  ],
+  "timestamp": "2026-08-07T02:19:12.480864409Z",
+  "model": "glm-5.2"
+}

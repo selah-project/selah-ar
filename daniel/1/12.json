@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "اختبر ⟨את⟩ عبيدك عشرة أيّام، وليُعطونا من البذور فنأكل، وماءً فنشرب:",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "اختبر"
+    },
+    {
+      "surface": "נא",
+      "gloss": "أرجوك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عبيدك"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "عبيدك"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيامًا"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرة"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "وليُعطونا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "البذور"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "فنأكل"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "وماءً"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "فنشرب"
+    }
+  ],
+  "timestamp": "2026-08-07T06:11:22.975581593Z",
+  "model": "glm-5.2"
+}

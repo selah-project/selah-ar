@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 106,
+  "translation": "وجعَلَهم ⟨את⟩ ⟨موضِعَ⟩ رَحَمَةٍ أمام جميع مَسبيهم.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "وجعَلَهم"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "لِرَحَمَة"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "لِرَحَمَة"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميع"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "مَسبيهم"
+    }
+  ],
+  "timestamp": "2026-08-07T06:05:56.005051938Z",
+  "model": "glm-5.2"
+}

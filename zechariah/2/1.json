@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فرفعتُ ⟨את⟩ عينيّ فرأيتُ، وإذا بأربع قرون.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "فرفعتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عينيّ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "عينيّ"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "فرأيتُ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا بـ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "أربع"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "قرون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:35:28.520339254Z",
+  "model": "glm-5.2"
+}

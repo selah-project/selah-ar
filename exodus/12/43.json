@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 12:43",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وقالَ يهوهُ لموشيه ولأهارون: «هذه فريضةُ الفِصحِ — كلُّ ابنِ نَكارٍ لا يأكلُ فيه».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقالَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوهُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ولأهارون"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "فريضةُ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "الفِصحِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنِ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "نَكارٍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يأكلُ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:04:32.568590328Z",
+  "model": "glm-5.2"
+}

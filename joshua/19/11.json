@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 19:11",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وصعد حدودهم نحو البحر ومرعلة، وبلغ دبّاشت، وبلغ النّهوء الذي على وجه يُقنِعام.",
+  "tokens": [
+    {
+      "surface": "ועלה",
+      "gloss": "وصعد"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "حدودهم"
+    },
+    {
+      "surface": "לימה",
+      "gloss": "نحو البحر"
+    },
+    {
+      "surface": "ומרעלה",
+      "gloss": "ومرعلة"
+    },
+    {
+      "surface": "ופגע",
+      "gloss": "وبلغ"
+    },
+    {
+      "surface": "בדבשת",
+      "gloss": "دبّاشت"
+    },
+    {
+      "surface": "ופגע",
+      "gloss": "وبلغ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "النّهوء"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "يُقنِعام"
+    }
+  ],
+  "timestamp": "2026-08-07T01:09:48.884094169Z",
+  "model": "glm-5.2"
+}

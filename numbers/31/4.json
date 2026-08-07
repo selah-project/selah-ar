@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "ألف للسبط، ألف للسبط، لكل أسباط يسرائيل تُرسلون للجند».",
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "للسبط"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "للسبط"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لكل"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "أسباط"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "تُرسلون"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "للجند"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:06.586414570Z",
+  "model": "glm-5.2"
+}

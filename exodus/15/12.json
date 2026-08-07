@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "مدَدتَ يمينك، ابتلعتهم الأرض.",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "مدَدتَ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "يمينك"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "ابتلعتهم"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T00:03:13.693297521Z",
+  "model": "glm-5.2"
+}

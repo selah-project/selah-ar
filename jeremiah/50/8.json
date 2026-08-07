@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 50:8",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "اهربوا من وسط بافِل، ومن أرض الكشديم اخرجوا، وكونوا كالتُيوس أمامَ القطيع.",
+  "tokens": [
+    {
+      "surface": "נדו",
+      "gloss": "اهربوا"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "من وسط"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافِل"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "ومن أرض"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "الكشديم"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "اخرجوا"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "وكونوا"
+    },
+    {
+      "surface": "כעתודים",
+      "gloss": "كالتُيوس"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمامَ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "القطيع"
+    }
+  ],
+  "timestamp": "2026-08-07T02:50:54.895627352Z",
+  "model": "glm-5.2"
+}

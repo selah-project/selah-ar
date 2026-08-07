@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "أمون ابنُه، يوشياهو ابنُه.",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "أمون"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنُه"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "يوشياهو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنُه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:22.978991052Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 24:18",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "خشيةَ أن يرى يهوه فيَسوءَ ⟨ذلك⟩ في عينيه، فيَردَّ غضبَه عنه.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "خشيةَ أن"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "يرى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "فيَسوءَ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "في عينيه"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "فيَردَّ"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "عنه"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "غضبَه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:57.478537589Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 129,
+  "translation": "كثيرًا ما ضيّقوني منذ نعومتي — لكنّهم ⟨لم⟩ يقدروا ⟨عليَّ⟩.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "كثيرًا"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "ضيّقوني"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "منذ نعومتي"
+    },
+    {
+      "surface": "גם",
+      "gloss": "لكنّهم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨لم⟩"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "يقدروا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨عليَّ⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T04:16:06.124200193Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 95,
+  "translation": "هلمّوا نُرنّم ليهوه، نهتفّ لصخرة خلاصِنا",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "هلمّوا"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "نُرنّم"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "نهتفّ"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "لصخرة"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "خلاصِنا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:39.366558803Z",
+  "model": "glm-5.2"
+}

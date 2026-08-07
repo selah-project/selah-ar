@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 26:18",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "كمُتَلَهْلِهٍ يُطلِق شَرَرًا وسهامًا وموتًا",
+  "tokens": [
+    {
+      "surface": "כמתלהלה",
+      "gloss": "كمُتَلَهْلِهٍ"
+    },
+    {
+      "surface": "הירה",
+      "gloss": "يُطلِق"
+    },
+    {
+      "surface": "זקים",
+      "gloss": "شَرَرًا"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "وسهامًا"
+    },
+    {
+      "surface": "ומות",
+      "gloss": "وموتًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:28.980380175Z",
+  "model": "glm-5.2"
+}

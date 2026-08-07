@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 6:1",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وقال يهوه لموشيه: «الآن ترى ما سأفعله بفرعون، لأنّه بيدٍ قويّةٍ يُطلقهم، وبيدٍ قويّةٍ يطردهم من أرضه».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ترى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "سأفعله"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "بفرعون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بيد"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "قويّة"
+    },
+    {
+      "surface": "ישלחם",
+      "gloss": "يُطلقهم"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "وبيد"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "قويّة"
+    },
+    {
+      "surface": "יגרשם",
+      "gloss": "يطردهم"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "من أرضه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:36:26.073391576Z",
+  "model": "glm-5.2"
+}

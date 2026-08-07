@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 21:27",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فأخذ أفراهام غنمًا وبقرًا وأعطاها لأڤيميلخ، فقطعا كلاهما بريتًا.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "فأخذ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "غنمًا"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "وبقرًا"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "وأعطاها"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "لأڤيميلخ"
+    },
+    {
+      "surface": "ויכרתו",
+      "gloss": "فقطعا"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "كلاهما"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريتًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:20.661992650Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "وأرسل يعقوف ملائكةً أمامه إلى عيسو أخيه، أرضَ صعير صحراءَ أدوم.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "وأرسل"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ملائكة"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمامه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "أخيه"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "أرضَ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "صعير"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "صحراء"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "أدوم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:23.181219821Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "و⟨قال⟩: «اذهب يا دانيئيل، لأنّ الكلمات مسدودة ومختومة إلى وقت النهاية».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و⟨قال⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اذهب"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "يا دانيئيل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "مسدودة"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "ومختومة"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "الكلمات"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "النهاية"
+    }
+  ],
+  "timestamp": "2026-08-07T05:00:08.926291948Z",
+  "model": "glm-5.2"
+}

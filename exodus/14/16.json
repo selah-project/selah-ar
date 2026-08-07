@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وأمّا أنت فارفع ⟨את⟩ عصاك ومدّ ⟨את⟩ يدك على البحر وشقّه، فيدخل بنو يسرائيل في وسط البحر على اليابسة.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "وأمّا أنت"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "ارفع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عصاك"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "عصاك"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "ومدّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يدك"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدك"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "وشقّه"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "فيدخل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "على اليابسة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:36:25.408321293Z",
+  "model": "glm-5.2"
+}

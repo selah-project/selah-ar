@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 23:18",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "ورفع مَثَلَه وقال: قُم يا بالاق واسمع، أَصغِ إليّ يا ابنَ صِفّور.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ورفع"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "مَثَلَه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "קום",
+      "gloss": "قُم"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "يا بالاق"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "واسمع"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "أَصغِ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "يا ابنَ"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "صِفّور"
+    }
+  ],
+  "timestamp": "2026-08-07T00:39:27.195111093Z",
+  "model": "glm-5.2"
+}

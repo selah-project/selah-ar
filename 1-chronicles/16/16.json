@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "الذي قطع ⟨את⟩ أفراهام، وقَسَمَهُ لِيِصحاق؛",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "قطع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أفراهام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "وقَسَمَهُ"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ليِصحاق"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:00.666955947Z",
+  "model": "glm-5.2"
+}

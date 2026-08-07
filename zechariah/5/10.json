@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "فقلتُ للملَكِ المكلِّمِ فيّ: إلى أينَ هنّ ذاهباتٌ بـ⟨את⟩ الإيفة؟",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "فقلتُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لِـ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "الملَكِ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "المكلِّمِ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "فيّ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "إلى أينَ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هنّ"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "ذاهباتٌ بـ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الإيفة"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "الإيفة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:35:05.112552030Z",
+  "model": "glm-5.2"
+}

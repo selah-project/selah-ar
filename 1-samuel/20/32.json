@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "فأجاب يهوناتانُ شاؤولَ أباه و⟨قال⟩ له: «لماذا يُقتل؟ ماذا فعل؟»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "فأجاب"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يهوناتانُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شاؤول"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤولَ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أباه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و⟨قال⟩"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "يُقتل"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:28:13.541666629Z",
+  "model": "glm-5.2"
+}

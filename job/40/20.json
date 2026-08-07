@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "لأنّ غلالَ الجبال تحملُها له، وكلُّ حيوانِ البرّ يلعبُ هناك.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "בול",
+      "gloss": "غلالَ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "الجبال"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "تحملُها"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلُّ"
+    },
+    {
+      "surface": "חית",
+      "gloss": "حيوانِ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "البرّ"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "يلعبُ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:44:15.465265808Z",
+  "model": "glm-5.2"
+}

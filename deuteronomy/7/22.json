@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 7:22",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "ونزع يهوه إلوهيمك ⟨את⟩ هذه الأمم من وجهك قليلًا قليلًا لا تستطيع أن تفنيهم سريعًا لئلّا تكثر عليك حيوان ⟨ال⟩بريّة",
+  "tokens": [
+    {
+      "surface": "ונשל",
+      "gloss": "ونزع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هذه الأمم"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "هذه الأمم"
+    },
+    {
+      "surface": "האל",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "من وجهك"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "قليلًا"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "قليلًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "تستطيع"
+    },
+    {
+      "surface": "כלתם",
+      "gloss": "أن تفنيهم"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "سريعًا"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلّا"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "تكثر"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "عليك"
+    },
+    {
+      "surface": "חית",
+      "gloss": "حيوان"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "البريّة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:53:23.992782350Z",
+  "model": "glm-5.2"
+}

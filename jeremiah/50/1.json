@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 50:1",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "الكلمة التي تكلّم بها يهوه على بافِل، على أرض الكَسْديم، بيد يرمياو النافي.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "الكلمة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم بها"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "على"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافِل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "على"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "الكَسْديم"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بيد"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرمياو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "النافي"
+    }
+  ],
+  "timestamp": "2026-08-07T02:51:19.850178024Z",
+  "model": "glm-5.2"
+}

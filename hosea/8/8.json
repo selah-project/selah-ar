@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 8:8",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "ابتُلع يسرايل؛ الآن صاروا في الأمم كإناءٍ لا رغبةَ فيه.",
+  "tokens": [
+    {
+      "surface": "נבלע",
+      "gloss": "ابتُلع"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "היו",
+      "gloss": "صاروا"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "في الأمم"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "كإناء"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "رغبة"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:22:09.335966332Z",
+  "model": "glm-5.2"
+}

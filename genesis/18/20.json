@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 18:20",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وقال يهوهُ: «صيحةُ سدوم وعموراه، لأنّها عظيمة، وخطيئتُهم لأنّها ثقُلت جدّا.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوهُ"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "صيحةُ"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدوم"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "وعموراه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّها"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "عظيمة"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "وخطيئتُهم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّها"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "ثقُلت"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدّا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:34:25.576022006Z",
+  "model": "glm-5.2"
+}

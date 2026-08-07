@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "و⟨את⟩ هادورام و⟨את⟩ أوزال و⟨את⟩ دِقله.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "هادورام"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "هادورام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أوزال"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "أوزال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "دِقله"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "دِقله"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:51.321383792Z",
+  "model": "glm-5.2"
+}

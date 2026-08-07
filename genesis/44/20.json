@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 44:20",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "فقلنا لسيّدنا: يوجد لنا أب شيخ وطفل شيخوخة صغير، وأخوه مات، وبقي هو وحده لأمّه، وأبوه أحبّه.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "وقلنا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سيّدنا"
+    },
+    {
+      "surface": "יש",
+      "gloss": "يوجد"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "אב",
+      "gloss": "أب"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "شيخ"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "وطفل"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "شيخوخة"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "صغير"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "وأخوه"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مات"
+    },
+    {
+      "surface": "ויותר",
+      "gloss": "وبقي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "وحده"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "لأمّه"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "وأبوه"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "أحبّه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:52:01.892764391Z",
+  "model": "glm-5.2"
+}

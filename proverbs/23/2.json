@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "وضَعْتَ سكّينًا في حلقك، إن كنتَ صاحبَ نَفْسٍ أنتَ.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "وضَعْتَ"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "سكّينًا"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "في حلقك"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "صاحبَ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْس"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:30.073720209Z",
+  "model": "glm-5.2"
+}

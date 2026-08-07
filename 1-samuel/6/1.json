@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "و⟨كان⟩ تابوت يهوه في حقل فلِشتيّم سبعة أشهر.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "في حقل"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلِشتيّم"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سبعة"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "أشهر"
+    }
+  ],
+  "timestamp": "2026-08-07T01:22:49.696151210Z",
+  "model": "glm-5.2"
+}

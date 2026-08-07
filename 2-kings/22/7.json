@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "لكن لا يُحاسَب معهم الفضّة المُعطاة على أيديهم، لأنَّهم بإمِت يعملون.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "لكن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "يُحاسَب"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "معهم"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "الفضّة"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "المُعطاة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "أيديهم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "بإمِت"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "يعملون"
+    }
+  ],
+  "timestamp": "2026-08-07T02:01:20.372099884Z",
+  "model": "glm-5.2"
+}

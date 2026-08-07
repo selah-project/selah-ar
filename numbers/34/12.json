@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 34:12",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "وانحدر التخم الأردنّ، و⟨كانت⟩ مخارجه بحر الملح. هذه تكون لكم الأرض بتخومها مُحيطةً.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "وانحدر"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "التخم"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "الأردنّ"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "وكانت"
+    },
+    {
+      "surface": "תוצאתיו",
+      "gloss": "مخارجه"
+    },
+    {
+      "surface": "ים",
+      "gloss": "بحر"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "الملح"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "לגבלתיה",
+      "gloss": "بتخومها"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "مُحيطة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:45:03.847669323Z",
+  "model": "glm-5.2"
+}

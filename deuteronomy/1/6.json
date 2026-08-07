@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "«يهوه إلوهينا كلّمنا في حوريف، قائلاً: كفاكم ⟨أن⟩ تمكثوا في هذا الجبل!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلوهينا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلّمنا"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "إلينا"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "في حوريف"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "רב",
+      "gloss": "كفاكم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "مكث"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "في الجبل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:48:05.765573887Z",
+  "model": "glm-5.2"
+}

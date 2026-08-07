@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 20:2",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "«كلِّم بني إسرائيل قائلًا: أعطوا لأنفسكم ⟨את⟩ مدن الملجأ التي تكلَّمتُ بها إليكم بيد موشيه:",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "كلِّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "أعطوا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مدن الملجأ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "الملجأ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "تكلَّمتُ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "بها إليكم"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بيد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:11:09.844231303Z",
+  "model": "glm-5.2"
+}

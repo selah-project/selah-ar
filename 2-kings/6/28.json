@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وقال لها الملك: «ما لكِ؟» فقالت: «هذه المرأة قالت لي: أعطي ⟨את⟩ ابنكِ فنأكله اليوم، و⟨את⟩ ابني نأكل غدًا.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكِ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "المرأة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "قالت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "תני",
+      "gloss": "أعطي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابنكِ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ابنكِ"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "فنأكله"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "ابني"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ابني"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "نأكل"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "غدًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:54:14.542812450Z",
+  "model": "glm-5.2"
+}

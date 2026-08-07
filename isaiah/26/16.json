@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "يهوه، في الضيق التمسوك؛ صبّوا ⟨إليك⟩ همسًا، تأديبُك عليهم.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "في الضيق"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "التمسوك"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "صبّوا"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "همسًا"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "تأديبُك"
+    },
+    {
+      "surface": "למו",
+      "gloss": "عليهم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:11:36.129675842Z",
+  "model": "glm-5.2"
+}

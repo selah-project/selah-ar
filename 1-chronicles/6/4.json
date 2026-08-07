@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 6:4",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "بَنو مراري: مَحْلي وموشي. وهذه ⟨هي⟩ مِشپاخوت اللاويين ⟨مُقَسَّمةً⟩ לآبائهم.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بَنو"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراري"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "مَحْلي"
+    },
+    {
+      "surface": "ומשי",
+      "gloss": "وموشي"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "وهذه"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "مِشپاخوت"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "اللاويين"
+    },
+    {
+      "surface": "לאבותיהם",
+      "gloss": "لآبائهم"
+    }
+  ],
+  "timestamp": "2026-08-07T08:25:16.554987056Z",
+  "model": "glm-5.2"
+}

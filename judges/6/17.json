@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 6:17",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فقال له: «إنْ نَعَمْ وَجَدتُّ حِظوةً في عينيك، فاصنع لي آيةً أنّك أنت تتكلّم معي.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إنْ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "نَعَمْ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "وجدتُّ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "حِظوةً"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "في عينيك"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "فاصنع"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "אות",
+      "gloss": "آيةً"
+    },
+    {
+      "surface": "שאתה",
+      "gloss": "أنّك أنت"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "تتكلّم"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "معي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:14:35.356239451Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 9:28",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "ومنهم على أمتعة الخدمة، لأنَّهم بالعدّ يُدخلونها وبالعدّ يُخرجونها",
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "ومنهم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "أمتعة"
+    },
+    {
+      "surface": "העבודה",
+      "gloss": "الخدمة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّهم"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "بالعدّ"
+    },
+    {
+      "surface": "יביאום",
+      "gloss": "يُدخلونها"
+    },
+    {
+      "surface": "ובמספר",
+      "gloss": "وبالعدّ"
+    },
+    {
+      "surface": "יוציאום",
+      "gloss": "يُخرجونها"
+    }
+  ],
+  "timestamp": "2026-08-07T05:13:58.885345174Z",
+  "model": "glm-5.2"
+}

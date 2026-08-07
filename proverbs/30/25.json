@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "النملُ شعبٌ ليس عزيزًا، ⟨ف⟩أعدّوا في الصيف طعامَهم",
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "النمل"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "עז",
+      "gloss": "عزيز"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "وأعدّوا"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "في الصيف"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "طعامهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:20.148608359Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 54,
+  "translation": "هوذا إن غازيًا يغير جزافًا ⟨من⟩ دوني: من ذا يجاور ⟨את⟩كِ؟ عليكِ يسقط.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "גור",
+      "gloss": "غازيًا"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "يغير"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "جزافًا"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨من⟩ دوني"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من ذا"
+    },
+    {
+      "surface": "גר",
+      "gloss": "يجاور"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩كِ",
+      "marks": "ضمير المتكلم المخاطب"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "عليكِ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "يسقط"
+    }
+  ],
+  "timestamp": "2026-08-07T02:21:38.205085784Z",
+  "model": "glm-5.2"
+}

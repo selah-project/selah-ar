@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 46,
+  "translation": "نَهرٌ، قنواتُه تُفْرِح مدينةَ إلوهيم، مقدسُ مَساكِن عِليون.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "نَهر"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "قنواتُه"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "تُفْرِح"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "مَساكِن"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عِليون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:52.623684269Z",
+  "model": "glm-5.2"
+}

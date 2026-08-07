@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "و⟨حبلت⟩ المرأة و⟨ولدت⟩ ابنًا، و⟨رأت⟩ ⟨את⟩ه لأنّه طيّب، و⟨أخفته⟩ ثلاثة أشهر.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "و⟨حبلت⟩"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "المرأة"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "و⟨ولدت⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنًا"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "و⟨رأت⟩"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "هو (المولود)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيّب"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "و⟨أخفته⟩"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ثلاثة"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "أشهُر"
+    }
+  ],
+  "timestamp": "2026-08-07T07:00:54.866736823Z",
+  "model": "glm-5.2"
+}

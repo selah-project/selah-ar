@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 36:21",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "وديشون وآتسر وديشان. هؤلاء ألوف الحوريّين، بَنو سعير، في أرض أدوم.",
+  "tokens": [
+    {
+      "surface": "ודשון",
+      "gloss": "وديشون"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "وآتسر"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "وديشان"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "ألوف"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "الحوريّين"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنو"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سعير"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "أدوم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:35:14.504015454Z",
+  "model": "glm-5.2"
+}

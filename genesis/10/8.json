@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وكوشُ ولد ⟨את⟩ نمرودَ؛ هو ابتدأ أن يكونَ جبّارًا في الأرض.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "وكوش"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ولد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نمرود"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "نمرود"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ابتدأ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "أن يكون"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "جبّار"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:15.934357262Z",
+  "model": "glm-5.2"
+}

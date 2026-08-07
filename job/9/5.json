@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 9:5",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "الّذي يُزيل الجبال ولا تعرف، الذي يقلبها في غضبه",
+  "tokens": [
+    {
+      "surface": "המעתיק",
+      "gloss": "الّذي يُزيل"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "الجبال"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "تعرف"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الّذي"
+    },
+    {
+      "surface": "הפכם",
+      "gloss": "يقلبها"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "في غضبه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:29.989374705Z",
+  "model": "glm-5.2"
+}

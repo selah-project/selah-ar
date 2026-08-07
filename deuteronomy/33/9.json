@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "القائل لأبيه ولأُمّه: لم أَرَه، و⟨את⟩ إخوته لم يعرفهم، و⟨את⟩ بنيه لم يعرف؛ لأنّهم حفظوا كلمتك وبريتك يحرُسون.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "القائل"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "لأبيه"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ولأُمّه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "رأيته"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "إخوته"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "إخوته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "عرف"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بنيه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بنيه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "يعرف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "حفظوا"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "كلمتك"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "وبريتك"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "يحرُسون"
+    }
+  ],
+  "timestamp": "2026-08-07T01:01:38.823525105Z",
+  "model": "glm-5.2"
+}

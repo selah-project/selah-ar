@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 14:27",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "لأنَّ يهوهَ صباؤوتَ قد شبر، فمَن يُبطل؟ ويدهُ الممدودةُ، فمَن يردُّها؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوهَ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤوتَ"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "قد شبر"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "فمَن"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "يُبطل؟"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "ويدهُ"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "الممدودةُ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "فمَن"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "يردُّها؟"
+    }
+  ],
+  "timestamp": "2026-08-07T02:07:42.648062433Z",
+  "model": "glm-5.2"
+}

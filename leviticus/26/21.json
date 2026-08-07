@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 26:21",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "وإن سلكتم معي قَريًا ولم توافقوا على الإصغاء إليّ، أزِدْ عليكم ضربةً سبعًا كخطاياكم.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "سلكتم"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "معي"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "قَريًا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "תאבו",
+      "gloss": "توافقوا"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "على الإصغاء"
+    },
+    {
+      "surface": "לי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "أزِدْ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "عليكم"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ضربةً"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبعًا"
+    },
+    {
+      "surface": "כחטאתיכם",
+      "gloss": "كخطاياكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:18.966994486Z",
+  "model": "glm-5.2"
+}

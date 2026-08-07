@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "فحبلت وولدت ابنًا، و⟨هو⟩ دعا ⟨את⟩ اسمَه عير.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "فحبلت"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "وولدت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنًا"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و⟨هو⟩ دعا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسمَه"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمَه"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عير"
+    }
+  ],
+  "timestamp": "2026-08-07T05:35:12.459384405Z",
+  "model": "glm-5.2"
+}

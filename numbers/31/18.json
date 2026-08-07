@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 31:18",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "وكل طفل من النساء اللواتي لم يعرفن مضجع ذكر اتركوها حيّة لكم.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "الطفل"
+    },
+    {
+      "surface": "בנשים",
+      "gloss": "من النساء"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اللواتي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "يعرفن"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "مضجع"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ذكر"
+    },
+    {
+      "surface": "החיו",
+      "gloss": "اتركوها حيّة"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:47.208717339Z",
+  "model": "glm-5.2"
+}

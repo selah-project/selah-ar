@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 41:4",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "وقاس ⟨את⟩ طولِه عشرين ذراعًا، وعرضًا عشرين ذراعًا تجاه وجه الهيكل. وقال لي: هذا قدسُ الأقداس",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "وقاس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "طولِه"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "طولِه"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "عشرين"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ذراعًا"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "وعرضًا"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "عشرين"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ذراعًا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تجاه"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "الهيكل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدسُ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "الأقداس"
+    }
+  ],
+  "timestamp": "2026-08-07T03:16:00.209414209Z",
+  "model": "glm-5.2"
+}

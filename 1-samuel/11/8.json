@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "فعَدَّهم في فيزَق، فكان بنو يسرايل ثلاثَ مئة ألف، ورجال يهودا ثلاثين ألفًا.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "فعَدَّهم"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "في فيزَق"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "فكان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ثلاث"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ورجال"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ثلاثين"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:24:20.700792952Z",
+  "model": "glm-5.2"
+}

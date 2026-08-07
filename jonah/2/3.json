@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "و⟨قال⟩: ناديتُ من ضيقي إلى يهوه ف⟨استجاب⟩ لي، من جوف شيول صرختُ، سمعتَ صوتي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و⟨قال⟩"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ناديتُ"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "من ضيقي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "ف⟨استجاب⟩ لي"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "من جوف"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شيول"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "صرختُ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "سمعتَ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "صوتي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:28:23.985129874Z",
+  "model": "glm-5.2"
+}

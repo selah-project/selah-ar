@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "حِسِد يهوه أنّنا لم نَفْنَ، لأنّ مراحمه لم تَنْتَهِ.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "حِسِد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "نَفْنَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "تَنْتَهِ"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "مراحمه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:48:59.943804857Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "إن بجسده يدخل، بجسده يخرج؛ إن كان صاحب امرأة ⟨هو⟩، فتخرج امرأته معه.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "بجسده"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "يدخل"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "بجسده"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "يخرج"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "صاحب"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "فتخرج"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "امرأته"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:51.360534091Z",
+  "model": "glm-5.2"
+}

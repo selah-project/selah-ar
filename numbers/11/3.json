@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "ودعا اسمَ ذلك المكانِ تَبْعيرَة، لأنّ نار يهوه اشتعلت فيهم.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسمَ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "المكانِ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "تَبْعيرَة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "اشتعلت"
+    },
+    {
+      "surface": "בם",
+      "gloss": "فيهم"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:32:05.898882242Z",
+  "model": "glm-5.2"
+}

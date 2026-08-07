@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "ولا يُدنِّسزرعه في شعبه، لأنّي أنا يهوه مُقدِّسه.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "يُدنِّس"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "زرعه"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "في شعبه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "مُقدِّسه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:25.514598841Z",
+  "model": "glm-5.2"
+}

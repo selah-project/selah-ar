@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 9:9",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "صانعُ עَشّ ⟨و⟩كسيلا ⟨و⟩كيماه ⟨و⟩خُدُراتِ تيمان",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "صانعُ"
+    },
+    {
+      "surface": "עש",
+      "gloss": "عَشّ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "كسيلا"
+    },
+    {
+      "surface": "וכימה",
+      "gloss": "⟨و⟩كيماه"
+    },
+    {
+      "surface": "וחדרי",
+      "gloss": "⟨و⟩خُدُراتِ"
+    },
+    {
+      "surface": "תמן",
+      "gloss": "تيمان"
+    }
+  ],
+  "timestamp": "2026-08-07T08:37:27.289447474Z",
+  "model": "glm-5.2"
+}

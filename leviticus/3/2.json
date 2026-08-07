@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 3:2",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "ويَضَعُ يَدَه على رأس قُربانه ويذبحه عند باب خيمة الموعد، ورَشَّ بنو أهارون الكهنة ⟨את⟩ الدَّم على المذبح حَوالَيه.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ويضع"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأس"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "قربانه"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "ويذبحه"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "باب"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ورشّ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكهنة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الدم"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "الدم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "حَوالَيه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:48.321497557Z",
+  "model": "glm-5.2"
+}

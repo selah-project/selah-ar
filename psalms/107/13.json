@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 107,
+  "translation": "فصرخوا إلى يهوه في ضيقهم، ومن مضايقاتهم خلّصهم.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "فصرخوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "في ضيقهم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨لهم⟩"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "ومن مضايقاتهم"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "خلّصهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:36.876741398Z",
+  "model": "glm-5.2"
+}

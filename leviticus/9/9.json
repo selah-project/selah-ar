@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 9:9",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وقدّم بنو أهارون ⟨את⟩ الدم إليه، فغمس إصبعه في الدم وجعل ⟨منه⟩ على قرون المذبح، و⟨أمّا⟩ ⟨את⟩ الدم فسفكه إلى أساس المذبح.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "وقدّم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الدم"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "الدم"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "فغمس"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "إصبعه"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "في الدم"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "وجعل"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "قرون"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الدم"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "الدم"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "فسفكه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "أساس"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:53.611128620Z",
+  "model": "glm-5.2"
+}

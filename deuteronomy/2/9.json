@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 2:9",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وقال يهوه لي: لا تُضايق ⟨את⟩ موآب، ولا تستفزّهم حربًا، لأنّي لا أعطيك من أرضه مُلكًا، لأنّي لبني لوط أعطيت ⟨את⟩ عير مُلكًا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "تُضايق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موآب"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תתגר",
+      "gloss": "تستفزّ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "حربًا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "أعطيك"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ك"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "من أرضه"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "مُلكًا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لبني"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوط"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "أعطيت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عير"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عير"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "مُلكًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:44.670389906Z",
+  "model": "glm-5.2"
+}

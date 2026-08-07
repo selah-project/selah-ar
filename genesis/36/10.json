@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "هٰذِهِ أَسْمَاءُ بَنِي عِيسُو: أَلِيفَازُ بْنُ عَدَةَ امْرَأَةِ عِيسُو، رَعُوئِيلُ بْنُ بَشْمَةَ امْرَأَةِ عِيسُو.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "أسماء"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "أليفاز"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عدة"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رعوئيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بشمة"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:33.562157163Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 60,
+  "translation": "في كَسْبِهِ ⟨את⟩ أرام نهرايم و⟨את⟩ أرام صوبه، ورجع يوآب وضرب ⟨את⟩ أدوم في وادي الملح: اثنا عشر ألفًا",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "في كَسْبِهِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أرام نهرايم"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "أرام"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "نهرايم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أرام صوبه"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "أرام"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "صوبه"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ورجع"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "وضرب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أدوم"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "أدوم"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "في وادي"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "الملح"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "اثنا"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:24.024210371Z",
+  "model": "glm-5.2"
+}

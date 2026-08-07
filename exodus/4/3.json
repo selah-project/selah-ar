@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فقال: «اطرحه أرضًا»، فطرحه أرضًا، فصار لحّاءً، فهرب موشيه من أمامه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "اطرحه"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "أرضًا"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "فطرحه"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "أرضًا"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "فصار"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "لحّاءً"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "فهرب"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "من أمامه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:25.959548083Z",
+  "model": "glm-5.2"
+}

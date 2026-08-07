@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "فبنى ياروڤعام ⟨את⟩ شكيم في جبل أفرايم وسكن فيها، وخرج من هناك وبنى ⟨את⟩ پنوئيل.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "فبنى"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ياروڤعام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شكيم"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شكيم"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "في جبل"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "أفرايم"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "وسكن"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "משם",
+      "gloss": "من هناك"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "وبنى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنوئيل"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "پنوئيل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:48:59.159793018Z",
+  "model": "glm-5.2"
+}

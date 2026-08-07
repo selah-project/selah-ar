@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "والآن، اذهبْ، فأرسلك إلى فرعون، وأخرج ⟨את⟩ شعبي بني يسرائيل من مصرايم.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "اذهب"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "فأرسلك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "وأخرج"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شعبي"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "شعبي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "من مصرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:33.778784696Z",
+  "model": "glm-5.2"
+}

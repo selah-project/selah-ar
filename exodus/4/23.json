@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وقلتُ لك: «أطلق ⟨את⟩ ابني ليعبدني»، فأبيتَ إطلاقه؛ فهأنذا قاتل ⟨את⟩ ابنك بكورك.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "وقلتُ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "أطلق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابني"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ابني"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ليعبدني"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "فأبيتَ"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "إطلاقه"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "فهأنذا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "قاتل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابنك"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ابنك"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "بكورك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:20.629201011Z",
+  "model": "glm-5.2"
+}

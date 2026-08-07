@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فدفع يهوه إلوهيمونا ⟨إلى⟩ أيدينا أيضاً ⟨את⟩ عوج ملك الباشان و⟨את⟩ كلّ شعبه، فضربناه حتى لم يُبقَ ⟨له⟩ ناجٍ.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "فدفع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلوهيمونا"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "⟨إلى⟩ أيدينا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضاً"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عوج"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "عوج"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "الباشان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبه"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "فضربناه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "لم"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "يُبقَ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨له⟩"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "ناجٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:48:29.159213740Z",
+  "model": "glm-5.2"
+}

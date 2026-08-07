@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "ونَحشون ولَد ⟨את⟩ سَلْمَا، وسَلْمَا ولَد ⟨את⟩ بُوعَز.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "ونَحشون"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سَلْمَا"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "سَلْمَا"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "وسَلْمَا"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بُوعَز"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "بُوعَز"
+    }
+  ],
+  "timestamp": "2026-08-07T05:09:58.668052180Z",
+  "model": "glm-5.2"
+}

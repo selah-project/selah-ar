@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 32:5",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "فرأى إيليهو أنه ليس جوابٌ في فم الرجال الثلاثة، فحمي غضبُه.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "فرأى"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "إيليهو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "جواب"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "في فم"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "الثلاثة"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "الرجال"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "فحمي"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "غضبُه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:41:01.348675906Z",
+  "model": "glm-5.2"
+}

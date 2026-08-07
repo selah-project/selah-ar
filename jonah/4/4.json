@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فقال يهوه: «أَحَسَنَ في غيظك؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "أَحَسَنَ"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "في غيظك"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨لك⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T03:28:31.769955506Z",
+  "model": "glm-5.2"
+}

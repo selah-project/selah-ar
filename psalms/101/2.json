@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 101,
+  "translation": "أُفطِنُ في طريقٍ تامّ. متى تأتي إليّ؟ أَسلوكُ بِكَمالِ قلبي في وسطِ بيتي.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "أُفطِنُ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "في طريقٍ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "تامّ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "متى"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "تأتي"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "أَسلوكُ"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "بِكَمالٍ"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "في وسطِ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "بيتي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:06:05.438713183Z",
+  "model": "glm-5.2"
+}

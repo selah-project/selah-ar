@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "فيُقدّر الكوهين ⟨את⟩ها، بين طيّب وبين شرّ؛ كتقديرك أنت أيّها الكوهين يكون.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "فيُقدّر"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاها"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيّب"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شرّ"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "كتقديرك"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "أيّها الكوهين"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:44.263048727Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 4:6",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فأجاب وقال لي قائلًا: هذا كلام يهوه إلى زَرُبّابِل قائلًا: لا بجيشٍ ولا بقوّةٍ، بل بروَحي، قال يهوه صَباوت.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "فأجاب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "زَرُبّابِل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "بجيشٍ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "بقوّةٍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨إلّا⟩"
+    },
+    {
+      "surface": "ברוחי",
+      "gloss": "بروَحي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صَباوت"
+    }
+  ],
+  "timestamp": "2026-08-07T03:35:49.616724474Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "حياةُ الأجسادِ قلبٌ شافٍ، وعفونةُ العظامِ الغيرة.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "حياة"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "الأجساد"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "شافٍ"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "وعفونة"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "العظام"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "الغيرة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:51.769782644Z",
+  "model": "glm-5.2"
+}

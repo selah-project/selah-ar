@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 7:15",
+  "book": "amos",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وأخذني يهوه من وراء الضأن، وقال لي يهوه: اذهبْ تنبّأ لشعبي إسرايل.",
+  "tokens": [
+    {
+      "surface": "ויקחני",
+      "gloss": "وأخذني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "من وراء"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "الضأن"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اذهبْ"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "تنبّأ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "شعبي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:26:29.408869791Z",
+  "model": "glm-5.2"
+}

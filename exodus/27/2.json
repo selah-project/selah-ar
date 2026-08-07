@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 27:2",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وتصنع قرونه على زواياه الأربع، منه تكون قرونه، وتُصفّح ⟨את⟩ه نحاسًا.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "وتصنع"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "قرونه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "أربع"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "زواياه"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "قرونه"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "وتُصفّح"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "هو (المذبح)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "نحاسًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:10:51.514246035Z",
+  "model": "glm-5.2"
+}

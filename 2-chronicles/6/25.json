@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 6:25",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وأنت تسمع من السماوات وتصفح عن خطية شعبك يسرايل، وتُرجِعهم إلى الأرض التي أعطيتها لهم ولآبائهم",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "وأنت"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "تسمع"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "وتصفح"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "عن خطية"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "شعبك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "והשיבותם",
+      "gloss": "وتُرجِعهم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "أعطيتها"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "ולאבתיהם",
+      "gloss": "ولآبائهم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:21:59.772092569Z",
+  "model": "glm-5.2"
+}

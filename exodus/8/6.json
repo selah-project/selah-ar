@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "فقال: «للغد». وقال: «كقولك، لكي تعرف أن ليس مثل يهوه إلوهيم⟨نو⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "للغد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "كقولك"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "تعرف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "مثل يهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلوهيم⟨نو⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:05.307404348Z",
+  "model": "glm-5.2"
+}

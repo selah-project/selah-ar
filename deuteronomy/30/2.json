@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 30:2",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "ورجعتَ إلى يهوه إلوهيمك وسمعتَ صوته حسب كلّ ما أنا أوصيك به اليوم، أنت وبنوك، بكلّ قلبك وبكلّ نفسك،",
+  "tokens": [
+    {
+      "surface": "ושבת",
+      "gloss": "ورجعتَ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "وسمعتَ"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "صوته"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "حسب كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "أوصيك"
+    },
+    {
+      "surface": "היום",
+      "gloss": "به اليوم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "وبنوك"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بكلّ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "قلبك"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "وبكلّ"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "نفسك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:51.363466577Z",
+  "model": "glm-5.2"
+}

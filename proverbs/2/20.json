@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 2:20",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "لكي تسلك في طريق الأطيباء، وسُبُل الصِّدِّيقين تحفظ.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "تسلك"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "في طريق"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "الأطيباء"
+    },
+    {
+      "surface": "וארחות",
+      "gloss": "وسُبُل"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "الصِّدِّيقين"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "تحفظ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:21:24.934854690Z",
+  "model": "glm-5.2"
+}

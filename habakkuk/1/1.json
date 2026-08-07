@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "«المَحْمِل الذي رآه حَبَقّوق النّافي».",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "المَحْمِل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "رآه"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "حَبَقّوق"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "النّافي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:32:02.917161870Z",
+  "model": "glm-5.2"
+}

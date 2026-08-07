@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 4:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فقال يهوه له: «لذلك كلُّ قاتلِ قايين — يُنتقَم منه سبعة أضعاف». وجعل يهوه لقايين علامةً لئلّا يضربه كلُّ من يجده.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "قاتلِ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قايين"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "سبعة أضعاف"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "يُنتقَم"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "وجعل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "لقايين"
+    },
+    {
+      "surface": "אות",
+      "gloss": "علامةً"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "لئلّا"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "يضربه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "من يجده"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:00.435630522Z",
+  "model": "glm-5.2"
+}

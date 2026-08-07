@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 7:14",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "بنو منشّه: أشريئيل الذي ولدت⟨ه⟩ سرّيته الأراميّة — ⟨هي⟩ ولدت ⟨את⟩ ماكير أبي جلعاد.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشّه"
+    },
+    {
+      "surface": "אשריאל",
+      "gloss": "أشريئيل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ولدت"
+    },
+    {
+      "surface": "פילגשו",
+      "gloss": "سرّيته"
+    },
+    {
+      "surface": "הארמיה",
+      "gloss": "الأراميّة"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ولدت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماكير"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ماكير"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "جلعاد"
+    }
+  ],
+  "timestamp": "2026-08-07T05:12:34.513797639Z",
+  "model": "glm-5.2"
+}

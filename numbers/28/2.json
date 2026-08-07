@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 28:2",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "صُمْ بَني يسرايل وقلتَ لهم: قُرباني طعامي لإيشاي رائحة رِضاي تحرُسون لتقريبِها لي في موعدها.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "صُمْ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بَني"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "وقلتَ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قُرباني"
+    },
+    {
+      "surface": "קרבני",
+      "gloss": "قُرباني"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "طعامي"
+    },
+    {
+      "surface": "לאשי",
+      "gloss": "لإيشاي"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "رائحة"
+    },
+    {
+      "surface": "ניחחי",
+      "gloss": "رضاي"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "تحرُسون"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "لتقريب"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "في موعدها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:08.589758748Z",
+  "model": "glm-5.2"
+}

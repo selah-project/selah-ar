@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 64:11",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 64,
+  "translation": "هل على هذه ⟨تتمالك⟩ يهوه، ⟨تسكُت⟩ وتُذلّنا جدًّا؟",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "هل على"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "תתאפק",
+      "gloss": "⟨تتمالك⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "⟨تسكُت⟩"
+    },
+    {
+      "surface": "ותעננו",
+      "gloss": "وتُذلّنا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جِدًّا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:26:38.912600392Z",
+  "model": "glm-5.2"
+}

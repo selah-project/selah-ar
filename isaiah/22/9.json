@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "و⟨את⟩ ثُغور مدينة داود رأيتم لأنها كَثُرَت، فجمعتم ⟨את⟩ مياه البركة السفلى.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "ثغور"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "ثغور"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "رأيتم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنها"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "كَثُرَت"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "فجمعتم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مياه"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مياه"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "البركة"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "السفلى"
+    }
+  ],
+  "timestamp": "2026-08-07T02:09:57.747295226Z",
+  "model": "glm-5.2"
+}

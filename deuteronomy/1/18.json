@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وأوصيتُكم في الوقتِ ذلك بِ⟨את⟩ كلِّ الأمورِ التي تفعلونها.",
+  "tokens": [
+    {
+      "surface": "וָאֲצַוֶּ֥ה",
+      "gloss": "وأوصيتُ"
+    },
+    {
+      "surface": "אֶתְכֶ֖ם",
+      "gloss": "إيّاكم"
+    },
+    {
+      "surface": "בָּעֵ֣ת",
+      "gloss": "في الوقت"
+    },
+    {
+      "surface": "הַהִ֑וא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "אֵ֥ת",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ الأمور"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הַדְּבָרִ֖ים",
+      "gloss": "الأمور"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "תַּעֲשֽׂוּן",
+      "gloss": "تفعلونها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:53.565839744Z",
+  "model": "glm-5.2"
+}

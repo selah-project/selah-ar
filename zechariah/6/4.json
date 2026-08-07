@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فأجبتُ وقلتُ للملاك المُتكلِّم بي: ما هذه يا سيّدي؟",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "فأجبتُ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "وقلتُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "الملاك"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "المُتكلِّم"
+    },
+    {
+      "surface": "בי",
+      "gloss": "بي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "يا سيّدي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:36:01.273717030Z",
+  "model": "glm-5.2"
+}

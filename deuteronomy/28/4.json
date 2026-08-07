@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "«مباركٌ ثمر بطنك وثمر أرضك وثمر بهمتك، صغار بقرك وعشاريت غنمك»،",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "مباركٌ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ثمر"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "بطنك"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "وثمر"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "أرضك"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "وثمر"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "بهمتك"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "صغار"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "بقرك"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "وعشاريت"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "غنمك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:15.146025713Z",
+  "model": "glm-5.2"
+}

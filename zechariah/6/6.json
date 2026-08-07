@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 6:6",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "التي فيها الخيل السود يخرجن إلى أرض صافون، والبيض خرجن وراءهن، والمنمّشة خرجن إلى أرض التيمان.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "الخيل"
+    },
+    {
+      "surface": "השחרים",
+      "gloss": "السود"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "يخرجن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "صافون"
+    },
+    {
+      "surface": "והלבנים",
+      "gloss": "والبيض"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "خرجن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "وراءهن"
+    },
+    {
+      "surface": "והברדים",
+      "gloss": "والمنمّشة"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "خرجن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "התימן",
+      "gloss": "التيمان"
+    }
+  ],
+  "timestamp": "2026-08-07T03:35:25.935244736Z",
+  "model": "glm-5.2"
+}

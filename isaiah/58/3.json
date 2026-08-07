@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 58:3",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 58,
+  "translation": "لماذا صُمنا فلم ترَ، أذللنا أنفسنا فلم تعرف؟ ها في يوم صومكم تجدون شهوةً وكلّ عمالكم تسوقونهم",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "צמנו",
+      "gloss": "صُمنا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ترَ"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "أذللنا"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "أنفسنا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "تعرف"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ها"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "צמכם",
+      "gloss": "صومكم"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "تجدون"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "شهوةً"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "עצביכם",
+      "gloss": "عمالكم"
+    },
+    {
+      "surface": "תנגשו",
+      "gloss": "تسوقونهم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:24:13.669368766Z",
+  "model": "glm-5.2"
+}

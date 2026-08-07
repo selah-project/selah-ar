@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وينزع ⟨את⟩ ثيابه ويلبس ثيابًا أخرى، ويُخرج ⟨את⟩ الرماد إلى خارج المحلّة إلى مكان طاهر.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "وينزع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ثيابه"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ثيابه"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "ويلبس"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ثيابًا"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "أخرى"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "ويُخرج"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الرماد"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "الرماد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "خارج"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "المحلّة"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "مكان"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "طاهر"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:06.043721637Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 132,
+  "translation": "إنْ أدخل خيمة بيتي، إنْ أصعد على سرير مَضجَعي،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إنْ"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "أدخل"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "بيتي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إنْ"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "أصعد"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "سرير"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "مَضجَعي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:16:03.771840662Z",
+  "model": "glm-5.2"
+}

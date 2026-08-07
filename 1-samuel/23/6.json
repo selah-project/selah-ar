@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 23:6",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "و⟨كان⟩ عند هروب أبياتار بن أخيميلك إلى داود قَعيلاه، أن الأفود نزل في يده.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "בברח",
+      "gloss": "عند هروب"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "أبياتار"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "أخيميلك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "قَعيلاه"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "الأفود"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "نزل"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "في يده"
+    }
+  ],
+  "timestamp": "2026-08-07T01:28:31.597872233Z",
+  "model": "glm-5.2"
+}

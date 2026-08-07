@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وادخُلي إلى الملكِ وتُكلِّميه كهذا الكلام». ووضعَ يوآب ⟨את⟩ الكلماتِ في فمها.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "وادخُلي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملكِ"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "وتُكلِّميه"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ك"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ووضعَ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الكلماتِ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "الكلماتِ"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "في فمها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:35:39.134047338Z",
+  "model": "glm-5.2"
+}

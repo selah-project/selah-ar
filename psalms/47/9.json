@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 47,
+  "translation": "ملَكَ إلوهيمُ على الأمم، إلوهيمُ جلسَ على كرسيِ قُدسِهِ.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ملَكَ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "جلسَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "كرسيِ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "قُدسِهِ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:30.588953423Z",
+  "model": "glm-5.2"
+}

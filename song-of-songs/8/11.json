@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 8:11",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "كرمٌ ⟨كان⟩ لشلوموه في بعَل هامون؛ أعطى ⟨את⟩ الكرم للنوطرين — كلّ واحدٍ يأتي بثمره ألفًا فضّة.",
+  "tokens": [
+    {
+      "surface": "כרם",
+      "gloss": "كرم"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "لشلوموه"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "في بعَل"
+    },
+    {
+      "surface": "המון",
+      "gloss": "هامون"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الكرم"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "الكرم"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "للنوطرين"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "يأتي"
+    },
+    {
+      "surface": "בפריו",
+      "gloss": "بثمره"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:47:19.045051070Z",
+  "model": "glm-5.2"
+}

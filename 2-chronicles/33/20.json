@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 33:20",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "ورقد منشّيه مع آبائه ودفنوه في بيته، وملك آمون ابنه عوضًا عنه.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ورقد"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشّيه"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "آبائه"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ودفنوه"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "في بيته"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "وملك"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "آمون"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "عوضًا عنه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:30:50.537180219Z",
+  "model": "glm-5.2"
+}

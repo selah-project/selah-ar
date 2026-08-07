@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "اسمع، يا يهوه، صوتي، أدعو فتَحِنَّ ⟨عليّ⟩ وأجِبني.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "اسمع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "صوتي"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "أدعو"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "فتَحِنَّ"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "وأجِبني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:31.228553200Z",
+  "model": "glm-5.2"
+}

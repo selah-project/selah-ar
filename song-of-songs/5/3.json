@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "خلعتُ ⟨את⟩ قميصي، كيفَ ألبسُه؟ غسلتُ ⟨את⟩ رِجليَّ، كيفَ أُوسّخُهما؟",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "خلعتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قميصي"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "قميصي"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "كيفَ"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "ألبسُه"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "غسلتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رِجليَّ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "رِجليَّ"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "كيفَ"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "أُوسّخُهما"
+    }
+  ],
+  "timestamp": "2026-08-07T04:45:56.407418604Z",
+  "model": "glm-5.2"
+}

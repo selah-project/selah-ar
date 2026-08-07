@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 1:21",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "و⟨يكون⟩ عند مضجع سيّدي الملك مع آبائه، و⟨كنت⟩ أنا وابني شِلومه مخطئين.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و⟨يكون⟩"
+    },
+    {
+      "surface": "כשכב",
+      "gloss": "عند مضجع"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سيّدي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "آبائه"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "و⟨كنت⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "وابني"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شِلومه"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "مخطئين"
+    }
+  ],
+  "timestamp": "2026-08-07T01:42:01.484753776Z",
+  "model": "glm-5.2"
+}

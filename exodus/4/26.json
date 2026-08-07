@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 4:26",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فكفّ عنه. حينئذٍ قالت: «خَتَنُ دِماءٍ مِن أجل الخِتان».",
+  "tokens": [
+    {
+      "surface": "וירף",
+      "gloss": "فكفّ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "عنه"
+    },
+    {
+      "surface": "אז",
+      "gloss": "حينئذٍ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "قالت"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "خَتَنُ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "دِماءٍ"
+    },
+    {
+      "surface": "למולת",
+      "gloss": "مِن أجل الخِتان"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:16.337779742Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وعاش أنوش تسعين سنة، ووَلَد ⟨את⟩ قينان.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "وعاش"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "أنوش"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "تسعين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ووَلَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قينان"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "قينان"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:56.670596389Z",
+  "model": "glm-5.2"
+}

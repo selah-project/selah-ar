@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "طيرُ السماوات وسمكُ البحر، عابرَ مسالكِ البحار",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "طير"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "و⟨سمكُ⟩"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عابرَ"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "مسالكِ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "البحار"
+    }
+  ],
+  "timestamp": "2026-08-07T03:41:55.174216024Z",
+  "model": "glm-5.2"
+}

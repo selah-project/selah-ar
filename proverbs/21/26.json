@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 21:26",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "كلَّ النَّهارِ يَتأوَّقُ تأوّقًا، والصِّدِّيقُ يُعطي ولا يَمنَع.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "النهار"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "يتأوّق"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "تأوّقًا"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "والصديق"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "يعطي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "يمنع"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:47.139184033Z",
+  "model": "glm-5.2"
+}

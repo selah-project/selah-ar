@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وأنت قدّوس، الجالسُ على تَهِيلوت يسرايل.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "وأنت"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "قدّوس"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "الجالس"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "تهليلات"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T06:04:19.769463346Z",
+  "model": "glm-5.2"
+}

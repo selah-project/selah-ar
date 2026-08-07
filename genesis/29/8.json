@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 29:8",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "فقالوا: لا نستطيع، حتى تُجمَع كل القطعان ويُدحرَجوا ⟨את⟩ الحجر عن فم البئر، فنسقي القطيع.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقالوا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "نستطيع"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨أن⟩"
+    },
+    {
+      "surface": "יאספו",
+      "gloss": "تُجمَع"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "القطعان"
+    },
+    {
+      "surface": "וגללו",
+      "gloss": "ويُدحرَجوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الحجر"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "الحجر"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "عن"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فم"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "البئر"
+    },
+    {
+      "surface": "והשקינו",
+      "gloss": "فنسقي"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "القطيع"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:32.965888677Z",
+  "model": "glm-5.2"
+}

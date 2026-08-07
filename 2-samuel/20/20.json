@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "فأجاب يوأف وقال: «حاشا، حاشا لي أن ابتلع أو أن أُهلك.»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "فأجاب"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوأف"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "حاشا"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "حاشا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أن"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "ابتلع"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "أو"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "أن أُهلك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:38:48.162078811Z",
+  "model": "glm-5.2"
+}

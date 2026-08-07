@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "أَعْبُرَنَّ ⟨إلى هناك⟩ وأرى ⟨את⟩ الأرض الطيّبة التي في عَبْر اليَرْدَن، هذا الجبل الطيّب واللُّبْنان.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "أعبر"
+    },
+    {
+      "surface": "נא",
+      "gloss": "أرجو"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "وأرى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "الطيبة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "في عَبر"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "اليَرْدَن"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "الجبل"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "الطيب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "واللُّبْنان"
+    }
+  ],
+  "timestamp": "2026-08-07T00:48:35.732825927Z",
+  "model": "glm-5.2"
+}

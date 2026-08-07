@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "من الخارج تُفجِع السيف، ومن المخادع الرعب، الفتى أيضًا والعذراء، الراضع مع الشيبة.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "من الخارج"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "تُفجِع"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "السيف"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "ومن المخادع"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "الرعب"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "الفتى"
+    },
+    {
+      "surface": "גם",
+      "gloss": "و"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "العذراء"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "الراضع"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨رجل⟩"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "الشيبة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:01:56.149086084Z",
+  "model": "glm-5.2"
+}

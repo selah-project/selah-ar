@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 15:12",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "إذا بيع لك أخوك العبرانيّ أو العبرانيّة، وخدَمك ستَّ سنوات، ففي السنة السابعة تُطلقه حرًّا من عندك:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "بيع"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "أخوك"
+    },
+    {
+      "surface": "העברי",
+      "gloss": "العبرانيّ"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "העבריה",
+      "gloss": "العبرانيّة"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "وخدَمك"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ستَّ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنوات"
+    },
+    {
+      "surface": "ובשנה",
+      "gloss": "ففي السنة"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "السابعة"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "تُطلقه"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "حرًّا"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "من عندك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:56:34.943588712Z",
+  "model": "glm-5.2"
+}

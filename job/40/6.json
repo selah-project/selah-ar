@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "فأجاب يهوه ⟨את⟩ أيّوف من العاصفة وقال:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "فأجاب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أيّوف"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "أيّوف"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "من"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "العاصفة"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    }
+  ],
+  "timestamp": "2026-08-07T04:43:38.300910084Z",
+  "model": "glm-5.2"
+}

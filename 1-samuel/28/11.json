@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "فقالت المرأة: ⟨את⟩ مَن أُصعد لك؟ فقال: ⟨את⟩ شموئيل أصعده لي.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "المرأة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مَن"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "أُصعد"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شموئيل"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "أصعده"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:30:32.969026439Z",
+  "model": "glm-5.2"
+}

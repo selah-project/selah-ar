@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨فعل⟩ يهوشُع بهم كما قال له يهوه: ⟨את⟩ خيولهم عَقَر، و⟨את⟩ مركباتهم أَحرقَ بالنار.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و⟨فعل⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بهم"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشُع"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خيولهم"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "خيولهم"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "عَقَر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مركباتهم"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "مركباتهم"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "أَحرقَ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بالنار"
+    }
+  ],
+  "timestamp": "2026-08-07T05:44:06.970538589Z",
+  "model": "glm-5.2"
+}

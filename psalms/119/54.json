@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "أَنَاشيدُ ⟨كانتْ⟩ لي فَرائضُكَ في بيتِ مُغُوراي.",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "أَنَاشيدُ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨كانتْ⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "فَرائضُكَ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في بيتِ"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "مُغُوراي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:16.234601600Z",
+  "model": "glm-5.2"
+}

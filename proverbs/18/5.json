@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 18:5",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "رفعُ وجه راشعٍ ليس جيّدًا، ⟨لِ⟩إمالةِ صِدِّيقٍ في المشفات.",
+  "tokens": [
+    {
+      "surface": "שאת",
+      "gloss": "رفع"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "راشع"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "جيّد"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "إمالة"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صِدِّيق"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "في المشفات"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:46.040594478Z",
+  "model": "glm-5.2"
+}

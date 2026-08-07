@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 3:16",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "حينئذ جاءت امرأتان، زانيتان، إلى الملك، ووقفتا أمامه.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "حينئذ"
+    },
+    {
+      "surface": "תבאנה",
+      "gloss": "جاءت"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "اثنتان"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "امرأتان"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "زانيتان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "ותעמדנה",
+      "gloss": "ووقفتا"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمامه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:49:14.639223971Z",
+  "model": "glm-5.2"
+}

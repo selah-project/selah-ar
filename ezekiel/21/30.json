@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 21:30",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وأمَّا أنتَ فجريحٌ شرِّير، يا نَسيئ يسرايل، الذي جاء يومُه، في وقت الإثم نهايةً.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "وأمَّا أنتَ"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "جريح"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شرِّير"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "يا نَسيئ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בא",
+      "gloss": "جاء"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "يومُه"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "في وقت"
+    },
+    {
+      "surface": "עון",
+      "gloss": "الإثم"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "نهايةً"
+    }
+  ],
+  "timestamp": "2026-08-07T03:02:26.781105034Z",
+  "model": "glm-5.2"
+}

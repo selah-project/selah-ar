@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وإن كان ⟨الأمر⟩ هذا إمِت، فلم تُوجَد عذريّة للفتاة —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "إمِت"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨الأمر⟩"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "تُوجَد"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "عذريّة"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "للفتاة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:58:14.868256729Z",
+  "model": "glm-5.2"
+}

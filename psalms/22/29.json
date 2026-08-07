@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "لأَنَّ لِيهوه ⟨هي⟩ المُلْك، و⟨هو⟩ يَحْكُمُ في الأُمَم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ويحكم"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "في الأمم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:45:31.407960925Z",
+  "model": "glm-5.2"
+}

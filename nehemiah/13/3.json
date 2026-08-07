@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "و⟨كان⟩ عند سماعِهم ⟨את⟩ التوراة أنّهم فرّزوا كلَّ عِرْبٍ من يسرايل.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "عند سماعِهم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "التوراة"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "التوراة"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "أنّهم فرّزوا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "عِرْبٍ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "من يسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T06:13:21.082409101Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 32:18",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "فقال: ليس صوتَ هُتافِ غَلَبة، وليس صوتَ هُتافِ هزيمة؛ صوتَ هُتافٍ أنا أسمعُه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "هُتاف"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "غَلَبة"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "وليس"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "هُتاف"
+    },
+    {
+      "surface": "חלושה",
+      "gloss": "هزيمة"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "هُتاف"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "أسمع"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:32.218992062Z",
+  "model": "glm-5.2"
+}

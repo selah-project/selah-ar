@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "الشمس خرجت على الأرض، ولوت جاء إلى صوغر.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "الشمس"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "خرجت"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "ولوت"
+    },
+    {
+      "surface": "בא",
+      "gloss": "جاء"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "إلى صوغر"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:31.529806546Z",
+  "model": "glm-5.2"
+}

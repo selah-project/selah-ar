@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فقال يهوه له: «ما هذا بيدك؟» فقال: «عصًا».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ما هذا"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "بيدك"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "عصًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:25.959414822Z",
+  "model": "glm-5.2"
+}

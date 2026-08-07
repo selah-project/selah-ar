@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "ورتّب عليه ترتيبًا من خبزٍ أمام يهوه، كما أوصى يهوه ⟨את⟩ موشيه.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "ورتّب"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "ترتيبًا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "من خبزٍ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    }
+  ],
+  "timestamp": "2026-08-07T06:35:40.795761649Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 22:4",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وأخشاب أرزات بلا عدد، لأن الصيدونيين والصوريين جلبوا أخشاب أرزات بكثرة لداوِد.",
+  "tokens": [
+    {
+      "surface": "ועצי",
+      "gloss": "وأخشاب"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "أرزات"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "بلا"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "عدد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "جلبوا"
+    },
+    {
+      "surface": "הצידנים",
+      "gloss": "الصيدونيين"
+    },
+    {
+      "surface": "והצרים",
+      "gloss": "والصوريين"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "أخشاب"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "أرزات"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "بكثرة"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "لِداوِد"
+    }
+  ],
+  "timestamp": "2026-08-07T05:17:31.179351190Z",
+  "model": "glm-5.2"
+}

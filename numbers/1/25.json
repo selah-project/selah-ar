@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "عدّوهم لِسبط جاد: خمسة وأربعون ألفًا وستّمئة وخمسين.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "عدّوهم"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "لِسبط"
+    },
+    {
+      "surface": "גד",
+      "gloss": "جاد"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "خمسة"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "وأربعون"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفًا"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "وستّ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "وخمسين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:48.713079160Z",
+  "model": "glm-5.2"
+}

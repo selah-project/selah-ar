@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "فرأى يِسرائِيل ⟨את⟩ بني يوسف وقال: «من هؤلاء؟»",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "فرأى"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائِيل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بني"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    }
+  ],
+  "timestamp": "2026-08-06T23:56:52.922048349Z",
+  "model": "glm-5.2"
+}

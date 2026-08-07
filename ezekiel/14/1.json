@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 14:1",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وجاء إليّ رجالٌ من زُعماء يسرائيل، وجلسوا أمامي.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "من زُعماء"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "وجلسوا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمامي"
+    }
+  ],
+  "timestamp": "2026-08-07T02:58:52.441263440Z",
+  "model": "glm-5.2"
+}

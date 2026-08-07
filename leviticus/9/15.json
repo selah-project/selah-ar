@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وقرّب ⟨את⟩ قربان الشعب، وأخذ ⟨את⟩ تيس الخطيئة الذي للشعب، وذبحه وقدّمه خطيئة كالأوّل.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "وقرّب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قربان"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "قربان"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تيس"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "تيس"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "الخطيئة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "للشعب"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "وذبحه"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "وقدّمه خطيئة"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "كالأوّل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:49.445219762Z",
+  "model": "glm-5.2"
+}

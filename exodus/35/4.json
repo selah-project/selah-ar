@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 35:4",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "وقال موشيه لكلِّ جماعة بَني يِسرائيِل قائلاً: «هذا ⟨هو⟩ الأمرُ الذي أوصى به يهوه قائلاً:»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعة"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيِل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمرُ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    }
+  ],
+  "timestamp": "2026-08-07T00:13:23.952272468Z",
+  "model": "glm-5.2"
+}

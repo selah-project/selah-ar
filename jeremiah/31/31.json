@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "هوذا أيّامٌ آتيةٌ، نَأْمُ يهوه، وأقطعُ ⟨مع⟩ ⟨את⟩ بيت يسرائيل و⟨مع⟩ ⟨את⟩ بيت يهوداه بريتًا جديدةً.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "באים",
+      "gloss": "آتية"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نَأْمُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "وأقطع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بيت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوداه"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريت"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "جديدة"
+    }
+  ],
+  "timestamp": "2026-08-07T07:47:55.105027012Z",
+  "model": "glm-5.2"
+}

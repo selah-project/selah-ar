@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 2:15",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وعلى كلِّ برجٍ شاهق، وعلى كلِّ سورٍ حصين،",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "برجٍ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "شاهق"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "سورٍ"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "حصين"
+    }
+  ],
+  "timestamp": "2026-08-07T02:03:44.349660927Z",
+  "model": "glm-5.2"
+}

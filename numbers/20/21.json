@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 20:21",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "فأبى أدوم أن يُعطي ⟨את⟩ يِسرائيل عبورًا في تخومه، فمال يِسرائيل عنه.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "فأبى"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "أدوم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أن يُعطي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يِسرائيل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عبورًا"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "في تخومه"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "فمال"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "عنه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:37:50.470361844Z",
+  "model": "glm-5.2"
+}

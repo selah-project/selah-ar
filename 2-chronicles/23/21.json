@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "وفرِح كلّ شعب الأرض، وهَدأت المدينة، و⟨את⟩ عثلياهو أماتوه بالسيف.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "وفرِح"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "والمدينة"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "هَدأت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "عثلياهو"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "عثلياهو"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "أماتوه"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "بالسيف"
+    }
+  ],
+  "timestamp": "2026-08-07T05:27:20.567676306Z",
+  "model": "glm-5.2"
+}

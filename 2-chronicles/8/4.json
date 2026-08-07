@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وبنى ⟨את⟩ تَدْمُر في البرية، و⟨את⟩ كلّ مدن المخازن التي بناها في حَمات.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "وبنى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تَدْمُر"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "تَدْمُر"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في البرية"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "المخازن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بناها"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "في حَمات"
+    }
+  ],
+  "timestamp": "2026-08-07T05:24:41.863870643Z",
+  "model": "glm-5.2"
+}

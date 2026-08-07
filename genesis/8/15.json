@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "فكلّم إلوهيم نُواحُ قائلًا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "فكلّم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(إلى)"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُواحُ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:04.680798123Z",
+  "model": "glm-5.2"
+}

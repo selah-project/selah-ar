@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 23:16",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "فلاقى يهوهُ بلعام، ووضع كلمةً في فمه، وقال: ارجع إلى بالاق، وهكذا تُكلَّم.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "فلاقى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بلعام"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "—"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ووضع"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمةً"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "في فمه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ارجع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "وهكذا"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "تُكلَّم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:39:16.278690425Z",
+  "model": "glm-5.2"
+}

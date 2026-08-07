@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "ولِشِم وُلِد أيضاً هو أبو كل بني عِڤَر، أخ يَفَت الكبير.",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "ولِشِم"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "وُلِد"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضاً"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِڤَر"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "أخ"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "يَفَت"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "الكبير"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:38.885311657Z",
+  "model": "glm-5.2"
+}

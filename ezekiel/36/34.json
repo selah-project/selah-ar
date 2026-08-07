@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezekiel 36:34",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "والأرض الخرابة تُفلَح، عِوَضَ أنّها كانت خرابة أمام أعين كلّ عابر.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "والأرض"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "الخرابة"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "تُفلَح"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "عِوَضَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "أنّها"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "كانت"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "خرابة"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "أمام أعين"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "عابر"
+    }
+  ],
+  "timestamp": "2026-08-07T03:11:05.251937984Z",
+  "model": "glm-5.2"
+}

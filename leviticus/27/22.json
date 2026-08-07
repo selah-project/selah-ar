@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وإذا ⟨قدّس⟩ ⟨את⟩ حقلَ مُشتَراه الذي ليس من حقل مُمتلكِه ليهوه،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حقل"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "حقل"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "مُشتَراه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "من حقل"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "مُمتلكِه"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "⟨قدّس⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:37.859858304Z",
+  "model": "glm-5.2"
+}

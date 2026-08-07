@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "مُولِدُ كَسيل ⟨لِـ⟩ تُوگاح، و⟨هو⟩ لا يَفرَح أَبي نَوال.",
+  "tokens": [
+    {
+      "surface": "יֹלֵד",
+      "gloss": "مُولِدُ"
+    },
+    {
+      "surface": "כְּסִיל",
+      "gloss": "كَسيل"
+    },
+    {
+      "surface": "לְתוּגָה",
+      "gloss": "لِـ تُوگاح"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "⟨لَهُ⟩"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "و⟨هو⟩ لا"
+    },
+    {
+      "surface": "יִשְׂמַח",
+      "gloss": "يَفرَح"
+    },
+    {
+      "surface": "אֲבִי",
+      "gloss": "أَبي"
+    },
+    {
+      "surface": "נָבָל",
+      "gloss": "نَوال"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:30.279234572Z",
+  "model": "glm-5.2"
+}

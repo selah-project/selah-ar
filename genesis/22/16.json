@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وقال: بي حلفتُ — نَأْم يهوه — أنك من أجل أنك فعلت ⟨את⟩ هذا الأمر ولم تُمسك ⟨את⟩ ابنك ⟨את⟩ وحيدك.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "בי",
+      "gloss": "بي"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "حلفتُ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نَأْم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "من أجل أنّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "فعلت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هذا الأمر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "تُمسك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابنك"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ابنك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وحيدك"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "وحيدك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:09.487813904Z",
+  "model": "glm-5.2"
+}

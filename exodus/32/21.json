@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "وقال موشيه لأهارون: ماذا فعل لك هذا الشعب، حتى إنك جلبت عليه خطيئة عظيمة؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعل"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "حتى إنّ"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "جلبت"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "خطيئة"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "عظيمة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:25.371255125Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "فاستخلص إلوهيم ⟨את⟩ مواشي أبيكم و⟨أعطاها⟩ لي.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "فاستخلص"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مواشي أبيكم"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "مواشي"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "أبيكم"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و⟨أعطاها⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:08.732827075Z",
+  "model": "glm-5.2"
+}

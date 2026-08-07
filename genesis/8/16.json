@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "«اخرج من التابوت، أنت وامرأتك وبنوك ونساءُ بنيك معك».",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "اخرج"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "التابوت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "وامرأتك"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "وبنوك"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ونساءُ"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "بنيك"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "معك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:04.680896867Z",
+  "model": "glm-5.2"
+}

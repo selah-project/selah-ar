@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 46:12",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 46,
+  "translation": "سمعتِ الأمم عارَكِ،وملأ صراخُكِ الأرضَ؛ لأنّ البطل بالبطل تعثّرا معًا سقطا كلاهما.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "سمعت"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "קלונך",
+      "gloss": "عارك"
+    },
+    {
+      "surface": "וצוחתך",
+      "gloss": "وصراخك"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ملأ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "البطل"
+    },
+    {
+      "surface": "בגבור",
+      "gloss": "بالبطل"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "تعثّرا"
+    },
+    {
+      "surface": "יחדיו",
+      "gloss": "معًا"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "سقطا"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "كلاهما"
+    }
+  ],
+  "timestamp": "2026-08-07T02:48:36.278664524Z",
+  "model": "glm-5.2"
+}

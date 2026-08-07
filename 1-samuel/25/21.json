@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 25:21",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وقال داود: «حقًا للباطل حرست ⟨את⟩ كل ما لهذا في البريّة، ولم يُفقد من كل ما له شيء، فردّ لي شرًّا بدل خير».",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "وقال داود"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "אך",
+      "gloss": "حقًا"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "للباطل"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "حرست"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "لهذا"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في البريّة"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "נפקד",
+      "gloss": "يُفقد"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "شيء"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "فردّ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شرًّا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدل"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "خير"
+    }
+  ],
+  "timestamp": "2026-08-07T01:29:35.815745734Z",
+  "model": "glm-5.2"
+}

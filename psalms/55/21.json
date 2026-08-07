@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 55,
+  "translation": "أرسل يديه ⟨على⟩ المسالمين له، دنّس بريته.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "أرسل"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "يداه"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "المسالمين له"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "دنّس"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "بريته"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:02.372837681Z",
+  "model": "glm-5.2"
+}

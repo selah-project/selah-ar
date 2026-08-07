@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 2:20",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "والتفتَ أَفْنير إلى خلفه وقال: «أهذا أنتَ، عَساهيل؟» فقال: «أنا هو.»",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "والتفتَ"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "أَفْنير"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "إلى خلفه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "أ⟨أنتَ⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "عَساهيل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:31:43.802913548Z",
+  "model": "glm-5.2"
+}

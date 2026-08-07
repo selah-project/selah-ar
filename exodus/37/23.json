@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 37:23",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "وصنع ⟨את⟩ مصابيحها سبعةً وملاقطها ومنافضها ذهبًا طاهرًا",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وصنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مصابيحها"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "مصابيحها"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سبعةً"
+    },
+    {
+      "surface": "ומלקחיה",
+      "gloss": "وملاقطها"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "ومنافضها"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهبًا"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "طاهرًا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:37:26.347481579Z",
+  "model": "glm-5.2"
+}

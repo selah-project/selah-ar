@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 32:8",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "كل منيرات النور في السماوات أُظلّمها عليك، و⟨أنا⟩ أجعل الظلمة على أرضك، نئم أدوناي يهوه.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "מאורי",
+      "gloss": "منيرات"
+    },
+    {
+      "surface": "אור",
+      "gloss": "النور"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "في السماوات"
+    },
+    {
+      "surface": "אקדירם",
+      "gloss": "أُظلّمها"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "عليك"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "و⟨أنا⟩ أجعل"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "الظلمة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "أرضك"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نئم"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:08:00.453034981Z",
+  "model": "glm-5.2"
+}

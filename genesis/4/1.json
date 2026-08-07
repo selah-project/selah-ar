@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "و⟨كان⟩ الإنسانُ قد عرف ⟨את⟩ حوّاء امرأتَه، فحملت وولدت ⟨את⟩ قاين، وقالت: «اقتنيتُ رجلاً مع يهوه».",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "والإنسان"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "عرف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حوّاء"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "حوّاء"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "امرأتَه"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "فحملت"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "وولدت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قاين"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قاين"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "وقالت"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "اقتنيتُ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلًا"
+    },
+    {
+      "surface": "את",
+      "gloss": "مع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:41.668621173Z",
+  "model": "glm-5.2"
+}

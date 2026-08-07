@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 3:28",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "من فوقِ باب الخَيل ثَبَّتَ الكوهنيِّون، كلُّ واحدٍ مُقابِلَ بيتِهِ.",
+  "tokens": [
+    {
+      "surface": "מעל",
+      "gloss": "من فوقِ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "باب"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "الخَيل"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "ثَبَّتَ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكوهنيِّون"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كلُّ واحدٍ"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "مُقابِلَ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "بيتِهِ"
+    }
+  ],
+  "timestamp": "2026-08-07T05:04:41.409815530Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "هوذا إلى الشرق أمضي فليس هو هناك، وإلى الغرب فلا أفهمه.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "إلى الشرق"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "أمضي"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "فليس هو"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "وإلى الغرب"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "أفهم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T04:38:56.999024739Z",
+  "model": "glm-5.2"
+}

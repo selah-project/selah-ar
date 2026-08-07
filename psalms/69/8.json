@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 69,
+  "translation": "لأنّه من أجلك حملتُ عارًا،غطّى الخِزيَ وجهي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "من أجلك"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "حملتُ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "عارًا"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "غطّى"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "الخِزيَ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:58:22.339790458Z",
+  "model": "glm-5.2"
+}

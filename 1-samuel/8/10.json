@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وقال شموئيل لِلشَّعبِ الطَّالبينَ منه مَلِكًا ⟨את⟩ جميعَ كَلِماتِ يَهوه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جميع"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميع"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلمات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "الطالبين"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملكًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:21:55.748511657Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 22:15",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "فعاد بالاق أيضًا فأرسل أمراءً أكثر وأكرم من هؤلاء.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "فعاد"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "أمراءً"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "أكثر"
+    },
+    {
+      "surface": "ונכבדים",
+      "gloss": "وأكرم"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "من هؤلاء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:38:49.463517629Z",
+  "model": "glm-5.2"
+}

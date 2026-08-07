@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 27:13",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وإذا فكّه يَفُكّه، ويزيد خُمُسَه على تقويمك.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "فكّ"
+    },
+    {
+      "surface": "יגאלנה",
+      "gloss": "يفكّه"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ويزيد"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "خُمُسَه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "تقويمك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:54.749553069Z",
+  "model": "glm-5.2"
+}

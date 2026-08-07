@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "تَعَبُ الأغبياءِ يُتعِبُه، إذ لا يَعلَمُ المَشيَ إلى المدينة.",
+  "tokens": [
+    {
+      "surface": "עֲמַ֥ל",
+      "gloss": "تَعَبُ"
+    },
+    {
+      "surface": "הַכְּסִילִ֖ים",
+      "gloss": "الأغبياءِ"
+    },
+    {
+      "surface": "תְּיַגְּעֶ֑נּוּ",
+      "gloss": "يُتعِبُه"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "إذ"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יָדַ֖ע",
+      "gloss": "يَعلَمُ"
+    },
+    {
+      "surface": "לָלֶ֥כֶת",
+      "gloss": "المَشيَ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עִֽיר",
+      "gloss": "المدينة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:32.008122553Z",
+  "model": "glm-5.2"
+}

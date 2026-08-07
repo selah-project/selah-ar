@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 22:5",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وإن لا تسمعون ⟨את⟩ الكلماتِ هذه، فبي حلفتُ — نأُم يهوه — فإنّ ⟨إلى⟩ خرابٍ يكون البيتُ هذا.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "تسمعون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الكلمات"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "الكلماتِ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "בי",
+      "gloss": "بي"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "حلفتُ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نأُم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "فإنّ"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "إلى خرابٍ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيتُ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:38:12.503118570Z",
+  "model": "glm-5.2"
+}

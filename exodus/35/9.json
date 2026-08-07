@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 35:9",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "وحجارة شُوهَم وحجارة مَلُّؤيم لإفود ولحوشَن",
+  "tokens": [
+    {
+      "surface": "ואבני",
+      "gloss": "وحجارة"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "شُوهَم"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "وحجارة"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "مَلُّؤيم"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "لإفود"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "ولحوشَن"
+    }
+  ],
+  "timestamp": "2026-08-07T00:13:10.515390926Z",
+  "model": "glm-5.2"
+}

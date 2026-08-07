@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فقام أيّوب ومزّق ⟨את⟩ رداءه وحلق ⟨את⟩ رأسه، فهوى إلى الأرض وسجد.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "فقام"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "أيّوب"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ومزّق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رداءه"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "رداءه"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "وحلق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رأسه"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "رأسه"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "فهوى"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "إلى الأرض"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "وسجد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:31:57.734853681Z",
+  "model": "glm-5.2"
+}

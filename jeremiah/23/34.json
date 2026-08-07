@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "jeremiah 23:34",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "والنافي والكوهين والشعب الذي يقول: مَشّاء يهوه، وأُعاقِب ⟨على⟩ الرجل ذاك و⟨على⟩ بيته.",
+  "tokens": [
+    {
+      "surface": "והנביא",
+      "gloss": "والنافي"
+    },
+    {
+      "surface": "והכהן",
+      "gloss": "والكوهين"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "والشعب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "يقول"
+    },
+    {
+      "surface": "משא",
+      "gloss": "مَشّاء"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "وأُعاقِب"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذاك"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "بيته"
+    }
+  ],
+  "timestamp": "2026-08-07T02:39:34.358386503Z",
+  "model": "glm-5.2"
+}

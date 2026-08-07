@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 15:26",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "و⟨كان⟩ في عَوْن إلوهيم ⟨את⟩ اللاويين حاملي تابوت بريت يهوه، فذبحوا سبعة ثيران وسبعة كباش",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "בעזר",
+      "gloss": "في عون"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اللاويين"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "اللاويين"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "حاملي"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "فذبحوا"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سبعة"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ثيران"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "وسبعة"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "كباش"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:42.964345362Z",
+  "model": "glm-5.2"
+}

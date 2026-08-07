@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 21:15",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وأنتَ بأمراضٍ كثيرة في داء أمعائك، حتى تخرج أمعاؤك من الداء يومًا بعد يوم.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "وأنتَ"
+    },
+    {
+      "surface": "בחליים",
+      "gloss": "بأمراضٍ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرة"
+    },
+    {
+      "surface": "במחלה",
+      "gloss": "في داء"
+    },
+    {
+      "surface": "מעיך",
+      "gloss": "أمعائك"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "تخرج"
+    },
+    {
+      "surface": "מעיך",
+      "gloss": "أمعاؤك"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "החלי",
+      "gloss": "الداء"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "يومًا"
+    },
+    {
+      "surface": "על",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "يوم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:28:11.311630367Z",
+  "model": "glm-5.2"
+}

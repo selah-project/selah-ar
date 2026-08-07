@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 1:4",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "لكنّ تابوت إلوهيم أصعده داود من قريت يعاريم — ⟨الذي⟩ أعدّه داود، لأنّه نصب له خيمة في يروشالايم",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "لكنّ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "أصعده"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "من قريت"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "يعاريم"
+    },
+    {
+      "surface": "בהכין",
+      "gloss": "أعدّه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "نصب"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "في يروشالايم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:20:11.754118526Z",
+  "model": "glm-5.2"
+}

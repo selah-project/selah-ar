@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 35:26",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "وإذا خرج ⟨خروجًا⟩ القاتل خارج ⟨את⟩ حدود مدينة ملجئه التي يهرب إليلها،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "خرج"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "خروجًا"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "القاتل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الحدود"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "الحدود"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "ملجئه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "يهرب"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "إليلها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:45:36.346521278Z",
+  "model": "glm-5.2"
+}

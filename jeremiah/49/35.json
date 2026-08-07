@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 49:35",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "كذا قال يهوه صَباؤوت: هأنذا أكسر ⟨את⟩ قوس عيلام، رأس غُبروتِهم.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "كذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صَباؤوت"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "هأنذا"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "أكسر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوس"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "قوس"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عيلام"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "رأس"
+    },
+    {
+      "surface": "גבורתם",
+      "gloss": "غُبروتِهم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:55:03.953438058Z",
+  "model": "glm-5.2"
+}

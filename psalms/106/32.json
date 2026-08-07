@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 106,
+  "translation": "وأغضبوه على مي مريبا، فساء الأمر لموشيه من أجلهم.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "وأغضبوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مياه"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "مريبا"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "فساء"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "لموشيه"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "من أجلهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:27.123145035Z",
+  "model": "glm-5.2"
+}

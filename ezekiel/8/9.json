@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "فقال لي: «ادخل وانظر ⟨את⟩ الرجاسات الشريرة التي هم يفعلونها هنا.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ادخل"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "وانظر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الرجاسات"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "الرجاسات"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "الشريرة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "يفعلون"
+    },
+    {
+      "surface": "פה",
+      "gloss": "هنا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:56:44.046409083Z",
+  "model": "glm-5.2"
+}

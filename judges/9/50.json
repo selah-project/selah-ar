@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "ثم ذهب أفيميلك إلى تيفص وخيّم على تيفص وأخذها.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ثم ذهب"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "أفيميلك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "تيفص"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "وخيّم"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "على تيفص"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "وأخذها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:15:44.256795539Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وجيشُه ومُعَدُّوه ستةً وأربعينَ ألفًا وخمسَ مئةٍ.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "وجيشُه"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "ومُعَدُّوه"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ستةً"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "وأربعينَ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفًا"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "وخمسَ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئةٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:23.709309308Z",
+  "model": "glm-5.2"
+}

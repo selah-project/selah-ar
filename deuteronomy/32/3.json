@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "لأنّ باسمَ يهوه أُنادي، أنزِلوا العظمةَ لإلوهيم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "باسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "أُنادي"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "أنزِلوا"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "العظمة"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "لإلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:02:00.791174777Z",
+  "model": "glm-5.2"
+}

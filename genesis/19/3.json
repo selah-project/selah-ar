@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 19:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وألحّ عليهم جدًا، فمالوا إليه ودخلوا بيته، فصنع لهم مأدبة وخبز مَصّوتًا وخبزوا.",
+  "tokens": [
+    {
+      "surface": "ויפצר",
+      "gloss": "وألحّ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًا"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "فمالوا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ودخلوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "بيته"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "فصنع"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "مأدبة"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "وخبز مَصّوتًا"
+    },
+    {
+      "surface": "אפה",
+      "gloss": "خبز"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "وأكلوا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:16.784476063Z",
+  "model": "glm-5.2"
+}

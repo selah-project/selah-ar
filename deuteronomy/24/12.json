@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "وإن كان الرجل فقيرًا، فلا تَنَمْ برَهنه،",
+  "tokens": [
+    {
+      "surface": "וְאִם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "كان الرجل"
+    },
+    {
+      "surface": "עָנִ֖י",
+      "gloss": "فقيرًا"
+    },
+    {
+      "surface": "ה֑וּא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "תִשְׁכַּ֖ב",
+      "gloss": "تَنَمْ"
+    },
+    {
+      "surface": "בַּעֲבֹטֽוֹ",
+      "gloss": "برَهنه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:58:19.665784230Z",
+  "model": "glm-5.2"
+}

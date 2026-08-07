@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 58,
+  "translation": "بل في القلب ظُلمًا تُمارسون، في الأرض عُنف أيديكم تَزِنون.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "بل"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "في القلب"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ظُلمًا"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "تُمارسون"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "عُنفَ"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "أيديكم"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "تَزِنون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:56.728549882Z",
+  "model": "glm-5.2"
+}

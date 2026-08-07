@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 7:1",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "و⟨كان⟩ حينَ جلسَ الملكُ في بيته، ويهوه قد أراحَهُ مِن حولِه مِن كلِّ أعدائه،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "حينَ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "جلسَ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملكُ"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "في بيته"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ويهوه"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "أراحَهُ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨له⟩"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "مِن حولِه"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "مِن كلِّ"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "أعدائه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:32.177320601Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "لأنّ يهوه عظيم ومُحمَد جدًا، ومهوب ⟨هو⟩ على كلّ إلوهيم،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ومُحمَد"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًا"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ومهوب"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:58.262437434Z",
+  "model": "glm-5.2"
+}

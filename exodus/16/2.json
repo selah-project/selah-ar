@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "فتذمَّرت كلُّ جماعة بني يسرائيل على موشيه وعلى أهارون في البرّية.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "فتذمَّرت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعة"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في البرّية"
+    }
+  ],
+  "timestamp": "2026-08-07T00:04:37.156969282Z",
+  "model": "glm-5.2"
+}

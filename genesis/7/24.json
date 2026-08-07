@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وَتَغَلَّبَتِ الْمِيَاهُ عَلَى الأَرْضِ خَمْسِينَ وَمِئَةَ يَوْمٍ.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "وتغلّبت"
+    },
+    {
+      "surface": "המים",
+      "gloss": "المياه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "خمسين"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ومئة"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:07.553475243Z",
+  "model": "glm-5.2"
+}

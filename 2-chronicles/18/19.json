@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 18:19",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وقال يهوه: «من يُغوي ⟨את⟩ أخاب ملك يسرايل فيصعد ويسقط في راموت جلعاد؟» فقال هذا هكذا وقال هذا هكذا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "يُغوي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أخاب"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "أخاب"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "فيصعد"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ويسقط"
+    },
+    {
+      "surface": "ברמות",
+      "gloss": "في راموت"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "جلعاد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "وهذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "هكذا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:26:57.292542552Z",
+  "model": "glm-5.2"
+}

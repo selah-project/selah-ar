@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وكلَّ البهائم وغنيمة المدائن غنمناها لأنفسنا.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "البهائم"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "وغنيمة"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "المدائن"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "غنمناها"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لأنفسنا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:48:14.258367718Z",
+  "model": "glm-5.2"
+}

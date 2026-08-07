@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "ويحفظ بنو يسرايل ⟨את⟩ الشبّات، لصنع ⟨את⟩ الشبّات لأجيالهم بريت عُولام.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "ويحفظ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشبّات"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "الشبّات"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "لصنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشبّات"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "الشبّات"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "لأجيالهم"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريت"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "عُولام"
+    }
+  ],
+  "timestamp": "2026-08-07T00:09:45.893364500Z",
+  "model": "glm-5.2"
+}

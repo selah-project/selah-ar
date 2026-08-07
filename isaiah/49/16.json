@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "هاأنذا على كفّيّ نقشتكِ، أسواركِ أمامي دائمًا.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "هاأنذا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "كفّيّ"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "نقشتكِ"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "أسواركِ"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "أمامي"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "دائمًا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:21:09.393783943Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 1:7",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فالتفتَ خلفه ورآني، ودعاني، فقلتُ: ها أنا.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "فالتفتَ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "خلفه"
+    },
+    {
+      "surface": "ויראני",
+      "gloss": "ورآني"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ودعاني"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "فقلتُ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ها أنا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:31:19.170665760Z",
+  "model": "glm-5.2"
+}

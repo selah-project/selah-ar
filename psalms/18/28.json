@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "لأنّك أنتَ شعبًا فقيرًا تُخَلِّص، وعيونًا مرتفعة تُخفِض.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعبًا"
+    },
+    {
+      "surface": "עני",
+      "gloss": "فقيرًا"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "تُخَلِّص"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "وعيونًا"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "مرتفعة"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "تُخفِض"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:40.335281507Z",
+  "model": "glm-5.2"
+}

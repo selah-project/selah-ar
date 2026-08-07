@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "ذبيحةٌ وتقدمةٌ لم تُرِدها، أذُناً حفرتَ لي؛ عولاهٌ وذبيحةُ خطيئةٍ لم تطلبها.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "ذبيحةٌ"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "وتقدمةٌ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "تُرِدها"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "أذُناً"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "حفرتَ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "عولاهٌ"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "وذبيحةُ خطيئةٍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "تطلبها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:02.599651987Z",
+  "model": "glm-5.2"
+}

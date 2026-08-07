@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 44:32",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "لأنّ عبدَك ضمِن ⟨את⟩ النّعْلَم من عند أبي قائلًا: إن لم آتِ به إليك فأكون قد أخطأتُ إلى أبي كل الأيام،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدَك"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ضمِن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "النّعْلَم"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "النّعْلَم"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "من عند"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "آتِ به"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "فأكون قد أخطأتُ"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "إلى أبي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "الأيام"
+    }
+  ],
+  "timestamp": "2026-08-06T23:56:41.262946513Z",
+  "model": "glm-5.2"
+}

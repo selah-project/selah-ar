@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 32:32",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "والآن إن كنت تحمل خطيئتهم، وإن لا، فامحُني الآن من سِفرك الذي كتبت.»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "تحمل"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "خطيئتهم"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "מחני",
+      "gloss": "امحُني"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "מספרך",
+      "gloss": "من سِفرك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "كتبت"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:28.014157382Z",
+  "model": "glm-5.2"
+}

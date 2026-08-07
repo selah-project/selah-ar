@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "يرعى رمادًا. قلبٌ مُجرَّبٌ أماله، فلا يُنقذ ⟨את⟩ نَفسَه ولا يقول: أليس كذبٌ في يميني؟",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "يرعى"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "رمادًا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلبٌ"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "مُجرَّبٌ"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "أماله"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "يُنقذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نَفسَه"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نَفسَه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "يقول"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "أليس"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "كذبٌ"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "في يميني"
+    }
+  ],
+  "timestamp": "2026-08-07T02:20:37.813043523Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "قسيّ الأبطال مكسورة، والمتعثّرون تمنطقوا قوّة",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "قسيّ"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "الأبطال"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "مكسورة"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "والمتعثّرون"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "تمنطقوا"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "قوّة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:21:10.328539806Z",
+  "model": "glm-5.2"
+}

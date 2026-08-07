@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 43:31",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 43,
+  "translation": "وغسل وجهه وخرج، وضبط نفسه، وقال: «قدّموا خبزًا».",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "وغسل"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "وجهه"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "ויתאפק",
+      "gloss": "وضبط"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "قدّموا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:58.129536121Z",
+  "model": "glm-5.2"
+}

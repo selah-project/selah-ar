@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وأشْتون وَلَدَ ⟨את⟩ بيت-رافا و⟨את⟩ پَسياح و⟨את⟩ تَخينّة أبا عير-نَحاش؛ هؤلاء رجال ريكا.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "وأشْتون"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وَلَدَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيت-رافا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت-"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "رافا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "پَسياح"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "پَسياح"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "تَخينّة"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "تَخينّة"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبا"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "عير-"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "نَحاش"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "ريكا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:58.869508536Z",
+  "model": "glm-5.2"
+}

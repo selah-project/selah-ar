@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 64,
+  "translation": "مدن قُدسكِ صارت قفرًا، صهيون قفرًا صارت، يروشالايم خَرَابًا.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "قُدسكِ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "صارت"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "قفرًا"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "قفرًا"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "صارت"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "خَرَابًا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:26:38.912383889Z",
+  "model": "glm-5.2"
+}

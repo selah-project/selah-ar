@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 6:25",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "يُنِر يهوه وجهه ⟨نحوك⟩ ويُنعِم ⟨عليك⟩",
+  "tokens": [
+    {
+      "surface": "יָאֵ֨ר",
+      "gloss": "يُنِر"
+    },
+    {
+      "surface": "יְהוָ֧ה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "פָּנָ֛יו",
+      "gloss": "وجهه"
+    },
+    {
+      "surface": "אֵלֶ֖יךָ",
+      "gloss": "⟨نحوك⟩"
+    },
+    {
+      "surface": "וִֽיחֻנֶּֽךָּ",
+      "gloss": "ويُنعِم ⟨عليك⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T00:29:53.329061304Z",
+  "model": "glm-5.2"
+}

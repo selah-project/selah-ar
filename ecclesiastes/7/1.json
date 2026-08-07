@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "طيّبٌ الاسمُ من الزيتِ الطيّبِ، ويومُ الموتِ من يومِ ⟨ال⟩وِلادة.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "طيّب"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "من زيت"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيّب"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ويوم"
+    },
+    {
+      "surface": "המות",
+      "gloss": "الموت"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "من يوم"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "وِلادته"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:01.588650980Z",
+  "model": "glm-5.2"
+}

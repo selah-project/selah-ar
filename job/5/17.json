@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 5:17",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "هوذا طوبى ⟨لل⟩إنسانِ يوبّخه أَلُوَهّ، وبأدب شدّاي لا تَرْفُضه،",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "طوبى"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "יוכחנו",
+      "gloss": "يوبّخه"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "أَلُوَهّ"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "وبأدب"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّاي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "ترفضه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:32:57.014835431Z",
+  "model": "glm-5.2"
+}

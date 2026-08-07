@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "يهوه إلهيم قطع ⟨معنا⟩ بريت (عهد) في حوريف",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلهيم"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "قطع"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "⟨معنا⟩"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريت (عهد)"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "في حوريف"
+    }
+  ],
+  "timestamp": "2026-08-07T07:15:32.859769537Z",
+  "model": "glm-5.2"
+}

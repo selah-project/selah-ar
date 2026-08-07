@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فقالت له: أعطني بركة! فإنّك أرض النقب أعطيتني، فأعطني أيضاً غُلّات ماء. فأعطاها كالِف ⟨את⟩ غُلّات عليت و⟨את⟩ غُلّات تحتيت.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "أعطِ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "بركة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "فإنّك"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "النقب"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "أعطيتني"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "فأعطيتَ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "غُلّات"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماء"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "فأعطى"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "كالِف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غُلّات"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "غُلّات"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "عليت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "غُلّات"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "غُلّات"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "تحتيت"
+    }
+  ],
+  "timestamp": "2026-08-07T01:12:41.119300439Z",
+  "model": "glm-5.2"
+}

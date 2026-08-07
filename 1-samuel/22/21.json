@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وَأَخْبَرَ أَبْيَاتَارُ دَاوِدَ أَنَّ شَاؤُولَ قَتَلَ ⟨את⟩ كَهَنَةَ يَهْوَهْ.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "وأخبر"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "أبياتار"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "قتل"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كهنة"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "كهنة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:28:11.648346748Z",
+  "model": "glm-5.2"
+}

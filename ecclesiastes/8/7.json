@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "لأنّه لا يعرف ما سيكون، لأنّه كما سيكون — مَن يُخبره؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "يعرف"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "سيكون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "سيكون"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "يُخبر"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:51.518386037Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "وإيل شدّاي يبارك ⟨את⟩ك ويُكثِّرُك ويُكثُرك، فتكون ⟨ل⟩جماعةٍ شعوب",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "وإيل"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّاي"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "يبارك"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ك",
+      "marks": "يعقوف"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "ويُكثِّرُك"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "ويُكثُرك"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "فتكون"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "⟨ل⟩جماعة"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "شعوب"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:37.703114385Z",
+  "model": "glm-5.2"
+}

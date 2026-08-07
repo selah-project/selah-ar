@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "غوئيلُ الدمِ هو يُميتُ ⟨את⟩ القاتلَ، عند لقائه إيّاه هو يُميته.",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "غوئيل"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "الدم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "يُميت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "القاتل"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "القاتل"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "عند لقائه"
+    },
+    {
+      "surface": "בו",
+      "gloss": "إيّاه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "يُميته"
+    }
+  ],
+  "timestamp": "2026-08-07T00:45:07.280697528Z",
+  "model": "glm-5.2"
+}

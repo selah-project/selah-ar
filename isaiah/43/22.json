@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 43,
+  "translation": "لكن إيّاي لم تدعُ، يا يعقوف، لأنّك قد تعِبتَني، يا إسرايل.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "لكن لم"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاي"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "دعوت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّك"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "تعبْتَ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "بـ ـي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:52:53.187297204Z",
+  "model": "glm-5.2"
+}

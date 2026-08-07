@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 30:9",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وإذا في يوم سمع زوجها يُعرقلها وأبطل ⟨את⟩ نذرها الذي عليها و⟨את⟩ نطق شفتيها الذي ربطته على نفسها، فيهوه يصفح لها.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سمع"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "زوجها"
+    },
+    {
+      "surface": "יניא",
+      "gloss": "يُعرقلها"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ضرف مباشر لها"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "وأبطل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نذرها"
+    },
+    {
+      "surface": "נדרה",
+      "gloss": "نذرها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "عليها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "نطق شفتيها"
+    },
+    {
+      "surface": "מבטא",
+      "gloss": "نطق"
+    },
+    {
+      "surface": "שפתיה",
+      "gloss": "شفتيها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ربطته"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "نفسها"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "فيهوه"
+    },
+    {
+      "surface": "יסלח",
+      "gloss": "يصفح"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:31.218518095Z",
+  "model": "glm-5.2"
+}

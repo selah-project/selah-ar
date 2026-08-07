@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 30:33",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "رجلٌ يَعطِرُ مثلَه، ومن يُعطِ منْهُ على غريبٍ ⟨يُبتر⟩ من شعبه.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ירקח",
+      "gloss": "يعطر\/يمزج"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "مثله"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "والذي"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "يعطي\/يضع"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "זר",
+      "gloss": "غريب"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "ويُبتر\/يُقطع"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "من شعبه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:19.534094770Z",
+  "model": "glm-5.2"
+}

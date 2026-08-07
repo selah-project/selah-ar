@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 31:20",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "وكل ثوب وكل إناء جلد وكل صنعة شعر ماعز وكل إناء خشب تطهّروا.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ثوب"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "إناء"
+    },
+    {
+      "surface": "עור",
+      "gloss": "جلد"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "صنعة"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "شعر ماعز"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "إناء"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "خشب"
+    },
+    {
+      "surface": "תתחטאו",
+      "gloss": "تطهّروا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:47.208889736Z",
+  "model": "glm-5.2"
+}

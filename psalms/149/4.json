@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 149,
+  "translation": "لأنَّ يهوه راضٍ ⟨عن⟩ شعبه، يُجمِّل العنَاويٰ ⟨بال⟩خلاص.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "راضٍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "⟨عن⟩ شعبه"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "يُجمِّل"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "العنَاويٰ"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "⟨بال⟩خلاص"
+    }
+  ],
+  "timestamp": "2026-08-07T04:19:21.488203890Z",
+  "model": "glm-5.2"
+}

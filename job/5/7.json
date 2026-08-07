@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 5:7",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "لكن الإنسان للعَمَل يُولَد، وأبناء رَشَف يُعْلُون الطيران.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لكن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "للعَمَل"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "يُولَد"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "وأبناء"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "رَشَف"
+    },
+    {
+      "surface": "יגביהו",
+      "gloss": "يُعْلُون"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "اليران"
+    }
+  ],
+  "timestamp": "2026-08-07T04:32:52.166572905Z",
+  "model": "glm-5.2"
+}

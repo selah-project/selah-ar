@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-kings 22:47",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وبقيّة المُقدَّسين الذين بقوا في أيّام آسا أبيه، أبادهم من الأرض.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "وبقيّة"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "المُقدَّسين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "بقوا"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "في أيّام"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "בער",
+      "gloss": "أبادهم"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T01:52:19.422546157Z",
+  "model": "glm-5.2"
+}

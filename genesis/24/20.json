@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 24:20",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "و⟨أسرعت⟩ و⟨أفرغت⟩ جرّتها إلى الحوض، وركضت أيضًا إلى البئر لِتستقي، واستقت لكلّ جِماله.",
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "و⟨أسرعت⟩"
+    },
+    {
+      "surface": "ותער",
+      "gloss": "و⟨أفرغت⟩"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "جرّتها"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "השקת",
+      "gloss": "الحوض"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "وركضت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "البئر"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "لِتستقي"
+    },
+    {
+      "surface": "ותשאב",
+      "gloss": "واستقت"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لكلّ"
+    },
+    {
+      "surface": "גמליו",
+      "gloss": "جِماله"
+    }
+  ],
+  "timestamp": "2026-08-07T05:33:57.932972509Z",
+  "model": "glm-5.2"
+}

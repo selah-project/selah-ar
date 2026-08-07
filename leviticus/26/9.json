@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "وأُقبل نحوالكم وأُثمّركم وأُكثّركم، وأُقيم بريتي ⟨את⟩ معكم.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "وأُقبلُ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "نحوَكم"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "وأُثمّرُكم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "كم"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "وأُكثّرُكم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "كم"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "وأُقيمُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بريتي"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "بريتي"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "معكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:26:39.435280837Z",
+  "model": "glm-5.2"
+}

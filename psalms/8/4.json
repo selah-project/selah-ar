@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "حين أرى سماواتك أعمال أصابعك القمر والكواكب التي كَوَّنتَها",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "حين"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "أرى"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "سماواتك"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "أعمال"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "أصابعك"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "القمر"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "والكواكب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "كَوَّنتَها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:41:12.292983615Z",
+  "model": "glm-5.2"
+}

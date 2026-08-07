@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 11:19",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وعاش فَلَغ بعد ولادته ⟨את⟩ رَعُو تسعًا ومئتين سنة، وولد بنين وبنات.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "وعاش"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "فَلَغ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ولادته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رَعُو"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "رَعُو"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "تسع"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنوات"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ومئتين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "وولد"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بنين"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "وبنات"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:55.591516771Z",
+  "model": "glm-5.2"
+}

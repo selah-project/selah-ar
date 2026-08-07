@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فاضطجع داود مع آبائه، ودُفن في مدينة داود.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "فاضطجع"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "آبائه"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ودُفن"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "في مدينة"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    }
+  ],
+  "timestamp": "2026-08-07T01:42:07.997387050Z",
+  "model": "glm-5.2"
+}

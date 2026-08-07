@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 5:27",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "لا عبدٌ ولا متعثِّر فيه، لا ينعس ولا ينام، ولا ينحلّ زُنّار حقويه ولا ينقطع رباط نعليه.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "عبدٌ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "כושל",
+      "gloss": "متعثِّر"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ينعس"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "ينام"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "נפתח",
+      "gloss": "ينحلّ"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "زُنّار"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "حقويه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "נתק",
+      "gloss": "ينقطع"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "رباط"
+    },
+    {
+      "surface": "נעליו",
+      "gloss": "نعليه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:05:49.173327138Z",
+  "model": "glm-5.2"
+}

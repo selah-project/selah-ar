@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 6:11",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فاضطرب قلبُ ملكِ أرام على هذا الأمر، فدعا إلى عبيده وقال لهم: «ألا تُخبرونني من ذا من عندنا يُبلّغ ملكَ يِسرائيل؟»",
+  "tokens": [
+    {
+      "surface": "ויסער",
+      "gloss": "فاضطرب"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلبُ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملكِ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "أرام"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمرِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "فدعا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "عبيده"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ألا"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "تُخبرون"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ني"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "משלנו",
+      "gloss": "من عندنا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملكِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:54:33.943769842Z",
+  "model": "glm-5.2"
+}

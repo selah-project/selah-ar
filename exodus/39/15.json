@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 39:15",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "وصنعوا على الحوشن سلاسل مَجزولة صُنعَ عَبْطٍ من ذهب طاهر",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "وصنعوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "الحوشن"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "سلاسل"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "مَجزولة"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "صُنعَ"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "عَبْطٍ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "من ذهب"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "طاهر"
+    }
+  ],
+  "timestamp": "2026-08-07T00:14:48.015158357Z",
+  "model": "glm-5.2"
+}

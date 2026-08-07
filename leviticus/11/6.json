@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨את⟩ الأرنبة، لأنها مُعلاة جِرَّة ⟨هي⟩، وظلفًا لم تشقّص — نجسة ⟨هي⟩ لكم.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الأرنبة"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "الأرنبة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنها"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "مُعلاة"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "جِرَّة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هي⟩"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "وظلفًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "تشقّص"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "نجسة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هي⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:14.232108975Z",
+  "model": "glm-5.2"
+}

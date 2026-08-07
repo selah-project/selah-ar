@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 46,
+  "translation": "وقال يِسراإل لـيوسف: الآن أَمُتْ في هذه المرة، بعد أن رأيت ⟨את⟩ وجهك، لأنّك لا تزال حيًّا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسراإل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "أَمُتْ"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "في هذه المرة"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "أن رأيت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وجهك"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "لا تزال"
+    },
+    {
+      "surface": "חי",
+      "gloss": "حيًّا"
+    }
+  ],
+  "timestamp": "2026-08-07T07:00:13.785782204Z",
+  "model": "glm-5.2"
+}

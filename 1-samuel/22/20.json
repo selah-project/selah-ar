@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 22:20",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "ونجا ابنٌ واحدٌ لأخيميلِك بن أخيطوف، واسمه أبياتار، فهرب تاليًا دافيد.",
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "ونجا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "لأخيميلِك"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "أخيطوف"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "واسمه"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "أبياتار"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "فهرب"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "تاليًا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "دافيد"
+    }
+  ],
+  "timestamp": "2026-08-07T01:29:04.452214052Z",
+  "model": "glm-5.2"
+}

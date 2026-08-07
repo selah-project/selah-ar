@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "⟨את⟩ التابوتَ و⟨את⟩ عصيَّه ⟨את⟩ الكبّورِت و⟨את⟩ حاجبِ السّتر",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "التابوت"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "التابوت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "عصيّه"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "عصيّه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الكبّورت"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "الكبّورت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "حاجب"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "حاجب"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "الستر"
+    }
+  ],
+  "timestamp": "2026-08-07T00:13:10.516234988Z",
+  "model": "glm-5.2"
+}

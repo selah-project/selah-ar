@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 25:11",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وفي موآب أُجرِي شَفات، فيعرفون أنّي أنا يهوه.",
+  "tokens": [
+    {
+      "surface": "וּבְמוֹאָ֖ב",
+      "gloss": "وفي موآب"
+    },
+    {
+      "surface": "אֶעֱשֶׂ֣ה",
+      "gloss": "أُجرِي"
+    },
+    {
+      "surface": "שְׁפָטִ֑ים",
+      "gloss": "شَفات"
+    },
+    {
+      "surface": "וְיָדְע֖וּ",
+      "gloss": "فيعرفون"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "אֲנִ֥י",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:58:49.658893178Z",
+  "model": "glm-5.2"
+}

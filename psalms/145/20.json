@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 145,
+  "translation": "حارسٌ يهوه ⟨את⟩ كلَّ مُحبيه، و⟨את⟩ كلِّ الأشرار يُبيد",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "حارسٌ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلَّ مُحبيه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "مُحبيه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "كلِّ الأشرار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "الأشرار"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "يُبيد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:49.354551388Z",
+  "model": "glm-5.2"
+}

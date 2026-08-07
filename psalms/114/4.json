@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 114,
+  "translation": "الجبال رقصت كالكباش، التلال كأبناء القطيع،",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "الجبال"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "رقصت"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "كالكباش"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "التلال"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "كأبناء"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "القطيع"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:47.457007491Z",
+  "model": "glm-5.2"
+}

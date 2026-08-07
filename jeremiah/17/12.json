@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 17:12",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "عرشُ المجدِ، مَرتفعًا منذ الأوّل، مكانُ مقدسِنا.",
+  "tokens": [
+    {
+      "surface": "כסא",
+      "gloss": "عرشُ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "المجدِ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "مَرتفعًا"
+    },
+    {
+      "surface": "מראשון",
+      "gloss": "منذ الأوّل"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "مكانُ"
+    },
+    {
+      "surface": "מקדשנו",
+      "gloss": "مقدسِنا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:36:13.555627235Z",
+  "model": "glm-5.2"
+}

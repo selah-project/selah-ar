@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وتضع ⟨את⟩ الكبّورِت على التابوت من فوق، وإلى التابوت تعطي ⟨את⟩ الشهادة التي أعطيها لك.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "وتضع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الكبّورِت"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "الكبّورِت"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "التابوت"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "من فوق"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "التابوت"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "تعطي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشهادة"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "الشهادة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "أعطيها"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "لك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:41.585667266Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "ووضع ⟨את⟩ الحوض بين خيمة الموعد وبين المذبح، وأعطى هناك ماءً للاغتسال.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ووضع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الحوض"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "الحوض"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "وأعطى"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماءً"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "للااغتسال"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:24.823735273Z",
+  "model": "glm-5.2"
+}

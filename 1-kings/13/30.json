@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "ووضع ⟨את⟩ جثّته في قبره، فناحوا عليه: «هوي، أخي!»",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "ووضع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جثّته"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "جثّته"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "في قبره"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "فناحوا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "هوي"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "أخي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:48:29.093021006Z",
+  "model": "glm-5.2"
+}

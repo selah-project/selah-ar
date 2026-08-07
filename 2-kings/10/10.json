@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 10:10",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "«فاعلموا الآن أنه لا يسقط من كلام يهوه إلى الأرض ما كلّم به يهوه عن بيت أخاب، ويهوه فعَل ⟨את⟩ ما تكلّم به بيد عبده إيليّاهو.»",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "اعلموا"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "يسقط"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "من كلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "إلى الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "عن"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "أخاب"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ويهوه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعَل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ما تكلّم به"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بيد"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "عبده"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "إيليّاهو"
+    }
+  ],
+  "timestamp": "2026-08-07T01:56:06.527513566Z",
+  "model": "glm-5.2"
+}

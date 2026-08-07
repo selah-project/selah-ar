@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 10:8",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "في ذلك الوقت فرَز يهوه ⟨את⟩ سبط لاوي لحمل ⟨את⟩ تابوت بريت يهوه، للوقوف أمام يهوه لخدمته، وللتبريك باسمه، إلى هذا اليوم.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "في وقت"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "فرَز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سبط"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "سبط"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لاوي"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "لحمل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تابوت"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "للوقوف"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לשרתו",
+      "gloss": "لخدمته"
+    },
+    {
+      "surface": "ולברך",
+      "gloss": "وللتبريك"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "باسمه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "היום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:53:43.336409884Z",
+  "model": "glm-5.2"
+}

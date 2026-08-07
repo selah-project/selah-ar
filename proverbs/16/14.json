@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "حَمَطَةُ مَلِكٍ ⟨هي⟩ مَلاكي موت، ورَجُلٌ حَكِيمٌ يُكَفِّرُها",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "حَمَطَةُ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلِكٍ"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "مَلاكي"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ورَجُلٌ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حَكِيمٌ"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "يُكَفِّرُها"
+    }
+  ],
+  "timestamp": "2026-08-07T06:39:22.080023944Z",
+  "model": "glm-5.2"
+}

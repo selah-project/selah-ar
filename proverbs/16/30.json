@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 16:30",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "يُطبِقُ عينَيه ⟨ليُفكِّر⟩ في تقلّبات، يُضمِّرُ شفتَيه يُتمُّ شرًّا",
+  "tokens": [
+    {
+      "surface": "עצה",
+      "gloss": "يُطبِقُ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "عينَيه"
+    },
+    {
+      "surface": "לחשב",
+      "gloss": "⟨ليُفكِّر⟩"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "في تقلّبات"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "يُضمِّرُ"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "شفتَيه"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "يُتمُّ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شرًّا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:50.495061168Z",
+  "model": "glm-5.2"
+}

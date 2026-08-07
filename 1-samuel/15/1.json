@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 15:1",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "فقال شموئيل لشاؤول: ⟨إيّاي⟩ أرسل يهوه ⟨لأمسحك⟩ مَلِكًا على شعبه، على يِسرائيل. والآن اسمع لقول كلمات يهوه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "أرسل"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "أرسل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "למשחך",
+      "gloss": "لأمسحك"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ملكًا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "اسمع"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "لصوت"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلمات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:25:55.157281847Z",
+  "model": "glm-5.2"
+}

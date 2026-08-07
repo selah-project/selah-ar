@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 89:48",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "اذكر أنّي ⟨أنا⟩ ما ⟨هو⟩ زوالٌ. لِمَ هباءً خلقتَ كلَّ بني الإنسان؟",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "اذكر"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنّي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "زوال"
+    },
+    {
+      "surface": "על",
+      "gloss": "لِمَ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨تكرار استفهامي⟩"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "هباءً"
+    },
+    {
+      "surface": "בראת",
+      "gloss": "خلقتَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسان"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:18.617130197Z",
+  "model": "glm-5.2"
+}

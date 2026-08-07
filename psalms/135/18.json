@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 135,
+  "translation": "مثلهم يكون صانعوها، كلّ من يَتوكَّل عليها.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "مثلهم"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "صانعوها"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "من"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "يَتوكَّل"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "عليها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:16:26.730470054Z",
+  "model": "glm-5.2"
+}

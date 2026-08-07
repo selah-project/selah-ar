@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "لإمام ⟨الغناء⟩ ليدوتون، مزمور لداود",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لإمام"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "ليدوتون"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لداود"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:30.440958488Z",
+  "model": "glm-5.2"
+}

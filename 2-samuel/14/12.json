@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 14:12",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "فقالت المرأة: «فلتتكلّم أمتُكَ يا سيّدي الملكُ كلمةً». فقال: «تكلّمي».",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "المرأة"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "فلتتكلّم"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨أرجوك⟩"
+    },
+    {
+      "surface": "שפחתך",
+      "gloss": "أمتُكَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سيّدي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمةً"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "تكلّمي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:35:54.215642417Z",
+  "model": "glm-5.2"
+}

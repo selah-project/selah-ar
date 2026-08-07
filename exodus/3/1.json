@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وكانَ موشيه راعيًا ⟨את⟩ قطيع يِترو حَميه كوهين مديان، فساق ⟨את⟩ القطيع وراء البرية وجاء إلى جبل إلوهيم حوريفا",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "وموشيه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كانَ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "راعيًا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قطيع"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "قطيع"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "يِترو"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "حَميه"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "كوهين"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مديان"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "فساق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "القطيع"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "القطيع"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "وراء"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "البرية"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "حوريفا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:36:39.132869163Z",
+  "model": "glm-5.2"
+}

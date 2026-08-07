@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 134,
+  "ref": "psalms 119:134",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "افدِني من ظلم الإنسان، فأحفظ وصاياك.",
+  "tokens": [
+    {
+      "surface": "פדני",
+      "gloss": "افدِني"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "من ظلم"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "فأحفظ"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "وصاياك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:36.020429223Z",
+  "model": "glm-5.2"
+}

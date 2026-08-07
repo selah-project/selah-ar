@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 24:9",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فقاوم بَلاق بن صِفّور ملك موآب وقاتل ضدّ يسرائيل، وأرسل واستدعى بِلعام بن بَعور ليلعن ⟨את⟩كم،",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "فقاوم"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بَلاق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "صِفّور"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "وقاتل"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ضدّ يسرائيل"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "وأرسل"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "واستدعى"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "بِلعام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "بَعور"
+    },
+    {
+      "surface": "לקלל",
+      "gloss": "ليلعن"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "كم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:12:04.530012088Z",
+  "model": "glm-5.2"
+}

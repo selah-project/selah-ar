@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "«كانوا سورًا علينا ليلًا ونهارًا، كلَّ أيّام كوننا معهم نرعى الغنم.»",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "سورًا"
+    },
+    {
+      "surface": "היו",
+      "gloss": "كانوا"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "علينا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "و"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ليلًا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "و"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "نهارًا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "كوننا"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "معهم"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "نرعى"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "الغنم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:29:42.719035685Z",
+  "model": "glm-5.2"
+}

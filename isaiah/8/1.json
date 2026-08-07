@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وقال يهوه لي: خذْ لنفسك لوحًا كبيرًا، واكتبْ عليه بأسلوب بشريّ: «لِمَهير-شلال-حاش-باز».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "קח",
+      "gloss": "خذْ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "لوحًا"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "كبيرًا"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "واكتبْ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "بأسلوب"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "بشريّ"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "لِمَهير"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "-شلال"
+    },
+    {
+      "surface": "חש",
+      "gloss": "-حاش"
+    },
+    {
+      "surface": "בז",
+      "gloss": "-باز"
+    }
+  ],
+  "timestamp": "2026-08-07T02:05:16.547043641Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "انكشافُ كلماتِك يُنير، يُفهِمُ البُسطاء.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "انكشافُ"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "كلماتِك"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "يُنير"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "يُفهِمُ"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "البُسطاء"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:32.725985368Z",
+  "model": "glm-5.2"
+}

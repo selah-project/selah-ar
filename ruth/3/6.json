@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فنزلت إلى البيدر وفعلت كلّ ما أوصت به حماتُها.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "فنزلت"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "إلى البيدر"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "وفعلت"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "أوصت به"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "حماتها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:47:32.760185051Z",
+  "model": "glm-5.2"
+}

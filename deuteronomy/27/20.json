@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "ملعون ⟨من⟩ يضاجع امرأة أبيه، لأنه كشف ذيل أبيه، و⟨يقول⟩ كل الشعب: آمين.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملعون"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "يضاجع"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "كشف"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ذيل"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و⟨يقول⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:30.017207046Z",
+  "model": "glm-5.2"
+}

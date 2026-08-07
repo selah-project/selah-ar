@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 14:26",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وقال يهوه لموشيه: «ابسط ⟨את⟩ يدك على البحر، فليرجعِ الماء على مصرايم، على مركباته وعلى فرسانه».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ابسط"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يدك"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدك"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "فليرجع"
+    },
+    {
+      "surface": "המים",
+      "gloss": "الماء"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "مركباته"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "فرسانه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:03:48.938809305Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "وَصَعِدَ إلوهيم مِنْ عَلَيْهِ في المكان الذي تكلّم فيه ⟨معه⟩.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "وصعد"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "من عليه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "في المكان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:45.500761457Z",
+  "model": "glm-5.2"
+}

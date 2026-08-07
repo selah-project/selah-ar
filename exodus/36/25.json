@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "ولِجانبِ المِشكانِ الثاني نحوَ جهةِ صَفون صَنعَ عشرينَ لوحًا",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "ولِجانب"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "المِشكان"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "الثاني"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "نحوَ جهةِ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "صَفون"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صَنعَ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "عشرينَ"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "ألواح"
+    }
+  ],
+  "timestamp": "2026-08-07T00:13:58.434688349Z",
+  "model": "glm-5.2"
+}

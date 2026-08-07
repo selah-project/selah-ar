@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 11:10",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "فَقال شيوخ جلعاد لِيِفْتاح: «يهوه ⟨هو⟩ السامع بيننا، إن لا هكذا حسب كلامك كذلك نفعل».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "فَقال"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "شيوخ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "جلعاد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "يِفْتاح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "السامع"
+    },
+    {
+      "surface": "בינותינו",
+      "gloss": "بيننا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "حسب كلامك"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "نفعل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:16:55.436854680Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "ونوحٌ وجد حِنًا في عيني يهوه.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "ونوحٌ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "وجد"
+    },
+    {
+      "surface": "חן",
+      "gloss": "حِنًا"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عيني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:34:17.680547626Z",
+  "model": "glm-5.2"
+}

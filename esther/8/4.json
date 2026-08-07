@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "ومدَّ الملك لإِسْتير ⟨את⟩ صولجان الذهب، فقامت إِسْتير ووقفت أمام الملك.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "ومدَّ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "لإِسْتير"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صولجان الذهب"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "صولجان"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "الذهب"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "فقامت"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "إِسْتير"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "وقفت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:55:45.985262458Z",
+  "model": "glm-5.2"
+}

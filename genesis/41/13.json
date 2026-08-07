@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "«و⟨كان⟩ كما فتَر لنا، كذلك كان: ⟨את⟩ي ردّ على منصّتي، و⟨את⟩ه علّق».",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "فتَر"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "كذلك"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ي",
+      "marks": "ردّ"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "ردّ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כני",
+      "gloss": "منصّتي"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "و⟨את⟩ه",
+      "marks": "علّق"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "علّق"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:16.745140129Z",
+  "model": "glm-5.2"
+}

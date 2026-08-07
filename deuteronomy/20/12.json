@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "وإن لم تُسالمك، بل صنعت معك حربًا، فضايقتَ عليها.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "تُسالمك"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "صنعت"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "حربًا"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "فضايقتَ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "عليها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:02.308168952Z",
+  "model": "glm-5.2"
+}

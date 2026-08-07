@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وتضع في التابوت ⟨את⟩ الشهادة التي أُعطيك.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "وتضع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "في"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "التابوت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشّهادة"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "الشهادة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "أُعطيك"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إيّاك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:21.090887674Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 5:11",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "مظلومٌ أفرايم، مَحقورٌ في الحُكم، لأنه شاء أن يسير وراء أمر.",
+  "tokens": [
+    {
+      "surface": "עשוק",
+      "gloss": "مظلومٌ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "أفرايم"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "مَحقورٌ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "في الحُكم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "شاء"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "أن يسير"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وراء"
+    },
+    {
+      "surface": "צו",
+      "gloss": "أمر"
+    }
+  ],
+  "timestamp": "2026-08-07T03:20:07.372861242Z",
+  "model": "glm-5.2"
+}

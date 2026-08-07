@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 21:9",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فصنع موشيه ⟨את⟩ نَحَشَ النُّحاس، ووضعه على الراية، وكان إذا لَدَغَ النَّحَشُ ⟨את⟩ رجل، فنظر إلى نَحَشِ النُّحاس، ⟨ف⟩عاش.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "فصنع"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "نَحَش"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "نُحاس"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "ووضعه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הנס",
+      "gloss": "الراية"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "لَدَغ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "النَّحَش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رجل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "והביט",
+      "gloss": "فنظر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "نَحَش"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "النُّحاس"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "عاش"
+    }
+  ],
+  "timestamp": "2026-08-07T00:37:42.004439959Z",
+  "model": "glm-5.2"
+}

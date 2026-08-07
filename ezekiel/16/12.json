@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 16:12",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "ووضعتُ خاتمًا في أنفكِ، وحلقاتٍ في أُذنيكِ، وتاجَ بهاءٍ على رأسكِ.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "ووضعتُ"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "خاتمًا"
+    },
+    {
+      "surface": "על",
+      "gloss": "في"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "أنفكِ"
+    },
+    {
+      "surface": "ועגילים",
+      "gloss": "وحلقاتٍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "في"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "أُذنيكِ"
+    },
+    {
+      "surface": "ועטרת",
+      "gloss": "وتاجَ"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "بهاءٍ"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "على رأسكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:59:45.925725968Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "لإلمناتِّع، على الثُّماني. مزمور لداوِد.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لإلمناتِّع"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "الثُّماني"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لداوِد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:42:14.550697273Z",
+  "model": "glm-5.2"
+}

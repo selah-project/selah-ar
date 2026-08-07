@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "المُعوَجُّ القلب لا يجدُ خيرًا، والمُنقلبُ بلسانه يسقطُ في الرّذيلة.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "المُعوَجّ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "القلب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "يجد"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خيرًا"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "والمُنقلب"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "بِلسانه"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "يسقط"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "في الرّذيلة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:28.233038057Z",
+  "model": "glm-5.2"
+}

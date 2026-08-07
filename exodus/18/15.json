@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فقال موشيه لحَثْنِه: «لأن الشعب يأتي إليّ ليطلب إلوهيم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "لحَثْنِه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "يأتي"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "ليطلب"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:28.702302454Z",
+  "model": "glm-5.2"
+}

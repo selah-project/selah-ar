@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وكان اسم ابنه البكر يوئيل، واسم الثاني أَفياه، شوفَر في بئر سبع.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "البكر"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "يوئيل"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "واسم"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "الثاني"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "أَفياه"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "شوفَر"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "في بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبع"
+    }
+  ],
+  "timestamp": "2026-08-07T01:22:22.601352781Z",
+  "model": "glm-5.2"
+}

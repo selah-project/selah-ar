@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 6:22",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "حينئذٍ كلّم دانيئيل ⟨مع⟩ الملك: «أيها الملك، لِالعلمين عِش!»",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "حينئذٍ"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانيئيل"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨مع⟩"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "كلّم"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "لِالعلمين"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "عِش"
+    }
+  ],
+  "timestamp": "2026-08-07T08:20:46.040510309Z",
+  "model": "glm-5.2"
+}

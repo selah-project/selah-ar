@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 118,
+  "translation": "طيّبٌ ⟨أن⟩ يحتمي بيهوه من الاتّكال على النُّدماء",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "طيّبٌ"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "⟨أن⟩ يحتمي"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "بيهوه"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "من الاتّكال"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "على النُّدماء"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:13.179799156Z",
+  "model": "glm-5.2"
+}

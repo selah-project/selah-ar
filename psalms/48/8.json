@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "بروَحٍ شرقيةٍ تُحطِّمُ سفنَ ترشيش",
+  "tokens": [
+    {
+      "surface": "בְּר֥וּחַ",
+      "gloss": "بروَحٍ"
+    },
+    {
+      "surface": "קָדִ֑ים",
+      "gloss": "شرقيةٍ"
+    },
+    {
+      "surface": "תְּ֝שַׁבֵּ֗ר",
+      "gloss": "تُحطِّمُ"
+    },
+    {
+      "surface": "אֳנִיּ֥וֹת",
+      "gloss": "سفنَ"
+    },
+    {
+      "surface": "תַּרְשִֽׁישׁ",
+      "gloss": "ترشيش"
+    }
+  ],
+  "timestamp": "2026-08-07T03:51:33.590838411Z",
+  "model": "glm-5.2"
+}

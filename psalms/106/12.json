@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 106,
+  "translation": "فآمنوا بكلامه، غنّوا تَهِلَتَه.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "فآمنوا"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "بكلامه"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "غنّوا"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "تَهِلَتَه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:14.680391565Z",
+  "model": "glm-5.2"
+}

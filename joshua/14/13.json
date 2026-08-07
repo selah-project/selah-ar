@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "فباركه يهوشوع، وأعطى ⟨את⟩ حبرون لكلاب بن يفنّه لنَهلة.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "فباركه"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشوع"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "وأعطى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حبرون"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حبرون"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "لكلاب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "يفنّه"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "لنَهلة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:06:13.116788519Z",
+  "model": "glm-5.2"
+}

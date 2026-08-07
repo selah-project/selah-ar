@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "يهوه يُحاربُ عنكم، وأنتم تصمتون.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "يحارب"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "عنكم"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "وأنتم"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "تصمتون"
+    }
+  ],
+  "timestamp": "2026-08-07T05:36:30.504062088Z",
+  "model": "glm-5.2"
+}

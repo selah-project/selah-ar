@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "أَبْغَضْتُ الحرَسَةَ أباطيلَ شوء، أمّا أنا فعلى يهوه توكّلتُ.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "أبغضتُ"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "الحرَسةَ"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "أباطيلَ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "شوء"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "وأمّا أنا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "على"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "توكّلتُ"
+    }
+  ],
+  "timestamp": "2026-08-07T06:04:11.832421592Z",
+  "model": "glm-5.2"
+}

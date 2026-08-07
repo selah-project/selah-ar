@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 29:30",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "و⟨كان⟩ كلمة يهوه إلى يرمياو قائلاً:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرمياو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    }
+  ],
+  "timestamp": "2026-08-07T02:41:49.002876781Z",
+  "model": "glm-5.2"
+}

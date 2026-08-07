@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 1:8",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "خطيئةً أخطأت يروشالايم، لذلك صارت لمنفّسة. كلّ مُكرِميها احتقروها لأنّهم رأوا عورتها. هي أيضًا تنهّدت ورجعت إلى الوراء.",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "خطيئةً"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "أخطأت"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "לנידה",
+      "gloss": "لمنفّسة"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "صارت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "מכבדיה",
+      "gloss": "مُكرِميها"
+    },
+    {
+      "surface": "הזילוה",
+      "gloss": "احتقروها"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّهم"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "رأوا"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "عورتها"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "נאנחה",
+      "gloss": "تنهّدت"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ورجعت"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "إلى الوراء"
+    }
+  ],
+  "timestamp": "2026-08-07T04:49:25.958719472Z",
+  "model": "glm-5.2"
+}

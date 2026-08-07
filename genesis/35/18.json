@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 35:18",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "و⟨كان⟩ في خروج نَفْسِها — لأنها ماتت — فدعت اسمَه بِن-أوني، وأبوه دعا له بِنيامين.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "في خروج"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "نَفْسِها"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "מתה",
+      "gloss": "ماتت"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "فدعت"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمَه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אוני",
+      "gloss": "-أوني"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "وأبوه"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "دعا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "بنيامين"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:42.267104625Z",
+  "model": "glm-5.2"
+}

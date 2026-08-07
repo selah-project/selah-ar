@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "و⟨את⟩ بنيه تُقرّب، وتلبسهم قُمصًا.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بنيه"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "بنيه"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "تُقرّب"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "وتلبسهم"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "قُمصًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:05.080261732Z",
+  "model": "glm-5.2"
+}

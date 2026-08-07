@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 37:13",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "سواءٌ ⟨لِـ⟩ عصبٍ، أو ⟨لِـ⟩ أرضه، أو ⟨لِـ⟩ حِسِدٍ، ⟨فهو⟩ يوجده.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "سواء"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "لِـ عصب"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أو"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "لِـ أرضه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أو"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "لِـ حِسِد"
+    },
+    {
+      "surface": "ימצאהו",
+      "gloss": "يوجده"
+    }
+  ],
+  "timestamp": "2026-08-07T04:42:34.635833257Z",
+  "model": "glm-5.2"
+}

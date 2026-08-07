@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zephaniah 1:11",
+  "book": "zephaniah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ولولوا يا ساكني المَخْتَش، لأنّه صمتَ كلّ شعب كنعان، بُتر كلّ حاملي الفضّة.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "ولولوا"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "يا ساكني"
+    },
+    {
+      "surface": "המכתש",
+      "gloss": "المَخْتَش"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "صمتَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كنعان"
+    },
+    {
+      "surface": "נכרתו",
+      "gloss": "بُتر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "נטילי",
+      "gloss": "حاملي"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "الفضّة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:33:26.863415772Z",
+  "model": "glm-5.2"
+}

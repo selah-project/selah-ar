@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "تطلبهم ولا تجدهم، رجال خصامك يصيرون كلاشيء وكعدم، رجال حربك.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "تطلبهم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "تجدهم"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "خصامك"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "يصيرون"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "كلاشيء"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "وكعدم"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "حربك"
+    }
+  ],
+  "timestamp": "2026-08-07T02:18:19.616477744Z",
+  "model": "glm-5.2"
+}

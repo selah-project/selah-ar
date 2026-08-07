@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 9:23",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وكان جميعُ ملوكِ الأرض يطلبون ⟨את⟩ وجهَ شلوموه ليسمعوا ⟨את⟩ حكمتَه التي جعلها إلوهيم في قلبه.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكان جميعُ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ملوكِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "يطلبون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وجه شلوموه"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهَ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموه"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ليسمعوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حكمتَه"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "حكمتَه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "جعلها"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "في قلبه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:24:23.619661204Z",
+  "model": "glm-5.2"
+}

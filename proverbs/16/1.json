@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "لِلْإِنْسَانِ تَرْتِيبَاتُ لِبّ، وَمِنْ يَهوهَ جَوَابُ اللِّسَان",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "للإنسان"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "ترتيبات"
+    },
+    {
+      "surface": "לב",
+      "gloss": "لبّ"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ومن يهوه"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "جواب"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "اللسان"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:41.219694793Z",
+  "model": "glm-5.2"
+}

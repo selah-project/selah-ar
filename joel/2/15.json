@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 2:15",
+  "book": "joel",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "اضربوا شوفارًا في صهيون قدّسوا صومًا نادوا احتفالًا",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "اضربوا"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شوفارًا"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "في صهيون"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "قدّسوا"
+    },
+    {
+      "surface": "צום",
+      "gloss": "صومًا"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "نادوا"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "احتفالًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:25:07.036960899Z",
+  "model": "glm-5.2"
+}

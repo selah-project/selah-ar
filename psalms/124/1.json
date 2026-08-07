@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 124,
+  "translation": "ترنيمة ⟨المصاعد⟩ لِداؤد. لولا يهوه الذي كان لنا — فليقل الآن يسرايل:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ترنيمة"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "⟨المصاعد⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِداؤد"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "لولا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "الذي كان"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "فليقل"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T08:12:00.949882893Z",
+  "model": "glm-5.2"
+}

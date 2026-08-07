@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "هكذا قال أدوناي يهوه: شرٌّ واحد، شرٌّ، ها هو آتٍ.",
+  "tokens": [
+    {
+      "surface": "כֹּ֥ה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אָמַ֖ר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "אֲדֹנָ֣י",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יְהוִ֑ה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "רָעָ֛ה",
+      "gloss": "شرّ"
+    },
+    {
+      "surface": "אַחַ֥ת",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "רָעָ֖ה",
+      "gloss": "شرّ"
+    },
+    {
+      "surface": "הִנֵּ֥ה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "בָאָֽה",
+      "gloss": "آتٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:55:27.544073707Z",
+  "model": "glm-5.2"
+}

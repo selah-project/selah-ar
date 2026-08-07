@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 10:21",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "هو تَهيلَتُكَ وهو إلوهيمكِ الذي صنع معكِ ⟨את⟩ العظائم و⟨את⟩ المهوباتِ هذه التي رأتهما عيناكَ.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "تَهيلَتُكَ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمكِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنع"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "معكِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "العظائم"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "العظائم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "المهوباتِ"
+    },
+    {
+      "surface": "הנוראת",
+      "gloss": "المهوباتِ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "رأتهما"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "عيناكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:53:16.747185751Z",
+  "model": "glm-5.2"
+}

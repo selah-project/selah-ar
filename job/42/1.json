@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "فأجاب أيّوف ⟨إلى⟩ ⟨את⟩ يهوه وقال:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "فأجاب"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "أيّوف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    }
+  ],
+  "timestamp": "2026-08-07T04:44:39.655907378Z",
+  "model": "glm-5.2"
+}

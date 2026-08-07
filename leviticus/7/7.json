@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 7:7",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "كخطيئةٍ كأشامٍ، توراةٌ واحدةٌ لهما؛ الكوهنُ الذي يكفّرُ بها له يكونُ.",
+  "tokens": [
+    {
+      "surface": "כחטאת",
+      "gloss": "كخطيئة"
+    },
+    {
+      "surface": "כאשם",
+      "gloss": "كأشام"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "توراة"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "واحدة"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهما"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "يكفّر"
+    },
+    {
+      "surface": "בו",
+      "gloss": "بها"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:59.939615619Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 9:21",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "و⟨את⟩ الصدور و⟨את⟩ فخذ اليمين حرّكها أهرون تحريكًا أمام يهوه كما أوصى موشيه.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الصدور"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "الصدور"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "فخذ"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "فخذ"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "اليمين"
+    },
+    {
+      "surface": "הניף",
+      "gloss": "حرّك"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهرون"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "تحريك"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:31.513822191Z",
+  "model": "glm-5.2"
+}

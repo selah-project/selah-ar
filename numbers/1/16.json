@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "هؤلاء ⟨هم⟩ مَدعوُّو ⟨ال⟩جماعة، رؤساء أسباط آبائهم، رؤوس أُلوف يسرائيل هم.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "مَدعوُّو"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨ال⟩جماعة"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "رؤساء"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "أسباط"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "آبائهم"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "رؤوس"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "أُلوف"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:33.741912454Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 60,
+  "translation": "قومي أَضيئي لأنه قد جاء نوركِ وكرم يهوه عليكِ قد سطع",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "قومي"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "أَضيئي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "בא",
+      "gloss": "قد جاء"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "نوركِ"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "وكرم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "عليكِ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "قد سطع"
+    }
+  ],
+  "timestamp": "2026-08-07T02:24:44.269332555Z",
+  "model": "glm-5.2"
+}

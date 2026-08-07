@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "و⟨تأخذ⟩ ⟨את⟩ زيت المسحة وتصبّ على رأسه، وتمسحه.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "وتأخذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زيت المسحة"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "زيت"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "المسحة"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "وتصبّ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "رأسه"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "وتمسحه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "هارون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:05.080043225Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وخرج لوطُ إليهم ⟨إلى⟩ الفتحة، والبابُ أغلقَه خلفه.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "إليهم"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوط"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "الفتحة"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "والباب"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "أغلقَ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "خلفه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:15.496933915Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 24:12",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "«اذهب وكَلِّم داوود: هكذا قال يهوه: ثلاثةً أنا حاملٌ عليك. اختر لنفسك واحدةً منها وأنا أصنعها لك».",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "اذهب"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "وكَلِّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ثلاثةً"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "נוטל",
+      "gloss": "حاملٌ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "عليك"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "اختر"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لنفسك"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "واحدةً"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "منها"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "وأنا أصنعها"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:41:14.557457870Z",
+  "model": "glm-5.2"
+}

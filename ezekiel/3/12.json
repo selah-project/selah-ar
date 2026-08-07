@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 3:12",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وحملتني روَحٌ، وسمعتُ خلفي صوتَ قعقعةٍ عظيمة: «مباركٌ مجدُ يهوه من مقامه.»",
+  "tokens": [
+    {
+      "surface": "ותשאני",
+      "gloss": "وحملتني"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روَح"
+    },
+    {
+      "surface": "ואשמע",
+      "gloss": "وسمعتُ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "خلفي"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "قعقعة"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيمة"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "مبارك"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "مجد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "من مقامه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:55:02.298122002Z",
+  "model": "glm-5.2"
+}

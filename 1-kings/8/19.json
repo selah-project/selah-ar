@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 8:19",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "«إنما أنت لا تبني البيت، بل ابنك الخارج من صلبك هو يبني البيت لاسمي.»",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "إنما"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "تبني"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨تأكيد⟩"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ابنك"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "الخارج"
+    },
+    {
+      "surface": "מחלציך",
+      "gloss": "من صلبك"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "يبني"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "لاسمي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:46:29.122342007Z",
+  "model": "glm-5.2"
+}

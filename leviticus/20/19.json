@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 20:19",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "وعورة أخت أمّك وأخت أبيك لا تكشف، لأنه ⟨את⟩ لحمه عرّى؛ ذنبهم يحملون.",
+  "tokens": [
+    {
+      "surface": "וערות",
+      "gloss": "وعورة"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "أخت"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "أمّك"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "وأخت"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أبيك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "تكشف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لحمه"
+    },
+    {
+      "surface": "שארו",
+      "gloss": "لحمه"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "عرّى"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ذنبهم"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "يحملون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:18.864969285Z",
+  "model": "glm-5.2"
+}

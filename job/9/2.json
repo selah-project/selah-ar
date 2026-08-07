@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 9:2",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "حقًا، أنا عرفتُ أنّه كذلك، ولكن كيف يتبرّر إنسانٌ مع إيل؟",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "حقًا"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "عرفتُ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "كذلك"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ولكن كيف"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "يتبرّر"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:41.289235012Z",
+  "model": "glm-5.2"
+}

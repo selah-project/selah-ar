@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فكلّم موشيه أمام يهوه قائلًا: «ها بني يسرايم لم يسمعوا إليّ، فكيف يسمعني فرعون؟ وأنا أغلَفُ الشّفاه».",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "فكلّم"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "يسمعوا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "فكيف"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "يسمعني"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "أغلَفُ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "الشّفاه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:50.040840575Z",
+  "model": "glm-5.2"
+}

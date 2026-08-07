@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 22:7",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "فقال يهوشافاط: أليس ههنا نافي لِيهوه بعد، فنسأل منه؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "يهوشافاط"
+    },
+    {
+      "surface": "האין",
+      "gloss": "أليس"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ههنا"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نافي"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "لِيهوه"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "فنسأل"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "منه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:53:05.872102081Z",
+  "model": "glm-5.2"
+}

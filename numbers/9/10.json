@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 9:10",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "كلّم بني يِسرائيل قائلًا: كلُّ إنسانٍ إن كان قد صار طامئًا لنفسٍ أو في طريقٍ بعيدةٍ لكم أو لأجيالكم، فليصنع فِسحًا ليهوه.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "كلّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "صار"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "طامئًا"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "لنفسٍ"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "في طريقٍ"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "بعيدةٍ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "لأجيالكم"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "فليصنع"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "فِسحًا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:31:05.623011719Z",
+  "model": "glm-5.2"
+}

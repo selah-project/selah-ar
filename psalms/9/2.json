@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "أحمدُ يهوه بكلِّ قلبي، أُخبرُ بكلِّ عجائبك.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "أحمدُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بكلِّ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "أُخبرُ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "بكلِّ"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "عجائبك"
+    }
+  ],
+  "timestamp": "2026-08-07T06:02:18.408550152Z",
+  "model": "glm-5.2"
+}

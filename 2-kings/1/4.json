@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 1:4",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ولذلك هكذا قال يهوه: السرير الذي صعدت إليه لا تنزل عنه، لأن موتًا تموت. ومضى إيليااه.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "ولذلك"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "السرير"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "صعدت إليه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "تنزل"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "عنه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موتًا"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "تموت"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ومضى"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "إيليااه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:52:56.508527423Z",
+  "model": "glm-5.2"
+}

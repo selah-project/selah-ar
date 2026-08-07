@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "مُحِبُّ طهارةِ القلب، ⟨صاحبُ⟩ حُظوةِ شفتيه، صاحبُه الملك.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "مُحِبُّ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "طهارة"
+    },
+    {
+      "surface": "לב",
+      "gloss": "القلب"
+    },
+    {
+      "surface": "חן",
+      "gloss": "حُظوة"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "شفتيه"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "صاحبه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "الملك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:06.652072375Z",
+  "model": "glm-5.2"
+}

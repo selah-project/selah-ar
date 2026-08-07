@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 13:3",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فحمي غضب يهوه على إسرائيل، فسلّمهم ليد حزائيل ملك أرام ولكيد بن هدداد بن حزائيل كل الأيام.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "فحمي"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "على إسرائيل"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "فسلّمهم"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ليد"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "حزائيل"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "أرام"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "وليد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "هدداد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "حزائيل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "الأيام"
+    }
+  ],
+  "timestamp": "2026-08-07T05:50:36.043692650Z",
+  "model": "glm-5.2"
+}

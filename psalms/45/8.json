@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "أحببتَ صِدِقًا و°كرهتَ° رِزْءً، لذلك مسحك إلوهيم إلهَك بزيت ابتهاج من أصحابك.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "أحببت"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "صِدِق"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "وكرهت"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "رِزْء"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "مسحك"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلهك"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "زيت"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ابتهاج"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "من أصحابك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:52:11.619762951Z",
+  "model": "glm-5.2"
+}

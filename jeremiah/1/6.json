@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فقلت: آه، أدوناي يهوه، هوذا لا أعرف أن أتكلّم، لأنني فتى أنا.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "فقلت"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "آه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "أعرف"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "أن أتكلّم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "נער",
+      "gloss": "فتى"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:28:11.209169731Z",
+  "model": "glm-5.2"
+}

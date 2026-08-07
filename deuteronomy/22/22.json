@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 22:22",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "إذا وُجد رجلٌ يضاجع امرأة ذات بعل، يموتان كلاهما أيضًا: الرجلُ النائم مع المرأة والمرأة، و⟨أنت⟩ تستأصل الشرّ من يسراائيل.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "وُجِد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلٌ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "يضاجع"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "ذات"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بَعل"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "فيموتان"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "كلاهما"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجلُ"
+    },
+    {
+      "surface": "השכב",
+      "gloss": "النائم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "المرأة"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "والمرأة"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "وتستأصلُ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "من يسراائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:58:38.137142940Z",
+  "model": "glm-5.2"
+}

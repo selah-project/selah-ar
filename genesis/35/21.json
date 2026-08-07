@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "وسافر يِسرائيل، ⟨فنصب⟩ خيمته beyond מִגְדַּל־עֵדֶر.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "وسافر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "⟨فنصب⟩"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "خيمته"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "beyond"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "מִגְדַּל־"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "עֵדֶר"
+    }
+  ],
+  "timestamp": "2026-08-07T06:59:28.500588609Z",
+  "model": "glm-5.2"
+}

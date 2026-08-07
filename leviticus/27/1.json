@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 27:1",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وكلّم يهوه موشيه ⟨قائلاً⟩،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨قائلاً⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:53.076721442Z",
+  "model": "glm-5.2"
+}

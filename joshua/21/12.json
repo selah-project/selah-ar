@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "لكنّ ⟨את⟩ حقول المدينة و⟨את⟩ ضياعها أعطوها لكالب بَن يفنّه مُلكًا له.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "حقول"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "حقول"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "ضياعها"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "ضياعها"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "أعطوها"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "لكالب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "يفنّه"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "مُلكًا له"
+    }
+  ],
+  "timestamp": "2026-08-07T01:10:56.249612523Z",
+  "model": "glm-5.2"
+}

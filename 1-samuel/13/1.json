@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "ابنَ سنةٍ شاؤولُ في مُلكِه، وسنتَينِ مَلَكَ على يسرائيل.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ابنَ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنةٍ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "في مُلكِه"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "وسنتَينِ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنتَين"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلَكَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:23:37.884756784Z",
+  "model": "glm-5.2"
+}

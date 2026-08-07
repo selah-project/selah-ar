@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "بل ⟨את⟩ يهوه إلوهيمكم تخافون، وهو يُنقذكم من يد كل أعدائكم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "بل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨بل⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلوهيمكم"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "تخافون"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "يُنقذ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "أعدائكم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:59:07.994544687Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 12:35",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وفعل بنو إسرائيل ككلمة موشيه، وسألوا من مصرايم آنية فضّة وآنية ذهب وثيابًا.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "وبنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "فعلوا"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ككلمة"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "وسألوا"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "من مصرايم"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "آنية"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضّة"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "وآنية"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهب"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "وثيابًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:03:36.360054302Z",
+  "model": "glm-5.2"
+}

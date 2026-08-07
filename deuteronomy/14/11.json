@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "كلّ طيرٍ طاهرٍ تأكلون",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "طيرٍ"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "طاهرٍ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تأكلون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:17.921080396Z",
+  "model": "glm-5.2"
+}

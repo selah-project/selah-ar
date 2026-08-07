@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 119:46",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "«و⟨أخطبُ⟩ بشهاداتك أمام ملوكٍ ولا أَخْزى.»",
+  "tokens": [
+    {
+      "surface": "ואדברה",
+      "gloss": "«و⟨أخطبُ⟩»"
+    },
+    {
+      "surface": "בעדתיך",
+      "gloss": "بشهاداتك"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ملوكٍ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "أَخْزى"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:53.333150923Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 29:26",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "فقال لاوان: لا يُفعل هكذا في مكاننا، أن نُعطى الصُّغرى أمام البِكر.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لاوان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يُفعل"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "במקומנו",
+      "gloss": "في مكاننا"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "أن نُعطى"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "الصُّغرى"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "البِكر"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:54.022518410Z",
+  "model": "glm-5.2"
+}

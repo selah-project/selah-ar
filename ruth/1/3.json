@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ومات أليملك رجلُ نعمي، فتبقّيت هي وابناها.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ومات"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "أليملك"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "نعمي"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "فتبقّيت"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "وابنا"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ابناها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:48:21.627232323Z",
+  "model": "glm-5.2"
+}

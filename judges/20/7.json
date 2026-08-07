@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 20:7",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "ها أنتم جميعكم بَنو يسرائيل، هاتوا لكم كلمةً ومشورة هنا.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "أنتم جميعكم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "هاتوا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمةً"
+    },
+    {
+      "surface": "ועצה",
+      "gloss": "ومشورة"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "هنا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:19:42.159403755Z",
+  "model": "glm-5.2"
+}

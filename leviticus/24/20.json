@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "كسرٌ تحتَ كسر، عينٌ تحتَ عين، سنٌّ تحتَ سنّ؛ كما يُحدِثُ عيبًا في إنسانٍ هكذا يُحدَثُ فيه",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "كسرٌ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحتَ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "كسر"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عينٌ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحتَ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عين"
+    },
+    {
+      "surface": "שן",
+      "gloss": "سنٌّ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحتَ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "سنّ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "يُحدِثُ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "عيبًا"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "في إنسان"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "يُحدَثُ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:26:10.385732459Z",
+  "model": "glm-5.2"
+}

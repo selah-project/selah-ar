@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "و⟨كان⟩ نحو عشرة أيام، فضرب يهوه ⟨את⟩ نافال فمات.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "نحو عشرة"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "فضرب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نافال"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نافال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "فمات"
+    }
+  ],
+  "timestamp": "2026-08-07T01:29:47.795351541Z",
+  "model": "glm-5.2"
+}

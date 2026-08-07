@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 13:19",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "و⟨كانت⟩ بافل زينة الممالك، فخرَ جَاه الكشديم، كقلب إلوهيم ⟨את⟩ سدوم و⟨את⟩ عمورة.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "و⟨كانت⟩"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافل"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "زينة"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "الممالك"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "فخرَ"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "جَاه"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "الكشديم"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "كقلب"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سدوم"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدوم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "عمورة"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "عمورة"
+    }
+  ],
+  "timestamp": "2026-08-07T02:07:14.438932699Z",
+  "model": "glm-5.2"
+}

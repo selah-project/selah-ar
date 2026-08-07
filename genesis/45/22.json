@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 45:22",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "لكلّهم أعطى لكلّ رجل بدلات ثياب، وللبيامين أعطى ثلاث مئة من فضّة وخمس بدلات ثياب.",
+  "tokens": [
+    {
+      "surface": "לכלם",
+      "gloss": "لكلّهم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطى"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "لكلّ رجل"
+    },
+    {
+      "surface": "חלפות",
+      "gloss": "بدلات"
+    },
+    {
+      "surface": "שמלת",
+      "gloss": "ثياب"
+    },
+    {
+      "surface": "ולבנימן",
+      "gloss": "وللبيامين"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطى"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ثلاث"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "من فضّة"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "وخمس"
+    },
+    {
+      "surface": "חלפת",
+      "gloss": "بدلات"
+    },
+    {
+      "surface": "שמלת",
+      "gloss": "ثياب"
+    }
+  ],
+  "timestamp": "2026-08-06T23:56:59.343195329Z",
+  "model": "glm-5.2"
+}

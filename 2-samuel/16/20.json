@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وقال أَفْشالوم لأَخيتوفَل: «أَعطوني مشورةً: ماذا نَصْنع؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "أَفْشالوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "أَخيتوفَل"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "أَعطونا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "مشورة"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "نَصْنع"
+    }
+  ],
+  "timestamp": "2026-08-07T01:36:39.992693185Z",
+  "model": "glm-5.2"
+}

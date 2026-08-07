@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 27:14",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "ورجل إذا كرّس ⟨את⟩ بيته قدسًا ليهوه، فقوّمه الكوهين بين طيّب وبين ردّيء — كما يُقوّمه الكوهين هكذا يقوم.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ورجل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "كرّس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيته"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "بيته"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدسًا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "והעריכו",
+      "gloss": "فقوّمه"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيّب"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ردّيء"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "יעריך",
+      "gloss": "يُقوّمه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "الكوهين"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "يقوم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:54.749773992Z",
+  "model": "glm-5.2"
+}

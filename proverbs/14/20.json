@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "حتى قريبه يكرهه الفقير، ومُحبّو الغنيِّ كثيرون.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "قريبه"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "يكرهه"
+    },
+    {
+      "surface": "רש",
+      "gloss": "الفقير"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "ومُحبّو"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "الغنيِّ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرون"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:43.272559688Z",
+  "model": "glm-5.2"
+}

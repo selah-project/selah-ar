@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 39:17",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "وأنجّيك في ذلك اليوم — نتواند يهوه — ولن تُدفع إلى يد الرجال الذين أنت تخاف من وجوههم.",
+  "tokens": [
+    {
+      "surface": "והצלתיך",
+      "gloss": "وأنجّيك"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نتوان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولن"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "تُدفع"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "إلى يد"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "الرجال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "تخاف"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "من وجوههم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:45:51.602097715Z",
+  "model": "glm-5.2"
+}

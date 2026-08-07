@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 5:9",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وإلى المَشرق سكن حتى دخول البرّية، من نهر فُرات، لأنّ مواشيَهم كثُرت في أرض جلعاد.",
+  "tokens": [
+    {
+      "surface": "ולמזרח",
+      "gloss": "وإلى المَشرق"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "سكن"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "دخول"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "البرّية"
+    },
+    {
+      "surface": "למן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "نهر"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "فُرات"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "مواشيَهم"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "كثُرت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "جلعاد"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:07.616486320Z",
+  "model": "glm-5.2"
+}

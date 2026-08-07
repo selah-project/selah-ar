@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 23:18",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "لأفراهام مُلكًا أمامَ بَنِي حِتّ، لدى كلِّ الداخلين في بابِ مدينته.",
+  "tokens": [
+    {
+      "surface": "לאברהם",
+      "gloss": "لأفراهام"
+    },
+    {
+      "surface": "למקנה",
+      "gloss": "مُلكًا"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "أمامَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنِي"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حِتّ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لدى كلِّ"
+    },
+    {
+      "surface": "באי",
+      "gloss": "الداخلين"
+    },
+    {
+      "surface": "שער",
+      "gloss": "في بابِ"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "مدينته"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:44.759253030Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 3:2",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فقط لمعرفة أجيال بني يسرايل، لتعليمهم الحرب، فقط الذين من قبل لم يكونوا يعرفونها.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "فقط"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لام"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "معرفة"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "أجيال"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "ללמדם",
+      "gloss": "لتعليمهم"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "الحرب"
+    },
+    {
+      "surface": "רק",
+      "gloss": "فقط"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "من قبل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "يعرفونها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:13:10.837012542Z",
+  "model": "glm-5.2"
+}

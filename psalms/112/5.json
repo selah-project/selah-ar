@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 112,
+  "translation": "طيّبٌ رجلٌ يَحْنو ويُقرِض، ⟨يُدبّر⟩ أمورَهُ بالحقّ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "طيّبٌ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلٌ"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "يَحْنو"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "ويُقرِض"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "⟨يُدبّر⟩"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "أمورَهُ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "بالحقّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:43.355489330Z",
+  "model": "glm-5.2"
+}

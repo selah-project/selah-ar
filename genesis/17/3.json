@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "فخرَّ أفراهام على وجهه، فتكلَّم إلوهيم معه قائلًا:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "فخرَّ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "وجهه"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "فتكلَّم"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:55.333550671Z",
+  "model": "glm-5.2"
+}

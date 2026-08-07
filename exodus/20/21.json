@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "ووقف الشعب من بعيد، وموشيه اقترب إلى العَرَفيل حيث هناك إلوهيم.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ووقف"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "من بعيد"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "وموشيه"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "اقترب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "العَرَفيل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "حيث"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:59.350795802Z",
+  "model": "glm-5.2"
+}

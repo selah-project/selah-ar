@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 48:30",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "وهذه مخارج المدينة من جهة الشمال: خمسمائة وأربعة آلاف قياسًا.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "وهذه"
+    },
+    {
+      "surface": "תוצאת",
+      "gloss": "مخارج"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "من جهة"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "الشمال"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "خمس"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مائة"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "وأربع"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "آلاف"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "قياسًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:20:24.779541267Z",
+  "model": "glm-5.2"
+}

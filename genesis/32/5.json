@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 32:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "وأوصى ⟨أمَر⟩ بهم قائلًا: هكذا تقولون لسيّدي لعيسو: «هكذا قال عبدك يعقوف: مع لافان غرتُ، وتأخّرتُ حتى الآن».",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "وأوصى"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "بهم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "تقولون"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "لسيّدي"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "لعيسو"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدك"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لافان"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "غرتُ"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "وتأخّرتُ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "الآن"
+    }
+  ],
+  "timestamp": "2026-08-06T23:48:43.481736156Z",
+  "model": "glm-5.2"
+}

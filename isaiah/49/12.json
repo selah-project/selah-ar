@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 49:12",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "هؤلاء من بعيد يأتون، وهؤلاء من الشمال ومن البحر، وهؤلاء من أرض سِينيم.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "هاأنتم"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "من بعيد"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "يأتون"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وها"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "من الشمال"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ومن البحر"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "وهؤلاء"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "من أرض"
+    },
+    {
+      "surface": "סינים",
+      "gloss": "سينيم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:20:38.628996548Z",
+  "model": "glm-5.2"
+}

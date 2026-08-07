@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وبكَّر يهوشُع صباحًا وعدَّ ⟨את⟩ الشعب، فصعد هو وشيوخ يسرائيل أمام الشعب نحو العاي.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "وبكَّر"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشُع"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صباحًا"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "وعدَّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "فصعد"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "وشيوخ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "העי",
+      "gloss": "نحو العاي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:04:44.851388637Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 23:6",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "هل بكثرة القوّة يخاصمني؟ لا، إنّما هو وحده يُنصِفني.",
+  "tokens": [
+    {
+      "surface": "הברב",
+      "gloss": "هل بكثرة"
+    },
+    {
+      "surface": "כח",
+      "gloss": "قوّة"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "يخاصمني"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "معي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אך",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "يَضَع\/يُنصِف"
+    },
+    {
+      "surface": "בי",
+      "gloss": "فيّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:38:56.998836200Z",
+  "model": "glm-5.2"
+}

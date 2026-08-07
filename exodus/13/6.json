@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "سبعةَ أيامٍ تأكل مَصّوت، وفي اليومِ السابعِ ⟨هو⟩ عيدٌ ليهوه.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "سبعةَ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيامٍ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "تأكل"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "مَصّوت"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "وفي اليومِ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "السابعِ"
+    },
+    {
+      "surface": "חג",
+      "gloss": "عيدٌ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T07:01:51.507829257Z",
+  "model": "glm-5.2"
+}

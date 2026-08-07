@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "قُسْمَةٌ إلهيّةٌ على شفتَي مَلِك؛ في الحُكم لا يخون فمُه.",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "قُسْمَةٌ إلهيّةٌ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "شفتَي"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلِك"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "في الحُكم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "يخون"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "فمُه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:10.188417495Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 29:18",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "بلا رؤيا ينفلتُ شعبٌ، وحافظُ توراةٍ فطوبى له.",
+  "tokens": [
+    {
+      "surface": "בְּאֵין",
+      "gloss": "بلا"
+    },
+    {
+      "surface": "חָזוֹן",
+      "gloss": "رؤيا"
+    },
+    {
+      "surface": "יִפָּרַע",
+      "gloss": "ينفلت"
+    },
+    {
+      "surface": "עַם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "וְשֹׁמֵר",
+      "gloss": "وحافظ"
+    },
+    {
+      "surface": "תוֹרָה",
+      "gloss": "توراة"
+    },
+    {
+      "surface": "אַשְׁרֵהוּ",
+      "gloss": "فطوبى له"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:15.050158871Z",
+  "model": "glm-5.2"
+}

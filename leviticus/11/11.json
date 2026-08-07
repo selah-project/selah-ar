@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "ومَقْتَةً ⟨يكونون⟩ لكم؛ من لحمهم لا تأكلون، و⟨את⟩ جيفتهم تُمَقِّتون.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "ومَقْتَة"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "يكونون"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "من لحمهم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تأكلون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "جيفتهم"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "جيفتهم"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "تُمَقِّتون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:51.481621820Z",
+  "model": "glm-5.2"
+}

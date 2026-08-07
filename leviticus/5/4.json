@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 5:4",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "أو نَفْس إذْ تحلف لتبذّر بشفتين للإساءة أو للإحسان، لكلِّ ما يبذّر به الإنسانُ بحلفٍ، وخفي عنه ثم عَلِم فهو آثم لإحدى هذه.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذْ"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "تحلف"
+    },
+    {
+      "surface": "לבטא",
+      "gloss": "لتبذّر"
+    },
+    {
+      "surface": "בשפתים",
+      "gloss": "بشفتين"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "للإساءة"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "للإحسان"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لكلِّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יבטא",
+      "gloss": "يبذّر به"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسانُ"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "بحلفٍ"
+    },
+    {
+      "surface": "ונעלם",
+      "gloss": "وخفي"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "عنه"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ثم"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "عَلِم"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "فهو آثم"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "لإحدى"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "هذه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:50.735184785Z",
+  "model": "glm-5.2"
+}

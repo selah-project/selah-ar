@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 48:7",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "وعلى حدود رأوفين، من جهة الشرق إلى جهة البحر: يهوداه واحد.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "حدود"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رأوفين"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "من جهة"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "الشرق"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "جهة"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوداه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:18:43.291386698Z",
+  "model": "glm-5.2"
+}

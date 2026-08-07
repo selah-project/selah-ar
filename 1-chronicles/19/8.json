@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "فسمع داوود، فأرسل ⟨את⟩ يوآب و⟨את⟩ كل جيش الأبطال.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "فسمع"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوآب"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كل جيش الأبطال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "جيش"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "الأبطال"
+    }
+  ],
+  "timestamp": "2026-08-07T05:17:06.471328245Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 69,
+  "translation": "اقترِب إلى نَفسي وافتدِها؛ من أجل أعدائي أعتِقني",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "اقترِب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفسي"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "وافتدِها"
+    },
+    {
+      "surface": "למען",
+      "gloss": "من أجل"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "أعدائي"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "أعتِقني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:33.082848551Z",
+  "model": "glm-5.2"
+}

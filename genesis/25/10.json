@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "الحقل الذي اقتناه أفراهام من عند بني حتّ، هناك دُفن أفراهام وسارة امرأته.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "الحقل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "اقتناه"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "من عند"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حتّ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "دُفن"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "وسارة"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "امرأته"
+    }
+  ],
+  "timestamp": "2026-08-06T23:43:10.419160932Z",
+  "model": "glm-5.2"
+}

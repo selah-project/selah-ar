@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "لا يأخذ رجلٌ ⟨את⟩ امرأةَ أبيه، ولا يكشف طرفَ ثوبِ أبيه.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "يأخذ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "امرأة"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "يكشف"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "طرف ثوب"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:58:43.659492795Z",
+  "model": "glm-5.2"
+}

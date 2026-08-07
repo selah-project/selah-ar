@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "إيلي، إيلي، لماذا تركتني؟ بعيدًا ⟨من⟩ خلاصي، كلماتُ زئيري.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "إيلي"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إيلي"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "تركتي"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "بعيدًا"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "⟨من⟩ خلاصي"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلماتُ"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "زئيري"
+    }
+  ],
+  "timestamp": "2026-08-07T06:02:03.958773725Z",
+  "model": "glm-5.2"
+}

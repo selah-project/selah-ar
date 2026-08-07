@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "ورجلٌ ⟨الذي⟩ يضاجع ⟨את⟩ عمّته، عورةَ عمّه كشف؛ خطيئتهم يحملون، عُزلاً يموتون.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ورجلٌ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "يضاجع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عمّته"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "عمّته"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "عورةَ"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "عمّه"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "كشف"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "خطيئتهم"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "يحملون"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "عُزلاً"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "يموتون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:18.865265304Z",
+  "model": "glm-5.2"
+}

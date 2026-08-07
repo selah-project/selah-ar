@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "لأنّي أَصُبّ ماءً على ظامئٍ وغُيونًا على يابسة، أَصُبّ روَحي على نسلك وبرَكَتي على مُخرِجيك.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "أَصُبّ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماءً"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "ظامئ"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "وغُيونًا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "يابسة"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "أَصُبّ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "روَحي"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "نسلك"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "وبرَكَتي"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "مُخرِجيك"
+    }
+  ],
+  "timestamp": "2026-08-07T02:19:32.782275132Z",
+  "model": "glm-5.2"
+}

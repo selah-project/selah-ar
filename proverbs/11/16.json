@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "امرأة حِنٍّ تمسك كَبود، وعُتاةً يمسكون ثروة.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "חן",
+      "gloss": "حِنٍّ"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "تمسك"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "كَبود"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "وعُتاةً"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "يمسكون"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ثروة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:24:48.177576302Z",
+  "model": "glm-5.2"
+}

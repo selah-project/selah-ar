@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "رأيتُ ⟨את⟩ الأرض، و⟨ها هي⟩ توهو وبوهو؛ و⟨نظرتُ⟩ إلى السماوات و⟨ليس⟩ نُورُها.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "رأيتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و⟨ها هي⟩"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "توهو"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "وبوهو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و⟨نظرتُ⟩ إلى"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و⟨ليس⟩"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "نُورُها"
+    }
+  ],
+  "timestamp": "2026-08-07T02:29:49.628350454Z",
+  "model": "glm-5.2"
+}

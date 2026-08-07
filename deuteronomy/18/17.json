@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 18:17",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فقال يهوه لي: «أحسنوا ⟨في⟩ ما تكلّموا به».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "أحسنوا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "تكلّموا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:56:54.622420900Z",
+  "model": "glm-5.2"
+}

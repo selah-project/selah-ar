@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 4:10",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وطعامُك الذي تأكله ⟨يكون⟩ بالوزن، عشرين شاقلًا لليوم، من وقتٍ إلى وقتٍ تأكله.",
+  "tokens": [
+    {
+      "surface": "ומאכלך",
+      "gloss": "وطعامك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "تأكله"
+    },
+    {
+      "surface": "במשקול",
+      "gloss": "بالوزن"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "عشرين"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شاقل"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "لليوم"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "من وقت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "تأكله"
+    }
+  ],
+  "timestamp": "2026-08-07T02:54:52.520072161Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 33:5",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "وبنى مذابحَ لكلِّ جندِ السماواتِ في الدارَتَينِ بيتِ يهوه.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "وبنى"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "مذابحَ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لكلِّ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "جندِ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماواتِ"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "في الدارَتَينِ"
+    },
+    {
+      "surface": "חצרות",
+      "gloss": "الدارَتَينِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيتِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:32:10.926117461Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "و⟨את⟩ الحوريّين في جبلهم شَعير، حتى إيل فاران الذي ⟨على⟩ البرّيّة.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الحوريّين"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "الحوريّين"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "في جبلهم"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "شَعير"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "איל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "فاران"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨على⟩"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "البرّيّة"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:33.058739748Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "اتّكل عليها قلبُ بعلها، وغنيمةً لا يَنقص.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "اتّكل"
+    },
+    {
+      "surface": "בה",
+      "gloss": "عليها"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلبُ"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "بعلها"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "⟨و⟩غنيمةً"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "يَنقص"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:44.924338383Z",
+  "model": "glm-5.2"
+}

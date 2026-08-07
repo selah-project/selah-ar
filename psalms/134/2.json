@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 134,
+  "translation": "ارفعوا أيديَكُم قُدسًا، وبارِكوا ⟨את⟩ يهوه.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ارفعوا"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "أيديَكُم"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قُدسًا"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "وبارِكوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:15:20.637500978Z",
+  "model": "glm-5.2"
+}

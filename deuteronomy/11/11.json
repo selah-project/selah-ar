@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 11:11",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "والأرض التي أنتم عابرون إليها لتمتلكوها أرضُ جبال ووِهاد، لمطر السماوات تشرب ماءً.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "والأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "عابرون"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "إليها"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "لتمتلكوها"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرضُ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "جبال"
+    },
+    {
+      "surface": "ובקעת",
+      "gloss": "ووِهاد"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "لمطر"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "تشرب"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماءً"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:27.542434663Z",
+  "model": "glm-5.2"
+}

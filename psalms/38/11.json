@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "قلبي خافِق، تركَني قوّتي، ونورُ عينيّ، حتى هُما ليسا معي.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "خافِق"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "تركَني"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "قوّتي"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ونورُ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "عينيّ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هُما"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليسا"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "معي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:24.168698801Z",
+  "model": "glm-5.2"
+}

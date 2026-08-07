@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 14:33",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "في قلبِ ذي فَهمٍ تستقرّ الحكمةُ، وفي وسط الجُهّال ⟨تُعرَف⟩.",
+  "tokens": [
+    {
+      "surface": "בלב",
+      "gloss": "في قلب"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "ذي فَهم"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "تستقرّ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "الحكمة"
+    },
+    {
+      "surface": "ובקרב",
+      "gloss": "وفي وسط"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "الجُهّال"
+    },
+    {
+      "surface": "תודע",
+      "gloss": "⟨تُعرَف⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:49.955416407Z",
+  "model": "glm-5.2"
+}

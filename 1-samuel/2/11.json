@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وذهب ألقَنَة إلى الراماة إلى بيته، أمّا الفتى فكان يخدم ⟨את⟩ يهوه أمام وجه عالي الكوهين.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "وذهب"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ألقَنَة"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "إلى الراماة"
+    },
+    {
+      "surface": "על",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "بيته"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "أمّا الفتى"
+    },
+    {
+      "surface": "היה",
+      "gloss": "فكان"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "يخدم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وجه"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عالي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    }
+  ],
+  "timestamp": "2026-08-07T01:20:43.542219713Z",
+  "model": "glm-5.2"
+}

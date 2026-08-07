@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "اعبُري أرضَكِ كالنهرِ، يا بنتَ ترشيشَ، لا حِزامَ بعدُ.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "اعبُري"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "أرضَكِ"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "كالنهر"
+    },
+    {
+      "surface": "בת",
+      "gloss": "يا بنتَ"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ترشيشَ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "حِزامَ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعدُ"
+    }
+  ],
+  "timestamp": "2026-08-07T05:52:44.914432826Z",
+  "model": "glm-5.2"
+}

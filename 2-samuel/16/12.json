@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 16:12",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "لعلّ يهوه يرى ⟨في⟩ مَذلّتي، ويردّ يهوه لي خيرًا بدل شَتيمته هذا اليوم.»",
+  "tokens": [
+    {
+      "surface": "אולי",
+      "gloss": "لعلّ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "يرى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "مَذلّتي"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ويردّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "خيرًا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدل"
+    },
+    {
+      "surface": "קללתו",
+      "gloss": "شَتيمته"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:37:05.664044739Z",
+  "model": "glm-5.2"
+}

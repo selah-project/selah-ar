@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "لا تَكُنْ بين شاربي الخمر، بين نهِمي اللحم، هم.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "تَكُنْ"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "بين شاربي"
+    },
+    {
+      "surface": "יין",
+      "gloss": "الخمر"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "بين نهِمي"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "اللحم"
+    },
+    {
+      "surface": "למו",
+      "gloss": "هم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:24.225882116Z",
+  "model": "glm-5.2"
+}

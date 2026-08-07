@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وكلُّ آنيةٍ مفتوحةٍ ليس عليها غطاءٌ مُشدودٌ بخيطٍ، فهي نجسة.",
+  "tokens": [
+    {
+      "surface": "וְכֹל֙",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "כְּלִ֣י",
+      "gloss": "آنية"
+    },
+    {
+      "surface": "פָת֔וּחַ",
+      "gloss": "مفتوحة"
+    },
+    {
+      "surface": "אֲשֶׁ֛ר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "צָמִ֥יד",
+      "gloss": "غطاء"
+    },
+    {
+      "surface": "פָּתִ֖יל",
+      "gloss": "بخيط"
+    },
+    {
+      "surface": "עָלָ֑יו",
+      "gloss": "عليها"
+    },
+    {
+      "surface": "טָמֵ֖א",
+      "gloss": "نجسة"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T00:38:18.848486826Z",
+  "model": "glm-5.2"
+}

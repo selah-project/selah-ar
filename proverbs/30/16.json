@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "شيولُ، ورَحِمٌ مُغلَق، وأرضٌ لا تشبع من ماء، ونارٌ لا تقول: كفى!",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "شيولُ"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "ومُغلَق"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "رَحِمٌ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "وأرضٌ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "تشبع"
+    },
+    {
+      "surface": "מים",
+      "gloss": "من ماء"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ونارٌ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "تقول"
+    },
+    {
+      "surface": "הון",
+      "gloss": "كفى"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:38.344322723Z",
+  "model": "glm-5.2"
+}

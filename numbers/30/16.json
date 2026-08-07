@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وإذا أبطلَ فأبطلَها بعدَ سمعِه، فهو يحملُ ⟨את⟩ ذنبِها.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "أبطلَ"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "فأبطلَها"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاها"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعدَ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سمعِه"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "فهو يحملُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ذنبِها"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "ذنبِها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:36.788691748Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 18:49",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "⟨هو⟩ مُنقِذي من أعدائي، بل من قوّامي ترفعني، من رجل عنف تنقذني.",
+  "tokens": [
+    {
+      "surface": "מפלטי",
+      "gloss": "مُنقِذي"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "من أعدائي"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بل"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "قوّامي"
+    },
+    {
+      "surface": "תרוממני",
+      "gloss": "ترفعني"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "من رجل"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "عنف"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "تنقذني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:43:53.181624069Z",
+  "model": "glm-5.2"
+}

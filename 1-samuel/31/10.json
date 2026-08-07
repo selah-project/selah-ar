@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "ووضعوا ⟨את⟩ عدّته بيت عَشتاروت، و⟨את⟩ جثّته طعقوا في سور بيت شان",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "ووضعوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عدّته"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "عدّته"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "عَشتاروت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "جثّته"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "جثّته"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "طعقوا"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "في سور"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "שן",
+      "gloss": "شان"
+    }
+  ],
+  "timestamp": "2026-08-07T01:31:52.634414396Z",
+  "model": "glm-5.2"
+}

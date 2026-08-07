@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 21:14",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "لذلك يُقال في سفر حروب يهوه: ⟨את⟩ وَهَب في سوفة، و⟨את⟩ النّhaulim أرنون.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "يُقال"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "في سفر"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "حروب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وَهَب"
+    },
+    {
+      "surface": "והב",
+      "gloss": "وَهَب"
+    },
+    {
+      "surface": "בסופה",
+      "gloss": "في سوفة"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "النّhaulim"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "النّhaulim"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "أرنون"
+    }
+  ],
+  "timestamp": "2026-08-07T07:12:14.358719439Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 10:7",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "و بنو كوشَ: سَبا وحَويلا وسَبْتا ورَعْما وسَبْتَخا. و بنو رَعْما: شَبا و دَدان.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "وبنو"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "كوش"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "سَبا"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "وحَويلا"
+    },
+    {
+      "surface": "וסבתה",
+      "gloss": "وسَبْتا"
+    },
+    {
+      "surface": "ורעמה",
+      "gloss": "ورَعْما"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "وسَبْتَخا"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "وبنو"
+    },
+    {
+      "surface": "רעמה",
+      "gloss": "رَعْما"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شَبا"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "ودَدان"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:15.934261655Z",
+  "model": "glm-5.2"
+}

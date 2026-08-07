@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 6:17",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وأُقيمُ عليكم صافين، أصغوا إلى صوت شوفار. فقالوا لا نُصغي.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "وأُقيمُ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "عليكم"
+    },
+    {
+      "surface": "צפים",
+      "gloss": "صافين"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "أصغوا"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "إلى صوت"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شوفار"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقالوا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נקשיב",
+      "gloss": "نُصغي"
+    }
+  ],
+  "timestamp": "2026-08-07T02:30:59.277904459Z",
+  "model": "glm-5.2"
+}

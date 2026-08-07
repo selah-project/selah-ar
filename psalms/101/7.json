@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 101,
+  "translation": "لا يسكن في وسط بيتي صانعُ الغِشّ؛ المتكلّمُ بالأكاذيب لا يثبت أمام عينيّ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "يسكن"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "بيتي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صانع"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "الغش"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "المتكلم"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "بالأكاذيب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "يثبت"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "عينيّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:06:27.320815445Z",
+  "model": "glm-5.2"
+}

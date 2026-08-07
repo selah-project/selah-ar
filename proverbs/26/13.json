@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "قال الكسول: «أسدٌ في الطريق، أسدٌ بين الساحات»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "الكسول"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "أسد"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "في الطريق"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "أسد"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "الساحات"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:15.593481510Z",
+  "model": "glm-5.2"
+}

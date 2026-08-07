@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "غير عولاة الصباح التي لعولاة التاميد تصنعون ⟨את⟩ هذه.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "غير"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "عولاة"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "الصباح"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "لعولاة"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "التاميد"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "تصنعون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هذه"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:42:43.547535356Z",
+  "model": "glm-5.2"
+}

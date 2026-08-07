@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فاقترب شاؤول من ⟨⟨⟩⟩ شموئيل في وسط الباب، وقال: «أخبرني ⟨من فضلك⟩، أين بيت الرّاءي؟».",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "فاقترب"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨إلى⟩",
+      "marks": "شموئيل"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "השער",
+      "gloss": "الباب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "أخبر"
+    },
+    {
+      "surface": "נא",
+      "gloss": "من فضلك"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ني"
+    },
+    {
+      "surface": "אי",
+      "gloss": "أين"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "الرّاءي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:23:20.704357902Z",
+  "model": "glm-5.2"
+}

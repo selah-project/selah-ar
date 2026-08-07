@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 9:27",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "«اذكر عبيدك، لأفراهام، ليتسحاق، وليعقوف. لا تلتفت إلى قساوة هذا الشعب وإلى رِشرِه وإلى خطيئته.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "اذكر"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "عبيدك"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "لأفراهام"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ليتسحاق"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "وليعقوف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תפן",
+      "gloss": "تلتفت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "קשי",
+      "gloss": "قساوة"
+    },
+    {
+      "surface": "העם",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "رِشرِه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "خطيئته"
+    }
+  ],
+  "timestamp": "2026-08-07T00:54:11.578193892Z",
+  "model": "glm-5.2"
+}

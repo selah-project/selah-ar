@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "خطيئةَ شعبي يأكلون، وإلى إثمِهم يرفعون نَفْسَهُ.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "خطيئةَ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "شعبي"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "يأكلون"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "إثمِهم"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "يرفعون"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نَفْسَهُ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:19:37.726579381Z",
+  "model": "glm-5.2"
+}

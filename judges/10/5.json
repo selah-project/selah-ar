@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وماتَ يائير ودُفنَ في قامون.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "وماتَ"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "يائير"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ودُفنَ"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "في قامون"
+    }
+  ],
+  "timestamp": "2026-08-07T01:16:27.068679731Z",
+  "model": "glm-5.2"
+}

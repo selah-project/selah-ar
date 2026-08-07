@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وكرهتُ أنا ⟨את⟩ كلَّ تعبي الذي تعبتُه تحت الشمس، ⟨الذي⟩ أتركه لِرجلٍ يكون بعدي.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "وكرهتُ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "تعبي"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "الذي أنا"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "تعبْتُه"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "الشمس"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "أتركه"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "لرجل"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعدي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:14.810278856Z",
+  "model": "glm-5.2"
+}

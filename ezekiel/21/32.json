@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 21:32",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "خرابًا، خرابًا، خرابًا أجعلُها! أيضًا هذه لم تكن، حتى مجيءِ الذي له الحُكْم، فأُعطيَهُ إيّاه.",
+  "tokens": [
+    {
+      "surface": "עוה",
+      "gloss": "خرابًا"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "خرابًا"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "خرابًا"
+    },
+    {
+      "surface": "אשימנה",
+      "gloss": "أجعلُها"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تكن"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "בא",
+      "gloss": "مجيءِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "الحُكْم"
+    },
+    {
+      "surface": "ונתתיו",
+      "gloss": "فأُعطيَهُ إيّاه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:02:26.781286330Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 22:7",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وقال داود لِشلوموه ابنِه: أنا، كان مع قلبِي لِبناء بيتٍ لاسمِ يهوه إلوهاي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "لِشلوموه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنِه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "قلبِي"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "لِبناء"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيتٍ"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "لاسمِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهاي"
+    }
+  ],
+  "timestamp": "2026-08-07T05:18:23.812664248Z",
+  "model": "glm-5.2"
+}

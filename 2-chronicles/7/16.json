@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 7:16",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "والآن اخترتُ وقدَّستُ ⟨את⟩ هذا البيت ليكون اسمي هناك إلى الأبد، وتكون عيناي وقلبي هناك كل الأيام.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "اخترتُ"
+    },
+    {
+      "surface": "והקדשתי",
+      "gloss": "وقدَّستُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هذا البيت"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ليكون"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "اسمي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "الأبد"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "وتكون"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "عيناي"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "وقلبي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "الأيام"
+    }
+  ],
+  "timestamp": "2026-08-07T05:24:50.571282157Z",
+  "model": "glm-5.2"
+}

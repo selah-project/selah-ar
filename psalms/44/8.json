@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "لأنك أنت خلّصتنا من ضاغطينا، ومبغضينا أخزيتَ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنك"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "خلّصتنا"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "من ضاغطينا"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "ومبغضينا"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "أخزيتَ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:09.783018278Z",
+  "model": "glm-5.2"
+}

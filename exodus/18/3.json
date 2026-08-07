@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "و⟨את⟩ ابنيها اللذين اسم الواحد جرشوم، لأنّه قال: «غريبًا كنتُ في أرض غريبة».",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "ابنيها"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ابنيها"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "اللذين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "الواحد"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "جرشوم"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "قال"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "غريبًا"
+    },
+    {
+      "surface": "גר",
+      "gloss": "كنتُ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "في"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "غريبة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:08.102756509Z",
+  "model": "glm-5.2"
+}

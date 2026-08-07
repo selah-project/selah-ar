@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 21:19",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وفتح إلوهيم ⟨את⟩ عينيها، فرأت بئر ماء، فذهبت وملأت ⟨את⟩ القربة ماءً، وسقت ⟨את⟩ الفتى.",
+  "tokens": [
+    {
+      "surface": "ויפקח",
+      "gloss": "وفتح"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عينيها"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "عينيها"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "فرأت"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماء"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "فذهبت"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "وملأت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "القربة"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "القربة"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماءً"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "وسقت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الفتى"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "الفتى"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:37.122352528Z",
+  "model": "glm-5.2"
+}

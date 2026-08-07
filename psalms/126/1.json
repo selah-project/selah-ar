@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 126,
+  "translation": "شير هَمعالوت. في إرجاع يهوه ⟨את⟩ شوّات صهيون، صرنا كالحالمين.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "شير"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "المعالوت"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "في إرجاع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شوّات صهيون"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "شوّات"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "صرنا"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "كالحالمين"
+    }
+  ],
+  "timestamp": "2026-08-07T04:15:43.143401353Z",
+  "model": "glm-5.2"
+}

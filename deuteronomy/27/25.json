@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "ملعونٌ ⟨مَن⟩ يأخذ رشوةً لِيَضرِبَ نَفْسَ دمٍ بريء، وقال كلّ الشعب: آمين",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملعون"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "يأخذ"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "رشوة"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "لِيَضرِبَ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْس"
+    },
+    {
+      "surface": "דם",
+      "gloss": "دم"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بريء"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:27.436086966Z",
+  "model": "glm-5.2"
+}

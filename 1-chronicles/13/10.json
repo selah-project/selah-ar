@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 13:10",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فحمي غضب يهوه على عُزّا، فضربه على أنّه أرسل يده على التابوت، فمات هناك أمام إلوهيم.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "فحمي"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בעזא",
+      "gloss": "على عُزّا"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "فضربه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "أنّه"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "أرسل"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "التابوت"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "فمات"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:21.532400610Z",
+  "model": "glm-5.2"
+}

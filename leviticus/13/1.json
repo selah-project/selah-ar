@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وكلّم يهوه موشيه وأهارون، قائلاً:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨إلى⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و⟨إلى⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    }
+  ],
+  "timestamp": "2026-08-07T07:07:39.243577171Z",
+  "model": "glm-5.2"
+}

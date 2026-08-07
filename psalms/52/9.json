@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 52:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 52,
+  "translation": "هوذا ⟨ال⟩رجلُ الذي لم يجعل إلوهيم حِصنَه، فوثق بكثرةِ ثروتِه، وعزَّ ⟨في⟩ مفسدتِه.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "يجعل"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "מעוזו",
+      "gloss": "حِصنه"
+    },
+    {
+      "surface": "ויבטח",
+      "gloss": "ووثق"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "بكثرة"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "ثروته"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "عزّ"
+    },
+    {
+      "surface": "בהותו",
+      "gloss": "في مفسدته"
+    }
+  ],
+  "timestamp": "2026-08-07T08:05:53.713428476Z",
+  "model": "glm-5.2"
+}

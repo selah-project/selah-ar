@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "الساخرُ الخمرُ، ⟨هو⟩ هديرُ المسكر، وكلَّ من يضلُّ فيها لا يتحكَّم.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "ساخر"
+    },
+    {
+      "surface": "היין",
+      "gloss": "الخمر"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هدير"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "المسكر"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "يضلّ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "يتحكّم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:52.083980833Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وفي يروشالايم سكن من بني يهوداه ومن بني بنيامين ومن بني أفرايم ومنَشّه.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "وفي يروشالايم"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "سكن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوداه"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنيامين"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "أفرايم"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "ومنَشّه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:14:08.531602507Z",
+  "model": "glm-5.2"
+}

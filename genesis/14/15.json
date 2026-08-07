@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 14:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وتقسّم عليهم ليلًا، هو وعبيده، فضربهم وطاردهم حتى حوباه، التي عن يسار دمشق.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "وتقسّم"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ليلًا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "وعبيده"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "فضربهم"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "وطاردهم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "חובה",
+      "gloss": "حوباه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "عن يسار"
+    },
+    {
+      "surface": "לדמשק",
+      "gloss": "دمشق"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:23.602137824Z",
+  "model": "glm-5.2"
+}

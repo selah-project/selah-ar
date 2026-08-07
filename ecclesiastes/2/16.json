@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 2:16",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "لأنه لا ذِكرَ للحكيم مع الأحمق إلى الأبد؛ إذ في مرور الأيّم الآتية يُنسى الكلّ، وكيف يموت الحكيم ⟨مع⟩ الأحمق؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ذِكرَ"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "للحكيم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "الأحمق"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "בשכבר",
+      "gloss": "إذ في مرور"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "الأيّم"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "الآتية"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "الكلّ"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "يُنسى"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "وكيف"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "يموت"
+    },
+    {
+      "surface": "החכם",
+      "gloss": "الحكيم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨مع⟩"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "الأحمق"
+    }
+  ],
+  "timestamp": "2026-08-07T04:50:51.079477156Z",
+  "model": "glm-5.2"
+}

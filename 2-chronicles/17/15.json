@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 17:15",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وعلى يده يهوحنان ⟨الشّريف⟩، ومعه مئتان وثمانون ألفًا.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "يهوحنان"
+    },
+    {
+      "surface": "השר",
+      "gloss": "⟨الشّريف⟩"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ومعه"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "مئتان"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "وثمانون"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفًا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:26:37.484243367Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 23:8",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "وكلّمهم قائلًا: «إن كانت معكم نفْسٌ لدفن ⟨את⟩ ميّتي من أمامي، فاسمعوني واطلبوا لي عند عفرون بن صوحر،»",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وكلّم"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "יש",
+      "gloss": "كانت"
+    },
+    {
+      "surface": "את",
+      "gloss": "مع"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "نفْسِكم"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "لدفن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ميّتي"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ميّتي"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "من أمامي"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "فاسمعوني"
+    },
+    {
+      "surface": "ופגעו",
+      "gloss": "واطلبوا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "בעפרון",
+      "gloss": "عند عفرون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "צחר",
+      "gloss": "صوحر"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:33.547046994Z",
+  "model": "glm-5.2"
+}

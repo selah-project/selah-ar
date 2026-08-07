@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 16:4",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "فدخل إلى هاغَر فحَبِلت، ولمّا رأت أنها حبلى خَفَّت سَيدتُها في عينيها.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "فدخل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "هاغَر"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "فحَبِلت"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "ولمّا رأت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنَّ"
+    },
+    {
+      "surface": "הרתה",
+      "gloss": "حبلى"
+    },
+    {
+      "surface": "ותקל",
+      "gloss": "خَفَّت"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "سَيدتُها"
+    },
+    {
+      "surface": "בעיניה",
+      "gloss": "في عينيها"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:45.760290788Z",
+  "model": "glm-5.2"
+}

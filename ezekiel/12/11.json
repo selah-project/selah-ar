@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 12:11",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "قل: «أنا مُفتَنُكم. كما فعلتُ هكذا يُفعَل بهم: في المنفى، في السبي يذهبون.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "قل"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מופתכם",
+      "gloss": "مُفتَنُكم"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "فعلتُ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يُفعَل"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بهم"
+    },
+    {
+      "surface": "בגולה",
+      "gloss": "في المنفى"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "في السبي"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "يذهبون"
+    }
+  ],
+  "timestamp": "2026-08-07T02:57:06.858393545Z",
+  "model": "glm-5.2"
+}

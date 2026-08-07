@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 115,
+  "translation": "يَزيدُكُم يهوه، إيّاكم وإيّاكم، وعلى أبنائكم.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "يَزيدُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "كُم"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "إيّاكم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "أبنائكم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:56.785807673Z",
+  "model": "glm-5.2"
+}

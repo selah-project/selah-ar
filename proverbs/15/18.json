@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 15:18",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "رجلُ حَميَّةٍ يُهيِّجُ خِصامًا، وطيءُ الأنفِ ⟨يُهدِّئُ⟩ نِزاعًا.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "رجلُ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "حَميَّةٍ"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "يُهيِّجُ"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "خصامًا"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "وطيءُ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "الأنفِ"
+    },
+    {
+      "surface": "ישקיט",
+      "gloss": "يُهدِّئُ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "نزاعًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:08.576713849Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 52,
+  "translation": "لأنه هكذا قال يهوه: مجّانًا بِعْتُم أنفسَكم، وغيرَ بمالٍ تُفْدَوْن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "مجّانًا"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "بِعْتُم أنفسَكم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "وغيرَ"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "بمالٍ"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "تُفْدَوْن"
+    }
+  ],
+  "timestamp": "2026-08-07T02:22:44.717624337Z",
+  "model": "glm-5.2"
+}

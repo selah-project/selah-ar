@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "و⟨ساقهم⟩ بأمانٍ فلم يخافوا، و⟨את⟩ أعداءهم غطّاهم البحر.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "و⟨ساقهم⟩"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "بأمانٍ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "خافوا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أعداءهم"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "أعداءهم"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "غطّاهم"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:51.188801822Z",
+  "model": "glm-5.2"
+}

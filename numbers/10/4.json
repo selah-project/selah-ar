@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 10:4",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وإن بواحدة نُفخوا، اجتمعوا إليك الرؤساء رؤساء ألوف يسرائيل.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "بواحدة"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "نُفخوا"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "اجتمعوا"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "הנשיאים",
+      "gloss": "الرؤساء"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "رؤساء"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ألوف"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:31:51.953532332Z",
+  "model": "glm-5.2"
+}

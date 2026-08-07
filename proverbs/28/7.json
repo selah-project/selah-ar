@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 28:7",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "نواطِرُ توراةً ابنٌ فهيمٌ، ومُصاحِبُ مُسَفّينَ يُخزِي أباه.",
+  "tokens": [
+    {
+      "surface": "נוצר",
+      "gloss": "نواطرُ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "توراةً"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنٌ"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "فهيمٌ"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ومصاحبُ"
+    },
+    {
+      "surface": "זוללים",
+      "gloss": "مسرفين"
+    },
+    {
+      "surface": "יכלים",
+      "gloss": "يخزي"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أباه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:53.209849197Z",
+  "model": "glm-5.2"
+}

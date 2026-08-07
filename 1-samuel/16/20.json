@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 16:20",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "فأخذ يشاي حمارًا خبزًا وقربة خمرٍ وجدي معزٍ واحدًا، وأرسلها بيد داود ابنه إلى شاؤول.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "فأخذ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "يشاي"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "حمارًا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    },
+    {
+      "surface": "ונאד",
+      "gloss": "وقربة"
+    },
+    {
+      "surface": "יין",
+      "gloss": "خمرٍ"
+    },
+    {
+      "surface": "וגדי",
+      "gloss": "وجدي"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "معزٍ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "وأرسلها"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بيد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    }
+  ],
+  "timestamp": "2026-08-07T01:26:19.210846458Z",
+  "model": "glm-5.2"
+}

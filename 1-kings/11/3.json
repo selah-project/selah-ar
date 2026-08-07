@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨كان⟩ له نساءٌ سيّداتٌ سبعُمئة، وسُرّيّاتٌ ثلاثُمئة، فمالت نساؤه ب⟨את⟩ قلبه.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "نساءٌ"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "سيّداتٌ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبع"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "وسُرّيّاتٌ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ثلاث"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "فمالت"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "نساؤه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قلبه"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "قلبه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:47:44.469163107Z",
+  "model": "glm-5.2"
+}

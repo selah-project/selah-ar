@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "فأخذ شعبُ الأرضِ ⟨את⟩ يهوأحازَ بنَ يوشيايوه، وملَّكوه بدلَ أبيهِ في يروشالايم.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "فأخذ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعبُ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرضِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوأحاز"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "يهوأحازَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنَ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "يوشيايوه"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "وملَّكوه"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلَ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيهِ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "في يروشالايم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:33:21.876618928Z",
+  "model": "glm-5.2"
+}

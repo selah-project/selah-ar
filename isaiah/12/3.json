@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 12:3",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "واستقيتُم ماءً بِابتهاجٍ من ينابيعِ الخلاص.",
+  "tokens": [
+    {
+      "surface": "ושאבתם",
+      "gloss": "واستقيتُم"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماءً"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "بِابتهاجٍ"
+    },
+    {
+      "surface": "ממעיני",
+      "gloss": "من ينابيعِ"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "الخلاص"
+    }
+  ],
+  "timestamp": "2026-08-07T02:07:28.128436715Z",
+  "model": "glm-5.2"
+}

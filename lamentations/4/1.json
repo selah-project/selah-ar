@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 4:1",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "كيف اكتنز الذّهب، يتغيّر الكتم الجيّد! تُسكَب حجارة القدس في رأس كلّ الخارج.",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "كيف"
+    },
+    {
+      "surface": "יועם",
+      "gloss": "اكتنز"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "الذهب"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "يتغيّر"
+    },
+    {
+      "surface": "הכתם",
+      "gloss": "الكتم"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "الجيّد"
+    },
+    {
+      "surface": "תשתפכנה",
+      "gloss": "تُسكَب"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "حجارة"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "القدس"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "في رأس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "الخارج"
+    }
+  ],
+  "timestamp": "2026-08-07T04:49:52.416842772Z",
+  "model": "glm-5.2"
+}

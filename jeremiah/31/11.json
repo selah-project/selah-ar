@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "لأنّ يهوه فدى ⟨את⟩ يعقوف، وفداه من يدٍ أقوى منه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "فدى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يعقوف"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "وفداه"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يدٍ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "أقوى"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:42:14.935042589Z",
+  "model": "glm-5.2"
+}

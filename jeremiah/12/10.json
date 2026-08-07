@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "رُعاةٌ كثيرون أفسدوا كَرْمي، داسوا ⟨את⟩ نَصيبي، جعلوا ⟨את⟩ نَصيب نَشِيجي قَفْرَ خراب.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "رُعاةٌ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرون"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "أفسدوا"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "كَرْمي"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "داسوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نَصيبي"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "نَصيبي"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "جعلوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نَصيب"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "نَصيب"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "نَشِيجي"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "قَفْرَ"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "خراب"
+    }
+  ],
+  "timestamp": "2026-08-07T02:34:39.274320125Z",
+  "model": "glm-5.2"
+}

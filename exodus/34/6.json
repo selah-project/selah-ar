@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 34:6",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "وعبر يهوه أمام وجهه ونادى: يهوه، يهوه، إيل رحوم وحنّون، طويل الأنفاه، وكثير الحِسِد والإمِت.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "وعبر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "وجهه"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ونادى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "رحوم"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "وحنّون"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "طويل"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "الأنفان"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "وكثير"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حِسِد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "والإمِت"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:48.725354783Z",
+  "model": "glm-5.2"
+}

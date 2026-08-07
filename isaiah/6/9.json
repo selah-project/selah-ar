@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وقال: اذهبْ وقل لهذا الشعب: اسمعوا سمعًا ولا تفهموا، وروا رؤيةً ولا تعرفوا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اذهبْ"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "وقُلتَ\/وتقول"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "لـشعب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "اسمعوا"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "سمعًا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "تفهموا"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ورُؤوا\/وانظروا"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "رؤيةً"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "تعرفوا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:05:53.331670898Z",
+  "model": "glm-5.2"
+}

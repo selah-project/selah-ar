@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 8:2",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "حتى متى ⟨تتكلّم⟩ بهذه؟ وروَح ⟨من⟩ العاصف ⟨هي⟩ أقوال فمك.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אן",
+      "gloss": "متى"
+    },
+    {
+      "surface": "תמלל",
+      "gloss": "تتكلّم"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "بهذه"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "وروَح"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "العاصف"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "أقوال"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "فمك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:25.465756393Z",
+  "model": "glm-5.2"
+}

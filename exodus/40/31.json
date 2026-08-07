@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "واغتسلوا منه موشيه وأهارون وبنوه ⟨את⟩ أيديهم و⟨את⟩ أرجلهم.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "واغتسلوا"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "وأهارون"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "وبنوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أيديهم"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "أيديهم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أرجلهم"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "أرجلهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:24.825079053Z",
+  "model": "glm-5.2"
+}

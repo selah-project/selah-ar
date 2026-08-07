@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "فألقوا كل واحد عصاه فصارت تنّينات، فابتلعت عصا أهارون ⟨את⟩ عصيّهم.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "فألقوا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كل واحد"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "عصاه"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "فصارت"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "تنّينات"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "فابتلعت"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "عصا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عصيّهم"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "عصيّهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:41.336732677Z",
+  "model": "glm-5.2"
+}

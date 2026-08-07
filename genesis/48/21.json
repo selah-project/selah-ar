@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "وقال يِسرايل ليوسف: ها أنا أموت، و⟨يكون⟩ إلوهيم معكم، ويردّ ⟨את⟩كم إلى أرض آبائكم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرايل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מת",
+      "gloss": "أموت"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و⟨يكون⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "معكم"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ويردّ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "إياكم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "آبائكم"
+    }
+  ],
+  "timestamp": "2026-08-07T07:00:34.557884320Z",
+  "model": "glm-5.2"
+}

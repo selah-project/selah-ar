@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "ستّة أيّام تجمعونه، وفي اليوم السابع شبّات لا ⟨يكون⟩ فيه.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "ستّة"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "تجمعونه"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "وفي اليوم"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "السابع"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "شبّات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:05:49.667031277Z",
+  "model": "glm-5.2"
+}

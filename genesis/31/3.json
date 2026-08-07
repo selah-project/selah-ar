@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "و⟨قال⟩ يهوه ليعقوف: عُد إلى أرض آبائك وإلى موطنك، و⟨أنا⟩ أكون معك.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و⟨قال⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "عُد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "آبائك"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "وإلى موطنك"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "و⟨أنا⟩ أكون"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:22.064148252Z",
+  "model": "glm-5.2"
+}

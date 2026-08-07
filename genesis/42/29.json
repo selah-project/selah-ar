@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 42:29",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "فجاءوا إلى يعقوف أبيهم أرضة كنعان، وأخبروه ⟨عن⟩ ⟨את⟩ كل ما جرى له، ⟨את⟩ قائلين:",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "فجاءوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "أبيهم"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "أرضة"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كنعان"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "وأخبروه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨عنه⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل ما جرى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הקרת",
+      "gloss": "ما جرى"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "قائلين"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    }
+  ],
+  "timestamp": "2026-08-06T23:52:23.744597082Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "judges 9:42",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "و⟨كان⟩ في الغد، فخرج الشعب إلى الحقل، وأخبروا أفيميلك.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "في الغد"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "فخرج"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "إلى الحقل"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "وأخبروا"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "أفيميلك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:15:38.147898424Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وأمّا ثمرُ الشجرةِ التي في وسطِ الجنّة فقال إلوهيم لا تأكلوا منه ولا تَمسّوه لئلّا تموتوا.»",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "وأمّا ثمر"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "الشجرة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "الجنّة"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تأكلوا"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "تمسّوه"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨ه⟩"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلّا"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "تموتوا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:36:10.530519546Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 10:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "على ماذا يَحْتَقِرُ الشِّرِّيرُ إلوهيم؟ قال في قلبه لا تُطالِبُ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "يَحْتَقِرُ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "الشِّرِّيرُ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "في قلبه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "تُطالِبُ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:42:25.440264733Z",
+  "model": "glm-5.2"
+}

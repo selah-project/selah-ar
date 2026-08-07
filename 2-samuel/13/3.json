@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 13:3",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "ولأمْنون صديق واسمه يوناداف بن شِمعة أخي داود، ويوناداف رجل حكيم جدًّا.",
+  "tokens": [
+    {
+      "surface": "ולאמנון",
+      "gloss": "ولأمْنون"
+    },
+    {
+      "surface": "רע",
+      "gloss": "صديق"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "واسمه"
+    },
+    {
+      "surface": "יונדב",
+      "gloss": "يوناداف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "شِمعة"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "أخي"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ויונדב",
+      "gloss": "ويوناداف"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حكيم"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:35:24.405512207Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "نَصيبي يهوه قلتُ ⟨أن أ⟩حفظ كلماتِك",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "نَصيبي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "قلتُ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "لأن أحرُس\/أحفظ"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "كلماتِك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:55.133065538Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "برَعوتهم يُفَرِّحون مَلِكًا، وبكَذِبِهم رؤساء.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "برَعوتهم"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "يُفَرِّحون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلِكًا"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "وبكَذِبِهم"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "رؤساء"
+    }
+  ],
+  "timestamp": "2026-08-07T03:20:53.982011871Z",
+  "model": "glm-5.2"
+}

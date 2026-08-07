@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "صادِقٌ أنتَ يهوه، ومستقيمةٌ مشفاتيمك.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "صادِق"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ومستقيمة"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "مشفاتيمك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:49.997824047Z",
+  "model": "glm-5.2"
+}

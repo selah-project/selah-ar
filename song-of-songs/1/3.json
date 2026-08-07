@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "لرائحةِ زيوتِكَ الطيّبةٍ، زيتٌ مُهرَاقٌ ⟨هو⟩ اسمُكَ، لذلك أحبّتكَ العلائِمُ.",
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "لرائحةِ"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "زيوتِكَ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "الطيّبةِ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "زيتٌ"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "مُهرَاقٌ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "اسمُكَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "العلائِمُ"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "أحبّوكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T06:10:55.703479460Z",
+  "model": "glm-5.2"
+}

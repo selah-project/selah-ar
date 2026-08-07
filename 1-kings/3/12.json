@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 3:12",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "ها إنّي فعلت ككلامك. ها إنّي أعطيتك قلبًا حكيمًا وفهيمًا، مثلَك لم يكن قبلك، وبعدك لا يقوم مثلك.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "إنّي فعلت"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "ككلامك"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "إنّي أعطيتك"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨لك⟩"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلبًا"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حكيمًا"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "وفهيمًا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "مثلَك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "היה",
+      "gloss": "يكن"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "قبلك"
+    },
+    {
+      "surface": "ואחריך",
+      "gloss": "وبعدك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "يقوم"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "مثلك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:42:48.780400383Z",
+  "model": "glm-5.2"
+}

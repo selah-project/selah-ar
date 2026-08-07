@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "و⟨את⟩ بَسمةَ بنتَ يِشماعيلَ أختَ نبايوت.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بسمة"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بَسمة"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "يِشماعيل"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "أخت"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "نبايوت"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:54.006573492Z",
+  "model": "glm-5.2"
+}

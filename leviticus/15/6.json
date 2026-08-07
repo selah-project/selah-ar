@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 15:6",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "والجالس على الإناء الذي جلس عليه الزار يغسل ثيابه ويرتسل في الماء ويكون طامسًا حتى المساء.",
+  "tokens": [
+    {
+      "surface": "והישב",
+      "gloss": "والجالس"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "الإناء"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "جلس"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "الزارّ"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "يغسل"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ثيابه"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ويرتسل"
+    },
+    {
+      "surface": "במים",
+      "gloss": "في الماء"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ويكون طامسًا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "المساء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:22:59.773444485Z",
+  "model": "glm-5.2"
+}

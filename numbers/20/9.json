@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "فأخذ موشيه ⟨את⟩ العصا من أمام يهوه كما أمره.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "فأخذ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "العصا"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "العصا"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "من أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "أمره"
+    }
+  ],
+  "timestamp": "2026-08-07T00:38:13.886400003Z",
+  "model": "glm-5.2"
+}

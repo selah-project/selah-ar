@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "استيقظ! لماذا تنام، يا أدوناي؟ أَنهَض! لا ترذلنا إلى الأبد.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "استيقظ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "تنام"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "يا أدوناي"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "أَنهَض"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "ترذلنا"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "إلى الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:22.154492715Z",
+  "model": "glm-5.2"
+}

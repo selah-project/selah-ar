@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "يهوه عِزّةً لِشعبِه يُعطي، يهوه يُبارِكُ ⟨את⟩ شعبَه بِالشّالوم.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עז",
+      "gloss": "عِزّةً"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "لِشعبِه"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "يُعطي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "يُبارِكُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شعبَه"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبَه"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "بِالشّالوم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:10.373830563Z",
+  "model": "glm-5.2"
+}

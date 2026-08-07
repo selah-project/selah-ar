@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "فحوّل حزقيايم وجهه إلى الجدار وصلّى إلى يهوه.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "فحوّل"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حزقيايم"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "وجهه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "الجدار"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "وصلّى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:16:15.296121612Z",
+  "model": "glm-5.2"
+}

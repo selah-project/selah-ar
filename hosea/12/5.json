@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "و⟨صارع⟩ مع ملاكٍ فغلب، بَكى وتضرّع إليه؛ بيت-إيل يجده، وهناك يكلّمنا",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "و⟨صارع⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مع"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ملاكٍ"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "فغلب"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "بكى"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "وتضرّع"
+    },
+    {
+      "surface": "לו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "يجده"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "وهناك"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "يكلّم"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "نا"
+    }
+  ],
+  "timestamp": "2026-08-07T07:56:38.775968768Z",
+  "model": "glm-5.2"
+}

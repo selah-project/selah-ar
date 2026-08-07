@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 118,
+  "translation": "أحاطوا بي، بل أحاطوا بي؛ باسم يهوه ⟨إنّي⟩ أُبادُهم",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "أحاطوا بي"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بل"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "أحاطوا بي"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "باسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨إنّي⟩"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "أُبادُهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:13.180042593Z",
+  "model": "glm-5.2"
+}

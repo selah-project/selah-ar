@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 25:29",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "ورجلٌ متى باع بيتَ سكنى مدينةٍ ذات سور، ف⟨تكون⟩ فداؤه حتى تمامِ سنةِ بيعه؛ أيامًا ⟨تكون⟩ فداؤه.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ورجل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "متى"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "باع"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "سكنى"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "ذات سور"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ف⟨تكون⟩"
+    },
+    {
+      "surface": "גאלתו",
+      "gloss": "فداؤه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "תם",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "بيعه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيامًا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨تكون⟩"
+    },
+    {
+      "surface": "גאלתו",
+      "gloss": "فداؤه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:57.335805006Z",
+  "model": "glm-5.2"
+}

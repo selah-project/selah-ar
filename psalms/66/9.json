@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 66,
+  "translation": "الّذي جعل نَفْسَنا في الحياة، ولم يَدَعْ أقدامَنا للزَّلَل.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "الّذي جعل"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "نَفْسَنا"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "في الحياة"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "يَدَعْ"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "للزَّلَل"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "أقدامَنا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:25.513715164Z",
+  "model": "glm-5.2"
+}

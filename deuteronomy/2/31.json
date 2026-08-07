@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 2:31",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وقال يهوه لي: انظر، قد بدأتُ أن أُعطي أمامك ⟨את⟩ سيحون و⟨את⟩ أرضه. ابدأْ امتلكْ لتمتلك ⟨את⟩ أرضه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "انظر"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "بدأتُ"
+    },
+    {
+      "surface": "תת",
+      "gloss": "أن أُعطي"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "أمامك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سيحون"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "سيحون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أرضه"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "أرضه"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ابدأْ"
+    },
+    {
+      "surface": "רש",
+      "gloss": "امتلكْ"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "لتمتلك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أرضه"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "أرضه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:56.662668940Z",
+  "model": "glm-5.2"
+}

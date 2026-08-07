@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 64,
+  "translation": "يبحثون عن إثم، ⟨نُتمِّم⟩ كيدًا مُحقَّقًا، و⟨داخل⟩ الإنسان والقلب عميق.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "يبحثون"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "عن إثم"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "نُتمِّم"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "كيدًا"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "مُحقَّقًا"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "و⟨داخل⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "والقلب"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "عميق"
+    }
+  ],
+  "timestamp": "2026-08-07T06:04:42.908296972Z",
+  "model": "glm-5.2"
+}

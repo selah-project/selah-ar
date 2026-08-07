@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "أمّا أنتِ أيضًا، فبدم بريتكِ، أرسلتُ أسراكِ من الجبّ الذي لا ماء فيه.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "את",
+      "gloss": "أنتِ",
+      "marks": "خطاب المؤنث الموجه إليه"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "بدم"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "بريتكِ"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "أرسلتُ"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "أسراكِ"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "من الجبّ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماء"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:37:10.279911812Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 36:10",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "ويكشف أذنهم للتأديب، ويأمر بأن يرجعوا عن إثم.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "ويكشف"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "أذنهم"
+    },
+    {
+      "surface": "למוסר",
+      "gloss": "للتأديب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ويأمر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بأن"
+    },
+    {
+      "surface": "ישבון",
+      "gloss": "يرجعوا"
+    },
+    {
+      "surface": "מאון",
+      "gloss": "عن إثم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:42:08.893120322Z",
+  "model": "glm-5.2"
+}

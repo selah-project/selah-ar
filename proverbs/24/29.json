@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 24:29",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "لا تَقُلْ «كما فَعَلَ بي هكذا أفعَلُ ⟨به⟩، أُعيدُ ⟨للرَّجُل⟩ حسبَ عملِه».",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "تَقُلْ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فَعَلَ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بي"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "أفعَلُ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨به⟩"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "أُعيدُ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "⟨للرَّجُل⟩"
+    },
+    {
+      "surface": "כפעלו",
+      "gloss": "حسبَ عملِه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:13.073498147Z",
+  "model": "glm-5.2"
+}

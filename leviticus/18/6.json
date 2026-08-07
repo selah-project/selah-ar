@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 18:6",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "إنسانٌ إنسانٌ إلى كلِّ قريبِ لحمه لا تقتربوا لكشف عورةٍ؛ أنا يهوه.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "قريب"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "لحمه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תקרבו",
+      "gloss": "تقتربوا"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "لكشف"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "عورة"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:23.298615332Z",
+  "model": "glm-5.2"
+}

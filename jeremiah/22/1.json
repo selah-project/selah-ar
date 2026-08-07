@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "كذا قال يهوه: انزل بيت ملك يهودا وتكلّم هناك ⟨את⟩ الكلام هذا،",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "كذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "רד",
+      "gloss": "انزل"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "وتكلّم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الكلام"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الكلام"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:38:45.186146684Z",
+  "model": "glm-5.2"
+}

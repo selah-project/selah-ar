@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "حتّى متى يهوه تنساني نَصْحًا، حتّى متى تحجب ⟨את⟩ وجهك عنّي؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "حتّى"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "متى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "تنساني"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "نَصْحًا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتّى"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "متى"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "تحجب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وجهك"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهك"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "عنّي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:42:35.564517810Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 5:11",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وبنو جاد تجاههم سكنوا في أرض الباشان حتى سلخة.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "وبنو"
+    },
+    {
+      "surface": "גד",
+      "gloss": "جاد"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "تجاههم"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "سكنوا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "الباشان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "سلخة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:07.616881413Z",
+  "model": "glm-5.2"
+}

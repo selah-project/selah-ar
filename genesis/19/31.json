@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 19:31",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وقالت البكر للصغرى: أبونا قد شاخ، ورجلٌ ليس في الأرض ليأتي علينا كطريقِ كلِّ الأرض.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "وقالت"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "البكر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "الصغرى"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "أبونا"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "قد شاخ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ورجلٌ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ليأتي"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "علينا"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "كطريقِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:47.858034125Z",
+  "model": "glm-5.2"
+}

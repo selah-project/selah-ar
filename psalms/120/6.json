@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 120,
+  "translation": "طالَ مُكثُها ⟨عِندي⟩ — نَفْسي، مع مُبغِضٍ شالوم.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "طالَ"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "مُكثُها"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨لها⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفْسي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "مُبغِضٍ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:13:13.831717311Z",
+  "model": "glm-5.2"
+}

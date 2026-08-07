@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "فخرج موشيه من عند فرعوه، وتضرّع إلى يهوه.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "فخرج"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "من عند"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعوه"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "وتضرّع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:20.022153208Z",
+  "model": "glm-5.2"
+}

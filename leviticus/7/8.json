@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "والكوهنُ الذي يُقرِّبُ ⟨את⟩ عولاهِ رجلٍ، جلدُ العولاه التي قرّبَها للكوهنِ له يكونُ.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "والكوهن"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "الذي يُقرّب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عولاه"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "عولاه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "עור",
+      "gloss": "جلد"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "العولاه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "قرّب"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "للكوهن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:59.941011511Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "«بلِ اسمَعِ الآن هذا الكلام الذي أنا أتكلّم به في أُذُنَيكَ وفي أُذُنَي كلِّ الشعب:",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بلِ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "اسمَعِ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "الكلام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "أتكلّم"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "به في أُذُنَيكَ"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "وفي أُذُنَي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    }
+  ],
+  "timestamp": "2026-08-07T02:42:21.710589060Z",
+  "model": "glm-5.2"
+}

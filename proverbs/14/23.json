@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "في كلِّ تعَبٍ يكون رِبْح، وكلامُ الشَّفتين إنّما ⟨هو⟩ للخَصاصة.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "في كلِّ"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "تعَبٍ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "رِبْح،"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "وكلامُ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "الشَّفتين"
+    },
+    {
+      "surface": "אך",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "للخَصاصة."
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:45.182549215Z",
+  "model": "glm-5.2"
+}

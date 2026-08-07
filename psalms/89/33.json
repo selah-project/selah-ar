@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "و⟨أُعاقِب⟩ بالقضيب عصيانهم وبالضربات إثمهم.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "و⟨أُعاقِب⟩"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "بالقضيب"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "عصيانهم"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "وبالضربات"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "إثمهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:04.897986278Z",
+  "model": "glm-5.2"
+}

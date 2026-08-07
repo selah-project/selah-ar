@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 5:16",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "حَنَكُه حلاوات، وكلُّه محاميد. هذا دودي وهذا راعي، يا بنات يروشالايم.",
+  "tokens": [
+    {
+      "surface": "חכו",
+      "gloss": "حَنَكه"
+    },
+    {
+      "surface": "ממתקים",
+      "gloss": "حلاوات"
+    },
+    {
+      "surface": "וכלו",
+      "gloss": "وكلُّه"
+    },
+    {
+      "surface": "מחמדים",
+      "gloss": "محاميد"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "دودي"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "وهذا"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "راعي"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "يا بنات"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:45:26.978394212Z",
+  "model": "glm-5.2"
+}

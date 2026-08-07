@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 24:21",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "يرعى العاقر فلا تلد، والأرملة لا يُحسِن ⟨إليها⟩.",
+  "tokens": [
+    {
+      "surface": "רֹעֶה",
+      "gloss": "يرعى"
+    },
+    {
+      "surface": "עֲקָרָה",
+      "gloss": "العاقر"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תֵלֵד",
+      "gloss": "تلد"
+    },
+    {
+      "surface": "וְאַלְמָנָה",
+      "gloss": "والأرملة"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יְיֵטִיב",
+      "gloss": "يُحسِن"
+    }
+  ],
+  "timestamp": "2026-08-07T06:09:37.869255871Z",
+  "model": "glm-5.2"
+}

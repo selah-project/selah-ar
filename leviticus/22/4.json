@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 22:4",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "كل رجلٍ من نسل أهارون، وهو أبرص أو ذو سيلان، لا يأكل من الأقداس حتى يطهر. والماسّ كل نجسٍ نَفْس أو رجلٍ تخرج منه مرقُّ زرع،",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كل"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "من نسل"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "أبرص"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "זב",
+      "gloss": "ذو سيلان"
+    },
+    {
+      "surface": "בקדשים",
+      "gloss": "من الأقداس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يأكل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "أن"
+    },
+    {
+      "surface": "יטהר",
+      "gloss": "يطهر"
+    },
+    {
+      "surface": "והנגע",
+      "gloss": "والماسّ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْس"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "تخرج"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "مرقّ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "زرع"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:24.971629054Z",
+  "model": "glm-5.2"
+}

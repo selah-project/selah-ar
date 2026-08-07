@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 29:14",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "فقال له لاوان: «حقًّا أنت عظمي ودمي.» فأقام معه شهرًا من الأيّام.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لاوان"
+    },
+    {
+      "surface": "אך",
+      "gloss": "حقًّا"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "عظمي"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "ودمي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "فأقام"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "شهرًا"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "من الأيّام"
+    }
+  ],
+  "timestamp": "2026-08-06T23:45:14.622869517Z",
+  "model": "glm-5.2"
+}

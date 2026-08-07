@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "«لذلك قُل: هأنذا أُعطيه ⟨את⟩ بريتي شالوم.»",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قُل"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "هأنذا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أُعطي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بريتي"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "بريتي"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:42:01.327367644Z",
+  "model": "glm-5.2"
+}

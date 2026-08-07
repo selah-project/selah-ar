@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "لِترهبْ من يهوه كلُّ الأرضِ، منهُ لِيرتعدْ كلُّ ساكني تِبل.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "لِترهبْ"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "من يهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرضِ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منهُ"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "لِيرتعدْ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ساكني"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "تِبل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:16.840760518Z",
+  "model": "glm-5.2"
+}

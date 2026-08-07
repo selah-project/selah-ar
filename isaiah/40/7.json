@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "ييبَسُ العُشبُ، يذبلُ الزهرُ، لأنَّ روَحَ يهوه هبَّت فيه؛ حقًّا العُشبُ ⟨هو⟩ الشعبُ.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "ييبَسُ"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "العُشبُ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "يذبلُ"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "الزهرُ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روَحَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "هبَّت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "حقًّا"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "العُشبُ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعبُ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:17:43.273365204Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "وتصنعُ على الصِّندوق حلقتينِ من ذهبٍ، وتُعطي ⟨את⟩ الحلقتينِ على طرفَيِ الصِّندوق",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "وتصنعُ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "الصِّندوق"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "حلقتينِ"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "من"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهبٍ"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "وتُعطي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الحلقتينِ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "الحلقتينِ"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": ""
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שני",
+      "gloss": "طرفَيِ"
+    },
+    {
+      "surface": "קצות",
+      "gloss": ""
+    },
+    {
+      "surface": "החשן",
+      "gloss": "الصِّندوق"
+    }
+  ],
+  "timestamp": "2026-08-07T00:09:30.229922972Z",
+  "model": "glm-5.2"
+}

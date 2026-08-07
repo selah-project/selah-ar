@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "يا ابني، توراتي لا تنسَ، و⟨أما⟩ وصاياي فليحفظها قلبك",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "يا ابني"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "توراتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "تنسَ"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ووصاياي"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "فليحفظها"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "قلبك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:21:46.474148445Z",
+  "model": "glm-5.2"
+}

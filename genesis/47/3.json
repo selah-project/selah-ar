@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 47:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 47,
+  "translation": "فقال فرعون لإخوته: «ما أعمالكم؟» فقالوا لفرعون: «رعاة قطعان ⟨هم⟩ عبيدك، كلُّنا نحن وآباؤنا.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "إخوته"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "أعمالكم"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقالوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "رعاة"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "قطعان"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "عبيدك"
+    },
+    {
+      "surface": "גם",
+      "gloss": "كلُّنا"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "نحن"
+    },
+    {
+      "surface": "גם",
+      "gloss": "و"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "آباؤنا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:57:29.907599036Z",
+  "model": "glm-5.2"
+}

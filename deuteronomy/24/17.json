@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "لا تُمِلْ مِشپات النزيل واليتيم، ولا ترتهنْ ثوبَ أرملة.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "تُمِلْ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "مِشپات"
+    },
+    {
+      "surface": "גר",
+      "gloss": "النزيل"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "واليتيم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "ترتهنْ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ثوبَ"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "أرملة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:08.813522533Z",
+  "model": "glm-5.2"
+}

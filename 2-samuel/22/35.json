@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 22:35",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "المُعلِّم يدي للحرب، فأُخضِعُ قوسًا من نحاس ذراعاي.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "المُعلِّم"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "يدي"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "للحرب"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "فأُخضِعُ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "قوسًا"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "من نحاس"
+    },
+    {
+      "surface": "זרעתי",
+      "gloss": "ذراعاي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:40:39.105892041Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 15:9",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وقال له: خُذ لي عِجلة مُثلَّثة وعنزة مُثلَّثة وكبشًا مُثلَّثًا وتُرمة وفرخًا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "קחה",
+      "gloss": "خُذ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "عِجلة"
+    },
+    {
+      "surface": "משלשת",
+      "gloss": "مُثلَّثة"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "وعنزة"
+    },
+    {
+      "surface": "משלשת",
+      "gloss": "مُثلَّثة"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "وكبشًا"
+    },
+    {
+      "surface": "משלש",
+      "gloss": "مُثلَّثًا"
+    },
+    {
+      "surface": "ותר",
+      "gloss": "وتُرمة"
+    },
+    {
+      "surface": "וגוזל",
+      "gloss": "وفرخًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:42.739276594Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "زَرْعٌ يَعْبُدُهُ، يُحْكَى لِأَدُونَاي لِدُور.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "زرع"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "يعبده"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "يُحكى"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "لأدوناي"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "لدور"
+    }
+  ],
+  "timestamp": "2026-08-07T03:45:31.408293144Z",
+  "model": "glm-5.2"
+}

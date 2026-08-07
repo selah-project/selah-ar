@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "في عُرض سور الدار، طريق الشرق، أمام المُتَجزِّرة وأمام البِنيان، لِشكوت.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "في عُرض"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "سور"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "الدار"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "طريق"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "الشرق"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "المُتَجزِّرة"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "פני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "البِنيان"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "لِشكوت"
+    }
+  ],
+  "timestamp": "2026-08-07T03:15:56.149409863Z",
+  "model": "glm-5.2"
+}

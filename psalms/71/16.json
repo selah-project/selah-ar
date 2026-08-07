@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 71,
+  "translation": "آتي بعزائم أدوناي يهوه، أُذكِّر بصِدقِكَ أنتَ وحدك.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "آتي"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "بعزائم"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "أُذكِّر"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "بصِدقِكَ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "أنتَ وحدك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:58:19.911671629Z",
+  "model": "glm-5.2"
+}

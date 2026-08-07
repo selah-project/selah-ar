@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "ملك شِمرون-مِرون، واحد؛ ملك أَكشاف، واحد؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شِمرون"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "مِرون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "أَكشاف"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    }
+  ],
+  "timestamp": "2026-08-07T01:06:18.622239404Z",
+  "model": "glm-5.2"
+}

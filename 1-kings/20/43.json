@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 20:43",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "وذهب ملك إسرايل إلى بيته عابسًا وممتعضًا، ودخل شومرون.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "وذهب"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرايل"
+    },
+    {
+      "surface": "על",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "بيته"
+    },
+    {
+      "surface": "סר",
+      "gloss": "عابسًا"
+    },
+    {
+      "surface": "וזעף",
+      "gloss": "وممتعضًا"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ودخل"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "شومرون"
+    }
+  ],
+  "timestamp": "2026-08-07T05:49:24.220729492Z",
+  "model": "glm-5.2"
+}

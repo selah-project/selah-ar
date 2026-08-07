@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "حيٌّ أنا — نَأْمُ أدوناي يهوه — لا يكونُ لكم بعدُ مثْلُ المثلِ هذا في يسرايل.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "حيٌّ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نَأْمُ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكونُ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعدُ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "مثْلُ"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "المثل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "في يسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:01:08.458415441Z",
+  "model": "glm-5.2"
+}

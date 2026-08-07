@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "كَلِماتُ فمِ الحكيمِ حُظوةٌ، وشفاهُ الجاهلِ تَبتلِعُه.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "كلمات"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فم"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "الحكيم"
+    },
+    {
+      "surface": "חן",
+      "gloss": "حظوة"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "وشفاه"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "الجاهل"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "تَبتلعُه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:27.995827138Z",
+  "model": "glm-5.2"
+}

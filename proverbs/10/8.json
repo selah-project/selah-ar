@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "حكيمُ القلب يتلقّى وصايا، وغبيُّ الشفاه يسقط.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "حكيم"
+    },
+    {
+      "surface": "לב",
+      "gloss": "القلب"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "يتلقّى"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "وصايا"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "وغبيّ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "الشفاه"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "يسقط"
+    }
+  ],
+  "timestamp": "2026-08-07T04:23:44.304096341Z",
+  "model": "glm-5.2"
+}

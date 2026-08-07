@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "كَشَريحةِ الرُمّان صدغُكِ من وراء نقابِكِ.",
+  "tokens": [
+    {
+      "surface": "כְּפֶלַח",
+      "gloss": "كَشَريحةِ"
+    },
+    {
+      "surface": "הָרִמּוֹן",
+      "gloss": "الرُمّان"
+    },
+    {
+      "surface": "רַקָּתֵךְ",
+      "gloss": "صدغُكِ"
+    },
+    {
+      "surface": "מִבַּעַד",
+      "gloss": "من وراء"
+    },
+    {
+      "surface": "לְצַמָּתֵךְ",
+      "gloss": "نقابِكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:45:46.462902050Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فسمع موشيه، وطاب ⟨ذلك⟩ في عينيه.",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁמַע",
+      "gloss": "فسمع"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "וַיִּיטַב",
+      "gloss": "وطاب"
+    },
+    {
+      "surface": "בְּעֵינָיו",
+      "gloss": "في عينيه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:24.087492695Z",
+  "model": "glm-5.2"
+}

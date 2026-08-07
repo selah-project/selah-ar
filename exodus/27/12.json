@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 27:12",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وعرضُ الدار لجهة يام: ستائر خمسون ذراعًا، عمُدُها عشرة وقواعدُها عشرة.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "وعرضُ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "الدار"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "لجهة"
+    },
+    {
+      "surface": "ים",
+      "gloss": "يام"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "ستائر"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "خمسون"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ذراعًا"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "عمُدُها"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرة"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "وقواعدُها"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:35.314896745Z",
+  "model": "glm-5.2"
+}

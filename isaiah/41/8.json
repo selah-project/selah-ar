@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "وأنتَ يا يسراائيلَ عبدي، يعقوفُ الذي اخترتُكَ، زرعُ أفراهامَ مُحِبّي،",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "وأنت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يا يسراائيل"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عبدي"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "اخترتُك"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "زرع"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "مُحِبّي"
+    }
+  ],
+  "timestamp": "2026-08-07T02:17:53.003964580Z",
+  "model": "glm-5.2"
+}

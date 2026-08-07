@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "ورشوةً لا تأخذ، لأنّ الرشوة تُعْمي البصراء وتُعوِّج كلمات الصِّدّيقين",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "ورشوةً"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "تأخذ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "الرشوة"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "تُعْمي"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "البصراء"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "وتُعوِّج"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلمات"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "الصِّدّيقين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:13.960499790Z",
+  "model": "glm-5.2"
+}

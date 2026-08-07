@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "esther 9:30",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وأرسل رسائلًا إلى كل اليهود إلى سبع وسبعين ومئة ولاية مملكة أحشويروش كلامَ شالوم وإمِت",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "وأرسل"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "رسائل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "اليهود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبع"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "وسبعين"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ومئة"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "ولاية"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "مملكة"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "أحشويروش"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلامَ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "وإمِت"
+    }
+  ],
+  "timestamp": "2026-08-07T04:55:46.035091057Z",
+  "model": "glm-5.2"
+}

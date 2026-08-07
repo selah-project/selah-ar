@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "و⟨شرب⟩ من الخمر و⟨سكر⟩، و⟨تعرّى⟩ داخل خيمته",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "و⟨شرب⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "היין",
+      "gloss": "الخمر"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "و⟨سكر⟩"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "و⟨تعرّى⟩"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "داخل"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "خيمته"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:47.131123371Z",
+  "model": "glm-5.2"
+}

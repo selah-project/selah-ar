@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "ووَلَّدَ عَزَرْياه ⟨את⟩ أمَرْياه، وأمَرْياه وَلَّدَ ⟨את⟩ أخيتوف.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ووَلَّدَ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عَزَرْياه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أمَرْياه"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "أمَرْياه"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "وأمَرْياه"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وَلَّدَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أخيتوف"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "أخيتوف"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:42.279686980Z",
+  "model": "glm-5.2"
+}

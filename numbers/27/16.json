@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 27:16",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "«ليَفْتَقِدْ يهوه إلوهيم أرواح كل بشر رجُلًا على الجماعة،",
+  "tokens": [
+    {
+      "surface": "יפקד",
+      "gloss": "ليَفْتَقِدْ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "הרוחת",
+      "gloss": "أرواح"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بشر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجُلًا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "الجماعة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:42:39.279157646Z",
+  "model": "glm-5.2"
+}

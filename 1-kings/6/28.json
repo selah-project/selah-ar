@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وغشّى ⟨את⟩ الكَروڤيم ذهبًا.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "وغشّى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الكَروڤيم"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "الكَروڤيم"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهبًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:44:27.121191934Z",
+  "model": "glm-5.2"
+}

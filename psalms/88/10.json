@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 88,
+  "translation": "عيني ذَوِيَتْ من العَنَاء، إليك ناديتُ يا يهوه كلَّ يوم، بسطتُ نحوك كفّيَّ.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "عيني"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "ذَوِيَتْ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "من"
+    },
+    {
+      "surface": "עני",
+      "gloss": "العَنَاء"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ناديتُك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "بسطتُ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "نحوك"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "كفّيَّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:38.480625344Z",
+  "model": "glm-5.2"
+}

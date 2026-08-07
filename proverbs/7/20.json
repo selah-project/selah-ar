@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 7:20",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "صُرّةَ الفضّة أخذ بيدِه؛ يومَ القمر ⟨البدر⟩ يأتي ⟨إلى⟩ بيته.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "صُرّةَ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "الفضّة"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "أخذ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "بيدِه"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "يومَ"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "القمر"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "يأتي"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "⟨إلى⟩ بيته"
+    }
+  ],
+  "timestamp": "2026-08-07T04:23:15.403328770Z",
+  "model": "glm-5.2"
+}

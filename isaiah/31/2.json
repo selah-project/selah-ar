@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 31:2",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "وهو أيضًا حكيمٌ، فأَدخل شرًّا، و⟨את⟩ كلماته لم يُزِل، وقام على بيت مُفسدين وعلى معونة فعلةٍ باطل.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حكيم"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "فأَدخل"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "كلماته"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "كلماته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "أَزال"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "وقام"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "مُفسدين"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "معونة"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "فعلة"
+    },
+    {
+      "surface": "און",
+      "gloss": "باطل"
+    }
+  ],
+  "timestamp": "2026-08-07T02:14:15.827889144Z",
+  "model": "glm-5.2"
+}

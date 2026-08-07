@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "أنت تتكلّم ⟨את⟩ كلّ ما أُوصيك به، وأهارون أخوك يتكلّم ⟨إلى⟩ فرعون، ⟨لـ⟩يُطلِق ⟨את⟩ بني يسرايل من أرضه.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "تتكلّم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "أُوصيك"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "وأهارون"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "أخوك"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "يتكلّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ويُطلِق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بني يسرايل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "من أرضه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:01:22.272243985Z",
+  "model": "glm-5.2"
+}

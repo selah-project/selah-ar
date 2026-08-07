@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وسِرتُ ⟨ب⟩كم أربعين سنة في البريّة: لم تبلى ثيابكم عنكم ونعلك لم يبلَ ⟨من⟩ على قدمك.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "وسِرتُ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨ب⟩كم"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "أربعين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في البريّة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "تبلى"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "ثيابكم"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "عنكم"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "ونعلك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "يبلَ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "⟨من⟩ على"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "قدمك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:07.939484865Z",
+  "model": "glm-5.2"
+}

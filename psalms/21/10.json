@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "تجعلهم كتَنّور نار ⟨في⟩ وقت وجهك؛ يهوه في غضبه يبتلعهم، وتأكلهم نار.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "تجعلهم"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "كتَنّور"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نار"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "⟨في⟩ وقت"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "في غضبه"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "يبتلعهم"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "وتأكلهم"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نار"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:01.289572804Z",
+  "model": "glm-5.2"
+}

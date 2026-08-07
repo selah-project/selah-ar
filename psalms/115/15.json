@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 115,
+  "translation": "مُبارَكونَ أنتم لِيهوه، صانعِ السماواتِ والأرض.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "مُبارَكون"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "لِيهوه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صانع"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "والأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:56.785912268Z",
+  "model": "glm-5.2"
+}

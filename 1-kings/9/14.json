@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فأرسل حيرام إلى الملك مئة وعشرين وزنة ذهب.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "حيرام"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "إلى الملك"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "وعشرين"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "وزنة"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهب"
+    }
+  ],
+  "timestamp": "2026-08-07T01:46:11.327687842Z",
+  "model": "glm-5.2"
+}

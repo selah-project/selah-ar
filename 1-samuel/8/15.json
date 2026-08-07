@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وزرعَكم وكرومَكم يُعشِّرُ ويعطي لخصيانِه ولعبيدِه",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "وزرعكم"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "وكرمكم"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "يعشّر"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ويعطي"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "لخصيانه"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "ولعبيده"
+    }
+  ],
+  "timestamp": "2026-08-07T01:22:11.137603715Z",
+  "model": "glm-5.2"
+}

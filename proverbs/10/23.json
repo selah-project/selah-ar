@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 10:23",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "كالضحك للجلّ فعَلُ المكرمة، ⟨و⟩الحكمة لرجل فهْم.",
+  "tokens": [
+    {
+      "surface": "כשחוק",
+      "gloss": "كالضحك"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "للجل"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "فعل"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "المكرمة"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "والحكمة"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "لرجل"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "فهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:24:42.606743802Z",
+  "model": "glm-5.2"
+}

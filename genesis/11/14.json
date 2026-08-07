@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وشلاح عاش ثلاثين سنة، وولد ⟨את⟩ عيبر",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "وشلاح"
+    },
+    {
+      "surface": "חי",
+      "gloss": "عاش"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ثلاثين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "وولد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عيبر"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عيبر"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:08.887435764Z",
+  "model": "glm-5.2"
+}

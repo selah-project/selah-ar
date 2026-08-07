@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وتقدّم الفلِشتي صباحًا ومساءً، فوقف أربعين يومًا.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "وتقدّم"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "الفلِشتي"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "صباحًا"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "ومساءً"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "فوقف"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "أربعين"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يومًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:26:26.708536554Z",
+  "model": "glm-5.2"
+}

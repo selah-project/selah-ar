@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 115,
+  "translation": "أمّا نحن فنبارك ياه من الآن وإلى الأبد. هلّلوا ياه!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "أمّا نحن"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "فنبارك"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "من الآن"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "الأبد"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "هلّلوا"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:52.994379179Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 24:22",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "لكن إن كان قايين للاستئصال، فإلى متى يأخذك آشور سبيًّا؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لكن"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "للاستئصال"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قايين"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מה",
+      "gloss": "متى"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "آشور"
+    },
+    {
+      "surface": "תשבך",
+      "gloss": "يأخذك سبيًّا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:39:09.860948760Z",
+  "model": "glm-5.2"
+}

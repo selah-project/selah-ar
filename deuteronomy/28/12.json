@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 28:12",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "يفتح يهوه لك ⟨את⟩ كنزه الطيّب، ⟨את⟩ السماء، ليعطي مطر أرضك في حينه، ويبارك ⟨את⟩ كل عمل يدك، وتُقرِض أممًا كثيرة، أمّا أنت فلا تستقرِض.",
+  "tokens": [
+    {
+      "surface": "יפתח",
+      "gloss": "يفتح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كنزه الطيّب"
+    },
+    {
+      "surface": "אוצרו",
+      "gloss": "كنزه"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "الطيّب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "السماء"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماء"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ليعطي"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "مطر"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "أرضك"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "في حينه"
+    },
+    {
+      "surface": "ולברך",
+      "gloss": "ويبارك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل عمل يدك"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدك"
+    },
+    {
+      "surface": "והלוית",
+      "gloss": "وتُقرِض"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "أممًا"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرة"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "أمّا أنت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "تستقرِض"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:51.222639935Z",
+  "model": "glm-5.2"
+}

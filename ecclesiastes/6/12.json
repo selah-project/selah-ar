@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 6:12",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "لأنه مَن يَعرف ما الطيّبُ للإنسان في الحياة، عددَ أيامِ حياةِ هَوائه، ويَصنعُها كالظلّ — الذي مَن يُخبرُ الإنسانَ ما يكون من بعدِه تحتَ الشمس؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "يَعرف"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "الطيّبُ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "للإنسان"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "في الحياة"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "عددَ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيامِ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "حياةِ"
+    },
+    {
+      "surface": "הבלו",
+      "gloss": "هَوائه"
+    },
+    {
+      "surface": "ויעשם",
+      "gloss": "ويَصنعُها"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "كالظلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "يُخبرُ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "الإنسانَ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "من بعدِه"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحتَ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "الشمس"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:28.370038362Z",
+  "model": "glm-5.2"
+}

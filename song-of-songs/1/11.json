@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "طُيُوبٌ من ذهَبٍ نَصنَعُ لكِ مَع نُقَطٍ من الفِضّة",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "طُيُوب"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "من ذهَب"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "نَصنَعُ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكِ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مَع"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "نُقَط"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "من الفِضّة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:44:30.403002697Z",
+  "model": "glm-5.2"
+}

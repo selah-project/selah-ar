@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 8:11",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "فجاءت إليه الحمامة عند وقت المساء، وإذا ورق زيتون طُرِف حديثًا في فمها، فعرف نوح أن المياه قد خفّت عن الأرض.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "فجاءت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "الحمامة"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "عند وقت"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "المساء"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ورق"
+    },
+    {
+      "surface": "זית",
+      "gloss": "زيتون"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "طُرِف حديثًا"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "في فمها"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "فعرف"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أن"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "قد خفّت"
+    },
+    {
+      "surface": "המים",
+      "gloss": "المياه"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "عن"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T05:34:15.015506993Z",
+  "model": "glm-5.2"
+}

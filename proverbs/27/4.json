@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 27:4",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "قسوةُ حُميّا وفيضانُ أنف، ومن ذا يقف أمام الغيرة",
+  "tokens": [
+    {
+      "surface": "אכזריות",
+      "gloss": "قسوةُ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "حُميّا"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "وفيضانُ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "أنف"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ومن ذا"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "يقف"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "الغيرة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:37.349127256Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 86,
+  "translation": "احفظْ نَفسي لأنّي ذو حِسِدٍ أنا؛ خلِّصْ عبدَكَ، أنت إلوهيم⟨،⟩ أنا المتوكِّلُ عليك",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "احفظْ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفسي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ذو حِسِد"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "خلِّصْ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدَكَ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "المتوكِّل"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "عليك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:49.385478564Z",
+  "model": "glm-5.2"
+}

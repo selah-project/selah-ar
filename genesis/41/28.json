@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "هو الأمرُ الذي تكلّمتُ به إلى فِرعون، ما يصنعه إلوهيم أراه لِفِرعون. ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمرُ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "تكلّمتُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "به إلى"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فِرعون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "يصنعه"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "أراه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فِرعون"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "لِفِرعون"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:07.359115370Z",
+  "model": "glm-5.2"
+}

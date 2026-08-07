@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "في ذلك الوقت مرِض أفيّا بن ياروفعام.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "في وقت"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "مرِض"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "أفيّا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ياروفعام"
+    }
+  ],
+  "timestamp": "2026-08-07T01:48:29.150831137Z",
+  "model": "glm-5.2"
+}

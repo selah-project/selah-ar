@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 9:5",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فأخذوا ⟨את⟩ الذي أوصى به موشيه إلى وجه خيمة الموعد، فاقتربت كل الجماعة ووقفت أمام يهوه.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "فأخذوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الذي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "فاقتربت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "الجماعة"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ووقفت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:11.977265242Z",
+  "model": "glm-5.2"
+}

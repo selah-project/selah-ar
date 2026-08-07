@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 20:3",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "وخاص الشعب مع موشيه وقالوا قائلين: يا ليتنا هلكنا عندما هلك إخوتنا أمام يهوه.",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "وخاص"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقالوا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "يا ليت"
+    },
+    {
+      "surface": "גוענו",
+      "gloss": "هلكنا"
+    },
+    {
+      "surface": "בגוע",
+      "gloss": "عندما هلك"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "إخوتنا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:38:07.071350510Z",
+  "model": "glm-5.2"
+}

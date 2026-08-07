@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 32:28",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "وفعل بنو ليفي كقول موشيه، فسقط من الشعب في ذلك اليوم نحوَ ثلاثة آلاف رجل.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "وفعل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ليفي"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "كقول"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "فسقط"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك اليوم"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "نحوَ ثلاثة"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "آلاف"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:52.786043826Z",
+  "model": "glm-5.2"
+}

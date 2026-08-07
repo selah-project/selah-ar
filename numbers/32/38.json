@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 32:38",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "و⟨את⟩ نَبو و⟨את⟩ بَعل مَعون مُحوَّلةَ الأسماء و⟨את⟩ سِبمة، ودعوا بأسماءٍ ⟨את⟩ أسماء المدن التي بنوها",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "نبو"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "نَبو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بعل معون"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بَعل"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "مَعون"
+    },
+    {
+      "surface": "מוסבת",
+      "gloss": "مُحوَّلة"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسمًا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "سبمة"
+    },
+    {
+      "surface": "שבמה",
+      "gloss": "سِبمة"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ودعوا"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بأسماء"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أسماء"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "أسماء"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "المدن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بنوها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:14.649630234Z",
+  "model": "glm-5.2"
+}

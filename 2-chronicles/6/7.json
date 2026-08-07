@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 6:7",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وكان مع قلب داود أبي أن يبني بيتًا لاسم يهوه إلهِ يسرائيل.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "لבנות",
+      "gloss": "أن يبني"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيتًا"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "لاسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلهِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:20:50.759913761Z",
+  "model": "glm-5.2"
+}

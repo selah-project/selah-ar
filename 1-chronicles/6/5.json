@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "لِجرشوم: لبني ابنه، يحات ابنه، زِمّاه ابنه.",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "لِجرشوم"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لبني"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "يحات"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "زِمّاه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:14.818608707Z",
+  "model": "glm-5.2"
+}

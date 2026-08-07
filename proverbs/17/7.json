@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "لا تَلِيقُ ⟨ب⟩الجاهلِ شفةُ فُضولٍ، فكيف ⟨ب⟩النديبِ شفةُ كذبٍ؟",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "تَلِيق"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "بالجاهل"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "شفة"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "فُضول"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "كيف"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "بالنديب"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "شفة"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "كذب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:29.962312Z",
+  "model": "glm-5.2"
+}

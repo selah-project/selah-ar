@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "وكلّم يهوه موشيه، قائلًا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:28.633258923Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 63:10",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 63,
+  "translation": "وهم تمرّدوا وأحزنوا ⟨את⟩ روح قدسه، فتحوّل لهم إلى عدوّ، هو حارب فيهم.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "وهم"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "تمرّدوا"
+    },
+    {
+      "surface": "ועצבו",
+      "gloss": "وأحزنوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "روح"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "قدسه"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "فتحوّل"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "إلى عدوّ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "حارب"
+    },
+    {
+      "surface": "בם",
+      "gloss": "فيهم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:27:09.128105302Z",
+  "model": "glm-5.2"
+}

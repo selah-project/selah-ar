@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 57,
+  "translation": "ثابتٌ قلبي يا إلوهيم، ثابتٌ قلبي، أُشيرُ ⟨و⟩أُعزف.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ثابتٌ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "يا إلوهيم"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ثابتٌ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "أُشيرُ"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "⟨و⟩أُعزف"
+    }
+  ],
+  "timestamp": "2026-08-07T06:04:21.950320773Z",
+  "model": "glm-5.2"
+}

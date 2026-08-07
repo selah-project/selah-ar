@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "ولم يستطع الكهنة ⟨أن⟩ يدخلوا بيت يهوه، لأن مجد يهوه ملأ ⟨את⟩ بيت يهوه.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "يستطع"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكهنة"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "⟨أن⟩ يدخلوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨إلى⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ملأ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "مجد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:22:05.378442484Z",
+  "model": "glm-5.2"
+}

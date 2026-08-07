@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 30:17",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "واسمع إلوهيم ⟨صوتَ⟩ لِئاه فحَبِلت وولدت ليعقوف ابنًا خامسًا.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "واسمع"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لِئاه"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "فحَبِلت"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "وولدت"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ليعقوف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنًا"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "خامسًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:55.803609114Z",
+  "model": "glm-5.2"
+}

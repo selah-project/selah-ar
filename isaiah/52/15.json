@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 52:15",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 52,
+  "translation": "هكذا ينضح أممًا كثيرة. عليه يُطبِق الملوك أفواههم، لأن الذي لم يُحَدَّثوا به رأوا، والذي لم يسمعوه تبصّروا",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "ينضح"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "أممًا"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرة"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "יקפצו",
+      "gloss": "يُطبِق"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "الملوك"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "أفواههم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "يُحَدَّث"
+    },
+    {
+      "surface": "להם",
+      "gloss": "به"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "رأوا"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "والذي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "يسمعوه"
+    },
+    {
+      "surface": "התבוננו",
+      "gloss": "تبصّروا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:21:45.644461397Z",
+  "model": "glm-5.2"
+}

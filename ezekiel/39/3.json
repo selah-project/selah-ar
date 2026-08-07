@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 39:3",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "وأضرِب قوسك من يدك اليسرى، و⟨أسقط⟩ سهامك من يدك اليمنى.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "وأضرِب"
+    },
+    {
+      "surface": "קשתך",
+      "gloss": "قوسك"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يدك"
+    },
+    {
+      "surface": "שמאולך",
+      "gloss": "اليسرى"
+    },
+    {
+      "surface": "וחציך",
+      "gloss": "وسهامك"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يدك"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "اليمنى"
+    },
+    {
+      "surface": "אפיל",
+      "gloss": "⟨أسقط⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T03:11:57.153575789Z",
+  "model": "glm-5.2"
+}

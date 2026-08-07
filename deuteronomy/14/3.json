@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "لا تأكل رجسًا.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "تأكل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "رجسًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:24.709786540Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 32:19",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "«عمّن أنتِ أجملُ؟ انزلي واضطجعي مع الخُلْف!»",
+  "tokens": [
+    {
+      "surface": "ממי",
+      "gloss": "عمّن"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "أنتِ أجملُ"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "انزلي"
+    },
+    {
+      "surface": "והשכבה",
+      "gloss": "واضطجعي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الخُلْف"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "الخُلْف"
+    }
+  ],
+  "timestamp": "2026-08-07T03:08:41.862516668Z",
+  "model": "glm-5.2"
+}

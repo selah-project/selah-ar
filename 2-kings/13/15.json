@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فقال له أليشع: «خذ قوسًا ⟨وجُعَلاً». فأخذ إليه قوسًا ⟨وجُعَلاً.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "أليشع"
+    },
+    {
+      "surface": "קח",
+      "gloss": "خذ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "قوسًا"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "⟨و⟩جُعَلاً"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "فأخذ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "قوسًا"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "⟨و⟩جُعَلاً"
+    }
+  ],
+  "timestamp": "2026-08-07T01:57:44.136641288Z",
+  "model": "glm-5.2"
+}

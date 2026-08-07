@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "إلوهيم ◌ إصرُخ نهارًا ولا تُجيب، وفي الليل ولا ⟨تكون⟩ هُدأةٌ لي.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "أصرُخ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "نهارًا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "تُجيب"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "وفي الليل"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "هدأة"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    }
+  ],
+  "timestamp": "2026-08-07T06:04:19.768707206Z",
+  "model": "glm-5.2"
+}

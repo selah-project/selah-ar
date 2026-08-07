@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 144,
+  "translation": "يهوه، ما هو الإنسانُ حتى تعرفَه، ابنُ البشر حتى تُحسبَه؟",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسانُ"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "حتى تعرفَه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنُ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "البشر"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "حتى تُحسبَه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:39.125571989Z",
+  "model": "glm-5.2"
+}

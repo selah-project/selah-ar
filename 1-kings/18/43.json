@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 18:43",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وقال لفتاه: اصعد الآن وانظر طريقَ البحر. فصعد ونظر وقال: ليس شيء. فقال: عُد سبعَ مرّات.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "فتاه"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "اصعد"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "وانظر"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "طريقَ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "فصعد"
+    },
+    {
+      "surface": "ויבט",
+      "gloss": "ونظر"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "شيء"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "שב",
+      "gloss": "عُد"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبعَ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "مرّات"
+    }
+  ],
+  "timestamp": "2026-08-07T01:50:17.036114524Z",
+  "model": "glm-5.2"
+}

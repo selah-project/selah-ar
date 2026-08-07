@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "و⟨את⟩ قَدَموت و⟨את⟩ مراعيها، و⟨את⟩ مِيفَعات و⟨את⟩ مراعيها.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "قَدَموت"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "قَدَموت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مراعيها"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مراعيها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مِيفَعات"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "مِيفَعات"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مراعيها"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مراعيها"
+    }
+  ],
+  "timestamp": "2026-08-07T05:12:36.642714144Z",
+  "model": "glm-5.2"
+}

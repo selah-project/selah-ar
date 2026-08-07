@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 130,
+  "translation": "لأنَّ عندكَ السَّلِيخَة، لأجلِ ⟨أنْ⟩ تُتَّقَى.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "عندك"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "السليخة"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لأجل"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "تُتَّقَى"
+    }
+  ],
+  "timestamp": "2026-08-07T04:15:58.461520813Z",
+  "model": "glm-5.2"
+}

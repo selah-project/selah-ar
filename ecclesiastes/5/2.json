@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "لأنّ الحلم يأتي في كثرة الشُّغل، وصوت الجاهل في كثرة الكلمات.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "يأتي"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "الحلم"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "في كثرة"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "الشُّغل"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "وصوت"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "الجاهل"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "في كثرة"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "الكلمات"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:41.917068920Z",
+  "model": "glm-5.2"
+}

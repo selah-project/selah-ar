@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ومعكم يكونون رجالٌ، رجلٌ لسبط، رجلٌ رأسٌ لبيت آبائه هو.»",
+  "tokens": [
+    {
+      "surface": "וְאִתְּכֶם",
+      "gloss": "ومعكم"
+    },
+    {
+      "surface": "יִהְיוּ",
+      "gloss": "يكونون"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "رجالٌ"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "رجلٌ"
+    },
+    {
+      "surface": "לַמַּטֶּה",
+      "gloss": "لسبط"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "رجلٌ"
+    },
+    {
+      "surface": "רֹאשׁ",
+      "gloss": "رأسٌ"
+    },
+    {
+      "surface": "לְבֵית",
+      "gloss": "لبيت"
+    },
+    {
+      "surface": "אֲבֹתָיו",
+      "gloss": "آبائه"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:18.550542699Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 4:18",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وصنع شلومو كلّ الأواني هذه بكثرةٍ جدًّا، لأنّه لم يُفحَص وزن النحاس",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وصنع"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "الأواني"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "بكثرة"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "נחקר",
+      "gloss": "يُفحَص"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "وزن"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "النحاس"
+    }
+  ],
+  "timestamp": "2026-08-07T05:20:58.440679820Z",
+  "model": "glm-5.2"
+}

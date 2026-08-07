@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "لأنَّ الحِكمةَ تأتي في قلبك، والمعرفةُ للنَّفْسِ تُلذُّ،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "تأتي"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "الحِكمةَ"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "في قلبك"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "والمعرفةُ"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "للنَّفْسِ"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "تُلذُّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:21:23.200134323Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "قنطارُ ذهبٍ طاهرٍ صنعها ⟨أي⟩ ⟨את⟩ كلِّ آنيتها",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "قنطارُ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهبٍ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "طاهرٍ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنع"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ آنيتها"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "آنيتها"
+    }
+  ],
+  "timestamp": "2026-08-07T05:37:26.347691570Z",
+  "model": "glm-5.2"
+}

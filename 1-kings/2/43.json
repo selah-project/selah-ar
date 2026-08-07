@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "ولماذا لم تحفظ ⟨את⟩ قسم يهوه و⟨את⟩ الوصيّة التي أوصيتُها عليك؟",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "ولماذا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "تحفظ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قسم يهوه"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "قسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الوصيّة"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "الوصيّة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "أوصيتُها"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "عليك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:43:19.804686132Z",
+  "model": "glm-5.2"
+}

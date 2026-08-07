@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 2:4",
+  "book": "joel",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "كمنظرِ خيلٍ منظرُهم، وكفوارسَ هكذا يَركُضون.",
+  "tokens": [
+    {
+      "surface": "כמראה",
+      "gloss": "كمنظرِ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "خيلٍ"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "منظرُهم"
+    },
+    {
+      "surface": "וכפרשים",
+      "gloss": "وكفوارسَ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "يَركُضون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:25:17.021024813Z",
+  "model": "glm-5.2"
+}

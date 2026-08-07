@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "مَنْ يُعْطِي طَاهِرًا مِنْ نَجِسٍ؟ لَا أَحَدَ.",
+  "tokens": [
+    {
+      "surface": "מִֽי",
+      "gloss": "من"
+    },
+    {
+      "surface": "יִתֵּ֣ן",
+      "gloss": "يُعطي\/يهَب"
+    },
+    {
+      "surface": "טָ֭הוֹר",
+      "gloss": "طاهر"
+    },
+    {
+      "surface": "מִטָּמֵ֗א",
+      "gloss": "من نجس"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "أحد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:35:22.389992984Z",
+  "model": "glm-5.2"
+}

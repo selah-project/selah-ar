@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 9:19",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فقال جميع الرؤساء لكل الجماعة: «نحن حلَفنا لهم بيوهه إله يسرائيل، والآن لا نقدر أن نمسّهم».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميع"
+    },
+    {
+      "surface": "הנשיאים",
+      "gloss": "الرؤساء"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "الجماعة"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "نحن"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "حلَفنا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "بيهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إله"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "نقدر"
+    },
+    {
+      "surface": "לנגע",
+      "gloss": "أن نمسّ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "هم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:04:25.077341259Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 7:23",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "اصنع السلسلة، لأنّ الأرض امتلأت من حكم دماء، والمدينة امتلأت عنفًا.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "اصنع"
+    },
+    {
+      "surface": "הרתוק",
+      "gloss": "السلسلة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "امتلأت"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "من حكم"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "دماء"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "والمدينة"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "امتلأت"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "عنفًا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:54:55.737739099Z",
+  "model": "glm-5.2"
+}

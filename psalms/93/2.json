@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 93,
+  "translation": "ثابتٌ كُرْسِيُّكَ مِنْذُئِذٍ، مِنَ ٱلأَزَلِ أَنْتَ.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ثابتٌ"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "كُرْسِيُّكَ"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "مِنْذُئِذٍ"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "مِنَ ٱلأَزَلِ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أَنْتَ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:20.276990353Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "و⟨أنا⟩ أضع ⟨את⟩ لحمك على الجبال، و⟨أنا⟩ أملأ الأودية بكومة جثثك.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "و⟨أنا⟩ أضع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لحمك"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "لحمك"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "الجبال"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "و⟨أنا⟩ أملأ"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "الأودية"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "كومة جثثك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:08:00.452614517Z",
+  "model": "glm-5.2"
+}

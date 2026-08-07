@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 19:17",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "مُقرِضُ يهوه ⟨هو⟩ يَصْنَعُ معروفًا للفقير، ومَعروفَه يُوفيه له.",
+  "tokens": [
+    {
+      "surface": "מלוה",
+      "gloss": "مُقرِضُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "يَصْنَعُ معروفًا"
+    },
+    {
+      "surface": "דל",
+      "gloss": "للفقير"
+    },
+    {
+      "surface": "וגמלו",
+      "gloss": "ومَعروفَه"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "يُوفيه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:32.028695492Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 13:12",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وها الحائط سقط! ألا يُقال لكم: «أين الطّين الذي طَيّنتموه؟»",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "وها"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "سقط!"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "الحائط"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ألا"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "يُقال"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "איה",
+      "gloss": "«أين"
+    },
+    {
+      "surface": "הטיח",
+      "gloss": "الطّين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "טחתם",
+      "gloss": "طَيّنتموه؟»"
+    }
+  ],
+  "timestamp": "2026-08-07T02:58:50.674162502Z",
+  "model": "glm-5.2"
+}

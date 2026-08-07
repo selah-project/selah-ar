@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 20:26",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "مَلِكٌ حَكيمٌ يُذَري الأشرارَ، ويُدِيرُ ⟨عليهم⟩ العَجَلَةَ.",
+  "tokens": [
+    {
+      "surface": "מזרה",
+      "gloss": "يُذَري"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الأشرار"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلِك"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حَكيم"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ويُدِير"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "العَجَلَة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:14.703890256Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 5:9",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "الصانعُ عظائمَ ولا ⟨من⟩ فحصٍ، وعجائبُ إلى أن لا ⟨من⟩ عدد:",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "الصانعُ"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "عظائمَ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "فحصٍ"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "وعجائبُ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى أن"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "عدد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:32:50.115149662Z",
+  "model": "glm-5.2"
+}

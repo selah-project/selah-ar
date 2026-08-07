@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 7:15",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "ولحمُ ذبيحةِ تودَتِهِ من شَلامايم ⟨يُؤكَلُ⟩ في يومِ قُربانِه، لا يُبقِي منه شيئًا إلى الصباح.",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "ولحم"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ذبيحة"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "تودَة"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "شَلامايم-له"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في-يوم"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "قُربانِه"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يُؤكَلُ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "يُبقِي"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "الصباح"
+    }
+  ],
+  "timestamp": "2026-08-07T05:38:54.379667848Z",
+  "model": "glm-5.2"
+}

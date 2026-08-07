@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 70,
+  "translation": "ليرتدّوا على أثرٍ بسبب خزيهم القائلون: هآهْ! هآهْ!",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ليرتدّوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "أثرٍ"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "بسبب خزيهم"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "القائلون"
+    },
+    {
+      "surface": "האח",
+      "gloss": "هآهْ!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "هآهْ!"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:53.610008696Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "ما أعظمَ خيرَك الذي خبّأته لمتّقيك، الذي فعلتَ للمحتمين بك، تجاه بني الإنسان.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "רב",
+      "gloss": "أعظمَ"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "خيرَك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "خبّأته"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "لمتّقيك"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "الذي فعلتَ"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "للمحتمين"
+    },
+    {
+      "surface": "בך",
+      "gloss": "بك"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "تجاه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسان"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:53.100076682Z",
+  "model": "glm-5.2"
+}

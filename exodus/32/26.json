@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 32:26",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "ووقف موشيه في باب المحلّة وقال: «من ليهوه ⟨إليّ⟩!» فاجتمع إليه كلُّ بني ليفي.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ووقف"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "في باب"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "المحلّة"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨إليّ⟩"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "فاجتمع"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ليفي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:52.785575098Z",
+  "model": "glm-5.2"
+}

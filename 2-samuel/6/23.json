@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "ولميكال بنت شاؤول لم يكن لها ولدٌ إلى يوم موتها.",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "ولميكال"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "היה",
+      "gloss": "يكن"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ولدٌ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "موتها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:32:52.330243308Z",
+  "model": "glm-5.2"
+}

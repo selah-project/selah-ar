@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وقال يهوه لموشيه ولأهارون قائلًا:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولـ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا:"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:40.135246758Z",
+  "model": "glm-5.2"
+}

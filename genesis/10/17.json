@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "و⟨את⟩ الحِوّيّ و⟨את⟩ العَرْقِيّ و⟨את⟩ السِّينِيّ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الحِوّيّ"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "الحِوّيّ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "العَرْقِيّ"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "العَرْقِيّ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "السِّينِيّ"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "السِّينِيّ"
+    }
+  ],
+  "timestamp": "2026-08-07T06:55:44.240432714Z",
+  "model": "glm-5.2"
+}

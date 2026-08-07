@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 64,
+  "translation": "يفرح الصدّيق بييهوه، ويحتمي به، ويفتخر كلّ مستقيمي القلب",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "يفرح"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "الصدّيق"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "بييهوه"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "ويحتمي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "به"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "ويفتخر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "مستقيمي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "القلب"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:13.657483027Z",
+  "model": "glm-5.2"
+}

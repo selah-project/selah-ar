@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فاقتنيت ⟨את⟩ المنطقة ككلمة يهوه، ووضعت ⟨ها⟩ على حقويّ.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "فاقتنيت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المنطقة"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "المنطقة"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ككلمة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ووضعت"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "حقويّ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:35:28.558915846Z",
+  "model": "glm-5.2"
+}

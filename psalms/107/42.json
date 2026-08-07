@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 107,
+  "translation": "يَرى المستقيمون فيفرحون، وكلَّ إثمٍ يسدُّ فاه.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "يَرى"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "المستقيمون"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "فيفرحون"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلَّ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "إثمٍ"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "يسدُّ"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "فاه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:49.145533027Z",
+  "model": "glm-5.2"
+}

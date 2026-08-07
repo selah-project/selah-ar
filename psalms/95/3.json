@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 95,
+  "translation": "لأنَّ إيلًا عظيمًا ⟨هو⟩ يهوه، وملكًا عظيمًا على كلِّ إلوهيم",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيلًا"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيمًا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "وملكًا"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيمًا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:39.366964057Z",
+  "model": "glm-5.2"
+}

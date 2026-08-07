@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "والآن نَفْسُنا يابسة، ليس ⟨من⟩ شيء، غير المنّ ⟨الذي⟩ أعينُنا ⟨إليه⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "نَفْسُنا"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "يابسة"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "شيء"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "غير"
+    },
+    {
+      "surface": "אל",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "המן",
+      "gloss": "المنّ"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "أعينُنا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:32:05.154159375Z",
+  "model": "glm-5.2"
+}

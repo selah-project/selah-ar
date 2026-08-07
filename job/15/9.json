@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "ماذا تعرف فلا نعرف ⟨نحن⟩؟ تفهم وما ليس معنا ⟨هو⟩؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "تعرف"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "نعرف"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "تفهم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "وما"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "معنا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T04:36:44.806974491Z",
+  "model": "glm-5.2"
+}

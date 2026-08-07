@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 19:8",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وأجعلُ ⟨את⟩ المدينة هذه خرابًا وصفيرًا؛ كلُّ عابرٍ عليها يَصدم ويصفر على كلِّ ضرباتها.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "وأجعلُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المدينة"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "خرابًا"
+    },
+    {
+      "surface": "ולשרקה",
+      "gloss": "وإطلاق صفير"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عابرٍ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "عليها"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "يَصدم"
+    },
+    {
+      "surface": "וישרק",
+      "gloss": "ويصفر"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "מכתה",
+      "gloss": "ضرباتها"
+    }
+  ],
+  "timestamp": "2026-08-07T02:38:31.035979210Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 24:19",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "و⟨أكملت⟩ سقيهُ، وقالت: «أيضًا لِجِمالك أستقي، حتى إنْ ⟨هم⟩ فرغوا من الشرب.»",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "و⟨أكملت⟩"
+    },
+    {
+      "surface": "להשקתו",
+      "gloss": "سقيهُ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "وقالت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "לגמליך",
+      "gloss": "لِجِمالك"
+    },
+    {
+      "surface": "אשאב",
+      "gloss": "أستقي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إنْ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "فرغوا"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "من الشرب"
+    }
+  ],
+  "timestamp": "2026-08-07T05:33:57.932761536Z",
+  "model": "glm-5.2"
+}

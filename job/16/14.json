@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 16:14",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "يَخرِقُني خرقٌ على وجهِ خرقٍ، يَركُضُ نحوي كجبّار.",
+  "tokens": [
+    {
+      "surface": "יפרצני",
+      "gloss": "يَخرِقُني"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "خرق"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهِ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "خرق"
+    },
+    {
+      "surface": "ירץ",
+      "gloss": "يَركُضُ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "نحوي"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "كجبّار"
+    }
+  ],
+  "timestamp": "2026-08-07T04:37:14.778162733Z",
+  "model": "glm-5.2"
+}

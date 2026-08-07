@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 19:24",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وفي السنة الرابعة يكون كلّ ثمره قُدسَ هِلوليم ليهوه.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "وفي السنة"
+    },
+    {
+      "surface": "הרביעת",
+      "gloss": "الرابعة"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ثمره"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قُدس"
+    },
+    {
+      "surface": "הלולים",
+      "gloss": "هِلوليم"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:12.875319502Z",
+  "model": "glm-5.2"
+}

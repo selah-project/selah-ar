@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 34:32",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "«ما عدا ما أُبصِرُه، أنت علِّمني؛ إن فعَلتُ اعْوِجاجاً، لا أزيد»،",
+  "tokens": [
+    {
+      "surface": "בלעדי",
+      "gloss": "ما عدا"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "أُبصِرُه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "הרני",
+      "gloss": "علِّمني"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "עול",
+      "gloss": "اعْوِجاجاً"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "فعَلتُ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "أزيد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:42:09.498691224Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 86,
+  "translation": "أَفْرِحْ نَفْسَ عبدِكَ، لأنّي إليك يا أدوناي نَفسي أرفع",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "أَفْرِحْ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْس"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدِكَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "يا أدوناي"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفسي"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "أرفع"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:49.385644749Z",
+  "model": "glm-5.2"
+}

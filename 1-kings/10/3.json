@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فأخبرها شلوموه ⟨عن⟩ ⟨את⟩ كلّ كلماتها؛ لم يكن كلامٌ مستترٌ لدى المَلِك لم يُخبرها به.",
+  "tokens": [
+    {
+      "surface": "ונגד",
+      "gloss": "فأخبر"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "كلماتها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "היה",
+      "gloss": "يكن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلام"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "مستتر"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لدى"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "المَلِك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "يُخبر"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:46:40.865928151Z",
+  "model": "glm-5.2"
+}

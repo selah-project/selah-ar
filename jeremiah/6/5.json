@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 6:5",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "قوموا ⟨و⟩نَصعد في الليل ⟨و⟩نُخرب قلاعها!",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "قوموا"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "⟨و⟩نَصعد"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "في الليل"
+    },
+    {
+      "surface": "ונשחיתה",
+      "gloss": "⟨و⟩نُخرب"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "قلاعها"
+    }
+  ],
+  "timestamp": "2026-08-07T02:31:00.644371808Z",
+  "model": "glm-5.2"
+}

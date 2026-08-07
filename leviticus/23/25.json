@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "كلّ عملِ خدمةٍ لا تعملوه، وقرّبتم عولاهً نارًا ليهوه",
+  "tokens": [
+    {
+      "surface": "כָּל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "מְלֶ֥אכֶת",
+      "gloss": "عملِ"
+    },
+    {
+      "surface": "עֲבֹדָ֖ה",
+      "gloss": "خدمةٍ"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תַעֲשׂ֑וּ",
+      "gloss": "تعملوه"
+    },
+    {
+      "surface": "וְהִקְרַבְתֶּ֥ם",
+      "gloss": "وقرّبتم"
+    },
+    {
+      "surface": "אִשֶּׁ֖ה",
+      "gloss": "عولاهً نارًا"
+    },
+    {
+      "surface": "לַיהוָֽה",
+      "gloss": "ليهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:26:38.118324186Z",
+  "model": "glm-5.2"
+}

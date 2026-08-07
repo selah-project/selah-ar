@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وقالت ساره: «ضَحكًا صنعَ لي إلوهيم. كلُّ مَن يسمعُ يَضحكُ معي.»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "وقالت"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ساره"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "ضَحكًا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنعَ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "مَن يسمعُ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يَضحكُ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "معي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:26.320392993Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 109,
+  "translation": "للمُنْشِد. مَزمور لِدافيد. إلوهيمُ تَهيلَتي، لا تصمُت.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "للمُنْشِد"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِدافيد"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مَزمور"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيمُ"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "تَهيلَتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "تصمُت"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:41.970555898Z",
+  "model": "glm-5.2"
+}

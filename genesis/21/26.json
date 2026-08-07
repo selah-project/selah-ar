@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 21:26",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فقال أڤيميلخ: «لا علمَ لي من فعل ⟨את⟩ الأمر هذا. وأنت أيضًا لا ⟨أنبأتَ⟩ني، وأنا أيضًا لم أسمع إلا اليوم.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "أڤيميلخ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "علمَ لي"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأمر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "أنبأتَ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ني"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "أسمع"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "إلا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:20.661888506Z",
+  "model": "glm-5.2"
+}

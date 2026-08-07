@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "و⟨את⟩ كلّ شحم ثور الخطيئة يرفع منه: ⟨את⟩ الشحم الذي يغطّي على الأحشاء، و⟨את⟩ كلّ الشحم الذي على الأحشاء.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "شحم"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ثور"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "الخطيئة"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "يرفع"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشحم"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "الشحم"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "الذي يغطّي"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "الأحشاء"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "الشحم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "الأحشاء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:04.334616900Z",
+  "model": "glm-5.2"
+}

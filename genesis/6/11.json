@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "و⟨فَسَدَتِ⟩ الأرض أمام إلوهيم، و⟨امْتَلَأَتِ⟩ الأرض عنفًا.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "وفَسَدَت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "وامتلأت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "عنفًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:29.408246715Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 47,
+  "translation": "و⟨את⟩ الشعب عبّرهم ⟨إلى⟩ المدن، من طرف حدود مصرايم إلى طرفه الآخر.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "عبّر"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "هم"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "⟨إلى⟩ المدن"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "من طرف"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "حدود"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "طرفه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:57:31.320075588Z",
+  "model": "glm-5.2"
+}

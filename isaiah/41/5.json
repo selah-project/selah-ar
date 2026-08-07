@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 41:5",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "رأتِ الجزائرُ و⟨خافت⟩، أطرافُ الأرضِ ارتعدت، اقتربت وأتت.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "رأت"
+    },
+    {
+      "surface": "איים",
+      "gloss": "الجزائر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": ""
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "و⟨خافت⟩"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "أطراف"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "ارتعدت"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "اقتربت"
+    },
+    {
+      "surface": "ויאתיון",
+      "gloss": "وأتت"
+    }
+  ],
+  "timestamp": "2026-08-07T02:17:53.003457851Z",
+  "model": "glm-5.2"
+}

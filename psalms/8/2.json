@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "يهوه سيِّدُنا ما أَمجَد اسمك في كل الأرض الذي تَهَبُ بهاءك على السماوات",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "سيِّدنا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "أمجد"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "اسمك"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كل"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "تَهَب"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "بهاءك"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    }
+  ],
+  "timestamp": "2026-08-07T03:41:12.292767733Z",
+  "model": "glm-5.2"
+}

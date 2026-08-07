@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "من البهيمة الطاهرة ومن البهيمة التي ليست طاهرة ومن الطير وكل ما يزحف على الأرض.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "البهيمة"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "الطاهرة"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "البهيمة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "ليست"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "طاهرة"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "الطير"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "يزحف"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T05:33:58.226031093Z",
+  "model": "glm-5.2"
+}

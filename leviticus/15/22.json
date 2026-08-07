@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 15:22",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وكلُّ من يمسّ كلَّ متاعٍ تجلس عليه يغسل ثيابه ويغتسل في الماء، ⟨فهو⟩ غيرُ طاهر إلى المساء.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "الذي يمسّ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلّ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "متاع"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "تجلس"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "يغسل"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ثيابه"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ويغتسل"
+    },
+    {
+      "surface": "במים",
+      "gloss": "في الماء"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "وغير طاهر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "المساء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:03.537874358Z",
+  "model": "glm-5.2"
+}

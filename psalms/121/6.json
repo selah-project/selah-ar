@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 121,
+  "translation": "نهارًا الشمسُ لا تضربكَ، والقمرُ في الليل.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "نهارًا"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "الشمسُ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "تضربكَ"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "والقمرُ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "في الليل"
+    }
+  ],
+  "timestamp": "2026-08-07T06:07:55.204309350Z",
+  "model": "glm-5.2"
+}

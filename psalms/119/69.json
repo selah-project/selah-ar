@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "psalms 119:69",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "لَصَقَ المتغطرسون كذبًا عليّ، أمّا أنا فبكلّ قلب أحرس وصاياك.",
+  "tokens": [
+    {
+      "surface": "טפלו",
+      "gloss": "لَصَقَ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عليّ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "كذبًا"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "المتغطرسون"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أمّا أنا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بكلّ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "أحرس"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "وصاياك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:25.553758393Z",
+  "model": "glm-5.2"
+}

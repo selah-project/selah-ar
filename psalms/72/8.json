@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 72,
+  "translation": "ويملك من البحر إلى البحر، ومن النهر إلى أقاصي الأرض",
+  "tokens": [
+    {
+      "surface": "וְ֭יֵרְדְּ",
+      "gloss": "ويملك"
+    },
+    {
+      "surface": "מִיָּ֣ם",
+      "gloss": "من البحر"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יָ֑ם",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "וּ֝מִנָּהָ֗ר",
+      "gloss": "ومن النهر"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אַפְסֵי",
+      "gloss": "أقاصي"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T03:58:46.989488986Z",
+  "model": "glm-5.2"
+}

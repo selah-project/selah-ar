@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "يا بني، ⟨إن⟩ قبلتَ أقوالي، ووصاياي خبّأتَ ⟨عِندَك⟩،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "يا بني"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨إن⟩"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "قبلتَ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "أقوالي"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ووصاياي"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "خبّأتَ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨عِندَك⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:06.110635549Z",
+  "model": "glm-5.2"
+}

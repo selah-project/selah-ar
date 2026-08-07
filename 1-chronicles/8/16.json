@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "⟨و⟩مِيخائيل ⟨و⟩يِشفة ⟨و⟩يوهاء بنو بِريعة",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "⟨و⟩مِيخائيل"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "⟨و⟩يِشفة"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "⟨و⟩يوهاء"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "بِريعة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:12:28.125126521Z",
+  "model": "glm-5.2"
+}

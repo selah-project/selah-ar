@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فسجد وقال: «من هو عبدُك، حتى تلتفت إلى الكلب الميّت ⟨الذي⟩ مثلي؟»",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "فسجد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "מה",
+      "gloss": "من"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدُك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "تلتفت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "الكلب"
+    },
+    {
+      "surface": "המת",
+      "gloss": "الميّت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "مثلي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:58.016878717Z",
+  "model": "glm-5.2"
+}

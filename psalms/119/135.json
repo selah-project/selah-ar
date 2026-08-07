@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "وجهك أَنِر على عبدك، وعلّمني ⟨את⟩ فرائضك.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "وجهك"
+    },
+    {
+      "surface": "האר",
+      "gloss": "أَنِر"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "على عبدك"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "وعلّمني"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فرائضك"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "فرائضك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:36.020563216Z",
+  "model": "glm-5.2"
+}

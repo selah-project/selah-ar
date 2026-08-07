@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 24:17",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "ومَرْأىٰ كَڤود يهوه كنار آكِلةٍ في رأس الجبل، لعينَي بني يسرايل.",
+  "tokens": [
+    {
+      "surface": "ומראה",
+      "gloss": "ومَرْأى"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "كَڤود"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "كنار"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "آكِلة"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "في رأس"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "الجبل"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "لعينَي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:14.395326401Z",
+  "model": "glm-5.2"
+}

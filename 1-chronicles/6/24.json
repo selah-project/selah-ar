@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وأخوه آساف القائمُ عن يمينِه، آسافُ بنُ بَرَكْيا هو بنُ شيمَعا.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "وأخوه"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "القائم"
+    },
+    {
+      "surface": "על",
+      "gloss": "عن"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "يمينه"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "بَرَكْيا هو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "شيمَعا"
+    }
+  ],
+  "timestamp": "2026-08-07T08:25:28.911066205Z",
+  "model": "glm-5.2"
+}

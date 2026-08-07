@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 18:21",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وقال يوأف للكوشيّ: اذهبْ أخبِر الملك بما رأيتَ. فسجد الكوشيّ ليوأف وركض.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوأف"
+    },
+    {
+      "surface": "לכושי",
+      "gloss": "للكوشيّ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اذهبْ"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "أخبِر"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "الملكَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "بما"
+    },
+    {
+      "surface": "ראיתה",
+      "gloss": "رأيتَ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "فسجد"
+    },
+    {
+      "surface": "כושי",
+      "gloss": "الكوشيّ"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "ليوأف"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "وركض"
+    }
+  ],
+  "timestamp": "2026-08-07T05:48:09.736354994Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 12:5",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "بل إلى المكان الذي يختاره يهوه إلوهيمكم من جميع أسباطكم ليُحِلّ ⟨את⟩ اسمه هناك، إلى مسكنه تلتمسون، و⟨تأتي⟩ إلى هناك.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "بل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إلّا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "المكان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "يختاره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلوهيمكم"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من جميع"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "أسباطكم"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "ليُحِلّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسمه"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "לשכנו",
+      "gloss": "إلى مسكنه"
+    },
+    {
+      "surface": "תדרשו",
+      "gloss": "تلتمسون"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "و⟨تأتي⟩"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "إلى هناك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:22.622257577Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 10:32",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "ويكون إذا ذهبت معنا، ويكون ذلك الخير الذي يُحسِنُه يهوه معنا، نُحسِنُه إليك.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ويكون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ذهبت"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "معنا"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ويكون"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ذلك الخير"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذاك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "يُحسِنُه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "معنا"
+    },
+    {
+      "surface": "והטבנו",
+      "gloss": "نُحسِنُه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "إليك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:32:01.352186937Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 11:20",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وأَبْشاي أخو يوآب، هو كان رأس الثلاثة، وهو أيقظ ⟨את⟩ رمحه على ثلاث مئة جريح، ولم يكن له اسمٌ في الثلاثة.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "وأَبْشاي"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "أخو"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأس"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "الثلاثة"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "עורר",
+      "gloss": "أيقظ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رمحه"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "رمحه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ثلاث"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "جريح"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسمٌ"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "في الثلاثة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:14:38.591587699Z",
+  "model": "glm-5.2"
+}

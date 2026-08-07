@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 3:40",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وقال يهوه لموشيه: «عُدّ كلَّ بكر ذكر لبني يسرائيل من ابن شهر فصاعدًا، وارفع ⟨את⟩ عدد أسمائهم».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "عُدّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "بكر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ذكر"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لبني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "من ابن"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "وصاعدًا"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "وارفع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عدد"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "عدد"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "أسمائهم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:41:34.981390520Z",
+  "model": "glm-5.2"
+}

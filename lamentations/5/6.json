@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "لمصرايم (مصر) مددنا اليد، لأشّور، ⟨ليُشبَعَنا⟩ خبزًا.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "لمصرايم (مصر)"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "مددنا"
+    },
+    {
+      "surface": "יד",
+      "gloss": "اليد"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "لأشّور"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "ليُشبَعَنا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:50:33.455528273Z",
+  "model": "glm-5.2"
+}

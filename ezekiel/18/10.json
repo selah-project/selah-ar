@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 18:10",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "ووَلَد ابنًا عاتِفًا سافكَ دم، وعمِل أخًا من أحدٍ من هذه —",
+  "tokens": [
+    {
+      "surface": "וְהוֹלִ֥יד",
+      "gloss": "وولد"
+    },
+    {
+      "surface": "בֵּן",
+      "gloss": "ابنًا"
+    },
+    {
+      "surface": "פָּרִ֖יץ",
+      "gloss": "عاتفًا"
+    },
+    {
+      "surface": "שֹׁפֵ֣ךְ",
+      "gloss": "سافك"
+    },
+    {
+      "surface": "דָּ֑ם",
+      "gloss": "دم"
+    },
+    {
+      "surface": "וְעָ֣שָׂה",
+      "gloss": "وعمل"
+    },
+    {
+      "surface": "אָ֔ח",
+      "gloss": "أخًا"
+    },
+    {
+      "surface": "מֵאַחַ֖ד",
+      "gloss": "من أحد"
+    },
+    {
+      "surface": "מֵאֵֽלֶּה",
+      "gloss": "من هذه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:01:11.442227Z",
+  "model": "glm-5.2"
+}

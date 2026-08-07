@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "ويهوه أمطر على سدوم وعموراه كبريتاً وناراً من لدن يهوه من السماوات.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ويهوه"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "أمطر"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدوم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "عموراه"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "كبريتاً"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "وناراً"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "من لدن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:31.529934847Z",
+  "model": "glm-5.2"
+}

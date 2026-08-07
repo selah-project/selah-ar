@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "حَفِظتُ فُقُوديكَ وعُدُوتكَ، لأنّ كلّ طُرُقي أمامكَ.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "حَفِظتُ"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "فُقُوديكَ"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "وعُدُوتكَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "طُرُقي"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "أمامكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:46.280666054Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 5:14",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "فلم يستطع الكوهنة ⟨أن⟩ يقفوا للخدمة من وجه السحاب، لأن مجد يهوه ملأ ⟨את⟩ بيت إلوهيم.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "يستطع"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكوهنة"
+    },
+    {
+      "surface": "לעמוד",
+      "gloss": "⟨أن⟩ يقفوا"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "للخدمة"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجه"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "السحاب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ملأ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "مجد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T06:14:34.877335983Z",
+  "model": "glm-5.2"
+}

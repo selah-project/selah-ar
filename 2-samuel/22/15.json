@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 22:15",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وأرسل سهامًا فبدّدها، برقٌ فهامها.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "وأرسل"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "سهامًا"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "فبدّدها"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "برقٌ"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "فهامها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:40:34.436391329Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ليس ذِكرٌ للأوّلين، وحتى للآخرين الذين سيكونون لا يكون لهم ذِكر مع الذين سيكونون في الآخر.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ذِكر"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "للأوّلين"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "وحتى"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "للآخرين"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "الذين سيكونون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ذِكر"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "الذين سيكونون"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "في الآخر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:50:47.048625503Z",
+  "model": "glm-5.2"
+}

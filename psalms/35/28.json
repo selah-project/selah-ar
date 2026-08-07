@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "ولساني يلهج بِصِدْقِكَ، كلَّ اليوم تسبيحَك.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "ولساني"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "يلهج"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "بِصِدْقِكَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "تسبيحَك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:20.254184958Z",
+  "model": "glm-5.2"
+}

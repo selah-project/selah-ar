@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 8:18",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "إن يبتلعه من مكانه، فينكر ⟨فيه⟩: «لا رأيتُك!»",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "يبتلعه"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "من مكانه"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "فينكر"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨فيه⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ראיתיך",
+      "gloss": "رأيتُك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:11.427545601Z",
+  "model": "glm-5.2"
+}

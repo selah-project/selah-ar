@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "لِكُلِّ شيءٍ زَمان، ووقتٌ لكلِّ مَسرّةٍ تحتَ السماوات.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "لكلّ"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "زمان"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ووقت"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لكلّ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "مسرة"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:20.701953307Z",
+  "model": "glm-5.2"
+}

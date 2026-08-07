@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 5:7",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "إنْ ⟨رأيتَ⟩ ظلمَ فقيرٍ وغَصْبَ حقٍّ وصِدِق في الإقليم، فلا تتعجّب على الأمر، لأنَّ عاليًا من فوق عالٍ يحرس، وعالينَ فوقهم.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إنْ"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "רש",
+      "gloss": "فقير"
+    },
+    {
+      "surface": "וגזל",
+      "gloss": "وغَصْب"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حقّ"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "وصِدِق"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "⟨رأيتَ⟩"
+    },
+    {
+      "surface": "במדינה",
+      "gloss": "في الإقليم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "תתמה",
+      "gloss": "تتعجّب"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "عاليًا"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "من فوق"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "عالٍ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "يحرس"
+    },
+    {
+      "surface": "וגבהים",
+      "gloss": "وعالينَ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "فوقهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:59.446038363Z",
+  "model": "glm-5.2"
+}

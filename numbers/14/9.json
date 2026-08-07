@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 14:9",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "إنّما في يهوه لا تتمرّدوا، وأنتم لا تخافوا ⟨את⟩ شعب الأرض، لأنّ خبزًا هم لنا. زال ظلّهم من فوقهم، ويهوه معنا لا تخافوهم.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "في يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תמרדו",
+      "gloss": "تتمرّدوا"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "وأنتم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "تخافوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شعب"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "خبزًا لنا"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "סר",
+      "gloss": "زال"
+    },
+    {
+      "surface": "צלם",
+      "gloss": "ظلّهم"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "من فوقهم"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ويهوه"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "معنا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תיראם",
+      "gloss": "تخافوهم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:41:34.853795147Z",
+  "model": "glm-5.2"
+}

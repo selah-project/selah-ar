@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 6:24",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "لِتحرُسَكَ من المرأة الشريرة، ومن ملاءسةِ لسانٍ غريبة.",
+  "tokens": [
+    {
+      "surface": "לשמרך",
+      "gloss": "لِتحرُسَكَ"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "من المرأة"
+    },
+    {
+      "surface": "רע",
+      "gloss": "الشريرة"
+    },
+    {
+      "surface": "מחלקת",
+      "gloss": "ومن ملاءسةِ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "لسانٍ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "غريبة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:27.105315856Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "وكلُّ حكيمِ قلبٍ فيكم يأتي ويصنع ⟨את⟩ كلَّ ما أوصى به يهوه",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حكيم"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "فيكم"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "يأتي"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ويصنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:13:10.515805849Z",
+  "model": "glm-5.2"
+}

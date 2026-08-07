@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 118,
+  "translation": "ليقولوا الآن يتّقو يهوه: إن إلى الأبد حِسِده",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "ليقولوا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "يتّقو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إن"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حِسِده"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:12.848758934Z",
+  "model": "glm-5.2"
+}

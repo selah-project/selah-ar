@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 24:11",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "ونكأ ابن المرأة الإسرائيليّة ⟨את⟩ الاسم، فجذف، فأحضروه إلى موشيه. واسم أمّه شلوميت بنت دِبري، لسبط دان.",
+  "tokens": [
+    {
+      "surface": "ויקב",
+      "gloss": "ونكأ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "المرأة"
+    },
+    {
+      "surface": "הישראלית",
+      "gloss": "الإسرائيليّة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الاسم"
+    },
+    {
+      "surface": "השם",
+      "gloss": "الاسم"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "فجذف"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "فأحضروه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "إيّاه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "واسم"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "أمّه"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "شلوميت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "دِبري"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "لسبط"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    }
+  ],
+  "timestamp": "2026-08-07T00:26:17.364876506Z",
+  "model": "glm-5.2"
+}

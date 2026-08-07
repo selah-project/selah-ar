@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "و⟨هذه⟩ أسماء بني أهارون: البِكر ناداف، وأفيهو، وإلعازار، وإيتامار.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و⟨هذه⟩"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "أسماء"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "البِكر"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ناداف"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "وأفيهو"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "وإلعازار"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "وإيتامار"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:58.187684774Z",
+  "model": "glm-5.2"
+}

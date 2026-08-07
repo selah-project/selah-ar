@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وإذا قلتم: ماذا نأكل في السنة السابعة؟ ها نحن لا نزرع ولا نجمع ⟨את⟩ محاصيلنا،",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "قلتم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "نأكل"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "في السنة"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "السابعة"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ها نحن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "نزرع"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "نجمع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "محاصيلنا"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "محاصيلنا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:54.820744400Z",
+  "model": "glm-5.2"
+}

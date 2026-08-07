@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "صوت يهوه بالكوح، صوت يهوه بالهَدار",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يَهْوَه"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "بِالكَوَح"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يَهْوَه"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "بِالهَدار"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:29.517384952Z",
+  "model": "glm-5.2"
+}

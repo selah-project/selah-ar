@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 47,
+  "translation": "فقال فرعون ليعقوف: كم يومَ سني حياتك؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "كم"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "يومَ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سني"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "حياتك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:57:09.422793767Z",
+  "model": "glm-5.2"
+}

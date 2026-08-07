@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "يأتي إلوهيم⟨نا⟩ ولا ⟨يَسكت⟩، نار أمامه تلتهم، وحواليه عاصفة بشدّة.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "يأتي"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "⟨يَسكت⟩"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نار"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمامه"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "تلتهم"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "وحواليه"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "عاصفة"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بشدّة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:52:05.845563910Z",
+  "model": "glm-5.2"
+}

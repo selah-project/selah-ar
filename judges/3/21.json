@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فمدَّ إيهود ⟨את⟩ يده اليسرى وأخذ ⟨את⟩ السيف عن فخذه اليمنى وغرسها في بطنه،",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "فمدَّ"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "إيهود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يده"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يد"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "يسراه"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "السيف"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "السيف"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "عن"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "فخذ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "يمينه"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "وغرسها"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "في بطنه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:13:39.572391524Z",
+  "model": "glm-5.2"
+}

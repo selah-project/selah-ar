@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "و⟨تقيم⟩ ⟨את⟩ الدارحولها، و⟨تضع⟩ ⟨את⟩ سِتر باب الدار.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "و⟨تقيم⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الدار"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "الدار"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "حولها"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "و⟨تضع⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ستر"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "שער",
+      "gloss": "باب"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "الدار"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:18.323487963Z",
+  "model": "glm-5.2"
+}

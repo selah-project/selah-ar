@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "و⟨كان⟩ كملامِ شلوموه لبناء ⟨את⟩ بيت يهوه و⟨את⟩ بيت الملك و⟨את⟩ كلّ مُشتهاه الذي سُرّ بفعله،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "كملامِ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموه"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "لبناء"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بيت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "مُشتهاه"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "سُرّ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بفعله"
+    }
+  ],
+  "timestamp": "2026-08-07T01:45:56.634793254Z",
+  "model": "glm-5.2"
+}

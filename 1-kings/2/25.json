@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فأرسل الملك شلوموه بيد بِناياهو بن يِهوياداع، فضربه فمات.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموه"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بيد"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "بِناياهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "يِهوياداع"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "فضربه"
+    },
+    {
+      "surface": "בו",
+      "gloss": "إياه"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "فمات"
+    }
+  ],
+  "timestamp": "2026-08-07T01:42:41.327795507Z",
+  "model": "glm-5.2"
+}

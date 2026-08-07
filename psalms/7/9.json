@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "يهوه يقضي ⟨ل⟩شعوبٍ، اقضِ لي يا يهوه كصِدِقي و⟨ك⟩تُمّي عليّ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "يقضي"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "شعوبٍ"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "اقضِ لي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "كصِدِقي"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "وكتُمّي"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عليّ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:39:49.064511920Z",
+  "model": "glm-5.2"
+}

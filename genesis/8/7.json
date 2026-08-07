@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "فأرسل ⟨את⟩ الغُراب، فخرج يذهب ويرجع حتّى جفّت المياه عن الأرض.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الغُراب"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "الغُراب"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "فخرج"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "يذهب"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ويرجع"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتّى"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "جفّت"
+    },
+    {
+      "surface": "המים",
+      "gloss": "المياه"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "عن"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T05:33:37.828079155Z",
+  "model": "glm-5.2"
+}

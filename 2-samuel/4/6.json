@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 4:6",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وها ⟨هم⟩ جاءوا إلى وسط البيت آخذين قمحًا، فضربوه في البطن، فنجا رِكاب وبَعْناه أخوه.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "وها"
+    },
+    {
+      "surface": "באו",
+      "gloss": "جاءوا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "وسط"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "آخذين"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "قمحًا"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "فضربوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "في"
+    },
+    {
+      "surface": "החמש",
+      "gloss": "البطن"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ورِكاب"
+    },
+    {
+      "surface": "ובענה",
+      "gloss": "وبَعْناه"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "أخوه"
+    },
+    {
+      "surface": "נמלטו",
+      "gloss": "نجا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:32:48.903793582Z",
+  "model": "glm-5.2"
+}

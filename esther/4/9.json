@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فجاء هاتاك وأخبر إستير ⟨بـ⟩⟨את⟩ كلمات مردخاي.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "فجاء"
+    },
+    {
+      "surface": "התך",
+      "gloss": "هاتاك"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "وأخبر"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "إستير"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلمات مردخاي"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلمات"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مردخاي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:53:36.628881105Z",
+  "model": "glm-5.2"
+}

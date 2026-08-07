@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وقال: «أأنتَ هو ابني عيساو؟» فقال: «أنا هو.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أأنت"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ابني"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيساو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:15.928691738Z",
+  "model": "glm-5.2"
+}

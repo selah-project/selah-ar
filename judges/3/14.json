@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وعبَّد بنو يسرائيل ⟨את⟩ عِجلون ملك موآب ثماني عشرة سنة.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "وعبَّدوا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عِجلون"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "عِجلون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ثماني"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرة"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:14:09.062248795Z",
+  "model": "glm-5.2"
+}

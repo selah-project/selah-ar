@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "لي ترقّبني رَشيعون لإهلاكي؛ أنا في عِداتِك أتأمّل.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "ترقّبني"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "رَشيعون"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "لإهلاكي"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "عِداتِك"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "أتأمّل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:12.529379796Z",
+  "model": "glm-5.2"
+}

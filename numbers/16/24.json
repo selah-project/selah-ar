@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "«كلّم ⟨ال⟩جماعة قائلاً: «اصعدوا من حوالي مِشكان قورَح، داتان، وأفيرام.»»",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "كلّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ـ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "الجماعة"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "اصعدوا"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "من حوالي"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "مِشكان"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورَح"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "داتان"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "وأفيرام"
+    }
+  ],
+  "timestamp": "2026-08-07T00:36:15.153022195Z",
+  "model": "glm-5.2"
+}

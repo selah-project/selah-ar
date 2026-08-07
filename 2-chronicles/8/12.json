@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 8:12",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "حينئذٍ أصعد شلومو عولات ليهوه على مذبح يهوه الذي بناه أمام الأُلة.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "حينئذٍ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "أصعد"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "عولات"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بناه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "الأُلة"
+    }
+  ],
+  "timestamp": "2026-08-07T06:13:53.564797210Z",
+  "model": "glm-5.2"
+}

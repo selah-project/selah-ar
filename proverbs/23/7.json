@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "لأنّه كحاسِبٍ في نَفسِهِ هكذا هو؛ «كُل واشرب» يقول لك، وقلبه ليس معك.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "كـ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "حاسِب"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "في نَفسِهِ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "كُل"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "واشرب"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "يقول"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "وقلبه"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:37.881804038Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 4:5",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فأجاب الملاك المتكلّم فيّ وقال لي: أما تعلم ما هي هذه؟ فقلت: لا، يا سيّدي.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "فأجاب"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "الملاك"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "المتكلّم"
+    },
+    {
+      "surface": "בי",
+      "gloss": "فيّ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "أما"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "تعلم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هي"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "فقلت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "يا سيّدي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:35:49.616555053Z",
+  "model": "glm-5.2"
+}

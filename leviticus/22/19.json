@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 22:19",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "للرّضى عنكم: تامًّا ذكرًا من البقر أو من الكباش أو من الماعز،",
+  "tokens": [
+    {
+      "surface": "לרצנכם",
+      "gloss": "للرّضى عنكم"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "تامًّا"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ذكرًا"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "من البقر"
+    },
+    {
+      "surface": "בכשבים",
+      "gloss": "من الكباش"
+    },
+    {
+      "surface": "ובעזים",
+      "gloss": "أو من الماعز"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:27.021439601Z",
+  "model": "glm-5.2"
+}

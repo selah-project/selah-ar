@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "أنا يهوه و⟨لا⟩ آخر سواي، لا إلوهيم. أُحْزِمُكَ وأنت لم تعرفني.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و⟨لا⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "آخر"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "سواي"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "أُحْزِمُكَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "تعرفني"
+    }
+  ],
+  "timestamp": "2026-08-07T02:20:37.437194387Z",
+  "model": "glm-5.2"
+}

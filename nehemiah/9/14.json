@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 9:14",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "و⟨את⟩ شبّات قدسك أعلمتهم، ووصايا وفرائض وتوراة وصّيت لهم بيد موشيه عبدك.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شبّات"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "شبّات"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "قدسك"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "أعلمتهم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "ומצוות",
+      "gloss": "ووصايا"
+    },
+    {
+      "surface": "וחקים",
+      "gloss": "وفرائض"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "وتوراة"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "وصّيت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بيد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدك"
+    }
+  ],
+  "timestamp": "2026-08-07T05:06:33.070255728Z",
+  "model": "glm-5.2"
+}

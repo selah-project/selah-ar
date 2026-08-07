@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 33:7",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "وتقدّمت أيضاً لِأَه وأطفالها فسجدوا، وبعد ذلك تقدّم يوسِف وراحيل فسجدا.",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "وتقدّمت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضاً"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لِأَه"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "وأطفالها"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "فسجدوا"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "وبعد ذلك"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "تقدّم"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسِف"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "وراحيل"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "فسجدا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:02.838239731Z",
+  "model": "glm-5.2"
+}

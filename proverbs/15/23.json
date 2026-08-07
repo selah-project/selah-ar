@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 15:23",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "بهجةٌ للرجلِ في جوابِ فمِه، وكلمةٌ في حينها — ما أطيبَها!",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "بهجة"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "للرجل"
+    },
+    {
+      "surface": "במענה",
+      "gloss": "في جواب"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "فمه"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "وكلمة"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "في حينها"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "أطيبها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:01.068251683Z",
+  "model": "glm-5.2"
+}

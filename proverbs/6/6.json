@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "اذهبْ إلى النملةَ يا كسلان، تأمّلْ طرقَها وكن حكيمًا.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "اذهبْ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "النملة"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "يا كسلان"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "تأمّلْ"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "طرقَها"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "وكن حكيمًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:24:23.349960138Z",
+  "model": "glm-5.2"
+}

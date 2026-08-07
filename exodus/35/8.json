@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 35:8",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "وزيت للمَنور، وبهارات لزيت المشحة، ولقِطرة السوائج.",
+  "tokens": [
+    {
+      "surface": "ושמן",
+      "gloss": "وزيت"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "للمَنور"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "وبهارات"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "لزيت"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "المشحة"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "ولقِطرة"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "السوائج"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:59.539867139Z",
+  "model": "glm-5.2"
+}

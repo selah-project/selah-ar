@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "وضربَ أعداءَهُ مُدبِرين، عارًا أبديًّا أنزلَ بهم.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "وضربَ"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "أعداءَهُ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "مُدبِرين"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "عارًا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "أبديًّا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أنزلَ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "بهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:01:00.162099004Z",
+  "model": "glm-5.2"
+}

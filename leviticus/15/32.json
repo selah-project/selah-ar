@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 15:32",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "هذه توراة الزار، والذي تخرج منه شِكبات زرع لطُمأة بها",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "توراة"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "الزار"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "والذي"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "تخرج"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "شِكبات"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "زرع"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "لطُمأة"
+    },
+    {
+      "surface": "בה",
+      "gloss": "بها"
+    }
+  ],
+  "timestamp": "2026-08-07T05:39:03.025377455Z",
+  "model": "glm-5.2"
+}

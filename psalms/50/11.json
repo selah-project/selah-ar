@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "عرفتُ كلَّ طيرِ الجبال، وحيوانَ الصحراءِ معي.",
+  "tokens": [
+    {
+      "surface": "יָ֭דַעְתִּי",
+      "gloss": "عرفتُ"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "ע֣וֹף",
+      "gloss": "طيرِ"
+    },
+    {
+      "surface": "הָרִ֑ים",
+      "gloss": "الجبالِ"
+    },
+    {
+      "surface": "וְזִ֥יז",
+      "gloss": "وحيوانَ"
+    },
+    {
+      "surface": "שָׂ֝דַ֗י",
+      "gloss": "الصحراءِ"
+    },
+    {
+      "surface": "עִמָּדִֽי",
+      "gloss": "معي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:55.119545236Z",
+  "model": "glm-5.2"
+}

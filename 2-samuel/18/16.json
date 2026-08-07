@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "ونفخ يواب بالشوفار، ورجع الشعب من ملاحقة إسرائيل، لأن يواب منع ⟨את⟩ الشعب.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "ونفخ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يواب"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "بالشوفار"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ورجع"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "من ملاحقة"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "منع"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يواب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    }
+  ],
+  "timestamp": "2026-08-07T01:39:45.524979874Z",
+  "model": "glm-5.2"
+}

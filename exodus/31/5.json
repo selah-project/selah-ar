@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 31:5",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "وفي حفر الحجارة للترصيع، وفي حفر الخشب لصنع كل صنعة.",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "وفي حفر"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "حجارة"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "للترصيع"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "وفي حفر"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "خشب"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "لصنع"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "صنعة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:09:49.107471414Z",
+  "model": "glm-5.2"
+}

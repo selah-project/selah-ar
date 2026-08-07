@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وأخذ داود ⟨את⟩ أترسة الذهب التي كانت على عبيد هددعزر، وأتى بها يروشالايم.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أترسة"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "أترسة"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "الذهب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "היו",
+      "gloss": "كانت"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عبيد"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "هددعزر"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "وأتى بها"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    }
+  ],
+  "timestamp": "2026-08-07T08:26:30.280086395Z",
+  "model": "glm-5.2"
+}

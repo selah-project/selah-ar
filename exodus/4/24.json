@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وحدث في الطريق عند المبيت أنّ يهوه استقبله وطلب إماتته.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وحدث"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "في الطريق"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "عند المبيت"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "أنّ يهوه استقبله"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "وطلب"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "إماتته"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:20.629317890Z",
+  "model": "glm-5.2"
+}

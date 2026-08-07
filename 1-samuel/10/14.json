@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 10:14",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وقال عمّ شاؤول له ولفتاه: أين ذهبتم؟ فقال: لطلب ⟨את⟩ الأتن، فرأينا أن ليس ⟨موجود⟩، فجئنا إلى شموئيل.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "عمّ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولـ"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "فتاه"
+    },
+    {
+      "surface": "אן",
+      "gloss": "أين"
+    },
+    {
+      "surface": "הלכתם",
+      "gloss": "ذهبتم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "لطَلَب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأتن"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "الأتن"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "فرأينا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "ונבוא",
+      "gloss": "فجئنا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:23:55.381589498Z",
+  "model": "glm-5.2"
+}

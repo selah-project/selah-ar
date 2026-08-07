@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 1:8",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فقالوا له: صاحب شعر ونطاق جلد مزمَّل على متنيه. فقال: إيليَّاهو التِّشبي هو.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقالوا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "صاحب"
+    },
+    {
+      "surface": "שער",
+      "gloss": "شعر"
+    },
+    {
+      "surface": "ואזור",
+      "gloss": "ونطاق"
+    },
+    {
+      "surface": "עור",
+      "gloss": "جلد"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "مزمَّل"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "علىمتنيه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "إيليَّاهو"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "التشبي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T01:52:43.015336351Z",
+  "model": "glm-5.2"
+}

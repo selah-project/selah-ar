@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "على حقلِ رجلٍ كسلانَ عَبَرْتُ، وعلى كرمِ إنسانٍ ناقصِ القلب.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "حقلِ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلٍ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "كسلانَ"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "عَبَرْتُ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "كرمِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "إنسانٍ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ناقصِ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "القلب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:13.073686946Z",
+  "model": "glm-5.2"
+}

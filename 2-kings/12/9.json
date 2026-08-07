@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "فارتضى الكوهنة ألّا يأخذوا فضّةً من عند الشعب، وألّا يقوّوا ⟨את⟩ صدع البيت.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "فارتضى"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكهنة"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ألّا"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "يأخذوا"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضّة"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "من عند"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "وألّا"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "يقوّوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صدع"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "صدع"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    }
+  ],
+  "timestamp": "2026-08-07T01:58:10.032447227Z",
+  "model": "glm-5.2"
+}

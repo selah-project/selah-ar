@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وَسَرايُ زوجةُ أفرام لم تلد له، ولها جاريةٌ مصرايمية، واسمها هاغَر.",
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "وسَرايُ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زوجةُ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "أفرام"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "تلد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "ولها"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "جاريةٌ"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "مصرايمية"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "واسمها"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "هاغَر"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:45.754123986Z",
+  "model": "glm-5.2"
+}

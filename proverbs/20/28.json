@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 20:28",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "حِسِدٌ وإمِتٌ يَحرُسانِ مَلِكًا، وبِحِسِدٍ يَدعَمُ ⟨عَرشَهُ⟩.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "حِسِد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "وإمِت"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "يَحرُسان"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلِكًا"
+    },
+    {
+      "surface": "וסעד",
+      "gloss": "ويَدعَم"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "بِحِسِد"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "عَرشَه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:14.704229730Z",
+  "model": "glm-5.2"
+}

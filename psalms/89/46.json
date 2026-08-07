@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "قصَّرتَ أيّام شبابه، ولففتَ عليه خِزْيًا. سِلاه.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "قصَّرتَ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "شبابِه"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "لففتَ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "خِزْيًا"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:18.616904916Z",
+  "model": "glm-5.2"
+}

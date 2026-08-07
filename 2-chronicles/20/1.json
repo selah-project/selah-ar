@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 20:1",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "⟨وكان⟩ بعد ذلك أن أتى بنو موآب وبنو عمّون ومعهم من العمّونيّين على يهوشافاط للحرب.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨وكان⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "באו",
+      "gloss": "أتوا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "وبنو"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمّون"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "ومعهم"
+    },
+    {
+      "surface": "מהעמונים",
+      "gloss": "من العمّونيّين"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "يهوشافاط"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "للحرب"
+    }
+  ],
+  "timestamp": "2026-08-07T05:28:08.090793897Z",
+  "model": "glm-5.2"
+}

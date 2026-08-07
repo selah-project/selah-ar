@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "عند كثرة الصِّدِّيقين يفرح الشعب، وعند تسلُّط راشِع يتنهَّد ⟨ال⟩شعب.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "عند كثرة"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "الصِّدِّيقين"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "يفرح"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "وعند تسلُّط"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "راشِع"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "يتنهَّد"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:11.496516211Z",
+  "model": "glm-5.2"
+}

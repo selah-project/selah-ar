@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 27:19",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وإن غوئيلاً يفدي ⟨את⟩ الحقل، المُقدِّسُ إيّاه، فيزيد خُمس فضّة تقويمك عليه، فيقوم له",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "غوئيلاً"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "يفدي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الحقل"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "الحقل"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "المُقدِّس"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "إيّاه"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "فيزيد"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "خُمس"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضّة"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "تقويمك"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "فيقوم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:56.721072143Z",
+  "model": "glm-5.2"
+}

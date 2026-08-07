@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فقال لبناته: «وأين هو؟ لماذا ⟨هذا⟩ تركتنّ ⟨את⟩ الرجلَ؟ ادعونه ليأكل خبزًا.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "بناته"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "وأين هو"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨هذا⟩"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "تركتنّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الرجل"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "ادعونه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨له⟩"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ليأكل"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبز"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:44.723468017Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "فأخرج يوصوف إيّاهما ⟨את⟩ من بين ركبتيه، وسجد لِوجهه إلى الأرض.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "فأخرج"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوصوف"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاهما"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "من"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "بين ركبتيه"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "وسجد"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "لِوجهه"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "إلى الأرض"
+    }
+  ],
+  "timestamp": "2026-08-06T23:56:57.088539505Z",
+  "model": "glm-5.2"
+}

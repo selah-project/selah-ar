@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 7:9",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "هكذا قال يهوه صباؤوت قائلاً: «احكموا حكمَ إمِت، وافعلوا حِسِدًا ورحمةً، كلُّ إنسانٍ ⟨مع⟩ ⟨את⟩ أخيه.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤوت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حكمَ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "إمِت"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "احكموا"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "وحِسِدًا"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "ورحمةً"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "افعلوا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كلُّ إنسانٍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أخيه"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "أخيه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:35:15.484213834Z",
+  "model": "glm-5.2"
+}

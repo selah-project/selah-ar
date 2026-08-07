@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 21:16",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "هوذا ليس في أيديهم طيبهم. مشورة الأشرار بعيدةٌ منّي!",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "في أيديهم"
+    },
+    {
+      "surface": "טובם",
+      "gloss": "طيبهم"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "مشورة"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الأشرار"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "بعيدة"
+    },
+    {
+      "surface": "מני",
+      "gloss": "منّي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:38:32.269265832Z",
+  "model": "glm-5.2"
+}

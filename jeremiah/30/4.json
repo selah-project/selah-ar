@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "و⟨هذه⟩ ⟨هي⟩ الكلماتُ التي تكلّم بها يهوه على يِسراائيل وعلى يهودا.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و⟨هذه⟩"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "الكلمات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "على"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسراائيل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    }
+  ],
+  "timestamp": "2026-08-07T07:47:23.668221669Z",
+  "model": "glm-5.2"
+}

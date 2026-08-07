@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 10:18",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وسار راية محلّة رأوفين بجيوشهم، وعلى جيشه أليصور بن شديأور.",
+  "tokens": [
+    {
+      "surface": "ונסע",
+      "gloss": "وسار"
+    },
+    {
+      "surface": "דגל",
+      "gloss": "راية"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "محلّة"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رأوفين"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "بجيوشهم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "جيشه"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "أليصور"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "شديأور"
+    }
+  ],
+  "timestamp": "2026-08-07T00:31:36.481451251Z",
+  "model": "glm-5.2"
+}

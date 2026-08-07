@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "اشتاقَ الرّشيعُ إلى حصارِ أشرارٍ، وعرقُ الصدِّيقينَ يعطي.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "اشتاقَ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "الرّشيعُ"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "إلى حصار"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "أشرار"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "وعرقُ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "الصدِّيقينَ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "يعطي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:02.855585238Z",
+  "model": "glm-5.2"
+}

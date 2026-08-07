@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 3:17",
+  "book": "ruth",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "ف⟨قالت⟩: «هذه الستّ ⟨من⟩ الشعير أعطاني إيّاها، لأنّه قال: لا تأتي فارغة إلى حموتك».",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ف⟨قالت⟩"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ستّ"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "الشعير"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطاني"
+    },
+    {
+      "surface": "לי",
+      "gloss": "إيّاها"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "تأتي"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "فارغة"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "חמותך",
+      "gloss": "حموتك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:47:13.147820584Z",
+  "model": "glm-5.2"
+}

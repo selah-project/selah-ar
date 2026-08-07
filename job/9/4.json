@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 9:4",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "حكيمُ القلبِ وشديدُ القوّة — من تصلّب إليه وسالَم؟",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "حكيم"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "القلب"
+    },
+    {
+      "surface": "ואמיץ",
+      "gloss": "وشديد"
+    },
+    {
+      "surface": "כח",
+      "gloss": "القوّة"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "تصلّب"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "וישלם",
+      "gloss": "وسالَم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:41.289607511Z",
+  "model": "glm-5.2"
+}

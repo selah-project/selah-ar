@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 136,
+  "translation": "احمدوا إلوهيم الآلهة لأنّ إلى الأبد حِسِدُه",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "احمدوا"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "لإلوهيم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الآلهة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حِسِدُه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:17:29.935385860Z",
+  "model": "glm-5.2"
+}

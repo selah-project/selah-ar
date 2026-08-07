@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 23:18",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "لا ⟨تكون⟩ قُدْشاه من بين بنات يسرائيل ولا ⟨يكون⟩ قادِش من بين بني يسرائيل",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨تكون⟩"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "قُدْشاه"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "من بين بنات"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨يكون⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادِش"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "من بين بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:43:13.660333455Z",
+  "model": "glm-5.2"
+}

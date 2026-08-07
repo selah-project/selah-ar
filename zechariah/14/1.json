@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 14:1",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "هوذا يومٌ آتٍ ليهوه، و⟨قُسِّمَ⟩ سلبُكِ في وسطكِ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يومٌ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آتٍ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "و⟨قُسِّمَ⟩"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "سلبُكِ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "في وسطكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:37:52.378297478Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وشموئيل لم يكن بعدُ قد عرف ⟨את⟩ يهوه، ولا بعدُ انكشف له كلامُ يهوه.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "وشموئيل"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "لم يكن بعدُ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "قد عرف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "ولا بعدُ"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "انكشف"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلامُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:21:41.538732477Z",
+  "model": "glm-5.2"
+}

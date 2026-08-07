@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 22:11",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "ودعا ⟨إليه⟩ ملاكُ يهوه من السماوات، وقال: «أفراهام! أفراهام!» فقال: «ها أنا».",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ملاكُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ها أنا"
+    }
+  ],
+  "timestamp": "2026-08-07T06:34:56.198093324Z",
+  "model": "glm-5.2"
+}

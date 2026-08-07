@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 130,
+  "translation": "إنْ تُراقبُ آثامًا، ياه، أدوناي، مَنْ يَقِف؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إنْ"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "آثامًا"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "تراقب"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَنْ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "يقف"
+    }
+  ],
+  "timestamp": "2026-08-07T04:15:58.461420136Z",
+  "model": "glm-5.2"
+}

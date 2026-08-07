@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "«هكذا قال يهوه إلهُ إسرائيل عنك يا باروخ:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلهُ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "عنك"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروخ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:48:10.028202622Z",
+  "model": "glm-5.2"
+}

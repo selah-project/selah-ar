@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 24:26",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "في ذلكَ اليومِ يأتي النّاجي إلَيكَ لإسماعِ الأُذُنَين،",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "في اليومِ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلكَ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "يأتي"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "النّاجي"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إلَيكَ"
+    },
+    {
+      "surface": "להשמעות",
+      "gloss": "لإسماعِ"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "الأُذُنَين"
+    }
+  ],
+  "timestamp": "2026-08-07T03:04:51.093223410Z",
+  "model": "glm-5.2"
+}

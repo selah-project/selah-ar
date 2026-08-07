@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "لا تَسيرُوا وراءَ آلهةٍ أُخرَى من آلهةِ الشعوبِ الذين في مُحيطِكم.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "تَسيرُوا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وراءَ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "آلهةٍ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "أُخرَى"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "من آلهةِ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "الشعوبِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "في مُحيطِكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:30.218611286Z",
+  "model": "glm-5.2"
+}

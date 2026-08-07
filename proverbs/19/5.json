@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "شاهدُ أكاذيبَ لا يُبرَّأ، ⟨ومَن⟩ ينفثُ أباطيلَ لا ينجو.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "أكاذيب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "يُبرَّأ"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "⟨ومَن⟩ ينفث"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "أباطيل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ينجو"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:13.917985152Z",
+  "model": "glm-5.2"
+}

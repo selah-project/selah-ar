@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 103,
+  "translation": "بارِكوا يهوه، كلَّ أعماله، في كلِّ أماكن سلطانه. بارِكي يا نَفسي ⟨את⟩ يهوه.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "بارِكوا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "أعماله"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلِّ"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "أماكن"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "سلطانه"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "بارِكي"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "يا نَفسي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:36.299058187Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "و⟨أُخبر⟩ داوُد ⟨את⟩ الذي فعلته رِصفة بنت آية، سرّية شاؤول.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "و⟨أُخبر⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوُد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الذي فعلته"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "فعلته"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "رِصفة"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "איה",
+      "gloss": "آية"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "سرّية"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    }
+  ],
+  "timestamp": "2026-08-07T01:39:26.570836012Z",
+  "model": "glm-5.2"
+}

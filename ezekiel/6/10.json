@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 6:10",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "ويعرفون أنّي أنا يهوه، لا ⟨إلى⟩ عبثًا تكلّمتُ بأنْ أفعل لهم هذا الشرّ.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ويعرفون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨إلى⟩"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "عبثًا"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "تكلّمتُ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بأنْ أفعل"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:54:53.950765337Z",
+  "model": "glm-5.2"
+}

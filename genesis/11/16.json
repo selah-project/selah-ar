@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وعاش عيبر أربعًا وثلاثين سنة، وولد ⟨את⟩ فالج",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "وعاش"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عيبر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "أربعًا"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "وثلاثين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "وولد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فالج"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "فالج"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:08.887874854Z",
+  "model": "glm-5.2"
+}

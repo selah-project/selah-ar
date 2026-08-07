@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 17:5",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وقال أفشالوم: «ادعُ الآن أيضًا لحوشاي الأرخيّ، ونسمعَنّ ما في فمه أيضًا هو».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "أفشالوم"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ادعُ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "לחושי",
+      "gloss": "لحوشاي"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "الأرخيّ"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "ونسمعَنّ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "في فمه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T05:47:57.055352626Z",
+  "model": "glm-5.2"
+}

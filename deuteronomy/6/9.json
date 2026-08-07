@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وكَتَبتَها على قوائم بيتك وفي أبوابك",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "وكَتَبتَها"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "قوائم"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "بيتك"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "وفي أبوابك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:41.560141728Z",
+  "model": "glm-5.2"
+}

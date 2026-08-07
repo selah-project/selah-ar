@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "ونفد الماء من القربة، فطرحت ⟨את⟩ الطفل تحت إحدى الشجيرات.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "ونفد"
+    },
+    {
+      "surface": "המים",
+      "gloss": "الماء"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "القربة"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "فطرحت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الطفل"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "الطفل"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "إحدى"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "الشجيرات"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:45.866617172Z",
+  "model": "glm-5.2"
+}

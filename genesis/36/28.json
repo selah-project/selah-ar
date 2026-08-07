@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "هذه أبناءُ ديشود: عوص وأران.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "أبناء"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "ديشود"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "عوص"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "وأران"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:56.048599841Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 30:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "فقالت: هوذا أَمَتي بِلهاة، ادخُل إليها، فلتلد على رُكبَتَيَّ، فأُبنى أيضًا أنا منها.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "أَمَتي"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بِلهاة"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ادخُل"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "إليها"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "فلتلد"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "رُكبَتَيَّ"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "فأُبنى"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "منها"
+    }
+  ],
+  "timestamp": "2026-08-06T23:45:19.866192596Z",
+  "model": "glm-5.2"
+}

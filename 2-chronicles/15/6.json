@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 15:6",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وتُحطَّم أمَّةٌ بأمَّةٍ ومدينةٌ بمدينة، لأنّ إلوهيم يُزعجهم بكلِّ ضيق.",
+  "tokens": [
+    {
+      "surface": "וכתתו",
+      "gloss": "وتُحطَّم"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "أمَّة"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "بأمَّة"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ومدينة"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "بمدينة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "הממם",
+      "gloss": "يُزعجهم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بكلِّ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ضيق"
+    }
+  ],
+  "timestamp": "2026-08-07T05:26:05.104590433Z",
+  "model": "glm-5.2"
+}

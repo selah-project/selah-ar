@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "و⟨كان⟩ في نهاية عشرة أيّام، و⟨كان⟩ كلمةُ يهوه إلى يرميايهو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "في نهايةِ"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "عشرةِ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمةُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرميايهو"
+    }
+  ],
+  "timestamp": "2026-08-07T02:48:06.266650678Z",
+  "model": "glm-5.2"
+}

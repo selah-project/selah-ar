@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 23:19",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "اسمَعْ أنتَ يا ابني واسمَكْ، وسُمَّ في الطريقِ قلبَك.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "اسمَعْ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "يا ابني"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "واسمَكْ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "وسُمَّ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "في الطريقِ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "قلبَك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:24.225782050Z",
+  "model": "glm-5.2"
+}

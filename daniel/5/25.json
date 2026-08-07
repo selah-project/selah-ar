@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وهذا الكتابُ الذي رُسم: مِنِي، مِنِي، تِقِل، وفَرَسِين",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "وهذا"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "الكتاب"
+    },
+    {
+      "surface": "די",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "رُسم"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "مِنِي"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "مِنِي"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "تِقِل"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "وفَرَسِين"
+    }
+  ],
+  "timestamp": "2026-08-07T04:56:26.987385189Z",
+  "model": "glm-5.2"
+}

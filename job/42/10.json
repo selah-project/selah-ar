@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "ورجع يهوه ⟨את⟩ سبي أيّوف في صلاته من أجل رفيقه، وزاد يهوه ⟨את⟩ كلّ ما لأيّوف إلى ضِعف.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ويهوه"
+    },
+    {
+      "surface": "שב",
+      "gloss": "رجع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سبي"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "سبي"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "أيّوف"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "فيصلاته"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "منأجل"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "رفيقه"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "وزاد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "لأيّوف"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "إلىضِعف"
+    }
+  ],
+  "timestamp": "2026-08-07T04:44:58.145815075Z",
+  "model": "glm-5.2"
+}

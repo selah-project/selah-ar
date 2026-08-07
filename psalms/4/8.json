@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "أنت جعلت فرحًا في قلبي، ⟨أكثر⟩ من وقت ⟨أَنْ⟩ كثرَ حَبُّهم وخمرُهم",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "جعلتَ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "فرحًا"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "في قلبي"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "من وقت"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "حَبِّهم"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "وخمرِهم"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "كثرَ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:40:07.462661792Z",
+  "model": "glm-5.2"
+}

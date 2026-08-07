@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "كَفورات ذهب ثلاثون، كَفورات فضة مُضاعَفة أربع مئة وعشرة، آنية أُخرى ألف.",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "كَفورات"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهب"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ثلاثون"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "كَفورات"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضة"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "مُضاعَفة"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "أربع"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "وعشرة"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "آنية"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "أُخرى"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    }
+  ],
+  "timestamp": "2026-08-07T05:00:56.359227913Z",
+  "model": "glm-5.2"
+}

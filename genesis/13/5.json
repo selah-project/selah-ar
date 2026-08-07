@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "ولِلُوط أيضًا، السائرَ ⟨مع⟩ أفرام، ⟨كانت⟩ له قطعٌ وبقرٌ وخيام.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "لِلُوط"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "السائر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أفرام"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "أفرام"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كانت"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "قطع"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "وبقر"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "وخيام"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:15.945085324Z",
+  "model": "glm-5.2"
+}

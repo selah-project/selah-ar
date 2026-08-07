@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 102,
+  "translation": "فتخشى الأممُ ⟨את⟩ اسمَ يهوه، وكلُّ ملوكِ الأرض ⟨את⟩ مجدَكَ.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "فتخشى"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "الأممُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسمَ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسمَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلُّ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ملوكِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مجدَكَ"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "مجدَكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:55.625516480Z",
+  "model": "glm-5.2"
+}

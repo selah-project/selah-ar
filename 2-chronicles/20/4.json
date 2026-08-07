@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 20:4",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "فاجتمع يهوذا للالتزام من يهوه، بل من كلّ مدن يهوذا أتوا للالتزام ⟨את⟩ يهوه.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "فاجتمع"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوذا"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "للالتزام"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "من يهوه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بل"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كلّ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوذا"
+    },
+    {
+      "surface": "באו",
+      "gloss": "أتوا"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "للالتزام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:28:08.091233357Z",
+  "model": "glm-5.2"
+}

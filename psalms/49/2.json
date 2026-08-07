@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "اسمعوا هذا، يا جميعَ الشعوب؛ أَصيخوا، يا جميعَ ساكني ⟨الدنيا⟩.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "اسمعوا"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميع"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "الشعوب"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "أصيخوا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميع"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ساكني"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "الدنيا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:52:03.849984141Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 39:23",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "وفم الرداء في وسطه كفم درع شَفَة لفمه مُحيط لا يُشَقّ",
+  "tokens": [
+    {
+      "surface": "ופי",
+      "gloss": "وفم"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "الرداء"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "في وسطه"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "كفم"
+    },
+    {
+      "surface": "תחרא",
+      "gloss": "درع"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "شَفَة"
+    },
+    {
+      "surface": "לפיו",
+      "gloss": "لفمه"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "مُحيط"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יקרע",
+      "gloss": "يُشَقّ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:05.146222108Z",
+  "model": "glm-5.2"
+}

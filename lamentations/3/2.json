@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "⟨את⟩ـي ساقَ ⟨وأَدخَلَني⟩ في حُلكةٍ، ولا نُور",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ـي",
+      "marks": "ساق"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "ساقَ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "⟨وأَدخَلَني⟩"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "حُلكة"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "אור",
+      "gloss": "نُور"
+    }
+  ],
+  "timestamp": "2026-08-07T08:37:39.776670460Z",
+  "model": "glm-5.2"
+}

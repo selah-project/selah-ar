@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 37:18",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "فرأوه ⟨את⟩ من بعيد، وقبل أن يقترب إليهم، فتآمروا ⟨את⟩ ⟨عليه⟩ لقتله.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "فرأوا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاه"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "من بعيد"
+    },
+    {
+      "surface": "ובטרם",
+      "gloss": "وقبل"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "أن يقترب"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "إليهم"
+    },
+    {
+      "surface": "ויתנכלו",
+      "gloss": "فتآمروا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاه"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "لقتله"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:39.830944267Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "حقًّا، أنتم ⟨الشعب⟩، ومعكم تموت الحكمة.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "حقًّا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "ومعكم"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "تموت"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "الحكمة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:34:53.767232047Z",
+  "model": "glm-5.2"
+}

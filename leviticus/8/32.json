@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وما يَفضُل من اللحم ومن الخبز بالنار تحرقونه.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "وما يَفضُل"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "من اللحم"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "ومن الخبز"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بالنار"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "تحرقونه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:53.105808728Z",
+  "model": "glm-5.2"
+}

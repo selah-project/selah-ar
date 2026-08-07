@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "يُعطِ لكَ كقلبِكَ، وكلَّ مشورةِكَ يُملأْ",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "يُعطِ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكَ"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "كقلبِكَ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلَّ"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "مشورةِكَ"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "يُملأْ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:53.464875442Z",
+  "model": "glm-5.2"
+}

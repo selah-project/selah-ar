@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 20:17",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "حُلوٌ لِرَجُلٍ خُبزُ الشَّقَر، وبعد ذلِكَ يمتَلِئُ فُوهُ حَصىً.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "حُلوٌ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "لِرَجُلٍ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خُبزُ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "الشَّقَر"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "وبعد ذلِكَ"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "يمتَلِئُ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "فُوهُ"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "حَصىً"
+    }
+  ],
+  "timestamp": "2026-08-07T06:08:24.435476567Z",
+  "model": "glm-5.2"
+}

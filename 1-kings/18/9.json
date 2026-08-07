@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فقال: ماذا أذنبتُ، أنّكَ أنتَ تُسلِمُ ⟨את⟩ عبدكَ ليدِ أخآب لِيُميتَني؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "أذنبتُ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّكَ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "تُسلِمُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عبدك"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدك"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ليدِ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "أخآب"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "لِيُميتَني"
+    }
+  ],
+  "timestamp": "2026-08-07T01:50:08.853249229Z",
+  "model": "glm-5.2"
+}

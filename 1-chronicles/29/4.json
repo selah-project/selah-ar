@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 29:4",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "ثلاثةُ آلافِ قنطارٍ من ذهبٍ، من ذهب أوفير، وسبعةُ آلافِ قنطارٍ من فضّةٍ مصفاةٍ، لطلاء جدران البيوت.",
+  "tokens": [
+    {
+      "surface": "שלשת",
+      "gloss": "ثلاثة"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "آلاف"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "قنطار"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "من ذهب"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "من ذهب"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "أوفير"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "وسبعة"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "آلاف"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "قنطار"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "من فضّة"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "مصفاة"
+    },
+    {
+      "surface": "לטוח",
+      "gloss": "لطلاء"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "جدران"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "البيوت"
+    }
+  ],
+  "timestamp": "2026-08-07T05:19:46.922686952Z",
+  "model": "glm-5.2"
+}

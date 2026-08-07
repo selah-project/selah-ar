@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "وَأَوْقَدَ عَلَيْهِ بَخُورَ عَطَرٍ، كَمَا أَوْصَى يَهوه ⟨את⟩ موشيه.",
+  "tokens": [
+    {
+      "surface": "וקטר",
+      "gloss": "وَأَوْقَدَ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عَلَيْهِ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بَخُورَ"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "عَطَرٍ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كَمَا"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أَوْصَى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:13.825892513Z",
+  "model": "glm-5.2"
+}

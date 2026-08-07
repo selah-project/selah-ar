@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 13:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وسار في مسيراته من النقب وإلى بيت إيل، إلى المكان الذي كان خيمتُه هناك في البدء، بين بيت إيل وبين هالعاي",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "وسار"
+    },
+    {
+      "surface": "למסעיו",
+      "gloss": "في مسيراته"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "من النقب"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "المكان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "خيمتُه"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "في البدء"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "העי",
+      "gloss": "هالعاي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:38.166680624Z",
+  "model": "glm-5.2"
+}

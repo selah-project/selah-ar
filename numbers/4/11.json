@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 4:11",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وعلى مزبَح الذهب يفرشون ثوب تَخيلت ويغطّون ⟨את⟩ه في غطاء جلد تَحَش ويضَعون ⟨את⟩ بَدَيْه",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مزبَح"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "الذهب"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "يفرشون"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ثوب"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "تَخيلت"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "ويغطّون"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "مزبَح الذهب"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "في غطاء"
+    },
+    {
+      "surface": "עור",
+      "gloss": "جلد"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "تَحَش"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ويضَعون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بَدَيْه"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "بَدَيْه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:29:17.815910525Z",
+  "model": "glm-5.2"
+}

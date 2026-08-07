@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "ووقفَ شَطَان ضدّ يسرايل، وأغرى ⟨את⟩ داوود لِعَدِّ ⟨את⟩ يسرايل.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ووقف"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "شَطَان"
+    },
+    {
+      "surface": "על",
+      "gloss": "ضدّ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "وأغرى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داوود"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "لِعَدِّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرايل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:17:23.361190075Z",
+  "model": "glm-5.2"
+}

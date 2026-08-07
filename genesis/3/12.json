@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فقال الإنسان: المرأة التي أعطيتها ⟨معي⟩، هي أعطتني من الشجرة فأكلتُ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "المرأة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "أعطيتها"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "معي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "أعطت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "الشجرة"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "فأكلتُ"
+    }
+  ],
+  "timestamp": "2026-08-07T06:55:32.629119481Z",
+  "model": "glm-5.2"
+}

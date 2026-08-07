@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وفيحفظون ⟨את⟩ حراستي، ولا يحملون عليه خطيئة، فيموتون فيه، لأنّهم يُنجّسونه. أنا يهوه مُقدِّسهم.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "ويحفظون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حراستي"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "حراستي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "يحملون"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "خطيئة"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "ويموتون"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّهم"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "يُنجّسونه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "مُقدِّسهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:35.615072187Z",
+  "model": "glm-5.2"
+}

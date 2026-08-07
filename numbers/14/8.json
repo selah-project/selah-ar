@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 14:8",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "إن كان يهوه يَهْواه فينا، فهو يأتي بنا إلى هذه الأرض ويعطيها لنا، أرضًا هي تفيض حليبًا وعسلاً.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "يَهْواه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "فينا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "وهو يأتي"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨أتي بـ⟩نا",
+      "marks": "نحن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "هذه الأرض"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ويعطيها"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرضًا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "تفيض"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "حليبًا"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "وعسلاً"
+    }
+  ],
+  "timestamp": "2026-08-07T00:35:33.161551465Z",
+  "model": "glm-5.2"
+}

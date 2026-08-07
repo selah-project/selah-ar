@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 1:30",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ولكل حيَوان الأرض ولكل طير السماوات ولكل ما يزحف على الأرض الذي فيه نَفْس حيّة — ⟨את⟩ كل أخضر عِشب طعاماً. وكان كذلك.",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "ولكل"
+    },
+    {
+      "surface": "חית",
+      "gloss": "حيَوان"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ولكل"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "طير"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ولكل"
+    },
+    {
+      "surface": "רומש",
+      "gloss": "ما يزحف"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْس"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "حيّة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل أخضر عشب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "أخضر"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "عِشب"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "طعاماً"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "כן",
+      "gloss": "كذلك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:23.043810056Z",
+  "model": "glm-5.2"
+}

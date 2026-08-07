@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "لأنَّ آدم ليس من صدِّيق في الأرض الذي يفعل طوّو ولا يخطئ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صدِّيق"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "فيالأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يفعل"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خيرًا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "يخطئ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:23.963024411Z",
+  "model": "glm-5.2"
+}

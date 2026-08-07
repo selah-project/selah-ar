@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 3:27",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "لا تمنع الخير عن أهله، حين يكون في طاقة يدك أن تفعل.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "تمنع"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "الخير"
+    },
+    {
+      "surface": "מבעליו",
+      "gloss": "عن أهله"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "حين يكون"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "في طاقة"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "يدك"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "أن تفعل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:12.246182407Z",
+  "model": "glm-5.2"
+}

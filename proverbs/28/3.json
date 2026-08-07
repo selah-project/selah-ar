@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "رجلٌ فقيرٌ يظلمُ الضعفاءَ — كمطرٍ جارفٍ ولا خبزَ ⟨فيه⟩.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "רש",
+      "gloss": "فقير"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "وظلم"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "الضعفاء"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "كمطر"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "جارف"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبز"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:01.076279853Z",
+  "model": "glm-5.2"
+}

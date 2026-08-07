@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 8:15",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وتقابل يهوشوع وكلّ يِسرائيل أمامهم، ففروا طريق البرّيّة.",
+  "tokens": [
+    {
+      "surface": "וינגעו",
+      "gloss": "وتقابلوا"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشوع"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "أمامهم"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ففروا"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "طريق"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "البرّيّة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:05:22.746142486Z",
+  "model": "glm-5.2"
+}

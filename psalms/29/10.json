@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "يهوه ⟨جالس⟩ على الطّوفان، وجلس يهوه مَلِكًا إلى الأبد.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "على الطّوفان"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "⟨جالس⟩"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "وجلس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلِكًا"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:10.373718614Z",
+  "model": "glm-5.2"
+}

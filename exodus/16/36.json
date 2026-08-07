@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "والعُمِر هو عُشْر الإيفَة.",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "والعُمِر"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "عُشْر"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "الإيفَة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T00:05:51.018967399Z",
+  "model": "glm-5.2"
+}

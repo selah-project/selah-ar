@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "وطلعت له الشمس حين عبر ⟨את⟩ پَنوئيل، وهو يعرج على فخذه.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "وطلعت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "الشمس"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "حين"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عبر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پَنوئيل"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "پَنوئيل"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "يعرج"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "فخذه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:02.983625589Z",
+  "model": "glm-5.2"
+}

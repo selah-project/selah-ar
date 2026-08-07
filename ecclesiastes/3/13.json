@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وأيضًا كلُّ الإنسانِ أن يأكلَ ويشربَ ويرى خيرًا في كلِّ تعبه، هو عطيّةُ إلوهيم.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسانِ"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "أن يأكلَ"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ويشربَ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ويرى"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خيرًا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلِّ"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "تعبه"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "عطيّةُ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:32.739969639Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 132,
+  "translation": "إنْ أُعطِ نومًا لعينَيَّ، لِأهدابي غفوة،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إنْ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "أُعطِ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "نومًا"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "لعينَيَّ"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "لِأهدابي"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "غفوة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:16:03.771934927Z",
+  "model": "glm-5.2"
+}

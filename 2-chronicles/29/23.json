@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 29:23",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وقدّموا ⟨את⟩ تيوس الخطيئة أمام الملك والجماعة، فأسندوا أيديهم عليها.",
+  "tokens": [
+    {
+      "surface": "ויגישו",
+      "gloss": "وقدّموا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تيوس الخطيئة"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "تيوس"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "الخطيئة"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "והקהל",
+      "gloss": "والجماعة"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "فأسندوا"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "أيديهم"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "عليها"
+    }
+  ],
+  "timestamp": "2026-08-07T05:31:33.265793647Z",
+  "model": "glm-5.2"
+}

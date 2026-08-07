@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وكلّ غريب لا يأكل مقدَّسًا؛ نزيل كوهين وأجير لا يأكل مقدَّسًا.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "غريب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يأكل"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدَّسًا"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "نزيل"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "كوهين"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "وأجير"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يأكل"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدَّسًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:35.615547878Z",
+  "model": "glm-5.2"
+}

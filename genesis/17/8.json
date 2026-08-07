@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 17:8",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وأعطي لك ولزرعك من بعدك ⟨את⟩ أرض مُغُرك ⟨את⟩ كلّ أرض كنعان لمُلك عولام، وأكون لهم لإلوهيم.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "وأعطي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "ولزرعك"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "من بعدك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أرض مُغُرك"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "مُغُرك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ أرض كنعان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كنعان"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "لمُلك"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "عولام"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "وأكون"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "لإلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:18.001310063Z",
+  "model": "glm-5.2"
+}

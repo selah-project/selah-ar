@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "لا تُوقِدوا نارًا في كلِّ مساكنكم يومَ الشبّات.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "تُوقِدوا"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نارًا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلِّ"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "مساكنكم"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "يومَ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "الشبّات"
+    }
+  ],
+  "timestamp": "2026-08-07T00:13:23.952032929Z",
+  "model": "glm-5.2"
+}

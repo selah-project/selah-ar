@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "فذهب فأخذ فجاء بها إلى أمّه، فصنعت أمّه مَطاعمَ كما أحبّ أبوه.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "فذهب"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "فأخذ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "فجاء"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "بها إلى أمّه"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "فصنعت"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "أمّه"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "مَطاعمَ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "أحبّ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبوه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:15.939152083Z",
+  "model": "glm-5.2"
+}

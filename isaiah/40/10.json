@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "هوذا أدوناي يهوه بعتزّةٍ يأتي، وذراعُه تَحكُمُ له. هوذا أجرتُه معه، وعملُه أمامَه.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "بعتزّة"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "يأتي"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "وذراعُه"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "تحكم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "أجرتُه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "وعملُه"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمامَه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:17:49.993238762Z",
+  "model": "glm-5.2"
+}

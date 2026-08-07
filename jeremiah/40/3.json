@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 40:3",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "وأتى يهوه وفعل كما تكلّم، لأنكم أخطأتم إلى يهوه ولم تسمعوا في صوته، فصار لكم الأمر هذا.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "وأتى"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "وفعل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "أخطأتم"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "إلى يهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "تسمعوا"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "في صوته"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "فصار"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:47:26.368610396Z",
+  "model": "glm-5.2"
+}

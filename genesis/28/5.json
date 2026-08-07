@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 28:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "فأرسل يتسحاق ⟨את⟩ يعقوف، وذهبَ پَدَناه أرام، إلى لابان بن بتوئيل الأراميّ، أخي رِفقة أمِّ يعقوف و⟨عيسو⟩.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يتسحاق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يعقوف"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "وذهب"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "پَدَناه"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "أرام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "بتوئيل"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "الأراميّ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "أخي"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "رِفقة"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أمّ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "وعيسو"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:37.490030997Z",
+  "model": "glm-5.2"
+}

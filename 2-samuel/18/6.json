@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 18:6",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وخرج الشعب إلى الساحة للقاء إسرائيل، فكانت الحرب في وعر أفرايم.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "الساحة"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "للقاء"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "فكانت"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "الحرب"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "في وعر"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "أفرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:47:40.666755833Z",
+  "model": "glm-5.2"
+}

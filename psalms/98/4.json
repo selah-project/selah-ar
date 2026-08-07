@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 98,
+  "translation": "اهتِفوا لِيهوه كلُّ الأرض! اِنفجِروا وترنَّموا وضَعِّفوا!",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "اهتِفوا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "اِنفجِروا"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "وترنَّموا"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "وضَعِّفوا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:41.926130903Z",
+  "model": "glm-5.2"
+}

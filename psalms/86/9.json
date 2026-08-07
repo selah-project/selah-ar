@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 86,
+  "translation": "كلُّ الأمم التي صنعتَها تأتي وتسجدُ أمامك يا أدوناي، ويُمجِّدون اسمك.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "صنعتَها"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "تأتي"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "وتسجدُ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "أمامك"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "يا أدوناي"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "ويُمجِّدون"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "اسمك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:25.842872905Z",
+  "model": "glm-5.2"
+}

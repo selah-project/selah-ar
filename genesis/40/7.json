@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 40:7",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "فسأل ⟨את⟩ خصيانِ فرعون الذين معه في حبس بيت سيّده قائلًا: لماذا وجوهُكم سيّئة اليوم؟",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "فسأل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خصيانَ"
+    },
+    {
+      "surface": "סריסי",
+      "gloss": "خصيانِ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "في حبس"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "سيّدِه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "وجوهُكم"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "سيّئة"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:39.318398538Z",
+  "model": "glm-5.2"
+}

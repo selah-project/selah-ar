@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "بنو باني، ستّ مئة واثنان وأربعون.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "باني"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ستّ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "وأربعون"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "واثنان"
+    }
+  ],
+  "timestamp": "2026-08-07T05:00:50.047308375Z",
+  "model": "glm-5.2"
+}

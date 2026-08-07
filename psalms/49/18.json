@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "لأنّه ليس في موته يأخذُ الكلّ، لا ينزلُ بهاؤه خلفَه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "في موته"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "يأخذُ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "الكلّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ينزلُ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "خلفَه"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "بهاؤه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:51:55.738504532Z",
+  "model": "glm-5.2"
+}

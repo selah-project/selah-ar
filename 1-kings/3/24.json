@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وقال الملك: «ايتوني بسيف». فأحضروا السيف أمام الملك.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "خذوا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "سيف"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "فأحضروا"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "السيف"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:42:43.608562499Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "ولا تُنزِع من فمي كلمةَ إمِت كثيرًا جدًّا، لأنّي على مشفاتك انتظرتُ.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "تُنزِع"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "من فمي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمةَ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "إمِت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "كثيرًا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "على مشفاتك"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "انتظرتُ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:10:03.674546112Z",
+  "model": "glm-5.2"
+}

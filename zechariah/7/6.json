@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وحين تأكلون وحين تشربون، هل أنتم الآكلون وأنتم الشاربون ⟨لأنفسكم⟩؟",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "وحين"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تأكلون"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "وحين"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "تشربون"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "هل"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "الآكلون"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "وأنتم"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "الشاربون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:35:25.820557298Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "دُلَّني في سبيل وصاياك لأنّي ⟨فيه⟩ سُررتُ.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "دُلَّني"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "في سبيل"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "وصاياك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "سُررتُ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:42.564698097Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وإن لم تكن له بنت، فتعطون ⟨את⟩ ميراثه لإخوته.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "فتعطون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ميراثه"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ميراثه"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "لإخوته"
+    }
+  ],
+  "timestamp": "2026-08-07T00:42:37.187377807Z",
+  "model": "glm-5.2"
+}

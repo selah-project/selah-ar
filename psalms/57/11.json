@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 57,
+  "translation": "لأنَّ حِسِدَكَ عظيمٌ إلى السماوات، وإلى الغمام إمِتُكَ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "عظيمٌ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حِسِدَكَ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "الغمام"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "إمِتُكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:05.886894152Z",
+  "model": "glm-5.2"
+}

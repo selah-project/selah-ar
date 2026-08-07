@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 47,
+  "translation": "لأنَّ مَلِكَ كلِّ الأرض إلوهيم، زَمِّروا مَسكيل.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملكَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "زَمِّروا"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "مَسكيل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:53.519139952Z",
+  "model": "glm-5.2"
+}

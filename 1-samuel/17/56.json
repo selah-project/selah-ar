@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "فقال الملك: «اسألْ أنت: ابنُ مَن هذا الفتى؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "اسأل"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "الفتى"
+    }
+  ],
+  "timestamp": "2026-08-07T01:26:35.800112341Z",
+  "model": "glm-5.2"
+}

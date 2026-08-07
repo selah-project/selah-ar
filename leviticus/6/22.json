@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "كلُّ ذكرٍ في الكهنة يأكلها؛ ⟨إنها⟩ قُدس أقداس.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ذكرٍ"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "في الكهنة"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يأكل"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاها"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قُدس"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "أقداس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:30.187157944Z",
+  "model": "glm-5.2"
+}

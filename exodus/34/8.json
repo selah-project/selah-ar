@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "وأسرع موشيه وانحنى أرضًا وسجد.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "وأسرع"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "وانحنى"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "أرضًا"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "وسجد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:48.725644280Z",
+  "model": "glm-5.2"
+}

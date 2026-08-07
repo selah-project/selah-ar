@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "ووصل ⟨את⟩ خمس الستائر وحدها، و⟨את⟩ ستّ الستائر وحدها.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "ووصل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خمس الستائر"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "خمس"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "الستائر"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "وحدها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "ستّ الستائر"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ستّ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "الستائر"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "وحدها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:14:20.329837654Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 5:4",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "لا تدع أفعالُهم ⟨يَدَعَهم⟩ يرجعون إلى إلهيم، لأنّ روَح زِنىً في داخلهم و⟨את⟩ يهوه لم يعرفوا.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "تدع"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "أفعالُهم"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "لأن يرجعوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "إلهيم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روَح"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "زِنىً"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "في داخلهم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "يعرفوا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:19:57.259672068Z",
+  "model": "glm-5.2"
+}

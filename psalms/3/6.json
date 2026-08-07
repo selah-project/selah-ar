@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "أنا اضطجعت ونمت، استيقظت، لأنّ يهوه ساندني",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "اضطجعت"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "ونمت"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "استيقظت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "ساندني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:40:45.272099860Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "اعبُدوا ⟨את⟩ يهوه بخوف، وابتهجوا برعدة.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "اعبُدوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "بخوف"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "وابتَهِجوا"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "برعدة"
+    }
+  ],
+  "timestamp": "2026-08-07T06:02:02.062303136Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "ملعونٌ سلّتُك وملعونٌ ⟨هو⟩ معجنَتُك",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملعون"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "سلّتُك"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "ومعجنَتُك"
+    }
+  ],
+  "timestamp": "2026-08-07T05:42:43.103597330Z",
+  "model": "glm-5.2"
+}

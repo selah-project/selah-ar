@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 46:24",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 46,
+  "translation": "وقال لي: «هذه بيوت الطبخ، حيث يطبخ هناك خدَمُ البيت ⟨את⟩ ذبيحةَ الشعب».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيوت"
+    },
+    {
+      "surface": "המבשלים",
+      "gloss": "الطبخ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "حيث"
+    },
+    {
+      "surface": "יבשלו",
+      "gloss": "يطبخ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "خدَمُ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ذبيحة"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ذبيحة"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    }
+  ],
+  "timestamp": "2026-08-07T03:17:18.803410287Z",
+  "model": "glm-5.2"
+}

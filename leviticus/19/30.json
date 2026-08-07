@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "⟨את⟩ شَبّاتي تَحفظون، ومِقداشي تَهابون. أنا يهوه.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شَبّاتي"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "شَبّاتي"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "تَحفظون"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "ومِقداشي"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "تَهابون"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:00.784598714Z",
+  "model": "glm-5.2"
+}

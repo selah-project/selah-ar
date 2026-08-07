@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وقتٌ لرمي حجارة، ووقتٌ لجمع حجارة؛ وقتٌ لمعانقة، ووقتٌ للابتعاد عن معانقة.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وقتٌ"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "لرمي"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "حجارة"
+    },
+    {
+      "surface": "ו־עת",
+      "gloss": "ووقتٌ"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "لجمع"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "حجارة"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقتٌ"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "لمعانقة"
+    },
+    {
+      "surface": "ו־עת",
+      "gloss": "ووقتٌ"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "للابتعاد"
+    },
+    {
+      "surface": "מ־חבק",
+      "gloss": "عن معانقة"
+    }
+  ],
+  "timestamp": "2026-08-07T06:09:57.692399666Z",
+  "model": "glm-5.2"
+}

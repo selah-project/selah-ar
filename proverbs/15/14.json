@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 15:14",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "قلبٌ فهيمٌ يطلب المعرفة، ووجهُ الجهّال يرعى الحماقة",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "فهيم"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "يطلب"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "المعرفة"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ووجه"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "الجهّال"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "يرعى"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "الحماقة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:06.003223483Z",
+  "model": "glm-5.2"
+}

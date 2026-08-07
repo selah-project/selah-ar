@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ويذبح ⟨את⟩ ابن البقر أمام يهوه، ويُقرّب بنو أهارون الكهنة ⟨את⟩ الدم، ويرشّون ⟨את⟩ الدم على المذبح حواليه، الذي بباب خيمة الموعد.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ويذبح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابن البقر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "البقر"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "ويُقرّبون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكهنة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الدم"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "الدم"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ويرشّون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الدم"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "الدم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "حواليه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "باب"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:37.298076394Z",
+  "model": "glm-5.2"
+}

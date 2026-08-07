@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "مُتسلِّطٌ يُصغِي إلى كلامِ كذبٍ، كلُّ خدَمِهِ أشرارٌ.",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "مُتسلِّطٌ"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "يُصغِي"
+    },
+    {
+      "surface": "על",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلامِ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "كذبٍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "خدَمِهِ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "أشرارٌ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:10.340390932Z",
+  "model": "glm-5.2"
+}

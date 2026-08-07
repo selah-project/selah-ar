@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 37:20",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "هل يُخبر عنه أنّي أتكلّم؟ أو إن قال رجل — فإنّه يُبلَع.",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "هل يُخبر"
+    },
+    {
+      "surface": "לו",
+      "gloss": "عنه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "أتكلّم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أو إذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "فإنّ"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "يُبلَع"
+    }
+  ],
+  "timestamp": "2026-08-07T04:42:46.152162647Z",
+  "model": "glm-5.2"
+}

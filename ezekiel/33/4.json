@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "وكان أنّ السامعَ سمع ⟨את⟩ صوت الشوفار ولم يُحذَّر، فجاء السيفُ وأخذه، دمُه على رأسه يكون.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "وسمع"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "السامع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صوت"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "الشوفار"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "يُحذَّر"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "السيف"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "وأخذه"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "دمه"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "على رأسه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:08:49.337462777Z",
+  "model": "glm-5.2"
+}

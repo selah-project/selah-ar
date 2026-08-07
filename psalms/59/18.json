@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 59,
+  "translation": "عزِّي، إليكَ أُعزِفُ، لأنَّ إلوهيمَ مَرتفَعي، إلوهيمَ حِسِدي.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "عزِّي"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليكَ"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "أُعزِف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيمَ"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "مَرتفَعي"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيمَ"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "حِسِدي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:55:55.335235174Z",
+  "model": "glm-5.2"
+}

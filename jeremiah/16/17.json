@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 16:17",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "لأنّ عينيّ على كلّ طرقهم، لم يُستَتَروا من وجهي، ولم تُخبَأ إثمهم من أمام عينيّ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "عينيّ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "דרכיהם",
+      "gloss": "طرقهم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "נסתרו",
+      "gloss": "يُستَتَروا"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "من وجهي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "נצפן",
+      "gloss": "تُخبَأ"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "إثمهم"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "من أمام"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "عينيّ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:35:55.560652797Z",
+  "model": "glm-5.2"
+}

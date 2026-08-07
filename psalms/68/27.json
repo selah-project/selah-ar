@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 68:27",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 68,
+  "translation": "في المجاميع باركوا إلوهيم، يهوه، من مَبعث يِسرائيل.",
+  "tokens": [
+    {
+      "surface": "במקהלות",
+      "gloss": "في المجاميع"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "باركوا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ממקור",
+      "gloss": "من مَبعث"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:58:05.646308557Z",
+  "model": "glm-5.2"
+}

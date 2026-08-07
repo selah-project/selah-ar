@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 8:22",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "فعصى أدوم من تحت يد يهودا إلى هذا اليوم. حينئذٍ عصت لِبنة في ذلك الوقت.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "فعصى"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "أدوم"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "من تحت"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يد"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "היום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אז",
+      "gloss": "حينئذٍ"
+    },
+    {
+      "surface": "תפשע",
+      "gloss": "عصت"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "لِبنة"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "في"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ذلك الوقت"
+    }
+  ],
+  "timestamp": "2026-08-07T01:55:28.909477403Z",
+  "model": "glm-5.2"
+}

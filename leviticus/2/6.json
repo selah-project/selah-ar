@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فَطْفِطْ ⟨את⟩ها فُتوتًا، وصُبَّ عليها زيتًا — مِنْحاةٌ ⟨هي⟩.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "فَطْفِطْ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "فُتوتًا"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "فُتوتًا"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "وصُبَّ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "عليها"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "زيتًا"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "مِنْحاة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:19.379126902Z",
+  "model": "glm-5.2"
+}

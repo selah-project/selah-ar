@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 19:3",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "فصعدت واحدًا من جرائها، صار كَفيرًا، وتعلّم أن يَطْرُف طَرْفًا، آدام أَكَل",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "فصعدت"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    },
+    {
+      "surface": "מגריה",
+      "gloss": "من جرائها"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "كَفيرًا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "صار"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "وتعلّم"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "أن يَطْرُف"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "طَرْفًا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدام"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "أَكَل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:02:21.031832686Z",
+  "model": "glm-5.2"
+}

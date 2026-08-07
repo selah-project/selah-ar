@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "فبنى بَنُو گاد ⟨את⟩ دِيبُون و⟨את⟩ عَتَرُوت و⟨את⟩ عَرُوعِير.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "فبنى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ديبون"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "ديبون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "عَتَروت"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "عَتَروت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "عَروعير"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "عَروعير"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:23.903783814Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "و⟨قال⟩ داوُد للفتى المُخبِر له: كيف عرفتَ أن شاؤول مات ويهوناتان ابنه؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و⟨قال⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوُد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "الفتى"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "المُخبِر"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "איך",
+      "gloss": "كيف"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "عرفتَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مات"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "وابنه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:31:19.169471474Z",
+  "model": "glm-5.2"
+}

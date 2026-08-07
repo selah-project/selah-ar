@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 24:18",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "واذكرْ أنك كنت عبدًا في مصرايم، ففداك يهوه إلوهيمك من هناك؛ لذلك أنا أوصيك بعمل ⟨את⟩ الأمرَ هذا.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "واذكرْ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عبدًا"
+    },
+    {
+      "surface": "היית",
+      "gloss": "كنت"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "في مصرايم"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "ففداك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "משם",
+      "gloss": "من هناك"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "أوصيك"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بعمل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأمر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:08.813695011Z",
+  "model": "glm-5.2"
+}

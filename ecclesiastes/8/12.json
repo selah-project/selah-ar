@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 8:12",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "الذي يُخطئ صانعًا الشرّ مئة مرّة ويُطيل ⟨له⟩ — فأنا أيضًا عارفٌ أنه يكون خيرٌ لخائفي إلوهيم، الذين يخافون من أمامه.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "يُخطئ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صانعًا"
+    },
+    {
+      "surface": "רע",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "ומאריך",
+      "gloss": "ويُطيل"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨له⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "فـ\/لأن"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "عارفٌ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "أنه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خيرٌ"
+    },
+    {
+      "surface": "ליראי",
+      "gloss": "لخائفي"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "يخافون"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "من أمامه"
+    }
+  ],
+  "timestamp": "2026-08-07T06:10:16.332297234Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 33:19",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "و⟨اشترى⟩ ⟨את⟩ قطعة ⟨ال⟩حقل التي نصب هناك خيمته، من يد بني حَمور أبي شكيم، بمئة قَشيطَة.",
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "و⟨اشترى⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قطعة الحقل"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "قطعة"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "⟨ال⟩حقل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "نصب"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "خيمته"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يد"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "حَمور"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شكيم"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "بمئة"
+    },
+    {
+      "surface": "קשיטה",
+      "gloss": "قَشيطَة"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:48.036036816Z",
+  "model": "glm-5.2"
+}

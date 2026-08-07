@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وبكَّر يهوشع صباحًا، وحمل الكوهنة ⟨את⟩ تابوت يهوه.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "وبكَّر"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشع"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صباحًا"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "وحمل"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكوهنة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تابوت يهوه"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:03:51.688762938Z",
+  "model": "glm-5.2"
+}

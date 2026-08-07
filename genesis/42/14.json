@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "فقال لهم يوسف: «هوذا ما كلّمتكم به قائلاً: جواسيسُ أنتم.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "كلّمتكم"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "به"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "جواسيس"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:38.936129188Z",
+  "model": "glm-5.2"
+}

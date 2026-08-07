@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وتدعو ييشاي إلى الذبح، وأنا أُعلِمُكَ ⟨את⟩ ما تفعل، وتمسح لي ⟨את⟩ الذي أقولُه لك.»",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "وتدعو"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "لييشاي"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "إلى الذبح"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "أعلمك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الذي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تفعل"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": " وتمسح"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الذي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "أقوله"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "لك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:26:13.817029448Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 23:26",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "فأجاب بِلعام وقال لِبَلاق: ألم أُكلِّمك قائلاً: كلُّ ما يُكلِّمُ به يهوه ⟨את⟩ه إيّاه أفعله؟",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "فأجاب"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلعام"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لِ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بَلاق"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ألم"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "أُكلِّمك"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إيّاك"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "يُكلِّمُ به"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "אעשה"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "أفعله"
+    }
+  ],
+  "timestamp": "2026-08-07T07:12:25.004428654Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 23:37",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "هكذا تقول للنافي: ماذا أجابك يهوه؟ وماذا تكلّم يهوه؟",
+  "tokens": [
+    {
+      "surface": "כֹּ֥ה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "תֹאמַ֖ר",
+      "gloss": "تقول"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "הַנָּבִ֑יא",
+      "gloss": "النافي"
+    },
+    {
+      "surface": "מֶה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "עָנָ֣ךְ",
+      "gloss": "أجابك"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וּמַה",
+      "gloss": "وماذا"
+    },
+    {
+      "surface": "דִּבֶּ֖ר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:40:02.928934606Z",
+  "model": "glm-5.2"
+}

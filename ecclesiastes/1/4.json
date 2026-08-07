@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "جيلٌ يمضي، ⟨وجيلٌ⟩ يأتي، والأرضُ إلى الأبدِ قائمة.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "جيلٌ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "يمضي"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "وجيلٌ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "يأتي"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "والأرضُ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبدِ"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "قائمة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:12.974301923Z",
+  "model": "glm-5.2"
+}

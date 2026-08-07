@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 21:9",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "و⟨أُحصِيَ⟩ الشعب، وإذا ليس هناك أحدٌ من سكّان يافيش جلعاد.",
+  "tokens": [
+    {
+      "surface": "ויתפקד",
+      "gloss": "و⟨أُحصِيَ⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "איש",
+      "gloss": "أحد"
+    },
+    {
+      "surface": "מיושבי",
+      "gloss": "من سكّان"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "يافيش"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "جلعاد"
+    }
+  ],
+  "timestamp": "2026-08-07T01:20:35.159476537Z",
+  "model": "glm-5.2"
+}

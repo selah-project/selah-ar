@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "و⟨أمّا⟩ ⟨את⟩ اسم الثاني فدعاه أفْرايم، لأنّ إلوهيم أفرحني في أرض عِنائي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "اسم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "השני",
+      "gloss": "الثاني"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "دعاه"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "أفْرايم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "أفرحني"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "عِنائي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:52:20.658144822Z",
+  "model": "glm-5.2"
+}

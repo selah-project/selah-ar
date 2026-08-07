@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "و⟨את⟩ الكبش قطّع إلى قطعه، وأصعد موشيه ⟨את⟩ الرأس و⟨את⟩ القطع و⟨את⟩ الشحم ⟨دخانًا⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الكبش"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "الكبش"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "قطّع"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "إلى قطعه"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "وأصعد ⟨دخانًا⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الرأس"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "الرأس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "القطع"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "القطع"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الشحم"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "الشحم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:49.078602501Z",
+  "model": "glm-5.2"
+}

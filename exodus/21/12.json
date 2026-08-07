@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "ضاربُ رجلٍ فمات، موتًا يُقتَل.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "ضاربُ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلٍ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "فمات"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موتًا"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "يُقتَل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:57.957825488Z",
+  "model": "glm-5.2"
+}

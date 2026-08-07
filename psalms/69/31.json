@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 69,
+  "translation": "أُسبِّحُ اسمَ إلوهيمَ بِنشيد، وأُعظِّمُهُ بِشُكر.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "أُسبِّحُ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسمَ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيمَ"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "بِنشيد"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "وأُعظِّمُهُ"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "بِشُكر"
+    }
+  ],
+  "timestamp": "2026-08-07T06:05:04.515064709Z",
+  "model": "glm-5.2"
+}

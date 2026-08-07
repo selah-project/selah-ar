@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 74,
+  "translation": "وإلوهيم ملكي منذ القدَم، صانع יְשׁוּע֗וֹת في وسط الأرض.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "وإلوهيم"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ملكي"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "منذ القِدَم"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "صانع"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ישועות"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T08:06:44.569310961Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "فأجاب عِفرُن ⟨את⟩ أفراهام قائلًا لهُ:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "فأجاب"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "عِفرُن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أفراهام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لهُ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:43:56.374593457Z",
+  "model": "glm-5.2"
+}

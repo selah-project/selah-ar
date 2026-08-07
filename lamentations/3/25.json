@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "طَيِّبٌ يهوه لِمُنتَظِرِيه، لِنَفْسٍ تَطلُبُه.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "طَيِّبٌ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "لِمُنتَظِرِيه"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "لِنَفْسٍ"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "تَطلُبُه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:49:03.334464435Z",
+  "model": "glm-5.2"
+}

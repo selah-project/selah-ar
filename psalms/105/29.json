@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 105,
+  "translation": "حوّل ⟨את⟩ مياههم إلى دمٍ، وأمات ⟨את⟩ سمكهم.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "حوّل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مياههم"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "مياههم"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "إلى دمٍ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "وأمات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سمكهم"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "سمكهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:08:56.726533725Z",
+  "model": "glm-5.2"
+}

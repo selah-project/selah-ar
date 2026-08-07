@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "لم يَزُلْ عمود السحاب نهارًا، ولا عمود النار ليلاً، من أمام الشعب.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "يَزُلْ"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "عمود"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "السحاب"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "نهارًا"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "وعمود"
+    },
+    {
+      "surface": "האש",
+      "gloss": "النار"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ليلاً"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "من أمام"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    }
+  ],
+  "timestamp": "2026-08-07T00:03:05.620230638Z",
+  "model": "glm-5.2"
+}

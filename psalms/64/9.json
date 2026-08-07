@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 64,
+  "translation": "وأسقطوه عليهم بلسانهم، يتردّد كلّ راءٍ فيهم",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "وأسقطوه"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "لسانهم"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "يتردّد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "راءٍ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "فيهم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:13.657138071Z",
+  "model": "glm-5.2"
+}

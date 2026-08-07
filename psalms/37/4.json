@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "وتلذّذ بيده، فيُعطيك مسؤولات قلبك.",
+  "tokens": [
+    {
+      "surface": "וְהִתְעַנַּ֥ג",
+      "gloss": "وتلذّذ"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "بـ"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וְיִֽתֶּן",
+      "gloss": "فيُعطيك"
+    },
+    {
+      "surface": "לְ֝ךָ֗",
+      "gloss": ""
+    },
+    {
+      "surface": "מִשְׁאֲלֹ֥ת",
+      "gloss": "مسؤولات"
+    },
+    {
+      "surface": "לִבֶּֽךָ",
+      "gloss": "قلبك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:42.746107417Z",
+  "model": "glm-5.2"
+}

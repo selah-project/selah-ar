@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "أنا لحبيبي، وعلَيَّ شوقُه.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "لحبيبي"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "وعلَيَّ"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "شوقُه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:47:13.476555517Z",
+  "model": "glm-5.2"
+}

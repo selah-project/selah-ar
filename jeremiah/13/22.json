@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 13:22",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وإن قلتِ في قلبكِ: لِمَ صادفني هؤلاء؟ بكثرة ذنبكِ انكشف ذيلُكِ، وعُنِّفتْ عقباكِ.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "قلتِ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "في قلبكِ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "لِمَ"
+    },
+    {
+      "surface": "קראני",
+      "gloss": "صادفني"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "بكثرة"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "ذنبكِ"
+    },
+    {
+      "surface": "נגלו",
+      "gloss": "انكشف"
+    },
+    {
+      "surface": "שוליך",
+      "gloss": "ذيلُكِ"
+    },
+    {
+      "surface": "נחמסו",
+      "gloss": "عُنِّفتْ"
+    },
+    {
+      "surface": "עקביך",
+      "gloss": "عقباكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:34:48.780517203Z",
+  "model": "glm-5.2"
+}

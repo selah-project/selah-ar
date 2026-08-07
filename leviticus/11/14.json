@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨את⟩ الدَّآءَة، و⟨את⟩ العَيَّة، لِنوعها.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الدَّآءَة"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "الدَّآءَة"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "العَيَّة"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "العَيَّة"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "لِنوعها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:29.896117002Z",
+  "model": "glm-5.2"
+}

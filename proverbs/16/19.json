@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "خيرٌ انخفاضُ الروَح ⟨مع⟩ ⟨את⟩ المساكين من قسمةِ الغنيمة ⟨مع⟩ ⟨את⟩ المتعجرفين.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "خير"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "انخفاض"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "الروَح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المساكين"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "المساكين"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "من قسمة"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "الغنيمة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المتعجرفين"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "المتعجرفين"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:24.236103369Z",
+  "model": "glm-5.2"
+}

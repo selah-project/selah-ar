@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ويضع بنو أهارون الكاهن ناراً على المذبح، ويرتّبون حطباً على النار.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "ويضعون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكاهن"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ناراً"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "ويرتّبون"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "حطباً"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "האש",
+      "gloss": "النار"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:37.300199158Z",
+  "model": "glm-5.2"
+}

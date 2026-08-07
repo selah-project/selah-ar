@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 18:6",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وقال لموشيه: «أنا حَمُوك يِترو آتٍ إليك، وامرأتك وابناها معها.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "חתנך",
+      "gloss": "حَمُوك"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "يِترو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آتٍ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "وامرأتك"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "وابنا"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "معها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:15.275178170Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 104,
+  "translation": "تُعطيهم فيلتقطون، تفتح يدَك فيُشبَعون خيرًا.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "تُعطيهم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "فيلتقطون"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "تفتح"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدَك"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "فيُشبَعون"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خيرًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:06:40.869787141Z",
+  "model": "glm-5.2"
+}

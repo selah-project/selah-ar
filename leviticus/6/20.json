@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 6:20",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "كل ما يمسّ لحمها يُقدَّس، وما يُرشّ من دمها على ثوب يُرشّ عليه تُغسَله في مكان مقدّس.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "يمسّ"
+    },
+    {
+      "surface": "בבשרה",
+      "gloss": "لحمها"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "يُقدَّس"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "وما"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "يُرشّ"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "من دمها"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "ثوب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "يُرشّ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "תכבס",
+      "gloss": "تُغسَل"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "في مكان"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدّس"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:31.051763932Z",
+  "model": "glm-5.2"
+}

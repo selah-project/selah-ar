@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "روَح الشمال تُنزل مطرًا، ووجوه غاضبة لسان مستتر.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "روَح"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "الشمال"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "تُنزل"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "مطرًا"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "ووجوه"
+    },
+    {
+      "surface": "נזעמים",
+      "gloss": "غاضبة"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "لسان"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "مستتر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:59.518872148Z",
+  "model": "glm-5.2"
+}

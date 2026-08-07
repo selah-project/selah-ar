@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "أليسَ ظلامًا يومُ يهوه ولا نور؟ وغبشةٌ ولا بَهاءٍ له؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "أليسَ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ظلامًا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يومُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "אור",
+      "gloss": "نور"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "وغبشةٌ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "بَهاءٍ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T03:26:52.731323383Z",
+  "model": "glm-5.2"
+}

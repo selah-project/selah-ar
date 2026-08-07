@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 109:28",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 109,
+  "translation": "يلعنون هم، وأمّا أنت فتبارك؛ قاموا وخجلوا، وعبدك يفرح.",
+  "tokens": [
+    {
+      "surface": "יקללו",
+      "gloss": "يلعنون"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "وأمّا أنت"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "فتبارك"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "قاموا"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "وخجلوا"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "وعبدك"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "يفرح"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:09.221192418Z",
+  "model": "glm-5.2"
+}

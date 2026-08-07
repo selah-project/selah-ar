@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 6:34",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "لأنّ غيرةً حمَمَ رجلٍ وهو لا يَرحَم في يومِ انتقام.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "غيرةً"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حمَمَ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "وهو لا"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "يَرحَم"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "انتقام"
+    }
+  ],
+  "timestamp": "2026-08-07T06:08:12.874515211Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 91,
+  "translation": "طولَ أيامٍ أُشبعه، ⟨و⟩ أُريه خلاصي.»",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "طولَ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيامٍ"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "أُشبعه"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "⟨و⟩ أُريه"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "خلاصي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:08.548081762Z",
+  "model": "glm-5.2"
+}

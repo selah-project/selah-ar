@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 39:4",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "كتفين صنعوا له موصولتين على طرفيه اثنين وُصِل.",
+  "tokens": [
+    {
+      "surface": "כתפת",
+      "gloss": "كتفين"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "صنعوا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "موصولتين"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שני",
+      "gloss": "اثنين"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "طرفيه"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "وُصِل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:14:50.878918594Z",
+  "model": "glm-5.2"
+}

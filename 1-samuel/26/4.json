@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "فأرسل دافيد جواسيسَ وعلم أنَّ شاؤول قد جاء فعلًا.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "دافيد"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "جواسيسَ"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "وعلم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنَّ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "قد جاء"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "فعلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:47:24.156091390Z",
+  "model": "glm-5.2"
+}

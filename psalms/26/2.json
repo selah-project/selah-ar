@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "اختبرني، يا يهوه، وامتحنّي، رَهِفْ كُلَياَتي وقلبي.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "اختبرني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "وامتحنّي"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "صفِّها"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "كُلاَيَتي"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "وقلبي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:47.492005173Z",
+  "model": "glm-5.2"
+}

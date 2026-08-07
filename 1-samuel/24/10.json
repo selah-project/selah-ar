@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "و⟨قال⟩ داوود لشاؤول: لماذا تسمع ⟨את⟩ كلام أناس يقولون: هوذا داوود يطلب شرّك؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و⟨قال⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "لشاؤول"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "تسمع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلام"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلام"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "أناس"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "يقولون"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "يطلب"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "شرّك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:29:18.232864022Z",
+  "model": "glm-5.2"
+}

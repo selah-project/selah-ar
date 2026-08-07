@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "ورجلٌ يضاجع ⟨את⟩ ذكرًا مضاجعةَ امرأةٍ، رجسًا فعلاه معًا، موتًا يُماتان، دماؤهما عليهما",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ورجل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "يضاجع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ذكرًا"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ذكر"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "مضاجعةَ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "رجسًا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "فعلا"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "كلاهما"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موتًا"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "يُماتان"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "دماؤهما"
+    },
+    {
+      "surface": "בם",
+      "gloss": "عليهما"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:29.903816857Z",
+  "model": "glm-5.2"
+}

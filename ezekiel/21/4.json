@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فيرى كل بشر أنّي أنا يهوه أوقدتُها، لا تُطفأ.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "فيرى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بشر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "أوقدتُها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "تُطفأ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:02:10.163549517Z",
+  "model": "glm-5.2"
+}

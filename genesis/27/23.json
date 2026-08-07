@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 27:23",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "ولم يتعرّف عليه، لأنّ يديه كانتا كيدي عيساو أخيه، مشعِرتين، فباركه.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "הכירו",
+      "gloss": "يتعرّف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "عليه، لأنّ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "كانتا"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "يديه"
+    },
+    {
+      "surface": "כידי",
+      "gloss": "كيدي"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيساو"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "أخيه"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "مشعِرتين"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "فباركه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:15.928553217Z",
+  "model": "glm-5.2"
+}

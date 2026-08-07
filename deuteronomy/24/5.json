@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 24:5",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "إذا أخذ رجل امرأة جديدة لا يخرج في الجيش ولا يَعبُر عليه لأيِّ أمر، يكون بريئًا ⟨في⟩ بيته سنة واحدة ويُسرَّ ⟨את⟩ امرأته التي أخذها.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "أخذ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "جديدة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "يخرج"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "في الجيش"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "يعبر"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لأيّ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "أمر"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بريئًا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "لبيته"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "واحدة"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "ويُسرَّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "امرأته"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "امرأته"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "أخذها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:58:42.149398975Z",
+  "model": "glm-5.2"
+}

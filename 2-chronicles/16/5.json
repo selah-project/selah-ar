@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "⟨وكان⟩ عند سماع بعشا أن⟨ه⟩ كفّ عن بناء ⟨את⟩ الرامة، وأوقف ⟨את⟩ عمله.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨وكان⟩"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "عند سماع"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بعشا"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "كفّ"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "عن بناء"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الرامة"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "الرامة"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "وأوقف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عمله"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "عمله"
+    }
+  ],
+  "timestamp": "2026-08-07T05:26:34.378123914Z",
+  "model": "glm-5.2"
+}

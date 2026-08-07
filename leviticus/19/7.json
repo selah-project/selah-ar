@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وإن أُكِل يُؤكَل في اليوم الثالث، فهو فِغول، لا يُرضى.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "أُكِل"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يُؤكَل"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في اليوم"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "الثالث"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "فِغول"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "فهو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "يُرضى"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:43.836306125Z",
+  "model": "glm-5.2"
+}

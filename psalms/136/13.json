@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 136,
+  "translation": "لمَن شقَّ بحرَ السُّوف إلى أجزاءٍ، لأنَّ إلى الأبد حِسِدُهُ",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "لمَن شقَّ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "بحر"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "السُّوف"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "إلى أجزاءٍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حِسِدُهُ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:17:28.892834679Z",
+  "model": "glm-5.2"
+}

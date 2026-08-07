@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 12:32",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "ومن نصف سبط منشّه ثمانيةَ عشرَ ألفًا، الذين انتُدبوا بأسماءٍ للإتيان لتمليك ⟨את⟩ داود.",
+  "tokens": [
+    {
+      "surface": "ומחצי",
+      "gloss": "ومن نصف"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "سبط"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشّه"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ثمانيةَ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشرَ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفًا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "انتُدبوا"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "بأسماءٍ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "للإتيان"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "لتمليك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داود"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    }
+  ],
+  "timestamp": "2026-08-07T05:14:56.596358370Z",
+  "model": "glm-5.2"
+}

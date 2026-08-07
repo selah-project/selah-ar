@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "ويُدخّنها الكاهن على المذبح، طعام إشًّة لرائحة راحة: كلّ شحم ليهوه.",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "ويُدخّنها"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكاهن"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "على المذبح"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "طعام"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "إشًّة"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "لرائحة"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "راحة"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "شحم"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:51.247839634Z",
+  "model": "glm-5.2"
+}

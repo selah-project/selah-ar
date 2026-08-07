@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "أَوْلَتُ الإنسان تُعوِجُّ طريقَه، و⟨على⟩ يهوه يغضبُ قلبُه.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "أوْلَتُ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "تُعوِجُّ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "طريقَه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و⟨على⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "يغضبُ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "قلبُه"
+    }
+  ],
+  "timestamp": "2026-08-07T08:14:17.719018010Z",
+  "model": "glm-5.2"
+}

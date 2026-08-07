@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وما فعله بكم في المِدبار، حتى مجيئكم إلى هذا المكان،",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "وما"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعله"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بكم"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في المِدبار"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "مجيئكم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "المكان"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:53:49.429043952Z",
+  "model": "glm-5.2"
+}

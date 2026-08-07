@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 16:3",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "هل ⟨تنتهي⟩ كلماتُ روَح؟ أم ماذا يُحرّكك فتُجيب؟",
+  "tokens": [
+    {
+      "surface": "הקץ",
+      "gloss": "هل ⟨تنتهي⟩"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "كلماتُ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روَح"
+    },
+    {
+      "surface": "או",
+      "gloss": "أم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "ימריצך",
+      "gloss": "يُحرّكك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "فـ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "تُجيب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:37:29.384710985Z",
+  "model": "glm-5.2"
+}

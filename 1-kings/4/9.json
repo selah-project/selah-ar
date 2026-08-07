@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "بَن دَكَر: في مقّاص وفي شَعَلْبيم وفي بيت شَمَش، وإيلون بيت حانان:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "دَكَر"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "في مقّاص"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "وفي شَعَلْبيم"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "وفي بيت"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "شَمَش"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "وإيلون"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حانان"
+    }
+  ],
+  "timestamp": "2026-08-07T07:30:47.011818220Z",
+  "model": "glm-5.2"
+}

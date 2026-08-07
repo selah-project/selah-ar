@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 140,
+  "translation": "لا تُعطِ، يهوه، شهواتِ راشع؛ مؤامرتَه لا تُنجِح، ⟨لئلا⟩ يترفّعوا. سيلاه",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "تُعطِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "شهواتِ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "راشع"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "مؤامرتَه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "تُنجِح"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "يترفّعوا"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سيلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:24.657159532Z",
+  "model": "glm-5.2"
+}

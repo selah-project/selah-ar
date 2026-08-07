@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 23:13",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "ورأيتُ أنّها تنجّستْ، طريقٌ واحدٌ لكليهما.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "ورأيتُ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "נטמאה",
+      "gloss": "تنجّستْ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "طريقٌ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدٌ"
+    },
+    {
+      "surface": "לשתיהן",
+      "gloss": "لكليهما"
+    }
+  ],
+  "timestamp": "2026-08-07T03:04:15.826724932Z",
+  "model": "glm-5.2"
+}

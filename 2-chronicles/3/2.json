@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 3:2",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "و⟨بدأ⟩ ⟨بالبناء⟩ في الشهر الثاني، في الثاني ⟨منه⟩، في السنة الرابعة لملكه.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "و⟨بدأ⟩"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "⟨بالبناء⟩"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "في الشهر"
+    },
+    {
+      "surface": "השני",
+      "gloss": "الثاني"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "في الثاني"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "في السنة"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "الرابعة"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "لمُلكه"
+    }
+  ],
+  "timestamp": "2026-08-07T06:13:50.191502288Z",
+  "model": "glm-5.2"
+}

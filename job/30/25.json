@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 30:25",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "أما بكيتُ لِمُشقِّرِ اليوم؟ احزنّت نفسي للمُعدِم.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "أما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ليس⟩"
+    },
+    {
+      "surface": "בכיתי",
+      "gloss": "بكيتُ"
+    },
+    {
+      "surface": "לקשה",
+      "gloss": "لِمُشقِّرِ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "עגמה",
+      "gloss": "احزنّت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نفسي"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "للمُعدِم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:40:23.100211Z",
+  "model": "glm-5.2"
+}

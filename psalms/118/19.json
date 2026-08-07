@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 118,
+  "translation": "افتحوا لي أبوابَ الصِّدْق، أدخلُ فيها أحمدُ ياه.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "افتحوا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "أبوابَ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "الصِّدْق"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "أدخلُ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "أحمدُ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:14.383339033Z",
+  "model": "glm-5.2"
+}

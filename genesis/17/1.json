@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 17:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "و⟨كان⟩ أفراهام ابن تسعين سنة وتسع سنين، فتراءى يهوه لأفراهام وقال له: أنا إيل شدّاي (القدير)، تمشَّأ أمامي و⟨كن⟩ تامًّا.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "تسعين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "وتسع"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنين"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "فتراءى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّاي"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "تمشَّأ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمامي"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و⟨كن⟩"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "تامًّا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:55.331086445Z",
+  "model": "glm-5.2"
+}

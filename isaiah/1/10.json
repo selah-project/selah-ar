@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "اسمعوا كلمة يهوه، يا قادة صَدوم؛ أَصيخوا لتوراة إلوهيم، يا شعب عمورة!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "اسمعوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "يا قادة"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "صَدوم"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "أَصيخوا"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "لتوراة"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "يا شعب"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "عمورة"
+    }
+  ],
+  "timestamp": "2026-08-07T02:03:45.920622109Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "أنتِ أيضًا تَسْكَرين، تصيرين مستورة، أنتِ أيضًا تطلبين حصنًا من العدوّ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "את",
+      "gloss": "أنتِ"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "تَسْكَرين"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "تصيرين"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "مستورة"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "את",
+      "gloss": "أنتِ"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "تطلبين"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "حصنًا"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "من العدوّ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:30:53.180721950Z",
+  "model": "glm-5.2"
+}

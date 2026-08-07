@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "والمَلِك داوِد شاخ، أَتَى في الأيّام، فكسوه بالثياب ولم ⟨يُسخَّن⟩ له.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "والمَلِك"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "شاخ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "أَتَى"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "في الأيّام"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "فكسوه"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "بالثياب"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "⟨يُسخَّن⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T05:48:44.950345923Z",
+  "model": "glm-5.2"
+}

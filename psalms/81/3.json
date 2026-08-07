@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 81,
+  "translation": "ارفعوا زِمرَة و⟨أعطوا⟩ طَبْلَة، كينور ناعم مع نافل",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ارفعوا"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "زِمرَة"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "و⟨أعطوا⟩"
+    },
+    {
+      "surface": "תף",
+      "gloss": "طَبْلَة"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "كينور"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ناعم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نافل"
+    }
+  ],
+  "timestamp": "2026-08-07T06:05:19.727219586Z",
+  "model": "glm-5.2"
+}

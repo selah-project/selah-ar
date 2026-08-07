@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "ما أملَحَ في حَنَكي قولَك، أكثرَ من العسل في فمي!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "أملَحَ"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "في حَنَكي"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "قولَك"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "أكثرَ من العسل"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "في فمي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:15.267248708Z",
+  "model": "glm-5.2"
+}

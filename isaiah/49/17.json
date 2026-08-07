@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 49:17",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "يُسرِعُ بنوكِ، مُهدِموكِ ومُخرِبوكِ منكِ يَخرُجون.",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "يُسرِعُ"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "بنوكِ"
+    },
+    {
+      "surface": "מהרסיך",
+      "gloss": "مُهدِموكِ"
+    },
+    {
+      "surface": "ומחרביך",
+      "gloss": "ومُخرِبوكِ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "منكِ"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "يَخرُجون"
+    }
+  ],
+  "timestamp": "2026-08-07T02:21:19.512537512Z",
+  "model": "glm-5.2"
+}

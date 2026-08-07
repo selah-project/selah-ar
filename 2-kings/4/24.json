@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 4:24",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فشدّتِ الأتانّ وقالت لِفتاها: سِقْها وامضِ. لا تُمسِكني عن الركوب إلا إذا قلتُ لكِ.",
+  "tokens": [
+    {
+      "surface": "ותחבש",
+      "gloss": "فشدّت"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "الأتانّ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "وقالت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لِ"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "فتاها"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "سِقْ"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "وامضِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעצר",
+      "gloss": "تُمسِك"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ني"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "عن الركوب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إلا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "قلتُ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T05:49:42.765356460Z",
+  "model": "glm-5.2"
+}

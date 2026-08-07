@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 42:13",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "يهوه كبطلّ يخرج، كرجل حروب يُهيج حميّةً، يهتف، بل يصرخ، على أعدائه يَتغلْبَل.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "كبطلّ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "يخرج"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "كرجل"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "حروب"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "يُهيج"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "حميّةً"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "يهتف"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بل"
+    },
+    {
+      "surface": "יצריח",
+      "gloss": "يصرخ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "أعدائه"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "يَتغلْبَل"
+    }
+  ],
+  "timestamp": "2026-08-07T02:19:06.878202932Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ها أنتِ بعدُ تتكلّمين هناك مع الملك، وأنا آتي بعدكِ وأُتمِّم ⟨את⟩ كلامَكِ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "أنتِ بعدُ"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "تتكلّمين"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "آتي"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "بعدكِ"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "وأُتمِّم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلامكِ"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "كلامَكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:41:46.803113849Z",
+  "model": "glm-5.2"
+}

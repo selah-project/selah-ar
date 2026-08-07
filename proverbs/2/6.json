@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "لأنَّ يهوه يعطي حكمةً، من فمه معرفة وفِطنة.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "يعطي"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حكمة"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "من فمه"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "معرفة"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "وفِطنة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:21:19.929838855Z",
+  "model": "glm-5.2"
+}

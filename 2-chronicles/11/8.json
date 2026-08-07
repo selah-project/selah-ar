@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨את⟩ جات و⟨את⟩ ماريشاه و⟨את⟩ زي",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "جات"
+    },
+    {
+      "surface": "גת",
+      "gloss": "جات"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "ماريشاه"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "ماريشاه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "زي"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "زي"
+    }
+  ],
+  "timestamp": "2026-08-07T05:24:09.656708866Z",
+  "model": "glm-5.2"
+}

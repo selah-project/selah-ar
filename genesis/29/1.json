@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "فرفع يعقوف رِجليه وسار أرضاً نحو بني قدِم.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "فرفع"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "رِجليه"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "وسار"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "أرضاً نحو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "قدِم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:52.468017659Z",
+  "model": "glm-5.2"
+}

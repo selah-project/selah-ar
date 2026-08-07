@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "تآمروا مؤامرةً ⟨فتُبطَل⟩، كلِّموا كلمةً ولا تقوم، لأنَّ معنا إيل.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "تآمروا"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "مؤامرةً"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "فتُبطَل"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "كلِّموا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمةً"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "تقوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "معنا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    }
+  ],
+  "timestamp": "2026-08-07T02:05:02.203052937Z",
+  "model": "glm-5.2"
+}

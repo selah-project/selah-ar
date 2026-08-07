@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 20:27",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "ورجلٌ أو امرأة، إن يكون فيهم أوبٌ أو يِدعوني، موتًا يُماتون؛ بالحجر يَرْجُمونهم ⟨את⟩هم، دماؤهم فيهم.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ورجل"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "فيهم"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "أوب"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "ידעני",
+      "gloss": "يِدعوني"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موتًا"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "يُماتون"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "بالحجر"
+    },
+    {
+      "surface": "ירגמו",
+      "gloss": "يَرْجُمون"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩هم",
+      "marks": "هم"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "دماؤهم"
+    },
+    {
+      "surface": "בם",
+      "gloss": "فيهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:30.880347498Z",
+  "model": "glm-5.2"
+}

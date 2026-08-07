@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "توراةٌ واحدة ⟨تكون⟩ للمواطن وللغريب المُقيم في وسطكم.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "توراة"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "واحدة"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨تكون⟩"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "للمواطن"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "وللغريب"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "المُقيم"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "في وسطكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:03:06.326396591Z",
+  "model": "glm-5.2"
+}

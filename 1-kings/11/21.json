@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 11:21",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وسمع هاداد في مصرايم أنّ دافيد رقد مع آبائه وأنّ يوآف سيد الجيش مات، فقال هاداد لفرعون: «أطلقني وأمضي إلى أرضي».",
+  "tokens": [
+    {
+      "surface": "והדד",
+      "gloss": "وهاداد"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سمع"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "في مصرايم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "رقد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "دافيد"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "آبائه"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "وأنّ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مات"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآف"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سيد"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "الجيش"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "هاداد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "أطلقني"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "وأمضي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "أرضي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:47:27.754399671Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "بَنو عَزگاد ألفَين وثلاثَ مئة وعشرين واثنَين.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بَنو"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "عَزگاد"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ألفَين"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ثلاثَ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "وعشرين"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "واثنَين"
+    }
+  ],
+  "timestamp": "2026-08-07T05:05:54.442766937Z",
+  "model": "glm-5.2"
+}

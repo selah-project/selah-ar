@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 102,
+  "translation": "كلَّ اليوم عيّرني أعدائي، ومُهلوليّ بي حلفوا.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "عيّرني"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "أعدائي"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "ومُهلوليّ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "بي"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "حلفوا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:57.224559117Z",
+  "model": "glm-5.2"
+}

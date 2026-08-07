@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 5:24",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وتعلم أنّ شالوم خيمتك، وتتفقّد مسكنك ولا تُخطئ.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "وتعلم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "خيمتك"
+    },
+    {
+      "surface": "ופקדת",
+      "gloss": "وتتفقّد"
+    },
+    {
+      "surface": "נוך",
+      "gloss": "مسكنك"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "تُخطئ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:32:47.457505021Z",
+  "model": "glm-5.2"
+}

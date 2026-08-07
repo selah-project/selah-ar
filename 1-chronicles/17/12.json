@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "هو يبني لي بيتًا، و⟨أُثبِّت⟩ ⟨את⟩ كرسيِّه إلى الأبد.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "يبني"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيتًا"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "و⟨أُثبِّت⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كرسيِّه"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "كرسيِّه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T06:43:49.258940578Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "اسمع صوت تضرّعاتي في صراخي إليك، في رفعي يديّ إلى دبير قدسك.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "اسمع"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "تضرّعاتي"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "في صراخي"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "في رفعي"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "يديّ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "دبير"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "قدسك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:08.322768900Z",
+  "model": "glm-5.2"
+}

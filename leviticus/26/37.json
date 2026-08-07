@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 26:37",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "ويتعثّر الرجل بأخيه ك⟨من⟩ أمام سيف ولا مُطارِد، ولا تكون لكم قوامة أمام أعدائكم.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "ويتعثّرون"
+    },
+    {
+      "surface": "איש",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "بأخيه"
+    },
+    {
+      "surface": "כמפני",
+      "gloss": "ك⟨من⟩ أمام"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "سيف"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "ومُطارِد"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا يوجد"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "תקומה",
+      "gloss": "قوامة"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "أعدائكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:13.970154570Z",
+  "model": "glm-5.2"
+}

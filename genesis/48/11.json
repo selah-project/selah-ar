@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 48:11",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "وقال يسرايل لِيوصوف: «لم أكن أرجو أن أرى وجهك، وها إنّ إلوهيم قد أراني ⟨את⟩ ⟦أيضًا⟧ ⟨את⟩ نسلَك.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوصوف"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "أن أرى"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "פללתי",
+      "gloss": "كنت أرجو"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وها"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "أراني"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "إلوهيم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نسلَك"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "نسلَك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:56:57.088449719Z",
+  "model": "glm-5.2"
+}

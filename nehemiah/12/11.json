@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "ويويدع ولد ⟨את⟩ يوناتان، ويوناتان ولد ⟨את⟩ يدوع.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "ويويدع"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوناتان"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "يوناتان"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "ويوناتان"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يدوع"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "يدوع"
+    }
+  ],
+  "timestamp": "2026-08-07T05:08:40.723189273Z",
+  "model": "glm-5.2"
+}

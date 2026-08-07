@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 5:17",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "فقال: متهاونون أنتم، متهاونون! لذلك ⟨أنتم⟩ تقولون: لنمضِ ونذبح ليهوه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "נרפים",
+      "gloss": "متهاونون"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "נרפים",
+      "gloss": "متهاونون"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "تقولون"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "لنمضِ"
+    },
+    {
+      "surface": "נזבחה",
+      "gloss": "ونذبح"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:01:01.352064598Z",
+  "model": "glm-5.2"
+}

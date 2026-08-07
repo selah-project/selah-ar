@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 74,
+  "translation": "أنتَ نصبتَ كلَّ تخومِ الأرضِ، صيفًا ⟨و⟩خريفًا أنتَ صُغتَها.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "نصبتَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "تخومِ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرضِ"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "صيفًا"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "⟨و⟩خريفًا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "صُغتَها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:59.193405889Z",
+  "model": "glm-5.2"
+}

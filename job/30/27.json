@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 30:27",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "أمعائي غلت ولم تهدأ، سبقتني أيّام بؤسي.",
+  "tokens": [
+    {
+      "surface": "מעי",
+      "gloss": "أمعائي"
+    },
+    {
+      "surface": "רתחו",
+      "gloss": "غلت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "تهدأ"
+    },
+    {
+      "surface": "קדמני",
+      "gloss": "سبقتني"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "עני",
+      "gloss": "بؤسي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:40:23.100579040Z",
+  "model": "glm-5.2"
+}

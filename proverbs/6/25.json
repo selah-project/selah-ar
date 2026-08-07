@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "لا تشتهِ جمالها في قلبك، ولا تأخذك ⟨ب⟩هدبيها.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "تشتهِ"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "جمالها"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "في قلبك"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "تأخذك"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "بهدبيها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:45.846040325Z",
+  "model": "glm-5.2"
+}

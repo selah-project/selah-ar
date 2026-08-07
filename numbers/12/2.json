@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وَيَقولُ هَل إنّما بموشيه وحده كلَّمَ يهوه؟ أَليس وَبِنا أيضًا كلَّمَ؟ فسمع يهوه.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "وَيَقولُ"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "هل إنّما"
+    },
+    {
+      "surface": "אך",
+      "gloss": "وحده"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "بموشيه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلَّمَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "أليس"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بِنا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلَّمَ"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "فسمع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:35:21.250176983Z",
+  "model": "glm-5.2"
+}

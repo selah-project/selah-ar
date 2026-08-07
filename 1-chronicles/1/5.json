@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "بَنُو يافت: جومر وماجوج وماداي ويافان وتوبال وميشخ وتيراس.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بَنُو"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "يافت"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "جومر"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "وماجوج"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "وماداي"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "ويافان"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "وتوبال"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "وميشخ"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "وتيراس"
+    }
+  ],
+  "timestamp": "2026-08-07T05:09:38.348901830Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 10:10",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وإذا يدٍ تلمسني، فحرَّكتني على ركبتَيّ وعلى راحتَي يدَيّ.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يد"
+    },
+    {
+      "surface": "נגעה",
+      "gloss": "تلمس"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ني"
+    },
+    {
+      "surface": "ותניעני",
+      "gloss": "فحرّكتني"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "ركبتَيّ"
+    },
+    {
+      "surface": "וכפות",
+      "gloss": "وعلى راحتَي"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "يدَيّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:59:39.610917943Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 107,
+  "translation": "وليرفعوه في جماعة شعب، وفي مجلس شيوخ يسبّحوه",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "وليرفعوه"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "في جماعة"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "وفي مجلس"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "شيوخ"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "يسبّحوه"
+    }
+  ],
+  "timestamp": "2026-08-07T06:06:03.141353993Z",
+  "model": "glm-5.2"
+}

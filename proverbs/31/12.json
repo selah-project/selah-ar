@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "عاملتْهُ خيرًا ولا شرًّا، كلَّ أيّام حياتها.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "عاملتْهُ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خيرًا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨و⟩لا"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شرًّا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "حياتها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:44.924441896Z",
+  "model": "glm-5.2"
+}

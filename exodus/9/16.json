@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "لكن لأجل هذا أقمتُك، لأجل ⟨أن⟩ أُريك ⟨את⟩ قوّتي، ولكي يُذاع اسمي في كلّ الأرض.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "لكن"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "لأجل"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "أقمتُك"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "لأجل"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "أُريك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوّتي"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "قوّتي"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ولكي"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "يُذاع"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "اسمي"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:40.947500107Z",
+  "model": "glm-5.2"
+}

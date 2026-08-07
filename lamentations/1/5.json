@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 1:5",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "صار مُضيقاتها لرأسٍ، أعداؤها اطمأنّوا، لأنّ يهوه أحزنها على كثرة ذنوبها. أطفالها ذهبوا سبيًا أمام مُضايق.",
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "صار"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "مُضيقاتها"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "لرأسٍ"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "أعداؤها"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "اطمأنّوا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "أحزنها"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "רב",
+      "gloss": "كثرة"
+    },
+    {
+      "surface": "פשעיה",
+      "gloss": "ذنوبها"
+    },
+    {
+      "surface": "עולליה",
+      "gloss": "أطفالها"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ذهبوا"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "سبيًا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "צר",
+      "gloss": "مُضايق"
+    }
+  ],
+  "timestamp": "2026-08-07T04:49:25.958355019Z",
+  "model": "glm-5.2"
+}

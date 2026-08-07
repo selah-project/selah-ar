@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "إنّما سبط لاوي لا تُعدّ ⟨את⟩، ورأسَهم لا ترفع ⟨⟨את⟩⟩ في وسط بني يسرائيل.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سبط"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "سبط"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لاوي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "تُعدّ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "رأسهم"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "رأسَهم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ترفع"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:12.202999958Z",
+  "model": "glm-5.2"
+}

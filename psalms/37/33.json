@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "يهوه لا يتركه في يده، ولا يُدينه في ⟨حين⟩ قضائه.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "يتركه"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "في يده"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "يُدينه"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "في قضائه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:04.270149275Z",
+  "model": "glm-5.2"
+}

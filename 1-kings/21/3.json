@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فقال نابوت لأخاب: «حاشا لي من يهوه أن أُعطيَك ⟨את⟩ ميراث آبائي.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "نابوت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(إلى)"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "أخاب"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "حاشا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "من يهوه"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "أن أُعطيَك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ميراث"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ميراث"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "آبائي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:51:50.971430618Z",
+  "model": "glm-5.2"
+}

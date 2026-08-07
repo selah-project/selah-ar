@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 24:7",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "لأن عثلياهو الشريرةَ قد خرّق بنوها ⟨את⟩ بيتَ إلوهيم، وأيضًا كلَّ مقدَّساتِ بيتِ يهوه جعلوها للبَعلِيم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "عثلياهو"
+    },
+    {
+      "surface": "המרשעת",
+      "gloss": "الشريرة"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "بنوها"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "خرّق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "مقدسات"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "جعلوها"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "للبعليم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:28:10.531618961Z",
+  "model": "glm-5.2"
+}

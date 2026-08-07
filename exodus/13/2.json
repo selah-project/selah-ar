@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "«قدّسْ لي كلَّ بكر، فاتحَ كلِّ رحمٍ في بني يسرائيل، في الإنسانِ وفي البهيمة، لي هو».",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "قدّسْ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "بكر"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "فاتحَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "رحم"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "في بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "في الإنسان"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "وفي البهيمة"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T00:03:34.927141852Z",
+  "model": "glm-5.2"
+}

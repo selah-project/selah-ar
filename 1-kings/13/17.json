@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 13:17",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "لأنّه صار إليّ كلامٌ بكلمة يهوه: لا تأكل خبزًا ولا تشرب هناك ماءً، لا ترجع لتمشي في الطريق الذي سِرتَ فيه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلامٌ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "بكلمة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "تأكل"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "تشرب"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماءً"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ترجع"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "لتمشي"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "في الطريق"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "سِرتَ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:48:11.490111521Z",
+  "model": "glm-5.2"
+}

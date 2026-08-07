@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "ودعا بيت يسرايل ⟨את⟩ اسمه «مان». وكان كزرع الكزبرة أبيض، وطعمه كرُقاقٍ ⟨مصنوع⟩ بعسل.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسمه"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "«مان»"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "كزرع"
+    },
+    {
+      "surface": "גד",
+      "gloss": "الكزبرة"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "أبيض"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "وطعمه"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "كرُقاقٍ"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "بعسل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:05:49.507982525Z",
+  "model": "glm-5.2"
+}

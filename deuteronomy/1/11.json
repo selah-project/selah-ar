@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "يهوه إلوهيم آبائكم يِسِفْ عليكم مثلكم ألفًا مرّات، وَيُبارك ⟨את⟩كم كما كلّمكم.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "آبائكم"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "يِسِفْ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "عليكم"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "مثلكم"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفًا"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "مرّات"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "وَيُبارك"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "كم"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلّم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "كم"
+    }
+  ],
+  "timestamp": "2026-08-07T07:14:34.305900696Z",
+  "model": "glm-5.2"
+}

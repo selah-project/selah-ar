@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 8:14",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وفرّزتَ ⟨את⟩ اللاويّين من بين بني يسرائيل، فصاروا ⟨لي⟩ اللاويّون.",
+  "tokens": [
+    {
+      "surface": "והבדלת",
+      "gloss": "وفرّزتَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اللاويّين"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "اللاويّين"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "من بين"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "فصاروا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "اللاويّون"
+    }
+  ],
+  "timestamp": "2026-08-07T05:41:06.569738534Z",
+  "model": "glm-5.2"
+}

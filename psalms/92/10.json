@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 92,
+  "translation": "لأنه هوذا أعداؤك، ياهوه، لأنه هوذا أعداؤك يبيدون، يتفرّقون كلّ فاعلي الإثم",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "أعداؤك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "أعداؤك"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "يبيدون"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "يتفرّقون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "فاعلي"
+    },
+    {
+      "surface": "און",
+      "gloss": "الإثم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:42.952185099Z",
+  "model": "glm-5.2"
+}

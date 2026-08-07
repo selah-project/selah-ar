@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وولدت له نعارة ⟨את⟩ أخزّام و⟨את⟩ حِيفر و⟨את⟩ تيمَني و⟨את⟩ الأحشْتاري. هؤلاء بنو نعارة.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "وولدت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "نعارة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أخزّام"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "أخزّام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "حِيفر"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "حِيفر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "تيمَني"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "تيمَني"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الأحشْتاري"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "الأحشْتاري"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "نعارة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:38.068428890Z",
+  "model": "glm-5.2"
+}

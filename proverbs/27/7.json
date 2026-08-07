@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "نَفْسٌ شبعى تدوسُ عسلاً مُصفى، ونَفْسٌ جائعةٌ كلُّ مُرّ⟨إليها⟩ حُلو",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "نَفْس"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "شبعى"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "تدوس"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "عسلاً مُصفى"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ونَفْس"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "جائعة"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "מר",
+      "gloss": "مُرّ"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "حُلو"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:33.661233703Z",
+  "model": "glm-5.2"
+}

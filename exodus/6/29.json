@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 6:29",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وكلّم يهوه موشيه قائلًا: أنا يهوه. كلّم فرعون ملك مصرايم ⟨بـ⟩⟨את⟩ كلِّ ما أنا كلّمُكَ به.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلّم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:22.294011568Z",
+  "model": "glm-5.2"
+}

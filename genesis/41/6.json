@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 41:6",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "وإذا سبع سنابل نحيلات ومحروقات ⟨من⟩ ريح الشرق تنبت بعدهنّ",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبع"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "سنابل"
+    },
+    {
+      "surface": "דקות",
+      "gloss": "نحيلات"
+    },
+    {
+      "surface": "ושדופת",
+      "gloss": "ومحروقات"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ريح الشرق"
+    },
+    {
+      "surface": "צמחות",
+      "gloss": "تنبت"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "بعدهنّ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:21.884883730Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 5:17",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وترعى الحملان كمرعاها، وخرائب المسؤولين يأكلها الغرباء.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "وترعى"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "الحملان"
+    },
+    {
+      "surface": "כדברם",
+      "gloss": "كمرعاها"
+    },
+    {
+      "surface": "וחרבות",
+      "gloss": "وخرائب"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "المسؤولين"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "الغرباء"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "يأكلها"
+    }
+  ],
+  "timestamp": "2026-08-07T02:05:58.346071481Z",
+  "model": "glm-5.2"
+}

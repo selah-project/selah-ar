@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 16:11",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وكلّم يهوه موشهيه، قائلاً:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨إلى⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:08.439714969Z",
+  "model": "glm-5.2"
+}

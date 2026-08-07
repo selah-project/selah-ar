@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 145,
+  "translation": "حنّانٌ ورَحومٌ يهوه، طويلُ الأنفِ وعظيمُ الحِسِد",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "حنّانٌ"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ورَحومٌ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "طويلُ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "الأنفِ"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "وعظيمُ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "الحِسِد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:56.303818617Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 11:14",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وأمّا أنت فلا تُصلِّ لأجل هذا الشعب، ولا ترفع لأجلهم صراخًا ⟨ولا⟩ صلاة، لأنني لست أسمع في وقت ندائهم إيّاي لأجل شرّهم.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "وأما أنت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "تُصلّ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "لأجل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "هذا الشعب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ترفع"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "لأجلهم"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "صراخًا"
+    },
+    {
+      "surface": "ותפלה",
+      "gloss": "⟨ولا⟩ صلاة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "لست"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "أسمع"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "في وقت"
+    },
+    {
+      "surface": "קראם",
+      "gloss": "ندائهم"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إيّاي"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "لأجل"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "شرّهم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:32:34.941598060Z",
+  "model": "glm-5.2"
+}

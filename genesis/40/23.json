@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "ولم يذكر رئيس السُّقَاة ⟨את⟩ يوسف، و⟨نسيه⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "يذكر"
+    },
+    {
+      "surface": "שר",
+      "gloss": "رئيس"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "السُّقَاة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوسف"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "و⟨نسيه⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:46.622276072Z",
+  "model": "glm-5.2"
+}

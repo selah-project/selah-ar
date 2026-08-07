@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 43,
+  "translation": "لا تخف لأنّي معك، من المشرق أُدخل زرعك ومن المغرب أجمعك.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "تخف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "من المشرق"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "أُدخل"
+    },
+    {
+      "surface": "زרעך",
+      "gloss": "زرعك"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ومن المغرب"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "أجمعك"
+    }
+  ],
+  "timestamp": "2026-08-07T02:19:03.225951603Z",
+  "model": "glm-5.2"
+}

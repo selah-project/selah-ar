@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 22:2",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وقلتَ: اسمع كلمة يهوه، ملك يهودا الجالس على كرسي داود، أنت وعبيدك وشعبك الداخلين في الأبواب هذه،",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "وقلتَ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "اسمع"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "الجالس"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "كرسي"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "وعبيدك"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "وشعبك"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "الداخلين"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "في الأبواب"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:38:45.186327607Z",
+  "model": "glm-5.2"
+}

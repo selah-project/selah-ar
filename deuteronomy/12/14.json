@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 12:14",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "بل في المكان الذي يختاره يهوه في أحدِ أسباطِك هناك تصعّد عولاتِك، وهناك تعمل كلَّ ما أنا مُوصيك،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨بل⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "فقط"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "في المكان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "يختاره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "في أحد"
+    },
+    {
+      "surface": "שבטיך",
+      "gloss": "أسباطِك"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "تصعّد"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "عولاتِك"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "وهناك"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تعمل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "مُوصيك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:45.112214487Z",
+  "model": "glm-5.2"
+}

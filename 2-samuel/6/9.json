@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وخافَ داوودُ ⟨את⟩ يهوه في ذلك اليوم، وقال: «كيف يأتي إليّ تابوتُ يهوه؟»",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "وخاف"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "איך",
+      "gloss": "كيف"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "يأتي"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:32:59.628604521Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وأيضًا هذا شرٌّ سقيم: في كلِّ نقطةٍ كما جاء هكذا يمشي، وأيُّ فضلٍ له أن يتعب للريح؟",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شرٌّ"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "سقيم:"
+    },
+    {
+      "surface": "כל",
+      "gloss": "في كلِّ"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "نقطةٍ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "كما جاء"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "يمشي،"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "وأيُّ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "فضلٍ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "أن يتعب"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "للريح؟"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:03.475020496Z",
+  "model": "glm-5.2"
+}

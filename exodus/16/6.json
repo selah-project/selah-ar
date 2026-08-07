@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "«فقال موشيه وهارون لكل بني يسرائيل: عند المساء تعرفون أنّ يهوه هو الذي أخرجكم من أرض مصرايم،»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "وهارون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "عند المساء"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "تعرفون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "أخرج"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "كم",
+      "marks": "كم"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "من أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:05:53.316364896Z",
+  "model": "glm-5.2"
+}

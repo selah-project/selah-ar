@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 118,
+  "translation": "خيرٌ ⟨أن⟩ تحتميَ بيَهوه من أن تتّكل على إنسان",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "خيرٌ"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "⟨أن⟩ تحتميَ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "بيَهوه"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "من أن تتّكل"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "على إنسان"
+    }
+  ],
+  "timestamp": "2026-08-07T08:08:12.798531871Z",
+  "model": "glm-5.2"
+}

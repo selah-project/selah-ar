@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وأَرفَكْشاد وَلَد ⟨את⟩ شالَح، وشالَح وَلَد ⟨את⟩ عِڤَر.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "وأَرفَكْشاد"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "وَلَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شالَح"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شالَح"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "وشالَح"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "وَلَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عِڤَر"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِڤَر"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:38.885703875Z",
+  "model": "glm-5.2"
+}

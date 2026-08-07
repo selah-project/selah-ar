@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 2:15",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "أمسكوا لنا ثعالبَ، ثعالبًا صغارًا، مُهلِكاتِ كرومٍ، وكرُومُنا سَمادَرُ.",
+  "tokens": [
+    {
+      "surface": "אחזו",
+      "gloss": "أمسكوا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "ثعالب"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "ثعالبًا"
+    },
+    {
+      "surface": "קטנים",
+      "gloss": "صغارًا"
+    },
+    {
+      "surface": "מחבלים",
+      "gloss": "مُهلِكات"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "كروم"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "وكرُومُنا"
+    },
+    {
+      "surface": "סמדר",
+      "gloss": "سَمادَرُ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:44:59.398521632Z",
+  "model": "glm-5.2"
+}

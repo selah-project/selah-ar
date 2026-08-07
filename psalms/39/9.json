@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "من كلّ عصياني أنقذني، عارَ الجاهل لا تجعلني ⟨إيّاه⟩",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "من كلّ"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "عصياني"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "أنقذني"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "عارَ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "الجاهل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "تجعلني"
+    }
+  ],
+  "timestamp": "2026-08-07T08:05:27.105028418Z",
+  "model": "glm-5.2"
+}

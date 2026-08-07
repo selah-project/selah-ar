@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "كلُّ بَني داوِد، مِنبَعدِ بَني ⟨السرايا⟩، وثامار أُختُهم.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَني"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "مِنبَعدِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَني"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "السرايا"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "وثامار"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "أُختُهم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:18.830223685Z",
+  "model": "glm-5.2"
+}

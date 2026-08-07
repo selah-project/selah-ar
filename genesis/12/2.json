@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وأصنعَكَ أمّةً عظيمةً وأباركَكَ وأعظّمَ اسمَكَ و⟨تكون⟩ بركةً.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "وأصنعَكَ"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "أمّةً"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيمةً"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "وأباركَكَ"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "وأعظّمَ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "اسمَكَ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و⟨تكون⟩"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "بركةً"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:44.052868331Z",
+  "model": "glm-5.2"
+}

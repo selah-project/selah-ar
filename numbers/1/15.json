@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "لِنَفتالي، أَحيراع ابن عَينان.",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "لِنَفتالي"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "أَحيراع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "عَينان"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:33.741581286Z",
+  "model": "glm-5.2"
+}

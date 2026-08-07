@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 118,
+  "translation": "أحاطوا بي كالنحل، انطفؤوا كنارِ الشوك؛ باسم يهوه ⟨إنّي⟩ أُبادُهم",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "أحاطوا بي"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "كالنحل"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "انطفؤوا"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "كنارِ"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "الشوك"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "باسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨إنّي⟩"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "أُبادُهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:13.180119273Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 4:9",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "تُعطي لرأسك لِويَةَ حِنٍ، تاجَ بهاءٍ تُMagنكَ.",
+  "tokens": [
+    {
+      "surface": "תִּתֵּ֣ן",
+      "gloss": "تُعطي"
+    },
+    {
+      "surface": "לְ֭רֹאשְׁךָ",
+      "gloss": "لرأسك"
+    },
+    {
+      "surface": "לִוְיַת",
+      "gloss": "لِويَةَ"
+    },
+    {
+      "surface": "חֵ֑ן",
+      "gloss": "حِنٍ"
+    },
+    {
+      "surface": "עֲטֶ֖רֶת",
+      "gloss": "تاجَ"
+    },
+    {
+      "surface": "תִּפְאֶ֣רֶת",
+      "gloss": "بهاءٍ"
+    },
+    {
+      "surface": "תְּמַגְּנֶֽךָּ",
+      "gloss": "تُMagنكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:13:27.341169138Z",
+  "model": "glm-5.2"
+}

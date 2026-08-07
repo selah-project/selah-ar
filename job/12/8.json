@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 12:8",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "أو كلّمِ الأرضَ فتُعلِّمَك، ويُخبركَ سَمَكُ البحر",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "كلّمِ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "الأرضَ"
+    },
+    {
+      "surface": "ותרך",
+      "gloss": "فتُعلِّمَك"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "ويُخبرك"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    },
+    {
+      "surface": "דגי",
+      "gloss": "سَمَكُ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:34:42.412183494Z",
+  "model": "glm-5.2"
+}

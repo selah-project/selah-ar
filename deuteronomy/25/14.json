@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "لا ⟨يكن⟩ لك في بيتك إيفة ⟨وإيفة⟩، كبيرة ⟨وصغيرة⟩.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יִהְיֶ֥ה",
+      "gloss": "⟨يكن⟩"
+    },
+    {
+      "surface": "לְךָ֛",
+      "gloss": "لك"
+    },
+    {
+      "surface": "בְּבֵיתְךָ֖",
+      "gloss": "في بيتك"
+    },
+    {
+      "surface": "אֵיפָ֣ה",
+      "gloss": "إيفة"
+    },
+    {
+      "surface": "וְאֵיפָ֑ה",
+      "gloss": "⟨وإيفة⟩"
+    },
+    {
+      "surface": "גְּדוֹלָ֖ה",
+      "gloss": "كبيرة"
+    },
+    {
+      "surface": "וּקְטַנָּֽה",
+      "gloss": "⟨وصغيرة⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:04.552670368Z",
+  "model": "glm-5.2"
+}

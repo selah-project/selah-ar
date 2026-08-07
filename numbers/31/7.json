@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 31:7",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "فجاهدوا على مديان كما أمر يهوه ⟨את⟩ موشيه، فقتلوا كل ذكر.",
+  "tokens": [
+    {
+      "surface": "ויצבאו",
+      "gloss": "فجاهدوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مديان"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أمر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "فقتلوا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ذكر"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:22.122447770Z",
+  "model": "glm-5.2"
+}

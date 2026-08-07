@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "لا حكمةَ ولا تفهّمَ ولا مشورةَ ⟨تقف⟩ مقابل يهوه.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حكمة"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "تفهّم"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "مشورة"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "مقابل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:47.861567982Z",
+  "model": "glm-5.2"
+}

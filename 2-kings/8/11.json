@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "فثبَّت ⟨את⟩ وجهه عليه وصيَّره إلى الخجل، فبكى رجل الإلوهيم.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "فثبَّت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وجهه"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "وجهه"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "وصيَّره"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "בש",
+      "gloss": "الخجل"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "فبكى"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الإلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:56:04.575648861Z",
+  "model": "glm-5.2"
+}

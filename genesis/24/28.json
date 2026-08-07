@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 24:28",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فركضتِ الفتاةُ وأخبرتْ بيتَ أمِّها حسبَ هذه الأمور.",
+  "tokens": [
+    {
+      "surface": "ותרץ",
+      "gloss": "فركضتْ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "الفتاةُ"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "وأخبرتْ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "بيتَ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "أمِّها"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "حسبَ الأمور"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:42:50.016545898Z",
+  "model": "glm-5.2"
+}

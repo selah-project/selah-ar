@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "لأنَّ الوصيعةَ سراجٌ، والتوراةُ نورٌ، وطريقَ الحياة توبيخاتُ التأديب.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "נר",
+      "gloss": "سراجٌ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "الوصيعة"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "والتوراةُ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "نورٌ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "وطريقَ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "الحياة"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "توبيخاتُ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "التأديب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:27.105224156Z",
+  "model": "glm-5.2"
+}

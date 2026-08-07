@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "مُلاقاةُ دُبٍّ مُفجَّع بإنسان، ولا كَسيلٍ في حماقته.",
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "مُلاقاةُ"
+    },
+    {
+      "surface": "דב",
+      "gloss": "دُبٍّ"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "مُفجَّع"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "بإنسان"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "كَسيلٍ"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "في حماقته"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:22.669222602Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 94,
+  "translation": "أرملةً وغريبًا يقتلون، ويتامى يقتُلون قتلًا.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "أرملة"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "وغريب"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "يقتلون"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "ويتامى"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "يقتُلون قتلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:08:25.877393050Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "الرَّشِيعُ يَعْمَلُ عَمَلَ كَذِبٍ، وَزَارِعُ صِدِقٍ ⟨لَهُ⟩ أَجْرُ إِمِت.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "الرَّشِيعُ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "يَعْمَلُ"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "عَمَلَ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "كَذِبٍ"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "وَزَارِعُ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "صِدِقٍ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "أَجْرُ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "إِمِت"
+    }
+  ],
+  "timestamp": "2026-08-07T04:24:48.475398490Z",
+  "model": "glm-5.2"
+}

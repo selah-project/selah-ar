@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "يهوه اهدِني في صِدقِك من أجل مُتربِّصيّ، هيِّئ طريقك أمامي.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "اهدِني"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "في صِدقِك"
+    },
+    {
+      "surface": "למען",
+      "gloss": "من أجل"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "مُتربِّصيّ"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "هيِّئ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمامي"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "طريقك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:39:50.404558199Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 34:16",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "فإن كان عندك فَهْم فاسمعْ هذا، أَصْغِ إلى صوت كلماتي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "فإن"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "فَهْم"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "فاسمعْ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "أَصْغِ"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "إلى صوت"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "كلماتي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:41:44.274113524Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 7:22",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وفعل كذلك متصرّفو مصرايم بسِحرهم، فتصلّب قلب فرعون فلم يسمع إليهم كما تكلّم يهوه.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "وفعلوا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "كذلك"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "متصرّفو"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "بسِحرهم"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "فتصلّب"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سمع"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "إليهم"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:01:05.328157047Z",
+  "model": "glm-5.2"
+}

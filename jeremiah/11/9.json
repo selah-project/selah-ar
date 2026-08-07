@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 11:9",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وقال يهوه إليّ: وُجد تآمرٌ في رجال يهودا وفي سكّان يروشالايم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "وُجد"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "تآمر"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "في رجال"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "ובישבי",
+      "gloss": "وفي سكّان"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:34:04.291204172Z",
+  "model": "glm-5.2"
+}

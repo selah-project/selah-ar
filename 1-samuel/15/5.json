@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وجاء شاؤول إلى مدينة عماليك، وكمَن في الوادي.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عماليك"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "وكمَن"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "في الوادي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:26:12.619434567Z",
+  "model": "glm-5.2"
+}

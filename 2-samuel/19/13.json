@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 19:13",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "إخوتي أنتم، عظمي ولحمي أنتم. فلماذا تكونون آخرين في إرجاع ⟨את⟩ الملك؟",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "إخوتي"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "عظمي"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "ولحمي"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ولماذا"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "تكونون"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "آخرين"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "في إرجاع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الملك"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:38:58.372395252Z",
+  "model": "glm-5.2"
+}

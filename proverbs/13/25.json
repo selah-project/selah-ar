@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "الصادق يأكل لِشبَع نَفْسه، وبطن الأشرار ⟨هي⟩ تَفقدُ.",
+  "tokens": [
+    {
+      "surface": "צַדִּיק",
+      "gloss": "الصادق"
+    },
+    {
+      "surface": "אֹכֵל",
+      "gloss": "يأكل"
+    },
+    {
+      "surface": "לְשֹׂבַע",
+      "gloss": "لِشبَع"
+    },
+    {
+      "surface": "נַפְשׁוֹ",
+      "gloss": "نَفْسه"
+    },
+    {
+      "surface": "וּבֶטֶן",
+      "gloss": "وبطن"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "الأشرار"
+    },
+    {
+      "surface": "תֶּחְסָר",
+      "gloss": "تَفقدُ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:24:32.592916612Z",
+  "model": "glm-5.2"
+}

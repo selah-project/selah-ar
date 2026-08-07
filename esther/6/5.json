@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 6:5",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فقال غلمان الملك له: «هوذا هامان واقف في الدار». فقال الملك: «ليدخل».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "غلمان"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "המן",
+      "gloss": "هامان"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "واقف"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "في الدار"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ليدخل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:54:35.332955396Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 80,
+  "translation": "للمُنَشِّد على «شُوشانِّيم-عِدوت». لآساف مَزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "للمُنَشِّد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "على"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "«شُوشانِّيم»"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "عِدوت"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "لآساف"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مَزمور"
+    }
+  ],
+  "timestamp": "2026-08-07T06:05:29.261552600Z",
+  "model": "glm-5.2"
+}

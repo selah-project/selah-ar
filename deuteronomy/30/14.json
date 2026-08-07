@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 30:14",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "بل الكلمة قريبةٌ منك جدًا، في فمك وفي قلبك لتصنعها.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "بل"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "قريبةٌ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "منك"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الكلمة"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًا"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "في فمك"
+    },
+    {
+      "surface": "ובלבבך",
+      "gloss": "وفي قلبك"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "لتصنعها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:55.659526522Z",
+  "model": "glm-5.2"
+}

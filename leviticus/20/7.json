@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "فتقدّسوا ⟨فـ⟩تكونوا قدوشًا، لأنّي أنا يهوه إلوهيمُكم",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "فتقدّسوا"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "⟨فـ⟩تكونوا"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "قدوشًا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلوهيمُكم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:38:48.254556211Z",
+  "model": "glm-5.2"
+}

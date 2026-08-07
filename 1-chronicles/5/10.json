@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 5:10",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وفي أيّام شاؤول صنعوا حربًا مع الهاجريّين، فسقطوا بيدهم، فسكنوا في خيامهم على كلّ وجه مَشرق جلعاد.",
+  "tokens": [
+    {
+      "surface": "ובימי",
+      "gloss": "وفي أيّام"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "صنعوا"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "حربًا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "ההגראים",
+      "gloss": "الهاجريّين"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "فسقطوا"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "بيدهم"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "فسكنوا"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "في خيامهم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "مَشرق"
+    },
+    {
+      "surface": "לגלעד",
+      "gloss": "جلعاد"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:07.616728745Z",
+  "model": "glm-5.2"
+}

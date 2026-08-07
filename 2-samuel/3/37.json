@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 3:37",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وعلِم كلّ الشعب وكلّ إسرايل في ذلك اليوم أنّه لم تكن من لدن الملك قتلُ ⟨את⟩ أَفْنير بن نير.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "وعلِم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرايل"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "מהמלך",
+      "gloss": "من الملك"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "لِقتل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أَفْنير"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "أَفْنير"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נר",
+      "gloss": "نير"
+    }
+  ],
+  "timestamp": "2026-08-07T01:32:19.441647734Z",
+  "model": "glm-5.2"
+}

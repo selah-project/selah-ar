@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 32:13",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "وأنتَ قلتَ: أحسِنًا أُحسِنُ معك، و⟨س⟩أجعل ⟨את⟩ زرعك كرمل البحر الذي لا يُحصى من كثرة.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "وأنتَ"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "قلتَ"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "أحسِنًا"
+    },
+    {
+      "surface": "איטיב",
+      "gloss": "أُحسِنُ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "و⟨س⟩أجعل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زرعك"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "زرعك"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "كرمل"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "يُحصى"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "من كثرة"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:52.100179759Z",
+  "model": "glm-5.2"
+}

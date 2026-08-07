@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وضرب يهوه ⟨את⟩ الكوشيّين أمام آسا وأمام يهوداه، فهرب الكوشيّون.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "وضرب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الكوشيّين"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "الكوشيّين"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "وأمام"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوداه"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "فهرب"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "الكوشيّون"
+    }
+  ],
+  "timestamp": "2026-08-07T05:27:12.940395042Z",
+  "model": "glm-5.2"
+}

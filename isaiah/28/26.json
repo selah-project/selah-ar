@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 28:26",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "ويؤدِّبه إلى المِشْفات، إلوهيمه يُعلِّمه.",
+  "tokens": [
+    {
+      "surface": "ויסרו",
+      "gloss": "ويؤدِّبه"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "إلى المِشْفات"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "إلوهيمه"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "يُعلِّمه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:12:40.559292695Z",
+  "model": "glm-5.2"
+}

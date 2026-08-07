@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 22:12",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "فقط، لِيُعطِكَ يهوه سِكْل وفِطنة، وليُوصِكَ على يسرايل، ولِحِفظِ ⟨את⟩ توراة يهوه إلوهيمك.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "فقط"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "لِيُعطِ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "كَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "سِكْل"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "وفِطنة"
+    },
+    {
+      "surface": "ויצוך",
+      "gloss": "وليُوصِكَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "ולשמור",
+      "gloss": "ولِحِفظِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "توراة"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "توراة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    }
+  ],
+  "timestamp": "2026-08-07T05:18:25.166650455Z",
+  "model": "glm-5.2"
+}

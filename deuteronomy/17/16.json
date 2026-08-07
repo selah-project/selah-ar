@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 17:16",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "إنما لا يُكثِر لنفسه خيولاً، ولا يُعيد ⟨את⟩ الشعب إلى مصرايم، من أجل أن يُكثر خيلاً، ويهوه قال لكم: لا تزيدوا أن تعودوا في هذا الطريق بعدُ",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "إنما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "يُكثِر"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لنفسه"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "خيولاً"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "يُعيد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "إلى مصرايم"
+    },
+    {
+      "surface": "למען",
+      "gloss": "من أجل أن"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "يُكثر"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "خيلاً"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ويهوه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "تزيدوا"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "أن تعودوا"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "في الطريق"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعدُ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:29.410672097Z",
+  "model": "glm-5.2"
+}

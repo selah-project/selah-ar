@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 27:34",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "عند سماع عيسو ⟨את⟩ كلام أبيه، فصرخ صراخًا عظيمًا ومرًّا جدًا، وقال لأبيه: باركني أنا أيضًا يا أبي.",
+  "tokens": [
+    {
+      "surface": "כשמע",
+      "gloss": "عند سماع"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلام أبيه"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلام"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "فصرخ"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "صراخًا"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "عظيمًا"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "ومرًّا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "لأبيه"
+    },
+    {
+      "surface": "ברכני",
+      "gloss": "باركني"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "يا أبي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:34.532815652Z",
+  "model": "glm-5.2"
+}

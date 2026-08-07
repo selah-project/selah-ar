@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "⟨את⟩ الكلَّ رأيتُ في أيّامِ هَبَلي: يوجد صِدّيقٌ يهلِكُ في صِدْقِه، ويوجد راشعٌ يُطيلُ في شرِّه.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الكل"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "الكل"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "رأيتُ"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "في أيّام"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "هَبَلي"
+    },
+    {
+      "surface": "יש",
+      "gloss": "يوجد"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صِدّيق"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "يهلِك"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "في صِدْقِه"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ويوجد"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "راشع"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "يُطيل"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "في شرِّه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:16.694474215Z",
+  "model": "glm-5.2"
+}

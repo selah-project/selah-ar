@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 26:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "وزرع يتسحاق في الأرضِ تلك، فأصاب في السنةِ تلك مئةَ مَقاييس، وباركه يهوه.",
+  "tokens": [
+    {
+      "surface": "ויזרע",
+      "gloss": "وزرع"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يتسحاق"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "تلك"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "فأصاب"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "في السنة"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "تلك"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "مئةَ"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "مَقاييس"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "وباركه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:43:24.303781138Z",
+  "model": "glm-5.2"
+}

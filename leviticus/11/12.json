@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "كلّ ما ليس له زعنفة وقشعيّة في المياه، مَقْتَةٍ ⟨هو⟩ لكم.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "زعنفة"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "وقشعيّة"
+    },
+    {
+      "surface": "במים",
+      "gloss": "في المياه"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "مَقْتَة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:51.481842362Z",
+  "model": "glm-5.2"
+}

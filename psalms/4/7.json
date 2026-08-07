@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "كثيرون يقولون: من يُرينا خيرًا؟ ارفع علينا نور وجهك يا يهوه",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "كثيرون"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "يقولون"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "يُرينا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خيرًا"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "ارفع"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "علينا"
+    },
+    {
+      "surface": "אור",
+      "gloss": "نور"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:40:07.462555364Z",
+  "model": "glm-5.2"
+}

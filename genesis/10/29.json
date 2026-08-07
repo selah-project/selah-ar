@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "و⟨את⟩ أوفير و⟨את⟩ حويلة و⟨את⟩ يوفاب. كلّ هؤلاء بنو يقطان.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أوفير"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "أوفير"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "حويلة"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "حويلة"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "يوفاب"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "يوفاب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "يقطان"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:38.286441414Z",
+  "model": "glm-5.2"
+}

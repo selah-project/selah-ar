@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "إلى جانبِ الأبوابِ، عند فمِ المدينةِ، مدخلَ الفتحاتِ تُرنّ.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "إلى جانبِ"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "الأبوابِ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "عند فمِ"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "المدينةِ"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "مدخلَ"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "الفتحاتِ"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "تُرنّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:23:21.632484253Z",
+  "model": "glm-5.2"
+}

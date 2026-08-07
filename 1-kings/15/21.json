@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "ف⟨كان⟩ عند سماع بعشا أنّه كفّ عن بناء ⟨את⟩ الرامة، وجلس في ترصه.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ف⟨كان⟩"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "عند سماع"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بعشا"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "كفّ"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "عن بناء"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الرامة"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "الرامة"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "وجلس"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "في ترصه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:49:24.045138079Z",
+  "model": "glm-5.2"
+}

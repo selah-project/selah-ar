@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨أعطي⟩ عشبًا في حقلكم لبهائمكم، فتأكلون وتشبعون،",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "و⟨أعطي⟩"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "عشبًا"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "في حقلكم"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "لبهائمكم"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "فتأكلون"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "وتشبعون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:53:54.276482475Z",
+  "model": "glm-5.2"
+}

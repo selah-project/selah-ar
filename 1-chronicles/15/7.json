@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 15:7",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "لأبناء جيرشوم: يوئيل ⟨الرئيس⟩ وإخوته مئة وثلاثون.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "لأبناء"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "جيرشوم"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "يوئيل"
+    },
+    {
+      "surface": "השר",
+      "gloss": "الرئيس"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "وإخوته"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "وثلاثون"
+    }
+  ],
+  "timestamp": "2026-08-07T05:14:58.530538005Z",
+  "model": "glm-5.2"
+}

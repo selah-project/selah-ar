@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 5:4",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وهناك ممّن يقولون: «اقترضنا فضّة لجزية الملك — حقولنا وكرومنا».",
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "وهناك ممّن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "يقولون"
+    },
+    {
+      "surface": "לוינו",
+      "gloss": "اقترضنا"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضّة"
+    },
+    {
+      "surface": "למדת",
+      "gloss": "لجزية"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "שדתינו",
+      "gloss": "حقولنا"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "وكرومنا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:04:57.358019910Z",
+  "model": "glm-5.2"
+}

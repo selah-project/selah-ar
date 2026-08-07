@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 107,
+  "translation": "يُرسلُ كلمتَهُ فيشفيهم، ويُنقذُهم من مهالكِهم.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "يُرسل"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "كلمته"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "فيشفيهم"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ويُنقذ"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "من مهالكهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:44.230185777Z",
+  "model": "glm-5.2"
+}

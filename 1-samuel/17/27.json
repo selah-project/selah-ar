@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 17:27",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وقال له الشعب كأمرٍ هذا قائلين: «هكذا يُفعل بالرجل الذي يضربه».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "كأمرٍ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يُفعل"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بالرجل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "يضربه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:27:06.508948095Z",
+  "model": "glm-5.2"
+}

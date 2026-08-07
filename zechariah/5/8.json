@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "فقال: هذه الرِّجسةُ، وطرحها إلى وسط الإيفة، وطرح ⟨את⟩ حجرَ الرصاص على فمها",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "الرجسة"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "وطرح"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاها"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "وسط"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "الإيفة"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "وطرح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حجر"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "حجر"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "الرصاص"
+    },
+    {
+      "surface": "אל",
+      "gloss": "على"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "فمها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:35:43.601756433Z",
+  "model": "glm-5.2"
+}

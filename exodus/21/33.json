@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 21:33",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "«وإذا فتح رجلٌ بئرًا، أو إذا حفر رجلٌ بئرًا ولم يُغطِّه، وسقط هناك ثورٌ أو حمار،»",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "فتح"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "בור",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "حفر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "בר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "يُغطِّه"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "وسقط"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ثور"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "حمار"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:14.790101533Z",
+  "model": "glm-5.2"
+}

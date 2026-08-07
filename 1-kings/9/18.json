@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "و⟨את⟩ بَعلات و⟨את⟩ تمر في البريّة في الأرض،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بَعلات"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "بَعلات"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "تمر"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "تمر"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في البريّة"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T01:45:35.144936476Z",
+  "model": "glm-5.2"
+}

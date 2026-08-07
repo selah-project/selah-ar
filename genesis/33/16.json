@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "فَرَجَعَ ⟨في⟩ ذلك اليوم عيسو إلى طريقه، سَعيرًا.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "فرجع"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "إلى طريقه"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "سَعيرًا"
+    }
+  ],
+  "timestamp": "2026-08-07T06:58:54.679916314Z",
+  "model": "glm-5.2"
+}

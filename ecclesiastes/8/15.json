@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 8:15",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وسبّحتُ أنا ⟨את⟩ الفرح، الذي لا خيرَ للإنسان تحت الشمس سوى أن يأكل ويشرب ويفرح، وهو يرافقه في تعبه أيام حياته التي أعطاه إلوهيم إيّاها تحت الشمس.",
+  "tokens": [
+    {
+      "surface": "ושבחתי",
+      "gloss": "وسبّحتُ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الفرح"
+    },
+    {
+      "surface": "השמחה",
+      "gloss": "الفرح"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خيرَ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "للإنسان"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "الشمس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "سوى"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أن"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "يأكل"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "ويشرب"
+    },
+    {
+      "surface": "ולשמוח",
+      "gloss": "ويفرح"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "ילונו",
+      "gloss": "يرافقه"
+    },
+    {
+      "surface": "בעמלו",
+      "gloss": "في تعبه"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "حياته"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطاه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "الشمس"
+    }
+  ],
+  "timestamp": "2026-08-07T04:53:02.474841689Z",
+  "model": "glm-5.2"
+}

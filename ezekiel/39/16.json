@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 39:16",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "وأيضًا اسمُ المدينة هَمونة، فيطهّرون الأرض.",
+  "tokens": [
+    {
+      "surface": "וְגַ֥ם",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "שֶׁם",
+      "gloss": "اسمُ"
+    },
+    {
+      "surface": "עִ֛יר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "הֲמוֹנָ֖ה",
+      "gloss": "هَمونة"
+    },
+    {
+      "surface": "וְטִהֲר֥וּ",
+      "gloss": "فيطهّرون"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T03:11:44.000389798Z",
+  "model": "glm-5.2"
+}

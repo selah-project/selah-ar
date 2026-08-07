@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "إنْ يَلدَغِ الحيّةُ بلا رُقيةٍ، فلا فضلَ لصاحبِ اللِّسان.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "يلدغ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "الحيّة"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "بلا"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "رقية"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "فضل"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "لصاحب"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "اللسان"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:27.995732713Z",
+  "model": "glm-5.2"
+}

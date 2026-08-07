@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وأصنع ⟨انتقاماً⟩ بغضبٍ وبحمّةٍ للأممِ الذين لم يسمعوا ⟨⟨את⟩ الأمم⟩.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "وأصنع"
+    },
+    {
+      "surface": "באף",
+      "gloss": "بغضب"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "وبحمّة"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "انتقاماً"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأمم"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "للأمم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "يسمعوا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:27:55.630759519Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 22:18",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "فقال ملكُ إسرايم لِيهوشافاط: «ألم أقل لك: لا يتنبَّأ عليَّ بخيرٍ، بل ⟨ب⟩شرٍّ؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملكُ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرايم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "يهوشافاط"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ألم"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "أقولُ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "يتنبَّأ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عليَّ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بخيرٍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إلَّا"
+    },
+    {
+      "surface": "רע",
+      "gloss": "⟨ب⟩شرٍّ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:52:51.022698453Z",
+  "model": "glm-5.2"
+}

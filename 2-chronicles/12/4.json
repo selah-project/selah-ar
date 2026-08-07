@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وأخذ ⟨את⟩ مدنَ الحصونِ التي ليهودا، وجاءَ حتى يروشالايم.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مدن"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "مدنَ"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "الحصونِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ليهودا"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "وجاءَ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:25:29.749050555Z",
+  "model": "glm-5.2"
+}

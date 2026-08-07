@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وبنى شاؤول مذبحًا ليهوه؛ ⟨את⟩ه بدأ به بناء مذبح ليهوه.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "وبنى"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبحًا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "هو (المذبح)"
+    },
+    {
+      "surface": "החל",
+      "gloss": "بدأ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ببناء"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:25:36.972446170Z",
+  "model": "glm-5.2"
+}

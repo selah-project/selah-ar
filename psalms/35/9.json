@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "«ونَفْسي تَبْتَهِج بِـيهوه، تَفْرَح بِـخَلاصِه».",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "«ونَفْسي"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "تَبْتَهِج"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "بِـيهوه"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "تَفْرَح"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "بِـخَلاصِه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:13.440267554Z",
+  "model": "glm-5.2"
+}

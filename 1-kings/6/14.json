@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فبنى شلومو ⟨את⟩ البيت وأتمّه.",
+  "tokens": [
+    {
+      "surface": "וַיִּ֧בֶן",
+      "gloss": "فبنى"
+    },
+    {
+      "surface": "שְׁלֹמֹ֛ה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "البيت"
+    },
+    {
+      "surface": "הַבַּ֖יִת",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "וַיְכַלֵּֽהוּ",
+      "gloss": "وأتمّه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:48:59.380610382Z",
+  "model": "glm-5.2"
+}

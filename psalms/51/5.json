@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 51,
+  "translation": "لأنَّ مراراتي أنا أعرِف، وخطيَّتي أمامي دائمًا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "مراراتي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "أعرِف"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "وخطيَّتي"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "أمامي"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "دائمًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:53:32.197205034Z",
+  "model": "glm-5.2"
+}

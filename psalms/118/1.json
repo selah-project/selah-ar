@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 118:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 118,
+  "translation": "احمدوا يهوه لأنه صالح لأن إلى الأبد حِسِده",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "احمدوا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "صالح"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حِسِده"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:12.848444939Z",
+  "model": "glm-5.2"
+}

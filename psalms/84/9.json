@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 84,
+  "translation": "يهوه إلوهيم تساباؤت، اسمعي صلاتي، ⟨و⟩أصغي يا إلوهي يعقوف. صلاه",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تساباؤت"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "اسمعي"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "صلاتي"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "أصغي"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "يا إلوهي"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "صلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:27.510308855Z",
+  "model": "glm-5.2"
+}

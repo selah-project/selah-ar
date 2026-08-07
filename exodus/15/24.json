@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "فتذمّر الشعب على موشيه قائلين: ماذا نشرَب؟",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "فتذمّر"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "نشرَب"
+    }
+  ],
+  "timestamp": "2026-08-07T00:03:13.608559215Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "فنهض يعقوف، وحمل ⟨את⟩ بنيه و⟨את⟩ نساءه على الجِمال.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "فنهض"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "وحمل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بنيه"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "بنيه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "نساءه"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "نساءه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "الجِمال"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:45.947113537Z",
+  "model": "glm-5.2"
+}

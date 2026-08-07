@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 52:33",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 52,
+  "translation": "و⟨أبدَلَ⟩ ⟨את⟩ ثيابَ سجنهِ، وأكلَ خبزًا أمامَهُ دائمًا كلَّ أيّامِ حياتِهِ.",
+  "tokens": [
+    {
+      "surface": "ושנה",
+      "gloss": "و⟨أبدَلَ⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ثياب سجنه"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ثياب"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "سجنه"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "وأكل"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمامه"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "دائمًا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "حياته"
+    }
+  ],
+  "timestamp": "2026-08-07T02:52:27.073547901Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 118,
+  "translation": "ليقولوا الآن بيت أهرون: إن إلى الأبد حِسِده",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "ليقولوا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهرون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إن"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حِسِده"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:12.848675450Z",
+  "model": "glm-5.2"
+}

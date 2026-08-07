@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 33:6",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "وارتحلوا من سكّوت ونزلوا في إيتام التي في طرف البرّيّة.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "وارتحلوا"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "من سكّوت"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ونزلوا"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "في إيتام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "في طرف"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "البرّيّة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:40.326681986Z",
+  "model": "glm-5.2"
+}

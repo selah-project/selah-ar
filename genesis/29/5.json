@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "فقال لهم: هل تعرفون ⟨את⟩ لابان بن ناحور؟ فقالوا: عرفناه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "هل تعرفون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لابان"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحور"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقالوا"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "عرفناه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:32.965375253Z",
+  "model": "glm-5.2"
+}

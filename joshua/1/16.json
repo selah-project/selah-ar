@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فأجابوا يهوشوع قائلين: كلُّ ما أوصيتنا به نفعل، وإلى كلِّ ما ترسلنا نذهب.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "فأجابوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوشوع"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشوع"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "أوصيتنا"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "به نفعل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "ترسلنا"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "نذهب"
+    }
+  ],
+  "timestamp": "2026-08-07T01:03:19.743352163Z",
+  "model": "glm-5.2"
+}

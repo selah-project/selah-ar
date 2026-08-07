@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 107,
+  "translation": "هم رأوا أعمال يهوه، وعجائبه في العمق",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "رأوا"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "أعمال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "وعجائبه"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "في العمق"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:31.733360340Z",
+  "model": "glm-5.2"
+}

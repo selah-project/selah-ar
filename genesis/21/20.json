@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وكان إلوهيم مع ⟨את⟩ الفتى، فكبر، وسكن في البرية، وكان ينمو راميًا بالقوس.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الفتى"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "الفتى"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "فكبر"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "وسكن"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في البرية"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ينمو"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "راميًا بالقوس"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:37.122457684Z",
+  "model": "glm-5.2"
+}

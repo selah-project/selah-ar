@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "ومن ثَمَرِ فمِ الإنسانِ يأكلُ خيرًا، ونَفْسُ الغادرين ظُلمٌ.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "ومن ثَمَر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فم"
+    },
+    {
+      "surface": "איש",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يأكل"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خيرًا"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ونَفْس"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "الغادرين"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ظُلم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:45.084563014Z",
+  "model": "glm-5.2"
+}

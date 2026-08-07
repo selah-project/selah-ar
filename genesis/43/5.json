@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 43,
+  "translation": "وإذا لم تُرسِلْه لا ننزل، لأنّ الرجل قال لنا: لا تَرون وجهي ما لم يكن أخوكم معكم.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "لم"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "تُرسِلْه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "ننزل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "تَرون"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهي"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ما لم"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "أخوكم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "معكم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:35:30.728747529Z",
+  "model": "glm-5.2"
+}

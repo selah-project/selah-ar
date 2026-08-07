@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وعاش رَعُو اثنتين وثلاثين سنة، وولد ⟨את⟩ سَرُوغ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "وعاش"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "رَعُو"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "اثنتين"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "وثلاثين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "وولد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سَرُوغ"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "سَرُوغ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:55.591628590Z",
+  "model": "glm-5.2"
+}

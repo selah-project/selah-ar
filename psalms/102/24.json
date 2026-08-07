@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 102,
+  "translation": "أذلَّ في الطريقِ قُوَّتي، قصَّرَ أيّامي.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "أذلَّ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "في الطريقِ"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "قُوَّتي"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "قصَّرَ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّامي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:36.584594296Z",
+  "model": "glm-5.2"
+}

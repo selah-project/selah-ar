@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "كذلك رجلٌ يخدع ⟨את⟩ صاحبِه ويقول: «ألسْتُ ألاعب؟»",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "كذلك"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلٌ"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "يخدع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صاحبِه"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "صاحبِه"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ويقول"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ألسْتُ"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "ألاعب"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:28.980470482Z",
+  "model": "glm-5.2"
+}

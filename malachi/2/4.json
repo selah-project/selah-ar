@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 2:4",
+  "book": "malachi",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فتعلمون أني أرسلتُ إليكم ⟨את⟩ هذه الوصية، لتكون بريتي مع ليفي، قال يهوه صباؤوت.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "فتعلمون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنَّ"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "أرسلتُ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "إليكم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هذه الوصية"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "الوصية"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "لتكون"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "بريتي"
+    },
+    {
+      "surface": "את",
+      "gloss": "مع"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ليفي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤوت"
+    }
+  ],
+  "timestamp": "2026-08-07T03:39:00.492303173Z",
+  "model": "glm-5.2"
+}

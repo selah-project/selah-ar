@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وليس معكم وحدكم أنا أقطع ⟨את⟩ البريت هذه و⟨את⟩ اللعنة هذه،",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "وليس"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "معكم"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "وحدكم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "أقطع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "البريت"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "البريت"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "اللعنة"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اللعنة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:33.342432645Z",
+  "model": "glm-5.2"
+}

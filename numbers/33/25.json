@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 33:25",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "وارتحلوا من حَراداه، ونزلوا في مَقْهيلوت.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "وارتحلوا"
+    },
+    {
+      "surface": "מחרדה",
+      "gloss": "من حَراداه"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ونزلوا"
+    },
+    {
+      "surface": "במקהלת",
+      "gloss": "في مَقْهيلوت"
+    }
+  ],
+  "timestamp": "2026-08-07T07:13:33.983424774Z",
+  "model": "glm-5.2"
+}

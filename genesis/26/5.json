@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "إذْ ⟨ذلكَ⟩ أنَّ أفراهام سمع صوتي وحفظ حراستي: وصاياي، فرائضي، وتوراتي».",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "إذْ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "أنَّ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سمع"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "صوتي"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "وحفظ"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "حراستي"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "وصاياي"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "فرائضي"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "وتوراتي"
+    }
+  ],
+  "timestamp": "2026-08-07T05:34:48.216675557Z",
+  "model": "glm-5.2"
+}

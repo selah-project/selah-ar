@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وكان لهم في مُلكهم بئر شبع، وشبع، ومولاداه.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "في مُلكهم"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شبع"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "وشبع"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "ومولاداه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:09:53.595446555Z",
+  "model": "glm-5.2"
+}

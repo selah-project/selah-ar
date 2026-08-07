@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "الإيميّون سابقًا سكنوها، شعبٌ عظيمٌ وكثيرٌ وطويلٌ كالعناقيّين.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "الإيميّون"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "سابقًا"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "سكنوها"
+    },
+    {
+      "surface": "בה",
+      "gloss": "إيّاها"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعبٌ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيمٌ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "وكثيرٌ"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "وطويلٌ"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "كالعناقيّين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:44.670606970Z",
+  "model": "glm-5.2"
+}

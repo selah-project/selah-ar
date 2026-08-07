@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 76,
+  "translation": "مُنِيرٌ ⟨أنتَ⟩، أديرُ مِن جبالِ الفريسة.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "مُنِيرٌ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨أنتَ⟩"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "أديرُ"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "مِن جبالِ"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "الفريسة"
+    }
+  ],
+  "timestamp": "2026-08-07T06:05:33.441430523Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "أعْلِمْني يهوه نهايتي ومقدار أيّامي ما هو، فأعرف ما أَنْقَطَعُ أنا.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "أعْلِمْني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "نهايتي"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "و⟨مقدار⟩"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّامي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "فأعرف"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "أَنْقَطَعَ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:43.351206348Z",
+  "model": "glm-5.2"
+}

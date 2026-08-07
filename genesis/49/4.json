@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 49:4",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "فورانٌ كالمياه لا تَفُضُل، لأنّك صعدتَ مِشكابَي أبيك — حينئذٍ دنَّستَ يَصوُعي. صعَد!",
+  "tokens": [
+    {
+      "surface": "פחז",
+      "gloss": "فوران"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "كالمياه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תותר",
+      "gloss": "تَفُضُل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّك"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "صعدتَ"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "مِشكابَي"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أبيك"
+    },
+    {
+      "surface": "אז",
+      "gloss": "حينئذٍ"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "دنَّستَ"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "يَصوُعي"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "صعَد"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:36.178865899Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "وهم لم يعرفوا أنَّ يوسف سامعٌ، لأنَّ المُترجِمَ بينهم.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "وهم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "يعرفوا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنَّ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سامعٌ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "المُترجِمَ"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "بينهم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:52:01.368213301Z",
+  "model": "glm-5.2"
+}

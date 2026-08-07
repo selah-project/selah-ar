@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "قال الكسلان: «أسدٌ في الخارج! في وسط الساحات أُذبَح»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "الكسلان"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "أسد"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "في الخارج"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "الساحات"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "أُذبَح"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:09.226193306Z",
+  "model": "glm-5.2"
+}

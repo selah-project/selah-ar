@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "في أيّامه عصى أدوم من تحت يد يهودا، وأقاموا عليهم ملكاً.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "في أيّامه"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "عصى"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "أدوم"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "من تحت"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يد"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "وأقاموا ملكاً"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملكاً"
+    }
+  ],
+  "timestamp": "2026-08-07T01:55:44.201986846Z",
+  "model": "glm-5.2"
+}

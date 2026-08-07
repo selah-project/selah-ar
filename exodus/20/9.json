@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "ستّةَ أيّامٍ تعملُ ⟨وتصنعُ⟩ كلَّ عملِكَ،",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "ستّةَ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيّامٍ"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "تعملُ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "⟨وتصنعُ⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "عملِكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:57.457427806Z",
+  "model": "glm-5.2"
+}

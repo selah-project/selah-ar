@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-chronicles 1:50",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "و⟨مات⟩ بعل حَنان، و⟨ملك⟩ محلّه هَدَد، واسم مدينته فَعْوي، واسم امرأته مَهيطابْئيل بنت مَطْرَد بنت مَي زَهَب.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و⟨مات⟩"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بعل"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حَنان"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "و⟨ملك⟩"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "محلّه"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "هَدَد"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "واسم"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "مدينته"
+    },
+    {
+      "surface": "פעי",
+      "gloss": "فَعْوي"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "واسم"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "امرأته"
+    },
+    {
+      "surface": "מהיטבאל",
+      "gloss": "مَهيطابْئيل"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "מטרד",
+      "gloss": "مَطْرَد"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَي"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زَهَب"
+    }
+  ],
+  "timestamp": "2026-08-07T05:09:29.193882622Z",
+  "model": "glm-5.2"
+}

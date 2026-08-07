@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "كلَّ أيّامِ تفرُّغِه ليهوه، عندَ نَفْسِ ميّتٍ لا يأتِ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّامِ"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "تفرُّغِه"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "عندَ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْسِ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ميّتٍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "يأتِ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:30:12.303174436Z",
+  "model": "glm-5.2"
+}

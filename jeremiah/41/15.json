@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 41:15",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "أمّا يِشماعئيل بن نَتَنيا فهرب بثمانية رجال من أمام يُوحانان، وذهب إلى بني عمّون.",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "أمّا يِشماعئيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "نَتَنيا"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "فهرب"
+    },
+    {
+      "surface": "בשמנה",
+      "gloss": "بثمانية"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من أمام"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "يُوحانان"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "وذهب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمّون"
+    }
+  ],
+  "timestamp": "2026-08-07T02:46:37.757725561Z",
+  "model": "glm-5.2"
+}

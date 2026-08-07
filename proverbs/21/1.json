@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "قنواتُ ماءٍ قلبُ مَلِكٍ في يدِ يهوه، على كلِّ ما يَشاءُ يُميلُه",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "قنواتُ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماءٍ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلبُ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلِكٍ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "في يدِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "يَشاءُ"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "يُميلُه"
+    }
+  ],
+  "timestamp": "2026-08-07T06:08:30.839808225Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "لا تنفع كنوزُ الرِّجس، والصداقةُ تُنقِذ من الموت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "تنفع"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "كنوز"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "الرِّجس"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "والصداقة"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "تُنقِذ"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "من الموت"
+    }
+  ],
+  "timestamp": "2026-08-07T04:23:47.669551450Z",
+  "model": "glm-5.2"
+}

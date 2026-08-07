@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "«وَأيضاً حقّاً هي أختي، ابنةُ أبي هي، لكن لا ابنةَ أُمّي؛ وصارت لي لامرأةً».",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "وَأيضاً"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "حقّاً"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "أختي"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ابنةُ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "אך",
+      "gloss": "لكن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ابنةَ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "أُمّي"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "وصارت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "لامرأةً"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:04.513991445Z",
+  "model": "glm-5.2"
+}

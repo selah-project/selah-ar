@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 16:19",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "لا تُمِلِ القضاء، لا تنظرْ وجوهًا، ولا تأخذْ رشوةً، لأنّ الرشوةَ تُعْمي عيونَ الحكماء وتُعوِّجُ كلامَ الصدّيقين.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "تُمِلِ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "القضاء"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תכיר",
+      "gloss": "تنظرْ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "وجوهًا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "تأخذْ"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "رشوةً"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "الرشوةَ"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "تُعْمي"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "عيونَ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "الحكماء"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "وتُعوِّجُ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلامَ"
+    },
+    {
+      "surface": "צדיקם",
+      "gloss": "الصدّيقين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:56:32.792700257Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 32:5",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "فرأى أهارون، فبنى مذبحًا أمامه، ونادى أهارون وقال: «عيد ليهوه غدًا»",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "فرأى"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "فبنى"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبحًا"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمامه"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ونادى"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "חג",
+      "gloss": "عيد"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "غدًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:28.764363019Z",
+  "model": "glm-5.2"
+}

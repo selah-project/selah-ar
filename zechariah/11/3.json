@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 11:3",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "صوتُ ولولةِ الرُّعاة، لأنّ حُلَّتهم سُلِبَت! صوتُ زئيرِ الأشبال، لأنّ كِبرياء يردن سُلِب.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "صوتُ"
+    },
+    {
+      "surface": "יללת",
+      "gloss": "ولولةِ"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "الرُّعاة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "שדדה",
+      "gloss": "سُلِبَت"
+    },
+    {
+      "surface": "אדרתם",
+      "gloss": "حُلَّتهم"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوتُ"
+    },
+    {
+      "surface": "שאגת",
+      "gloss": "زئيرِ"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "الأشبال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "سُلِب"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "كِبرياء"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "يَرَدَن"
+    }
+  ],
+  "timestamp": "2026-08-07T03:37:51.189599194Z",
+  "model": "glm-5.2"
+}

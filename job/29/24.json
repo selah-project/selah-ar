@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 29:24",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "أضحك نحوهم فلا يُصدِّقون، ونور وجهي لا يُسقطونه.",
+  "tokens": [
+    {
+      "surface": "אשחק",
+      "gloss": "أضحك"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "نحوهم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "يُصدِّقون"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ونور"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יפילון",
+      "gloss": "يُسقطونه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:40:12.870883593Z",
+  "model": "glm-5.2"
+}

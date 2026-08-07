@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 22:27",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "فرأتِ الأتونة ⟨את⟩ ملاك يهوه فربضت تحت بيلعام، فاشتعل غضبُ بيلعام فضرب ⟨את⟩ الأتونة بالعصا",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "فرأت"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "الأتونة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ملاك"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ملاك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ותרבץ",
+      "gloss": "فربضت"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بيلعام"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "فاشتعل"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غضبُ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بيلعام"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "فضرب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأتونة"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "الأتونة"
+    },
+    {
+      "surface": "במקל",
+      "gloss": "بالعصا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:39:08.447417518Z",
+  "model": "glm-5.2"
+}

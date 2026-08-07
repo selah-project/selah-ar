@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 41:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "فقال فَرعو ليوصِف: «حلمًا حلَمتُ، وفاتِر ليس له، وأنا سمعتُ عنك قائلاً: تسمع حلمًا لفتْره».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فَرعو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوصِف"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "حلمًا"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "حلَمتُ"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "وفاتِر"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "له",
+      "marks": "ו(אין)"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "سمعتُ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "عنك"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "تسمع"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "حلمًا"
+    },
+    {
+      "surface": "לפתר",
+      "gloss": "لِفتْرِه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "حلمًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:16.745663112Z",
+  "model": "glm-5.2"
+}

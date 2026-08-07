@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 13:8",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وتُخبِر لابنك في اليوم ذلك قائلاً: «من أجل هذا فعل يهوه لي بخروجي من مصرايم.»",
+  "tokens": [
+    {
+      "surface": "והגדת",
+      "gloss": "وتُخبِر"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "لابنك"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في اليوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "من أجل"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "בצאתי",
+      "gloss": "بخروجي"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "من مصرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:03:16.128136552Z",
+  "model": "glm-5.2"
+}

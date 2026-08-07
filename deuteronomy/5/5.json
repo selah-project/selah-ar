@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 5:5",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "أنا واقفٌ بين يهوه وبينكم في الوقت ذاك، لأُخبركم ⟨את⟩ كلمة يهوه، لأنّكم خِفتم من وجه النار ولم تصعدوا في الجبل قائلين:",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "واقفٌ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "وبينكم"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "في الوقت"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذاك"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "لأُخبر"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "كم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلمة"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "خِفتم"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجه"
+    },
+    {
+      "surface": "האש",
+      "gloss": "النار"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "تصعدوا"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "في الجبل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:51:56.735589616Z",
+  "model": "glm-5.2"
+}

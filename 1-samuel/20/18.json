@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 20:18",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "وقال له يهوناتان: «غدًا رأس الشهر، فتُفتقد، لأنّ مقعده يُفتقد.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يهوناتان"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "غدًا"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "رأس الشهر"
+    },
+    {
+      "surface": "ונפקדת",
+      "gloss": "فتُفتقد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "يُفتقد"
+    },
+    {
+      "surface": "מושבך",
+      "gloss": "مقعده"
+    }
+  ],
+  "timestamp": "2026-08-07T05:45:38.205858655Z",
+  "model": "glm-5.2"
+}

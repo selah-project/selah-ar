@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 31:15",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "أَليس الذي صنعني في البطن صنع ⟨את⟩ه؟ و⟨هو⟩ هيّأنا في الرحم واحد؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "أَليس"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "في البطن"
+    },
+    {
+      "surface": "עשני",
+      "gloss": "الذي صنعني"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "صنع"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ه"
+    },
+    {
+      "surface": "יכננו",
+      "gloss": "هيّأنا"
+    },
+    {
+      "surface": "ברחם",
+      "gloss": "في الرحم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:41:10.073669341Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "والصقت نَفْسُه بدينا بنتِ يعقوف، فأحبّ ⟨את⟩ الفتاةُ وكلّم ⟨على⟩ قلبِ الفتاة.",
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "والصقت"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نَفْسُه"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "بدينا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنتِ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "فأحبّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الفتاةُ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "الفتاةُ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "وكلّم"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨على⟩"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلبِ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "الفتاةُ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:50.580091757Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "فاستدعى شاؤول ⟨את⟩ كلّ الشعب للحرب، للنزول قَعيلاه، لمحاصرة داود ورجاله.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "فاستدعى"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ الشعب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "للحرب"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "للنزول"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "قَعيلاه"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "لمحاصرة"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨إلى⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "رجاله"
+    }
+  ],
+  "timestamp": "2026-08-07T01:28:31.598188641Z",
+  "model": "glm-5.2"
+}

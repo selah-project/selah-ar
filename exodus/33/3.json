@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "إلى أرضٍ تفيضُ لبَنًا وعسلاً، لأنّي لا أصعدُ في وسطك، لأنّك شعبٌ صَلْبُ الرَّقَبة، لئلاّ أُفنيك في الطريق.»",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "تفيض"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "لبَن"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "وعسل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "أصعد"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "في وسطك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّك"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "صلب"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "الرقبة"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلاّ"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "أُفنيك"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "في الطريق"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:45.645181376Z",
+  "model": "glm-5.2"
+}

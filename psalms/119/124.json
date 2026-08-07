@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 124,
+  "ref": "psalms 119:124",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "اصنَع مع عبدِك كحِسِدِك، ⟨و⟩فرائضَك علِّمني.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "اصنَع"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدِك"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "كحِسِدِك"
+    },
+    {
+      "surface": "וחקיך",
+      "gloss": "⟨و⟩فرائضَك"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "علِّمني"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:57.117409322Z",
+  "model": "glm-5.2"
+}

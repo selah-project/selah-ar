@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "والملك داوود سمع ⟨את⟩ كل هذه الأمور، فاحتدّ ⟨فيه⟩ جدًّا.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "والملك"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سمع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "الأمور"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "فاحتدّ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨فيه⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:48:01.252836303Z",
+  "model": "glm-5.2"
+}

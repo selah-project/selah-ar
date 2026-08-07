@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 15:28",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "و⟨يكفّر⟩ الكوهين عن النفس الساهية في خطئها بسَهو أمام يهوه، للتكفير عنه فيُصفح له.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "و⟨يكفّر⟩"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "על",
+      "gloss": "عن"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "النفس"
+    },
+    {
+      "surface": "השגגת",
+      "gloss": "الساهية"
+    },
+    {
+      "surface": "בחטאה",
+      "gloss": "في خطئها"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "بسَهو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "للتكفير"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عنه"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "فيُصفح"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T00:36:28.004008564Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 58,
+  "translation": "اغترب الأشرارُ من الرَّحِم، ضلّوا من البطن، ناطقين كذبًا.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "اغترب"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الأشرارُ"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "من الرَّحِم"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "ضلّوا"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "من البطن"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ناطقين"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "كذبًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:56.728642182Z",
+  "model": "glm-5.2"
+}

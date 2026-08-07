@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "ريحٌ مُمتلئةٌ من هذه تأتي لي. الآن أيضاً أنا أتكلّمُ مشفايم، ⟨את⟩هم.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ريح"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "مُمتلئةٌ"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "من هذه"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "تأتي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضاً"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "أتكلّمُ"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "مشفايم"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩هم",
+      "marks": "هم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:29:56.969506358Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فرأت مَلِكة شَفا ⟨את⟩ كلّ حكمة شلوموه، والبيت الذي بناه.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "فرأت"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "مَلِكة"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شَفا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "حكمة"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموه"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "والبيت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بناه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:46:40.866031554Z",
+  "model": "glm-5.2"
+}

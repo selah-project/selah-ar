@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 149,
+  "translation": "ليهلّلوا اسمه برقص، بطبلٍ وكينور يرنّموا له.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "ليهلّلوا"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمه"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "برقص"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "بطبلٍ"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "وكينور"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "يرنّموا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T04:19:21.488054288Z",
+  "model": "glm-5.2"
+}

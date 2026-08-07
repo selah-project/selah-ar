@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "ساويتُ يهوه أمامي دائمًا، لأنه عن يميني لا ⟨أزلّ⟩.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "ساويتُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "أمامي"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "دائمًا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "عن يميني"
+    },
+    {
+      "surface": "בל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "أزلّ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:43:11.190808543Z",
+  "model": "glm-5.2"
+}

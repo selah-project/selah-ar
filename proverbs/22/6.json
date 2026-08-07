@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "علِّمِ الفتى على فمِ طريقِه؛ وحتى إذا شاخ لا يحيدُ عنها",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "علِّم"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "الفتى"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فمِ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "طريقِه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وحتى"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "شاخ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "يحيدُ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "عنها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:10.598301955Z",
+  "model": "glm-5.2"
+}

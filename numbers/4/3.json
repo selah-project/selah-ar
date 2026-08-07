@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 4:3",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "من ابن ثلاثين سنة فصاعدًا وحتى ابن خمسين سنة كلّ ⟨الذي⟩ يأتي للجند للقيام بعمل في خيمة الموعد",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "من ابن"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ثلاثين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "فصاعدًا"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وحتى"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "خمسين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "يأتي"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "للجند"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "للقيام بـ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "في خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:58.133559079Z",
+  "model": "glm-5.2"
+}

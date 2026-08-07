@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وهي مرّةُ النفس، فصلّت على يهوه وتبكي تبكي.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "وهي"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "مرّةُ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "النفس"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "فصلّت"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "وتبكي"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "تبكي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:20:43.972210997Z",
+  "model": "glm-5.2"
+}

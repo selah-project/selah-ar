@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وسكّانُ جِبعون سمعوا ⟨את⟩ ما فعله يهوشُع ليريحو ولعاي،",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "وسكّانُ"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "جِبعون"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سمعوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ما (אשר)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعله"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشُع"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "ليريحو"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "ولعاي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:04:50.059945671Z",
+  "model": "glm-5.2"
+}

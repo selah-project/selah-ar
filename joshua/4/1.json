@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "«و⟨كان⟩ لمّا أتمَّ كلُّ الشعب عبورَ ⟨את⟩ الأردن، أن يهوه قال ليهوشوع قائلًا:»",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لمّا"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "أتمَّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "عبورَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأردن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "الأردن"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "أنّه قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشوع"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:03:42.828646731Z",
+  "model": "glm-5.2"
+}

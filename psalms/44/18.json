@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "كلُّ هذا أتانا، و⟨لكن⟩ لا نَسِيناك، ولا غَشَشنا في بريتك",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "أتانا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و⟨لكن⟩ لا"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "نَسِيناك"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "غَشَشنا"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "في بريتك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:32.203657066Z",
+  "model": "glm-5.2"
+}

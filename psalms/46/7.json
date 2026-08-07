@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 46,
+  "translation": "ضجّتِ الأمم، تزعزعتِ الممالك؛ أطلق صوتَه فذابتِ الأرض.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "ضجّت"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "تزعزعت"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "الممالك"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أطلق"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "صوتَه"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "ذابت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:52.624146503Z",
+  "model": "glm-5.2"
+}

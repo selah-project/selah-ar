@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 34:17",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "هذه أسماء الرجال الذين يُنَزِّلون لكم ⟨את⟩ الأرض: إلعازار الكوهين ويهوشوع بن نون",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "أسماء"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "الرجال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "يُنَزِّلون"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "إلعازار"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "ويهوشوع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:45:21.903393012Z",
+  "model": "glm-5.2"
+}

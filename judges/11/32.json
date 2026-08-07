@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 11:32",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "فعبر يِفتاح إلى بني عَمّون ليحاربهم، فأسلمهم يهوه بيده.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "فعبر"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "يِفتاح"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عَمّون"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ليحاربهم"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ضدهم"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "فأسلمهم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "بيده"
+    }
+  ],
+  "timestamp": "2026-08-07T01:17:10.667736600Z",
+  "model": "glm-5.2"
+}

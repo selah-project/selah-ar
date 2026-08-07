@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 20:3",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "فخاف وجعل يهوشافاط ⟨את⟩ وجهه للسؤال من يهوه، ونادى صومًا على كلّ يهوذا.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "فخاف"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "وجعل"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "يهوشافاط"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وجهه"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "وجهه"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "للسؤال"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "من يهوه"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ونادى"
+    },
+    {
+      "surface": "צום",
+      "gloss": "صومًا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوذا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:28:08.091125416Z",
+  "model": "glm-5.2"
+}

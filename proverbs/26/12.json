@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 26:12",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "رأيتَ رجلاً حكيمًا في عينيه؟ رجاءٌ ⟨لـ⟩أحمقَ منه.",
+  "tokens": [
+    {
+      "surface": "רָאִ֗יתָ",
+      "gloss": "رأيتَ"
+    },
+    {
+      "surface": "אִ֭ישׁ",
+      "gloss": "رجلًا"
+    },
+    {
+      "surface": "חָכָ֣ם",
+      "gloss": "حكيمًا"
+    },
+    {
+      "surface": "בְּעֵינָ֑יו",
+      "gloss": "في عينيه"
+    },
+    {
+      "surface": "תִּקְוָ֖ה",
+      "gloss": "رجاء"
+    },
+    {
+      "surface": "לִכְסִ֣יל",
+      "gloss": "لأحمق"
+    },
+    {
+      "surface": "מִמֶּֽנּוּ",
+      "gloss": "منه"
+    }
+  ],
+  "timestamp": "2026-08-07T08:16:17.792688295Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "لأحكامِكَ قاموا هذا اليوم، لأنّ الكلَّ عبيدُكَ.",
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "لأحكامِكَ"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "قاموا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "هذا اليوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "الكلَّ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "عبيدُكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:35.659777613Z",
+  "model": "glm-5.2"
+}

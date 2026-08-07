@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 42:2",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "وقال: هوذا سمعت أنّ هناك شَبَرًا في مصرايم. انزلوا إلى هناك واشبروا لنا من هناك، فنحيا ولا نموت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "سمعت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شَبَرًا"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "في مصرايم"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "انزلوا"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "إلى هناك"
+    },
+    {
+      "surface": "ושברו",
+      "gloss": "واشبروا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "משם",
+      "gloss": "من هناك"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "فنحيا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "نموت"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:43.747106402Z",
+  "model": "glm-5.2"
+}

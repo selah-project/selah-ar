@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 15:31",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "لأنّه احتقر كلمة يهوه و⟨את⟩ وصيّته أبطل، قَطعًا تُقطَع تلك النفس، عَوَنُها عليها",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "احتقر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "وصيّته"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "و⟨את⟩ وصيّته"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "أبطل"
+    },
+    {
+      "surface": "הכרת",
+      "gloss": "قَطعًا"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "تُقطَع"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "تلك النفس"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "تلك"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "عَوَنُها"
+    },
+    {
+      "surface": "בה",
+      "gloss": "عليها"
+    }
+  ],
+  "timestamp": "2026-08-07T07:11:54.496918431Z",
+  "model": "glm-5.2"
+}

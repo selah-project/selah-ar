@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "وسأل يعقوف وقال أخبرني الآن اسمك. فقال لماذا هذا تسأل عن اسمي؟ وباركه ⟨את⟩ هناك.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "وسأل"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "أخبرني"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "اسمك"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "تسأل"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "عن اسمي"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "وبارك"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "هناك"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:02.983412512Z",
+  "model": "glm-5.2"
+}

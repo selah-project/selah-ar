@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وقال الملك: «مُرْ بطرفك، قِف هنا.» فمال ووقف.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "סב",
+      "gloss": "مُرْ بطرفك"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "قِف"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هنا"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "فمال"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ووقف"
+    }
+  ],
+  "timestamp": "2026-08-07T01:39:22.296694327Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "مقدّساتي احتقرتِ، و⟨את⟩ سبوتّي دنّستِ.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "مقدّساتي"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "احتقرتِ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سبوتّي"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "سبوتّي"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "دنّستِ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:02:48.576359199Z",
+  "model": "glm-5.2"
+}

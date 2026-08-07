@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 8:34",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "كما فُعل في اليوم هذا، أمر يهوه ⟨بأن يُفعل⟩ ليكفّر عنكم.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فُعل"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في اليوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أمر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "بأن يُفعل"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "ليكفّر"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "عنكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:24.123048896Z",
+  "model": "glm-5.2"
+}

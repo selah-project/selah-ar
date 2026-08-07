@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "إذا جلستَ لتأكل مع ⟨את⟩ حاكم، أفهَمْ تَفهَمْ ⟨את⟩ ما أمامك.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "جلستَ"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "لتأكل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حاكم"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "حاكم"
+    },
+    {
+      "surface": "בין",
+      "gloss": "أفهَمْ"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "تَفهَمْ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ما أمامك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "أمامك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:30.073527562Z",
+  "model": "glm-5.2"
+}

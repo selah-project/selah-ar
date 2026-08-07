@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وأمر يهودا بأن يطلُبوا ⟨את⟩ يهوه إلوهيم آبائهم، وأن يعملوا التوراة والوصية",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وأمر"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "بأن يطلُبوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "آبائهم"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "وأن يعملوا"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "التوراة"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "والوصية"
+    }
+  ],
+  "timestamp": "2026-08-07T05:26:27.111565186Z",
+  "model": "glm-5.2"
+}

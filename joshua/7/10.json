@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "فقال يهوه ليهوشوع: «قُمْ لكَ! لماذا ⟨أنت⟩ ساقطٌ على وجهك؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشوع"
+    },
+    {
+      "surface": "קם",
+      "gloss": "قُمْ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ساقط"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:04:53.733372265Z",
+  "model": "glm-5.2"
+}

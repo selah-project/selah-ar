@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 24:14",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "كما يقول مَثَل الأوّلين: من الأشرار يخرج شرّ، ويدي لا ⟨تكون⟩ عليك.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "يقول"
+    },
+    {
+      "surface": "משל",
+      "gloss": "مَثَل"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "الأوّلين"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "من الأشرار"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "يخرج"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شرّ"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "ويدي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "בך",
+      "gloss": "عليك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:29:25.307231588Z",
+  "model": "glm-5.2"
+}

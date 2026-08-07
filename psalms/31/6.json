@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "في يدِكَ أُودِعُ روَحي، أنتَ فديتَني ⟨את⟩ يهوه، إيلَ إمِت.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "في يدِكَ"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "أُودِعُ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "روَحي"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "فديتَ"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "أنا (المتكلم)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "إمِت"
+    }
+  ],
+  "timestamp": "2026-08-07T06:04:06.924699919Z",
+  "model": "glm-5.2"
+}

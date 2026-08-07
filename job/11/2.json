@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 11:2",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "هل كثرة الكلمات لا يُجاب عليها، وإن كان رجلُ شفتين يُبرَّر؟",
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "هل كثرة"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "الكلمات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "يُجاب عليها"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كان رجل"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "شفتين"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "يُبرَّر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:34:29.387962188Z",
+  "model": "glm-5.2"
+}

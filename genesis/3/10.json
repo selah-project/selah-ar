@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فقال: «صوتك ⟨את⟩ سمعتُ في الجنّة، فخِفتُ لأنّي عُريانٌ، فاختبأتُ».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صوتك"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "صوتك"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "سمعتُ"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "في الجنّة"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "فخِفتُ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "عُريان"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "فاختبأتُ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:34:58.900662653Z",
+  "model": "glm-5.2"
+}

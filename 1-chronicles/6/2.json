@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وهذه أسماءُ بَني جيرِشوم: لِبني وشِمعي.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "وهذه"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "أسماءُ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَني"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "جيرِشوم"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لِبني"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "وشِمعي"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:24.203195066Z",
+  "model": "glm-5.2"
+}

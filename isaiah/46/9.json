@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 46:9",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 46,
+  "translation": "اُذكُروا الأوائل منذ الدهر، لأنّي أنا إيل وليس آخر، إلوهيم ولا مثيل لي.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "اُذكُروا"
+    },
+    {
+      "surface": "ראשנות",
+      "gloss": "الأوائل"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "منذ الدهر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "وليس"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "آخر"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "مثيل لي"
+    }
+  ],
+  "timestamp": "2026-08-07T02:19:41.426751776Z",
+  "model": "glm-5.2"
+}

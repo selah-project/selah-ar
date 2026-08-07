@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "المُصوِّر قُلوبَهم معًا، المُفهِمُ إلى كلّ أعمالهم.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "المُصوِّر"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "معًا"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "قُلوبَهم"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "المُفهِمُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "أعمالهم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:06.369026535Z",
+  "model": "glm-5.2"
+}

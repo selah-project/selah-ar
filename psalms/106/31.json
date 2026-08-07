@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 106,
+  "translation": "فحُسِبَت له صداقةً، لِدورٍ فدورٍ إلى الأبد.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "فحُسِبت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "صداقةً"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "لِدورٍ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "فدورٍ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:27.122909424Z",
+  "model": "glm-5.2"
+}

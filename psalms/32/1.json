@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "لِدافيد تعليم. طُوبى لِمَن رُفع عصيانُه، لِمَن سُترت خطيئتُه",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "لِدافيد"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "تعليم"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "طُوبى"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "رُفع"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "عصيانُه"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "سُترت"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "خطيئتُه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:48.095273788Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "لأنّ في ظلّ الحكمة كـظلّ الفضّة، وزيادةُ المعرفة: الحكمة تُحيي أصحابها.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "في ظلّ"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "الحكمة"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "كظلّ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "الفضّة"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "وزيادة"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "المعرفة"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "الحكمة"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "تُحيي"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "أصحابها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:02.931836134Z",
+  "model": "glm-5.2"
+}

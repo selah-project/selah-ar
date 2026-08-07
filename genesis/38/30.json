@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 38:30",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "وبعد ذلك خرج أخوه الذي على يده الخيطُ القرمزيّ، و⟨دُعي⟩ اسمه زارَح.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "وبعد ذلك"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "خرج"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "أخوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "השני",
+      "gloss": "الخيط القرمزيّ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و⟨دُعي⟩"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمه"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زارَح"
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:27.407435493Z",
+  "model": "glm-5.2"
+}

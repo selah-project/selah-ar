@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 6:11",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وبُيوتٌ مَلأى كلَّ خيرٍ لم تملأها أنت، وآبارٌ منحوتةٌ لم تنحتها أنت، كُرومٌ وزيتوناتٌ لم تَغرِسها أنت، فتأكل وتشبع",
+  "tokens": [
+    {
+      "surface": "ובתים",
+      "gloss": "وبُيوتٌ"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "مَلأى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خيرٍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "تملأها"
+    },
+    {
+      "surface": "וברת",
+      "gloss": "وآبارٌ"
+    },
+    {
+      "surface": "חצובים",
+      "gloss": "منحوتةٌ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "חצבת",
+      "gloss": "تنحتها"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "كُرومٌ"
+    },
+    {
+      "surface": "וזיתים",
+      "gloss": "وزيتوناتٌ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "נטעת",
+      "gloss": "تَغرِسها"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "فتأكل"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "وتشبع"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:41.560475722Z",
+  "model": "glm-5.2"
+}

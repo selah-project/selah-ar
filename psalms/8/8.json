@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "قطعُ بقرٍ ومعها، كلُّها، وحتى بهيمُ صحراء؛",
+  "tokens": [
+    {
+      "surface": "צֹנֶ֣ה",
+      "gloss": "قطعُ بقرٍ"
+    },
+    {
+      "surface": "וַאֲלָפִ֣ים",
+      "gloss": "ومعها"
+    },
+    {
+      "surface": "כֻּלָּ֑ם",
+      "gloss": "كلُّها"
+    },
+    {
+      "surface": "וְ֝גַ֗ם",
+      "gloss": "وحتى"
+    },
+    {
+      "surface": "בַּהֲמ֥וֹת",
+      "gloss": "بهيمُ"
+    },
+    {
+      "surface": "שָׂדָֽי",
+      "gloss": "صحراء"
+    }
+  ],
+  "timestamp": "2026-08-07T03:42:11.014304838Z",
+  "model": "glm-5.2"
+}

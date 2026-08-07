@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 31:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "أمِلْ نحوي أُذُنَكَ، عاجلاً أنقذني، كُنْ لي لصخرٍ معوّز، لبيتِ حصونٍ، لتخليصي",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "أمِلْ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "نحوي"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "أُذُنَكَ"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "عاجلاً"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "أنقذني"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كُنْ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "لصخر"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "معوّز"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "لبيت"
+    },
+    {
+      "surface": "מצודות",
+      "gloss": "حصون"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "لتخليصي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:54.821709226Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "يجلِسُ مُنفرِدًا ويصمُت، لأنَّه وضَعَهُ عليه.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "يجلِسُ"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "مُنفرِدًا"
+    },
+    {
+      "surface": "ונשיאת",
+      "gloss": "ويصمُت"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "لأنَّه"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "وضَعَهُ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:49:03.334911340Z",
+  "model": "glm-5.2"
+}

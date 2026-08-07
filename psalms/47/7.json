@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 47,
+  "translation": "زَمِّروا إلوهيم، زَمِّروا؛ زَمِّروا لملكنا، زَمِّروا.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "زَمِّروا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "زَمِّروا"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "زَمِّروا"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "لملكنا"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "زَمِّروا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:53.519047051Z",
+  "model": "glm-5.2"
+}

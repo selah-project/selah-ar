@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وسكن داود في الحصن، لذلك دعوه «مدينة داود».",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "وسكن"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "في الحصن"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "دعوه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    }
+  ],
+  "timestamp": "2026-08-07T05:14:05.327618326Z",
+  "model": "glm-5.2"
+}

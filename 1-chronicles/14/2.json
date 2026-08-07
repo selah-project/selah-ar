@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 14:2",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وعلم دواف ⟨أنّ⟩ يهوه أقامه ملكًا على يسرائيل، ⟨وأنّ⟩ مُلكه رُفع إلى ⟨العلاء⟩ من أجل شعبه يسرائيل.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "وعلم"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "دواف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "أقامه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ملكًا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "وأنّ"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "رُفع"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "إلى العلاء"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "مُلكه"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "من أجل"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبه"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:34.431099110Z",
+  "model": "glm-5.2"
+}

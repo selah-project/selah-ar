@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وبنو عالي بنو بَليَّعل، لم يعرفوا ⟨את⟩ يهوه.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "وبنو"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عالي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بَليَّعل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "يعرفوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:20:43.542714119Z",
+  "model": "glm-5.2"
+}

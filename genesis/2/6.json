@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "و⟨كان⟩ ضبابٌ يصعدُ من الأرض، ويَسقي ⟨את⟩ كلَّ وجهِ التُّربة.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "وضبابٌ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "يصعدُ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "ويَسقي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلَّ وجهِ التُّربة"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهِ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "التُّربة"
+    }
+  ],
+  "timestamp": "2026-08-06T23:36:01.277546469Z",
+  "model": "glm-5.2"
+}

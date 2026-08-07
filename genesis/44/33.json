@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 44:33",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "والآن، فليَجلِسْ DEFعبدُكَ DEFبدلًا DEFمن DEFالفتى، DEFعبدًا DEFلمولاي، DEFوالفتى DEFليَصعَدْ DEFمع DEFإخوتهِ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "فليَجلِسْ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "أرجوكَ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدُكَ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلًا من"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "الفتى"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عبدًا"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "لمولاي"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "والفتى"
+    },
+    {
+      "surface": "יעל",
+      "gloss": "ليَصعَدْ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "إخوتهِ"
+    }
+  ],
+  "timestamp": "2026-08-07T07:00:21.852363711Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 17:14",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "فكان الأموات في الوباء أربعةَ عشرَ ألفًا وسبعَ مئة، فضلًا عن الأموات على أمر قورح.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "فكان"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "الأموات"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "في الوباء"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "أربعة"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفًا"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "وسبع"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "فضلًا عن"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "الأموات"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "أمر"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    }
+  ],
+  "timestamp": "2026-08-07T00:36:24.847429742Z",
+  "model": "glm-5.2"
+}

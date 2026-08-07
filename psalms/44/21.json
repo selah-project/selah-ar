@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "إن كنّا قد نسينا اسم إلوهيم، و بسطنا أيدينا لإلٍ غريب،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "نسينا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "و بسطنا"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "أيدينا"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "لإلٍ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "غريب"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:22.154118223Z",
+  "model": "glm-5.2"
+}

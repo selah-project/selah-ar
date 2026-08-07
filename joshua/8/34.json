@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 8:34",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وبعد ذلك قرأ ⟨أثنان⟩ ⟨את⟩ كلّ كلمات التوراة، البركة واللعنة، كُلّ المكتوب في سفر التوراة.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "وبعد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "قرأ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلمات"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "التوراة"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "البركة"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "واللعنة"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "كُلّ"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "المكتوب"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "في سفر"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "التوراة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:05:06.954341479Z",
+  "model": "glm-5.2"
+}

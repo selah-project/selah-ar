@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 46:28",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 46,
+  "translation": "و⟨את⟩ يهودا أرسل أمامَه إلى يوسف لتوجيهٍ أمامَه إلى جوشَنْ، فجاؤوا أرضَ جوشَنْ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "يهودا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "أرسل"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمامه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "להורת",
+      "gloss": "لتوجيهٍ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمامه"
+    },
+    {
+      "surface": "גשנה",
+      "gloss": "إلى جوشَنْ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "فجاؤوا"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "أرضَ"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "جوشَنْ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:57:19.654315586Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 37:14",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "أَصغِ ⟨لهذا⟩ يا أيّوف: قف وتأمَّل عجائب إيل.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "أَصغِ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "لهذا"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "يا أيّوف"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "قف"
+    },
+    {
+      "surface": "והתבונן",
+      "gloss": "وتأمَّل"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "عجائب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:42:34.636122995Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 16:8",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "في سنة عشرين وستّ سنوات لأسا ملك يهودا، ملك إيلا بن بعشا على يسرايل في تِرصه، سنتين.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "في سنة"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "عشرين"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "وستّ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنوات"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "لأسا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "إيلا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بعشا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "في تِرصه"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "سنتين"
+    }
+  ],
+  "timestamp": "2026-08-07T01:49:13.593385414Z",
+  "model": "glm-5.2"
+}

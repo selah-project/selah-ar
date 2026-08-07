@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 81,
+  "translation": "لأنّه فريضةٌ لإسرايل ⟨هو⟩، حكمٌ لإلوهيم يعقوف.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "חק",
+      "gloss": "فريضة"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "لإسرايل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حكم"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "لإلوهيم"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:09.948665727Z",
+  "model": "glm-5.2"
+}

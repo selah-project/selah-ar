@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "من لحمهم لا تأكلوا، وفي جيفتهم لا تمسّوا — نجسة ⟨هي⟩ لكم.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "من لحمهم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تأكلوا"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "وفي جيفتهم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "تمسّوا"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "نجسة"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨هي⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:14.232566100Z",
+  "model": "glm-5.2"
+}

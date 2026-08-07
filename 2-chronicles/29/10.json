@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 29:10",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "الآن ⟨هو⟩ مع قلبي لِقَطع بريت لِـيهوه إلوهيم يِسرائيل، فيَرجِع عنّا حَرون أنفه",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "לכרות",
+      "gloss": "لِـقطع"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريت"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "لِـيهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "فيَرجِع"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "عنّا"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "حرُون"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "أنفه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:30:11.314350325Z",
+  "model": "glm-5.2"
+}

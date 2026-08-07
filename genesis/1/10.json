@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ودعا إلوهيم اليابسة «أرضًا»، ولمجمع المياه دعا «يَمِّيم»؛ ورأى إلوهيم أنّه طيّب.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "لليابسة"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "«أرضًا»"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "ولمجمع"
+    },
+    {
+      "surface": "המים",
+      "gloss": "المياه"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "دعا"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "«يَمِّيم»"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ورأى"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيّب"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:09.355266858Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 5:1",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "و⟨كانت⟩ صرخة الشعب ونسائهم عظيمة على إخوتهم اليهوداويّين.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "و⟨كانت⟩"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "صرخة"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "ونسائهم"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "عظيمة"
+    },
+    {
+      "surface": "אל",
+      "gloss": "على"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "إخوتهم"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "اليهوداويّين"
+    }
+  ],
+  "timestamp": "2026-08-07T05:04:57.357574038Z",
+  "model": "glm-5.2"
+}

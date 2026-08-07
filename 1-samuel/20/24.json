@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "فاختبأ داوُد في الحقل. و⟨كان⟩ الهلال، فجلس الملك على الطعام لِيأكل.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "فاختبأ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوُد"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "في الحقل"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "الهلال"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "فجلس"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "الطعام"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "لِيأكل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:27:35.994985314Z",
+  "model": "glm-5.2"
+}

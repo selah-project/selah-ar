@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 5:7",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وإن لم تَطُلْ يده طاقةَ خروف، فإنه يُحضر ⟨את⟩ أَشامِه الذي أخطأه: تُورتَين أو ابنَيْ حمامٍ، ليهوه، واحدًا لخطيئة وواحدًا لعولاه.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "תגיע",
+      "gloss": "تَطُلْ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "די",
+      "gloss": "طاقةَ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "خروف"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "يُحضر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أَشامِه"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "أَشامِه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "أخطأه"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "تُورتَين"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "(تُور)"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ابنَيْ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ابنَيْ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "حمام"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "لخطيئة"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "وواحدًا"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "لعولاه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:08.303609472Z",
+  "model": "glm-5.2"
+}

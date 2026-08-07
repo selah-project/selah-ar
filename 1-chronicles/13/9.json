@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "ووصلوا إلى بيدر كيدون، فأرسل عُزّا ⟨את⟩ يده لِيمسك ⟨את⟩ التابوت، لأنّ البقر تعثّرت.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ووصلوا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "بيدر"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "كيدون"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "عُزّا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يده"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "لِيمسك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "التابوت"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "التابوت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "تعثّرت"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "البقر"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:21.532171001Z",
+  "model": "glm-5.2"
+}

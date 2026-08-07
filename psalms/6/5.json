@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "عُدْ يا يهوه، نَجِّ نَفْسي، خلِّصني من أجل حِسِدك.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "عُدْ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "نجِّ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نفسي"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "خلِّصني"
+    },
+    {
+      "surface": "למען",
+      "gloss": "من أجل"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حِسِدك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:40:24.390658528Z",
+  "model": "glm-5.2"
+}

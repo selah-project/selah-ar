@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ويذبح ⟨את⟩ه على جانب المذبح صَفوناه، أمام يهوه، ويرشّ بنو أهارون الكوهينايم ⟨את⟩ دمه على المذبح مُحيطًا.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ويذبح"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "إيّاه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "جانب"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "صَفوناه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ويرشّ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكوهينايم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دمه"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "دمه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "مُحيطًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:58.432888487Z",
+  "model": "glm-5.2"
+}

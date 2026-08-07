@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 5:18",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "والآن أسكن يهوه إلوهي لي راحةً من حولي: لا مُخاصِم ولا صَدْم شرّ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "أسكن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "من حولي"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "مُخاصِم"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "صَدْم"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شرّ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:44:46.084317047Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 1:48",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فكلّم يهوه موشيه قائلًا",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "فكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(إلى)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:29.988854591Z",
+  "model": "glm-5.2"
+}

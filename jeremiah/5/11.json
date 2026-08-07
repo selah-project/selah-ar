@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "لأنّه بغَدًا بَغَدوا فيّ بيتُ يِسرائيل وبيتُ يهودا — نَأْم يهوه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "بغَدًا"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "بَغَدوا"
+    },
+    {
+      "surface": "בי",
+      "gloss": "فيّ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيتُ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "وبيتُ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نَأْم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:30:34.000698594Z",
+  "model": "glm-5.2"
+}

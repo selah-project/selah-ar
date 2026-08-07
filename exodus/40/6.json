@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "و⟨تضع⟩ ⟨את⟩ مذبح العولاه أمام مدخل مِشكان خيمة الموعد.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "و⟨تضع⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مذبح"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "العولاه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "مدخل"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "مِشكان"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:18.320161422Z",
+  "model": "glm-5.2"
+}

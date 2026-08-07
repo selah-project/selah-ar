@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "و⟨أمّا⟩ ⟨את⟩ بقية الشعب فدفعها بيد أَفْشاي أخيه، فصفّها للقاء بني عمّون.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨أمّا⟩ ⟨את⟩",
+      "marks": "بقية"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "بقية"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دفع"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بيد"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "أفْشاي"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "أخيه"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "فصفّها"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "للقاء"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمّون"
+    }
+  ],
+  "timestamp": "2026-08-07T01:34:39.073493491Z",
+  "model": "glm-5.2"
+}

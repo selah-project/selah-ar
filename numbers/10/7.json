@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وعند جمعكم ⟨את⟩ الجماعة تضربون ولا تُروِعون",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "وعند جمعكم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الجماعة"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "الجماعة"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "تضربون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "تُروِعون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:31:58.426604181Z",
+  "model": "glm-5.2"
+}

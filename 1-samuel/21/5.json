@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فأجاب الكوهين داوُدَ وقال له: «أليس خبزٌ عاديٌّ تحت يدي، بل خبزُ قدَشٍ موجودٌ، إذا حفظ الفتيةُ أنفسهم فقط عن امرأة؟»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "فأجاب"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داوِد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبز"
+    },
+    {
+      "surface": "חל",
+      "gloss": "عاديّ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "يدي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إنّ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبز"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قُدُس"
+    },
+    {
+      "surface": "יש",
+      "gloss": "موجود"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "حُفِظ"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "الفتية"
+    },
+    {
+      "surface": "אך",
+      "gloss": "فقط"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "عن امرأة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:29:07.022050003Z",
+  "model": "glm-5.2"
+}

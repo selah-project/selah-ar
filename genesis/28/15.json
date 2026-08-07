@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 28:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "و⟨إذا⟩ أنا معك، وحفظتك في كلِّ ما تسير فيه، ورددتك إلى هذه الأرض، لأنِّي لا أتركك حتى ⟨إذا⟩ قد فعلتُ ⟨את⟩ الذي تكلَّمتُ به لك.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "و⟨إذا⟩"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "ושמרתיך",
+      "gloss": "وحفظتك"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "تسير"
+    },
+    {
+      "surface": "והשבתיך",
+      "gloss": "ورددتك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "أتركك"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨إذا⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "قد"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "فعلتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الذي تكلَّمتُ به لك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "تكلَّمتُ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "به لك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:35.343277955Z",
+  "model": "glm-5.2"
+}

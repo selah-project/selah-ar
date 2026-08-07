@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 37:28",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "وتعرف الأمم أنّي أنا يهوه مقدِّس ⟨את⟩ يسرائيل فيكون مقدّسي في وسطهم إلى الأبد",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "وتعرف"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "مقدِّس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرائيل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "فيكون"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "مقدّسي"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "في وسطهم"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:11:26.875839599Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 9:24",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "إنّما ابنة فرعون صعدت من مدينة داود إلى بيتها الذي بناه لها، حينئذٍ بنى ⟨את⟩ المِلّو",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ابنة"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "صعدت"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "من مدينة"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "بيتها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بناه"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "אז",
+      "gloss": "حينئذٍ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بنى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المِلّو"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "المِلّو"
+    }
+  ],
+  "timestamp": "2026-08-07T01:45:22.687752592Z",
+  "model": "glm-5.2"
+}

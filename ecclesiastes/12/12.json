@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "ولأَزِيد على تلك، يا ابني، احذَر: صنع الكتب الكثيرة لا حدّ له، واللهَج الكثير تعب الجسد.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "ولأَزِيد"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "على تلك"
+    },
+    {
+      "surface": "בני",
+      "gloss": "يا ابني"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "احذَر"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "صنع"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "الكتب"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "الكثيرة"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "حدّ له"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "واللهَج"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "الكثير"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "تعب"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "الجسد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:53:19.899620738Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "وصرَّف إخوته ⟨את⟩ فمضوا، وقال لهم: لا ترتاعوا في الطريق.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "وصرَّف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "إخوته"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "إخوته"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "فمضوا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "ترتاعوا"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "في الطريق"
+    }
+  ],
+  "timestamp": "2026-08-06T23:56:59.343373117Z",
+  "model": "glm-5.2"
+}

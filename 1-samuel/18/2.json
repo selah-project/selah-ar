@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "«فأخذَه شاؤول في ذلك اليوم، ولم يَدَعه يرجع إلى بيت أبيه»",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "فأخذَه"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "يَدَعه"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "يرجع"
+    },
+    {
+      "surface": "בית",
+      "gloss": "إلى بيت"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:27:19.352461806Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "لا أُدنِّس بريتي وما يَخرج من شفتيَّ لا أُغيِّر.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "أُدنِّس"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "بريتي"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "وما يَخرج"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "من شفتيَّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "أُغيِّر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:04.898287569Z",
+  "model": "glm-5.2"
+}

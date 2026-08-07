@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "ليُخرَبوا ⟨من⟩ أجل خزيهم، القائلون لي: «هآه! هآه!»",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "ليُخرَبوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "من"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "أجل"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "خزيهم"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "القائلون"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "האח",
+      "gloss": "هآه"
+    },
+    {
+      "surface": "האח",
+      "gloss": "هآه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:50.475785339Z",
+  "model": "glm-5.2"
+}

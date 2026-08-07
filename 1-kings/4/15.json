@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "أَحِيمَعتس في نَفتالي؛ هو أيضًا أخذ ⟨את⟩ بَسمت بِت شَلومو ⟨زوجةً⟩:",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "أَحِيمَعِتس"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "في نَفتالي"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "أخذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بَسمت"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بَسمت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بِت"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شَلومو"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "⟨زوجةً⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T01:43:20.313955454Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "للقدّيسين الذين في الأرض هم، ولممجَدي كلَّ سروري فيهم.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "للقدّيسين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "ولممجَدي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "سروري"
+    },
+    {
+      "surface": "בם",
+      "gloss": "فيهم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:43:26.623153497Z",
+  "model": "glm-5.2"
+}

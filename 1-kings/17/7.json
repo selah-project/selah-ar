@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "و⟨كان⟩ بعد أيام أن النَّخَل يبس، لأنه لم يكن مطر في الأرض.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "يبس"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "النَّخَل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "היה",
+      "gloss": "يكن"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "مطر"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T01:49:25.277896799Z",
+  "model": "glm-5.2"
+}

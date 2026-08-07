@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "التفِتْ إليّ وامنُنْ عليّ، كحُكمِك لمحبّي اسمِك.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "التفِتْ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "وامنُنْ عليّ"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "كحُكمِ"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "لمحبّي"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "اسمِك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:32.726207573Z",
+  "model": "glm-5.2"
+}

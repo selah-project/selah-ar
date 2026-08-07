@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 8:11",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وحتى إلى رئيس الصباء تعظّم، ومنه رُفع التاميد، وطُرح مكان مقدسه",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "وحتى"
+    },
+    {
+      "surface": "שר",
+      "gloss": "إلى رئيس"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "الصباء"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "تعظّم"
+    },
+    {
+      "surface": "וממנו",
+      "gloss": "ومنه"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "رُفع"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "التاميد"
+    },
+    {
+      "surface": "והשלך",
+      "gloss": "وطُرح"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "مكان"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "مقدسه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:58:22.169301231Z",
+  "model": "glm-5.2"
+}

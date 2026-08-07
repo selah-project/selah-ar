@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 53,
+  "translation": "و⟨جعل⟩ ⟨את⟩ الأشرار قبره، ومع الغني في موته، على أنه لم يصنع ظلمًا ولم يكن غشٌّ في فمه.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "و⟨جعل⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأشرار"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الأشرار"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "قبره"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "الغني"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "في موته"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ظلمًا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنع"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "غشٌّ"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "في فمه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:22:50.997594690Z",
+  "model": "glm-5.2"
+}

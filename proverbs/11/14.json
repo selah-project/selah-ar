@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 11:14",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "بلا تَحبُولاتٍ يسقط شعب، ⟨وأما⟩ النصرة فبكثرة مُشير.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "بلا"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "تَحبُولاتٍ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "يسقط"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "ותשועה",
+      "gloss": "والنصرة"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "بكثرة"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "مُشير"
+    }
+  ],
+  "timestamp": "2026-08-07T04:24:48.177388925Z",
+  "model": "glm-5.2"
+}

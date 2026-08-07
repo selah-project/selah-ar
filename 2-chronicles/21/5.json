@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 21:5",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "ابنُ اثنتين ⟨وثلاثين⟩ سنة يهورام في مُلكه، وثماني سنوات مَلَكَ في يروشالايم.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ثلاثين"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "واثنتين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "يهورام"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "في مُلكه"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "وثماني"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنوات"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلَكَ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "في يروشالايم"
+    }
+  ],
+  "timestamp": "2026-08-07T08:28:01.481155992Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 21:1",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "ورجلُ يسرائيل حلَف في المصفاة قائلًا: رجلٌ منّا لا يُعطي ابنته لبنيامين امرأةً.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ورجلُ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "حلَف"
+    },
+    {
+      "surface": "במצפה",
+      "gloss": "في المصفاة"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلٌ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منّا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "يُعطي"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ابنته"
+    },
+    {
+      "surface": "לבנימן",
+      "gloss": "لبنيامين"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "امرأةً"
+    }
+  ],
+  "timestamp": "2026-08-07T01:20:32.119439378Z",
+  "model": "glm-5.2"
+}

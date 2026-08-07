@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 106,
+  "translation": "من يُحدّث بِجَبَروت يهوه، ⟨من⟩ يُسمِع كلَّ تهلته؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "يُحدّث"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "بِجَبَروت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "يُسمِع"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "تهلته"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:28.247779196Z",
+  "model": "glm-5.2"
+}

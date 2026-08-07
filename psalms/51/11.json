@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 51,
+  "translation": "أَخْفِ وجهَك عن خطاياي، وكلَّ آثامي اَمحُها",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "أَخْفِ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهَك"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "عن خطاياي"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلَّ"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "آثامي"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "اَمحُها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:53:35.366969246Z",
+  "model": "glm-5.2"
+}

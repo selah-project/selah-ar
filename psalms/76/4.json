@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 76,
+  "translation": "هناك حَطَّم سِهامَ القوس، المجنّ والسيف والحرب. سيلاه.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "حَطَّمَ"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "سِهامَ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "القوس"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "المجنّ"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "والسيف"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "والحرب"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سيلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:18.328728347Z",
+  "model": "glm-5.2"
+}

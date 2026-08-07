@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فقال: صعّبت ⟨الأمر⟩ ليُسأَل. إن رأيتني ⟨את⟩ أُؤخَذ من عندك يكُنْ لك كذلك، وإن لم ⟨ترَني⟩ فلا يكون.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "صعّبت"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ليُسأَل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "رأيت"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "أُؤخَذ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "أُؤخَذ"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "من عندك"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "يكُنْ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "כן",
+      "gloss": "كذلك"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    }
+  ],
+  "timestamp": "2026-08-07T07:33:02.301718787Z",
+  "model": "glm-5.2"
+}

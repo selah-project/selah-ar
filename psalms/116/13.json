@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 116,
+  "translation": "كأسَ يَشوعوت أرفع، وباسم يهوه أدعو.",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "كأسَ"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "يَشوعوت"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "أرفع"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "وباسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "أدعو"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:24.741330290Z",
+  "model": "glm-5.2"
+}

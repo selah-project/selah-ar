@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 8:7",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "و⟨كان⟩ أوّلُك صغيرًا، وآخِرَك يطولُ جدًّا،",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "ראשיתך",
+      "gloss": "أوّلُك"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "صغيرًا"
+    },
+    {
+      "surface": "ואחריתך",
+      "gloss": "وآخِرَك"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "يطولُ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:03.493130646Z",
+  "model": "glm-5.2"
+}

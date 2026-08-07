@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 109,
+  "translation": "لأنّي عَنٍّ ومُعدَمٌ أنا، وقلبي مجروحٌ في داخلي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "עני",
+      "gloss": "عَنٍّ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ومُعدَمٌ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "وقلبي"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "مجروحٌ"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "في داخلي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:11.219535517Z",
+  "model": "glm-5.2"
+}

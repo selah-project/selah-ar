@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 8:9",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "ووضع ⟨את⟩ المِئزر على رأسه، ووضع على المِئزر إلى مقابل وجهه ⟨את⟩ صفيح الذهب، تاج القداسة، كما أوصى يهوه ⟨את⟩ موشيه.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ووضع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المِئزر"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "المِئزر"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "رأسه"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ووضع"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "المِئزر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מול",
+      "gloss": "مقابل"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "وجهه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صفيح الذهب"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "صفيح"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "الذهب"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "القداسة"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:10.633152379Z",
+  "model": "glm-5.2"
+}

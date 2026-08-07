@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "والآنَ أنتَ تقولُ: اذهبْ، قُلْ لسيّدِكَ: ها ألياهو.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآنَ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "تقولُ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اذهبْ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قُلْ"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "لسيّدِكَ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ألياهو"
+    }
+  ],
+  "timestamp": "2026-08-07T01:50:08.853571010Z",
+  "model": "glm-5.2"
+}

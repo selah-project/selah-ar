@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "واسم الآخر إليعازر، لأنّ إله أبي في عوني وأنقذني من سيف فرعون.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "واسم"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "الآخر"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "إليعازر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إله"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "في عوني"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "وأنقذني"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "من سيف"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:08.102964947Z",
+  "model": "glm-5.2"
+}

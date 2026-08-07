@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 19:6",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وتمشّى بين اللبؤات، صار شبلًا، وتعلّم أن يفترس فريسة، إنسانًا أكل.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "وتمشّى"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "بين"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "اللبؤات"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "شبلًا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "صار"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "وتعلّم"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "أن يفترس"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "فريسة"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "إنسانًا"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "أكل"
+    }
+  ],
+  "timestamp": "2026-08-07T07:51:03.796688960Z",
+  "model": "glm-5.2"
+}

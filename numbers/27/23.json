@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وأسند ⟨את⟩ يديه عليه ووصّاه، كما تكلّم يهوه بيد موشيه.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "وأسند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يديه"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "يديه"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "ووصّاه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بيد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:42:35.806111692Z",
+  "model": "glm-5.2"
+}

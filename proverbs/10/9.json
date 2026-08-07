@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "السالك ⟨في⟩ الكمال يسلك بأمان، ومُعوِّج طرقه ⟨سيُعرف⟩.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "السالك"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "في الكمال"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "يسلك"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "بأمان"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "ومُعوِّج"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "طرقه"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "⟨سيُعرف⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T04:23:40.859085792Z",
+  "model": "glm-5.2"
+}

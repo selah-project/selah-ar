@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "إنْ أخرى يتّخذ ⟨له⟩، طعامها وكسوتها وحقّها لا يُنقِص.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إنْ"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "أخرى"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "يتّخذ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "طعامها"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "وكسوتها"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "وحقّها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "يُنقِص"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:57.957443871Z",
+  "model": "glm-5.2"
+}

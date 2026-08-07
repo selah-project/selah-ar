@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "ثوبُك لم يَبْلَ ⟨من⟩عليك، ورجلُك لم تتورّم، هذه أربعين سنة.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "ثوبُك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "يَبْلَ"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "⟨من⟩عليك"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "ورجلُك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "تتورّم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "أربعين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:54:56.667726051Z",
+  "model": "glm-5.2"
+}

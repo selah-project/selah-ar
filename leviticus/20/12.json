@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 20:12",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "ورجلٌ الذي يضاجع ⟨את⟩ كنّته — موتًا يُماتان كلاهما. خليطًا صنعا، دماؤهما عليهما.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ورجل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "يضاجع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كنّته"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "كنّته"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موتًا"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "يُماتان"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "كلاهما"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "خليطًا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "صنعا"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "دماؤهما"
+    },
+    {
+      "surface": "בם",
+      "gloss": "عليهما"
+    }
+  ],
+  "timestamp": "2026-08-07T05:39:08.871856764Z",
+  "model": "glm-5.2"
+}

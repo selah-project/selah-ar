@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وقال إلوهيم لأفراهام: «وأمّا أنت ف⟨את⟩ بريتي تحفظ، أنت وزرعك من بعدك لأجيالهم».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "وأمّا أنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بريتي"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "بريتي"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "تحفظ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "وزرعك"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "من بعدك"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "لأجيالهم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:07.080368433Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-kings 22:54",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وعَبَدَ ⟨את⟩ البَعْل وسجَدَ له، وأغضَبَ ⟨את⟩ يهوه إلوهيمَ يسرائيل، ككلّ ما عمله أبوه.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "وعبَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "البَعْل"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "البَعْل"
+    },
+    {
+      "surface": "וישתחוה",
+      "gloss": "وسجد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "وأغضب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيمَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ككلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "عمله"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:50:38.743827997Z",
+  "model": "glm-5.2"
+}

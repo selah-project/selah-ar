@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 43:27",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 43,
+  "translation": "وسألهم عن شالومهم، وقال: «أسلامُ أبيكم الشيخ الذي ذكرتموه؟ هل هو بعدُ حيّ؟»",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "وسأل"
+    },
+    {
+      "surface": "להם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "عن شالوم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "أسلامُ"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "أبيكم"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "الشيخ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "ذكرتموه"
+    },
+    {
+      "surface": "העודנו",
+      "gloss": "هل هو بعدُ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "حيّ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:52:15.001451289Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "واسمُ أخيه يوفال. هو⟨كان⟩ أبا كلِّ ممسكٍ كينور وعوگاف.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "واسم"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "أخيه"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "يوفال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨كان⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "ممسكٍ"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "كينور"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "وعوگاف"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:42.373933251Z",
+  "model": "glm-5.2"
+}

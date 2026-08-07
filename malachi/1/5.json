@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 1:5",
+  "book": "malachi",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وتُبصرنّ أعينُكم، وتقولون أنتم: «ليتعظّم يهوه من فوق حدود يِسرايل.»",
+  "tokens": [
+    {
+      "surface": "ועיניכם",
+      "gloss": "وأعينُكم"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "تُبصرنّ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "وأنتم"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "تقولون"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "ليتعظّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "من فوق"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "حدود"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:39:18.494327067Z",
+  "model": "glm-5.2"
+}

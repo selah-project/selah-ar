@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "لذلك أيّها الرعاة، اسمعوا ⟨את⟩ كلمة يهوه.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "أيّها الرعاة"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "اسمعوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلمة"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:09:42.115815912Z",
+  "model": "glm-5.2"
+}

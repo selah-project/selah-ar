@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ها أنتِ جميلةٌ يا رَعْيتي، ها أنتِ جميلةٌ؛ عيناكِ حَمامٌ",
+  "tokens": [
+    {
+      "surface": "הִנָּךְ",
+      "gloss": "ها أنتِ"
+    },
+    {
+      "surface": "יָפָה",
+      "gloss": "جميلة"
+    },
+    {
+      "surface": "רַעְיָתִי",
+      "gloss": "يا رَعْيتي"
+    },
+    {
+      "surface": "הִנָּךְ",
+      "gloss": "ها أنتِ"
+    },
+    {
+      "surface": "יָפָה",
+      "gloss": "جميلة"
+    },
+    {
+      "surface": "עֵינַיִךְ",
+      "gloss": "عيناكِ"
+    },
+    {
+      "surface": "יוֹנִים",
+      "gloss": "حَمام"
+    }
+  ],
+  "timestamp": "2026-08-07T04:44:48.534236359Z",
+  "model": "glm-5.2"
+}

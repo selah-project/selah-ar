@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "و⟨את⟩ بيوت يروشالايم عددتم، وهدمتم البيوت لتقوية السور.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بيوت"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "بيوت"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "عددتم"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "وهدمتم"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "البيوت"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "لتقوية"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "السور"
+    }
+  ],
+  "timestamp": "2026-08-07T02:09:57.747499797Z",
+  "model": "glm-5.2"
+}

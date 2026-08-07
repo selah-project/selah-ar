@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 59,
+  "translation": "هم يترجَّحون ليأكلوا، إن لم يُخيَّبوا فلا يشبعون، فيَتَموَّتون.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "يترجَّحون"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ليأكلوا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "يشبعون"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "فيتَموَّتون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:10.504438892Z",
+  "model": "glm-5.2"
+}

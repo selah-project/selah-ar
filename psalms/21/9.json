@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "يدك تجد كلّ أعدائك، يمينك تجد مبغضيك.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "تجد"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدك"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "أعدائك"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "يمينك"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "تجد"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "مبغضيك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:01.289401449Z",
+  "model": "glm-5.2"
+}

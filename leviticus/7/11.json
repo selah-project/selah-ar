@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وهذه توراة ذبيحة الشَّلاميم التي يُقرِّبها ليهوه:",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "وهذه"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "توراة"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ذبيحة"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "الشَّلاميم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "يُقرِّبها"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:54.535999346Z",
+  "model": "glm-5.2"
+}

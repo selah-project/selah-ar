@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "يفنى شومرون، مَلِكُها كالزَّبَد على وجه المياه.",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "يفنى"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شومرون"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ملكها"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "كالزَّبَد"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "מים",
+      "gloss": "المياه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:23:08.250551932Z",
+  "model": "glm-5.2"
+}

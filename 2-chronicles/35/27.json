@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-chronicles 35:27",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "وأموره الأولى والأخيرة، ها هي مكتوبةٌ على سِفر ملوك إسرائيل ويهوداه.",
+  "tokens": [
+    {
+      "surface": "ודבריו",
+      "gloss": "وأموره"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "الأولى"
+    },
+    {
+      "surface": "והאחרנים",
+      "gloss": "والأخيرة"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "ها هي"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "مكتوبة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سِفر"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ملوك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ويهوداه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:32:21.154655390Z",
+  "model": "glm-5.2"
+}

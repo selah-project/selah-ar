@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 4:20",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فقال لها: «قِفي عند مدخل الخيمة، و⟨يكون⟩ إن جاء رجلٌ فسألك وقال: هل ⟨يوجد⟩ هنا رجل؟ أن تقولي: لا أحد».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "قِفي"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "عند مدخل"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "الخيمة"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و⟨يكون⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلٌ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "جاء"
+    },
+    {
+      "surface": "ושאלך",
+      "gloss": "فسألك"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "היש",
+      "gloss": "هل"
+    },
+    {
+      "surface": "פה",
+      "gloss": "هنا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل؟"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "أن تقولي"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا أحد"
+    }
+  ],
+  "timestamp": "2026-08-07T01:14:10.527795355Z",
+  "model": "glm-5.2"
+}

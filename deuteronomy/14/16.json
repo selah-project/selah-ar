@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "⟨את⟩ هاكُوس، و⟨את⟩ هايَنْشوف، وَهَتِنْشامِت.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هاكُوس"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "هاكُوس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "هايَنْشوف"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "هايَنْشوف"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "وَهَتِنْشامِت"
+    }
+  ],
+  "timestamp": "2026-08-07T05:43:04.332690986Z",
+  "model": "glm-5.2"
+}

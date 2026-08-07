@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 6:6",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فافتقر يسرائيل جدًا من وجه مديان، وصرخ بنو يسرائيل إلى يهوه.",
+  "tokens": [
+    {
+      "surface": "וידל",
+      "gloss": "فافتقر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًا"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجه"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مديان"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "وصرخ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:14:03.325169664Z",
+  "model": "glm-5.2"
+}

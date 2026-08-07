@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 21:16",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "و⟨يكون⟩ في يوم إوراثه ⟨את⟩ بنيه ⟨את⟩ ما يكون له، لا يَقدر أن يُبكِّر ⟨את⟩ ابن المحبوبة على وجه ابن المبغوضة البِكر.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و⟨يكون⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "הנחילו",
+      "gloss": "إوراثه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بنيه"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "بنيه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ما يكون له"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "يَقدر"
+    },
+    {
+      "surface": "לבכר",
+      "gloss": "أن يُبكِّر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابن المحبوبة"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "האהובה",
+      "gloss": "المحبوبة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "השנואה",
+      "gloss": "المبغوضة"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "البِكر"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:57.693423040Z",
+  "model": "glm-5.2"
+}

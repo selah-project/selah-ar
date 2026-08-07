@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 22:5",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وقال گاد الناطق لداوود لا تَجلسْ في المِحصن اذهبْ وادخلْ لك أرض يهودا. فذهب داوود ودخل يعر خرد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "الناطق"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "تَجلسْ"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "في المِحصن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اذهبْ"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "وادخلْ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "فذهب"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ودخل"
+    },
+    {
+      "surface": "יער",
+      "gloss": "يعر"
+    },
+    {
+      "surface": "חרת",
+      "gloss": "خرد"
+    }
+  ],
+  "timestamp": "2026-08-07T01:29:15.689680625Z",
+  "model": "glm-5.2"
+}

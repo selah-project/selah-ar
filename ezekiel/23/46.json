@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezekiel 23:46",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "لأنّه هكذا قال أدوناي يهوه: أصعِدْ عليهم جمعًا، و⟨أعطِ⟩ ⟨את⟩هنّ لِتَزاؤُمٍ ولنَهْبٍ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "أصعِدْ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "جمعًا"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "و⟨أعطِ⟩"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "هنّ"
+    },
+    {
+      "surface": "לזעוה",
+      "gloss": "لِتَزاؤُمٍ"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "ولنَهْبٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:04:37.574731754Z",
+  "model": "glm-5.2"
+}

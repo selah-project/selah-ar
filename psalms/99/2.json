@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 99,
+  "translation": "يهوه في صهيون عظيم، و⟨هو⟩ رفيع على كل الشعوب",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "في صهيون"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيم"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ورفيع"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "الشعوب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:22.986631866Z",
+  "model": "glm-5.2"
+}

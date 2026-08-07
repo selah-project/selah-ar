@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 4:32",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وحواضرهم: عيطام وعاين، رِمّون وتوكن وعَشان — خمس مدن.",
+  "tokens": [
+    {
+      "surface": "וחצריהם",
+      "gloss": "وحواضرهم"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "عيطام"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "وعاين"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "رِمّون"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "وتوكن"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "وعَشان"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "خمس"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:50.643837971Z",
+  "model": "glm-5.2"
+}

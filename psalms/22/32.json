@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "يَأْتُونَ وَيُخْبِرُونَ صِدْقَهُ لِشَعْبٍ يُولَد، أَنَّهُ فَعَل.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "يأتون"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ويخبرون"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "صِدقه"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "لشعب"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "يولد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:45:31.408420443Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "طيّبُ العينِ هو يُتبارَك، لأنّه أعطى من خبزه ⟨ل⟩الفقراء.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "طيّب"
+    },
+    {
+      "surface": "עין",
+      "gloss": "العين"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "يُتبارَك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطى"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "من خبزه"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "للفقير"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:06.651514954Z",
+  "model": "glm-5.2"
+}

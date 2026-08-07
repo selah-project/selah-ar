@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 116,
+  "translation": "حَنّانٌ يهوه وصِدِيقٌ، وإلوهيمُنا راحِمٌ.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "حَنّانٌ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "وصِدِيقٌ"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "وإلوهيمُنا"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "راحِمٌ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:43.748051637Z",
+  "model": "glm-5.2"
+}

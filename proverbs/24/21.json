@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "اتَّقِ ⟨את⟩ يهوه يا ابني والملك؛ مع المتغيّرين لا تختلط.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "اتَّقِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "يا ابني"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "والملك"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "المتغيّرين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "تختلط"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:38.393755767Z",
+  "model": "glm-5.2"
+}

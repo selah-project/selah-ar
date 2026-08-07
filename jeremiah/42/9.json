@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 42:9",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "وقال لهم: «هكذا قال يهوه إلهوه إسرايل، الذين أرسلتموني ⟨את⟩ إليه لإسقاط تضرّعكم أمامه:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلهوه"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرايل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "أرسلتم"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "إليه"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "لإسقاط"
+    },
+    {
+      "surface": "תחנתכם",
+      "gloss": "تضرّعكم"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمامه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:48:32.891139216Z",
+  "model": "glm-5.2"
+}

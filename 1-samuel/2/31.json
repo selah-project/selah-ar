@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "ها أيامٌ آتية وأقطع ⟨את⟩ ذراعك و⟨את⟩ ذراعَ بيت أبيك من أن يكون شيخٌ في بيتك.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيامٌ"
+    },
+    {
+      "surface": "באים",
+      "gloss": "آتية"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "وأقطع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ذراعك"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ذراعك"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ذراع"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ذراعَ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أبيك"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "من أن يكون"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "شيخٌ"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "في بيتك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:21:12.471608171Z",
+  "model": "glm-5.2"
+}

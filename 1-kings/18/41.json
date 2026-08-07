@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 18:41",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وقال ألياهو لآخآب: اصعد، كُل واشرب، لأنّ ⟨هناك⟩ صوت هَدير المطَر.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ألياهو"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "لآخآب"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "اصعد"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "كُل"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "واشرب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "המון",
+      "gloss": "هَدير"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "المطَر"
+    }
+  ],
+  "timestamp": "2026-08-07T01:50:17.035652889Z",
+  "model": "glm-5.2"
+}

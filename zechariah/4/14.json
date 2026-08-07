@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 4:14",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فقال: «هذان هما ابنا اليسهار الواقفان لدى سيد كل الأرض».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هذان"
+    },
+    {
+      "surface": "שני",
+      "gloss": "هما اثنا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ابنا"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "اليسهار"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "الواقفان"
+    },
+    {
+      "surface": "על",
+      "gloss": "لدى"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "سيد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T07:59:09.425884692Z",
+  "model": "glm-5.2"
+}

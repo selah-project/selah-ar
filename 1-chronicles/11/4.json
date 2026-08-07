@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 11:4",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وسارَ داويِد وكلُّ يسرايل إلى يروشالايم، هي يبوس، وهناك اليبوسيُّون، سكّانُ الأرض.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "وسارَ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويِد"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلُّ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "يبوس"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "وهناك"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "اليبوسيُّون"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "سكّانُ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرضِ"
+    }
+  ],
+  "timestamp": "2026-08-07T06:14:15.499831218Z",
+  "model": "glm-5.2"
+}

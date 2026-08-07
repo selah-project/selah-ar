@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 5:4",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "فقالت إستير: «إن كان على الملك خيرٌ، فليأتِ الملك وهامان اليوم إلى المأدبة التي أقمتُها له.»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "إستير"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خيرٌ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "فليأتِ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "وهامان"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "المأدبة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "أقمتُها"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T04:54:39.605073610Z",
+  "model": "glm-5.2"
+}

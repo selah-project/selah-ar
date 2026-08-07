@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 2:20",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فقال خذوا لي صَلُوحيّةً جديدة وضَعوا هناك ملحًا، فأخذوها إليه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "خذوا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "צלחית",
+      "gloss": "صَلُوحيّةً"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "جديدة"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "وضَعوا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "ملحًا"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "فأخذوها"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:52:44.985299623Z",
+  "model": "glm-5.2"
+}

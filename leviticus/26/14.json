@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "وإن لا تسمعوا لي ولا تعملون ⟨⟨את⟩⟩ كلّ الوصايا هذه،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "تسمعوا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "تعملون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ الوصايا هذه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "الوصايا"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:40:54.919652158Z",
+  "model": "glm-5.2"
+}

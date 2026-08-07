@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "سمع يهوه تضرّعي؛ يهوه يقبل صلاتي.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "سمع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "تضرّعي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "صلاتي"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "يقبل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:39:36.829907541Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "و⟨تضع⟩ ⟨את⟩ مذبح الذهب للبخور أمام تابوت الشهادة، و⟨تضع⟩ ⟨את⟩ سِتر المدخل للمِشكان.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "و⟨تضع⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مذبح"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "الذهب"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "للبخور"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "الشهادة"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "و⟨تضع⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ستر"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "المدخل"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "للمِشكان"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:18.317647332Z",
+  "model": "glm-5.2"
+}

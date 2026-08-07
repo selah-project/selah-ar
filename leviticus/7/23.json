@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "«كلِّمْ بَني يِسرايلَ قائلًا: كلَّ شَحْمِ ثَورٍ وخَروفٍ ومَعْزٍ لا تأكُلوه.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "كلِّمْ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرايلَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا:"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "شَحْمِ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ثَورٍ"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "وخَروفٍ"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ومَعْزٍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تأكُلوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:10.279666667Z",
+  "model": "glm-5.2"
+}

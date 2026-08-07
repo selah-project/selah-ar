@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "وسَعير مِعزٍ واحد، ⟨لكي⟩ تُكفَّر عنكم.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "وسَعير"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "مِعزٍ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "⟨لكي⟩ تُكفَّر"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "عنكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:42:58.143250114Z",
+  "model": "glm-5.2"
+}

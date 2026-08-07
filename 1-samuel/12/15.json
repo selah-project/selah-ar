@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وإنْ لا تسمعوا لصوت يهوه وتعصوا ⟨את⟩ فم يهوه، فتكون يدُ يهوه فيكم وفي آبائِكم.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإنْ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "تسمعوا"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "لصوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "وتعصوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فم يهوه"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "فتكون"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يدُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "فيكم"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "وفي آبائِكم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:23:05.912499660Z",
+  "model": "glm-5.2"
+}

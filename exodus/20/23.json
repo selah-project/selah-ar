@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "لا تصنعوا معي آلهة فضّة وآلهة ذهب لا تصنعوا لأنفسكم.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "تصنعوا"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "معي"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "آلهة"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضّة"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "وآلهة"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "تصنعوا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لأنفسكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:59.351344886Z",
+  "model": "glm-5.2"
+}

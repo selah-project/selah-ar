@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وطَفَّح ⟨את⟩ البيت بحجر كريم للزينة، والذهب ⟨هو⟩ ذهب فَرايايم.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "وطفّح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "البيت"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "بحجر"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "كريم"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "للزينة"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "والذهب"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهب"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "فَرايايم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:20:49.664569977Z",
+  "model": "glm-5.2"
+}

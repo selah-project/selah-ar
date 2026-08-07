@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 15:14",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "فقال شموئيل: «وما هذا صوتُ الضأنِ في أُذُنَيَّ، وصوتُ البقرِ الذي أنا أسمعُه؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "وما"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "الضأن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "في أُذُنَيَّ"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "وصوت"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "البقر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "أسمعُه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:26:00.147686903Z",
+  "model": "glm-5.2"
+}

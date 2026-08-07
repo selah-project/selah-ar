@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "و⟨את⟩ البحر الواحد، و⟨את⟩ البقر اثنا عَشَر، تحت البحر،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "البحر"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "الواحد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "البقر"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "البقر"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "اثنا"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عَشَر"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    }
+  ],
+  "timestamp": "2026-08-07T01:44:26.289107465Z",
+  "model": "glm-5.2"
+}

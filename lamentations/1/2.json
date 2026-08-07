@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 1:2",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "تبكي تبكي في الليل، ودمعها على خدّها. ليس لها مُعزٍّ من كلِّ مُحبّيها؛ كلُّ رَفِيقاتها غَدَرنَ بها، صَرْنَ لها لأعداء!",
+  "tokens": [
+    {
+      "surface": "בכו",
+      "gloss": "تبكي"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "تبكي"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "في الليل"
+    },
+    {
+      "surface": "ודמעתה",
+      "gloss": "ودمعها"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "לחיה",
+      "gloss": "خدّها"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "مُعزٍّ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كلِّ"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "مُحبّيها"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "רעיה",
+      "gloss": "رفيقاتها"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "غَدَرنَ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "بها"
+    },
+    {
+      "surface": "היו",
+      "gloss": "صَرْنَ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "לאיבים",
+      "gloss": "لأعداء"
+    }
+  ],
+  "timestamp": "2026-08-07T06:10:21.248245629Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "تصنعها بخورًا، مزيجًا عملَ مُعطِّر، مُملَّحًا نقيةً مقدّسًا.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "وتصنع"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "بخورًا"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بخورًا"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "مزيجًا\/تركيبًا"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "مُعطِّر"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "مُملَّحًا"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "نقيّ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدّس"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:19.534887461Z",
+  "model": "glm-5.2"
+}

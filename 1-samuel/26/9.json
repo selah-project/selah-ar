@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 26:9",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "فقال داود لأَفيشاي: لا تُهلِكه، لأنّه من ⟨هو الذي⟩ مدّ يده في ماشيح يهوه و⟨نقا⟩؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "أَفيشاي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשחיתהו",
+      "gloss": "تُهلِكه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "مدّ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "في ماشيح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "و⟨نقا⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T01:30:13.474057840Z",
+  "model": "glm-5.2"
+}

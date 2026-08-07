@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 28:26",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "وتصنع حلقتين من ذهب وتضع ⟨את⟩ها على طرفَيِ الحوشن على شَفتِه التي إلى ناحية الأَيفود من الداخل",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "وتصنع"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "اثنَتَين"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "حلقات"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "من ذهب"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "وتضع"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ها",
+      "marks": "الحلقتين"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שני",
+      "gloss": "اثنَي"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "طرفَي"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "الحوشن"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "شَفتِه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ناحية"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "الأَيفود"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "من الداخل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:09:39.612059798Z",
+  "model": "glm-5.2"
+}

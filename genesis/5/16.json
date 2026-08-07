@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 5:16",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "و⟨عاش⟩ مهللئيل بعد ولادته ⟨את⟩ يارد ثلاثين سنة وثمانمئة سنة، و⟨وَلَدَ⟩ بنين وبنات",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و⟨عاش⟩"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "مهللئيل"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ولادته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يارد"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "يارد"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ثلاثين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "وثماني"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و⟨وَلَدَ⟩"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بنين"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "وبنات"
+    }
+  ],
+  "timestamp": "2026-08-06T23:36:09.795209230Z",
+  "model": "glm-5.2"
+}

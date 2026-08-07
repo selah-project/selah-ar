@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "وقال يهوه لموشيه: «من أخطأ إليّ أمحو⟨ه⟩ من سِفري».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "أخطأ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "أمحو⟨ه⟩"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "من سِفري"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:22.655524282Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 68,
+  "translation": "من هَيكَلِكَ على يروشالايم، لكَ يُقَدِّمُ ملوكٌ هدايا",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "من هَيكَلِكَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكَ"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "يُقَدِّمُ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ملوكٌ"
+    },
+    {
+      "surface": "שי",
+      "gloss": "هدايا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:58:32.757098265Z",
+  "model": "glm-5.2"
+}

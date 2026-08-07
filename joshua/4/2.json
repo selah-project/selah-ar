@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "«خذوا لأنفسكم من الشعب اثني عشر رجلًا، رجلًا واحدًا رجلًا واحدًا من سبط:»",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "خذوا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لأنفسكم"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "اثني"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "رجلًا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلًا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلًا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "من سبط"
+    }
+  ],
+  "timestamp": "2026-08-07T01:03:42.828866922Z",
+  "model": "glm-5.2"
+}

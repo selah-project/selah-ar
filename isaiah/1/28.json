@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 1:28",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "و⟨انكسارُ⟩ المتمرّدين والخطأة معًا، وتاركو يهوه يُفنَون.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "و⟨انكسارُ⟩"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "المتمرّدين"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "والخطأة"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "معًا"
+    },
+    {
+      "surface": "ועזבי",
+      "gloss": "وتاركو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "يُفنَون"
+    }
+  ],
+  "timestamp": "2026-08-07T02:03:49.448318036Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 30:28",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وقال: «حدّد لي أجرتك عليّ وأُعطيك».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "حدّد"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "أجرتك"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "وأُعطيك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:45:11.202545989Z",
+  "model": "glm-5.2"
+}

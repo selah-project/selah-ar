@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 4:15",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وعيلي ابن ثمان وتسعين سنة، وعيناه ⟨كانتا⟩ خامدتين، فلم يستطع أن يرى.",
+  "tokens": [
+    {
+      "surface": "ועלי",
+      "gloss": "وعيلي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "تسعين"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "وثمان"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "وعيناه"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "خامدتين"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "يستطع"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "أن يرى"
+    }
+  ],
+  "timestamp": "2026-08-07T01:22:23.444616528Z",
+  "model": "glm-5.2"
+}

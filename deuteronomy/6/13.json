@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "⟨את⟩ يهوه إلهكَ تتّقِ و⟨את⟩هُ تعبُد، وباسمِهِ تحلِف.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلهكَ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "تتّقِ"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "و⟨את⟩هُ",
+      "marks": "ضمير المفعول به العائد إلى يهوه"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "تعبُد"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "وباسمِهِ"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "تحلِف"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:30.218415613Z",
+  "model": "glm-5.2"
+}

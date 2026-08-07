@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 34:29",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "و⟨את⟩ كلّ ثروتهم و⟨את⟩ كلّ أطفالهم و⟨את⟩ نسائهم سبَوْا ونهبوا، و⟨את⟩ كلّ ما في البيت.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ثروتهم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "أطفالهم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "نسائهم"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "نسائهم"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "سبَوْا"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "ونهبوا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في البيت"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:25.793389882Z",
+  "model": "glm-5.2"
+}

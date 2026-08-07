@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 7:26",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "فلم يسمعوا إليَّ ولم يميلوا ⟨את⟩ أذنِهم، وأقسوا ⟨את⟩ قفاهم، أَساؤوا أكثر من آبائهم.",
+  "tokens": [
+    {
+      "surface": "ולוא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سمعوا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليَّ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "مالوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أذنهم"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "أذنِهم"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "وأقسوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قفاهم"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "قفا"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "أساؤوا"
+    },
+    {
+      "surface": "מאבותם",
+      "gloss": "أكثر من آبائهم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:32:17.031804145Z",
+  "model": "glm-5.2"
+}

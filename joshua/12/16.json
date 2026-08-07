@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "ملِك مَقّيدا واحدًا، ملِك بَيت-إيل واحدًا",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ملِك"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "مَقّيدا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملِك"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بَيت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-إيل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:05:58.206734281Z",
+  "model": "glm-5.2"
+}

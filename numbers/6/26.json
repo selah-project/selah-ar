@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "يرفع يهوه وجهه ⟨نحوك⟩ ويضع لك شالوم",
+  "tokens": [
+    {
+      "surface": "יִשָּׂ֨א",
+      "gloss": "يرفع"
+    },
+    {
+      "surface": "יְהוָ֤ה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "פָּנָיו֙",
+      "gloss": "وجهه"
+    },
+    {
+      "surface": "אֵלֶ֔יךָ",
+      "gloss": "⟨نحوك⟩"
+    },
+    {
+      "surface": "וְיָשֵׂ֥ם",
+      "gloss": "ويضع"
+    },
+    {
+      "surface": "לְךָ֖",
+      "gloss": "لك"
+    },
+    {
+      "surface": "שָׁלֽוֹם",
+      "gloss": "شالوم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:29:53.329246186Z",
+  "model": "glm-5.2"
+}

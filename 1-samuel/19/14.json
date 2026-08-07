@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "فأرسل شاؤول رسلًا لأخذ ⟨את⟩ دافد، فقالت: «إنه مريض.»",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "رسلًا"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "لأخذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دافد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "دافد"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "مريض"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "إنه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:27:25.088185128Z",
+  "model": "glm-5.2"
+}

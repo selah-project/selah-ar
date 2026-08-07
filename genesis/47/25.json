@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 47:25",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 47,
+  "translation": "وقالوا: «أحييتنا! نجد حِنًا في عينيْ سيّدي، و⟨كنا⟩ عبيدًا لفرعون».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقالوا"
+    },
+    {
+      "surface": "החיתנו",
+      "gloss": "أحييتنا"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "نجد"
+    },
+    {
+      "surface": "חן",
+      "gloss": "حِنًا"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عينيْ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سيّدي"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "و⟨كنا⟩"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "عبيدًا"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "لفرعون"
+    }
+  ],
+  "timestamp": "2026-08-07T07:00:34.029362730Z",
+  "model": "glm-5.2"
+}

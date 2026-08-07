@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 32:23",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "وإذ لا تفعلون هكذا، فهوذا قد أذنبتم إلى يهوه، واعلموا خطيّتكم التي تجد ⟨את⟩كم.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "تفعلون"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "أذنبتم"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "إلى يهوه"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "واعلموا"
+    },
+    {
+      "surface": "חטאתכם",
+      "gloss": "خطيّتكم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "تجد"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "كم"
+    }
+  ],
+  "timestamp": "2026-08-07T07:13:23.738666802Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 28:16",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "لذلك هكذا قال يهوه: ها أنا أُبعدك عن وجه الأرض. هذه السنة أنت تموت، لأنك سُرّةً تكلّمت إلى يهوه.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ها أنا"
+    },
+    {
+      "surface": "משלחך",
+      "gloss": "أُبعدك"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "عن"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "هذه السنة"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "מת",
+      "gloss": "تموت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنك"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "سُرّة"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "تكلّمت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:41:25.941139897Z",
+  "model": "glm-5.2"
+}

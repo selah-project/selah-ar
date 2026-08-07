@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 22:21",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وخرج الروَح ووقف أمام يهوه وقال: «أنا أُفتنه»، فقال يهوه له: «بماذا؟»",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "الروَح"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ووقف"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "أُفتنه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "במה",
+      "gloss": "بماذا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:52:12.944369541Z",
+  "model": "glm-5.2"
+}

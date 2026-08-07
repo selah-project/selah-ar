@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "أُحصي كلَّ عظامي، هم يحدّقون ويرقبونني.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "أُحصي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "عظامي"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "يحدّقون"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ويرقبون"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:45:02.593317430Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 84,
+  "translation": "ما أحبّها مَساكِنُكَ، يهوه صَباؤوت",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "أحبّها"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "مساكنك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤوت"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:34.562645425Z",
+  "model": "glm-5.2"
+}

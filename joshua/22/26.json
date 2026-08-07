@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "فقلنا: لنصنعْ الآن لأنفسنا بأن نبني ⟨את⟩ المذبح، لا لعولاه ولا لذبح.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "فقلنا"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "لنصنعْ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لأنفسنا"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "بأن نبني"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المذبح"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "لعولاه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "لذبح"
+    }
+  ],
+  "timestamp": "2026-08-07T05:44:26.795739803Z",
+  "model": "glm-5.2"
+}

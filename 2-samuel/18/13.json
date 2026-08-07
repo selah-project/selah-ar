@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 18:13",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "أو فعلتُ بنفسي شَقَرًا، وكلَّ أمرٍ لا يُخفى من الملك، وأنت تقف مقابلًا.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "فعلتُ"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "بنفسي"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "شَقَرًا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلَّ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "أمرٍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יכחד",
+      "gloss": "يُخفى"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "وأنت"
+    },
+    {
+      "surface": "תתיצב",
+      "gloss": "تقف"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "مقابلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:39:45.520692984Z",
+  "model": "glm-5.2"
+}

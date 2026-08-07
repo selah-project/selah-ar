@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 24:38",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "بل إلى بيت أبي تذهبُ، وإلى عشيرتي، فتأخذُ امرأةً لابني.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "بل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨لا⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "تذهبُ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "משפחתי",
+      "gloss": "عشيرتي"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "فتأخذُ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأةً"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لابني"
+    }
+  ],
+  "timestamp": "2026-08-06T23:42:58.576504894Z",
+  "model": "glm-5.2"
+}

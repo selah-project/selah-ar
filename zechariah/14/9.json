@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 14:9",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "و⟨يكون⟩ يهوه لملِكٍ على كلّ الأرض؛ في ذلك اليوم يكون يهوه واحدًا واسمه واحدًا.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و⟨يكون⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "لملِكٍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "واسمه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:39:08.291018560Z",
+  "model": "glm-5.2"
+}

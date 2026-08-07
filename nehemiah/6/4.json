@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فأرسلوا إليَّ كهذا الكلام أربعَ مرّات، فردَدتُهم ⟨את⟩ كهذا الكلام.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "فأرسلوا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليَّ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "كهذا"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "الكلام"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "أربعَ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "مرّات"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "فردَدتُهم"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "كهذا الكلام"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "كهذا"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "الكلام"
+    }
+  ],
+  "timestamp": "2026-08-07T05:05:35.496022241Z",
+  "model": "glm-5.2"
+}

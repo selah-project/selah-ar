@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "«وهذه أسماء الرجال الذين يقفون معكم: لرأوفين، إيليصور بن شديأور.»",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "وهذه"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "أسماء"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "الرجال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "يقفون"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "معكم"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "لرأوفين"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "إيليصور"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "شديأور"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:28.208563452Z",
+  "model": "glm-5.2"
+}

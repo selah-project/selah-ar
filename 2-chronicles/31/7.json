@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 31:7",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "في الشهر الثالث بدأوا الأكوامَ تأسيسًا، وفي الشهر السابع أتمّوها.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "في الشهرِ"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "الثالث"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "بدأوا"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "الأكوامَ"
+    },
+    {
+      "surface": "ליסוד",
+      "gloss": "تأسيسًا"
+    },
+    {
+      "surface": "ובחדש",
+      "gloss": "وفي الشهرِ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "السابع"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "أتمّوها"
+    }
+  ],
+  "timestamp": "2026-08-07T05:31:15.020548968Z",
+  "model": "glm-5.2"
+}

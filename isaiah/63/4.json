@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 63,
+  "translation": "لأنّ يومَ انتقامٍ في قلبي، وسنةَ غَوئيلي قد أقبلت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يومَ"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "انتقامٍ"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "في قلبي"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "وسنةَ"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "غَوئيلي"
+    },
+    {
+      "surface": "באה",
+      "gloss": "قد أقبلت"
+    }
+  ],
+  "timestamp": "2026-08-07T02:24:48.483830632Z",
+  "model": "glm-5.2"
+}

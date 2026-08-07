@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 22:26",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وقال ملك يسرائيل: «خُذ ⟨את⟩ ميكايوهو وأعِده إلى آمون رئيس المدينة، وإلى يوآش ابن الملك.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "קח",
+      "gloss": "خُذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ميكايوهو"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "ميكايوهو"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "وأعِده"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمون"
+    },
+    {
+      "surface": "שר",
+      "gloss": "رئيس"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "يوآش"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:52:18.831939178Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 12:20",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "والمدن المأهولة تَخرب، والأرض خرابًا تكون، وتعرفون أنّي أنا يهوه.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "والمدن"
+    },
+    {
+      "surface": "הנושבות",
+      "gloss": "المأهولة"
+    },
+    {
+      "surface": "תחרבנה",
+      "gloss": "تَخرب"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "والأرض"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "خرابًا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "وتعرفون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:57:33.466054048Z",
+  "model": "glm-5.2"
+}

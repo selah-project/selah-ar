@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 8:15",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وملك داوِد على كلِّ إسرائيل، وكان داوِد يصنع مِشپاطًا وصِدِقًة لكلِّ شعبه.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "وملك"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "يصنع"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "مِشپاطًا"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "وصِدِقًة"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لكلِّ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:13.797729239Z",
+  "model": "glm-5.2"
+}

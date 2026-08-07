@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وانظر واصنع على مثالها الذي أنت تُرى في الجبل",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "وانظر"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "واصنع"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "على مثالها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "تُرى"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "في الجبل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:04.566634514Z",
+  "model": "glm-5.2"
+}

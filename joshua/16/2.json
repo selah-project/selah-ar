@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 16:2",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "و⟨كان⟩ يخرجُ مِن بيت إيل لُوزةً، ويعبرُ إلى حدود الأرَكيّ عند عَتاروت",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "مِن بيت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "لُوزة"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "ويعبر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "حدود"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "الأرَكيّ"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "عَتاروت"
+    }
+  ],
+  "timestamp": "2026-08-07T01:09:34.760244454Z",
+  "model": "glm-5.2"
+}

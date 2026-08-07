@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "فقال ييهودا لأونان: «ادخل على امرأة أخيك ويابِم ⟨את⟩ها، وأقم نسلًا لأخيك».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ييهودا"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "لأونان"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ادخل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "على"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "أخيك"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "ويابِم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ها",
+      "marks": "وإقامة النسل لأخيه"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "وأقم"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نسلًا"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "لأخيك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:31.294039833Z",
+  "model": "glm-5.2"
+}

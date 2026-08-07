@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وتكلّم يهوه مع أهارون قائلًا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وتكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:50.452138289Z",
+  "model": "glm-5.2"
+}

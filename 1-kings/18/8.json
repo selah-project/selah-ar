@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فقال له: «أنا هو. اذهب، قل لسيّدك: هوذا أليياهو».",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "له"
+    },
+    {
+      "surface": "אָנִי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "לֵךְ",
+      "gloss": "اذهب"
+    },
+    {
+      "surface": "אֱמֹר",
+      "gloss": "قل"
+    },
+    {
+      "surface": "לַאדֹנֶיךָ",
+      "gloss": "لسيّدك"
+    },
+    {
+      "surface": "הִנֵּה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "אֵלִיָּהוּ",
+      "gloss": "أليياهو"
+    }
+  ],
+  "timestamp": "2026-08-07T07:32:53.599707207Z",
+  "model": "glm-5.2"
+}

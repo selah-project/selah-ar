@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "ورجلٌ إن يكونُ صادِقًا ويفعل مِشپاط ⟨و⟩صَداقة،",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ورجل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صادِقًا"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ويفعل"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "مِشپاط"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "وصَداقة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:00:56.142944643Z",
+  "model": "glm-5.2"
+}

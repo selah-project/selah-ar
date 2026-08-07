@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 14:16",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "«مِن عجز يهوه عن إدخال ⟨את⟩ الشعب هذا إلى الأرض التي أقسم لهم، ذبحهم في البرّيّة.»",
+  "tokens": [
+    {
+      "surface": "מבלתי",
+      "gloss": "مِن"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "عجز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "عن إدخال"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "أقسم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "ذبحهم"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في البرّيّة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:35:53.326730202Z",
+  "model": "glm-5.2"
+}

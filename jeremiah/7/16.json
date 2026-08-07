@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 7:16",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وأمّا أنت فلا تُصلِّ لأجل هذا الشعب، ولا تحمل عندهم ⟨رنّةً⟩ ولا صلاةً، ولا تلحّ عليّ، لأنّي لستُ أسمعُك.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "وأمّا أنت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "تُصلِّ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "لأجل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "هذا الشعب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "تحمل"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "عندهم"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "رنّةً"
+    },
+    {
+      "surface": "ותפלה",
+      "gloss": "وصلاةً"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "تلحّ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "عليّ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "لستُ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "أسمعُ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ك"
+    }
+  ],
+  "timestamp": "2026-08-07T02:31:45.683786357Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zephaniah 1:10",
+  "book": "zephaniah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "و⟨يكون⟩ في اليوم ذاك — نُطق يهوه — صوتُ صراخٍ من باب السمك، وعويلٌ من المِشناه، وكسرٌ عظيمٌ من التلال.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و⟨يكون⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في اليوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذاك"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نُطق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوتُ"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "صراخٍ"
+    },
+    {
+      "surface": "משער",
+      "gloss": "من باب"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "السمك"
+    },
+    {
+      "surface": "ויללה",
+      "gloss": "وعويلٌ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "المِشناه"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "وكسرٌ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيمٌ"
+    },
+    {
+      "surface": "מהגבעות",
+      "gloss": "من التلال"
+    }
+  ],
+  "timestamp": "2026-08-07T03:33:26.863326147Z",
+  "model": "glm-5.2"
+}

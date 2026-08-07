@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 28:6",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "وقال لي: شلومو ابنك هو يبني بيتي و⟨دوراتي⟩، لأنّي اخترته لي ⟨ابنًا⟩، وأنا أكون له ⟨أبًا⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ابنك"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "يبني"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "بيتي"
+    },
+    {
+      "surface": "וחצרותי",
+      "gloss": "و⟨دوراتي⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "اخترتُ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابن"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "أكون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "لأب"
+    }
+  ],
+  "timestamp": "2026-08-07T05:19:57.843410568Z",
+  "model": "glm-5.2"
+}

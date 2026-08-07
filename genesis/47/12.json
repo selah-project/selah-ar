@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 47,
+  "translation": "وعال يوسف ⟨את⟩ أباه و⟨את⟩ إخوته و⟨את⟩ كل بيت أبيه خبزًا على قدر الطّفل.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "وعال"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أباه"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أباه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "إخوته"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "إخوته"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "على قدر"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "الطّفل"
+    }
+  ],
+  "timestamp": "2026-08-06T23:57:01.912778861Z",
+  "model": "glm-5.2"
+}

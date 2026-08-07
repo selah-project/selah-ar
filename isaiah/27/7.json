@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "هل كضرب ضاربه ضربه؟ أم كقتل قتلاه قُتِل؟",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "هل كضرب"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "ضاربه"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "ضربه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أم"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "كقتل"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "قتلاه"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "قُتِل"
+    }
+  ],
+  "timestamp": "2026-08-07T02:11:59.225855727Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 28:10",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "فحلف لها شاؤول بيهوه قائلًا: حيّ يهوه، لا يصيبك ذنب في هذا الأمر.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "فحلف"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "بيهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "חי",
+      "gloss": "حيّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יקרך",
+      "gloss": "يصيبك"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ذنب"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "في الأمر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:30:32.968047324Z",
+  "model": "glm-5.2"
+}

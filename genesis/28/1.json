@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "ودعا يِصحاق يعقوف وبارك ⟨את⟩ه وأوصاه وقال له لا تأخذ امرأةً من بنات كنعان",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يِصحاق"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "وبارك"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "يعقوف"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "وأوصاه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "تأخذ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "من بنات"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كنعان"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:37.702634266Z",
+  "model": "glm-5.2"
+}

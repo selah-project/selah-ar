@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 2:25",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فتجمَّع بنو بنيامين وراء أفنير، فصاروا لعُصبةٍ واحدة، ووقفوا على رأس تلٍّ واحد.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "فتجمَّعوا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنيامين"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وراء"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "أفنير"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "فصاروا"
+    },
+    {
+      "surface": "לאגדה",
+      "gloss": "لعُصبة"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "واحدة"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ووقفوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأس"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "تل"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "واحد"
+    }
+  ],
+  "timestamp": "2026-08-07T01:31:52.351977264Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 17:6",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "ويرشّ الكوهين ⟨את⟩ الدم على مذبح يهوه فتحةَ خيمة الموعد، ويُوقِد الشحمَ رائحةَ نيوح ليهوه.",
+  "tokens": [
+    {
+      "surface": "וזרק",
+      "gloss": "ويرشّ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الدم"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "الدم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "فتحة"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ويُوقِد"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "الشحم"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "رائحة"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "نيوح"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:00.767447388Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 49:19",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "جادٌ: جيشٌ يزحف عليه، وهو يزحف ⟨على⟩ عقب.",
+  "tokens": [
+    {
+      "surface": "גד",
+      "gloss": "جادٌ"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "جيشٌ"
+    },
+    {
+      "surface": "יגודנו",
+      "gloss": "يزحف عليه"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "יגד",
+      "gloss": "يزحف"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨على⟩ عقب"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:29.501880842Z",
+  "model": "glm-5.2"
+}

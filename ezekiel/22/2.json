@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وأنتَ يا ابن آدم، أتحكمُ؟ أتحكمُ ⟨את⟩ مدينة الدماء؟ وتُعَرِّفُها ⟨את⟩ كلّ رجاساتها؟",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "وأنتَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "أتحكمُ؟"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "أتحكمُ؟"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مدينة"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "الدماء"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "وتُعَرِّفُها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "رجاساتها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:02:49.905602131Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "أبطلت طهارته، وكرسيّه إلى الأرض قذفتَه.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "أبطلتَ"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "طهارتَه"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "وكرسيّه"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "إلى الأرض"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "قذفتَه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:18.616515163Z",
+  "model": "glm-5.2"
+}

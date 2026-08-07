@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "و⟨كان⟩ في عَظْم هذا اليوم نفسِه أخرج يهوه ⟨את⟩ بني يسرايل من أرض مصرايم على ألواحهم.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "في عَظْم"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "أخرج"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بني يسرايل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "من أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "ألواحهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:03:06.326756977Z",
+  "model": "glm-5.2"
+}

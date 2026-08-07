@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 6:3",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فاسمع يا يسرائيل واحفظ لتعمل، ⟨لكي⟩ يَحسُنَ لك ولكي تكثُر جدًّا، كما تكلّم يهوه إله آبائك إليك: أرض تفيض لبنًا وعسلاً",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "فاسمع"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يا يسرائيل"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "واحفظ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "لتعمل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "يَحسُن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ولكي"
+    },
+    {
+      "surface": "תרבון",
+      "gloss": "تكثُر"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إله"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "آبائك"
+    },
+    {
+      "surface": "לך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "تفيض"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "لبنًا"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "وعسلاً"
+    }
+  ],
+  "timestamp": "2026-08-07T00:53:04.964887773Z",
+  "model": "glm-5.2"
+}

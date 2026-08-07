@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فركض إلى عيلي وقال: «ها أنا، لأنّك دعوتني.» فقال: «لم أدعِ. عُد ونَم.» فمضى ونام.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "فركض"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عيلي"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ها أنا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "دعوت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ني"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "أدعِ"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "عُد"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "نَم"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "فمضى"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "ونام"
+    }
+  ],
+  "timestamp": "2026-08-07T01:21:41.531093899Z",
+  "model": "glm-5.2"
+}

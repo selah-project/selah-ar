@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 3:17",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "ابن آدم، رقيبًا أُقيمتك لبيت يسراائيل، فتسمع من فمي كلمةً وتُحذِّر ⟨את⟩هم من جهتي.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "رقيبًا"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "أُقيمتك"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "لبيت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسراائيل"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "فتسمع"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "من فمي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمةً"
+    },
+    {
+      "surface": "והזהרת",
+      "gloss": "وتُحذِّر"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "هم"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "من جهتي"
+    }
+  ],
+  "timestamp": "2026-08-07T02:56:04.468263218Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 5:22",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "فإنّك إنْ قد رذلتنا رذْلًا، غضبت علينا جدًّا",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "فإنّك"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "قد رذلت"
+    },
+    {
+      "surface": "מאסתנו",
+      "gloss": "رذْلًا \/ إيّانا"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "غضبت"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "علينا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى \/ مدى"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:50:24.440870662Z",
+  "model": "glm-5.2"
+}

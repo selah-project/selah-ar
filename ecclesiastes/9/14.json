@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "مدينةٌ صغيرة ورجالٌ فيها قليلون، و⟨جاء⟩ إليها ملكٌ عظيمٌ وحاصَرَ ⟨את⟩ها، وبنى عليها حُصونًا عظيمة.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "صغيرة"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "ورجال"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "قليلون"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "و⟨جاء⟩"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "إليها"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيم"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "وحاصَر"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "مدينة صغيرة"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "وبنى"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "عليها"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "حُصونًا"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "عظيمة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:54.678596386Z",
+  "model": "glm-5.2"
+}

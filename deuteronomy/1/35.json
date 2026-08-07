@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 1:35",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "«إن كان أحدٌ من رجالِ هذا الجيل الشرير يرى ⟨את⟩ الأرض الطيبة التي حلفتُ لأعطيها لآبائكم —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "يرى"
+    },
+    {
+      "surface": "איש",
+      "gloss": "أحد"
+    },
+    {
+      "surface": "באנשים",
+      "gloss": "من رجال"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "الجيل"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "الشرير"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض الطيبة"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "الطيبة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "حلفتُ"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "لأعطيها"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "لآبائكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:48:05.283637026Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "بنو شِم: عيلام وأَشُّور وأَرفَكْشاد ولود وأرام.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شِم"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عيلام"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "وأَشُّور"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "وأَرفَكْشاد"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "ولود"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "وأرام"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:38.885503583Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 21:10",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وارتحل بنو يسرائيل، ونزلوا في أُوبوت.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "وارتحل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ونزلوا"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "في أُوبوت"
+    }
+  ],
+  "timestamp": "2026-08-07T00:37:42.004665290Z",
+  "model": "glm-5.2"
+}

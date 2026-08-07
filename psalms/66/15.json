@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 66,
+  "translation": "عولاتِ سمينٍ أُصعِد لك، مع بخور كِباشاتٍ، أُعدّ بقرًا مع تيوس. سِلاه.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "عولاتِ"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "سمينٍ"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "أُصعِد"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بخور"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "كِباشاتٍ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "أُعدّ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "بقرًا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "تيوس"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:47.645696999Z",
+  "model": "glm-5.2"
+}

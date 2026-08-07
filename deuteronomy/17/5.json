@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "«تُخرِج ⟨את⟩ الرجل ذاك أو ⟨את⟩ المرأة ذاك التي صنعت ⟨את⟩ الأمر الرديء هذا إلى أبوابك، ⟨את⟩ الرجل أو ⟨את⟩ المرأة، وترجمهم بالحجارة فيموتوا.»",
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "فتُخرِج"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الرجل"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذاك"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المرأة"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "المرأة"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "تلك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي\/التي"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "صنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأمر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "الرديء"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "أبوابك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الرجل"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المرأة"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "المرأة"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "وترجمهم"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "بالحجارة"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "فيموتوا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:49.552087975Z",
+  "model": "glm-5.2"
+}

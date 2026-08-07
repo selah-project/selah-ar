@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فقال كلّ القهال أن يُفعَل كذلك، لأنّ هادّوار مستقيم في أعين كلّ هعام.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "الجماعة"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "أن يُفعَل"
+    },
+    {
+      "surface": "כן",
+      "gloss": "كذلك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "مستقيم"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في أعين"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:52.300897895Z",
+  "model": "glm-5.2"
+}

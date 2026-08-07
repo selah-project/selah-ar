@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "لا تصعدوا، لأنه ليس يهوه في وسطكم، ولا تُهزموا أمام أعدائكم.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "تصعدوا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "في وسطكم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "تُهزموا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "أعدائكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:35:51.919306130Z",
+  "model": "glm-5.2"
+}

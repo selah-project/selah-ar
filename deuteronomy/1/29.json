@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فقلتُ إليكم: لا ترهبوهنّ ولا تخافوا منهم.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "وقلتُ"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "إليكم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "ترهبوهنّ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "تخافوا"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "منهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:44.239563029Z",
+  "model": "glm-5.2"
+}

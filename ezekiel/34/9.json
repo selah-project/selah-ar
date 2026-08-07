@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "لِذلك أَيُّها الرُّعاة اسمَعوا كلمة يهوه",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "الرُّعاة"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "اسمعوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:09:01.899505114Z",
+  "model": "glm-5.2"
+}

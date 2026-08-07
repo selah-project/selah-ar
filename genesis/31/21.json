@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 31:21",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "فهرب هو وكل ما له، وقام وعبر ⟨את⟩ النهر، ووجّه ⟨את⟩ وجهه جبل الجلعاد.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "فهرب"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "وقام"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "وعبر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "النهر"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "النهر"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ووجّه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وجهه"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "وجهه"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "الجلعاد"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:34.475241145Z",
+  "model": "glm-5.2"
+}

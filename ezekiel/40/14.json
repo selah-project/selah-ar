@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 40:14",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "و⟨صنع⟩ ⟨את⟩ الأعمدة ستّين ذراعًا، وإلى عمود دار البوّابة، مُحيطًا مُحيطًا.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و⟨صنع⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأعمدة"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "الأعمدة"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ستّين"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ذراعًا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "איל",
+      "gloss": "عمود"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "الدار"
+    },
+    {
+      "surface": "השער",
+      "gloss": "البوّابة"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "مُحيطًا"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "مُحيطًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:15:24.112261307Z",
+  "model": "glm-5.2"
+}

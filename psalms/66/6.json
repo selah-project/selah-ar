@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 66,
+  "translation": "حوّل يَمًّا إلى يابسة، بالنهر يعبرون بِرِجْل، هناك نَفرَح به.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "حوّل"
+    },
+    {
+      "surface": "ים",
+      "gloss": "يَمًّا"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "إلى يابسة"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "بالنهر"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "يعبرون"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "بِرِجْل"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "نَفرَح"
+    },
+    {
+      "surface": "בו",
+      "gloss": "به"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:59.044163880Z",
+  "model": "glm-5.2"
+}

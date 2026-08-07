@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وتُغلق الأبواب في السوق حين يخفض صوت الطاحنة، ويُستيقظ لصوت الطائر، وتنحني كل بنات الغناء.",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "وتُغلق"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "الأبواب"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "في السوق"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "حين يخفض"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "الطاحنة"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "ويُستيقظ"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "لصوت"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "الطائر"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "وتنحني"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "بنات"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "الغناء"
+    }
+  ],
+  "timestamp": "2026-08-07T04:53:29.637329692Z",
+  "model": "glm-5.2"
+}

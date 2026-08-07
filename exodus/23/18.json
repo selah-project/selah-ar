@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "لا تذبح على خَمِيلٍ دمَ ذبْحي، ولا يَبيتُ شحمُ عيدي إلى الصباح.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "تذبح"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "خمير"
+    },
+    {
+      "surface": "דם",
+      "gloss": "دم"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ذبحي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "يبيت"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "شحم"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "عيدي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "الصباح"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:51.487479900Z",
+  "model": "glm-5.2"
+}

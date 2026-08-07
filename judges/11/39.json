@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "judges 11:39",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨كان⟩ من نهاية شهرين، فرجعت إلى أبيها، ففعل لها ⟨את⟩ نذره الذي نذره. وهي لم تعرف رجلاً. فصارت فريضةً في يسرائيل.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "من نهاية"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "اثنين"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "شهرين"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "فرجعت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "أبيها"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ففعل"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "«نذره»"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "نذره"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذره"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "وهي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "تعرف"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلاً"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "فصارت"
+    },
+    {
+      "surface": "חק",
+      "gloss": "فريضةً"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "في يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:16:51.944247844Z",
+  "model": "glm-5.2"
+}

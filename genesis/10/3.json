@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وبنو جومر: أَشكُناز وريفَت وتوجَرماه.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "وبنو"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "جومر"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "أَشكُناز"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "ريفَت"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "وتوجَرماه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:15.949943211Z",
+  "model": "glm-5.2"
+}

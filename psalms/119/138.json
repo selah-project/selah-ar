@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 138,
+  "ref": "psalms 119:138",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "وصَيتَ صِدِقًا ⟨في⟩ عِدوتيك، وإيمانًا كثيرًا.",
+  "tokens": [
+    {
+      "surface": "צוית",
+      "gloss": "وصَيتَ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "صِدِقًا"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "عِدوتيك"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "وإيمانًا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "كثيرًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:49.998098214Z",
+  "model": "glm-5.2"
+}

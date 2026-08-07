@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "أبناءَ رجال، حتّى متى مجدي ⟨يعود⟩ للعار؟ تحبّون الباطل، تطلبون الكذب. سِلاه",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "أبناءَ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتّى"
+    },
+    {
+      "surface": "מה",
+      "gloss": "متى"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "مجدي"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "للعار"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "تحبّون"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "الباطل"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "تطلبون"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "الكذب"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:40:33.423305931Z",
+  "model": "glm-5.2"
+}

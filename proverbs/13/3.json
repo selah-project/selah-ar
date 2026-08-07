@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "حارِسُ فمه يحفظُ نَفْسَه، وفاتحُ شفتَيه فَناءٌ له.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "حارِس"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "فمه"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "يحفظ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نَفْسَه"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "فاتح"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "شفتَيه"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "فَناء"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:45.084645946Z",
+  "model": "glm-5.2"
+}

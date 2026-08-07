@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨عاش⟩ رَعو بعد ولادته ⟨את⟩ سروج مئتين وسبع سنين، وولد بنين وبنات.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و⟨عاش⟩"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "رَعو"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ولادته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سروج"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "سروج"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبع"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنين"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ومئتين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "وولد"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بنين"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "وبنات"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:02.479689156Z",
+  "model": "glm-5.2"
+}

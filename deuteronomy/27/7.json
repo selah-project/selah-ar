@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 27:7",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وتذبح شَلاميم وتأكل هناك، وتفرح أمام يهوه إلوهيمك،",
+  "tokens": [
+    {
+      "surface": "וזבחת",
+      "gloss": "وتذبح"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "شَلاميم"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "وتأكل"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "وتفرح"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:25.086083032Z",
+  "model": "glm-5.2"
+}

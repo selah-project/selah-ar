@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "لأنّ ما هو زيادةٌ للحكيم على الجاهل؟ ما للفقير يعرِف ⟨كيف⟩ يسير أمام الأحياء؟",
+  "tokens": [
+    {
+      "surface": "כִּ֛י",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יּוֹתֵ֥ר",
+      "gloss": "زيادة"
+    },
+    {
+      "surface": "לֶחָכָ֖ם",
+      "gloss": "للحكيم"
+    },
+    {
+      "surface": "מִֽן",
+      "gloss": "على"
+    },
+    {
+      "surface": "הַכְּסִ֑יל",
+      "gloss": "الجاهل"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לֶּעָנִ֣י",
+      "gloss": "للفقير"
+    },
+    {
+      "surface": "יוֹדֵ֔עַ",
+      "gloss": "يعرف"
+    },
+    {
+      "surface": "לַהֲלֹ֖ךְ",
+      "gloss": "يسير"
+    },
+    {
+      "surface": "נֶ֥גֶד",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "הַחַיִּֽים",
+      "gloss": "الأحياء"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:25.428088719Z",
+  "model": "glm-5.2"
+}

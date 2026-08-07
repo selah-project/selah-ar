@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 8:5",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وساحاتُ المدينة تمتلئُ صبيانًا وصبيّاتٍ يلعبونَ في ساحاتها».",
+  "tokens": [
+    {
+      "surface": "ורחבות",
+      "gloss": "وساحات"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "تمتلئ"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "صبيان"
+    },
+    {
+      "surface": "וילדות",
+      "gloss": "وصبيّات"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "يلعبون"
+    },
+    {
+      "surface": "ברחבתיה",
+      "gloss": "في ساحاتها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:38:16.198997533Z",
+  "model": "glm-5.2"
+}

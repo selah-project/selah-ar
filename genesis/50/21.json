@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "وَالآنَ لا تخافوا. أنا أُعولُكم و⟨את⟩ طَفلَكم.» فعزّاهم وتكلّم على قلبهم.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "تخافوا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "أُعولُ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "إيّاكم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "طفلكم"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "طَفلَكم"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "فعزّاهم"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "إيّاهم"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "وتكلّم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "قلبهم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:12.576719986Z",
+  "model": "glm-5.2"
+}

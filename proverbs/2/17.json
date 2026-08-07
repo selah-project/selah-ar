@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 2:17",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "التي تترك أليف شبابها، و⟨את⟩ بريت إلوهيها تنساها.",
+  "tokens": [
+    {
+      "surface": "העזבת",
+      "gloss": "التي تترك"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "أليف"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "شبابها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨و⟩⟨את⟩",
+      "marks": "بريت"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريت"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "إلوهيها"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "تنساها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:21:24.934482161Z",
+  "model": "glm-5.2"
+}

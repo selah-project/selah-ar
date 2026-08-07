@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "genesis 24:58",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فنادوا رِفقَة وقالوا لها: «أتمشين مع هذا الرجل؟» فقالت: «أمشي.»",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "فنادوا"
+    },
+    {
+      "surface": "לרבקה",
+      "gloss": "لرفقة"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقالوا"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "התלכי",
+      "gloss": "أتمشين"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "أمشي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:42:35.173468035Z",
+  "model": "glm-5.2"
+}

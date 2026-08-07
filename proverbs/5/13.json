@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 5:13",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "ولم أسمع لصوت معلِّمي، وإلى مُعلِّمي لم أُمِلْ أذني،",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "أسمع"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "لصوت"
+    },
+    {
+      "surface": "מורי",
+      "gloss": "معلِّمي"
+    },
+    {
+      "surface": "ולמלמדי",
+      "gloss": "وإلى مُعلِّمي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "הטיתי",
+      "gloss": "أُمِلْ"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "أذني"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:02.016281411Z",
+  "model": "glm-5.2"
+}

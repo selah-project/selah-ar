@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "أيضًا الشمس لم يَرَها، و⟨لم⟩ يَعْرِفها؛ لهذا راحةٌ أكثر من ذاك.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "שֶׁ֥מֶשׁ",
+      "gloss": "الشمس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "רָאָ֖ה",
+      "gloss": "رأى"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "و⟨لم⟩"
+    },
+    {
+      "surface": "יָדָ֑ע",
+      "gloss": "عرَف"
+    },
+    {
+      "surface": "נַ֥חַת",
+      "gloss": "راحة"
+    },
+    {
+      "surface": "לָזֶ֖ה",
+      "gloss": "لهذا"
+    },
+    {
+      "surface": "מִזֶּֽה",
+      "gloss": "من ذاك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:25.427676622Z",
+  "model": "glm-5.2"
+}

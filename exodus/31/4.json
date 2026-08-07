@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "لتدبير تدابير، للصنع في الذهب والفضّة والنحاس:",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "لتدبير"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "تدابير"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "للصنع"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "في الذهب"
+    },
+    {
+      "surface": "وבכסף",
+      "gloss": "والفضّة"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "والنحاس"
+    }
+  ],
+  "timestamp": "2026-08-07T00:09:29.710680322Z",
+  "model": "glm-5.2"
+}

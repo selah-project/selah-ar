@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وإذا ضرب رجل ⟨את⟩ عبده أو ⟨את⟩ أمَته بالعصا فمات تحت يده، انتقاماً يُنتقَم.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ضرب"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عبده"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "عبده"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أمَته"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "أمَته"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "بالعصا"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "فمات"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "انتقاماً"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "يُنتقَم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:34.581001804Z",
+  "model": "glm-5.2"
+}

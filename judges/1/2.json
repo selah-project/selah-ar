@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فقال يهوه: يهودا يصعد. هوذا قد دفعتُ ⟨את⟩ الأرض في يده.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "يصعد"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "دفعتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "في-يده"
+    }
+  ],
+  "timestamp": "2026-08-07T01:12:28.189640643Z",
+  "model": "glm-5.2"
+}

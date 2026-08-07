@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 11:22",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "فقال له فرعون: «بل ماذا تنقص معي حتى إنّك تطلب أن تذهب إلى أرضك؟» فقال: «لا، بل تطلقنّي تطلقةً».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بل"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "تنقص"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "معي"
+    },
+    {
+      "surface": "והנך",
+      "gloss": "حتى إنّك"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "تطلب"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "أن تذهب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "أرضك"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بل"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "تطلق"
+    },
+    {
+      "surface": "תשלחני",
+      "gloss": "تطلقنّي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:47:27.754603901Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 15:7",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "والماسّ لحم الزارّ يغسل ثيابه ويرتسل في الماء ويكون طامسًا حتى المساء.",
+  "tokens": [
+    {
+      "surface": "והנגע",
+      "gloss": "والماسّ"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "لحم"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "الزارّ"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "يغسل"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ثيابه"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ويرتسل"
+    },
+    {
+      "surface": "במים",
+      "gloss": "في الماء"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ويكون طامسًا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "المساء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:22:59.773651089Z",
+  "model": "glm-5.2"
+}

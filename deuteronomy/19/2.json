@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 19:2",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "ثلاث مدن تُفصل لكَ في وسط أرضك التي يهوه إلوهيمك يعطيك لترثها،",
+  "tokens": [
+    {
+      "surface": "שָׁל֥וֹשׁ",
+      "gloss": "ثلاث"
+    },
+    {
+      "surface": "עָרִ֖ים",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "תַּבְדִּ֣יל",
+      "gloss": "تُفصل"
+    },
+    {
+      "surface": "לָ֑ךְ",
+      "gloss": "لكَ"
+    },
+    {
+      "surface": "בְּת֣וֹךְ",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "אַרְצְךָ֔",
+      "gloss": "أرضك"
+    },
+    {
+      "surface": "אֲשֶׁר֙",
+      "gloss": "التي"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אֱלֹהֶ֔יךָ",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "נֹתֵ֥ן",
+      "gloss": "يعطيك"
+    },
+    {
+      "surface": "לְךָ֖",
+      "gloss": "لكَ"
+    },
+    {
+      "surface": "לְרִשְׁתָּֽהּ",
+      "gloss": "لترثها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:23.219236420Z",
+  "model": "glm-5.2"
+}

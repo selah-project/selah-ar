@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "فقال فرعون: اصعدِ ⟨وا⟩دفُنْ ⟨את⟩ أباك كما أقسَمَك.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "اصعدِ"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "⟨وا⟩دفُنْ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أباك"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أباك"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "أقسَمَك"
+    }
+  ],
+  "timestamp": "2026-08-07T05:36:48.765444968Z",
+  "model": "glm-5.2"
+}

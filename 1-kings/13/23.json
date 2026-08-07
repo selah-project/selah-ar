@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 13:23",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "و⟨كان⟩ بعد أكله خبزًا وبعد شربه أنّه شدّد له الحمار للنافي الذي أعاده.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "أكله"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "وبعد"
+    },
+    {
+      "surface": "שתותו",
+      "gloss": "شربه"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "شدّد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "الحمار"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "للنافي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "أعاده"
+    }
+  ],
+  "timestamp": "2026-08-07T01:48:06.475470069Z",
+  "model": "glm-5.2"
+}

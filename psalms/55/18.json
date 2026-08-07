@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 55,
+  "translation": "مساءً وصباحًا و⟨ظُهرة⟩ أُحدّث ⟨نفسي⟩ وأئنّ، فيسمع صوتي.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "مساءً"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "وصباحًا"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "و⟨ظهرًا⟩"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "أُحدّث ⟨نفسي⟩"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "وأئنّ"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "فيسمع"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "صوتي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:15.896778386Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 13:11",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "و⟨يكون⟩ حين يُدخلك يهوه إلى أرض الكنعانيّ كما حلف لك و⟨لآبائك⟩، ويُعطيها لك،",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و⟨يكون⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "حين"
+    },
+    {
+      "surface": "יבאך",
+      "gloss": "يُدخلك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "الكنعانيّ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "حلف"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "ולאבתיך",
+      "gloss": "و⟨لآبائك⟩"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ويُعطيها"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:04:21.838247856Z",
+  "model": "glm-5.2"
+}

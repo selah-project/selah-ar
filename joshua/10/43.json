@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 10:43",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "ورجعَ يهوشُعَ وكلُّ يِسرائيل معه إلى المحلَّة في جِلْجال.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ورجعَ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشُعَ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلُّ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "المحلَّة"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "في جِلْجال"
+    }
+  ],
+  "timestamp": "2026-08-07T01:06:02.604441382Z",
+  "model": "glm-5.2"
+}

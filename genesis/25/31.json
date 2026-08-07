@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "فقال يعقوف: «بِعني كاليوم ⟨את⟩ بكورتك لإي».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "بِع"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "كاليوم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بكورتك"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "بكورتك"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    }
+  ],
+  "timestamp": "2026-08-07T05:34:41.212838847Z",
+  "model": "glm-5.2"
+}

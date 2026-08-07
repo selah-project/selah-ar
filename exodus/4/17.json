@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "و⟨أخذتَ⟩ ⟨את⟩ هذه العصا في يدك، التي بها تصنع ⟨את⟩ الآيات».",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨أخذتَ⟩ ⟨את⟩",
+      "marks": "العصا"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "العصا"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "تأخذ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "في يدك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تصنع"
+    },
+    {
+      "surface": "בו",
+      "gloss": "بها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الآيات"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "الآيات"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:22.192352314Z",
+  "model": "glm-5.2"
+}

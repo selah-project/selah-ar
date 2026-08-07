@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "و⟨كان⟩ معدودوهم ثمانية آلاف وخمس مئة وثمانين.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "معدودوهم"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "ثمانية"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "آلاف"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "وخمس"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "وثمانين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:29:14.416518547Z",
+  "model": "glm-5.2"
+}

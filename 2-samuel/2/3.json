@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "ورجاله الذين معه أصعد داود، رجلًا وبيته، وسكنوا في مدن حبرون.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "ورجاله"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "أصعد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلًا"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "وبيته"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "وسكنوا"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "في مدن"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حبرون"
+    }
+  ],
+  "timestamp": "2026-08-07T01:31:53.910875392Z",
+  "model": "glm-5.2"
+}

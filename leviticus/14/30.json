@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "ويصنع ⟨את⟩ الواحد من اليَمام أو من أبناء الحمامة، مما تناله يده.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ويصنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الواحد"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "الواحد"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "اليَمام"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "בני",
+      "gloss": "أبناء"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "الحمامة"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "مما"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "يناله"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    }
+  ],
+  "timestamp": "2026-08-07T00:20:21.605368750Z",
+  "model": "glm-5.2"
+}

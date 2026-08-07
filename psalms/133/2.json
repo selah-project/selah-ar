@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 133,
+  "translation": "كالزيت الطيّب على الرأس، ينزل على اللحية، لحية أهارون، الذي ينزل على فم ثيابه،",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "كالزيت"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "الطيّب"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "الرأس"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ينزل"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "اللحية"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "لحية"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "الذي ينزل"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فم"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "ثيابه"
+    }
+  ],
+  "timestamp": "2026-08-07T08:13:10.562347816Z",
+  "model": "glm-5.2"
+}

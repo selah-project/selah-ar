@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "⟨وكان⟩ كلمة يهوه إلى يوناه ثانيةً قائلًا:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨وكان⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "يوناه"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ثانيةً"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:28:09.944340541Z",
+  "model": "glm-5.2"
+}

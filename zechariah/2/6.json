@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فقلتُ: إلى أين أنت ذاهبٌ؟ فقال لي: لِأقيسَ ⟨את⟩ يروشالايم لأرى كم عَرْضُها وكم طولها.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "فقلتُ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "إلى أين"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ذاهبٌ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "למד",
+      "gloss": "لِأقيسَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يروشالايم"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "لأرى"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "كم"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "عَرْضُها"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "وكم"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "طولها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:35:14.225586202Z",
+  "model": "glm-5.2"
+}

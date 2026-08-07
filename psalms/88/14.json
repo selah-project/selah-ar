@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 88,
+  "translation": "أمَّا أنا فإليك يهوه صرختُ، وفي الصباح تَسبِقُكَ صلاتي.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "وأمَّا أنا"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "صرختُ"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "وفي الصباح"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "صلاتي"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "تَسبِقُكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:49.273141801Z",
+  "model": "glm-5.2"
+}

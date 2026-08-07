@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 28:2",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "بمعصيةِ أرضٍ كثيرون رُؤساؤُها، وبإنسانٍ ذي فَهمٍ وعِرفانٍ ⟨هكذا⟩ يُطالُ ⟨الأمر⟩.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "بمعصية"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرون"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "رُؤساؤُها"
+    },
+    {
+      "surface": "ובאדם",
+      "gloss": "وبإنسان"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "ذي فَهم"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "وعِرفان"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "يُطيل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:01.076140439Z",
+  "model": "glm-5.2"
+}

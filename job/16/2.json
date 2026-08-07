@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 16:2",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "سمعتُ كثيرًا كهذه، مُعزّي عَمَلٍ كلُّكم.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "سمعتُ"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "كهذه"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "كثيرًا"
+    },
+    {
+      "surface": "מנחמי",
+      "gloss": "مُعزّي"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "عَمَلٍ"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "كلُّكم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:37:29.384604696Z",
+  "model": "glm-5.2"
+}

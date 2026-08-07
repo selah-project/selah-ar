@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فقال لهم: «عِبريّ أنا، و⟨את⟩ يهوه إلهَ السماوات أنا أهاب، الذي صنع ⟨את⟩ البحر و⟨את⟩ اليابسة».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "عِبريّ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلهَ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "أهاب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "البحر"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "اليابسة"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "اليابسة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:28:07.895037534Z",
+  "model": "glm-5.2"
+}

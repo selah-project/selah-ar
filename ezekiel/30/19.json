@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 30:19",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وأُجري أحكامًا في مصرايم، فيعلمون أنّي أنا يهوه.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "وأُجري"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "أحكامًا"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "في مصرايم"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "فيعلمون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:06:55.698995520Z",
+  "model": "glm-5.2"
+}

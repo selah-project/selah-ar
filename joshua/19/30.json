@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 19:30",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وعوماه وأفِق ورَحوب: اثنتان وعشرون مدينةً وضياعُها.",
+  "tokens": [
+    {
+      "surface": "ועמה",
+      "gloss": "وعوماه"
+    },
+    {
+      "surface": "ואפק",
+      "gloss": "وأفِق"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ورَحوب"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "عشرون"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "واثنتان"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "وضياعُها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:10:43.023655448Z",
+  "model": "glm-5.2"
+}

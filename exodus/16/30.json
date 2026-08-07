@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "فاستراح الشعب في اليوم السابع.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "فاستراح"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في اليوم"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "السابع"
+    }
+  ],
+  "timestamp": "2026-08-07T00:05:49.506654245Z",
+  "model": "glm-5.2"
+}

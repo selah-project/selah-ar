@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ووضعها إلوهيم ⟨את⟩ في رقيع السماوات لإضاءة على الأرض",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ووضعها"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "النيّران العظيمان والنجوم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "في رقيع"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "لإضاءة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T06:55:29.640852774Z",
+  "model": "glm-5.2"
+}

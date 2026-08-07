@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 52,
+  "translation": "فذبح ملك بافل ⟨את⟩ بني صِدقيّاهو أمام عينيه، و⟨أيضًا⟩ ⟨את⟩ كلّ شرفاء يهوذا ذبح في رِبْلاتة.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "فذبح"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بني"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صِدقيّاهو"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "أمام عينيه"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و⟨أيضًا⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "شرفاء"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوذا"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "ذبح"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "في رِبْلاتة"
+    }
+  ],
+  "timestamp": "2026-08-07T02:53:23.844384242Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "رجلٌ ⟨את⟩ صاحبَه يُعينون، ولأخيه يقول: «تشدّد!»",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صاحبَه"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "صاحبَه"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "يُعينون"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "ولأخيه"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "يقول"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "تشدد"
+    }
+  ],
+  "timestamp": "2026-08-07T02:17:53.003683041Z",
+  "model": "glm-5.2"
+}

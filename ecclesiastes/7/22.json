@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "لأنّ قلبك أيضًا قد عرف مرارًا كثيرة أنك أنت أيضًا لعنت آخرين.",
+  "tokens": [
+    {
+      "surface": "כִּ֛י",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "פְּעָמִ֥ים",
+      "gloss": "مرارًا"
+    },
+    {
+      "surface": "רַבּ֖וֹת",
+      "gloss": "كثيرة"
+    },
+    {
+      "surface": "יָדַ֣ע",
+      "gloss": "عرف"
+    },
+    {
+      "surface": "לִבֶּ֑ךָ",
+      "gloss": "قلبك"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "את",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "קִלַּ֥לְתָּ",
+      "gloss": "لعنت"
+    },
+    {
+      "surface": "אֲחֵרִֽים",
+      "gloss": "آخرين"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:05.407432111Z",
+  "model": "glm-5.2"
+}

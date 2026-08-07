@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "رأُوفين، شِمعون، لاوي، ويهوداه.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "رأُوفين"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شِمعون"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لاوي"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ويهوداه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:40.295940819Z",
+  "model": "glm-5.2"
+}

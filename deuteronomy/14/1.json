@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 14:1",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "بنون أنتم ليهوه إلوهيمكم. لا تُشُقُّون أبدانكم ولا تجعلوا قراحةً بين أعينكم لميّت.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "بنون"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلوهيمكم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תתגדדו",
+      "gloss": "تُشُقُّون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "تجعلوا"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "قراحةً"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "أعينكم"
+    },
+    {
+      "surface": "למת",
+      "gloss": "لميّت"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:24.709470762Z",
+  "model": "glm-5.2"
+}

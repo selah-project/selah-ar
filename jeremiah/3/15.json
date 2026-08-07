@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وأعطيكم رُعاةً بحسب قلبي، فيرعونكم بالمعرفة والفطنة.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "وأعطي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "كم"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "رُعاةً"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "بحسب قلبي"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "فيرعون"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨أيّاكم⟩",
+      "marks": "إيّاكم"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "بالمعرفة"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "والفطنة"
+    }
+  ],
+  "timestamp": "2026-08-07T02:30:23.137759807Z",
+  "model": "glm-5.2"
+}

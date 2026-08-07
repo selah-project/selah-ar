@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "لا تجعل ⟨את⟩ أمَتَكِ أمام ابنَة بَليّعال، لأنّه من كثرة حديثي وغيظي تكلّمتُ حتى الآن».",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "تجعل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أمَتَكِ"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "أمَتَكِ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ابنَة"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بَليّعال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "من كثرة"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "حديثي"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "وغيظي"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "تكلّمتُ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "الآن"
+    }
+  ],
+  "timestamp": "2026-08-07T01:20:58.156355609Z",
+  "model": "glm-5.2"
+}

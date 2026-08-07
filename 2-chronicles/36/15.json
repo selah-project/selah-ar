@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 36:15",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "وأرسل يهوه إلوهيم آبائهم إليهم على أيدي رسله، مُبكِّرًا ومُرسِلًا، لأنّه شفق على شعبه وعلى مسكنه.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "وأرسل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيمَ"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "آبائهم"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "إليهم"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "على أيدي"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "رسله"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "مُبكِّرًا"
+    },
+    {
+      "surface": "ושלוח",
+      "gloss": "ومُرسِلًا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "شفق"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "מעונו",
+      "gloss": "مسكنه"
+    }
+  ],
+  "timestamp": "2026-08-07T06:15:14.336081267Z",
+  "model": "glm-5.2"
+}

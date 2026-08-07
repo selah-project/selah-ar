@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "كر ذهب طاهر يُصنعها به، ⟨את⟩ كلّ هذه الأواني",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "كر"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهب"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "طاهر"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يُصنع"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "إيّاها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ هذه الأواني"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "الأواني"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:04.565654576Z",
+  "model": "glm-5.2"
+}

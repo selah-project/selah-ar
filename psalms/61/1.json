@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 61,
+  "translation": "لِلمُنشِد، على نَغِينات، لِدافيد",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "للمُنشِد"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "نَغِينات"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِدافيد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:55:59.374269040Z",
+  "model": "glm-5.2"
+}

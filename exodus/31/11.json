@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "و⟨את⟩ زيت المِسْحَة و⟨את⟩ بخور العطور للقُدس — حسب كلّ ما أوصيتك إيّاه يصنعونه،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "زيت"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "زيت"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "المِسْحَة"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بخور"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بخور"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "العطور"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "للقُدس"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "حسب كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "أوصيتك"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "يصنعونه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:09:30.151044846Z",
+  "model": "glm-5.2"
+}

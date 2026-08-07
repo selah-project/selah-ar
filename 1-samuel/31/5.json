@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "فرأى حامِلُ عدَّتِه أن شاؤول قد مات، فسقط هو أيضًا على سيفِه ومات معه.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "فرأى"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "حامِلُ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "عدَّتِه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "قد مات"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "فسقط"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "سيفِه"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ومات"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:31:30.952225808Z",
+  "model": "glm-5.2"
+}

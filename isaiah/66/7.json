@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 66:7",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 66,
+  "translation": "قبل أن تتمخّض ولدت، قبل أن يأتيها المخاض وَلَدت ذكرًا.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "قبل"
+    },
+    {
+      "surface": "תחיל",
+      "gloss": "أن تتمخّض"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ولدت"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "قبل"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "أن يأتي"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "مخاض"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "והמליטה",
+      "gloss": "وَلَدت"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ذكرًا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:28:44.494190510Z",
+  "model": "glm-5.2"
+}

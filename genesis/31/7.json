@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "وأبوكنّ خدعني وغيّر ⟨את⟩ أجرتي عشر مرّات، ولم يسمح إلوهيم له بإيذائي.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "وأبوكنّ"
+    },
+    {
+      "surface": "התל",
+      "gloss": "خدع"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ني"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "وغيّر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أجرتي"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "أجرتي"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "مرّات"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "يسمح"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "بإيذاء"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:05.615671596Z",
+  "model": "glm-5.2"
+}

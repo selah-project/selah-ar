@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "و⟨את⟩ كلَّ الجماعةَ اجمعْ إلى باب خيمة الموعد",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "الجماعة"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "اجمعْ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "باب"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    }
+  ],
+  "timestamp": "2026-08-07T07:07:02.549650809Z",
+  "model": "glm-5.2"
+}

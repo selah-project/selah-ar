@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 11:31",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "هذه ⟨هي⟩ النّجسات لكم في كلّ الشّارص: كلّ من يَمَسّها في موتها يتنجّس إلى المساء.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "הטמאים",
+      "gloss": "النّجسات"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلّ"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "الشارص"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "من يمسّ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "إيّاها"
+    },
+    {
+      "surface": "במתם",
+      "gloss": "في موتها"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "يتنجّس"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "المساء"
+    }
+  ],
+  "timestamp": "2026-08-07T07:07:27.532537087Z",
+  "model": "glm-5.2"
+}

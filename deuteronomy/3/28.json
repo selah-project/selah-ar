@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 3:28",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وأوصِ ⟨את⟩ يَهوشُع، وشدّده وثبّته، لأنه هو يعبر أمام هذا الشعب، وهو يُورِثُهم ⟨את⟩ الأرض التي تراها.",
+  "tokens": [
+    {
+      "surface": "וצו",
+      "gloss": "وأوصِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يَهوشُع"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يَهوشُع"
+    },
+    {
+      "surface": "וחזקהו",
+      "gloss": "وشدّده"
+    },
+    {
+      "surface": "ואמצהו",
+      "gloss": "وثبّته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "يعبر"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "ינחיל",
+      "gloss": "يورث"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "إيّاهم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "تراها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:48:35.733343980Z",
+  "model": "glm-5.2"
+}

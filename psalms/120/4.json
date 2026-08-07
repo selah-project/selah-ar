@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 120,
+  "translation": "سِهامُ جبّارٍ مُحدَّدةٌ، مع جمراتِ رَتَم.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "سِهامُ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "جبّار"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "مُحدَّدة"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "جمراتِ"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "رَتَم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:13:22.186809103Z",
+  "model": "glm-5.2"
+}

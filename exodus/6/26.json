@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 6:26",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "هو أهارون وموشيه اللذان قال لهما يهوه: أخرجوا ⟨את⟩ بني يِسراائيل من أرض مصرايم (مصر) على جيوشهم.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "وموشيه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اللذان"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهما"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "أخرجوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بني"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسراائيل"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "من أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "جيوشهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:43.950197065Z",
+  "model": "glm-5.2"
+}

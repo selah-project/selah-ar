@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 30:1",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "كلماتُ أگور بن ياقة، الحمْلُ. نبوءةُ الرجلِ: لأيتيئيل، لأيتيئيل وأوخال.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "كلماتُ"
+    },
+    {
+      "surface": "אגור",
+      "gloss": "أگور"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "יקה",
+      "gloss": "ياقة"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "الحمْلُ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نبوءةُ"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "الرجلِ"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "لأيتيئيل"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "لأيتيئيل"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "وأوخال"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:44.948838915Z",
+  "model": "glm-5.2"
+}

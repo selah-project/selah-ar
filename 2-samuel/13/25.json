@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 13:25",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وقال الملك لأفشالوم: لا يا ابني، لا نذهب كلّنا فلا نثقل عليك. فألحّ عليه فلم يَشأ أن يذهب، فباركه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "أفشالوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "يا ابني"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨أرجوك⟩"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "نذهب"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "كلّنا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "نثقل"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "عليك"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "فألحّ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "يشأ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "أن يذهب"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "فباركه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:35:40.560012652Z",
+  "model": "glm-5.2"
+}

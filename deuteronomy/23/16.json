@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "لا تُسلِم عبدًا إلى سيّده، الذي يَلتجئ إليك من عند سيّده.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תַסְגִּיר",
+      "gloss": "تُسلِم"
+    },
+    {
+      "surface": "עֶבֶד",
+      "gloss": "عبدًا"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אֲדֹנָיו",
+      "gloss": "سيّده"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יִנָּצֵל",
+      "gloss": "يَلتجئ"
+    },
+    {
+      "surface": "אֵלֶיךָ",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "מֵעִם",
+      "gloss": "من عند"
+    },
+    {
+      "surface": "אֲדֹנָיו",
+      "gloss": "سيّده"
+    }
+  ],
+  "timestamp": "2026-08-07T05:43:09.336454580Z",
+  "model": "glm-5.2"
+}

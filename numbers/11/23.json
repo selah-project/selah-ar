@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 11:23",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "فقال يهوه لموشيه: «أيدُ يهوه قاصرةٌ؟ الآن ترى هل يُدرِكُك كلامي أم لا.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "היד",
+      "gloss": "يد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "قصيرة\/قاصرة"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ترى"
+    },
+    {
+      "surface": "היקרך",
+      "gloss": "هل يُدركك"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلامي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:34:58.725006918Z",
+  "model": "glm-5.2"
+}

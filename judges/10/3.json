@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وقام بعده يائير الجلعادي، وقضى ⟨את⟩ يسرايل اثنتين وعشرين سنة.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "وقام"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "بعده"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "يائير"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "الجلعادي"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "وقضى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرايل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "عشرين"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "واثنتين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:16:10.826066878Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 66,
+  "translation": "إيّاه دعاه فمي، ⟨وال⟩تعظيم تحت لساني.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فمي"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "دعوتُ"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "و⟨ال⟩تعظيم"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "لساني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:20.564838494Z",
+  "model": "glm-5.2"
+}

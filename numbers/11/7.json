@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "والمنّ ⟨كان⟩ مثل بذرة الكزبرة هو، ومنظره كمنظر البدّلخ.",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "والمنّ"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "مثل بذرة"
+    },
+    {
+      "surface": "גד",
+      "gloss": "الكزبرة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "ومنظره"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "كمنظر"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "البدّلخ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:32:05.154240373Z",
+  "model": "glm-5.2"
+}

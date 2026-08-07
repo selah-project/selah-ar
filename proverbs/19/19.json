@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 19:19",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "صاحبُ الغضب الشديد يحمل عقابًا؛ لأنّك إن تُنقِذْه فأيضًا تزيد.",
+  "tokens": [
+    {
+      "surface": "גרל",
+      "gloss": "الشديد"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "صاحبُ الغضب"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "يحمل"
+    },
+    {
+      "surface": "ענש",
+      "gloss": "عقابًا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّك"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "تُنقِذْه"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "فأيضًا"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "تزيد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:32.029025488Z",
+  "model": "glm-5.2"
+}

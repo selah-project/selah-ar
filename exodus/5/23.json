@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "ومُنذ إني جئتُ إلى فرعو لأتكلّم باسمك، أساء إلى هذا الشعب، وأنتم لم تُنقذوا على الإطلاق ⟨את⟩ شعبكم».",
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "ومُنذ"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "جئتُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعو"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "لأتكلّم"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "باسمك"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "أساء"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "إلى الشعب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "وإنقاذًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "أنقذتَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شعبك"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "شعبك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:48.165701435Z",
+  "model": "glm-5.2"
+}

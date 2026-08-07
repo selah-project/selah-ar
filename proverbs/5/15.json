@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 5:15",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "اشرب مياهًا من بئرك، ⟨و⟩الجاريات من وسط عينك.",
+  "tokens": [
+    {
+      "surface": "שתה",
+      "gloss": "اشرب"
+    },
+    {
+      "surface": "מים",
+      "gloss": "مياهًا"
+    },
+    {
+      "surface": "מבורך",
+      "gloss": "من بئرك"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "⟨و⟩الجاريات"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "من وسط"
+    },
+    {
+      "surface": "בארך",
+      "gloss": "عينك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:02.016566569Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 47,
+  "translation": "وبارك يعقوف ⟨את⟩ فارعو، وخرج من أمام فارعو.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "وبارك"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فارعو"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فارعو"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "من أمام"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فارعو"
+    }
+  ],
+  "timestamp": "2026-08-06T23:57:01.912537138Z",
+  "model": "glm-5.2"
+}

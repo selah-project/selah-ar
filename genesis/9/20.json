@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وابتدأ نوح، رجلُ الأرض، وغرَس كَرمًا.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "وابتدأ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "وغرَس"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "كَرمًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:54.529124301Z",
+  "model": "glm-5.2"
+}

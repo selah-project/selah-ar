@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "يُعطي خدَّه لضاربِه، يَشبَعُ ⟨من⟩ الهَوانِ.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "يُعطي"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "لضاربِه"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "خدَّه"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "يَشبَعُ"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "⟨من⟩ الهَوانِ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:49:00.720074196Z",
+  "model": "glm-5.2"
+}

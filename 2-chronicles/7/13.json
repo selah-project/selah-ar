@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 7:13",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "إذا منعتُ السماءَ فلا يكون مطر، وإذا أوصيتُ على الجراد ليأكل الأرض، و⟨إذا⟩ أرسلتُ وبأً في شعبي،",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "אעצר",
+      "gloss": "منعتُ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماءَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "مطر"
+    },
+    {
+      "surface": "והן",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "أوصيتُ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "الجراد"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "ليأكل"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "و⟨إذا⟩"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "أرسلتُ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وبأً"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "في شعبي"
+    }
+  ],
+  "timestamp": "2026-08-07T05:24:50.570842066Z",
+  "model": "glm-5.2"
+}

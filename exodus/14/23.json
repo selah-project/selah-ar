@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 14:23",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وطرد مصرايم، فدخلوا في إثرهم كلّ فرس فرعون ركبه وفرسّانه إلى وسط البحر.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "وطرد"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "فدخلوا"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "في إثرهم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "فرس"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "ركبه"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "وفرسّانه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "وسط"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:12.329190196Z",
+  "model": "glm-5.2"
+}

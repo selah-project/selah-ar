@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "كلُّ ما فيه عيب لا تُقرِّبوه، لأنّه لا يُصبح ⟨لـ⟩رضًى لكم.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "מום",
+      "gloss": "عيب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "تُقرِّبوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "لرضًى"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يُصبح"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:27.021522262Z",
+  "model": "glm-5.2"
+}

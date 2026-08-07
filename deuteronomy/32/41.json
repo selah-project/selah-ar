@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 32:41",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "إذا صقّلتُ بَرقَ سيفي وتمسّكتْ يدي بالحُكم، أَرُدُّ انتقامًا لمُضايقي ومُبغضيّ أُوفي⟨هم⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "صقّلتُ"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "بَرق"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "سيفي"
+    },
+    {
+      "surface": "ותאחז",
+      "gloss": "وتمسّكتْ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "بالحُكم"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "يدي"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "أَرُدُّ"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "انتقامًا"
+    },
+    {
+      "surface": "לצרי",
+      "gloss": "لمُضايقي"
+    },
+    {
+      "surface": "ולמשנאי",
+      "gloss": "ولمُبغضيّ"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "أُوفي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:02:04.674045214Z",
+  "model": "glm-5.2"
+}

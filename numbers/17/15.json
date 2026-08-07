@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "ورجع أهرون إلى موشيه، إلى فم خيمة الموعد، فاُحْتُبِسَ الوباء.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ورجع"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهرون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "فم"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "فالوباء"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "اُحْتُبِسَ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:36:24.847520550Z",
+  "model": "glm-5.2"
+}

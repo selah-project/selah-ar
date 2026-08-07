@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "و⟨أحصى⟩ موشيه كما وصّى يهوه ⟨את⟩ه، ⟨את⟩ كل بكر في بني يسرايل.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "و⟨أحصى⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "وصّى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "موشيه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل بكر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "بكر"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "في بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:39.235571681Z",
+  "model": "glm-5.2"
+}

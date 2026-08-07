@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 19:14",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "فتقدّم يوآب والشعب الذين معه أمام أرام للحرب، فهربوا من أمامه.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "فتقدّم"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "والشعب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "أرام"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "للحرب"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "فهربوا"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "من أمامه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:46.221523936Z",
+  "model": "glm-5.2"
+}

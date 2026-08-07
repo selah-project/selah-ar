@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "الصالح ينالُ رِضًى من يهوه، أمّا صاحبُ المكايد فيُذنِبُ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "الصالح"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "ينالُ"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "رِضًى"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "من يهوه"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "أمّا صاحبُ"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "المكايد"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "فيُذنِبُ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:24.117135094Z",
+  "model": "glm-5.2"
+}

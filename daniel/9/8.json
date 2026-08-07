@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "يهوه، لنا خَجَل الوجه، لملوكنا ولرؤسائنا ولآبائنا الذين أخطأنا إليك.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "خَجَل"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "الوجه"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "لملوكنا"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "ولرؤسائنا"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "ولآبائنا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "أخطأنا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "إليك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:59:22.579587637Z",
+  "model": "glm-5.2"
+}

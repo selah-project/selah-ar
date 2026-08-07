@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "أحمدُ يهوه كَعَدلِه، وأُنشِدُ لاسم يهوه عليون.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "أحمدُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "كعدلِه"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "وأُنشِدُ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لاسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عليون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:39:35.045988371Z",
+  "model": "glm-5.2"
+}

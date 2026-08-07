@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 107,
+  "translation": "لأنه حطّم أبوابَ نحاسٍ، وعوارضَ الحديدِ قصّ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "حطّم"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "أبوابَ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "نحاسٍ"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "وعوارضَ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "الحديدِ"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "قصّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:36.877192831Z",
+  "model": "glm-5.2"
+}

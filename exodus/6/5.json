@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وأيضًا أنا قد سمعت ⟨את⟩ أنين بني يسرائيل الذين يستعبدهم مصرايم، و⟨أنا⟩ أذكر ⟨את⟩ بريتي.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "سمعتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أنين"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "أنين"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "يستعبدهم"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "إيّاهم"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "وأذكر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بريتي"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "بريتي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:36.098852996Z",
+  "model": "glm-5.2"
+}

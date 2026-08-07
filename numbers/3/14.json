@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فقاد يهوه موشيه في برّية سيناي قائلًا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "فقاد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في برّية"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سيناي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:42.017693264Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 73,
+  "translation": "أمّا أنا فكادت قدماي تنزلقان، كادت خطواتي ⟨تُهراق⟩ كأن لم تكن.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "وأمّا أنا"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "كاد"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "تنزلقان"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "قدماي"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "كأن لم تكن"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "⟨تُهراق⟩"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "خطواتي"
+    }
+  ],
+  "timestamp": "2026-08-07T06:39:04.540735142Z",
+  "model": "glm-5.2"
+}

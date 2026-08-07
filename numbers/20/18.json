@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 20:18",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "⟨و⟩قال إليه أدوم لا تعبر بي لئلّا بالسيف أخرج للقائك",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "⟨و⟩قال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "أدوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "تعبر"
+    },
+    {
+      "surface": "בי",
+      "gloss": "بي"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلّا"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "بالسيف"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "أخرج"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "للقائك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:38:08.221328349Z",
+  "model": "glm-5.2"
+}

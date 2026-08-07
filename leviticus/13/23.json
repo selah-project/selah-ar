@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 13:23",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وإذا تحتَها وقعتِ البُقعةُ فلم تمتدّ، فهو أثَرُ الدمَل، فيُطَهِّرُه الكوهين.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "تحتها"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "وقعتْ"
+    },
+    {
+      "surface": "הבהרת",
+      "gloss": "البُقعة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "تمتدّ"
+    },
+    {
+      "surface": "צרבת",
+      "gloss": "أثَرُ"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "الدمَل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "ف يُطَهِّرُه"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    }
+  ],
+  "timestamp": "2026-08-07T06:35:58.931019249Z",
+  "model": "glm-5.2"
+}

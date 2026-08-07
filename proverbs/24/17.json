@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 24:17",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "عند سقوط عدوّك لا تفرح، وعند تعثّره لا يبتهج قلبك،",
+  "tokens": [
+    {
+      "surface": "בנפל",
+      "gloss": "عند سقوط"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "عدوّك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשמח",
+      "gloss": "تفرح"
+    },
+    {
+      "surface": "ובכשלו",
+      "gloss": "وعند تعثّره"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "يبتهج"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "قلبك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:57.478363218Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "وينبتون بين عُشب كعَرَبيم على مجاري ماء.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "وينبتون"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "عُشب"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "كعَرَبيم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "مجاري"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماء"
+    }
+  ],
+  "timestamp": "2026-08-07T02:19:32.782361040Z",
+  "model": "glm-5.2"
+}

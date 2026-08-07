@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "ليست في السماوات هي، قائلاً: مَن يصعد لنا إلى السماء فيأخذها لنا ويُسمعنا ⟨את⟩ها ونحن نفعلها؟",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ليست"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "في السماوات"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "يصعد"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "إلى السماء"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "فيأخذها"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "ويُسمعنا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ونحن نفعلها"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "ونحن نفعلها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:43.461662278Z",
+  "model": "glm-5.2"
+}

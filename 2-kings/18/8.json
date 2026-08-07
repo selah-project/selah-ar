@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "هو ضرب ⟨את⟩ فلِشتيّيم إلى عزّة و⟨את⟩ تخومها من برج الحرّاس إلى مدينة حصينة.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ضرب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فلِشتيّيم"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلِشتيّيم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "عزّة"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "تخومها"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "تخومها"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "من برج"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "الحرّاس"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "حصينة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:59:34.060030761Z",
+  "model": "glm-5.2"
+}

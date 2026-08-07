@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وقال لها ملاك يهوه: ارجعي إلى سيدتك و⟨تواضعي⟩ تحت يدها.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ملاكُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "ارجعي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "سيدتك"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "و⟨تواضعي⟩"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "يدها"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:19.548565360Z",
+  "model": "glm-5.2"
+}

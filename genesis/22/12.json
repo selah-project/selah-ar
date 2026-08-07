@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 22:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "فقال: لا تُرسل يدك على الفتى، ولا تصنع له شيئًا، لأنّي الآن عرفتُ أنّك تتّقي إلوهيم، ولم تمسك ⟨את⟩ ابنك ⟨את⟩ وحيدك عنّي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "تُرسل"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "على"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "الفتى"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "تصنع"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "شيئًا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "عرفتُ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّك"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "تتّقي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "تمسك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابنك"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ابنك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وحيدك"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "وحيدك"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "عنّي"
+    }
+  ],
+  "timestamp": "2026-08-07T06:35:01.688873487Z",
+  "model": "glm-5.2"
+}

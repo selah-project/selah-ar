@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 100,
+  "translation": "اعبُدوا ⟨את⟩ يهوه بفرح، ائتوا أمام وجهه بترنُّم.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "اعبُدوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "بفرح"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ائتوا"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمام وجهه"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "بترنُّم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:34.636820220Z",
+  "model": "glm-5.2"
+}

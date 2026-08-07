@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "حمي قلبي في داخلي، حين أُراجعُ ⟨أفكاري⟩ تتوقّد نار، تكلّمتُ بلساني",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "حمي"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "في داخلي"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "حين أُراجعُ"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "تتوقّد"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نار"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "تكلّمتُ"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "بلساني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:30.441310937Z",
+  "model": "glm-5.2"
+}

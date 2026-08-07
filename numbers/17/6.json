@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 17:6",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "فَتَذَمَّرَ كلُّ جماعةِ بني يسرايل في الغد على موشيه وعلى أهرون قائلين: «أنتم قتلتُم ⟨את⟩ شعب يهوه!»",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "فتذمّروا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعة"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "في الغد"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهرون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "המתם",
+      "gloss": "قتلتم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شعب"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:36:46.017962622Z",
+  "model": "glm-5.2"
+}

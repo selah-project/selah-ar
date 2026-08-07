@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وعُشرًا عُشرًا للخروف الواحد لأربعة عشر خروفًا،",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "وعُشرًا"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "عُشرًا"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "للخروف"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "الواحد"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "لأربعة"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "خروفًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:09.028986724Z",
+  "model": "glm-5.2"
+}

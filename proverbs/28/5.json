@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "أَناسُ السّوء لا يفقهون المشْفات، وملتمسو يهوه يفقهون كلَّ شيء.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "أناسُ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "السوء"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "يفقهون"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "المشْفات"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "وملتمسو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "يفقهون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ شيء"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:53.209494441Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 23:3",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "لا يدخل مَمزِرٌ في جماعةِ يهوه؛ حتى الجيلَ العاشرَ لا يدخل ⟨له⟩ في جماعةِ يهوه.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "يدخل"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "مَمزِر"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "في جماعة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "דור",
+      "gloss": "الجيل"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "العاشر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "يدخل"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨له⟩"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "في جماعة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:58:43.659783734Z",
+  "model": "glm-5.2"
+}

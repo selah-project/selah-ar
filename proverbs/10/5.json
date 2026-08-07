@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "المجمع في الصيف ابنٌ متعلِّم، والنائم في الحصاد ابنٌ مُخزٍ.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "المجمع"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "في الصيف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "متعلِّم"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "والنائم"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "في الحصاد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "مُخزٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:23:44.303710095Z",
+  "model": "glm-5.2"
+}

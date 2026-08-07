@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "لأنّه ⟨هو⟩ على البحار أسَّسها، وعلى الأنهار ثبتها.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "البحار"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "أسَّسها"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "الأنهار"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "ثبتها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:45:51.903177057Z",
+  "model": "glm-5.2"
+}

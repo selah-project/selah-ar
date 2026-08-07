@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "من صاغ إلهًا، و⟨من⟩ سبك تمثالًا، لأنه لا ينفع؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "صاغ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلهًا"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "و⟨من⟩ سبك تمثالًا"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "سبك"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "لأنه لا"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "ينفع"
+    }
+  ],
+  "timestamp": "2026-08-07T02:19:39.909143449Z",
+  "model": "glm-5.2"
+}

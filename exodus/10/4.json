@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "لأنّك إنْ كنتَ تأبى إطلاقَ شعبي، فها أنا غدًا أُحضرُ الجرادَ في تخومك.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّك"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إنْ"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "تأبى"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "كنتَ"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "إطلاقَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شعبي"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "شعبي"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "فها أنا"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "أُحضرُ"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "غدًا"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "الجرادَ"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "في تخومك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:10.783595651Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "شَبَّهنا، يا إلوهيم، حِسِدَك في وسط هيكلك.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "شَبَّهنا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "يا إلوهيم"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حِسِدَك"
+    },
+    {
+      "surface": "بקרב",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "هيكلك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:50.615033741Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 95,
+  "translation": "أربعين سنة أُقَتُ في الجيل، فأقول: شعبٌ تائهو قلبٍ هم، وهم لم يعرفوا طُرُقي،",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "أربعين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "أُقَتُ"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "في الجيل"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "وأقول\/فأقول"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "تاهوا\/تائهو"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "והם",
+      "gloss": "وهم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "يعرفوا"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "طُرُقي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:25.575548961Z",
+  "model": "glm-5.2"
+}

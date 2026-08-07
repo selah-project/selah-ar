@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "ثلاث مرّات في السنة يُرأى كلّ ذكرٍك أمام وجهِ السيد يهوه.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ثلاث"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "مرّات"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "في السنة"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "يُرأى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "ذكرك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "السيد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:51.486049220Z",
+  "model": "glm-5.2"
+}

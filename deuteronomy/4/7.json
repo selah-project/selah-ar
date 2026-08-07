@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 4:7",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "لأنّه أيُّ أمّةٍ عظيمةٍ لها آلهةٌ قريبون إليها كيهوه إلهنا في كلّ ما ندعوه؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "מי",
+      "gloss": "أيُّ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "أمّةٍ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيمةٍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨التي⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لها"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "آلهةٌ"
+    },
+    {
+      "surface": "קרבים",
+      "gloss": "قريبون"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليها"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "كيهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلهنا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلّ"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "ما ندعوه"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:22.829839610Z",
+  "model": "glm-5.2"
+}

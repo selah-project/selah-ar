@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 16:6",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وأسا الملك أخذ ⟨את⟩ كلّ يهودا، وحملوا ⟨את⟩ أحجار الرامة وخشبها الذي بناه بعشا، فبنى بها ⟨את⟩ جبع ⟨و⟩⟨את⟩ المِصفاة.",
+  "tokens": [
+    {
+      "surface": "ואסא",
+      "gloss": "وأسا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "أخذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ يهودا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "وحملوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أحجار الرامة وخشبها"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "أحجار"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "الرامة"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨و⟩⟨את⟩",
+      "marks": "خشبها"
+    },
+    {
+      "surface": "עציה",
+      "gloss": "خشبها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بناه"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بعشا"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "فبنى"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "بها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جبع"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "جبع"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨و⟩⟨את⟩",
+      "marks": "المِصفاة"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "المِصفاة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:26:34.378285510Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 1:13",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وقال الملك للحكماء عارفي الأوقات، لأنّه هكذا ⟨كان⟩ أمر الملك أمام كل عارف دَت ودِين،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "للحكماء"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "عارفي"
+    },
+    {
+      "surface": "העתים",
+      "gloss": "الأوقات"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "أمر"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "عارف"
+    },
+    {
+      "surface": "דת",
+      "gloss": "دَت"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "ودِين"
+    }
+  ],
+  "timestamp": "2026-08-07T04:53:55.207222558Z",
+  "model": "glm-5.2"
+}

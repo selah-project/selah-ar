@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 34:3",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "لأن الأذن تختبر الكلمات، والحَلْق يتذوّق ⟨ما⟩ يُؤكَل.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "الأذن"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "الكلمات"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "تختبر"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "والحَلْق"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "يتذوّق"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "يُؤكَل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:41:52.142556743Z",
+  "model": "glm-5.2"
+}

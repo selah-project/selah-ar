@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "اقضِ لي كصِدقِكَ، يهوه إلوهاي، ولا يفرحوا بي.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "اقضِ لي"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "كصِدقِكَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهاي"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "يفرحوا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:23.319577816Z",
+  "model": "glm-5.2"
+}

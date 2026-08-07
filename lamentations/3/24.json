@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "نَصيبي يهوه، قالتْ نَفسي، من أجل ذلك أرجو ⟨له⟩.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "نَصيبي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "قالتْ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفسي"
+    },
+    {
+      "surface": "על",
+      "gloss": "من أجل"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "أرجو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨له⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T04:48:59.944047382Z",
+  "model": "glm-5.2"
+}

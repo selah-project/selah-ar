@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 7:21",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "من أجل كلمتك ووفق قلبك صنعت ⟨את⟩ كلّ هذه العظمة، لتُعريف ⟨את⟩ عبدك.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "من أجل"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "كلمتك"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "ووفق⟨ ⟩قلبك"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "صنعت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "العظمة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "لتُعريف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عبدك"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:41.155347234Z",
+  "model": "glm-5.2"
+}

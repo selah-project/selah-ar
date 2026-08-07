@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 1:9",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "لولا يهوه صباؤوت أبقى لنا ناجين قليلين، كصَدوم ⟨كنا⟩، ولعمورة شبِهنا.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "لولا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤوت"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "أبقى"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "ناجين"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "قليلين"
+    },
+    {
+      "surface": "כסדם",
+      "gloss": "كصَدوم"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "⟨كنا⟩"
+    },
+    {
+      "surface": "לעמרה",
+      "gloss": "لعمورة"
+    },
+    {
+      "surface": "דמינו",
+      "gloss": "شبِهنا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:03:45.920434011Z",
+  "model": "glm-5.2"
+}

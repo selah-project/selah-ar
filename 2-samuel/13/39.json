@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 13:39",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وتوقّف داود الملك عن الخروج إلى أَفْشالوم، لأنه تعزّى على أمْنون لأنه مات.",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "وتوقّف"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "عن الخروج"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "أفشالوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "تعزّى"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "أمنون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مات"
+    }
+  ],
+  "timestamp": "2026-08-07T01:35:09.597791966Z",
+  "model": "glm-5.2"
+}

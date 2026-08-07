@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "مُعيدُ شرًّا بدلًا من خيرٍ، لا يبرحُ الشرُّ من بيته.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "مُعيدُ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شرًّا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلًا من"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "خيرٍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "يبرحُ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "الشرُّ"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "من بيته"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:29.784042895Z",
+  "model": "glm-5.2"
+}

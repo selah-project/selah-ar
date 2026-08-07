@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 8:5",
+  "book": "ezra",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "من بني شَخَنيا بن يَحَزْيائيل، ومعه ثلاث مئة من الذكور.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "من بني"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "شَخَنيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "יחזיאל",
+      "gloss": "يَحَزْيائيل"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ومعه"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ثلاث"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "من الذكور"
+    }
+  ],
+  "timestamp": "2026-08-07T05:03:00.159399003Z",
+  "model": "glm-5.2"
+}

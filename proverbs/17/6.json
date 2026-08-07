@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "تاجُ الشيوخِ بنو البنين، وفخرُ البنين آباؤهم.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "الشيوخ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "البنين"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "وفخر"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "البنين"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "آباؤهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:29.962203839Z",
+  "model": "glm-5.2"
+}

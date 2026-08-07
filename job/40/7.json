@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 40:7",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "أَصِرْ الآنَ كجبّار حقوَيك! أسألُك فأعلِمْني.",
+  "tokens": [
+    {
+      "surface": "אזר",
+      "gloss": "أَصِرْ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآنَ"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "كجبّار"
+    },
+    {
+      "surface": "חלציך",
+      "gloss": "حقوَيك"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "أسألُك"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "فأعلِمْني"
+    }
+  ],
+  "timestamp": "2026-08-07T04:43:38.301030500Z",
+  "model": "glm-5.2"
+}

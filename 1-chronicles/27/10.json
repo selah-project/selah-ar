@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 27:10",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "السابع لشهر السابع حِلِص الْفَلوني من بَنَي أفرايم، وعلى قسمته أربعةٌ وعشرون ألفًا.",
+  "tokens": [
+    {
+      "surface": "השביעי",
+      "gloss": "السابع"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "لشهر"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "السابع"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "حِلِص"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "الْفَلوني"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنَي"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "أفرايم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "قسمته"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "عشرون"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "وأربعة"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفًا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:18:58.833373202Z",
+  "model": "glm-5.2"
+}

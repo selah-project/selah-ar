@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "لِلضَّحك قُلتُ: مجنون، وللشَّمحة: ماذا تصنعُ هذه؟",
+  "tokens": [
+    {
+      "surface": "לִשְׂח֖וֹק",
+      "gloss": "لِلضَّحك"
+    },
+    {
+      "surface": "אָמַ֣רְתִּי",
+      "gloss": "قُلتُ"
+    },
+    {
+      "surface": "מְהוֹלָ֑ל",
+      "gloss": "مجنون"
+    },
+    {
+      "surface": "וּלְשִׂמְחָ֖ה",
+      "gloss": "وللشَّمحة"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "זֹּ֥ה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "עֹשָֽׂה",
+      "gloss": "تصنعُ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:23.444982301Z",
+  "model": "glm-5.2"
+}

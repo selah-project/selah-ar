@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وداوود وكلّ بيت يسرائيل يصعدون ⟨את⟩ تابوت يهوه بهتاف ⟨وب⟩صوت شوفار.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "وداوود"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "يصعدون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تابوت"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "بهتاف"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "⟨وب⟩صوت"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شوفار"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:14.517388833Z",
+  "model": "glm-5.2"
+}

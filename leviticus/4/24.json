@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "ويضع يده على رأس التيس ويذبحه في المكان الذي يُذبَح فيه ⟨את⟩ العولاه أمام يهوه. إنّه خطيئة.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ويضع"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأس"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "التيس"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ويذبحه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "التيس (مفعول به)"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "في المكان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "يُذبَح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "العولاه"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "العولاه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "خطيئة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "إنّه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:29.314002942Z",
+  "model": "glm-5.2"
+}

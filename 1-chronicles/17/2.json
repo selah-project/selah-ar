@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "فقال ناتان لِداوِد: «كلُّ ما في قلبكَ افعل، لأنَّ إلوهيم معكَ».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لِـ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "في قلبكَ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "افعل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:30.370134552Z",
+  "model": "glm-5.2"
+}

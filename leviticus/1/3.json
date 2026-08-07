@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "إن كان قربانه عولاه من البقر، ذكرًا تامًّا يقرّبه. إلى مدخل خيمة الموعد يقرّبه ⟨أمامَهُ⟩ لِقَبوله أمام يهوه.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "عولاه"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "قربانه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "البقر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ذكرًا"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "تامًّا"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "يقرّبه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "مدخل"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "يقرّبه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "له"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "لقبوله"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:02.227083036Z",
+  "model": "glm-5.2"
+}

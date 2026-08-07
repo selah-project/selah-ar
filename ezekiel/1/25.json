@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 1:25",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "و⟨كان⟩ صوتٌ من فوق الرّقيع الذي على رأسها، في وقوفها تُرخي أجنحتهنّ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "من فوق"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "الرّقيع"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "رأسها"
+    },
+    {
+      "surface": "בעמדם",
+      "gloss": "في وقوفها"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "تُرخي"
+    },
+    {
+      "surface": "כנפיהן",
+      "gloss": "أجنحتهنّ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:54:29.533594783Z",
+  "model": "glm-5.2"
+}

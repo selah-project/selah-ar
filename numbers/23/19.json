@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 23:19",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "ليس إيل فيَكذِب، ولا ابن آدم فيَندم. ⟨هو⟩ قال أفلا يفعل؟ وكلّم أفلا يُقيمه؟",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨رجل⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "ויכזב",
+      "gloss": "فيَكذِب"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ولا ابن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "ויתנחם",
+      "gloss": "فيَندم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "أفلا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يفعل"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "وكلّم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "أفلا"
+    },
+    {
+      "surface": "יקימנה",
+      "gloss": "يُقيمه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:39:27.195256267Z",
+  "model": "glm-5.2"
+}

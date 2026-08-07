@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وأرسل ⟨عن⟩ يد ناتان الناڤيّ، ودعا ⟨את⟩ اسمه يديدْياه، من أجل يهوه.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "وأرسل"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "عن يد"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "الناڤيّ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسمه"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمه"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "يديدْياه"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "من أجل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:34:33.383851983Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "هذه تواليد شيم: كان شيم ⟨ابن⟩ مئة سنة، فولَد ⟨את⟩ أرفكشاد، سنتين بعد الطوفان.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "تواليد"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شيم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شيم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨ابن⟩"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "فولَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أرفكشاد"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "أرفكشاد"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "سنتين"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "الطوفان"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:55.412486660Z",
+  "model": "glm-5.2"
+}

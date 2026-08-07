@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فقال رجل إلوهيم للملك: إن تعطني ⟨את⟩ نصف بيتك لا آتي معك، ولا آكل خبزًا ولا أشرب ماءً في هذا المكان.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "تعطي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نصف بيتك"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "نصف"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "بيتك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "آتي"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "آكل"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "أشرب"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماءً"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "في مكان"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T07:32:17.033010592Z",
+  "model": "glm-5.2"
+}

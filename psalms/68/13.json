@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 68,
+  "translation": "ملوكُ صباؤوت يهرولون هاربين، و⟨هي⟩ ساكنةُ البيت تقسم غنائم.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "ملوكُ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤوت"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "يهرولون"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "هاربين"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "و⟨هي⟩ ساكنةُ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "تقسم"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "غنائم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:58:07.085563868Z",
+  "model": "glm-5.2"
+}

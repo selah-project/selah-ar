@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 86,
+  "translation": "لأنّك أنتَ عظيمٌ وصانعٌ عجائب، أنتَ الإله وحدك.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّك"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيمٌ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "وصانعٌ"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "عجائب"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "وحدك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:25.843075522Z",
+  "model": "glm-5.2"
+}

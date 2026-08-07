@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 60,
+  "translation": "أليس أنت، يا إلوهيم، رفضتَنا، وإلوهيم لا تخرجُ مع صَبْعوتِنا؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "أليس"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "يا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "رفضتَنا"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "و"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "لا"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "تخرجُ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:55:58.333994839Z",
+  "model": "glm-5.2"
+}

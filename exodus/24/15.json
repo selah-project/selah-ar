@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "وصعد موشيه إلى الجبل، فغطّى السحاب ⟨את⟩ الجبل.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "وصعد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "الجبل"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "فغطّى"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "السحاب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الجبل"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "الجبل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:00.784633244Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 12:6",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وعبر أفراهام في الأرض حتى مكان شكيم حتى بلوطة موريه، والكنعانيّ حينئذٍ في الأرض.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "وعبر"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "مكان"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شكيم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "بلوطة"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "موريه"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "والكنعانيّ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "حينئذٍ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:01.561217841Z",
+  "model": "glm-5.2"
+}

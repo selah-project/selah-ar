@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وقال عمّ شاؤول: أخبرني الآن ماذا قال لكم شموئيل.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "عمّ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "أخبر"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ني"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:23:55.381747678Z",
+  "model": "glm-5.2"
+}

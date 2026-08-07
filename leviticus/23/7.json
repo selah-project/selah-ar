@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "في اليوم الأول ⟨يكون⟩ مِقرا قُدُس لكم؛ كلّ عملِ خدمة لا تعملون.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "في اليوم"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "الأول"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "مِقرا قُدُس"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قُدُس"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨يكون⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "خدمة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "تعملون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:16.663314032Z",
+  "model": "glm-5.2"
+}

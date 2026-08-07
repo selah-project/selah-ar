@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 94,
+  "translation": "لأنّ إلى الصِّدقِ يعودُ الحُكم، وخلفَهُ كلُّ مُستقيمي القلب.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "الصِّدق"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "يعودُ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "الحُكم"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "وخلفَهُ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "مُستقيمي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "القلب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:00.065243030Z",
+  "model": "glm-5.2"
+}

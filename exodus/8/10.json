@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "فكوّموها أَكواماً أَكواماً، فأَنْتَنتِ الأَرض.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "فكوّمو"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "أَكواماً"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "أَكواماً"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "أَكواماً"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "فأَنْتَنت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأَرض"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:04.444668602Z",
+  "model": "glm-5.2"
+}

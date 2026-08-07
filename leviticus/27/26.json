@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 27:26",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "لكن البكر الذي يُبكَّر ليهوه في البهيمة لا يُقدِّسه أحد ⟨את⟩ه — إن كان ثورًا إن كان خروفًا فلِيهوه هو.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "لكن"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "البكر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יבכר",
+      "gloss": "يُبكَّر"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "لِيهوه"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "في البهيمة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "يُقدِّس"
+    },
+    {
+      "surface": "איש",
+      "gloss": "أحد"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "هو (البكر)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ثور"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "שה",
+      "gloss": "خروف"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "لِيهوه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:44.880771556Z",
+  "model": "glm-5.2"
+}

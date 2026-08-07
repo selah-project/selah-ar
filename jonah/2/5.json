@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 2:5",
+  "book": "jonah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "و⟨أنا⟩ قلتُ: طُردتُ من أمام عينيك، لكنّي أعودُ للتأمّل نحو هيكل قدسك.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "و⟨أنا⟩"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "قلتُ"
+    },
+    {
+      "surface": "נגרשתי",
+      "gloss": "طُردتُ"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "من أمام"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "عينيك"
+    },
+    {
+      "surface": "אך",
+      "gloss": "لكنّي"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "أعود"
+    },
+    {
+      "surface": "להביט",
+      "gloss": "للتأمّل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نحو"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "هيكل"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "قدسك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:27:56.681271929Z",
+  "model": "glm-5.2"
+}

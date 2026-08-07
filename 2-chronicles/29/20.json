@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وبكّر يحزقياوَه الملك، فجمع ⟨את⟩ رؤساء المدينة، وصعد بيت يهوه.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "وبكّر"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "يحزقياوَه"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "فجمع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رؤساء"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "رؤساء"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "وصعد"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:30:35.576727986Z",
+  "model": "glm-5.2"
+}

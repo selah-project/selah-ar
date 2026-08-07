@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "ذبحت ذبيحها، مزجت خمرها، بل رتّبت مائدتها أيضًا:",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "ذبحت"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "ذبيحها"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "مزجت"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "خمرها"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بل"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "رتّبت"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "مائدتها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:23:38.748667395Z",
+  "model": "glm-5.2"
+}

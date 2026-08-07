@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 26:12",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "كلُّ عدد رؤساء الآباء لأبطال البأس ألفان وستّمئة.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "عدد"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "رؤساء"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "الآباء"
+    },
+    {
+      "surface": "לגבורי",
+      "gloss": "لأبطال"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "البأس"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ألفان"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "وستّ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:29:50.095801328Z",
+  "model": "glm-5.2"
+}

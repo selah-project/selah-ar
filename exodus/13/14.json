@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 13:14",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "و⟨يكون⟩ حين يسألك ابنك غدًا قائلاً: ما هذا؟ فتقول له: «بشدّة يدٍ أخرجنا يهوه من مصرايم، من بيت عبيد.»",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و⟨يكون⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "حين"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "يسألك"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ابنك"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "غدًا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "فتقول"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "بشدّة"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يد"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "أخرجنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "من مصرايم"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "من بيت"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "عبيد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:04:00.011084072Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 29:1",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وقال داويد الملك لكل الجماعة: شلومو ابني واحدًا اختاره إلوهيم، فتىً ورَخٌ، والعمل عظيم، لأنه ليس لإنسانٍ القلعة، بل ليوهه إلوهيم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لكل"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "الجماعة"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ابني"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "اختار"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "נער",
+      "gloss": "فتىً"
+    },
+    {
+      "surface": "ורך",
+      "gloss": "ورخ"
+    },
+    {
+      "surface": "והמלאכה",
+      "gloss": "والعمل"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "عظيم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "لإنسان"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "القلعة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بل لأن"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:19:46.922295276Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 1:15",
+  "book": "ruth",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فقالت: «ها إنّ كنتكِ قد رجعت إلى شعبها وإلى آلِهتها. ارجعي أنتِ خلف كنتكِ.»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "إنّ... قد رجعت"
+    },
+    {
+      "surface": "יבמתך",
+      "gloss": "كنتكِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "شعبها"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "آلهتها"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "ارجعي"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "خلف"
+    },
+    {
+      "surface": "יבמתך",
+      "gloss": "كنتكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:48:04.813676746Z",
+  "model": "glm-5.2"
+}

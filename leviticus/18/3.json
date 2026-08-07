@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 18:3",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "كأعمال أرضِ مصرايم التي سكنتم فيها لا تعملوا، وكأعمال أرضِ كنعان التي أنا آتي بكم إلى هناك لا تعملوا، وفي فرائضهم لا تسلكوا.",
+  "tokens": [
+    {
+      "surface": "כמעשה",
+      "gloss": "كأعمال"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "سكنتم"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "تعملوا"
+    },
+    {
+      "surface": "וכמעשה",
+      "gloss": "وكأعمال"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كنعان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "آتي"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "بكم"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "إلى هناك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "تعملوا"
+    },
+    {
+      "surface": "ובחקתיהם",
+      "gloss": "وفي فرائضهم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "تسلكوا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:33.428208210Z",
+  "model": "glm-5.2"
+}

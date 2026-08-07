@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 6:11",
+  "book": "micah",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "أتُبرِّرُ بموازينِ الرَّجسِ، وكيسِ أحجارِ الغِشّ؟",
+  "tokens": [
+    {
+      "surface": "האזכה",
+      "gloss": "أتُبرِّرُ"
+    },
+    {
+      "surface": "במאזני",
+      "gloss": "بموازينِ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "الرجسِ"
+    },
+    {
+      "surface": "ובכיס",
+      "gloss": "وكيسِ"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "أحجارِ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "الغِشّ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:30:16.482609386Z",
+  "model": "glm-5.2"
+}

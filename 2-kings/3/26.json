@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 3:26",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فرأى ملك موآب أنّ الحرب اشتدّت عليه، فأخذ معه سبعمئة رجل مستلّ سيف ليشقّ طريقه إلى ملك أدوم، فلم يقدروا.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "فرأى"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "اشتدّت"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "الحرب"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "فأخذ"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "سبعمئة رجل"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبع"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "مستلّ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "سيف"
+    },
+    {
+      "surface": "להבקיע",
+      "gloss": "ليشقّ طريقه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "أدوم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "يقدروا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:53:44.809994537Z",
+  "model": "glm-5.2"
+}

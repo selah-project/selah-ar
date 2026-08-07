@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فقال رجُل إلوهيم: «أين سقط؟» فأراه ⟨את⟩ المكان، وقطع خشبًا وطرحه هناك، فطفا الحديد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجُل"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "أين"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "سقط"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "فأراه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المكان"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "المكان"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "وقطع"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "خشبًا"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "وطرح"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "فطفا"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "الحديد"
+    }
+  ],
+  "timestamp": "2026-08-07T01:54:21.153720503Z",
+  "model": "glm-5.2"
+}

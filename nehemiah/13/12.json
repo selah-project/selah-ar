@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 13:12",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وجلب كلُّ يهودا العُشر من الحنطة ⟨والعصير⟩ والزيت إلى المخازن.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكلُّ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "جلب"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "العُشر"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "من الحنطة"
+    },
+    {
+      "surface": "והתירוש",
+      "gloss": "والعصير"
+    },
+    {
+      "surface": "והיצהר",
+      "gloss": "والزيت"
+    },
+    {
+      "surface": "לאוצרות",
+      "gloss": "إلى المخازن"
+    }
+  ],
+  "timestamp": "2026-08-07T05:08:52.638433606Z",
+  "model": "glm-5.2"
+}

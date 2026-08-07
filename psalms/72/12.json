@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 72,
+  "translation": "لأنّه يُنقذ الفقيرَ المستغيثَ، والمسكين ولا مُعينَ له.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "يُنقذ"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "الفقيرَ"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "المستغيثَ"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "والمسكين"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "مُعينَ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T03:58:23.183845188Z",
+  "model": "glm-5.2"
+}

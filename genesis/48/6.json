@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 48:6",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "وموَلدوك الذين تلدهم بعدهم، لك يكونون؛ باسم إخوتهم يُدعَون في نَصيبهم.",
+  "tokens": [
+    {
+      "surface": "ומולדתך",
+      "gloss": "وموَلدوك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "تلدهم"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "بعدهم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "يكونون"
+    },
+    {
+      "surface": "על",
+      "gloss": "بـ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "إخوتهم"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "يُدعَون"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "في نَصيبهم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:56:52.921762680Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "jeremiah 25:36",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "صوتُ صراخِ الرعاة وعويلُ أعزّة القطيع لأن يهوه مخرَّبٌ ⟨את⟩ مرعاهم",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "صوتُ"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "صراخِ"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "الرعاة"
+    },
+    {
+      "surface": "ויללת",
+      "gloss": "وعويلُ"
+    },
+    {
+      "surface": "אדירי",
+      "gloss": "أعزّة"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "القطيع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "مخرَّبٌ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مرعاهم"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "مرعاهم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:40:10.378175775Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 121,
+  "translation": "يهوه يحرس خروجك ودخولك من الآن وإلى العَولام.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "يحرس"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "خروجك"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "ودخولك"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "من الآن"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "العَولام"
+    }
+  ],
+  "timestamp": "2026-08-07T06:07:53.276888486Z",
+  "model": "glm-5.2"
+}

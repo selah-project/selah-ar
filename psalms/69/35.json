@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 69,
+  "translation": "لتُسبِّحه السماواتُ والأرض، البحارُ وكلُّ ما يزحف فيها",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "لتُسبِّحه"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "السماواتُ"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "والأرض"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "البحارُ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلُّ"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ما يزحف"
+    },
+    {
+      "surface": "בם",
+      "gloss": "فيها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:16.863848424Z",
+  "model": "glm-5.2"
+}

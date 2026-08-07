@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 13:7",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فأرسلَ داوِد إلى تامار إلى البيتِ قائلاً: «اذهبي نَا إلى بيتِ أمنون أخيكِ واصنَعي له الطعامَ».",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "تامار"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "إلى البيت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "اذهبي"
+    },
+    {
+      "surface": "נא",
+      "gloss": "نَا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "أمنون"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "أخيك"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "واصنعي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "הבריה",
+      "gloss": "الطعام"
+    }
+  ],
+  "timestamp": "2026-08-07T01:35:36.421423754Z",
+  "model": "glm-5.2"
+}

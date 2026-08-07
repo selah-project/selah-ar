@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 66,
+  "translation": "صوت ضجيج من مدينة، صوت من هيكال، صوت يهوه رادًّ جزاءً ⟨لأعدائه⟩.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ضجيج"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "من مدينة"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "من هيكال"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "رادٌّ"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "جزاء"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "لأعدائه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:28:44.494070265Z",
+  "model": "glm-5.2"
+}

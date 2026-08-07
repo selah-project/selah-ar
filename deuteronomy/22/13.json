@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "إذا أخذ رجلٌ امرأةً ودخل إليها وأبغضها،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "أخذ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ودخل"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "إليها"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "وأبغضها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:58:12.518158166Z",
+  "model": "glm-5.2"
+}

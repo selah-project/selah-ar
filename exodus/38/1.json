@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "وصنع ⟨את⟩ مذبح العولاه من خشب الشيطيم: خمس أذرع طوله وخمس أذرع عرضه مربّعًا، وثلاث أذرع ارتفاعه.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وصنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مذبح"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "العولاه"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "خشب"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "الشيطيم"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "خمس"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "أذرع"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "طوله"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "وخمس"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "أذرع"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "عرضه"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "مربّعًا"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "وثلاث"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "أذرع"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ارتفاعه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:14:11.343691689Z",
+  "model": "glm-5.2"
+}

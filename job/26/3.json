@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 26:3",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "ماذا أشرتَ على ذي ⟨ال⟩لا حكمة؟ وتُوشيّةً بكثرة أبرزتَ!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "יעצת",
+      "gloss": "أشرتَ على"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "ذي اللا"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حكمة"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "وتُوشيّةً"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "بكثرة"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "أبرزتَ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:39:32.464119611Z",
+  "model": "glm-5.2"
+}

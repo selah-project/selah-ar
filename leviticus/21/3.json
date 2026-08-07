@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "ولأخته العذراء القريبة إليه التي لم تكن لرجل، من أجلها يتنجّس.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "ولأخته"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "العذراء"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "القريبة"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "تكن"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "لرجل"
+    },
+    {
+      "surface": "לה",
+      "gloss": "من أجلها"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "يتنجّس"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:44.908765364Z",
+  "model": "glm-5.2"
+}

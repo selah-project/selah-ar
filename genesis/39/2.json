@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "وكان يهوه مع ⟨את⟩ يُوسِف، وكان رجلاً مُفلِحًا، وكان في بيت سيّده المصرايميّ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يُوسِف"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يُوسِف"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلاً"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "مُفلِحًا"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في بيت"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "سيّده"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "المصرايميّ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:44.869209441Z",
+  "model": "glm-5.2"
+}

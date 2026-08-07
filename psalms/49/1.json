@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "لإمامِ ⟨المنشدين⟩، لِبَنِي قوراح، مِزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لإمام المنشدين"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لبني"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قوراح"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    }
+  ],
+  "timestamp": "2026-08-07T03:52:03.849769642Z",
+  "model": "glm-5.2"
+}

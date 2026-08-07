@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 28:20",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "فأسرع شاؤول وسقط ملء قامته أرضًا، وخاف جدًّا من كلمات شموئيل، ولم يكن فيه قوّة أيضًا، لأنه لم يأكل خبزًا كل اليوم وكل الليل.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "فأسرع"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "وسقط"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ملء"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "قامته"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "أرضًا"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "وخاف"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    },
+    {
+      "surface": "מדברי",
+      "gloss": "من كلمات"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "כח",
+      "gloss": "قوّة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "היה",
+      "gloss": "يكن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "يأكل"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "الليل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:30:38.025789533Z",
+  "model": "glm-5.2"
+}

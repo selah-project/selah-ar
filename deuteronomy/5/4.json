@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وجهًا في وجه تكلّم يهوه ⟨معكم⟩ في الجبل من وسط النار.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "وجهًا"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "في وجه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "⟨معكم⟩"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "في الجبل"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "من وسط"
+    },
+    {
+      "surface": "האש",
+      "gloss": "النار"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:02.608742880Z",
+  "model": "glm-5.2"
+}

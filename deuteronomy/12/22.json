@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "إنّما كما يُؤكل ⟨את⟩ الظبي و⟨את⟩ الأيِّل، هكذا تأكله؛ الطاهرُ والطامسُ ⟨يأكلانه⟩ معًا.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يُؤكل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الظبي"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "الظبي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الأيِّل"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "الأيِّل"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "تأكله"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "الطامسُ"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "والطاهرُ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "معًا"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "يأكلانه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:21.391833665Z",
+  "model": "glm-5.2"
+}

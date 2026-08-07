@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "والآن احلِف لي بيهوه إن كنتَ ستبيد ⟨את⟩ نسلي من بعدي، وإن كنتَ ستمحو ⟨את⟩ اسمي من بيت أبي.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "احلِف"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "بيهوه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "ستبيد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نسلي"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "نسلي"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "من بعدي"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "ستمحو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسمي"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "اسمي"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "من بيت"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:28:51.898665139Z",
+  "model": "glm-5.2"
+}

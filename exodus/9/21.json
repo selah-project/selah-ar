@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "ومَن لم يجعل قلبه ⟨إلى⟩ كلمة يهوه ترك ⟨את⟩ عبيده و⟨את⟩ مواشيه في الحقل.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ومَن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "جعل"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "قلبه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "ترك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عبيده"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "عبيده"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مواشيه"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "مواشيه"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "في الحقل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:53.369325937Z",
+  "model": "glm-5.2"
+}

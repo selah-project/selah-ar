@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "قربان أوائل تُقرِّبونه ⟨את⟩ها ليهوه، وإلى المذبح لا يصعد لرائحة هدوء.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "قربان"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "أوائل"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "تُقرِّبونه"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ها"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "يصعد"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "لرائحة"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "هدوء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:46.675376842Z",
+  "model": "glm-5.2"
+}

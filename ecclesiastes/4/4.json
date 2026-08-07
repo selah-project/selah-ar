@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "ورأيتُ أنا ⟨את⟩ كلَّ التعبِ و⟨את⟩ كلَّ إتقانِ العمل، أنّه غَيرةُ الإنسانِ من صاحبه. وهذا أيضًا هَباءٌ ورَعْيُ روَحٍ.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "ورأيتُ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلَّ التعب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "التعبِ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلَّ إتقان العمل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "إتقانِ"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "العمل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّه"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨هي⟩"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "غَيرةُ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "الإنسانِ"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "من صاحبه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "وهذا"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هَباءٌ"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ورَعْيُ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روَحٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:44.701307294Z",
+  "model": "glm-5.2"
+}

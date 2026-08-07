@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وقرّب ⟨את⟩ العولاه وصنعها كالمشفات.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "وقرّب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "العولاه"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "العولاه"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "وصنعها"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "كالمشفات"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:49.446530237Z",
+  "model": "glm-5.2"
+}

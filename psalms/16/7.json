@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "أبارك ⟨את⟩ يهوه الذي أشار عليّ، بل الليالي تؤدّبني كُلْياي.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "أبارك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "أشار عليّ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بل"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "الليالي"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "تؤدّبني"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "كُلْياي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:43:11.190703197Z",
+  "model": "glm-5.2"
+}

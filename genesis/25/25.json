@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 25:25",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وخرج الأوّلُ أدمونيًّا، كلُّه كرادةِ شَعر، فدعوا اسمَه عيساو",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "الأوّل"
+    },
+    {
+      "surface": "אדמוני",
+      "gloss": "أدمونيًّا"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "كلُّه"
+    },
+    {
+      "surface": "כאדרת",
+      "gloss": "كرادةِ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "شَعر"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "فدعوا"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمَه"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيساو"
+    }
+  ],
+  "timestamp": "2026-08-06T23:42:37.854516699Z",
+  "model": "glm-5.2"
+}

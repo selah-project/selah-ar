@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 18:25",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وقال ملك يِسرائيل: خذوا ⟨את⟩ ميخايهو وأعيدوه إلى آمون رئيس المدينة وإلى يوآش ابن الملك،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "خذوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ميخايهو"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "ميخايهو"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "وأعيدوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "آمون"
+    },
+    {
+      "surface": "שר",
+      "gloss": "رئيس"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "يوآش"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    }
+  ],
+  "timestamp": "2026-08-07T05:27:03.674062844Z",
+  "model": "glm-5.2"
+}

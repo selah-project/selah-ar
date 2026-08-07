@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 26:13",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "يهوه إلوهيمنا، تسلّط علينا أسيادٌ سواك؛ ⟨وحده⟩ بك نُذكِّر اسمك.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلوهيمنا"
+    },
+    {
+      "surface": "בעלונו",
+      "gloss": "تسلّطوا علينا"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "أسيادٌ"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "سواك"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "⟨وحده⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "بك"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "نُذكِّر"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "اسمك"
+    }
+  ],
+  "timestamp": "2026-08-07T02:11:36.128590938Z",
+  "model": "glm-5.2"
+}

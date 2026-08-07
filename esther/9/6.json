@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وفي شوشن القلعة قتل اليهوديون وأهلكوا خمسمئة رجل.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "وفي شوشن"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "القلعة"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "قتل"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "اليهوديون"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "وأهلكوا"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "خمس"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:54:49.211519279Z",
+  "model": "glm-5.2"
+}

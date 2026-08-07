@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 71,
+  "translation": "بِكَ يهوه احتميتُ، لا أَخزى إلى الأبد.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "بك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "احتميت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "أَخزى"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:57.292333719Z",
+  "model": "glm-5.2"
+}

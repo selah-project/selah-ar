@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 35:17",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "و⟨كان⟩ في اشتعالِ ولادتِها، فقالت لها المُولِّدة: لا تخافي، لأنّ هذا أيضًا لك ابن.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "בהקשתה",
+      "gloss": "في اشتعالِها"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "ولادتِها"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "المُولِّدة"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "تخافي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:42.266910565Z",
+  "model": "glm-5.2"
+}

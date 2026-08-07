@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "و⟨את⟩ يَعوتس و⟨את⟩ شَكيا و⟨את⟩ مِرماه. هؤلاء أبناؤه رؤوس آباء.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "يَعوتس"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "يَعوتس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "شَكيا"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "شَكيا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مِرماه"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "مِرماه"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "أبناؤه"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "رؤوس"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "آباء"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:35.164413442Z",
+  "model": "glm-5.2"
+}

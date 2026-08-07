@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 116,
+  "translation": "آه يا يهوه، لأنّي عبدُك، أنا عبدُك ابنُ أمَتِك، أنت فككت قيودي.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "آه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدُك"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدُك"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنُ"
+    },
+    {
+      "surface": "אמתك",
+      "gloss": "أمَتِك"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "أنت فككت"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "قيودي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:24.741646308Z",
+  "model": "glm-5.2"
+}

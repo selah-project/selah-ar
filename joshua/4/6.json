@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 4:6",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "لكي تكون هذه علامةً في وسطكم، لأنّ أبناءكم يسألون غدًا قائلين: «ما هذه الحجارة لكم؟»",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "אות",
+      "gloss": "علامةً"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "في وسطكم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "ישאלון",
+      "gloss": "يسألون"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "أبناءكم"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "غدًا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "الحجارة"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:05:45.309424466Z",
+  "model": "glm-5.2"
+}

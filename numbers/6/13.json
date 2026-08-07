@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 6:13",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "«وهذه توراة النذير: في يوم ملء أيام نذره يُقدِّمُه ⟨את⟩ إلى باب خيمة موعد.»",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "وهذه"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "توراةُ"
+    },
+    {
+      "surface": "הנזיר",
+      "gloss": "النذير"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "ملءِ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيامِ"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "نذره"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "يُقدِّمُ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "إليه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "بابِ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمةِ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "موعد"
+    }
+  ],
+  "timestamp": "2026-08-07T07:10:28.018182266Z",
+  "model": "glm-5.2"
+}

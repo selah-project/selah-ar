@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 3:11",
+  "book": "habakkuk",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "شمسٌ وقمرٌ وقفا ⟨في⟩مسكنهما، لنورِ سهامِك يسيران، لِنَجاءِ برقِ رمحِك.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "شمسٌ"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "وقمرٌ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "وقفا"
+    },
+    {
+      "surface": "זבלה",
+      "gloss": "مسكنهما"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "لنورِ"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "سهامِك"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "يسيران"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "لِنَجاءِ"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "برقِ"
+    },
+    {
+      "surface": "חניתך",
+      "gloss": "رمحِك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:32:21.094216001Z",
+  "model": "glm-5.2"
+}

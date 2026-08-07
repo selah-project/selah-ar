@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 66:2",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 66,
+  "translation": "و⟨את⟩ كلِّ هذه صنعته يدي، فكانت كلُّ هذه، نأمُ يهوه. وإلى هذا أنظرُ: إلى المنكسرِ ونسيمِ الروَحِ والمرتعدِ على كلمتي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "يدي"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "صنعت"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "فكانت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نأم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אביט",
+      "gloss": "أنظرُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עני",
+      "gloss": "المنكسر"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "ونسيمِ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "الروَحِ"
+    },
+    {
+      "surface": "וחרד",
+      "gloss": "والمرتعدِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلمتي"
+    }
+  ],
+  "timestamp": "2026-08-07T02:29:23.023099909Z",
+  "model": "glm-5.2"
+}

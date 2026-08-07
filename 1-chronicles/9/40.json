@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وابن يهوناتان مَريب بَعل، ومَري بَعل ولد ⟨את⟩ ميخا.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "وابن"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يهوناتان"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "مَريب"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بَعل"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "ومَري"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بَعل"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ميخا"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ميخا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:13:36.685457741Z",
+  "model": "glm-5.2"
+}

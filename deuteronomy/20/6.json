@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 20:6",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "ومن ⟨هو⟩ الرجل الذي غرس كرمًا ولم يُحلِّله؟ يذهب ويرجع إلى بيته، خشيةَ أن يموت في الحرب فيُحلِّله رجلٌ آخر.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "غرس"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "كرمًا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "يُحلِّله"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "يذهب"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ويرجع"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "إلى بيته"
+    },
+    {
+      "surface": "פן",
+      "gloss": "خشيةَ أن"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "يموت"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "في الحرب"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ورجل"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "آخر"
+    },
+    {
+      "surface": "יחללנו",
+      "gloss": "يُحلِّله"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:23.861796015Z",
+  "model": "glm-5.2"
+}

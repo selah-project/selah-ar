@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 25:15",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "الثامن يَشَعْياهو، بنوه وإخوته، اثنا عشر.",
+  "tokens": [
+    {
+      "surface": "הַשְּׁמִינִ֣י",
+      "gloss": "الثامن"
+    },
+    {
+      "surface": "יְשַֽׁעְיָ֔הוּ",
+      "gloss": "يَشَعْياهو"
+    },
+    {
+      "surface": "בָּנָ֥יו",
+      "gloss": "بنوه"
+    },
+    {
+      "surface": "וְאֶחָ֖יו",
+      "gloss": "وإخوته"
+    },
+    {
+      "surface": "שְׁנֵ֥ים",
+      "gloss": "اثنا"
+    },
+    {
+      "surface": "עָשָֽׂר",
+      "gloss": "عشر"
+    }
+  ],
+  "timestamp": "2026-08-07T05:18:01.509582171Z",
+  "model": "glm-5.2"
+}

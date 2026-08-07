@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "وقال يعقوف ليوسف: «إيل شدّاي تراءى لي في لوز في أرض كنعان وباركني ⟨את⟩.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّاي"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "تراءى"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "في لوز"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كنعان"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "وباركني"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:56:38.575827726Z",
+  "model": "glm-5.2"
+}

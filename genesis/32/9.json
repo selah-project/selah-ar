@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 32:9",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "وقال: «إن جاء عيسو إلى المحلّة الواحدة وضربها، تكون المحلّة الباقية للنجاة».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "جاء"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "المحلّة"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "الواحدة"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "وضربها"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "وتكون"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "المحلّة"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "الباقية"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "للنجاة"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:46.402643763Z",
+  "model": "glm-5.2"
+}

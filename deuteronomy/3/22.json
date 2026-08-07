@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 3:22",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "لا تخافوهم، لأنّ يهوه إلوهيمكم هو المحاربُ عنكم.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תיראום",
+      "gloss": "تخافوهم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلوهيمكم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "المحاربُ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "عنكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:48:15.810228121Z",
+  "model": "glm-5.2"
+}

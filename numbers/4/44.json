@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 4:44",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فكان مَعْدُودُوهم لعَشائرهم ثلاثةَ آلاف ⟨و⟩مئتَين.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "فكان"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "مَعْدُودُوهم"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "لعَشائرهم"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ثلاثة"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "آلاف"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "⟨و⟩مئتَين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:29:09.621319145Z",
+  "model": "glm-5.2"
+}

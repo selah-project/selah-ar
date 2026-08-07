@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "و⟨تنضب⟩ مياه من البحر، والنهر يخرِب وييبَس.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "و⟨تنضب⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "مياه"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "من البحر"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "والنهر"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "يخرِب"
+    },
+    {
+      "surface": "ובש",
+      "gloss": "وييبَس"
+    }
+  ],
+  "timestamp": "2026-08-07T02:09:11.975184288Z",
+  "model": "glm-5.2"
+}

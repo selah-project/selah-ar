@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "و⟨رأى⟩ يعقوف ⟨את⟩ وجهَ لابان، و⟨إذا هو⟩ ليس معه كأمسِ أولَ من أمس.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "و⟨رأى⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وجهَ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهَ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و⟨إذا هو⟩"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "كأمسِ"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "أولَ من أمس"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:22.063956587Z",
+  "model": "glm-5.2"
+}

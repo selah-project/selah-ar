@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "أحجارَ شُوهام، وأحجارَ مُلُوءٍ للأَفود ولِلْحُوشن.",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "أحجارَ"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "شُوهام"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "وأحجارَ"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "مُلُوءٍ"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "للأَفود"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "ولِلْحُوشن"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:38.058071503Z",
+  "model": "glm-5.2"
+}

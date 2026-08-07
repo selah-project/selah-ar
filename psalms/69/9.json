@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 69,
+  "translation": "غريبًا صِرتُ لإخوَتي، وغريبًا لبَني أُمّي.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "غريبًا"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "صِرتُ"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "لإخوَتي"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "وغريبًا"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لبَني"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "أُمّي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:33.490559Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 3:7",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وانفتحت عينا كليهما فعرفا أنهما عُريانان، فخاطا ورق تينة وصنعا لأنفسهما مَناطق.",
+  "tokens": [
+    {
+      "surface": "ותפקחנה",
+      "gloss": "وانفتحت"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "عينا"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "كليهما"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "فعرفا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أن"
+    },
+    {
+      "surface": "עירמם",
+      "gloss": "عُريانان"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هما"
+    },
+    {
+      "surface": "ויתפרו",
+      "gloss": "فخاطا"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ورق"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "تينة"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "وصنعا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لأنفسهما"
+    },
+    {
+      "surface": "חגרת",
+      "gloss": "مَناطق"
+    }
+  ],
+  "timestamp": "2026-08-07T05:33:44.599553041Z",
+  "model": "glm-5.2"
+}

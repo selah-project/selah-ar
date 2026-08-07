@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 9:21",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فهرب يوتام وفرّ وذهب إلى بئيرا، وسكن هناك من وجه أڤيميلخ أخيه.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "فهرب"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "يوتام"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "وفرّ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "وذهب"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "إلى بئيرا"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "وسكن"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجه"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "أڤيميلخ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "أخيه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:15:36.508181229Z",
+  "model": "glm-5.2"
+}

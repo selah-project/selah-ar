@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 9:27",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "«ليوسّع إلوهيم ليافت، وليسكُن في خيام شِيم، وليكن كَناعان عبدًا لهم.»",
+  "tokens": [
+    {
+      "surface": "יפת",
+      "gloss": "ليوسّع"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ליפת",
+      "gloss": "ليافت"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "وليسكُن"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "في خيام"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شِيم"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وليكن"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كَناعان"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عبد"
+    },
+    {
+      "surface": "למו",
+      "gloss": "لهم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:38.175397726Z",
+  "model": "glm-5.2"
+}

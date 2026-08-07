@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 9:2",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فتجمّعوا معًا للقتال مع يهوشُع ومع يسرايل، فمٌ واحدٌ.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "فتجمّعوا"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "معًا"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "للقتال"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشُع"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ومع"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "פה",
+      "gloss": "فمٌ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدٌ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:04:50.059812011Z",
+  "model": "glm-5.2"
+}

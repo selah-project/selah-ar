@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وفطمت ⟨את⟩ لُؤ-رُحاماه، فحبلت وولدت ابنًا.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "وفطمت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لُؤ-رُحاماه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لُؤ"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "رُحاماه"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "فحبلت"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "وولدت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:19:42.584329288Z",
+  "model": "glm-5.2"
+}

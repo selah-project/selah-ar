@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 15:2",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "لسانُ الحكماء يُحسِنُ المعرفة، ⟨و⟩فمُ الجهّال يُفِيضُ حماقةً.",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "لسان"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "الحكماء"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "يُحسِنُ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "المعرفة"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "وفمُ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "الجهّال"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "يُفِيضُ"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "حماقةً"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:09.442666470Z",
+  "model": "glm-5.2"
+}

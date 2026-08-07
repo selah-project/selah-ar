@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "ألا يفحص إلوهيم ⟨هذا⟩؟ لأنّه ⟨هو⟩ يعرف خفايا القلب.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ألا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "يفحص"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "يعرف"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "خفايا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "القلب"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:22.154300449Z",
+  "model": "glm-5.2"
+}

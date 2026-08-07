@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 29:11",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "لعبورك في بريت يهوه إلوهيم وفي قسمه، الذي يهوه إلوهيم يقطعه معك اليوم.",
+  "tokens": [
+    {
+      "surface": "לעברך",
+      "gloss": "لعبورك"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "في بريت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ובאלתו",
+      "gloss": "وفي قسمه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "يقطعه"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:51.602576274Z",
+  "model": "glm-5.2"
+}

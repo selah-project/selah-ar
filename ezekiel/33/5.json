@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 33:5",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "⟨את⟩ صوت الشوفار سمع ولم يُحذَّر، دمُه عليه يكون، وأمّا ⟨هو⟩ فأُحذِّر نَفْسَه يُنقذ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صوت"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "الشوفار"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سمع"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "يُحذَّر"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "دمُه"
+    },
+    {
+      "surface": "בו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وأمّا هو"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "أُحذِّر"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نَفْسَه"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "يُنقذ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:08:36.183437499Z",
+  "model": "glm-5.2"
+}

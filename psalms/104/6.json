@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 104,
+  "translation": "التِّهوم كاللباس غطّيتَه، فوق الجبال تقف المياه.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "التِّهوم"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "كاللباس"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "غطّيتَه"
+    },
+    {
+      "surface": "על",
+      "gloss": "فوق"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "الجبال"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "تقف"
+    },
+    {
+      "surface": "מים",
+      "gloss": "المياه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:06:31.081551076Z",
+  "model": "glm-5.2"
+}

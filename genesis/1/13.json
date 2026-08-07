@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "و⟨كان⟩ مساءً و⟨كان⟩ صباحًا، يومٌ ثالث.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "مساءً"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صباحًا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يومٌ"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "ثالث"
+    }
+  ],
+  "timestamp": "2026-08-06T23:34:58.771282976Z",
+  "model": "glm-5.2"
+}

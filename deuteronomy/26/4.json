@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "«فيأخذُ الكوهين القفّة من يدك ويُقرِّرُها أمام مذبح يهوه إلوهيمك،",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "«فيأخذُ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "القفّة"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "من يدك"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "ويُقرِّرُها"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:23.174867763Z",
+  "model": "glm-5.2"
+}

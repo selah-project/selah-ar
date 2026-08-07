@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "وعاد غضب يهوه ليشعل في يسرايل، فأحرّك ⟨את⟩ داود بهم قائلًا: اذهب، عُدّ ⟨את⟩ يسرايل و⟨את⟩ يهوداه.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "وعاد"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "ليشعل"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "في يسرايل"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "فأحرّك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داود"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "بهم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اذهب"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "عُدّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرايل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "يهوداه"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوداه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:41:46.323251040Z",
+  "model": "glm-5.2"
+}

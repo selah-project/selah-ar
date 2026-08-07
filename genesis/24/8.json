@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 24:8",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "«وإن لم ترضَ ⟨المرأة⟩ بالسير خلفك، فقد تبرّأتَ من يميني هذه. إنّما ⟨את⟩ ابني لا تُعده إلى هناك»",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "ترضَ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "المرأة"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "بالسير"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "خلفك"
+    },
+    {
+      "surface": "ונקית",
+      "gloss": "فقد تبرّأتَ"
+    },
+    {
+      "surface": "משבעתי",
+      "gloss": "من يميني"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "רק",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابني"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ابني"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "تُعده"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "إلى هناك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:58.754936885Z",
+  "model": "glm-5.2"
+}

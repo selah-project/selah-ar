@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 6:34",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وروَح يهوه لبِسَت ⟨את⟩ جدعون، فضرب بالشوفار فهتفت أبيعزر بعده.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "وروَح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לבשה",
+      "gloss": "لبِسَت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جدعون"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "جدعون"
+    },
+    {
+      "surface": "ויתקע",
+      "gloss": "فضرب"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "بالشوفار"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "فهتفت"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "أبيعزر"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "بعده"
+    }
+  ],
+  "timestamp": "2026-08-07T01:14:34.310569111Z",
+  "model": "glm-5.2"
+}

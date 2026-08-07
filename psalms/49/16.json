@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "لكنَّ إلوهيم يفدي نَفسي من يدِ شيول، لأنه يتلقّاني. سِلاه.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "لكن"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "يفدي"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفسي"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يد"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شيول"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "يتلقّاني"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:52:03.847761745Z",
+  "model": "glm-5.2"
+}

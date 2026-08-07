@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 52:32",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 52,
+  "translation": "وكلّمه بِخَيْرات، وجعل ⟨את⟩ كرسيّه فوق كرسيّ الملوك الذين معه في بافل.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وكلّم"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "إيّاه"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "بِخَيْرات"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "وجعل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كرسيّه"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "كرسيّه"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "فوق"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "لكرسيّ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "الملوك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "في بافل"
+    }
+  ],
+  "timestamp": "2026-08-07T02:53:49.936726875Z",
+  "model": "glm-5.2"
+}

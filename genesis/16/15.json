@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 16:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وولدت هاغر لأفرام ابنًا، ودعا أفرام اسم ابنه الذي ولدته هاغر يِشماعيل.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "وولدت"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "هاغر"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "لأفرام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنًا"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "أفرام"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ولدته"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "هاغر"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "يِشماعيل"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:53.460858602Z",
+  "model": "glm-5.2"
+}

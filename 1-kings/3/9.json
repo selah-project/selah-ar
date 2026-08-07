@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 3:9",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "و⟨تعطي⟩ لعبدك قلبًا سامعًا ⟨ليحكم⟩ ⟨את⟩ شعبك، ليفهم بين الخير والشر، لأنه من يقدر أن يحكم ⟨את⟩ شعبك العظيم هذا؟",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "و⟨تعطي⟩"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "لعبدك"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سامعًا"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "⟨ليحكم⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شعبك"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "شعبك"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "للفهم"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "الخير"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "والشر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "يقدر"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "أن يحكم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شعبك"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "شعبك"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "العظيم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:42:48.779674809Z",
+  "model": "glm-5.2"
+}

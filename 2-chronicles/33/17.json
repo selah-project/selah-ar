@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 33:17",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "إلّا أنّ الشعب لا يزال يذبح في المرتفعات، إنّما ليهوه إلههم.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "إلّا أنّ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "لا يزال"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "يذبح"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "في المرتفعات"
+    },
+    {
+      "surface": "רק",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "إلههم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:30:50.536681593Z",
+  "model": "glm-5.2"
+}

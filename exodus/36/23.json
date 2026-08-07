@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "وصنع ⟨את⟩ ألواح المِشكان: عشرين لوحاً لجهة نَگَب تَيماناً.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وصنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ألواح المِشكان"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ألواح"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "المِشكان"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "عشرين"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "لوحاً"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "لجهة"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "نَگَب"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "تَيماناً"
+    }
+  ],
+  "timestamp": "2026-08-07T00:14:15.438086286Z",
+  "model": "glm-5.2"
+}

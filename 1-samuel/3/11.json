@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 3:11",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فقال يهوه لِشموئيل: هوذا أنا فاعلٌ أمرًا في يسرائيل، كلّ من يسمعه تطنّ أذناه كلنتيه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لِـ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فاعل"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "أمرًا"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "في يسرائيل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "من يسمعه"
+    },
+    {
+      "surface": "תצלינה",
+      "gloss": "تطنّ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "كلنتيه"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "أذناه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:21:51.049824878Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 51,
+  "translation": "قلبًا طاهرًا خلُق فيَّ يا إلوهيم، وروَحًا ثابتًا جدِّد في باطني",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "قلبًا"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "طاهرًا"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "خلُق"
+    },
+    {
+      "surface": "לי",
+      "gloss": "فيَّ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "يا إلوهيم"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "وروَحًا"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ثابتًا"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "جدِّد"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "في باطني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:53:35.367069542Z",
+  "model": "glm-5.2"
+}

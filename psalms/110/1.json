@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 110,
+  "translation": "لدافيد مزمور. نأم يهوه لسيّدي: اجلس ليميني حتى أجعل أعداءك موطئًا لرجليك.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "لدافيد"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نأم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "لسيّدي"
+    },
+    {
+      "surface": "שב",
+      "gloss": "اجلس"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "ليميني"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "أجعل"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "أعداءك"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "موطئًا"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "لرجليك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:17.969670285Z",
+  "model": "glm-5.2"
+}

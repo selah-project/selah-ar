@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 20:41",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "فأسرع وأزال ⟨את⟩ الأفر عن عينيه، فعرفه ملك يسرايل لأنه من النافيين هو.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "فأسرع"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "وأزال"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأفر"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "الأفر"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "عن"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "عينيه"
+    },
+    {
+      "surface": "ויכר",
+      "gloss": "فعرفه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ملك"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "מהנבאים",
+      "gloss": "من النافيين"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T05:49:41.254738445Z",
+  "model": "glm-5.2"
+}

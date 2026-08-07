@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "لا يكن لك إلوهيم آخرون على وجهي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "آخرون"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:51:56.736192596Z",
+  "model": "glm-5.2"
+}

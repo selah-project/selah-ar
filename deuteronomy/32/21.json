@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 32:21",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "هم أغاروني بِلا إيل، أغضبوني بأباطيلهم، و⟨أنا⟩ سأُغيرهم بِلا شعب، بأمّة نابال سأُغضبهم.",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "קנאוני",
+      "gloss": "أغاروني"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بِلا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "כעסוני",
+      "gloss": "أغضبوني"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "بأباطيلهم"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "و⟨أنا⟩"
+    },
+    {
+      "surface": "אקניאם",
+      "gloss": "سأُغيرهم"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بِلا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "بأمّة"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نابال"
+    },
+    {
+      "surface": "אכעיסם",
+      "gloss": "سأُغضبهم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:43:04.612763755Z",
+  "model": "glm-5.2"
+}

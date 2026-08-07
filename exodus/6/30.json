@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فقال موشيه أمام وجه يهوه: ها أنا ذو شِفاهٍ غُلفٍ، فكيف يسمع إليَّ فرعون؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام وجه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ها"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "أغلف\/غير مختون"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "شِفاه"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "فكيف"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "يسمع"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليَّ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:22.294259112Z",
+  "model": "glm-5.2"
+}

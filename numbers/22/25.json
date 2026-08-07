@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 22:25",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "فرأتِ الأتونة ⟨את⟩ ملاك يهوه فضغطتْ نحو الجدار، وضغطتْ ⟨את⟩ رِجل بيلعام نحو الجدار، فعاد فضربها",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "فرأت"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "الأتونة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ملاك"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ملاك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ותלחץ",
+      "gloss": "فضغطتْ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نحو"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "الجدار"
+    },
+    {
+      "surface": "ותלחץ",
+      "gloss": "وضغطتْ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رِجل"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "رِجل"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بيلعام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نحو"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "الجدار"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "فعاد"
+    },
+    {
+      "surface": "להכתה",
+      "gloss": "ليضربها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:39:08.447088996Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 135,
+  "translation": "يهوه، اسمُك إلى الأبد؛ يهوه، ذكرَك لِدورٍ دورٍ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "اسمُك"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "ذكرَك"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "لِجيل"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "وجيل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:16:23.793711696Z",
+  "model": "glm-5.2"
+}

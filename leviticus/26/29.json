@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "وتأكلون لحم بنيكم، ولحم بناتكم تأكلون.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "وتأكلون"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "لحم"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "بنيكم"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ولحم"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "بناتكم"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تأكلون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:17.984824234Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 11:4",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "لذلك تنبّأ عليهم، تنبّأ يا ابن آدم.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "تنبّأ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "تنبّأ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:58:42.760892302Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "لا تُكمِّم ثورًا وهو يدوسُ حبوبَه.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "تكمّم"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ثور"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "وهو يدوس حبوبه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:29.411411125Z",
+  "model": "glm-5.2"
+}

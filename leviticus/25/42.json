@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "لأنَّهم عَبيدي هم، الذين أخرَجتُ ⟨את⟩هم من أرضِ مصرايم؛ لا يُباعون بَيعَ عَبد.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنهم"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عبدي"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "أخرجتُ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "هم"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "من أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "يُباعون"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "بيعَ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عبد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:26:32.795575822Z",
+  "model": "glm-5.2"
+}

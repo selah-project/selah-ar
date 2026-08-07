@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "أهذا عرفتَهُ منذ الأزل، منذ وُضِعَ الإنسانُ على الأرض،",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "أهذا"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "عرفتَه"
+    },
+    {
+      "surface": "מני",
+      "gloss": "منذ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "الأزل"
+    },
+    {
+      "surface": "מני",
+      "gloss": "منذ"
+    },
+    {
+      "surface": "שים",
+      "gloss": "وُضِعَ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "على"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T04:38:23.976723266Z",
+  "model": "glm-5.2"
+}

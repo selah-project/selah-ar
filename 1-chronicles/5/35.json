@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وأخيمَعَص ولَد ⟨את⟩ عَزَراياه، وعَزَراياه ولَد ⟨את⟩ يوحنان.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "وأخيمَعَص"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عَزَراياه"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عَزَراياه"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "وعَزَراياه"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوحنان"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "يوحنان"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:14.065355642Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "أَمَصياوُ بْنُه، عَزَرْيا بْنُه، يُوتام بْنُه.",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "أَمَصياوُ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بْنُه"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عَزَرْيا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بْنُه"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "يُوتام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بْنُه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:18.830724255Z",
+  "model": "glm-5.2"
+}

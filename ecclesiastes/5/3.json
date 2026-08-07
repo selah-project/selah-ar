@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "كما تَنذُر نذرًا لإلوهيم لا تُأخِّر إتمامه، لأنّه لا سرور بالجاهلين؛ ⟨את⟩ الذي تَنذُر أَتْمِمْه.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "تَنذُر"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذرًا"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "لإلوهيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "تُأخِّر"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "إتمامه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "سرور"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "بالجاهلين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الذي تَنذُر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "تَنذُر"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "أَتْمِمْه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:41.917203394Z",
+  "model": "glm-5.2"
+}

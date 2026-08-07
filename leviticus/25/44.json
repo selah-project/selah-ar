@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 25:44",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وأمَّا عَبدُكَ وأَمَتُكَ الذين يكونون لك، فمن الشُّعوب التي حَولَكُم منهم تَقتَنون عَبدًا وأَمَةً.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "وعبدك"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "وأمتك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "يكونون"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "من"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "الشعوب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "حولكم"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "منهم"
+    },
+    {
+      "surface": "תקנו",
+      "gloss": "تقتنون"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عبدًا"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "وأمةً"
+    }
+  ],
+  "timestamp": "2026-08-07T00:26:32.795812686Z",
+  "model": "glm-5.2"
+}

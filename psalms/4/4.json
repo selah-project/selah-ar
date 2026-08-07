@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "واعلموا أنّ يهوه ميَّز لنفسِهِ حَسيده؛ يهوه يسمع عند دُعائي إيّاه",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "واعلموا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "ميَّز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "حَسيده"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لنفسِهِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "يسمع"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "عند دُعائي"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إيّاه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:40:33.423404484Z",
+  "model": "glm-5.2"
+}

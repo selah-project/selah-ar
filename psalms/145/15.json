@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 145,
+  "translation": "أعينُ الجميع تترقَّبُكَ، وأنتَ تُعطيهم ⟨את⟩ طعامَهم في وقته.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "أعينُ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "الجميع"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "تترقَّبُ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "وأنتَ"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "تُعطي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "طعامَهم"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "طعامَهم"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "في وقته"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:59.968540017Z",
+  "model": "glm-5.2"
+}

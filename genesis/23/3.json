@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "فقام أفراهام من على وجه ميّته، فتكلّم مع بني حِت قائلًا:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "فقام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "من على"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ميّته"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "فتكلّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مع"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حِت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:47.113742629Z",
+  "model": "glm-5.2"
+}

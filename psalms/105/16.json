@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 105,
+  "translation": "ودعا جوعًا على الأرض، كلَّ عصا خبزٍ كسر.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "جوع"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "عصا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبز"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "كسر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:08:48.216777056Z",
+  "model": "glm-5.2"
+}

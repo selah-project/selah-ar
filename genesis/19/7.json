@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وقال: «لا أرجوكم يا إخوتي، لا تُسيئوا».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "أرجوكم"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "يا إخوتي"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "تُسيئوا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:15.497073708Z",
+  "model": "glm-5.2"
+}

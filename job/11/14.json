@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 11:14",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "إن كان إثم في يدك، أبعده، ولا تُسكِن في خيامك ظُلمًا،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "און",
+      "gloss": "إثم"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "في يدك"
+    },
+    {
+      "surface": "הרחיקהו",
+      "gloss": "أبعده"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "تُسكِن"
+    },
+    {
+      "surface": "באהליך",
+      "gloss": "في خيامك"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ظُلمًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:34:22.422239705Z",
+  "model": "glm-5.2"
+}

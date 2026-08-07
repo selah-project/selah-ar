@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 36:22",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "و⟨كانوا⟩ بَني لوطان: حوري وهيمام. وأختَ لوطان: تمنع.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و⟨كانوا⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَني"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوطان"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "حوري"
+    },
+    {
+      "surface": "והימם",
+      "gloss": "وهيمام"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "وأختَ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوطان"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "تمنع"
+    }
+  ],
+  "timestamp": "2026-08-07T05:35:14.504187932Z",
+  "model": "glm-5.2"
+}

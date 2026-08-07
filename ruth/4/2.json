@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 4:2",
+  "book": "ruth",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وأخذ عشرة رجال من شيوخ المدينة وقال: اجلسوا هنا. فجلسوا.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرة"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "من شيوخ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "اجلسوا"
+    },
+    {
+      "surface": "פה",
+      "gloss": "هنا"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "فجلسوا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:48:23.067057800Z",
+  "model": "glm-5.2"
+}

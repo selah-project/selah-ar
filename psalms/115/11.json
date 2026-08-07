@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 115,
+  "translation": "يا يتّقي يَهوه، ثقوا بيَهوه، هو عونُهم وترسُهم",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "يا يتّقي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يَهوه"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ثقوا"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "بيَهوه"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "عونُهم"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "وترسُهم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:58.506097987Z",
+  "model": "glm-5.2"
+}

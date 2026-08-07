@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "و⟨تمسح⟩ ⟨את⟩ الحوض و⟨את⟩ قاعدته، و⟨تقدّس⟩ ⟨את⟩ه.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "و⟨تمسح⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الحوض"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "الحوض"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "قاعدته"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "قاعدته"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "و⟨تقدّس⟩"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "الحوض"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:54.406876048Z",
+  "model": "glm-5.2"
+}

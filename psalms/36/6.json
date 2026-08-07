@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "يهوه، ⟨في⟩ السماوات حِسِدُك، إمِتُك ⟨إلى⟩ الغمام.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حِسِدُك"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "إمِتُك"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "الغمام"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:43.571901734Z",
+  "model": "glm-5.2"
+}

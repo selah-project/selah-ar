@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 74,
+  "translation": "لماذا تَردُّ يدك ويمينك؟ من وسط حِضنك أَتْمِها.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "تَردُّ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدك"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "ويمينك"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "من وسط"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "حِضنك"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "أَتْمِها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:34.194392701Z",
+  "model": "glm-5.2"
+}

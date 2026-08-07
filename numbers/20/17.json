@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 20:17",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "نعبرْ نا في أرضك لا نعبر في حقل ⟨و⟩في كرم ⟨و⟩لا نشرب ماء بئر طريق الملك نسلك لا نميل يمين ⟨و⟩يسار حتى إنّ نعبر حدودك",
+  "tokens": [
+    {
+      "surface": "נעברה",
+      "gloss": "نعبرْ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "في أرضك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נעבר",
+      "gloss": "نعبر"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "في حقل"
+    },
+    {
+      "surface": "ובכרם",
+      "gloss": "⟨و⟩في كرم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨و⟩لا"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "نشرب"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ماء"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "طريق"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "نسلك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "نميل"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "يمين"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "⟨و⟩يسار"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "إنّ"
+    },
+    {
+      "surface": "נעבר",
+      "gloss": "نعبر"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "حدودك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:38:08.221116284Z",
+  "model": "glm-5.2"
+}

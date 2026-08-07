@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وأخذنا في ذلك الوقت ⟨את⟩ الأرض من يد ملكَيِ الأموريّ الذي في عبر الأردنّ، من وادي أرنون إلى جبل حرمون.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "وأخذنا"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "في"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يد"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ملكَي"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ملكَي"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "الأموريّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "في عبر"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "الأردنّ"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "من وادي"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "أرنون"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "حرمون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:48:14.258463625Z",
+  "model": "glm-5.2"
+}

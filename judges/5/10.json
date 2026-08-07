@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 5:10",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "يا راكبي أُتنٍ بيض، يا جالسين على مِشحاد، وماشين على الطريق — تحدَّثوا!",
+  "tokens": [
+    {
+      "surface": "רכבי",
+      "gloss": "يا راكبي"
+    },
+    {
+      "surface": "אתנות",
+      "gloss": "أُتن"
+    },
+    {
+      "surface": "צחרות",
+      "gloss": "بيض"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "يا جالسين"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مِشحاد"
+    },
+    {
+      "surface": "והלכי",
+      "gloss": "وماشين"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "الطريق"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "تحدَّثوا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:13:49.765766414Z",
+  "model": "glm-5.2"
+}

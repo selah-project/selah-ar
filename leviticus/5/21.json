@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 5:21",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "ونَفْس إذ تخطئ وتخون خيانةً في يهوه، وتكذب ⟨في حقّ⟩ رفيقها في وديعة أو في رهن اليد أو في غصب أو ⟨تكون⟩ قد ظلمت ⟨את⟩ رفيقها،",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "نَفْس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذ"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "تخطئ"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "وتخون"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "خيانةً"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "في يهوه"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "وتكذب"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "في رفيقها"
+    },
+    {
+      "surface": "בפקדון",
+      "gloss": "في وديعة"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "בתשומת",
+      "gloss": "في رهن"
+    },
+    {
+      "surface": "יד",
+      "gloss": "اليد"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "בגזל",
+      "gloss": "في غصب"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ظلمت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رفيقها"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "رفيقها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:53.045808768Z",
+  "model": "glm-5.2"
+}

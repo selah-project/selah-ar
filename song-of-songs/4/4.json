@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 4:4",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "كبرجِ داوِدَ عُنُقُكِ، مَبنيٌّ للطَّلائعِ؛ ألفُ مِتراسٍ مُعلَّقٌ عليه، كلُّ أتراسِ الجبّارين.",
+  "tokens": [
+    {
+      "surface": "כמגדל",
+      "gloss": "كبرج"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "عنقُكِ"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "مبني"
+    },
+    {
+      "surface": "לתלפיות",
+      "gloss": "للطلائع"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "המגן",
+      "gloss": "متراس"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "معلَّق"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "أتراس"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "الجبارين"
+    }
+  ],
+  "timestamp": "2026-08-07T04:45:58.193447975Z",
+  "model": "glm-5.2"
+}

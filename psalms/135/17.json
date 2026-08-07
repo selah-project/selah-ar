@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 135,
+  "translation": "لهم آذانٌ ولا يُصغون، حتى لا ⟨يوجد⟩ روَحٌ (نفَس) في أفواههم.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "آذان"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "يُصغون"
+    },
+    {
+      "surface": "אף",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨يوجد⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روَح"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "في أفواههم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:16:26.730289961Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 29:6",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "فقال لهم: ألَهُ شالوم؟ (سلام) فقالوا: شالوم، وإذا راحيل ابنته آتية مع القطيع.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "الشالوم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقالوا"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحيل"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ابنته"
+    },
+    {
+      "surface": "באה",
+      "gloss": "آتية"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "القطيع"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:32.965650311Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "فيأخذ شيوخ تلك المدينة ⟨את⟩ الرجل ويأدّبونه.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "فيأخذ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "شيوخ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "تلك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الرجل"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "ويأدّبونه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-07T00:58:14.868044824Z",
+  "model": "glm-5.2"
+}

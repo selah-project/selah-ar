@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 25:29",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "و⟨بدّل⟩ ⟨את⟩ ثياب سجنه، وأكل خبزًا دائمًا ⟨أمام⟩ه كلّ أيّام حياته.",
+  "tokens": [
+    {
+      "surface": "ושנא",
+      "gloss": "و⟨بدّل⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ثياب سجنه"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ثياب"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "سجنه"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "وأكل"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "دائمًا"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "⟨أمام⟩ه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "حياته"
+    }
+  ],
+  "timestamp": "2026-08-07T02:02:41.518526787Z",
+  "model": "glm-5.2"
+}

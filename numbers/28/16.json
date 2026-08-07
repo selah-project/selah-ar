@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "وفي الشهر الأول، في الرابع عشر يومًا للشهر، فصح ليهوه.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "وفيالشهر"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "الأول"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "فيأربعة"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "للشهر"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "فصح"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:01.789297144Z",
+  "model": "glm-5.2"
+}

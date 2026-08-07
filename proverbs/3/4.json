@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فاحظَلْ حِنًّا وفَطانةً صالحةً في عينَيْ إلوهيم وإنسان",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "فاحظَلْ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "حِنًّا"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "وفَطانةً"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "صالحةً"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عينَيْ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "وإنسان"
+    }
+  ],
+  "timestamp": "2026-08-07T04:21:46.474522196Z",
+  "model": "glm-5.2"
+}

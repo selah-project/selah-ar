@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 51,
+  "translation": "أكثرْ غسلًا لي من عَوْني، ومن خطيئتي طهِّرني.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "أكثرْ"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "غسلًا لي"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "من عَوْني"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "ومن خطيئتي"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "طهِّرني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:53:34.220661831Z",
+  "model": "glm-5.2"
+}

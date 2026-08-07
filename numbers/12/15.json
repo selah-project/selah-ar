@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 12:15",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "فحُبست مريام خارج المحلّة سبعة أيّام، والشعب لم يَرحل حتى استُقبِلت مريام.",
+  "tokens": [
+    {
+      "surface": "ותסגר",
+      "gloss": "فحُبست"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "مريام"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "خارج"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "المحلّة"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سبعة"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "والشعب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "يَرحل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "استُقبِلت"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "مريام"
+    }
+  ],
+  "timestamp": "2026-08-07T00:34:49.686995365Z",
+  "model": "glm-5.2"
+}

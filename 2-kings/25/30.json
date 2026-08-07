@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "ورزقُه، رزقٌ دائمٌ، ⟨كُلِّل⟩ له من لدن الملك، أمرَ يومٍ في يومه، كلّ أيّام حياته.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "ورزقه"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "رزقٌ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "دائمٌ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "⟨كُلِّل⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "من لدن"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "أمرَ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يومٍ"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "في يومه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "حياته"
+    }
+  ],
+  "timestamp": "2026-08-07T02:02:41.518762178Z",
+  "model": "glm-5.2"
+}

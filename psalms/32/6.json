@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 32:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "على هذا يُصلّي كلُّ حَسيدٍ إليك، لِوَقْتِ وُجودٍ ⟨فقط⟩، لسَيلِ مياهٍ كثيرةٍ — إليه لا يبلغون.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "יתפלל",
+      "gloss": "يُصلّي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "حَسيد"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "لِوَقْتِ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "وُجودٍ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "⟨فقط⟩"
+    },
+    {
+      "surface": "לשטף",
+      "gloss": "لِسَيلِ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "مياهٍ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرةٍ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "يبلغون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:44.808362843Z",
+  "model": "glm-5.2"
+}

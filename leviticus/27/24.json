@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 27:24",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "في سنَةِ اليوبيل يعود الحقلُ إلى الذي اشتَراه منه، إلى الذي له مُمتلكُ الأرض.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "في سنَةِ"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "اليوبيل"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "يعود"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "الحقل"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "إلى الذي"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "اشتَراه"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "إلى الذي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "مُمتلكُ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:37.860574806Z",
+  "model": "glm-5.2"
+}

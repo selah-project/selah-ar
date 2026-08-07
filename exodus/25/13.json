@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وتصنع عصيًّا من خشب الشِّيتّيم، وتُغلِّفها ⟨את⟩ ذهبًا.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "وتصنع"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "عصيّ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "خشب"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "الشِّيتّيم"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "وتُغلِّف"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ذاك (المفعول: العصيّ)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهبًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:21.086239828Z",
+  "model": "glm-5.2"
+}

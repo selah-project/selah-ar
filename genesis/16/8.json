@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 16:8",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "فقال: «هاگار، جارية ساراي، من أين أتيتِ وإلى أين تمضين؟» فقالت: «من أمام ساراي سيّدتي أنا هاربة».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "هاگار"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "جارية"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ساراي"
+    },
+    {
+      "surface": "אי",
+      "gloss": "أين"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "من"
+    },
+    {
+      "surface": "באת",
+      "gloss": "أتيتِ"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "وإلى أين"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "تمضين"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من أمام"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ساراي"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "سيّدتي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "ברחת",
+      "gloss": "هاربة"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:49.328855484Z",
+  "model": "glm-5.2"
+}

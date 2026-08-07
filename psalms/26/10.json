@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "الذين في أيديهم مؤامرة، ويمينهم ملآنة رشوة",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "في أيديهم"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "مؤامرة"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ويمينهم"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ملآنة"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "رشوة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:45:40.444768933Z",
+  "model": "glm-5.2"
+}

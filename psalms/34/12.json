@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "تعالوا يا بنين اسمعوا لي، مخافة يهوه أُعلّمكم.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "تعالوا"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "يا بنين"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "اسمعوا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "مخافة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "أُعلّمكم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:16.291714857Z",
+  "model": "glm-5.2"
+}

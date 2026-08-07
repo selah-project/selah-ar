@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 47,
+  "translation": "الذي كان كلمة يهوه إلى يرميا النافي، على الفلستيين، قبل أن يضرب فرعون ⟨את⟩ غزّة",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرميا"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "النافي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "على"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "الفلسطيين"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "قبل"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "أن يضرب"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غزّة"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "غزّة"
+    }
+  ],
+  "timestamp": "2026-08-07T02:49:38.649032790Z",
+  "model": "glm-5.2"
+}

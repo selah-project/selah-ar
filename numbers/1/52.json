@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 1:52",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وينزل بنو يسرائيل، كلّ واحدٍ عند مَخيّمته وكلّ واحدٍ عند رايتِه، بحسب جيوشهم.",
+  "tokens": [
+    {
+      "surface": "וחנו",
+      "gloss": "وينزل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كلّ واحدٍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "عند"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "مَخيّمته"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "وكلّ واحدٍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "عند"
+    },
+    {
+      "surface": "דגלו",
+      "gloss": "رايتِه"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "بحسب جيوشهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:12.203412926Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 108:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 108,
+  "translation": "أحمدَكَ في الشُّعوب يهوه، ⟨و⟩أُزمِرَكَ في الأُمَم",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "أحمدَكَ"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "في الشُّعوب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ואזמרך",
+      "gloss": "⟨و⟩أُزمِرَكَ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "في"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "الأُمَم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:02.536108153Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "لأنك تستقبله ببركات خير، تضع على رأسه تاجًا من ذهب إبريز",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنك"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "تستقبله"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "ببركات"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خير"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "تضع"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "على رأسه"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "تاجًا"
+    },
+    {
+      "surface": "פז",
+      "gloss": "من ذهب إبريز"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:45.013012330Z",
+  "model": "glm-5.2"
+}

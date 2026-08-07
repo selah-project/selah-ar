@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 17:10",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "تَهْبِطُ توبيخة في ذي فَهْمٍ أعمق من ضرب مئة في غبيّ.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "تَهْبِطُ"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "توبيخة"
+    },
+    {
+      "surface": "במבין",
+      "gloss": "في ذي فَهْمٍ"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "من ضرب"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "غبيّ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "مئة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:22.669000147Z",
+  "model": "glm-5.2"
+}

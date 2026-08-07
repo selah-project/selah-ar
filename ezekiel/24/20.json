@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 24:20",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فقلتُ لهم: «كانت إليَّ كلمةُ يهوه قائلةً:»",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "فقلتُ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمةُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كانت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليَّ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلةً:"
+    }
+  ],
+  "timestamp": "2026-08-07T03:04:46.408141504Z",
+  "model": "glm-5.2"
+}

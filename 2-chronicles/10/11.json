@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "والآن، أبي حمّل عليكم نيرًا ثقيلًا، وأنا أزيد على نيركم: أبي أدّبكم بالسياط، وأنا بالعقارب.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "حمّل"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "عليكم"
+    },
+    {
+      "surface": "על",
+      "gloss": "نيرًا"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ثقيلًا"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "أزيد"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "نيركم"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "أدّب"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "إيّاكم",
+      "marks": "بالسياط"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "بالسياط"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "بالعقارب"
+    }
+  ],
+  "timestamp": "2026-08-07T05:25:08.202123281Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 58,
+  "translation": "كالحلزون ذائِبًا ⟨يَمضي⟩، كسقطِ امرأةٍ لم ⟨يَرَ⟩ الشمس،",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "كـ"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "الحلزون"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "ذائِبًا"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "يَمضي"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "سقط"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "בל",
+      "gloss": "لم"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "يَرَ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "الشمس"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:46.536205223Z",
+  "model": "glm-5.2"
+}

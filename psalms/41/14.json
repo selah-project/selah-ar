@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "مباركٌ يهوه إلوهيم إسرائيل، من الأزل وإلى الأبد. أمين ⟨وأمين⟩.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "مباركٌ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "من الأزل"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "الأبد"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "أمين"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "⟨و⟩أمين"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:14.244196676Z",
+  "model": "glm-5.2"
+}

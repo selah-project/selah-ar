@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 37:32",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "وأرسلوا ⟨את⟩ قميص الأنماط وأتوا به إلى أبيهم وقالوا: «هذه وجدناها. تَعَرَّف الآن: قميص ابنك هو أم لا؟»",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "وأرسلوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قميص الأنماط"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "قميص"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "الأنماط"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "وأتوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "أبيهم"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقالوا"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "وجدناها"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "تعرّف"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "قميص"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ابنك"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:55.980615988Z",
+  "model": "glm-5.2"
+}

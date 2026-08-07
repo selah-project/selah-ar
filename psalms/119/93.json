@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "إلى الأبد لا أنسى فَقُودَيك، لأنّه بها أحْيَيتَني.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "أنسى"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "فَقُودَيك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "בם",
+      "gloss": "بها"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "أحْيَيتَني"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:12.529027346Z",
+  "model": "glm-5.2"
+}

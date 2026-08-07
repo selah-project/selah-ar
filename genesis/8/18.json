@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "فخرج نُواحٌ وبنوه وامرأته ونساءُ بنيه معه.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "فخرج"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُواحٌ"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "وبنوه"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "وامرأته"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ونساءُ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "بنيه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:25.207799331Z",
+  "model": "glm-5.2"
+}

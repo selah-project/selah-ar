@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "مَنْ كالحكيم ومَنْ يعرف تفسير كلمة؟ حكمة الإنسان تُنير وجهه، ووقاحة وجهه تُستبدل.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "مَنْ"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "كالحكيم"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ومَنْ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "يعرف"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "تفسير"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "حكمة"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "تُنير"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "وجهه"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "وقاحة"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "وجهه"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "تُستبدل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:20.711567919Z",
+  "model": "glm-5.2"
+}

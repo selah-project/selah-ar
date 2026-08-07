@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وكان إذ أكثرتِ الصلاةَ أمامَ يهوه، أنّ عيلي كان يراقب ⟨את⟩ فمها.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذ"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "أكثرت"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "الصلاةَ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "أنّ عيلي"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "كان يراقب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فمها"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "فمها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:20:43.974825289Z",
+  "model": "glm-5.2"
+}

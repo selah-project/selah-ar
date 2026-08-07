@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وسُرّيّته واسمها رؤومة، فولدت هي أيضًا ⟨את⟩ طبح و⟨את⟩ جاحم و⟨את⟩ طحش و⟨את⟩ معكة.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "وسُرّيّته"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "واسمها"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "رؤومة"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "فولدت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "طبح"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "طبح"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "جاحم"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "جاحم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "طحش"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "طحش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "معكة"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "معكة"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:51.294770255Z",
+  "model": "glm-5.2"
+}

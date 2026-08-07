@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 33:11",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "باركْ يا يهوه قوّته، وعمَل يديه فلتَرضَ؛ اسحَق متني القائمين عليه، ومبغضيه فلا يقومون.",
+  "tokens": [
+    {
+      "surface": "ברך",
+      "gloss": "باركْ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "قوّته"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "وعمَل"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "يديه"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "فلترضَ"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "اسحَق"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "متني"
+    },
+    {
+      "surface": "קמיו",
+      "gloss": "القائمين عليه"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "ومبغضيه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "يقومون"
+    }
+  ],
+  "timestamp": "2026-08-07T01:01:38.823817457Z",
+  "model": "glm-5.2"
+}

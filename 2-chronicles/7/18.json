@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 7:18",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "فأُقيمُّ ⟨את⟩ كرسيِّ مُلكِك كما قطعتُ لداوديد أبوك قائلاً: لا يُقطع لك رجلٌ يحكم في يسراائيل،",
+  "tokens": [
+    {
+      "surface": "והקימותי",
+      "gloss": "فأُقيمُّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كرسيِّ مُلكِك"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "كرسيِّ"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "مُلكِك"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "قطعتُ"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "لداوديد"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أبوك"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "يُقطع"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلٌ"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "يحكم"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "في يسراائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:24:43.029436024Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 27:2",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "على الفرقة الأولى للشهر الأول ياشوفعام بن زَفديئيل، وعلى فرقته أربعةٌ وعشرون ألفًا.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המחלקת",
+      "gloss": "الفرقة"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "الأولى"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "للشهر"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "الأول"
+    },
+    {
+      "surface": "ישבעם",
+      "gloss": "ياشوفعام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "זבדיאל",
+      "gloss": "زَفديئيل"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "فرقته"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "عشرون"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "وأربعة"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفًا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:19:19.092200086Z",
+  "model": "glm-5.2"
+}

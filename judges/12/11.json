@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وقضى بعده ⟨את⟩ يسرايل إيلون الزبولوني، وقضى ⟨את⟩ يسرايل عشرَ سنين.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "وقضى"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "بعده"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرايل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "إيلون"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "الزبولوني"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "وقضى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرايل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنين"
+    }
+  ],
+  "timestamp": "2026-08-07T01:16:43.493625823Z",
+  "model": "glm-5.2"
+}

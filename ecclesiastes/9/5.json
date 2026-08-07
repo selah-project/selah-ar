@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "لأنّ الأحياء يعرفون أنّهم يموتون، والأموات ليسوا يعرفون شيئًا، وليس لهم بعدُ أجرٌ، لأنّ ذكرهم نُسي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "الأحياء"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "يعرفون"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "أنّهم يموتون"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "والأموات"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ليسوا"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "يعرفون"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "شيئًا"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "وليس"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعدُ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "أجرٌ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "نُسي"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ذكرهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:51.299602541Z",
+  "model": "glm-5.2"
+}

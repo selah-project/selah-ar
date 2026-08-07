@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "مربوع ⟨يكون⟩ مَطوي؛ زِرِت طوله وزِرِت عرضه.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "مربوع"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨يكون⟩"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "مَطوي (مضاعف)"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "زِرِت (شبر)"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "طوله"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "وزِرِت"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "عرضه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:37.324027443Z",
+  "model": "glm-5.2"
+}

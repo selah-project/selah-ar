@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "فجاء موشيه وأهرون إلى وجه خيمة الموعد.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "فجاء"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "وأهرون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:36:46.018185228Z",
+  "model": "glm-5.2"
+}

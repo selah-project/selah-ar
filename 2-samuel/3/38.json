@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 3:38",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وقال الملك لعبيدِهِ: أما تعلمون أنّ سيّدًا وعظيمًا قد سقط اليوم هذا في إسرايل؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "عبيدِهِ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "أما"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "تعلمون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سيّدًا"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "وعظيمًا"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "سقط"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "في إسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:32:19.441884457Z",
+  "model": "glm-5.2"
+}

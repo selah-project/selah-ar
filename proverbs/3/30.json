@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "لا تخاصمْ إنسانًا بلا سبب، إن لم يَصْنعْ بك شرًّا.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "تخاصم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بلا سبب"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "صنع بك"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شرًّا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:12.837949737Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وكلّ ما ليس له زعنفة و⟨حرشف⟩ لا تأكلوه — نجسٌ هو لكم",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "زعنفة"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "وحرشف"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تأكلوه"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجسٌ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:17.920953357Z",
+  "model": "glm-5.2"
+}

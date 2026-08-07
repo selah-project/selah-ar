@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فمُ كسيلٍ هلاكٌ له، وشفاه مَكْمَنُ نَفسِه.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "فم"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "كسيل"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "هلاك"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "وشفاه"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "مَكْمَن"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نفسه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:46.040911889Z",
+  "model": "glm-5.2"
+}

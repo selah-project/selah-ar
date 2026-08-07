@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "وخرجت دينا بنتُ ليا التي ولدتها ليعقوف لِتَرى في بنات الأرض.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "وخرجت"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "دينا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنتُ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ليا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ولدتها"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ليعقوف"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "لِتَرى"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "في بنات"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:50.579755459Z",
+  "model": "glm-5.2"
+}

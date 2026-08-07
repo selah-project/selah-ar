@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 16:15",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "في نور وجه ملكٍ حياة، ورضاه كسحاب المَلقوش.",
+  "tokens": [
+    {
+      "surface": "באור",
+      "gloss": "في نور"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حياة"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "ورضاه"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "كسحاب"
+    },
+    {
+      "surface": "מלקוש",
+      "gloss": "المَلقوش"
+    }
+  ],
+  "timestamp": "2026-08-07T06:08:30.451702224Z",
+  "model": "glm-5.2"
+}

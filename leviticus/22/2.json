@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 22:2",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "كلّم أهارون وبنيه فيعتزلون مقدّسات بني يسرائيل ولا يُدنّسون ⟨את⟩ اسم قدسي الذي هم يُقدّسونه لي أنا يهوه.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "كلّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "بنيه"
+    },
+    {
+      "surface": "וינזרו",
+      "gloss": "فيعتزلون"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "مقدّسات"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "يُدنّسون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "قدسي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "يُقدّسونه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:24.971407440Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وجيشُهُ ومُعدودوهُم: اثنان وستّون ألفاً وسبعُمِئة.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "وجيشُهُ"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ومُعدودوهُم"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "اثنان"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "وستّون"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفاً"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "وسبعُ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مِئة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:24.403194875Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 2:17",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وقال لها الرجال: أبرياء نحن من قسمكِ هذا الذي أقسَمتِنا عليه.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "الرجال"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "أبرياء"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "نحن"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "من قسمكِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "أقسَمتِنا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:03:42.852388479Z",
+  "model": "glm-5.2"
+}

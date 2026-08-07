@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 27:4",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وأوصِهم ⟨את⟩ إلى سادتهم قائلًا: هكذا قال يهوه صباؤوت إلهُ إسرائيل: هكذا تقولون ⟨لـ⟩ سادتكم",
+  "tokens": [
+    {
+      "surface": "וצוית",
+      "gloss": "وأوصِ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "هم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "سادتهم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤوت"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلهُ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "تقولون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨لـ⟩"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "سادتكم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:54:45.713076539Z",
+  "model": "glm-5.2"
+}

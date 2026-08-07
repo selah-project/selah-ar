@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 21:22",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "مدينةُ الجبّارين صعدَها حكيمٌ، فأهبطَ عَزَّ مَوثِقِها",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "مدينةُ"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "الجبّارين"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "صعدَها"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حكيمٌ"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "فأهبطَ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "عَزَّ"
+    },
+    {
+      "surface": "מבטחה",
+      "gloss": "مَوثِقِها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:49.011380805Z",
+  "model": "glm-5.2"
+}

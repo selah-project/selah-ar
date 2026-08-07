@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "فأسرج مركبتَه، ⟨و⟩⟨את⟩ شعبَه أخذ معه.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "فأسرج"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مركبتَه"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "مركبتَه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "شعبَه"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبَه"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "أخذ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:03:26.137112177Z",
+  "model": "glm-5.2"
+}

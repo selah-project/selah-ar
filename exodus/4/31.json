@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وآمن الشعب، وسمعوا أنّ يهوه قد تفقّد ⟨את⟩ بني يسرايل وأنه رأى ⟨את⟩ مذلّتهم، فانحنوا وسجدوا.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "وآمن"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "وسمعوا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "تفقّد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بني"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "وأنّه"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "رأى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مذلّتهم"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "مذلّتهم"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "فانحنوا"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "وسجدوا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:10.503754967Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 102,
+  "translation": "لا تَستُرْ وجهك عنّي في يوم ضِيقي. أَمِلْ إليَّ أُذنَك؛ في يوم أدعو أسْرِع، أَجِبْني.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "تَستُرْ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهك"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "عنّي"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ضِيق"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ـي"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "أَمِلْ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليَّ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "أُذنَك"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "أدعو"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "أسْرِع"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "أَجِبْني"
+    }
+  ],
+  "timestamp": "2026-08-07T04:06:31.978455556Z",
+  "model": "glm-5.2"
+}

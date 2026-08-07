@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 39:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "فأمسكته بثوبه قائلةً: «اضطجع معي!» فترك ثوبه في يدها وهرب وخرج إلى الخارج.",
+  "tokens": [
+    {
+      "surface": "ותתפשהו",
+      "gloss": "فأمسكته"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "بثوبه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلةً"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "اضطجع"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "معي"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "فترك"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ثوبه"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "في يدها"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "وهرب"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "إلى الخارج"
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:49.430759770Z",
+  "model": "glm-5.2"
+}

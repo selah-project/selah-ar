@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 21:16",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "ومن هناك إلى بئيرة، هو ⟨هو⟩ البئر التي قال فيها يهوه لموشيه: اجمع ⟨את⟩ الشعب، وأنا أعطيهم ماءً.",
+  "tokens": [
+    {
+      "surface": "ומשם",
+      "gloss": "ومن هناك"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "إلى بئيرة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "البئر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "لموشيه"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "اجمع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "وأنا أعطي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماءً"
+    }
+  ],
+  "timestamp": "2026-08-07T07:12:14.420410813Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 11:9",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "بفمٍ مُنافِقٍ يُهلِكُ صاحبَه، وبمعرفةِ الصدّيقين يُنقَذون.",
+  "tokens": [
+    {
+      "surface": "בפה",
+      "gloss": "بفمٍ"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "مُنافِقٍ"
+    },
+    {
+      "surface": "ישחת",
+      "gloss": "يُهلِكُ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "صاحبَه"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "وبمعرفةِ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "الصدّيقين"
+    },
+    {
+      "surface": "יחלצו",
+      "gloss": "يُنقَذون"
+    }
+  ],
+  "timestamp": "2026-08-07T04:24:45.871737925Z",
+  "model": "glm-5.2"
+}

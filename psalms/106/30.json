@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 106,
+  "translation": "فقام پِنحاس وصلّى، فاُحبِس الوباء.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "فقام"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "پِنحاس"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "وصلّى"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "فاُحبِست"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "الوباء"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:27.122788597Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 96,
+  "translation": "ليَبتهِلِ الحقلُ وكلُّ ما فيه، حينئذٍ تُرَنِّمْ كلُّ أشجارِ الوغرِ",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "ليَبتهِلِ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "الحقلُ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلُّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "אז",
+      "gloss": "حينئذٍ"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "تُرَنِّمْ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "أشجارِ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "الوغرِ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:07:35.336892599Z",
+  "model": "glm-5.2"
+}

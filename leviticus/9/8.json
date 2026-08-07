@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فاقترب أهارون إلى المذبح وذبح ⟨את⟩ عجل الخطيّة الذي له.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "فاقترب"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "وذبح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عجل"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "عجل"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "الخطيّة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:11.979193015Z",
+  "model": "glm-5.2"
+}

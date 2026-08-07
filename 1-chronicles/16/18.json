@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "قائلًا: «لكم أُعطي أرض كَناعان، حبل ميراثكم»،",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "أُعطي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كَناعان"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "حبل"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "ميراثكم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:00.302888943Z",
+  "model": "glm-5.2"
+}

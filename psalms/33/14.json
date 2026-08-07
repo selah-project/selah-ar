@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "من مَكانِ جلوسه أصغى، إلى كلّ ساكني الأرض.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "من مَكانِ"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "جلوسه"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "أصغى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ساكني"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:06.368847074Z",
+  "model": "glm-5.2"
+}

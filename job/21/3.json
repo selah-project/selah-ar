@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 21:3",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "احملوني وأنا أتكلّم، وبعد كلامي تسخروا.",
+  "tokens": [
+    {
+      "surface": "שאוני",
+      "gloss": "احملوني"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "أتكلّم"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "وبعد"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلامي"
+    },
+    {
+      "surface": "תלעיג",
+      "gloss": "تسخروا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:38:31.938579569Z",
+  "model": "glm-5.2"
+}

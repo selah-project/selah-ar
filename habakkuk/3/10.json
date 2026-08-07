@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 3:10",
+  "book": "habakkuk",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "رأتك الجبال فتمخّضت، سيلُ ماءٍ عبر. تَهومَ أعطى صوتَه، عُلوًّا يديهِ رفع.",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "رأتك"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "فتمخّضت"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "الجبال"
+    },
+    {
+      "surface": "זרם",
+      "gloss": "سيلُ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماءٍ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عبر"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطى"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "تَهومَ"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "صوتَه"
+    },
+    {
+      "surface": "רום",
+      "gloss": "علوًّا"
+    },
+    {
+      "surface": "ידיהו",
+      "gloss": "يديهِ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "رفع"
+    }
+  ],
+  "timestamp": "2026-08-07T03:32:21.094132177Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 22:12",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "فقال شاؤول: اسمعْ الآنَ يا ابن أخيطوف. فقال: ها أنا يا سيّدي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "اسمعْ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآنَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "يا ابن"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "أخيطوف"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ها أنا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "يا سيّدي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:28:48.702143073Z",
+  "model": "glm-5.2"
+}

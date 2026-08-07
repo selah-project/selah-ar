@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "كلّ ما يشقّ ظلفًا ويصدع ⟨صدعًا⟩ شقّ الظلف ويعرج ⟨الجرّة⟩ في البهيمة — ⟨את⟩ه إيّاها تأكلون.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "ما يشقّ"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "ظلفًا"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "ويصدع"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "صدعًا"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "شقّ الظلف"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "ويعرج"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "الجرّة"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "في البهيمة"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاها"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تأكلون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:15.673047756Z",
+  "model": "glm-5.2"
+}

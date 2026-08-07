@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 9:7",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وقال رجالُ إسرايم للحِوِّيّ: «لعلكَ في وسطي ساكن، فكيف أقطع لكَ بريتًا؟»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرايم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ل"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "الحِوِّيّ"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "لعل"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "في وسطي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ك"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ساكن"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "فكيف"
+    },
+    {
+      "surface": "אכרות",
+      "gloss": "أقطع"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريتًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:04:19.492580328Z",
+  "model": "glm-5.2"
+}

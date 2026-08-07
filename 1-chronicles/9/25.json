@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 9:25",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وإخوتهم في ديارهم ليدخلوا لسبعة الأيام، من وقت إلى وقت، مع هؤلاء",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "وإخوتهم"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "في ديارهم"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ليدخلوا"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "لسبعة"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "الأيام"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "من وقت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    }
+  ],
+  "timestamp": "2026-08-07T05:13:58.884942836Z",
+  "model": "glm-5.2"
+}

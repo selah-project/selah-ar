@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 19:24",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "فقال الملك لشِمعي: «لا تموت.» وحلف له الملك.",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "הַמֶּלֶךְ",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "שִׁמְעִי",
+      "gloss": "شِمعي"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תָמוּת",
+      "gloss": "تموت"
+    },
+    {
+      "surface": "וַיִּשָּׁבַע",
+      "gloss": "وحلف"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "له"
+    },
+    {
+      "surface": "הַמֶּלֶךְ",
+      "gloss": "الملك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:38:53.090314950Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "بسبب هذا وقّع الملك دارياوَش الكتابة والمنع.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "بسبب"
+    },
+    {
+      "surface": "קבל",
+      "gloss": ""
+    },
+    {
+      "surface": "דנה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "دارياوَش"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "وقّع"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "الكتابة"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "والمنع"
+    }
+  ],
+  "timestamp": "2026-08-07T04:58:41.808158472Z",
+  "model": "glm-5.2"
+}

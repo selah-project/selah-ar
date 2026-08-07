@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 32:18",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "صخرة ولدتك نَسيتَ، ونسيتَ إيل الذي صنعك",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "صخرة"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "ولدتك"
+    },
+    {
+      "surface": "תשי",
+      "gloss": "نسيتَ"
+    },
+    {
+      "surface": "ותשכח",
+      "gloss": "ونسيتَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "מחללך",
+      "gloss": "الذي صنعك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:02:14.161104468Z",
+  "model": "glm-5.2"
+}

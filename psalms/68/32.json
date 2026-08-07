@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 68,
+  "translation": "يأتي أعيانٌ من مصرايم؛ كوشَ تُسرعُ يديها إلى إلوهيم",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "يأتي"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "أعيانٌ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "من"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "كوشَ"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "تُسرعُ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "يديها"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "إلى إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:58:32.757348916Z",
+  "model": "glm-5.2"
+}

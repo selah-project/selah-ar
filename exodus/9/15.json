@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فإنّي الآن كنت أرسل ⟨את⟩ يدي فضربتك ⟨את⟩ و⟨את⟩ شعبك بالوبأ، فَتُمْحى من الأرض.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "فإنّي"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "كنت أرسل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يدي"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "يدي"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "فضربتك"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "شعبك"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "شعبك"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "بالوبأ"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "فتُمْحى"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:40.947372858Z",
+  "model": "glm-5.2"
+}

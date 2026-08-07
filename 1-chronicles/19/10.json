@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 19:10",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "ورأى يوآب أنّ وجه الحرب ⟨كان⟩ إليه أمامًا وخلفًا، فاختار من كلّ منتخَب في يسرائيل وصفّه للقاء أرام.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ورأى"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "الحرب"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "أمامًا"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "وخلفًا"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "فاختار"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كلّ"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "منتخَب"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "في يسرائيل"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "وصفّه"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "للقاء"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "أرام"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:38.585995596Z",
+  "model": "glm-5.2"
+}

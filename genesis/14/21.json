@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وقال ملك سدوم لأفرام: أعطني النفوس، وأمّا الأملاك فخذها لك.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "أفرام"
+    },
+    {
+      "surface": "תן",
+      "gloss": "أعطِ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "النفوس"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "والأملاك"
+    },
+    {
+      "surface": "קח",
+      "gloss": "خذ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:37.221751244Z",
+  "model": "glm-5.2"
+}

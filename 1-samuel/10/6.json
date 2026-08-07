@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 10:6",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وتغشاك روَح يهوه فتتنبّأ معهم، وتتحوّل إلى رجل آخر.",
+  "tokens": [
+    {
+      "surface": "וצלחה",
+      "gloss": "وتغشاك"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "عليك"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روَح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "והתנבית",
+      "gloss": "فتتنبّأ"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "معهم"
+    },
+    {
+      "surface": "ונהפכת",
+      "gloss": "وتتحوّل"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "إلى رجل"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "آخر"
+    }
+  ],
+  "timestamp": "2026-08-07T01:23:34.949378003Z",
+  "model": "glm-5.2"
+}

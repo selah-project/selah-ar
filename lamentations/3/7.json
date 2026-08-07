@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "سَيَّجَ ⟨حولي⟩ فلا أخرج، أثقَلَ نحاسِي",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "سَيَّجَ"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "حولي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "أخرج"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "أثقَلَ"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "نحاسِي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:48:36.676385112Z",
+  "model": "glm-5.2"
+}

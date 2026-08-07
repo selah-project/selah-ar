@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "«و أَرجِعتُ ⟨את⟩ سبي يهودا و⟨את⟩ سبي يسوراإيل، و بنيتُهم كما في الأوّل»",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "و أَرجِعتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سبي"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "سبي"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "سبي"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "سبي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسوراإيل"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "و بنيتُهم"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "كما في الأوّل"
+    }
+  ],
+  "timestamp": "2026-08-07T02:43:40.917994559Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 44:31",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "كلُّ جيفةٍ ومفترَسةٍ من الطير ومن البهيمة لا يأكلها الكهنة.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "جيفةٍ"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "ومفترَسةٍ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "الطير"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "البهيمة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "يأكلها"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكهنة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:16:41.734930710Z",
+  "model": "glm-5.2"
+}

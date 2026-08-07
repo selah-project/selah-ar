@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 110,
+  "translation": "حلف يهوه ولن ينيخ: أنت كاهنٌ إلى الأبد على رتبتي ملكي صِدِق.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "حلف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولن"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "ينيخ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "كاهن"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "رتبتي"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ملكي"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "صِدِق"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:17.970027765Z",
+  "model": "glm-5.2"
+}

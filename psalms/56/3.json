@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 56,
+  "translation": "ابتلعني مُتربِّصيَّ النهارَ كلَّه، لأنهم كثيرون يحاربونني يا مَروم",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "ابتلع"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "مُتربِّصيَّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "النهار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنهم"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرون"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "يحاربونني"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ضدّي"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "يا مَروم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:28.864766009Z",
+  "model": "glm-5.2"
+}

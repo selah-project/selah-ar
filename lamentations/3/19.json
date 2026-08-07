@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 3:19",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "اذكُرْ مَذَلَّتي وتشرّدي، السَّرَسَةُ والسُّمّ.",
+  "tokens": [
+    {
+      "surface": "זְכָר",
+      "gloss": "اذكر"
+    },
+    {
+      "surface": "עָנְיִי",
+      "gloss": "مذلتي"
+    },
+    {
+      "surface": "וּמְרוּדִי",
+      "gloss": "وتشرّدي"
+    },
+    {
+      "surface": "לַעֲנָה",
+      "gloss": "السَّرَسَة"
+    },
+    {
+      "surface": "וָרֹאשׁ",
+      "gloss": "والسم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:48:42.420086913Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وخرج الكاهن من البيت إلى مدخل البيت، وأغلق ⟨את⟩ البيت سبعةَ أيّام.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكاهن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "مدخل"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "وأغلق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "البيت"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سبعةَ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيّام"
+    }
+  ],
+  "timestamp": "2026-08-07T00:19:47.907204676Z",
+  "model": "glm-5.2"
+}

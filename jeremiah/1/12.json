@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 1:12",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فقال يهوه إليّ: «أحسنتَ في الرؤية، لأنّي أنا أسهِر على كلمتي لأُنجِزها».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "أحسنتَ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "في الرؤية"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "أسهِر"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلمتي"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "لأُنجِزها"
+    }
+  ],
+  "timestamp": "2026-08-07T02:27:42.728584399Z",
+  "model": "glm-5.2"
+}

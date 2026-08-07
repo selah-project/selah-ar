@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وقامت أختُه من بعيدٍ لتعلم ماذا يُفعَل به.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "وقامت"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "أختُه"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "من بعيد"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "لتعلم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يُفعَل"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:54.645662908Z",
+  "model": "glm-5.2"
+}

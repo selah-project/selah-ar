@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "و⟨את⟩ جلد الثور و⟨את⟩ كلّ لحمه على رأسه وعلى ساقَيه وجوفه وفرثه،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "جلد"
+    },
+    {
+      "surface": "עור",
+      "gloss": "جلد"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "الثور"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "لحمه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "رأسه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "ساقَيه"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "وجوفه"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "وفرثه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:44.619101743Z",
+  "model": "glm-5.2"
+}

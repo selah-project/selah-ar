@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "فقلنا له: صادقون نحن، لم نكن متلصّصين.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "فقلنا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "صادقون"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "نحن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "نكن"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "متلصّصين"
+    }
+  ],
+  "timestamp": "2026-08-06T23:52:23.745056972Z",
+  "model": "glm-5.2"
+}

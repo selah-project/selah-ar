@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "ومن سبط آشير: ⟨את⟩ مشال و⟨את⟩ مراعيها، ⟨את⟩ عبدون و⟨את⟩ مراعيها.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ومن سبط"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشير"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مشال"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "مشال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مراعيها"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مراعيها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عبدون"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "عبدون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مراعيها"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مراعيها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:11:14.228651645Z",
+  "model": "glm-5.2"
+}

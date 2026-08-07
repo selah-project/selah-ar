@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 48:6",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "وعلى حدود أفرايم، من جهة الشرق وإلى جهة البحر: رأوفين واحد.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "حدود"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "أفرايم"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "من جهة"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "الشرق"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "جهة"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رأوفين"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:18:43.291274598Z",
+  "model": "glm-5.2"
+}

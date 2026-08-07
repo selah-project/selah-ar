@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 48:2",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "وأُخبِر يعقوف وقيل: «هوذا ابنك يوسف آتٍ إليك». فتشدّد يسرايل وجلس على السرير.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "وأُخبِر"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ليعقوف"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقيل"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ابنك"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آتٍ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "فتشدّد"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "وجلس"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "السرير"
+    }
+  ],
+  "timestamp": "2026-08-06T23:56:38.575720245Z",
+  "model": "glm-5.2"
+}

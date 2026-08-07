@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 13:14",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "اذكر لي، إلوهيمي، على هذا، ولا تمحُ حِسِدي الذي فعلتُهُ في بيت إلوهيمي وفي حِراساته.",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "اذكر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيمي"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "تمحُ"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "حِسِدي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "فعلتُهُ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في بيت"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيمي"
+    },
+    {
+      "surface": "ובמשמריו",
+      "gloss": "وفي حِراساته"
+    }
+  ],
+  "timestamp": "2026-08-07T05:09:24.341165116Z",
+  "model": "glm-5.2"
+}

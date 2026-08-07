@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 45:20",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "وهكذا تفعل في السابع في الشهر، من جهل ⟨من⟩ ضالّ ⟨ومن⟩ ساذج، فتكفّرون ⟨את⟩ البيت.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "وهكذا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تفعل"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "في السابع"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "في الشهر"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "من جهل"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "ضالّ"
+    },
+    {
+      "surface": "ומפתי",
+      "gloss": "وساذج"
+    },
+    {
+      "surface": "וכפרתם",
+      "gloss": "فتكفّرون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "البيت"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    }
+  ],
+  "timestamp": "2026-08-07T03:18:00.128724640Z",
+  "model": "glm-5.2"
+}

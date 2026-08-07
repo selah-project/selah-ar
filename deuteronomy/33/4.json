@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "توراةً أوصى بِها موشيه لنا، مُوراثًا لجماعة يعقوف.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "توراة"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "مُوراثًا\/مِيراثًا"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "جماعة\/مجموعة"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    }
+  ],
+  "timestamp": "2026-08-07T01:02:22.623191439Z",
+  "model": "glm-5.2"
+}

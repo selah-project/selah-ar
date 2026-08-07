@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 150,
+  "translation": "هلّلوه في جبرواته، هلّلوه ككثرِ عظمته",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "هلّلوه"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "في جبرواته"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "هلّلوه"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "ككثر"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "عظمته"
+    }
+  ],
+  "timestamp": "2026-08-07T04:19:16.068316282Z",
+  "model": "glm-5.2"
+}

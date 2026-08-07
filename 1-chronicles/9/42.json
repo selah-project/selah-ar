@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وآحاز ولد ⟨את⟩ يعراه، ويعراه ولد ⟨את⟩ عَلَمِت و⟨את⟩ عَزْماوِت و⟨את⟩ زِمري؛ وزِمري ولد ⟨את⟩ موصا.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "وآحاز"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يعراه"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "يعراه"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "ويعراه"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عَلَمِت"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "عَلَمِت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "عَزْماوِت"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "عَزْماوِت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "زِمري"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "زِمري"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "وزِمري"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موصا"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "موصا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:13:54.461394104Z",
+  "model": "glm-5.2"
+}

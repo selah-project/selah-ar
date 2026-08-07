@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "يوجد شرٌّ مُسهِمٌ رأيتُه تحتَ الشّمس: ثروةٌ محفوظةٌ لأصحابها لِشرِّهم.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "يوجد"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شرٌّ"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "مُسهِمٌ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "رأيتُه"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحتَ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "الشّمس"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ثروةٌ"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "محفوظةٌ"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "لأصحابها"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "لِشرِّهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:02.247755060Z",
+  "model": "glm-5.2"
+}

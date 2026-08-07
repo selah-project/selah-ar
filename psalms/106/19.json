@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 106,
+  "translation": "صنعوا عِجلًا في حوريف، وسجدوا ⟨لـ⟩ مَسوكة.",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "صنعوا"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "عِجل"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "في حوريف"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "وسجدوا"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "مَسوك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:11.728257008Z",
+  "model": "glm-5.2"
+}

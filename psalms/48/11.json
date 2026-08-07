@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "كاسمك، يا إلوهيم، هكذا تسبيحُك على أطراف الأرض. صِدِقٌ ملأ يمينك.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "كاسمك"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "يا إلوهيم"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "تسبيحُك"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "أطراف"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "صِدِقٌ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ملأ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "يمينك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:50.615146001Z",
+  "model": "glm-5.2"
+}

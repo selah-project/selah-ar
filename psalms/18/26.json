@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "مع الحَسيِد تتحنّن، مع الجبّار التامّ تُتَمِّم.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "الحَسيِد"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "تتحنّن"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "الجبّار"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "التامّ"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "تُتَمِّم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:40.335114641Z",
+  "model": "glm-5.2"
+}

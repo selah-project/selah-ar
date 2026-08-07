@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وَأَعطى لابان لها ⟨את⟩ زِلْفةَ جاريتَه، لِلَيْئةَ ابنتِه، جاريةً.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "وَأَعطى"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زِلْفةَ"
+    },
+    {
+      "surface": "زלפה",
+      "gloss": "زِلْفةَ"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "جاريتَه"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "لِلَيْئةَ"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ابنتِه"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "جاريةً"
+    }
+  ],
+  "timestamp": "2026-08-07T06:35:12.194341419Z",
+  "model": "glm-5.2"
+}

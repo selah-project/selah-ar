@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 47,
+  "translation": "لأنَّ يهوه عليون مهوب، ملكٌ عظيم على كلِّ الأرض.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عليون"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "مهوب"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملكٌ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:51.247837564Z",
+  "model": "glm-5.2"
+}

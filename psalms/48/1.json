@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "شير مِزمور لبَنِي قوراخ",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "شير"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مِزمور"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لبَنِي"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قوراخ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:51:43.136486510Z",
+  "model": "glm-5.2"
+}

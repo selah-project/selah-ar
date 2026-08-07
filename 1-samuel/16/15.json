@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "فقال عبيد شاؤول له: «ها الآن روَح إلوهيم ردية تقلقلك.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عبيد"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روَح"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ردية"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "تقلقلك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:26:11.234169015Z",
+  "model": "glm-5.2"
+}

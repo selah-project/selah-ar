@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 56,
+  "translation": "يومَ أخاف ⟨أنا⟩، عليكَ أتوكَّل",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "يومَ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "أخاف"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "عليكَ"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "أتوكَّل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:28.864877618Z",
+  "model": "glm-5.2"
+}

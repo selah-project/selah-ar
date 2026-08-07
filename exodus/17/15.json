@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وبنى موشيه مذبحًا، ودعا اسمه: يهوه-نِسّي.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "وبنى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبحًا"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "نِسّي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:06.743337646Z",
+  "model": "glm-5.2"
+}

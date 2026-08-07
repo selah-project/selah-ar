@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 9:23",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فقلب يهورام يدَيه وهرب. وقال لاخَزياو: «غَدْرٌ يا اخَزياو!».",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "فقلب"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "يهورام"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "يدَيه"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "وهرب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "اخَزياو"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "غَدْرٌ"
+    },
+    {
+      "surface": "אחזיה",
+      "gloss": "يا اخَزياو"
+    }
+  ],
+  "timestamp": "2026-08-07T01:55:35.378955873Z",
+  "model": "glm-5.2"
+}

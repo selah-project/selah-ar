@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 130,
+  "translation": "لينتظرْ يِسراائيل يهوه، لأنّ عند يهوه الحِسِد، وعنده وفرةٌ من الفداء.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "لينتظرْ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسراائيل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "عند"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "الحِسِد"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "وفرةٌ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "عنده"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "من الفداء"
+    }
+  ],
+  "timestamp": "2026-08-07T04:15:58.440396196Z",
+  "model": "glm-5.2"
+}

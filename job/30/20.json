@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "أصرخُ إليك فلا تُجيبُني؛ وقفتُ فتتأمَّلُ فيّ.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "أصرخُ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "تُجيبُني"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "وقفتُ"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "فتتأمَّلُ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "فيّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:40:33.311952502Z",
+  "model": "glm-5.2"
+}

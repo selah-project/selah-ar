@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "خيرٌ ⟨لِـ⟩ محتقرٍ وله عبدٌ، ⟨مِنْ⟩ مُكرِّمِ نفسِهِ وهو ناقصُ خبز.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "خيرٌ"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "محتقر"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "وله عبد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "مُكرِّمِ نفسِهِ"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "وهو ناقصُ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبز"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:02.855058076Z",
+  "model": "glm-5.2"
+}

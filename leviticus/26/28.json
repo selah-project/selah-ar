@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "فأنا أيضًا أمشي معكم بحَمَد قَري، وأؤدِّبُكم ⟨את⟩ أنا أيضًا سبعًا على خطاياكم.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "فأمشي"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "معكم"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "بحَمَد"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "قَري"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "وأؤدِّبُ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاكم"
+    },
+    {
+      "surface": "אף",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبعًا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "خطاياكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:36.826347237Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 34:18",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "ونسيئًا واحدًا نسيئًا واحدًا من سبط تأخذون لتُنَزِّل ⟨את⟩ الأرض",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "ونسيئًا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "نسيئًا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "من سبط"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "تأخذون"
+    },
+    {
+      "surface": "لנחל",
+      "gloss": "لتُنَزِّل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T00:45:21.903591320Z",
+  "model": "glm-5.2"
+}

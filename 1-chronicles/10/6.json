@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فمات شاؤول وثلاثة بنيه وكلّ بيته معًا ماتوا.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "فمات"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "وثلاثة"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "بنيه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "بيته"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "معًا"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ماتوا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:14:24.470648478Z",
+  "model": "glm-5.2"
+}

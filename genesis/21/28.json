@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وأقام أفراهام ⟨את⟩ سبع نعاج من القطيع بمفردهنّ.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "وأقام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سبع نعاج"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبع"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "نعاج"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "القطيع"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "بمفردهنّ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:20.662089689Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "وأمّا أَفيميلك فلم يقترب إليها، وَقال: «أدوناي، أأُمّةً صالحةً أيضًا تقتُل؟»",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "وأمّا أَفيميلك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "يقترب"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "إليها"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وَقال"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "أأُمّةً"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صالحةً"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "تقتُل"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:58.765563823Z",
+  "model": "glm-5.2"
+}

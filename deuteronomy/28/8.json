@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "يوصي يهوه ⟨معك⟩ ⟨את⟩ البركة في مخازنك وفي كلِّ ما تمدُّ إليه يدك، ويباركك في الأرض التي يهوه إلوهيمك يعطيك.",
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "يوصي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨معك⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "البركة"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "البركة"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "في مخازنك"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "وفي كلِّ"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ما تمدُّ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "إليه يدك"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "ويباركك"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "يعطي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:13.092858492Z",
+  "model": "glm-5.2"
+}

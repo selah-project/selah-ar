@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 124,
+  "translation": "لولا يهوه ⟨الذي⟩ كان لنا، في قوم ⟨الناس⟩ علينا،",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "لولا"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "שֶׁהָיָה",
+      "gloss": "⟨الذي⟩ كان"
+    },
+    {
+      "surface": "לָנוּ",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "בְּקוּם",
+      "gloss": "في قوم"
+    },
+    {
+      "surface": "עָלֵינוּ",
+      "gloss": "علينا"
+    },
+    {
+      "surface": "אָדָם",
+      "gloss": "⟨الناس⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T08:12:13.529519226Z",
+  "model": "glm-5.2"
+}

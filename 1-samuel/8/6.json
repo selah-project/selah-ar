@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 8:6",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وساء الأمر في عينَيْ شموئيل حين قالوا: «أعطنا ملكًا يقضي لنا». وصلّى شموئيل إلى يهوه.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "وساء"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عينَيْ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "حين"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "قالوا"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "أعطِ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "نا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملكًا"
+    },
+    {
+      "surface": "לשפטנו",
+      "gloss": "يقضي لنا"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "وصلّى"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:22:34.161423428Z",
+  "model": "glm-5.2"
+}

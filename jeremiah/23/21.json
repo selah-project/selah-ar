@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "لم أُرسِلِ النّافيين ⟨وهم⟩ ركضوا، لم أُكلّمهم ⟨وهم⟩ نَبَأوا.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "أرسلتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "النّافيين"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "النّافيين"
+    },
+    {
+      "surface": "והם",
+      "gloss": "وهم"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "ركضوا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "كلّمتُ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "إليهم"
+    },
+    {
+      "surface": "והם",
+      "gloss": "وهم"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "نبأوا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:39:20.798688160Z",
+  "model": "glm-5.2"
+}

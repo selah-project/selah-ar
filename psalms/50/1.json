@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "مَزْمور لأساف. إيل، إلوهيم، يهوه، تكلَّم ودعا الأرض من مَشرق الشمس إلى مغربها.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مَزْمور"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "لأساف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلَّم"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "من مَشرق"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "الشمس"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "مغربها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:52:05.845312619Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "و⟨كان⟩ في يِشورون ملك، عند اجتمع رؤوس شعب، معًا أسباط يِسرايل.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "في يِشورون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "عند اجتمع"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "رؤوس"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "معًا"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "أسباط"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:02:22.989619180Z",
+  "model": "glm-5.2"
+}

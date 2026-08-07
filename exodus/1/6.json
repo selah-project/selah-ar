@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ومات يوسيف وكلّ إخوته وكلّ ⟨ال⟩جيلِ ⟨ذلك⟩.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ومات"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسيف"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "إخوته"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "⟨ال⟩جيلِ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨ذلك⟩"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:09.451530177Z",
+  "model": "glm-5.2"
+}

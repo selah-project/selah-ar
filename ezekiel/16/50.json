@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezekiel 16:50",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وتعالَّتْ وصنَعْنَ رِجسًا أمامي، فأزلتُهنّ ⟨את⟩ كما رأيتُ.",
+  "tokens": [
+    {
+      "surface": "ותגבהינה",
+      "gloss": "وتعالَّتْ"
+    },
+    {
+      "surface": "ותעשינה",
+      "gloss": "وصنَعْنَ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "رجسًا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمامي"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "فأزلتُ"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "هنّ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "رأيتُ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:00:04.177469896Z",
+  "model": "glm-5.2"
+}

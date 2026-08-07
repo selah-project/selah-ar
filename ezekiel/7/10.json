@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "هوذا اليوم، هوذا قد جاء. خرج الصباح، أزهر العصا، أفرخ الزهو.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "באה",
+      "gloss": "قد جاء"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "خرج"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "الصباح"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "أزهر"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "العصا"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "أفرخ"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "الزهو"
+    }
+  ],
+  "timestamp": "2026-08-07T02:55:14.571911956Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "وإنسانٌ في كرامةٍ لا يبيت، أُشبِّهُهُ كالبَهائمِ انقرضوا.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "وإنسان"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "في كرامة"
+    },
+    {
+      "surface": "בל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "يبيت"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "أُشبِّهُهُ"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "كالبهائم"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "انقرضوا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:52:03.847372914Z",
+  "model": "glm-5.2"
+}

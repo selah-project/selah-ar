@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فأخذت المرأةُ الرجلَين وأخفَتهما، وقالت: «نعم، جاءني الرجلُ ولا أعلم من أين هما.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "فأخذت"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "المرأة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الرجلَين"
+    },
+    {
+      "surface": "שני",
+      "gloss": "الرجلَين"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "الرجلَين"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "وأخفَتهما"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "وقالت"
+    },
+    {
+      "surface": "כן",
+      "gloss": "نعم"
+    },
+    {
+      "surface": "באו",
+      "gloss": "جاء"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليَّ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "الرجلَان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "أعلم"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "من أين"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هما"
+    }
+  ],
+  "timestamp": "2026-08-07T01:03:25.271509632Z",
+  "model": "glm-5.2"
+}

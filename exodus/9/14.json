@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 9:14",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "لأنّني في هذه المرّة أرسل ⟨את⟩ كلّ ضرباتي إلى قلبك وفي عبيدك وفي شعبك، لكي تعرف أن ليس مثلي في كلّ الأرض.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّني"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "في المرّة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "أرسل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ ضرباتي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "מגפתי",
+      "gloss": "ضرباتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "قلبك"
+    },
+    {
+      "surface": "ובעבדיך",
+      "gloss": "وفي عبيدك"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "وفي شعبك"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "تعرف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "مثلي"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:40.947228796Z",
+  "model": "glm-5.2"
+}

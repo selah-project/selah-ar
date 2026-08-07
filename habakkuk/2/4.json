@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 2:4",
+  "book": "habakkuk",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "هوذا المنتفخة — لا تستقيم نَفْسه فيه. وأمّا الصدّيق فبإيمانه يحيا.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "עפלה",
+      "gloss": "المنتفخة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "تستقيم"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نَفْسه"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "وأمّا الصدّيق"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "بإيمانه"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "يحيا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:32:18.978868714Z",
+  "model": "glm-5.2"
+}

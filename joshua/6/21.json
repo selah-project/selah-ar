@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 6:21",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وحَرَّموا ⟨את⟩ كلَّ ما في المدينة، من رجل وإلى امرأة، من نَعَم وإلى شيخ، وإلى ثور وشاة وحمار، لِفَمِ السيف.",
+  "tokens": [
+    {
+      "surface": "ויחרימו",
+      "gloss": "وحَرَّموا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلَّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "في المدينة"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "من رجل"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "من نَعَم"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "شيخ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ثور"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "وشاة"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "وحمار"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "لِفَمِ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "السيف"
+    }
+  ],
+  "timestamp": "2026-08-07T01:04:21.626135489Z",
+  "model": "glm-5.2"
+}

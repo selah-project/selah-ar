@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 19:7",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "كلُّ إخوةِ الفقير يُبغضونه؛ فكيف بأصدقائه ابتعدوا عنه! يطاردُ بالكلام — فلا هم ⟨معه⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "إخوةِ"
+    },
+    {
+      "surface": "רש",
+      "gloss": "الفقير"
+    },
+    {
+      "surface": "שנאהו",
+      "gloss": "يُبغضونه"
+    },
+    {
+      "surface": "אף",
+      "gloss": "فكيف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بـ"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "أصدقائه"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "ابتعدوا"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "عنه"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "يطاردُ"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "بالكلام"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:13.918226895Z",
+  "model": "glm-5.2"
+}

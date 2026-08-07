@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "فلم يستطع الكهنة الوقوف للخدمة من وجه السحاب، لأنّ مجد يهوه ملأ ⟨את⟩ بيت يهوه.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "يستطع"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكهنة"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "الوقوف"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "للخدمة"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجه"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "السحاب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ملأ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "مجد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:45:42.569846826Z",
+  "model": "glm-5.2"
+}

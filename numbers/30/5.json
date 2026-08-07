@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 30:5",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وإذا سمع أبوها ⟨את⟩ نذرها و⟨את⟩ إصرها الذي أصره على نفسها، و⟨صمت⟩ أبوها لها، فتقوم كل نذورها، وكل إسر الذي أصره على نفسها يقوم.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "وإذا سمع"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "أبوها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نذرها"
+    },
+    {
+      "surface": "נדרה",
+      "gloss": "نذرها"
+    },
+    {
+      "surface": "ואסרה",
+      "gloss": "وإصرها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "أصره"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "نفسها"
+    },
+    {
+      "surface": "והחריש",
+      "gloss": "وصمت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "أبوها"
+    },
+    {
+      "surface": "וקמו",
+      "gloss": "فتقوم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "نذورها"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "إسر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "أصره"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "نفسها"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "يقوم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:38.586144664Z",
+  "model": "glm-5.2"
+}

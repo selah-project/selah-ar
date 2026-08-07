@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 4:11",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فأجبتُ وقلتُ له: ما ⟨هما⟩ هاتان الزَّيتونتان اللَّتان عن يمين المَنَارة وعن يسارها؟",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "فأجبتُ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "وقلتُ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "שני",
+      "gloss": "هاتان"
+    },
+    {
+      "surface": "הזיתים",
+      "gloss": "الزَّيتونتان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اللَّتان"
+    },
+    {
+      "surface": "על",
+      "gloss": "عن"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "يمين"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "المَنَارة"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعن"
+    },
+    {
+      "surface": "שמאולה",
+      "gloss": "يسارها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:35:48.683189462Z",
+  "model": "glm-5.2"
+}

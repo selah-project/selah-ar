@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "و⟨את⟩ المنورات ومصابيحها لإضرامها كالمشفات أمام الديبير ذهبٌ مُحصًى",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "المنورات"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "المنورات"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "ومصابيحها"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "لإضرامها"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "كالمشفات"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "الديبير"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهب"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "مُحصًى"
+    }
+  ],
+  "timestamp": "2026-08-07T05:20:58.440953455Z",
+  "model": "glm-5.2"
+}

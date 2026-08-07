@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 81,
+  "translation": "مُبغِضو يهوه يتظاهَرون له بالطاعة، و⟨كان⟩ وقتُهم إلى الأبد",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "مُبغِضو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "يتظاهَرون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "وقتُهم"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:00.181655070Z",
+  "model": "glm-5.2"
+}

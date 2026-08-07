@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "وتُقيم ⟨את⟩ المِشكان كَمِشپاتِه الذي أريتَه في الجبل.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "وتُقيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المِشكان"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "المِشكان"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "كَمِشپاته"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "أريتَه"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "في الجبل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:19.095393821Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 7:22",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "و⟨يكون⟩ من كثرة صنع اللبن يُؤكَل زُبدة، لأن زُبدة وعسلاً يأكل كلّ الباقي في وسط الأرض",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و⟨يكون⟩"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "من كثرة"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "صنع"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "لبن"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يُؤكَل"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "زُبدة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "زُبدة"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "وعسلاً"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يأكل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "الباقي"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T02:05:02.821723241Z",
+  "model": "glm-5.2"
+}

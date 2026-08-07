@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وأبنو إيلَفَعَل: عِفير ومِشعام وشامِد. هو بنى ⟨את⟩ أونو و⟨את⟩ لود وبناتِها.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "وأبنو"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "إيلَفَعَل"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِفير"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "ومِشعام"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "وشامِد"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بنى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أونو"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "أونو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "لود"
+    },
+    {
+      "surface": "לד",
+      "gloss": "لود"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "وبناتِها"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:35.164691386Z",
+  "model": "glm-5.2"
+}

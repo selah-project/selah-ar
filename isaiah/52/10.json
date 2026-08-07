@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 52,
+  "translation": "كشف يهوه ⟨את⟩ ذراع قُدسه أمام أعين جميع الأمم، ورأى كلّ أطراف الأرض ⟨את⟩ خلاص إلوهينا",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "كشف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ذراع قُدسه"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ذراع"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "قُدسه"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "أمام أعين"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميع"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ورأى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "أطراف"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خلاص إلوهينا"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "خلاص"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلوهينا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:21:53.564259493Z",
+  "model": "glm-5.2"
+}

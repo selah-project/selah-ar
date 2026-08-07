@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 34:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "إنّما بهذا نُوطئكم: إن صرتم مثلنا، أنْ تُختنوا أنتم كلَّ ذكر.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "بهذا"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "نُوطئ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "كم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "صرتم"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "مثلنا"
+    },
+    {
+      "surface": "להמל",
+      "gloss": "أنْ تُختنوا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ذكر"
+    }
+  ],
+  "timestamp": "2026-08-06T23:48:25.653849357Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 2:7",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "نبذ أدوناي مذبحه، رذل مقدِسه، أسلَم في يد عدوّ أسوار قصورها، رفعوا صوتًا في بيت يهوه كيوم مَوعِد.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "نبذ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "مذبحه"
+    },
+    {
+      "surface": "נאר",
+      "gloss": "رذل"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "مقدِسه"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "أسلَم"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "في يد"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "عدوّ"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "أسوار"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "قصورها"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوتًا"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "رفعوا"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في بيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ك يوم"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مَوعِد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:49:27.135479288Z",
+  "model": "glm-5.2"
+}

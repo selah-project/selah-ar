@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 30:9",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "لا تُصعِدوا عليه بخورًا غريبًا ولا عولاه ولا تقدمة، وسكيبًا لا تسكبوا عليه.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "تُصعِدوا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بخور"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "غريبًا"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "ولا عولاه"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "ولا تقدمة"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "وسكيبًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תסכו",
+      "gloss": "تسكبوا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:10:06.316783405Z",
+  "model": "glm-5.2"
+}

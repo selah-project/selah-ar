@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "مُتمرّدين كنتم مع يهوه منذ يوم عرفتُكم.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "مُتمرّدين"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "كنتم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "منذ يوم"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "عرفتُ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨أرسلَ⟩كم",
+      "marks": "أنتم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:53:39.493208755Z",
+  "model": "glm-5.2"
+}

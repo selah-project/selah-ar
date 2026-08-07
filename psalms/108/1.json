@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 108,
+  "translation": "شير مِزمور لِدافيد",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "شير"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مِزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِدافيد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:02.535742307Z",
+  "model": "glm-5.2"
+}

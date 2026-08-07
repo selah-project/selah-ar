@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "عندما تدخلون لِرُؤيَة وجهي — مَن طلب هذا من أيديكم؟ دَوسَ دِياري!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "عندما"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "تدخلون"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "لِرُؤيَة"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهي"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "طلب"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "من أيديكم"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "دَوسَ"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "دِياري"
+    }
+  ],
+  "timestamp": "2026-08-07T02:03:45.920833112Z",
+  "model": "glm-5.2"
+}

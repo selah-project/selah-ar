@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "والنور حلوٌّ، وخيرٌ للعينين أن ترى ⟨את⟩ الشمس.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "وحلوٌّ"
+    },
+    {
+      "surface": "האור",
+      "gloss": "النور"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "وخيرٌ"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "للعينين"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "أن ترى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشمس"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "الشمس"
+    }
+  ],
+  "timestamp": "2026-08-07T04:53:16.371871836Z",
+  "model": "glm-5.2"
+}

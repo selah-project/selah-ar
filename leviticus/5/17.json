@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 5:17",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وإذا أخطأت نَفْسٌ وفعلت واحدةً من كلّ وصايا يهوه التي لا تُفعَل، ولم يعلم، فقد أثم وحمل ذنبه،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨أن⟩"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "أخطأت"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "وفعلت"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "واحدة"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كلّ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "وصايا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "تُفعَل"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "علم"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "فقد أثم"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "وحمل"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ذنبه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:44.598269661Z",
+  "model": "glm-5.2"
+}

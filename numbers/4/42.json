@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 4:42",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "⟨و⟩مَعْدُودُو عَشائر بَني مراري، لعَشائرهم لِبَيت آبائهم:",
+  "tokens": [
+    {
+      "surface": "ופקודי",
+      "gloss": "⟨و⟩مَعْدُودُو"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "عَشائر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَني"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراري"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "لعَشائرهم"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "لِبَيت"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "آبائهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:29:09.621090417Z",
+  "model": "glm-5.2"
+}

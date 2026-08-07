@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 87,
+  "translation": "يَهْوَه يُحْصِي في كِتَابَةِ الأُمَم: هذا وُلِدَ هناك. سِيلَه",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "يُحصي"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "في كتابة"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "وُلد"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِيلَه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:48.036588187Z",
+  "model": "glm-5.2"
+}

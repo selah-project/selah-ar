@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فساء في عيني إلوهيم من جهة هذا الأمر، فضرب ⟨את⟩ يسرايل.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "فساء"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عيني"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "על",
+      "gloss": "من جهة"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "هذا الأمر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "فضرب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرايل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:17:07.292890664Z",
+  "model": "glm-5.2"
+}

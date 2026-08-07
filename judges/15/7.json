@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 15:7",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وقال لهم شِمشون: «إنْ تفعلوا هكذا، فإنني أنتقم منكم وبعد ذلك أَكُفّ.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "شِمشون"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "تفعلوا"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "فـ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إنني"
+    },
+    {
+      "surface": "נקמתי",
+      "gloss": "أنتقم"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "منكم"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "وبعد ذلك"
+    },
+    {
+      "surface": "אחדל",
+      "gloss": "أَكُفّ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:18:13.213375288Z",
+  "model": "glm-5.2"
+}

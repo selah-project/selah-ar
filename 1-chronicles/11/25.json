@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 11:25",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "من الثّلاثين هاء إنّه مُكرَّم هو، وإلى الثّلاثة لم يأتِ، فجعله داوِد على حرسه.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "השלושים",
+      "gloss": "الثّلاثين"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "هاء"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "مُكرَّم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "الثّلاثة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "בא",
+      "gloss": "يأتِ"
+    },
+    {
+      "surface": "וישימהו",
+      "gloss": "فجعله"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "משמעתו",
+      "gloss": "حرسه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:13:58.052043170Z",
+  "model": "glm-5.2"
+}

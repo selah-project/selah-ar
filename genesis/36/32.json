@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "وملك في أدوم بِلَع بن بَعور، واسم مدينته دِنهَاباه.",
+  "tokens": [
+    {
+      "surface": "וַיִּמְלֹךְ",
+      "gloss": "وملك"
+    },
+    {
+      "surface": "בְּאֱדוֹם",
+      "gloss": "في أدوم"
+    },
+    {
+      "surface": "בֶּלַע",
+      "gloss": "بِلَع"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "בְּעוֹר",
+      "gloss": "بَعور"
+    },
+    {
+      "surface": "וְשֵׁם",
+      "gloss": "واسم"
+    },
+    {
+      "surface": "עִירוֹ",
+      "gloss": "مدينته"
+    },
+    {
+      "surface": "דִּנְהָבָה",
+      "gloss": "دِنهَاباه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:48:08.911841569Z",
+  "model": "glm-5.2"
+}

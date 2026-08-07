@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 112,
+  "translation": "لأنّه إلى الأبد لا يَتزعزَع؛ صِدّيقٌ يكون ⟨في⟩ ذِكرٍ أبديّ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "يَتزعزَع"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "⟨في⟩ ذِكرٍ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "أبديّ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صِدّيقٌ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:43.355643932Z",
+  "model": "glm-5.2"
+}

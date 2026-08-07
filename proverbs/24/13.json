@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 24:13",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "كُلْ يا ابني العسل لأنّه جيّد، ونُفاطٌ حُلوٌ على حَنَكِكَ.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "كُلْ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "يا ابني"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "العسل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "جيّد"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "ونُفاط"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "حُلو"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "حنكك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:41.193694554Z",
+  "model": "glm-5.2"
+}

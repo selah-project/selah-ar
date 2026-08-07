@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 20:10",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "فجمع موشيه وهارون ⟨את⟩ الجماعة أمام الصخرة، وقال لهم: «اسمعوا يا ⟨المردّين⟩، هل من هذه الصخرة نُخرج لكم ماء؟»",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "فجمع"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "وهارون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الجماعة"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "الجماعة"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "الصخرة"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "اسمعوا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "يا"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "المردّين"
+    },
+    {
+      "surface": "המן",
+      "gloss": "هل من"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "الصخرة"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "נוציא",
+      "gloss": "نُخرج"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:38:13.886712394Z",
+  "model": "glm-5.2"
+}

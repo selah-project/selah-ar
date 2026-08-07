@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 140,
+  "translation": "أخفى المتعالون فخًّا لي، وحبالًا نثروا شبكةً لدى المسلك، شِراكًا نصبوا لي. سِلاه.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "أخفى"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "المتعالون"
+    },
+    {
+      "surface": "פח",
+      "gloss": "فخًّا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "وحبالًا"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "نثروا"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "شبكةً"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "لدى"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "المسلَك"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "شِراكًا"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "نصبوا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:21.179645158Z",
+  "model": "glm-5.2"
+}

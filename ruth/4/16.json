@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فأخذت نعومي ⟨את⟩ الولد ووضعته في حِجرها، و⟨كانت⟩ له لمُرضِعة.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "فأخذت"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "نعومي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الولد"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "الولد"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "وضعته"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "في حِجرها"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "و⟨كانت⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "لمُرضِعة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:47:47.931023535Z",
+  "model": "glm-5.2"
+}

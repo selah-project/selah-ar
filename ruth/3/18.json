@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 3:18",
+  "book": "ruth",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "ف⟨قالت⟩: «اجلسي يا ابنتي حتّى تعلمي كيف يقع الأمر، لأنّه لا يسكن الرجل إلا إذا أتمّ الأمر اليوم».",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ف⟨قالت⟩"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "اجلسي"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "يا ابنتي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتّى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨حين⟩"
+    },
+    {
+      "surface": "תדעין",
+      "gloss": "تعلمي"
+    },
+    {
+      "surface": "איך",
+      "gloss": "كيف"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "يقع"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישקט",
+      "gloss": "يسكن"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إلا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "أتمّ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:47:13.148085673Z",
+  "model": "glm-5.2"
+}

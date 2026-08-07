@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 57,
+  "translation": "أصرخُ إلى إلوهيم عليون، إلى إيلٍ يُتمِّمُ مِن أجلِي",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "أصرخُ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "إلى إلوهيم"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عليون"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "إلى إيلٍ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "يُتمِّمُ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مِن أجلِي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:36.951309464Z",
+  "model": "glm-5.2"
+}

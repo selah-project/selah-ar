@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 44:7",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "فقالوا له: «لماذا يتكلّم سيّدي ككلماتٍ كهذه؟ حاشا لعبيدك أن يفعلوا كأمرٍ كهذا.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقالوا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "يتكلّم"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سيّدي"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "ككلماتٍ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "كهذه"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "حاشا"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "لعبيدك"
+    },
+    {
+      "surface": "מעשות",
+      "gloss": "أن يفعلوا"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "كأمرٍ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "كهذا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:52:12.439878313Z",
+  "model": "glm-5.2"
+}

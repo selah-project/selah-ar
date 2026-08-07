@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 24:15",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "لا تكْمُنْ، أيّها الشرّير، لمَسكَنِ الصِّدِّيق؛ لا تُتلِفْ مَربَضَه.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "اكمن"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "أيها الشرير"
+    },
+    {
+      "surface": "לנוה",
+      "gloss": "لمسكن"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "الصديق"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשדד",
+      "gloss": "تُتلِف"
+    },
+    {
+      "surface": "רבצו",
+      "gloss": "مربضه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:41.194043126Z",
+  "model": "glm-5.2"
+}

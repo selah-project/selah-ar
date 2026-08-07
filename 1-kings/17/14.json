@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 17:14",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "لأنه هكذا قال يهوه إلهوهيم يسرايل: جرّة الدقيق لن تَفنى، وقارورة الزيت لن تَنقُص، إلى يوم يُعطي يهوه مطراً على وجه الأرض.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلهوهيم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "כד",
+      "gloss": "جرّة"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "الدقيق"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لن"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "تَفنى"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "وقارورة"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "الزيت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لن"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "تَنقُص"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "يُعطي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "مطراً"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T01:49:41.099332153Z",
+  "model": "glm-5.2"
+}

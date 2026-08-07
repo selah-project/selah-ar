@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "لأنّه ليس إلى الأبد يُنسَى المحتاج، رجاء الوادعين لا يبيد إلى الأبد.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "يُنسَى"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "المحتاج"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "رجاء"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "الوادعين"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "لا يبيد"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "إلى الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:42:33.307690315Z",
+  "model": "glm-5.2"
+}

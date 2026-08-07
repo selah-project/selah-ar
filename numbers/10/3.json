@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "ونفخوا فيهما، فاجتمعت إليك كلّ الجماعة إلى مدخل خيمة الموعد.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "ونفخوا"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "فيهما"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "فاجتمعت"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "الجماعة"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "مدخل"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:31:51.953420954Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 23:13",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "وفي كلِ ما قلتُه لكم تحرَسون، واسمَ إلوهيم آخرين لا تُذكرون، لا يُسمَع على فمِك.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "وفي كلِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "قلتُه"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "تحرَسون"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "واسمَ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "آخرين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תזכירו",
+      "gloss": "تُذكرون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "يُسمَع"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "فمِك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:45.419688007Z",
+  "model": "glm-5.2"
+}

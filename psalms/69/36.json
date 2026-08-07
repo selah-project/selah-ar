@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 69:36",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 69,
+  "translation": "لأنّ إلوهيم يُخلِّص صهيون، ويبني مدن يهودا، فيسكنون هناك ويرثونها",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "يُخلِّص"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "ويبني"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "فيسكنون"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "ويرثونها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:16.863968069Z",
+  "model": "glm-5.2"
+}

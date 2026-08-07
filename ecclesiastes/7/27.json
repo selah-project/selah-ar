@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "انظُرْ، هذا وَجَدْتُهُ، تقولُ القوهيلِت، واحدةً فواحدةٍ لِوُجودِ حِساب.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "انظُرْ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "وَجَدْتُهُ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "تقولُ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "القوهيلِت"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "واحدةً"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "فواحدةٍ"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "لِوُجودِ"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "حِساب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:12.193769901Z",
+  "model": "glm-5.2"
+}

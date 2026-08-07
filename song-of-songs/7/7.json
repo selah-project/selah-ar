@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 7:7",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "ما أجمَلَكِ وما أَلذَّكِ، يا أحبّةَ اللّذّات!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "أجمَلَكِ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "وما"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "أَلذَّكِ"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "يا أحبّة"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "اللّذّات"
+    }
+  ],
+  "timestamp": "2026-08-07T06:39:44.316308969Z",
+  "model": "glm-5.2"
+}

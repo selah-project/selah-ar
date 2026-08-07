@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 26:24",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "لكنّ يد أحيقام بن شافان كانت ⟨مع⟩ يرمياهو، ⟨لكي⟩ لا يُسلِّموه ليد الشعب لإماتته.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "لكنّ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يد"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "أحيقام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "شافان"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "كانت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨مع⟩",
+      "marks": "يرمياهو"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرمياهو"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "لكي لا"
+    },
+    {
+      "surface": "תת",
+      "gloss": "يُسلِّموه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "إلى يد الشعب"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ليد"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "لإماتته"
+    }
+  ],
+  "timestamp": "2026-08-07T02:40:35.336194399Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "ليكُنْ طريقُهم ظلامًا وزَلَقًا، وملَكُ يهوه يطردُهم.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ليكُنْ"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "طريقُهم"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ظلامًا"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "وزَلَقًا"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "وملَكُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "يطردُهم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:04.758993407Z",
+  "model": "glm-5.2"
+}

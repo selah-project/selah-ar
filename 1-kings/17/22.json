@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "فسَمِعَ يهوه بصوت أِليْاهو، فرجعت نَفْسُ الولد على جوفه فعاش.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "فسَمِعَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "بصوت"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "أِليْاهو"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "فرجعت"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْس"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "الولد"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "جوفه"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "فعاش"
+    }
+  ],
+  "timestamp": "2026-08-07T01:49:52.890713026Z",
+  "model": "glm-5.2"
+}

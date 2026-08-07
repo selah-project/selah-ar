@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 47:31",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 47,
+  "translation": "فقال: «احلفْ لي». فحلف له. فسجد يِسرائيل على رأس السريرِ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "احلفْ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "فحلف"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "فسجد"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأس"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "السريرِ"
+    }
+  ],
+  "timestamp": "2026-08-07T07:00:31.392812821Z",
+  "model": "glm-5.2"
+}

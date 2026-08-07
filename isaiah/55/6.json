@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 55:6",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 55,
+  "translation": "اطلبوا يهوه ⟨في⟩ وجوده للوجود، ادعوه ⟨في⟩ كونه قريباً،",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "اطلبوا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בהמצאו",
+      "gloss": "⟨في⟩ وجوده للوجود"
+    },
+    {
+      "surface": "קראהו",
+      "gloss": "ادعوه"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "⟨في⟩ كونه"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "قريباً"
+    }
+  ],
+  "timestamp": "2026-08-07T02:21:48.602190148Z",
+  "model": "glm-5.2"
+}

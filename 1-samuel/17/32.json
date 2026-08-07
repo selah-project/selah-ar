@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 17:32",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "فقال داود لشاؤول: «لا يسقط قلب أحدٍ عليه. عبدك يمضي ويحارب ⟨مع⟩ هذا الفلشتّي هذا.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "يسقط"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "أحدٍ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدك"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "يمضي"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "ويحارب"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨مع⟩"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "الفلشتّي"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:26:49.822603650Z",
+  "model": "glm-5.2"
+}

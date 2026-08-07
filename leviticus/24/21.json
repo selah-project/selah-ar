@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "ومُضْرِبُ بهيمةٍ يُعَوِّضُها، ومُضْرِبُ إنسانٍ يُقْتَلُ.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "ومُضْرِبُ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "بهيمةٍ"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "يُعَوِّضُها"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "ومُضْرِبُ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "إنسانٍ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "يُقْتَلُ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:49.765866542Z",
+  "model": "glm-5.2"
+}

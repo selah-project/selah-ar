@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 19:28",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وشقّاً لنَفْس لا تجعلون في لحومكم وكتابةً وَشْماً لا تجعلون فيكم أنا يهوه",
+  "tokens": [
+    {
+      "surface": "ושרט",
+      "gloss": "وشقّاً"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "لنَفْس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "تجعلون"
+    },
+    {
+      "surface": "בבשרכם",
+      "gloss": "في لحومكم"
+    },
+    {
+      "surface": "וכתבת",
+      "gloss": "وكتابةً"
+    },
+    {
+      "surface": "קעקע",
+      "gloss": "وَشْماً"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "تجعلون"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "فيكم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:38.552203852Z",
+  "model": "glm-5.2"
+}

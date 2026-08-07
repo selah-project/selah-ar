@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 12:5",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وإذا ولدت أنثى تتنجّس أسبوعين كحيضتها، وستّين يومًا وستّة أيّام تجلس على دماء طهارتها.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "أنثى"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "تلد"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "فتتنجّس"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "أسبوعين"
+    },
+    {
+      "surface": "כנדתה",
+      "gloss": "كحيضتها"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "وستّين"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يومًا"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "وستّة"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "تجلس"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "دماء"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "طهارتها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:20:30.116698882Z",
+  "model": "glm-5.2"
+}

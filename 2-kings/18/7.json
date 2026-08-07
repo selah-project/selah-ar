@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 18:7",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وكان يهوه معه، وفي كلّ ما خرج إليه ⟨أفْلَح⟩، وتمرّد على ملك آشور ولم يخدمه.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "وفي كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "خرج"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "إليه ⟨أفْلَح⟩"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "وتمرّد"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "على ملك"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "آشور"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "يخدمه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:59:34.059858614Z",
+  "model": "glm-5.2"
+}

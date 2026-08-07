@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وأقام إلوهيم له خصمًا: ⟨את⟩ رزون بن إليادع، الذي فرّ من هادادعزر ملك صوبه سيّده.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "وأقام"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "خصمًا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رزون"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "رزون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "إليادع"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "فرّ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "من"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "هادادعزر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "صوبه"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "سيّده"
+    }
+  ],
+  "timestamp": "2026-08-07T01:47:27.754697084Z",
+  "model": "glm-5.2"
+}

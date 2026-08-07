@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "لْيَكُنْ قَلبي تامًّا في حُقَّيكَ، لِكَيْلا أخزى",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "لْيَكُنْ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "قَلبي"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "تامًّا"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "في حُقَّيكَ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لِكَيْلا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "أخزى"
+    }
+  ],
+  "timestamp": "2026-08-07T04:15:03.126912751Z",
+  "model": "glm-5.2"
+}

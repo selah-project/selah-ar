@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 108,
+  "translation": "ثابتٌ قلبي يا إلوهيم، أُشيرُ ⟨و⟩أُزمِرَه، بل أيضًا مجدي",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ثابت"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "أُشير"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "⟨و⟩أُزمِر"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بل أيضًا"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "مجدي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:02.535939523Z",
+  "model": "glm-5.2"
+}

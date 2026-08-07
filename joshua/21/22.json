@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "و⟨את⟩ قِبصايم و⟨את⟩ مغارسها، و⟨את⟩ بيت حورون و⟨את⟩ مغارسها: أربع مدن.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "قِبصايم"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "قِبصايم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مغارسها"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مغارسها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بيت حورون"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "حورون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مغارسها"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مغارسها"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "أربع"
+    }
+  ],
+  "timestamp": "2026-08-07T01:10:42.723650295Z",
+  "model": "glm-5.2"
+}

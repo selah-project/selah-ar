@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 46,
+  "translation": "⟨يُسكِت⟩ الحروب إلى أقصى الأرض، القوس يكسر والرمح يقطّع، ⟨ال⟩عجلات يحرق بالنار",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "⟨يُسكِت⟩"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "الحروب"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "أقصى"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "القوس"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "يكسر"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "ويقطّع"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "الرمح"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "العجلات"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "يحرق"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بالنار"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:55.182622454Z",
+  "model": "glm-5.2"
+}

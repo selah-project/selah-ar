@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "«خذ ⟨את⟩ اللاويين من وسط بني يِسرائيل وطهّرهم».",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "خذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اللاويين"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "اللاويين"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "من وسط"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "وطهّرتَ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "إيّاهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:31:04.623785341Z",
+  "model": "glm-5.2"
+}

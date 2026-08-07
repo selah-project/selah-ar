@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "فأَنزَلت ميخال ⟨את⟩ دافيد من خلال النافذة، فمضى وهرب ونجا.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "فأنزلت"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "ميخال"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دافيد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "دافيد"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "من خلال"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "النافذة"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "فمضى"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "وهرب"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ونجا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:27:30.743476352Z",
+  "model": "glm-5.2"
+}

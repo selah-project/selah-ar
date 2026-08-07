@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 1:21",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "انظر: قد نَصَبَ يهوه إلوهيمك أمامك ⟨את⟩ الأرض. اصعد، امتلك، كما تكلّم يهوه إلوهيم آبائك إليك. لا تخف ولا ⟨تنكسر⟩.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "انظر"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "نَصَبَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "أمامك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "اصعد"
+    },
+    {
+      "surface": "רש",
+      "gloss": "امتلك"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "آبائك"
+    },
+    {
+      "surface": "לך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "تخف"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨تنكسر⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:27.094361377Z",
+  "model": "glm-5.2"
+}

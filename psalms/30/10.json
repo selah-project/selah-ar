@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "ما الفائدة في دمي إذا نزلت إلى الهوّة؟ هل يحمدك التراب؟ هل يُخبر بإمِتِك؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "الفائدة"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "في دمي"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "إذا نزلت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "الهوّة"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "هل يحمدك"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "التراب"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "هل يُخبر"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "بإمِتِك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:13.424434999Z",
+  "model": "glm-5.2"
+}

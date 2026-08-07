@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 10:8",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وقال يهوه لي هوشُع: «لا تخف منهم، لأنّي في يدك دفعتهم. لا يقف رجل منهم أمامك.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشُع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "تخف"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "منهم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "في يدك"
+    },
+    {
+      "surface": "נתתים",
+      "gloss": "دفعتهم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "يقف"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "منهم"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "أمامك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:05:27.486238546Z",
+  "model": "glm-5.2"
+}

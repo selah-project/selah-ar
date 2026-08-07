@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 6:18",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "و⟨تفعلن⟩ المستقيم والصالح في عيني يهوه، لكي يَحسُن لك، وتأتي وتَرِث ⟨את⟩ الأرض الصالحة التي حلف يهوه لآبائك،",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "و⟨تفعلن⟩"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "المستقيم"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "والصالح"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عيني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "يَحسُن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "وتأتي"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "وتَرِث"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "الصالحة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "حلف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "لآبائك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:54.825024071Z",
+  "model": "glm-5.2"
+}

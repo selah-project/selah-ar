@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 24:32",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فرأيتُ، أنا، ووَضَعتُ قلبي، تأمَّلتُ فأَخذتُ تَأديبًا.",
+  "tokens": [
+    {
+      "surface": "ואחזה",
+      "gloss": "فرأيتُ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ووَضَعتُ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "تأمَّلتُ"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "فأَخذتُ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تَأديبًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:13.073865205Z",
+  "model": "glm-5.2"
+}

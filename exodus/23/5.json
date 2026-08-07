@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "إذا رأيت حمار مبغضك راقدًا تحت حمله، وامتنعت عن تركه له، تَرْكًا تترك معه",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "رأيت"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "حمار"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "مبغضك"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "راقدًا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "حمله"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "وامتنعت"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "عن ترك"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "تَرْكًا"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "تترك"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:13.959754742Z",
+  "model": "glm-5.2"
+}

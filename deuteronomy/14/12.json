@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وهذا ما لا تأكلونه منها: النَشَر والپَرَس والعَزنيّاة",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "وهذا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تأكلونه"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "منها"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "النَشَر"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "والپَرَس"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "والعَزنيّاة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:17.921174460Z",
+  "model": "glm-5.2"
+}

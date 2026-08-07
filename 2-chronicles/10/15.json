@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 10:15",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "ولم يسمع الملك للشعب، لأن القضيّة كانت من عند إلوهيم، لكي يُقيم يهوه ⟨את⟩ كلمته التي تكلّم بها على يد أخيّاوهو الشيلوني إلى يارفعام بن نباط.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "يسمع"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "كانت"
+    },
+    {
+      "surface": "נסבה",
+      "gloss": "القضيّة"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "من عند"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "يُقيم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلمته"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "كلمته"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "على يد"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "أخيّاوهو"
+    },
+    {
+      "surface": "השלוני",
+      "gloss": "الشيلوني"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "يارفعام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "نباط"
+    }
+  ],
+  "timestamp": "2026-08-07T05:25:02.534155664Z",
+  "model": "glm-5.2"
+}

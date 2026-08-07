@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 1:17",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فأجاب عِلي وقال اذهبي بِشالوم، وإلوهيم يِسرائيل يعطِ ⟨את⟩ طلبتكِ التي طلبتِ منه.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "فأجاب"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عِلي"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "اذهبي"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "بِشالوم"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "وإلوهيم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "يعطِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "طلبتكِ"
+    },
+    {
+      "surface": "שלתך",
+      "gloss": "طلبتكِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "طلبتِ"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "منه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:21:03.872837728Z",
+  "model": "glm-5.2"
+}

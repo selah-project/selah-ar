@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 11:8",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "لأنه ⟨إن⟩ عاش الإنسان سنين كثيرة، ففي كلّها ⟨ليفرح⟩، و⟨ليتذكّر⟩ أيّام الظلمة لأنها كثيرة؛ كلُّ ما يأتي هَباء.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨إن⟩"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنين"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "كثيرة"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "عاش"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "בכלם",
+      "gloss": "في كلّها"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "⟨ليفرح⟩"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "و⟨ليتذكّر⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أيّام"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "الظلمة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنها"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "كثيرة"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ستكون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ما يأتي"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هَباء"
+    }
+  ],
+  "timestamp": "2026-08-07T04:53:16.371970108Z",
+  "model": "glm-5.2"
+}

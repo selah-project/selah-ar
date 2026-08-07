@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "ولا تُبقوا منه شيئًا إلى الصباح، ⟨و⟩الباقيَ منه إلى الصباح في النار تحرقون.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "تُبقوا"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "الصباح"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "والباقيَ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "الصباح"
+    },
+    {
+      "surface": "באש",
+      "gloss": "في النار"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "تحرقون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:31.569884340Z",
+  "model": "glm-5.2"
+}

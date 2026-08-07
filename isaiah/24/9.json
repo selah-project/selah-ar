@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "بِٱلشِّعْرِ لاَ يَشْرَبُونَ خَمْرًا، يَصِيرُ مُرًّا سَكَرٌ لِشَارِبِيهِ.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "بٱلشعر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "يشربون"
+    },
+    {
+      "surface": "יין",
+      "gloss": "خمرًا"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "يصير مُرًّا"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "سَكَر"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "لشاربيه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:11:12.001002369Z",
+  "model": "glm-5.2"
+}

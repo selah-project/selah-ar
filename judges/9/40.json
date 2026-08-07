@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "judges 9:40",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فطارده أبيمالك، فهرب من وجهه، وسقط قتلى كثيرون حتّى مدخل البوّابة.",
+  "tokens": [
+    {
+      "surface": "וירדפהו",
+      "gloss": "فطارده"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "أبيمالك"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "فهرب"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "من وجهه"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "وسقط"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "قتلى"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرون"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتّى"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "مدخل"
+    },
+    {
+      "surface": "השער",
+      "gloss": "البوّابة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:15:15.398981743Z",
+  "model": "glm-5.2"
+}

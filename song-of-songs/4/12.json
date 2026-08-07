@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "جَنَّةٌ مُوصَدَةٌ أُخْتِي كَلَّةُ، يَنْبُوعٌ مُوصَدٌ، عَيْنٌ مَخْتُومَةٌ",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "جَنَّةٌ"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "مُوصَدَةٌ"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "أُخْتِي"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "كَلَّةُ"
+    },
+    {
+      "surface": "גל",
+      "gloss": "يَنْبُوعٌ"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "مُوصَدٌ"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "عَيْنٌ"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "مَخْتُومَةٌ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:45:01.509139238Z",
+  "model": "glm-5.2"
+}

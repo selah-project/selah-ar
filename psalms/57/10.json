@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 57,
+  "translation": "أحمدُكَ بين الشعوب، أدوناي، أُنَغِّمُ لكَ بين الأمم.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "أحمدُكَ"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "بين الشعوب"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "أُنَغِّمُ لكَ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "بين"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "الأمم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:05.886801862Z",
+  "model": "glm-5.2"
+}

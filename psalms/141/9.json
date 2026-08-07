@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 141:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 141,
+  "translation": "احفظني من فخّ نصبوه لي، ومن شراك فَعَلة الإثم.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "احفظني"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "من"
+    },
+    {
+      "surface": "פח",
+      "gloss": "فخّ"
+    },
+    {
+      "surface": "יקשו",
+      "gloss": "نصبوه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "ומקשות",
+      "gloss": "ومن شراك"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "فعلة"
+    },
+    {
+      "surface": "און",
+      "gloss": "الإثم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:17:41.152521180Z",
+  "model": "glm-5.2"
+}

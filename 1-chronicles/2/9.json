@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وبنو حَصرون الذين وُلِدوا له: ⟨את⟩ يَرحَمْئيل و⟨את⟩ رام و⟨את⟩ كَلوباي.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "وبنو"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حَصرون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "وُلِدوا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يَرحَمْئيل"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "يَرحَمْئيل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "رام"
+    },
+    {
+      "surface": "רם",
+      "gloss": "رام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كَلوباي"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "كَلوباي"
+    }
+  ],
+  "timestamp": "2026-08-07T05:09:58.667661495Z",
+  "model": "glm-5.2"
+}

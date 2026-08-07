@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 14:44",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وأتى الكوهين ورأى، وإذا قد امتدّ الضّرَب في البيت — صَرَعات مُمِرّة هي في البيت، طامٍ هو.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "وأتى"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ورأى"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "امتدّ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "الضّرَب"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في البيت"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "صَرَعات"
+    },
+    {
+      "surface": "ממארת",
+      "gloss": "مُمِرّة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في البيت"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "طامٍ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T00:19:53.205462530Z",
+  "model": "glm-5.2"
+}

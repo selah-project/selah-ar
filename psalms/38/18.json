@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "لأنّي لِعَرَجٍ مُستعدٌّ، ووجعي أمامي دائمًا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "لِعَرَجٍ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "مُستعدٌّ"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "ووجعي"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "أمامي"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "دائمًا"
+    }
+  ],
+  "timestamp": "2026-08-07T06:04:09.084877685Z",
+  "model": "glm-5.2"
+}

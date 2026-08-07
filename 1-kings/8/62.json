@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "1-kings 8:62",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "والمَلِك وكلُّ إسرائيل معه يذبحون ذبيحةً أمام يهوه.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "والمَلِك"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "يذبحون"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ذبيحةً"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:46:00.263528114Z",
+  "model": "glm-5.2"
+}

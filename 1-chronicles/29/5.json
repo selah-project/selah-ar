@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 29:5",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "للذهب لذهبٍ وللفضّة لفضّةٍ ولكلّ صنعةٍ بيد صنّاعٍ. ومن ⟨هو⟩ متطوّع لملء يده اليوم ليهوه؟",
+  "tokens": [
+    {
+      "surface": "לזהב",
+      "gloss": "للذهب"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "لذهبٍ"
+    },
+    {
+      "surface": "ולכסף",
+      "gloss": "وللفضّة"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "لفضّةٍ"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ولكلّ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "صنعةٍ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بيد"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "صنّاعٍ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "מתנדב",
+      "gloss": "متطوّع"
+    },
+    {
+      "surface": "למלאות",
+      "gloss": "لملء"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:19:29.439434542Z",
+  "model": "glm-5.2"
+}

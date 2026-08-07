@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "فيرجّ ⟨את⟩ العُمر أمام يهوه لرضاكم؛ من غد الشبّات يرجّه الكوهين.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "فيرجّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "العُمر"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "العُمر"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "لرضاكم"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "من غد"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "الشبّات"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "يرجّه"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:43.796045833Z",
+  "model": "glm-5.2"
+}

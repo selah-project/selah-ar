@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فقالت لها ابنة فرعون: «امضي.» فمضت الفتاة ودعت ⟨את⟩ أمّ الولد.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ابنة"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "امضي"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "فمضت"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "الفتاة"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ودعت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أمّ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أمّ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "الولد"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:41.212096915Z",
+  "model": "glm-5.2"
+}

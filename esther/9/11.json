@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "في ذلك اليوم جاء عددُ القتلى في شوشَنِ القلعةِ أمام الملك.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "בא",
+      "gloss": "جاء"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "عدد"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "القتلى"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "في شوشَن"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "القلعة"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:54:59.189192Z",
+  "model": "glm-5.2"
+}

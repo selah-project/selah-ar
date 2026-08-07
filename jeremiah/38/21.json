@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "وإذا ⟨أنت⟩ تأبى ⟨ال⟩خروج، فهذا ⟨هو⟩ ال⟨أمر⟩ الذي أرانيه يهوه:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "تأبى"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "الخروج"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "أرانيه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:55:02.823015238Z",
+  "model": "glm-5.2"
+}

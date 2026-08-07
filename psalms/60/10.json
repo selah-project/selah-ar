@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 60,
+  "translation": "موآب قِدرُ اغتسالي، على أدوم أُلقي نعلي. عليَّ، فلشتُ، اهتفي!",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "قِدر"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "اغتسالي"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "أدوم"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "أُلقي"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "نعلي"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عليَّ"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "فلشتُ"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "اهتفي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:55:58.333654181Z",
+  "model": "glm-5.2"
+}

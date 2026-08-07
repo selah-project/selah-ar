@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وأدخل ⟨את⟩ مقدّسات أبيه ومقدّساته بيت إلوهيم: فضّةً وذهبًا وأوانيَ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "وأدخل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مقدّسات أبيه"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "مقدّسات"
+    },
+    {
+      "surface": "אביو",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "ومقدّساته"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضّة"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "وذهب"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "وأوانيَ"
+    }
+  ],
+  "timestamp": "2026-08-07T05:25:47.748216801Z",
+  "model": "glm-5.2"
+}

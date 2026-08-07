@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 7:23",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "ونادَى كلُّ رجلٍ من يسرائيل، من نفتالي ومن آشر ومن كلِّ منشّى، فلاحقوا وراءَ ميدان.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ونادَى"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كلُّ رجل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "מנפתלי",
+      "gloss": "من نفتالي"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشر"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشّى"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "فلاحقوا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وراء"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ميدان"
+    }
+  ],
+  "timestamp": "2026-08-07T01:16:10.256909630Z",
+  "model": "glm-5.2"
+}

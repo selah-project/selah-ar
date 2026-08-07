@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "و⟨وَلَدَ⟩ نُوح ثلاثة بنين: ⟨את⟩ شِيم، ⟨את⟩ حام، و⟨את⟩ يافِت.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ووَلَدَ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ثلاثة"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بنين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شِيم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شِيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حام"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "يافِت"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "يافِت"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:29.408135437Z",
+  "model": "glm-5.2"
+}

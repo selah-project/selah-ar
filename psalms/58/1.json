@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 58,
+  "translation": "لإمامِ ⟨الإنشاد⟩ «لا تُهلِك» لِدافود مِختام",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لإمام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨الإنشاد⟩"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "«لا تُهلِك»"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِدافود"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "مِختام"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:56.728274914Z",
+  "model": "glm-5.2"
+}

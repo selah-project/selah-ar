@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "عشر أذرع طول اللوح، وذراع ونصف الذراع عرض اللوح الواحد.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "أذرع"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "طول"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "اللوح"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "وذراع"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ونصف"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "الذراع"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "عرض"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "اللوح"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "الواحد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:14:15.434247482Z",
+  "model": "glm-5.2"
+}

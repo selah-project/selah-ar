@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 121,
+  "translation": "يهوه حارسُكَ، يهوه ظلُّكَ على يدِ يمينِكَ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "حارسُكَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "ظلُّكَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يدِ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "يمينِكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T06:07:55.202815405Z",
+  "model": "glm-5.2"
+}

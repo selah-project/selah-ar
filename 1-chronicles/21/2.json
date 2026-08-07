@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 21:2",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فقال داوود لِيوآب ولِرؤساء الشعب: اذهبوا اعدّوا ⟨את⟩ يسرايل من بئر سبع إلى دان، وأتوا بي فأعرف ⟨את⟩ عددهم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لِـ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولِـ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "رؤساء"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "اذهبوا"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "اعدّوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرايل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "من بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبع"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "وأتوا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بي"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "فأعرف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عددهم"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "عددهم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:17:23.361368264Z",
+  "model": "glm-5.2"
+}

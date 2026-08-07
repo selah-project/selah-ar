@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "⟨و⟩لا تُجِبْ رَفيقَكَ شاهدَ بُهْتان.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "تجب"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "رفيقك"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "بهتان"
+    }
+  ],
+  "timestamp": "2026-08-07T00:51:46.229346116Z",
+  "model": "glm-5.2"
+}

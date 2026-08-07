@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 33:5",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "فارتحل بنو يسرائيل من رعمسيس ونزلوا في سكّوت.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "فارتحل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "من رعمسيس"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ونزلوا"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "في سكّوت"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:40.326512494Z",
+  "model": "glm-5.2"
+}

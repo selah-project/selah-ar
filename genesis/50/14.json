@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 50:14",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "فرجع يوصِف إلى مصرايم، هو وإخوته وكلّ الصاعدين معه ليدفنوا ⟨את⟩ أباه، بعد دفنه ⟨את⟩ أباه.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "فرجع"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوصِف"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "إلى مصرايم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "وإخوته"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "الصاعدين"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "لدفن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أباه"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أباه"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "دفنه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أباه"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أباه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:46.009087997Z",
+  "model": "glm-5.2"
+}

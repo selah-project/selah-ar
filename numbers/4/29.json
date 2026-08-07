@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "بَني مراري لعشائرهم لبيت آبائهم تُفرُد ⟨את⟩هم.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بَني"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراري"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "لعشائرهم"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "لبيت"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "آبائهم"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "تُفرُد"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "هم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:56.613254678Z",
+  "model": "glm-5.2"
+}

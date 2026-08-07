@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وعمل الشرّ، لأنه لم يُثبّت قلبه لطلب ⟨את⟩ يهوه.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وعمل"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "يُثبّت"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "قلبه"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "لطلب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:25:55.720362676Z",
+  "model": "glm-5.2"
+}

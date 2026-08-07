@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "مرّةً واحدة تكلّمتُ و⟨لا⟩ أُجيب، ومرّتين و⟨لا⟩ أزيد.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "مرّةً واحدة"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "تكلّمتُ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و⟨لا⟩"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "أُجيب"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ومرّتين"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و⟨لا⟩"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "أزيد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:43:38.300703079Z",
+  "model": "glm-5.2"
+}

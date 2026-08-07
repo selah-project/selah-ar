@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "لا تكونُ مُسقِطةٌ ولا عاقرٌ في أرضِك. ⟨את⟩ عددَ أيّامك أُمَلّي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تكونُ"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "مُسقِطةٌ"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "ولا عاقرٌ"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "في أرضِك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عدد"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "عددَ"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "أيّامك"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "أُمَلّي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:01.591888672Z",
+  "model": "glm-5.2"
+}

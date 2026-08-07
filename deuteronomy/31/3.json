@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 31:3",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "يهوه إلوهيمك هو العابر أمامك، هو يُبيد ⟨את⟩ الأمم هذه من أمامك فتملكها. يهوشوع هو يعبر أمامك كما تكلّم يهوه.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "العابر"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "أمامك"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "يُبيد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأمم"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "من أمامك"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "فتملكها"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشوع"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "يعبر"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "أمامك"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:01:52.619699561Z",
+  "model": "glm-5.2"
+}

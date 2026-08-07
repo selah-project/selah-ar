@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "psalms 119:58",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "تَضرَّعتُ إلى وجهِك بكلِّ قلب؛ أنعِم عليَّ كقولِك",
+  "tokens": [
+    {
+      "surface": "חליתי",
+      "gloss": "تَضرَّعتُ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهِك"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بكلِّ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "أنعِم عليَّ"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "كقولِك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:55.133251753Z",
+  "model": "glm-5.2"
+}

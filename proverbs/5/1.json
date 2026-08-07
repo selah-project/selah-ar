@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 5:1",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "يا ابني، لحكمتي أَصغِ، لتَبوّني أَمِل أُذُنَكَ،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "يا ابني"
+    },
+    {
+      "surface": "לחכמתי",
+      "gloss": "لحكمتي"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "أَصغِ"
+    },
+    {
+      "surface": "לתבונתי",
+      "gloss": "لتَبوّني"
+    },
+    {
+      "surface": "הט",
+      "gloss": "أَمِل"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "أُذُنَكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:22.826201811Z",
+  "model": "glm-5.2"
+}

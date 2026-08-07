@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 6:9",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فكلّم موشيه هكذا بني يسرايم، ولم يسمعوا إلى موشيه من قِصَر روَحٍ ومن عبودية قاسية.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وكلّم"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "يسمعوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "מקצר",
+      "gloss": "من قِصَر"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روَح"
+    },
+    {
+      "surface": "ומעבדה",
+      "gloss": "ومن عبودية"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "قاسية"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:50.040368080Z",
+  "model": "glm-5.2"
+}

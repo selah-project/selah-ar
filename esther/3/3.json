@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فقال عبيدُ الملك الذين في باب الملك لموردخاي: «لماذا تتعدّى ⟨את⟩ وصيّة الملك؟»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عبيدُ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "في باب"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "لموردخاي"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "تتعدّى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وصيّة"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "وصيّة"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:54:24.766208977Z",
+  "model": "glm-5.2"
+}

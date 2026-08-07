@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وهكذا قال شمعي في لعنه: اخرج، اخرج، يا رجل الدماء ويا رجل البَليَّعال!",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "وهكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شمعي"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "في لعنه"
+    },
+    {
+      "surface": "צא",
+      "gloss": "اخرج"
+    },
+    {
+      "surface": "צא",
+      "gloss": "اخرج"
+    },
+    {
+      "surface": "איש",
+      "gloss": "يا رجل"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "الدماء"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ويا رجل"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "البَليَّعال"
+    }
+  ],
+  "timestamp": "2026-08-07T01:36:49.851466944Z",
+  "model": "glm-5.2"
+}

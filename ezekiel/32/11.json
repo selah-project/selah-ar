@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "لأنّه هكذا قال أدوناي يهوه: سيفُ مَلِكِ بافِل يأتيكِ،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "سيفُ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلِكِ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافِل"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "يأتيكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:08:05.852142127Z",
+  "model": "glm-5.2"
+}

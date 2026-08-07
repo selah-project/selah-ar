@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "لا تأتني قَدَمُ كِبرياء، ويدُ الأشرار لا تُزحزِحني",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "تأتني"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "قَدَم"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "كِبرياء"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ويد"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الأشرار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "تُزحزِحني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:25.431073164Z",
+  "model": "glm-5.2"
+}

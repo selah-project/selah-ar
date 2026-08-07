@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وللتفرقة بين القدُس وبين الحلال، وبين النجس وبين الطاهر،",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "وللتفرقة"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "القدُس"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "החל",
+      "gloss": "الحلال"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "النجس"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "الطاهر"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:52.847466254Z",
+  "model": "glm-5.2"
+}

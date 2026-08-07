@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 95,
+  "translation": "هلمّوا، نسجد ونسقط على رُكَبِنا، نبارك أمام يهوه صانعنا.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "هلمّوا"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "نسجد"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "ونسقط على رُكَبِنا"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "نبارك"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "صانعنا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:03.731783520Z",
+  "model": "glm-5.2"
+}

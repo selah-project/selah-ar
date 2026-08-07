@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 120,
+  "translation": "ماذا يُعطى لكَ، وماذا يُزادُ لكَ، أيَّتها اللسانُ الغاشّ؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "يُعطى"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "وماذا"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "يُزاد"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "لسان"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "غاشّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:13:22.186729998Z",
+  "model": "glm-5.2"
+}

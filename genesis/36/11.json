@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "وَكَانَ بَنُو أَلِيفَازَ: تَيْمَانَ وَعُومَرَ وَصَفُو وَجَعْتَامَ وَقَنَازَ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و⟨كانوا⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "أليفاز"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "تيمن"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "عومر"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "صفو"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "وجعتم"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "وقنز"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:33.562276487Z",
+  "model": "glm-5.2"
+}

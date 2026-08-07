@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 40:2",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "وأخذ رئيس الجلّادين يِرمياوهو وقال له: «يهوه إلوهيمك تكلّم ⟨على⟩ ⟨את⟩ الشرّ هذا على المكان هذا.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "رئيس"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "الجلّادين"
+    },
+    {
+      "surface": "לירמיהו",
+      "gloss": "يِرمياوهو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشرّ"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨على⟩"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "المكان"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:47:26.368483746Z",
+  "model": "glm-5.2"
+}

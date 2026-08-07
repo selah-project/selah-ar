@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 26:14",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "«لم آكل منه في حزني ولا أزلتُ منه في نجاسة ولا أعطيتُ منه لميّت. سمعتُ بصوت يهوه إلوهيّ وعملتُ ككل ما وصّيتني.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "أكلتُ"
+    },
+    {
+      "surface": "באני",
+      "gloss": "في حزني"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "בערתי",
+      "gloss": "أزلتُ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "בטמא",
+      "gloss": "في نجاسة"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "أعطيتُ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "למת",
+      "gloss": "لميّت"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "سمعتُ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "بصوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيّ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "وعملتُ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ككل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "צויתני",
+      "gloss": "وصّيتني"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:36.082905431Z",
+  "model": "glm-5.2"
+}

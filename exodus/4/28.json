@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وأخبر موشيه أهارون ⟨بـ⟩ ⟨את⟩ كلِّ كلمات يهوه التي أرسله بها، و⟨بـ⟩ ⟨את⟩ كلِّ الآيات التي أوصاه بها.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "وأخبر"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلمات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "أرسله"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "الآيات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "أوصاه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:16.338018148Z",
+  "model": "glm-5.2"
+}

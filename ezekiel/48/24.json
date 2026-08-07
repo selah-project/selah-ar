@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 48:24",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "وعلى حدّ بنيامين من جهة الشرق إلى جهة الغرب شمعون واحد",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "حدّ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنيامين"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "منجهة"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "الشرق"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "جهة"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "الغرب"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمعون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:19:16.885008115Z",
+  "model": "glm-5.2"
+}

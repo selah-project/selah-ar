@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 38:9",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "كِتابةٌ لِحزقياهو مَلِكِ يهودا، حين مرِضَ ⟨ثم⟩ عاش ⟨من⟩ مرضه.",
+  "tokens": [
+    {
+      "surface": "מכתב",
+      "gloss": "كِتابة"
+    },
+    {
+      "surface": "לחזקיהו",
+      "gloss": "لِحزقياهو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلِك"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "בחלתו",
+      "gloss": "حين مرِض"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "وعاش"
+    },
+    {
+      "surface": "מחליו",
+      "gloss": "من مرضه"
+    }
+  ],
+  "timestamp": "2026-08-07T07:40:36.149908759Z",
+  "model": "glm-5.2"
+}

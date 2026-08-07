@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "اِذهَب قُل لهم: اِرجِعوا لأنفُسِكم إلى خِيامِكم.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "اِذهَب"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قُل"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "اِرجِعوا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لأنفُسِكم"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "إلى خِيامِكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:08.647690359Z",
+  "model": "glm-5.2"
+}

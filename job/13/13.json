@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 13:13",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "اسكُتوا عنّي ⟨حتى⟩ أتكلّم أنا، و⟨ليعبر⟩ عليّ ما يكون.",
+  "tokens": [
+    {
+      "surface": "החרישו",
+      "gloss": "اسكُتوا"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "عنّي"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "وأتكلّم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "وليعبر"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عليّ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    }
+  ],
+  "timestamp": "2026-08-07T04:34:52.629797392Z",
+  "model": "glm-5.2"
+}

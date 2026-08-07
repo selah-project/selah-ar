@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 113,
+  "translation": "مُجلسَ العاقر بيتًا، أمَّ البنين فرحةَ القلب. هلّلوا ياه.",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "مُجلسَ"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "العاقر"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "بيتًا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أمَّ"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "البنين"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "فرحةَ القلب"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "هلّلوا"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:18.547887145Z",
+  "model": "glm-5.2"
+}

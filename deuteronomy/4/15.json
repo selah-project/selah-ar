@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 4:15",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فاِحفَظوا أنفسكم جدًّا جدًّا، لأنكم لم تَرَوا كلَّ تمونة في يوم كلَّمَ فيه يهوه إلَيكم في حوريب من وسط النار،",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "فاِحفَظوا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "أنفسكم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنكم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "تَرَوا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "تمونة"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلَّمَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "إلَيكم"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "في حوريب"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "من وسط"
+    },
+    {
+      "surface": "האש",
+      "gloss": "النار"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:11.679223965Z",
+  "model": "glm-5.2"
+}

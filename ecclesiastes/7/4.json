@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "قلبُ الحكماءِ في بيتِ النوح، وقلبُ الجهّالِ في بيتِ الفرح.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "الحكماء"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في بيت"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "النوح"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "وقلب"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "الجهّال"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في بيت"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "الفرح"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:01.589174575Z",
+  "model": "glm-5.2"
+}

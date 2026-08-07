@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 11:34",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "من كلِّ طعامٍ يُؤكَلُ الذي يأتي عليه ماءٌ يتنجَّسُ، وكلُّ مشروبٍ يُشرَبُ في كلِّ آنيةٍ يتنجَّسُ",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "من كلّ"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "الطعام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يُؤكَل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "يأتي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماء"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "يتنجَّس"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "مشروب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "يُشرَب"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلّ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "آنية"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "يتنجَّس"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:53.132742974Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "و⟨هذه⟩ تولَدوت أهارون وموشيه، في يوم كلّم يهوه ⟨את⟩ موشيه في جبل سيناي.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و⟨هذه⟩"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "تولَدوت"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "وموشيه"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "في جبل"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سيناي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:58.187267939Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 14:53",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وَيُطْلِق ⟨את⟩ الطائر الحيّ إلى خارج المدينة إلى وجه الحقل، ويُكفِّر عن البيت فيطهر.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "ويُطلق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الطائر"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "الطائر"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "الحيّ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "خارج"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "الحقل"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ويُكفِّر"
+    },
+    {
+      "surface": "על",
+      "gloss": "عن"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "فيطهر"
+    }
+  ],
+  "timestamp": "2026-08-07T00:19:53.449014159Z",
+  "model": "glm-5.2"
+}

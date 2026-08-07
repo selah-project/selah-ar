@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فكلّم موشيه بنو إسرائيل بأن يصنعوا الفصح.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وكلّم"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "بصنع"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "الفصح"
+    }
+  ],
+  "timestamp": "2026-08-07T00:31:19.771871669Z",
+  "model": "glm-5.2"
+}

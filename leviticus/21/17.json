@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 21:17",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "كلّم أحرون قائلًا: رجلٌ من نسلك لأجيالهم الذي يكون فيه عيبٌ لا يقرُب لتقريب خبز إلوهيم.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "كلّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أحرون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "מזרעך",
+      "gloss": "من نسلك"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "لأجيالهم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "מום",
+      "gloss": "عيب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "يقرُب"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "لتقريب"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبز"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "إلوهيم ⟨له⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:55.581645398Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 19:18",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وداؤد هرب ونجا، وجاء إلى شموئيل في الراموت، وأخبره ⟨بـ⟩ ⟨את⟩ كل ما فعله له شاؤول. ومضى هو وشموئيل وجلسا في نايوت.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "وداؤد"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "هرب"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ونجا"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "في الراموت"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "وأخبر"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعله"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ومضى"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "وشموئيل"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "وجلسا"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "في نايوت"
+    }
+  ],
+  "timestamp": "2026-08-07T01:27:36.543735332Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 61,
+  "translation": "من طرف الأرض إليك أدعو، حين يَغشى قلبي؛ إلى صخرةٍ تَرتفع منِّي تهديني",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "من طرف"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "أدعو"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "حين يَغشى"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "إلى صخرةٍ"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "تَرتفع"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "منِّي"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "تهديني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:55:59.374536134Z",
+  "model": "glm-5.2"
+}

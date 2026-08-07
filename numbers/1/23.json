@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "عدَّاهم ⟨لـ⟩ سبط شيمعون: تسعة وخمسين ألفًا وثلاث مئة.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "عدَّاهم"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "لسبط"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شيمعون"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "تسعة"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "وخمسين"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفًا"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "وخمس"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:05.896007090Z",
+  "model": "glm-5.2"
+}

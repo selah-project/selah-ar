@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "حزِنت، ذبلت الأرض؛ ذاوَت، ذبلت تِبيل؛ ذاوَت شوامخُ شعوبِ الأرض.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "حزِنت"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ذبلت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "ذاوَت"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ذبلت"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "تِبيل"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "ذاوَت"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "شوامخ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعوب"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T02:12:11.268777595Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "وقال أَفيمَلِك لأفراهام: «ماذا رأيتَ حتى فعلتَ ⟨את⟩ الأمرَ هذا؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "أَفيمَلِك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "رأيتَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "فعلتَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأمر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمرَ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:04.513784590Z",
+  "model": "glm-5.2"
+}

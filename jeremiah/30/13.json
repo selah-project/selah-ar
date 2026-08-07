@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 30:13",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "لا ⟨يوجد⟩ من يحاكم دعواكِ ⟨من أجل⟩ جرحٍ لا علاجَ يُرفع ⟨عليه⟩، لا ⟨يوجد⟩ لكِ.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "דן",
+      "gloss": "من يحاكم"
+    },
+    {
+      "surface": "דינך",
+      "gloss": "دعواكِ"
+    },
+    {
+      "surface": "למזור",
+      "gloss": "جرح"
+    },
+    {
+      "surface": "רפאות",
+      "gloss": "علاج"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "يُرفع"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:42:33.378457199Z",
+  "model": "glm-5.2"
+}

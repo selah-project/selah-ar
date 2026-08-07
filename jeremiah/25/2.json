@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 25:2",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "التي تكلّم بها يرمياهو النبيُّ على كلِّ شعبِ يهودا و⟨على⟩ كلِّ ساكني يروشالايم قائلًا:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرمياهو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "النبيّ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و⟨على⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ساكني"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:40:51.662126395Z",
+  "model": "glm-5.2"
+}

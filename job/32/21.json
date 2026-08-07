@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 32:21",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "لا أرفع ⟨أرجو⟩ وجهَ إنسان، وإلى آدم لا أُكنّي ألقابًا.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨أرجو⟩"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "أرفع"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אכנה",
+      "gloss": "أُكنّي ألقابًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:40:49.620665426Z",
+  "model": "glm-5.2"
+}

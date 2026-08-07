@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 107,
+  "translation": "فصرخوا إلى يهوه في ضيقِهم، من شدائدِهم خلَّصَهم.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "فصرخوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "في ضيق"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "من شدائدهم"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "خلَّصهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:44.230050913Z",
+  "model": "glm-5.2"
+}

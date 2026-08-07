@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 145,
+  "translation": "تفتحُ ⟨את⟩ يدَكَ، وتُشبِعُ بالرِّضا كلَّ حيّ.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "تفتحُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يدَكَ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدَكَ"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "وتُشبِعُ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "حيّ"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "بالرِّضا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:59.968654982Z",
+  "model": "glm-5.2"
+}

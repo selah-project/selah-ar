@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 34:5",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "ويلتفّ التّخم من عصمون نَهَل مصرايم، وتكون مخارجه ⟨إلى⟩ البحر.",
+  "tokens": [
+    {
+      "surface": "ונסב",
+      "gloss": "ويلتفّ"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "التّخم"
+    },
+    {
+      "surface": "מעצמון",
+      "gloss": "من عصمون"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "نَهَل"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "وتكون"
+    },
+    {
+      "surface": "תוצאתיו",
+      "gloss": "مخارجه"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "⟨إلى⟩ البحر"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:59.021028489Z",
+  "model": "glm-5.2"
+}

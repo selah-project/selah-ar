@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 107,
+  "translation": "ليقولْ مَفدِيُّو يهوه، الذين فداهُم من يدِ صارٍ،",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "ليقولوا"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "مَفديّو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "فداهم"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يد"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صارٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:47.297904147Z",
+  "model": "glm-5.2"
+}

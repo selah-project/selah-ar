@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وأوصى موشيه ⟨את⟩ الشعب في اليوم ذلك قائلًا:",
+  "tokens": [
+    {
+      "surface": "וַיְצַו",
+      "gloss": "وأوصى"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "בַּיּוֹם",
+      "gloss": "في اليوم"
+    },
+    {
+      "surface": "הַהוּא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:15.073843779Z",
+  "model": "glm-5.2"
+}

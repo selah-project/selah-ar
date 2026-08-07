@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وإن لا يفدي ⟨את⟩ الحقل، وإن باع ⟨את⟩ الحقل لرجل آخر، لا يُفدى بعد",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "يفدي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الحقل"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "الحقل"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "باع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الحقل"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "الحقل"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "لرجل"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "آخر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "يُفدى"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:56.721180345Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "فصرخ موشيه إلى يهوه قائلاً: ماذا أفعل لهذا الشعب؟ بعد قليل يرجمونني.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "فصرخ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "أفعل"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "لهذا"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "قليل"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "ويرجمونني"
+    }
+  ],
+  "timestamp": "2026-08-07T00:05:50.236549186Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 8:8",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "بصِدِقٍ كلُّ أقوال فمي، ليس فيها مُلتَوٍ ومُعوَجّ",
+  "tokens": [
+    {
+      "surface": "בצדק",
+      "gloss": "بصِدِق"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "أقوال"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فمي"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "נפתל",
+      "gloss": "ملتوٍ"
+    },
+    {
+      "surface": "ועקש",
+      "gloss": "ومُعوَجّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:52.314763527Z",
+  "model": "glm-5.2"
+}

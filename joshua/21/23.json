@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "ومن سبط دان ⟨את⟩ ألتقِي و⟨את⟩ مغارسها، ⟨את⟩ جِبّتون و⟨את⟩ مغارسها.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ومن سبط"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ألتقِي"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "ألتقِي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مغارسها"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مغارسها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جِبّتون"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "جِبّتون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مغارسها"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مغارسها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:10:42.723896476Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وأيضًا في الطريقِ حين يسير السفيهُ، قلبُه ناقصٌ، ويقولُ للكلِّ: سفيهٌ هو.",
+  "tokens": [
+    {
+      "surface": "וְגַם",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "בַּדֶּ֛רֶךְ",
+      "gloss": "في الطريقِ"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "حين يسير السفيهُ"
+    },
+    {
+      "surface": "הֹלֵ֖ךְ",
+      "gloss": ""
+    },
+    {
+      "surface": "לִבּ֣וֹ",
+      "gloss": "قلبُه"
+    },
+    {
+      "surface": "חָסֵ֑ר",
+      "gloss": "ناقصٌ"
+    },
+    {
+      "surface": "וְאָמַ֥ר",
+      "gloss": "ويقولُ"
+    },
+    {
+      "surface": "לַכֹּ֖ל",
+      "gloss": "للكلِّ"
+    },
+    {
+      "surface": "סָכָ֥ל",
+      "gloss": "سفيهٌ"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:50.777589081Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 5:14",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وجاء من كل الشعوب ليسمعوا ⟨את⟩ حكمة شلومو، من عند كل ملوك الأرض الذين سمعوا ⟨את⟩ حكمته.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كل"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "الشعوب"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ليسمعوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حكمة"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "حكمة"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "من عند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ملوك"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سمعوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حكمته"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "حكمته"
+    }
+  ],
+  "timestamp": "2026-08-07T01:43:58.204212469Z",
+  "model": "glm-5.2"
+}

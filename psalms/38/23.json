@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "أسرع لنجدتي، أدوناي، خلاصي.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "أسرع"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "لنجدتي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "خلاصي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:59.605537129Z",
+  "model": "glm-5.2"
+}

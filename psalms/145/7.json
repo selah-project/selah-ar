@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 145,
+  "translation": "ذِكرَ غزيرِ خيرِكَ يُفيضونَ، وصداقَتَكَ يُرنّمون",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ذِكرَ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "غزيرِ"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "خيرِكَ"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "يُفيضونَ"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "وصداقَتَكَ"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "يُرنّمون"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:56.303717268Z",
+  "model": "glm-5.2"
+}

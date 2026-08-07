@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "شحمَهُم أغلقوا، أفواهَهُم تكلَّموا ⟨في⟩ غُطرسة.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "شحمَهُم"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "أغلقوا"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "أفواهَهُم"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "تكلَّموا"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "⟨في⟩ غُطرسة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:42:57.789819567Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 16:10",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وقال الملك: ما لي ولكم يا بني صَرويا؟ إن كان يشتم، وإن يهوه قال له: اشتم ⟨את⟩ داود؛ فمَن يقول: لِمَ فعلتَ هكذا؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "ولكم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "يا بني"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "صَرويا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إن"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "يشتم"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "اشتم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داود"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "فمَن"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "يقول"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "لِمَ"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "فعلتَ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:37:05.661819136Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 9:23",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "والآن ملعونون أنتم، ولا يُقطَع منكم عبد، وحاطبو حطبٍ وساقو ماءٍ لبيت إلوهيم.»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "ארורים",
+      "gloss": "ملعونون"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "يُقطَع"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "منكم"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عبد"
+    },
+    {
+      "surface": "וחטבי",
+      "gloss": "وحاطبو"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "حطبٍ"
+    },
+    {
+      "surface": "ושאבי",
+      "gloss": "وساقو"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماءٍ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "لبيت"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:04:35.674280177Z",
+  "model": "glm-5.2"
+}

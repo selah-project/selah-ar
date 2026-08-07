@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "من أشيرَ، دَسِمٌ خبزُه، وهو يُعطي أطايبَ ملك.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "من أشيرَ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "دَسِمٌ"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "خبزُه"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "يُعطي"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "أطايبَ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:29.502023100Z",
+  "model": "glm-5.2"
+}

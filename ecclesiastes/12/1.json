@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 12:1",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "واذكر ⟨את⟩ خالقك في أيام بَحُوريَّتك، قبل ⟨أن⟩ لا تأتي أيام الشرّ وتبلغ السنون التي تقول: «ليس لي فيها هفص».",
+  "tokens": [
+    {
+      "surface": "וזכר",
+      "gloss": "واذكر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خالقك"
+    },
+    {
+      "surface": "בוראיך",
+      "gloss": "خالقك"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "في أيام"
+    },
+    {
+      "surface": "בחורתיך",
+      "gloss": "بَحُوريَّتك"
+    },
+    {
+      "surface": "עד",
+      "gloss": "قبل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨أن⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "تأتي"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "והגיעו",
+      "gloss": "وتبلغ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "السنون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "تقول"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "هفص"
+    }
+  ],
+  "timestamp": "2026-08-07T04:53:29.636978695Z",
+  "model": "glm-5.2"
+}

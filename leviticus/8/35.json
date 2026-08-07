@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 8:35",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وعند باب خيمة الموعد تقعدون نهارًا وليلًا سبعة أيام، وتحفظون ⟨את⟩ حراسة يهوه فلا تموتون، لأنه هكذا أُمرتُ.",
+  "tokens": [
+    {
+      "surface": "ופתח",
+      "gloss": "وعند باب"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "تقعدون"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "نهارًا"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "وليلًا"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سبعة"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "وتحفظون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حراسة"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "حراسة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "تموتون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "أُمرتُ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:24.123394612Z",
+  "model": "glm-5.2"
+}

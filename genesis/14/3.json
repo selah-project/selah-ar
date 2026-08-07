@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "كلّ هؤلاء تحالفوا إلى عمق السدّيم — هو بحر الملح.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "تحالفوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "عمق"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "السدّيم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ים",
+      "gloss": "بحر"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "الملح"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:28.698626932Z",
+  "model": "glm-5.2"
+}

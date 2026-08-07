@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وداود حينئذٍ في الحصن، ومحرس الفلشتّيم حينئذٍ في بيت لاحِم.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "وداود"
+    },
+    {
+      "surface": "אז",
+      "gloss": "حينئذٍ"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "في الحصن"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "ومحرس"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "الفلشتّيم"
+    },
+    {
+      "surface": "אז",
+      "gloss": "حينئذٍ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في بيت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لاحِم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:14:18.804148331Z",
+  "model": "glm-5.2"
+}

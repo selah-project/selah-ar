@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 107,
+  "translation": "جياعًا وعطاشًى، نَفْسُهم فيهم تتغشّى.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "جياعًا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "و"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "عطاشًى"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "نَفْسُهم"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "فيهم"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "تتغشّى"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:44.270803337Z",
+  "model": "glm-5.2"
+}

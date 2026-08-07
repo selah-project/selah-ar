@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "توراةُ إلوهيمِهِ في قلبه، لا تتزعزع خُطاه.",
+  "tokens": [
+    {
+      "surface": "תּוֹרַת",
+      "gloss": "توراةُ"
+    },
+    {
+      "surface": "אֱלֹהָיו",
+      "gloss": "إلوهيمِهِ"
+    },
+    {
+      "surface": "בְּלִבּוֹ",
+      "gloss": "في قلبه"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תִּמְעַד",
+      "gloss": "تتزعزع"
+    },
+    {
+      "surface": "אֲשֻׁרָיו",
+      "gloss": "خُطاه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:01.232818967Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "⟨את⟩ البحر الواحد، و⟨את⟩ الثيران الاثني عشر تحته.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "البحر"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "الواحد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "الثيران"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "الثيران"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "اثنا"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "تحته"
+    }
+  ],
+  "timestamp": "2026-08-07T05:20:53.544461917Z",
+  "model": "glm-5.2"
+}

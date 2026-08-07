@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 29:9",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "لأنّهم بالباطل يتنبّؤون لكم باسمي، لم أرسلهم، قولُ يهوه.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "בְשֶׁ֔קֶר",
+      "gloss": "بالباطل"
+    },
+    {
+      "surface": "הֵ֛ם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "נִבְּאִ֥ים",
+      "gloss": "يتنبّؤون"
+    },
+    {
+      "surface": "לָכֶ֖ם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "בִּשְׁמִ֑י",
+      "gloss": "باسمي"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "لم"
+    },
+    {
+      "surface": "שְׁלַחְתִּ֖ים",
+      "gloss": "أرسلتهم"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "قولُ"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:41:35.149913189Z",
+  "model": "glm-5.2"
+}

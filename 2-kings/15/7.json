@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 15:7",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "ونام عزرياهو مع آبائه فدفنوه مع آبائه في مدينة داود، وملك يوتام ابنه مكانه.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ونام"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزرياه"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "آبائه"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "فدفنوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-إياه",
+      "marks": "عزرياه"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "آبائه"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "في مدينة"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "وملك"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "يوتام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "مكانه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:57:41.124271398Z",
+  "model": "glm-5.2"
+}

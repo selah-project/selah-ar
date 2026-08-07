@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 4:1",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "إن ترجع يا إسرايل، نأم يهوه، إليَّ ترجع، وإن تُزيل مقابِحك من أمام وجهي ولا تتمايل،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ترجع"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرايل"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نأم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليَّ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ترجع"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "תסיר",
+      "gloss": "تُزيل"
+    },
+    {
+      "surface": "שקוציך",
+      "gloss": "مقابِحك"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من أمام وجهي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תנוד",
+      "gloss": "تتمايل"
+    }
+  ],
+  "timestamp": "2026-08-07T02:30:29.763278184Z",
+  "model": "glm-5.2"
+}

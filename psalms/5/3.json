@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "أَنصتي لصوت صراخي ملكي وإلوهيمي، لأنّه إليك أُصلّي",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "أَنصتي"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "لصوت"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "صراخي"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ملكي"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "وإلوهيمي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "أُصلّي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:40:13.863519583Z",
+  "model": "glm-5.2"
+}

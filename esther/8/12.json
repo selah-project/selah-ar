@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 8:12",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "في يوم واحد في كل ولايات الملك أخشويروش، في الثالث عشر للشهر الثاني عشر، ⟨وهو⟩ شهر أدار.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلّ"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "ولايات"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "أخشويروش"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "في الثالث"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "للشهر"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "الثاني"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨وهو⟩"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "أدار"
+    }
+  ],
+  "timestamp": "2026-08-07T04:56:09.221071894Z",
+  "model": "glm-5.2"
+}

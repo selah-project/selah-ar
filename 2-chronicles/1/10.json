@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "الآنَ حِكمَةً ومَعرِفةً أعطِني، فأخرُجَ أمامَ هذا الشعبِ وأدخُلَ، لأنّه مَن يَدينُ ⟨את⟩ شعبَكَ هذا العظيم؟",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "الآنَ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حِكمَةً"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "ومَعرِفةً"
+    },
+    {
+      "surface": "תן",
+      "gloss": "أعطِ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ني"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "فأخرُجَ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمامَ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعبِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "وأدخُلَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "يَدينُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شعبَك"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "شعبَكَ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "العظيم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:20:19.961402803Z",
+  "model": "glm-5.2"
+}

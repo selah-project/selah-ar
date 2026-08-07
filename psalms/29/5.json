@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "صوتُ يهوه يكسرُ أرزاتٍ، وكسرَ يهوه ⟨את⟩ أرزاتِ لفنانون",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "صوتُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "يكسرُ"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "أرزاتٍ"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "وكسرَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أرزاتِ"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "أرزاتِ"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "لفنانون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:28.023558730Z",
+  "model": "glm-5.2"
+}

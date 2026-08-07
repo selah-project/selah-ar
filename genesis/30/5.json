@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وحبلت بِلْهَا وولدت ليعقوف ابنًا.",
+  "tokens": [
+    {
+      "surface": "וַתַּ֣הַר",
+      "gloss": "وحبلت"
+    },
+    {
+      "surface": "בִּלְהָ֔ה",
+      "gloss": "بِلْهَا"
+    },
+    {
+      "surface": "וַתֵּ֥לֶד",
+      "gloss": "وولدت"
+    },
+    {
+      "surface": "לְיַעֲקֹ֖ב",
+      "gloss": "ليعقوف"
+    },
+    {
+      "surface": "בֵּֽן",
+      "gloss": "ابنًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:45:10.681719616Z",
+  "model": "glm-5.2"
+}

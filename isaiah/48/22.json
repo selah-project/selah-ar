@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "«لا شالوم»، قال يهوه، للأشرار. (شالوم — السلام\/الكمال)",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "للأشرار"
+    }
+  ],
+  "timestamp": "2026-08-07T02:19:24.966477392Z",
+  "model": "glm-5.2"
+}

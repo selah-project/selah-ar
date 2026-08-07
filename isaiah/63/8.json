@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 63:8",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 63,
+  "translation": "وقال: «أحقًّا شعبي هم، بنونَ لا يكذِبون.» فصار لهم لمُخَلِّص.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אך",
+      "gloss": "أحقًّا"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "شعبي"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بنونَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישקרו",
+      "gloss": "يكذِبون"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "فصار"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "למושיע",
+      "gloss": "لمُخَلِّص"
+    }
+  ],
+  "timestamp": "2026-08-07T02:25:53.765448439Z",
+  "model": "glm-5.2"
+}

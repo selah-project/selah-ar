@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فأرسل داودُ الملكُ وأخذه من بيت ماخير بن عمعئيل من لُو دِبار.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملكُ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داودُ"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "وأخذه"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "من بيت"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ماخير"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "عمعئيل"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "من لُو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دِبار"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:58.013061410Z",
+  "model": "glm-5.2"
+}

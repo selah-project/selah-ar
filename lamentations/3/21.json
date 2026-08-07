@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "هذا أُعيدُه إلى قلبي، من أجل ذلك أرجو.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "أعيدُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "על",
+      "gloss": "من أجل"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "أرجو"
+    }
+  ],
+  "timestamp": "2026-08-07T04:48:59.943616008Z",
+  "model": "glm-5.2"
+}

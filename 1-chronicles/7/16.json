@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 7:16",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وولدت معكة امرأة ماكير ابنًا و⟨هي⟩ دعت اسمه فارِش، واسم أخيه شارِش، وبنوه أولام و⟨راكِم⟩.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "وولدت"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "معكة"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ماكير"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنًا"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ودعت"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمه"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "فارِش"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "واسم"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "أخيه"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "شارِش"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "وبنوه"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "أولام"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "وراكِم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:12:34.514016778Z",
+  "model": "glm-5.2"
+}

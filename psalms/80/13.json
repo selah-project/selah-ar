@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 80,
+  "translation": "لِمَاذا هَدَمتَ أسوارَها فالتقمها كلُّ عابري الطريق؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "هدمتَ"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "أسوارها"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "فالتقمها"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "عابري"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "الطريق"
+    }
+  ],
+  "timestamp": "2026-08-07T04:01:37.298657520Z",
+  "model": "glm-5.2"
+}

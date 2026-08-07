@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 102,
+  "translation": "وأنتَ هو، وسنواتُكَ لا تُكمَلُ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "وأنتَ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "وسنواتُكَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "تُكمَلُ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:06:17.464134340Z",
+  "model": "glm-5.2"
+}

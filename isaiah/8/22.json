@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 8:22",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وإلى الأرض ينظرُ، فإذا ضيقٌ وظلمةٌ: طيرانُ شدّةٍ، وإظلامٌ مدفوعٌ",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ينظرُ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "فإذا"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ضيقٌ"
+    },
+    {
+      "surface": "וחשכה",
+      "gloss": "وظلمةٌ"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "طيرانُ"
+    },
+    {
+      "surface": "צוקה",
+      "gloss": "شدّةٍ"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "وإظلامٌ"
+    },
+    {
+      "surface": "מנדח",
+      "gloss": "مدفوعٌ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:05:19.999933633Z",
+  "model": "glm-5.2"
+}

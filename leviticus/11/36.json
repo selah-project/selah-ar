@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 11:36",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "أمّا عينٌ وبئرٌ — مجمعُ ماءٍ — فيكونُ طاهرًا، واللامسُ جيفَتَهم يتنجَّسُ",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "أمّا"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "عين"
+    },
+    {
+      "surface": "ובור",
+      "gloss": "وبئر"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "مجمع"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماء"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "فيكون"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "طاهر"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "واللامس"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "جيفَتَهم"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "يتنجَّس"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:53.133381704Z",
+  "model": "glm-5.2"
+}

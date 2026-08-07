@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 17:9",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وتأتي إلى الكوهنيّم اللاويّم وإلى الشوفات ⟨الذي⟩ يكون في الأيّام تلك، وتسأل فيُخبروك ⟨أنت⟩ ⟨את⟩ كلمة الحُكم.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "وتأتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكوهنيّم"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "اللاويّم"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "الشوفات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "في الأيّام"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "تلك"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "وتسأل"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "فيُخبروا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلمة"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "الحُكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:11.646282759Z",
+  "model": "glm-5.2"
+}

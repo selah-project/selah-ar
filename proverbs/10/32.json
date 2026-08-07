@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 10:32",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "شفاةُ الصدّيق تعرفان رضًى، وفمُ الأشرار مقلوبات.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "شفاةُ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "الصدّيق"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "تعرفان"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "رضًى"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "وفمُ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الأشرار"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "مقلوبات"
+    }
+  ],
+  "timestamp": "2026-08-07T04:24:41.438523049Z",
+  "model": "glm-5.2"
+}

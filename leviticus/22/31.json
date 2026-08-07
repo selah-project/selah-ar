@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وتَحفظون وصاياي وتَعمَلون ⟨את⟩ها؛ أنا يهوه.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "وتَحفظون"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "وصاياي"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "وتَعمَلون"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "وصاياي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:00.745607490Z",
+  "model": "glm-5.2"
+}

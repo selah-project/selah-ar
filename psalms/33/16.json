@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "ليس الملك يُنقَذ بكثرة جُند، ولا الجبّار يُنجى بكثرة قوّة.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "يُنقَذ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "بكثرة"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "جُند"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "الجبّار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "يُنجى"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "بكثرة"
+    },
+    {
+      "surface": "כח",
+      "gloss": "قوّة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:06.369147571Z",
+  "model": "glm-5.2"
+}

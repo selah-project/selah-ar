@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 105,
+  "translation": "وجاء يسرائيل مصرايم، وتغرّب يعقوف في أرض حام",
+  "tokens": [
+    {
+      "surface": "ולבא",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "ולעקב",
+      "gloss": "ويعقوف"
+    },
+    {
+      "surface": "גר",
+      "gloss": "تغرّب"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    }
+  ],
+  "timestamp": "2026-08-07T04:08:48.144037121Z",
+  "model": "glm-5.2"
+}

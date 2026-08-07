@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "اليومَ أنتم خارجون في شهرِ الأبيف.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "اليومَ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "خارجون"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "في شهرِ"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "الأبيف"
+    }
+  ],
+  "timestamp": "2026-08-07T00:03:34.927496696Z",
+  "model": "glm-5.2"
+}

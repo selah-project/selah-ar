@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 14:13",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "حتى في الضَّحك يَألم القلب، وعاقبةُ الفرح تَوْجة.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "בשחוק",
+      "gloss": "في الضَّحك"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "يَألم"
+    },
+    {
+      "surface": "לב",
+      "gloss": "القلب"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "وعاقبتُه"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "الفرح"
+    },
+    {
+      "surface": "תוגه",
+      "gloss": "تَوْجة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:33.487646546Z",
+  "model": "glm-5.2"
+}

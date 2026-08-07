@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "فقال الملك: موتًا تموت أنت وكلّ بيت أبيك.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موتًا"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "تموت"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "أخيميلك"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أبيك"
+    }
+  ],
+  "timestamp": "2026-08-07T05:46:39.722522549Z",
+  "model": "glm-5.2"
+}

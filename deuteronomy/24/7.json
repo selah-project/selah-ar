@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 24:7",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "إذا وُجد رجل يسرق نَفْسًا من إخوته من بني يسرائيل ويستعبده ويبيعه، فإنَّ ذلك السارق يموت، فتبيد الشرّ من وسطك.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "وُجد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "يسرق"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفسًا"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "من إخوته"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "من بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "והתעמר",
+      "gloss": "ويستعبده"
+    },
+    {
+      "surface": "בו",
+      "gloss": "إيّاه"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "ويبيعه"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "فيموت"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "ذلك السارق"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "فتبيد"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "من وسطك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:58:42.149656869Z",
+  "model": "glm-5.2"
+}

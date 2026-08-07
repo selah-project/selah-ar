@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 8:12",
+  "book": "ezra",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "ومِن بَني عَزْجاد: يوهانان بن هاقاطان، ومعه مئة وعشرة ذكور.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "ومِن بَني"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "عَزْجاد"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "يوهانان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "هاقاطان"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ومعه"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "وعشرة"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "الذكور"
+    }
+  ],
+  "timestamp": "2026-08-07T08:22:30.420774566Z",
+  "model": "glm-5.2"
+}

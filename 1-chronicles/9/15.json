@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وبَقْبَقّار، حَرِيش، وغالَل، ومَتَنيا بنُ ميخا بنُ زِكْري بنُ آساف.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "وبَقْبَقّار"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "حَرِيش"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "وغالَل"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "ومَتَنيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنُ"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "ميخا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنُ"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "زِكْري"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنُ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف"
+    }
+  ],
+  "timestamp": "2026-08-07T05:13:36.055977388Z",
+  "model": "glm-5.2"
+}

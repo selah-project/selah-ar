@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وسمعتُ ⟨את⟩ صوت أدوناي يقول: ⟨את⟩ مَنْ أُرسِل؟ ومَن يذهبُ لنا؟ فقلتُ: ها أنا، أرسِلْني.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "وسمعت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صوت"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "يقول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مَنْ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَنْ"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "أُرسِل"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ومَن"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "يذهب"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "فقلت"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ها أنا"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "أرسِلني"
+    }
+  ],
+  "timestamp": "2026-08-07T02:06:17.474259493Z",
+  "model": "glm-5.2"
+}

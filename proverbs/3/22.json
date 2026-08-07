@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 3:22",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "ف⟨تكون⟩ حياةً لنفسك، وحنًّا لعنقك.",
+  "tokens": [
+    {
+      "surface": "וְיִֽהְי֣וּ",
+      "gloss": "ف⟨تكون⟩"
+    },
+    {
+      "surface": "חַיִּ֣ים",
+      "gloss": "حياةً"
+    },
+    {
+      "surface": "לְנַפְשֶׁ֑ךָ",
+      "gloss": "لنفسك"
+    },
+    {
+      "surface": "וְ֝חֵ֗ן",
+      "gloss": "وحنًّا"
+    },
+    {
+      "surface": "לְגַרְגְּרֹתֶֽיךָ",
+      "gloss": "لعنقك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:21:26.077485632Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 25:31",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "أمّا بيوتُ الأحياء التي لا سورَ لها مُحيطة، فعلى حقلِ الأرض تُحسَب؛ فداءً ⟨تكون⟩ له، وفي اليّوبل يخرج.",
+  "tokens": [
+    {
+      "surface": "ובתי",
+      "gloss": "أمّا بيوت"
+    },
+    {
+      "surface": "החצרים",
+      "gloss": "الأحياء"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لها"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "سور"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "مُحيطة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "حقل"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "تُحسَب"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "فداء"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨تكون⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "וביבל",
+      "gloss": "وفي اليّوبل"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "يخرج"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:57.336143298Z",
+  "model": "glm-5.2"
+}

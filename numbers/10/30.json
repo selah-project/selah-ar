@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فقال ⟨له⟩: لا أذهب، بل إلى أرضي وإلى موطِن مولدي أذهب.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "أذهب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨أي⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "أرضي"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "موطِن مولدي"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "أذهب"
+    }
+  ],
+  "timestamp": "2026-08-07T00:32:01.352009610Z",
+  "model": "glm-5.2"
+}

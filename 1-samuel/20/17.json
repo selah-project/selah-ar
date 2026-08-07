@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 20:17",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "وعاد يهوناتان فأحلف ⟨את⟩ داود بمحبّته إيّاه، لأنّه بمحبّة نَفْسه أحبّه.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "وعاد"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يهوناتان"
+    },
+    {
+      "surface": "להשביע",
+      "gloss": "فأحلف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داود"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "بمحبّته"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "إيّاه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "بمحبّة"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نَفْسه"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "أحبّه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:45:38.205284660Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "فقال له يوسف هذا حلّه ثلاثة القضب ثلاثة أيام هي",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "حلّه"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ثلاثة"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "القضب"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ثلاثة"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:12.927423548Z",
+  "model": "glm-5.2"
+}

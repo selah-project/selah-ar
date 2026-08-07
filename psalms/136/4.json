@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 136,
+  "translation": "لفاعل العجائب العظيمة وحده لأنّ إلى الأبد حِسِدُه",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "لفاعل"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "العجائب"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "العظيمة"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "وحده"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حِسِدُه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:17:29.935590230Z",
+  "model": "glm-5.2"
+}

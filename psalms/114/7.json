@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 114,
+  "translation": "من أمامِ سيّدٍ، ارتعشي أيتها الأرض، من أمامِ أَلُوَهّ يعقوف —",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "من أمام"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "سيّد"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "ارتعشي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أيتها الأرض"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "من أمام"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "أَلُوَهّ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:43.235936385Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 4:11",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "و⟨كان⟩ اليومُ وجاء إلى هناك ومال إلى العُلّيقة واضطجع هناك.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليومُ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "إلى هناك"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ومال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "العُلّيقة"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "واضطجع"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هناك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:53:38.477687670Z",
+  "model": "glm-5.2"
+}

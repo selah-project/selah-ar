@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 26:23",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "وتصنع لوحين لزاويتَيِ ⟨المِشكان⟩ في الجانبَين.",
+  "tokens": [
+    {
+      "surface": "ושני",
+      "gloss": "ولوحين"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "ألواح"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تصنع"
+    },
+    {
+      "surface": "למקצעת",
+      "gloss": "لزاويتَي"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "المِشكان"
+    },
+    {
+      "surface": "בירכתים",
+      "gloss": "في الجانبَين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:57.436461909Z",
+  "model": "glm-5.2"
+}

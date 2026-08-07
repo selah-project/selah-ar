@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "فقال شموئيل للشعب: «يهوه ⟨هو⟩ الذي صنع ⟨את⟩ موشه و⟨את⟩ أهرون، والذي أصعد ⟨את⟩ آباءكم من أرض مصرايم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أهرون"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهرون"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "والذي"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "أصعد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آباءكم"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "آباءكم"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "من أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:24:11.378898213Z",
+  "model": "glm-5.2"
+}

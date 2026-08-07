@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 123,
+  "translation": "تَحَنَّنْ علينا يا يهوه تَحَنَّنْ، لأنّا قد شَبِعنا احتقارًا.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "تَحَنَّنْ علينا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "تَحَنَّنْ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّا"
+    },
+    {
+      "surface": "רב",
+      "gloss": "قد"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "شَبِعنا"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "احتقارًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:15:48.174451463Z",
+  "model": "glm-5.2"
+}

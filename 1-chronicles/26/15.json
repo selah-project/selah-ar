@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 26:15",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "لِعوُبيد-أدوم جنوبًا، ولبنيه بيت هأَسُّپيم.",
+  "tokens": [
+    {
+      "surface": "לעבד",
+      "gloss": "لِعوُبيد"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "أدوم"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "جنوبًا"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ولبنيه"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "האספים",
+      "gloss": "هأَسُّپيم"
+    }
+  ],
+  "timestamp": "2026-08-07T06:14:04.502122005Z",
+  "model": "glm-5.2"
+}

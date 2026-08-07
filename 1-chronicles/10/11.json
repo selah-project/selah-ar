@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فسمع كلُّ يابيش جلعاد ⟨את⟩ كلِّ ما فعله فِلِشتيّم بِشاؤول.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "فسمع"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "يابيش"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "جلعاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلِّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "فعله"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فِلِشتيّم"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "بِشاؤول"
+    }
+  ],
+  "timestamp": "2026-08-07T05:13:55.834548404Z",
+  "model": "glm-5.2"
+}

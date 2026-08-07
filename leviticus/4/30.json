@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 4:30",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "ويأخذ الكوهين من دمها بإصبعه، ويضع على قرون مذبح العولاه، و⟨أما⟩ ⟨את⟩ كل دمها فيَسكب إلى أساس المذبح",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ويأخذ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "من دمها"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "بإصبعه"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ويضع"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "قرون"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "العولاه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨أما⟩ ⟨את⟩",
+      "marks": "كل دمها"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "دمها"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "فيَسكب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "أساس"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:08.967881741Z",
+  "model": "glm-5.2"
+}

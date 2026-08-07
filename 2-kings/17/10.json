@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 17:10",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "ونصبوا لأنفسهم مَصيبوت وأَشيريم على كلّ تلٍّ مرتفع وتحت كلّ شجرةٍ نضرة.",
+  "tokens": [
+    {
+      "surface": "ויצבו",
+      "gloss": "ونصبوا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لأنفسهم"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "مَصيبوت"
+    },
+    {
+      "surface": "ואשרים",
+      "gloss": "وأَشيريم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "تلّ"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "مرتفع"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "وتحت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "شجرة"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "نضرة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:58:59.566366226Z",
+  "model": "glm-5.2"
+}

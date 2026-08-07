@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "عَمِلوا حربًا ⟨مع⟩ ⟨את⟩ برع ملك سدوم، و⟨את⟩ برشع ملك عمورة، شينئاب ملك أدمة، وشِمئِبر ملك صبويم، وملك بلع — هي صعر.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "عَمِلوا"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "حربًا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برع"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "برع"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدوم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "برشع"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "برشع"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "عمورة"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "شينئاب"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "أدمة"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "وشِمئِبر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "صبويم"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "وملك"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "بلع"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "צער",
+      "gloss": "صعر"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:28.697616247Z",
+  "model": "glm-5.2"
+}

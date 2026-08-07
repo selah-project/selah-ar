@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 73,
+  "translation": "جعلوا في السماوات أفواههم، ولِسانهم يتمشّى في الأرض.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "جعلوا"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "في السماوات"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "أفواههم"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "ولسانهم"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "يتمشّى"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:09.371906889Z",
+  "model": "glm-5.2"
+}

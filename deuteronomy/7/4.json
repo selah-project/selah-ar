@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "لأنّه يُزيِّفْ ابنكَ مِنْ بَعدي فيعبدون إلهةً أُخرى، فيحمو غضبُ يهوه عليكم ويُبيدُكَ سريعًا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "يُزيِّفْ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابنكَ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ابنكَ"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "مِنْ بَعدي"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "فيعبدون"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلهةً"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "أُخرى"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "فيحمو"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غضبُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "عليكم"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "ويُبيدُكَ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "سريعًا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:42:42.414499437Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 62,
+  "translation": "إنّما نحو إلوهيم سكوتٌ لنفسي؛ منه خلاصي.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نحو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "سكوت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نفسي"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "خلاصي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:00.673019157Z",
+  "model": "glm-5.2"
+}

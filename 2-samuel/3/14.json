@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 3:14",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وأرسلَ داودُ رسلًا إلى إيش-بوشت بنِ شاؤول قائلًا أعطِ ⟨את⟩ امرأتي ⟨את⟩ ميخال التي خطبتُها لي بمئةِ غُرلٍ فلشتيةٍ",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "وأرسل"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "رسلًا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "איש",
+      "gloss": "إيش"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "بوشت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "أعطِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "امرأتي"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "امرأتي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ميخال"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "ميخال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "ארשתי",
+      "gloss": "خطبتها"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "بمئة"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "غرل"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلشتية"
+    }
+  ],
+  "timestamp": "2026-08-07T01:32:25.381532549Z",
+  "model": "glm-5.2"
+}

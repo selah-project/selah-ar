@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 25:17",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وتصنع كبّورِت ذهب طاهر: ذراعان ونصف ⟨يكون⟩ طولها، وذراع ونصف عرضها.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "وتصنع"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "كبّورِت"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهب"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "طاهر"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "ذراعان"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ونصف"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "طولها"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "وذراع"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ونصف"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "عرضها"
+    }
+  ],
+  "timestamp": "2026-08-07T05:37:13.022511763Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "وصعد داودود ككلمة گاد كما أمر يهوه.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "وصعد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داودود"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ككلمة"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أمر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:41:16.803155148Z",
+  "model": "glm-5.2"
+}

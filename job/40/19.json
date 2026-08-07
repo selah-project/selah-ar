@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 40:19",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "هو أوّلُ طرقِ إيل؛ صانعُه يُقرّبُ سيفَه.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "أوّلُ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "طرقِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "העשו",
+      "gloss": "صانعُه"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "يُقرّبُ"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "سيفَه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:44:15.465162956Z",
+  "model": "glm-5.2"
+}

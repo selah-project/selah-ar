@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وإنِ ⟨أنتَ⟩ تأبى أنْ تُطلِقَ، فهذا أنا ضاربٌ ⟨את⟩ كلَّ تخمِكَ بِضَفادِع.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "تأبى"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "أنْ تُطلِقَ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "فهذا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "ضاربٌ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلَّ تخمِكَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "تخمِكَ"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "بِضَفادِع"
+    }
+  ],
+  "timestamp": "2026-08-07T05:36:14.258976256Z",
+  "model": "glm-5.2"
+}

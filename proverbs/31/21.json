@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 31:21",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "لا تخاف ⟨على⟩ بيتها من الثلج، لأن كلّ بيتها لباس ⟨هو⟩ قرمزي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "تخاف"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "على بيتها"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "من الثلج"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "بيتها"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "لباس"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "قرمزي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:46.337517047Z",
+  "model": "glm-5.2"
+}

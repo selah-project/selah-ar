@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 26:12",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "وأمشي في وسطكم، و⟨أكون⟩ لكم لإلوهيم، وأنتم تكونون لي لشعب.",
+  "tokens": [
+    {
+      "surface": "והתהלכתי",
+      "gloss": "وأمشي"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "في وسطِكم"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "و⟨أكون⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "لإلوهيم"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "وأنتم"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "تكونون"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "لشعبٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:26:39.435720467Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 82,
+  "translation": "لا يعرفون ولا يفهمون، في الظلام يتراءَسون، تتزعزع كلُّ أساسات الأرض.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "يعرفون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "يفهمون"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "في الظلام"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "يتراءَسون"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "تتزعزع"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "أساسات"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T04:01:25.778013634Z",
+  "model": "glm-5.2"
+}

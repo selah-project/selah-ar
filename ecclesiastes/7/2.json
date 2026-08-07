@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "طيّبٌ الذهابُ إلى بيتِ النوح، من الذهابِ إلى بيتِ الشرب، لأنّّ ذاك آخرُ كلِّ الإنسان، والحَيُّ يَضَعُه على قلبه.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "طيّب"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "الذهاب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "من الذهاب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "شرب"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "آخر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "والحيّ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "يَضَع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "على"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "قلبه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:01.588865991Z",
+  "model": "glm-5.2"
+}

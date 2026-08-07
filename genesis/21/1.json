@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وافتقد يهوه ⟨את⟩ سارَة كما قال، وفعل يهوه لسارَة كما تكلّم.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "وافْتَتَدَ"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "يَهْوَه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارَة"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارَة"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "وفعَل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يَهْوَه"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "لسارَة"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:27.693169091Z",
+  "model": "glm-5.2"
+}

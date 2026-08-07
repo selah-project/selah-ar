@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 105,
+  "translation": "و⟨ضرب⟩ كلَّ بِكرٍ في أرضهم، رأسَ كلِّ قُوّتهم.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "و⟨ضرب⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "بِكرٍ"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "في أرضهم"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "رأسَ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "قُوّتهم"
+    }
+  ],
+  "timestamp": "2026-08-07T06:05:52.258574915Z",
+  "model": "glm-5.2"
+}

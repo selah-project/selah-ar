@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وذهب كلُّ الشعب كلُّ واحدٍ إلى بيته، ورجع داوود لِيُبارِكَ ⟨את⟩ بيته.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "وذهب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كلُّ واحدٍ"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "إلى بيته"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ورجع"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "لِيُبارِكَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيته"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "بيته"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:10.564383806Z",
+  "model": "glm-5.2"
+}

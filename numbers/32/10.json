@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "فحمي غضب يهوه في ذلك اليوم، وأقسم قائلًا",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "فحمي"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "وأقسم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:02.792045342Z",
+  "model": "glm-5.2"
+}

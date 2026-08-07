@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 69,
+  "translation": "وبَكَيتُ في صومٍ نَفسي، وصارَت ⟨إلى⟩ تعييرٍ لي.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "وبَكَيتُ"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "في صومٍ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفسي"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "وصارَت"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "⟨إلى⟩ تعييرٍ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:33.490823168Z",
+  "model": "glm-5.2"
+}

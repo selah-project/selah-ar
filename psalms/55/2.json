@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 55,
+  "translation": "أَصغِ يا إلوهيم لصلاتي، و⟨لا⟩ تتوارَ عن تضرُّعي.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "أَصغِ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "يا إلوهيم"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "لصلاتي"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و⟨لا⟩"
+    },
+    {
+      "surface": "תתעلם",
+      "gloss": "تتوارَ"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "عن تضرُّعي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:15.497213885Z",
+  "model": "glm-5.2"
+}

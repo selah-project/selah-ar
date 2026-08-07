@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "ومن حُشيم أَنجب ⟨את⟩ أَفيتوف و⟨את⟩ إيلَفَعَل.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "ومن حُشيم"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "أَنجب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أَفيتوف"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "أَفيتوف"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "إيلَفَعَل"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "إيلَفَعَل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:35.164551282Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 9:14",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "اتركني فأُفنيهم، وأمحو ⟨את⟩ اسمهم من تحت السماوات، وأصنعك أُمّةً عزيزةً وكثيرةً منهم",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "اترك"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مني"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "فأُفنيهم"
+    },
+    {
+      "surface": "ואמחה",
+      "gloss": "وأمحو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسمهم"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "اسمهم"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "من تحت"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "وأصنع"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "إيّاك",
+      "marks": "أُمّة"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "أُمّة"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "عزيزة"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "وكثيرة"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:54:09.620481642Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "كما أمر يهوه ⟨את⟩ موشيه، فعدّهم في برّية سيناي.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أمر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "فعدّهم"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في برّية"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سيناي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:52.148799094Z",
+  "model": "glm-5.2"
+}

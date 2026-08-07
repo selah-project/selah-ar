@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "وأجعلُ مِشكاني في وسطكم، ولا ترذلُ نفسي ⟨את⟩ إيّاكم.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "وأجعلُ"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "مِشكاني"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "في وسطِكم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "ترذلُ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نفسي"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:26:39.435599811Z",
+  "model": "glm-5.2"
+}

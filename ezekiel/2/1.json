@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وقال لي: «يا ابن آدم، قِفْ على رِجْليكَ فأُكلِّمَ ⟨את⟩ك.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "قِفْ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "رِجْليكَ"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "فأُكلِّمَ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاك"
+    }
+  ],
+  "timestamp": "2026-08-07T02:54:29.367670161Z",
+  "model": "glm-5.2"
+}

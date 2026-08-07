@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وقال موشيه للجماعة: هذا ⟨هو⟩ الدّابر الذي وصّى به يهوه ⟨لل⟩قيام به.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "الجماعة"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الدّابر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "وصّى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "للقيام به"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:42.763138474Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "ورجل أو امرأة، إذا صار في جلد لحمهم بُهَرَت، بُهَرَت بيضاء،",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ورجل"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "صار"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "في جلد"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "لحمهم"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "بُهَرَت"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "بُهَرَت"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "بيضاء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:19:13.569145158Z",
+  "model": "glm-5.2"
+}

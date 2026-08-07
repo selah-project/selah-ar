@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "لأنَّ فاعلي الشرّ يُستأصلون، ومنتظري يهوه هم يرثون أرضًا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "فاعلي الشرّ"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "يُستأصلون"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "ومنتظري"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "يرثون"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرضًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:29.795525325Z",
+  "model": "glm-5.2"
+}

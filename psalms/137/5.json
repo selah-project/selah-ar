@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 137,
+  "translation": "إنْ أنساكَ، يا يروشالايم، تنسى يميني،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إنْ"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "أنساكَ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يا يروشالايم"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "تنسى"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "يميني"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:00.373683260Z",
+  "model": "glm-5.2"
+}

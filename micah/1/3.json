@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "لأنه ها هو يهوه خارجٌ من مكانه، فينزل ويطأ على مرتفعات الأرض",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها هو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "خارجٌ"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "من مكانه"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "فينزل"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ويطأ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "مرتفعات"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T03:29:19.697873788Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وصعد أفرام من مصرايم، هو ⟨وزوجتَه⟩ وكلّ ما له ولوط ⟨معه⟩، نحوَ النَّقب",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "وصعد"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "أفرام"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "من مصرايم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "⟨وزوجتَه⟩"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "ولوط"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨معه⟩"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "نحوَ النَّقب"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:38.166328435Z",
+  "model": "glm-5.2"
+}

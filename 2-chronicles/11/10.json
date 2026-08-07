@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨את⟩ تصورعة و⟨את⟩ أيالون و⟨את⟩ حبرون التي في يهودا وببنيامين، مدن حصون.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "تصورعة"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "تصورعة"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أيالون"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "أيالون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "حبرون"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حبرون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "في يهودا"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "وببنيامين"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "حصون"
+    }
+  ],
+  "timestamp": "2026-08-07T05:24:16.729036512Z",
+  "model": "glm-5.2"
+}

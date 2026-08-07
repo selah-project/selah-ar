@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "الخامس شَفَطياه، لأَڤيتال؛ السادس يِتْرَعام، لعَگْلَة امرأته.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "الخامس"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شَفَطياه"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "لأَڤيتال"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "السادس"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "يِتْرَعام"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "لعَگْلَة"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "امرأته"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:38.159559954Z",
+  "model": "glm-5.2"
+}

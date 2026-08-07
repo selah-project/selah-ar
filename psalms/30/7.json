@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وأنا قلتُ في طُمأنينتي: «بل لا أتزعزع إلى الأبد».",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "قلتُ"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "في طُمأنينتي"
+    },
+    {
+      "surface": "בל",
+      "gloss": "بل"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "أتزعزع"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:45.679574328Z",
+  "model": "glm-5.2"
+}

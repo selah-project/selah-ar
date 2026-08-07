@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 9:8",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فقال لهم موشيه: «قِفوا لأنعمّ ما يوصي به يهوه لكم.»",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֥אמֶר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אֲלֵהֶ֖ם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "מֹשֶׁ֑ה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "עִמְד֣וּ",
+      "gloss": "قِفوا"
+    },
+    {
+      "surface": "וְאֶשְׁמְעָ֔ה",
+      "gloss": "لأنعمّ"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יְצַוֶּ֥ה",
+      "gloss": "يوصي به"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לָכֶֽם",
+      "gloss": "لكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:31:27.285889297Z",
+  "model": "glm-5.2"
+}

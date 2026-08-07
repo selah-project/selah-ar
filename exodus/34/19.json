@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 34:19",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "كلّ فاتِر رَحِم لي، وكلّ ماشيتك تُذكَّر ذكرًا، فاتِر ثور و⟨⟩ خروف.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "فاتِر"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "رَحِم"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "ماشيتك"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "تُذكَّر ذكرًا"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "فاتِر"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ثور"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "خروف"
+    }
+  ],
+  "timestamp": "2026-08-07T00:13:07.648319529Z",
+  "model": "glm-5.2"
+}

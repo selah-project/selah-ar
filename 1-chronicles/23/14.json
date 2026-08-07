@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 23:14",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "وأمّا موشيه رَجُل إلوهيم فبَنوه كانوا يُعدّون على سبط هالوي.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "وأمّا موشيه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رَجُل"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "فبَنوه"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "كانوا يُعدّون"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "سبط"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "هالوي"
+    }
+  ],
+  "timestamp": "2026-08-07T05:17:55.350081015Z",
+  "model": "glm-5.2"
+}

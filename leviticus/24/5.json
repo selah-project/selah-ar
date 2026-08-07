@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "وتأخذ دقيقًا وتخبزه ⟨את⟩ه اثنتي عشرة كعكة، عُشرين يكون ⟨في⟩ الكعكة الواحدة.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "وتأخذ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "دقيق"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "وتخبز"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ه",
+      "marks": "الكعكات"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "اثنتي"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرة"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "كعكة"
+    },
+    {
+      "surface": "שני",
+      "gloss": "اثنان"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "أعشار"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "الكعكة"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "الواحدة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:57.212918431Z",
+  "model": "glm-5.2"
+}

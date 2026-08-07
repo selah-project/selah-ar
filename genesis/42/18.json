@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "وقال إليهم يوصف في اليوم الثالث: «هذا افعلوا ⟨و⟩تحيوا؛ ⟨את⟩ إلوهيم أنا أتّقي.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "إليهم"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوصف"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في اليوم"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "الثالث"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "افعلوا"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "وحيوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "إلوهيم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "أتّقي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:39.296413303Z",
+  "model": "glm-5.2"
+}

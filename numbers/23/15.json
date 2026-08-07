@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 23:15",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "وقال لبالاق: قف هكذا عند عولاتك، وأنا أُلاقِي هكذا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "قف"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "על",
+      "gloss": "عند"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "عولاتك"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "אקרה",
+      "gloss": "أُلاقي"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:39:16.278613655Z",
+  "model": "glm-5.2"
+}

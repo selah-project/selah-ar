@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "فقال له يتسحاق أبوه: «مَن أنتَ؟» فقال: «أنا ابنُكَ بكركَ عيسو.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يتسحاق"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبوه"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ابنُكَ"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "بكركَ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:56.059576850Z",
+  "model": "glm-5.2"
+}

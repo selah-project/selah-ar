@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 22:11",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "الآن يا ابني، ليكن يهوه معك، وأنجحْ وابنِ بيت يهوه إلوهيمك كما تكلّم عليك.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "يا ابني"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ليكن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "והצלחת",
+      "gloss": "وأنجحْ"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "وابنِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "عليك"
+    }
+  ],
+  "timestamp": "2026-08-07T05:18:25.166287134Z",
+  "model": "glm-5.2"
+}

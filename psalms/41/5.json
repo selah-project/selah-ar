@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "أنا قلت: «يهوه، انعمني، اشفِ نَفسي، لأنني أخطأتُ إليك».",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "قلت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "انعمني"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "اشفِ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفسي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنني"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "أخطأتُ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "إليك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:07.425556256Z",
+  "model": "glm-5.2"
+}

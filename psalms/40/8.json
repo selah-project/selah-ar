@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "حينئذٍ قلتُ: «ها أنا جئتُ! في لفافةِ السِّفر مكتوبٌ عنّي.»",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "حينئذٍ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "قلتُ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "أنا جئتُ"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "في لفافةِ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "السِّفر"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "مكتوبٌ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عنّي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:02.599748817Z",
+  "model": "glm-5.2"
+}

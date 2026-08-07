@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "تبيع شعبك بلا ثمن، و⟨لم⟩ تكثر بثمنهم.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "تبيع"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "شعبك"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بلا"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ثمن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و⟨لم⟩"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "تكثر"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "بثمنهم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:26.672673193Z",
+  "model": "glm-5.2"
+}

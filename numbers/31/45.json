@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "وثلاثون ألف حمار وخمس مئة،",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "وحمار"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ثلاثون"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "وخمس"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:39.103760066Z",
+  "model": "glm-5.2"
+}

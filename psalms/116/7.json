@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 116,
+  "translation": "ارجِعي يا نَفسي إلى مَنَامِكِ، لأنّ يهوه أَحسَنَ إليكِ.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "ارجِعي"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "يا نَفسي"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "إلى مَنَامِكِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "أَحسَنَ"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "إليكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:43.748361865Z",
+  "model": "glm-5.2"
+}

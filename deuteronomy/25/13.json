@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "لا ⟨يكن⟩ لك في كيسك حجر ⟨وحجر⟩، كبير ⟨وصغير⟩.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יִהְיֶ֥ה",
+      "gloss": "⟨يكن⟩"
+    },
+    {
+      "surface": "לְךָ֛",
+      "gloss": "لك"
+    },
+    {
+      "surface": "בְּכִֽיסְךָ֖",
+      "gloss": "في كيسك"
+    },
+    {
+      "surface": "אֶ֣בֶן",
+      "gloss": "حجر"
+    },
+    {
+      "surface": "וָאָ֑בֶן",
+      "gloss": "⟨وحجر⟩"
+    },
+    {
+      "surface": "גְּדוֹלָ֖ה",
+      "gloss": "كبير"
+    },
+    {
+      "surface": "וּקְטַנָּֽה",
+      "gloss": "⟨وصغير⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:04.552454997Z",
+  "model": "glm-5.2"
+}

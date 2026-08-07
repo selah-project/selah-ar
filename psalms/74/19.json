@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 74,
+  "translation": "لا تسلِمْ نَفْسَ يمامتِكَ لوحشِ ⟨المتاعِ⟩، وذوي مسكنتكَ لا تنسَها إلى الأبد.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "سلِمْ"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "لوحشِ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْسَ"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "يمامتِكَ"
+    },
+    {
+      "surface": "חית",
+      "gloss": "وذوي"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "مسكنتكَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "تنسَ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "إلى الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:59.193680027Z",
+  "model": "glm-5.2"
+}

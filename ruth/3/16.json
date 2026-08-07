@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وجاءت إلى حماتها، فقالت: «من أنتِ يا ابنتي؟» فأخبرتها بـ⟨את⟩ كلِّ ما فعله لها الرجلُ.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "وجاءت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "حماتها"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "את",
+      "gloss": "أنتِ"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "يا ابنتي"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "فأخبرتها"
+    },
+    {
+      "surface": "לה",
+      "gloss": "إياها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلِّ ما فعله"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعله"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجلُ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:47:47.901775336Z",
+  "model": "glm-5.2"
+}

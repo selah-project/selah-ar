@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 1:8",
+  "book": "joel",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "أولوي ⟨ك⟩ عذراءَ مُتَنطِّقةٍ مِسكانًا على بَعْلِ صِباها",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "أولوي"
+    },
+    {
+      "surface": "כבתולה",
+      "gloss": "⟨ك⟩ عذراء"
+    },
+    {
+      "surface": "חגרת",
+      "gloss": "متنطّقة"
+    },
+    {
+      "surface": "שק",
+      "gloss": "مِسكان"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بَعْلِ"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "صِباها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:23:14.202909673Z",
+  "model": "glm-5.2"
+}

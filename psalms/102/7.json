@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 102,
+  "translation": "شُبِّهتُ بقآةِ البرّيّة، صِرتُ ككُوسِ الخرائب.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "شُبِّهتُ"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "بقآةِ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "البرّيّة"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "صِرتُ"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "ككُوسِ"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "الخرائب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:34.649643371Z",
+  "model": "glm-5.2"
+}

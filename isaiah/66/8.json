@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 66:8",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 66,
+  "translation": "من سمع مثل هذا؟ من رأى مثل هذه؟ هل ⟨تُولَد⟩ أرض في يوم واحد؟ هل يُولَد شعبٌ مرّة واحدة؟ لأن صهيون تمخّضت، وولدت ⟨את⟩ بنيها.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سمع"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "مثل هذا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "رأى"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "مثل هذه"
+    },
+    {
+      "surface": "היוחל",
+      "gloss": "هل ⟨تُولَد⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "אם",
+      "gloss": "هل"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "يُولَد"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "مرّة"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "واحدة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "تمخّضت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ولدت"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بنيها"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "بنيها"
+    }
+  ],
+  "timestamp": "2026-08-07T02:28:44.494283672Z",
+  "model": "glm-5.2"
+}

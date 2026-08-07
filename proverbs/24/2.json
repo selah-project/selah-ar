@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "لأنّ تَخْريبًا يُدَرِّسُه قلبُهم، وعَنَتًا تتكلّمُ به شفاهُهم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "שד",
+      "gloss": "تخريبًا"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "يُدرِّسه"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "قلبُهم"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "عَنَتًا"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "شفاهُهم"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "تتكلّمُ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:01.131793778Z",
+  "model": "glm-5.2"
+}

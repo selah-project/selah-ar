@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 140,
+  "translation": "رأسَ المحيطين بي — تعبَ شفتيهم يغطّيهمن",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "رأسَ"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "المحيطين بي"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "تعبَ"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "شفتيهم"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "يغطّيهمن"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:24.657348432Z",
+  "model": "glm-5.2"
+}

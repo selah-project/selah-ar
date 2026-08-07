@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "فقال لهم يتسحاق: لماذا جئتم إليّ، وأنتم قد أبغضتموني ⟨את⟩ وطردتموني من عندكم؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يتسحاق"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "جئتم"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "وأنتم"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "أبغضتم"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاي"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "وطردتموني"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "من عندكم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:43:24.624475755Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وأعطى أفراهام ⟨את⟩ كلَّ ما له لِيِتسحاق.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "وأعطى"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلَّ ما له"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "لِيِتسحاق"
+    }
+  ],
+  "timestamp": "2026-08-06T23:43:13.491865506Z",
+  "model": "glm-5.2"
+}

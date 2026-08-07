@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "ليس على ذبائحك أوبّخك، وعرائفكَ أمامي دائمًا",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "ذبائحك"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "أوبّخك"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "وعرائفكَ"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "أمامي"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "دائمًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:51:43.129015818Z",
+  "model": "glm-5.2"
+}

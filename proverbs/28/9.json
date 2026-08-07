@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 28:9",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "مَنْ يُزيلُ أُذُنَهُ عن سَمْعِ توراة، حتى صلاتُهُ ⟨هي⟩ رِجْسٌ.",
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "يُزيل"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "أُذُنَهُ"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "عن سَمْعِ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "توراة"
+    },
+    {
+      "surface": "גם",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "תפלתו",
+      "gloss": "صلاتُهُ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "رِجْسٌ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:53.447986404Z",
+  "model": "glm-5.2"
+}

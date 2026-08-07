@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "يعرفُ الصدِّيقُ نَفْسَ بهيمتِهِ، وأحشاءُ رشعٍ ⟨هي⟩ قاسية.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "يعرف"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "الصدِّيق"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْس"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "بهيمتِهِ"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "وأحشاءُ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "رشعٍ"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "قاسية"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:02.855325009Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فقال لها عالي: «حتى متى تسكرين؟ أزيلي ⟨את⟩ خمرَكِ من عليكِ».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عالي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "متى"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "تسكرين"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "أزيلي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خمرَكِ"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "خمرَكِ"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "من عليكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:20:58.152906024Z",
+  "model": "glm-5.2"
+}

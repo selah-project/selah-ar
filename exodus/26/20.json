@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "وللجانب الثاني من المِشكان لجهة صَفون: عشرون قَرِيشًا.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "وللجانب"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "من المِشكان"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "الثاني"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "لجهة"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "صَفون"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "عشرون"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "قَرِيشًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:36.786390278Z",
+  "model": "glm-5.2"
+}

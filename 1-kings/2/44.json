@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 2:44",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وقال الملك لشيمعي: أنت تعرف ⟨את⟩ كلّ الشرّ الذي عرفه قلبك، الذي صنعتَه لداويد أبي، ويردّ يهوه ⟨את⟩ شرّك على رأسك.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شيمعي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "تعرف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ الشرّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "عرفه"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "قلبك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "صنعتَه"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لداويد"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ويردّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شرّك"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "شرّك"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "على رأسك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:43:19.804957765Z",
+  "model": "glm-5.2"
+}

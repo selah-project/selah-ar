@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 49:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "وَدَعا يعقوف بنيه وقال: اجتمعوا ⟨لكي⟩ أُخبركم ⟨את⟩ الذي يصادفكم ⟨את⟩ في آخر الأيّام.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "بنيه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "האספו",
+      "gloss": "اجتمعوا"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "وأُخبركم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الذي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "يصادفكم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "في آخر"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "في آخر"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "الأيّام"
+    }
+  ],
+  "timestamp": "2026-08-07T07:00:34.811615792Z",
+  "model": "glm-5.2"
+}

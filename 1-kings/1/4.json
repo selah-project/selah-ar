@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 1:4",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وكانت الفتاة جميلة جدًّا، فصارت للملك حاضنةً وخدمته، والملك لم يعرفها.",
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "والفتاة"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "جميلة"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "فصارت"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "للملك"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "حاضنةً"
+    },
+    {
+      "surface": "ותשרתהו",
+      "gloss": "وخدمته"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "والملك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "يعرفها"
+    }
+  ],
+  "timestamp": "2026-08-07T05:48:46.576273432Z",
+  "model": "glm-5.2"
+}

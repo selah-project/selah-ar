@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 6:12",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "ووقف أمام مذبح يهوه تجاه كل جماعة إسرائيل، وبسط كفّيه.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ووقف"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "تجاه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "جماعة"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "وبسط"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "كفّيه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:21:13.804275674Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 21:4",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "لكن كلمةَ الملكِ تشدّدت على يوآب، فخرج يوآب وتنقّل في كلّ يسرايل، وجاء إلى يروشالايم.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "لكن كلمةَ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملكِ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "تشدّدت"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "فخرج"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "وتنقّل"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلّ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "إلى يروشالايم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:17:23.361588665Z",
+  "model": "glm-5.2"
+}

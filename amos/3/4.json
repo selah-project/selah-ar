@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "هل يزمجر أسدٌ في الوعر وليس له فريسة؟ هل يُخرج شبلٌ صوته من مغرِه دون أن يصطاد؟",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "هل يزمجر"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "أسدٌ"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "في الوعر"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "وفريسة"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "هل يُخرج"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "شبلٌ"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "صوته"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "من مغرِه"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "دون"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أن"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "يصطاد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:25:24.132680928Z",
+  "model": "glm-5.2"
+}

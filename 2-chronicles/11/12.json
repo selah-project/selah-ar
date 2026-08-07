@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 11:12",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وفي كلّ مدينةٍ ومدينةٍ تروسٌ ورماحٌ، فقوّاها للإكثار جدًّا، وصار له يهودا وبنيامين.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "وفي كلّ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينةٍ"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ومدينةٍ"
+    },
+    {
+      "surface": "צנות",
+      "gloss": "تروسٌ"
+    },
+    {
+      "surface": "ורמחים",
+      "gloss": "ورماحٌ"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "فقوّاها"
+    },
+    {
+      "surface": "להרבה",
+      "gloss": "للإكثار"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وصار"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "وبنيامين"
+    }
+  ],
+  "timestamp": "2026-08-07T05:24:16.729218659Z",
+  "model": "glm-5.2"
+}

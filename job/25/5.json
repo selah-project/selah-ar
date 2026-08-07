@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 25:5",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "هوذا حتى القمر لا يَسطع، والكواكب لم تَزكُ في عينيه.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "القمر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יאהיל",
+      "gloss": "يَسطع"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "والكواكب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "זכו",
+      "gloss": "تَزكُ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "في عينيه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:39:11.948024704Z",
+  "model": "glm-5.2"
+}

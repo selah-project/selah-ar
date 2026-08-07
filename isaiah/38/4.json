@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 38:4",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "و⟨كان⟩ كلام يهوه إلى يشعياوم قائلاً:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "يشعياوم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    }
+  ],
+  "timestamp": "2026-08-07T02:16:15.296305761Z",
+  "model": "glm-5.2"
+}

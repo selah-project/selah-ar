@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 16:23",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "ويأتي أهارون إلى خيمة الموعد ويخلع ⟨⟨את⟩ ثياب الكتّان التي لبسها عند مجيئه إلى القدس، ويتركها هناك.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ويأتي"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    },
+    {
+      "surface": "ופשט",
+      "gloss": "ويخلع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ثياب"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ثياب"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "الكتّان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "لبسها"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "عند مجيئه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "القدس"
+    },
+    {
+      "surface": "והניחם",
+      "gloss": "ويتركها"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:45.337142812Z",
+  "model": "glm-5.2"
+}

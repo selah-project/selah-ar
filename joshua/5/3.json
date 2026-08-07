@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "فصنع لنفسه يهوشوع سيوفًا من صوان، وختن ⟨את⟩ بني إسرائيل عند تلّ الغُلَل.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "فصنع"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لنفسه"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشوع"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "سيوف"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "صوان"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "وختن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بني إسرائيل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "عند"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "تلّ"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "الغُلَل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:03:56.613503629Z",
+  "model": "glm-5.2"
+}

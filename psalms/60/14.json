@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 60,
+  "translation": "بإلوهيم نصنع بأسًا، وهُوَ يدوس صاغرينا.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "بإلوهيم"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "نصنع"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بأسًا"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهُوَ"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "يدوس"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "صاغرينا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:55:47.742726469Z",
+  "model": "glm-5.2"
+}

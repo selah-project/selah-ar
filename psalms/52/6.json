@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 52,
+  "translation": "أحببتَ كلَّ كلماتِ البلع، يا لسانَ مِرماه.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "أحببتَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلماتِ"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "البلع"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "لسانَ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "مِرماه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:53:50.923537687Z",
+  "model": "glm-5.2"
+}

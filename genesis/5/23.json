@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "فصارت كلُّ أيّامِ خانوخَ خمسًا وستّين سنةً وثلاثَ مئةِ سنة.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "فصارت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّامِ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "خانوخَ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "خمسًا"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "وستّين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنةً"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "وثلاثَ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئةِ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:22.202200767Z",
+  "model": "glm-5.2"
+}

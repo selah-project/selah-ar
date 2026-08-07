@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وحرصتم ⟨את⟩ الأمر هذا فريضةً لك ولأبنائك إلى الأبد",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "وحرصتم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأمر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "فريضةً"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "ولأبنائك"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:04:27.112172862Z",
+  "model": "glm-5.2"
+}

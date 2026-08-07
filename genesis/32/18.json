@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 32:18",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "وأوصى ⟨את⟩ الأوّل قائلًا: حين يلاقيك عيسو أخي ويسألك قائلًا: لمن أنت وإلى أين تذهب ولمن ⟨هي⟩ هذه أمامك؟",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "وأوصى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأوّل"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "الأوّل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "حين"
+    },
+    {
+      "surface": "יפגשך",
+      "gloss": "يلاقيك"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "أخي"
+    },
+    {
+      "surface": "ושאלך",
+      "gloss": "ويسألك"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "למי",
+      "gloss": "لمن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "وإلى أين"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "تذهب"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "ولمن"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "أمامك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:43.258292222Z",
+  "model": "glm-5.2"
+}

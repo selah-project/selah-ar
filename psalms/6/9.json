@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "اُنصرفوا عنّي كلّكم يا فَعَلةَ الإثم، لأنّ يهوه سمع صوت بكائي.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "اُنصرفوا"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "عنّي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "فَعَلةِ"
+    },
+    {
+      "surface": "און",
+      "gloss": "إثم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سمع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "بكائي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:39:36.829677151Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 9:20",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وكلّ آنية شرب الملكِ شَلومو ذهب، وكلّ آنية بيت يعر اللبنان ذهب سَگور. لم یكن فضّةٌ تُحسَب في أيّام شَلومو لشیء.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "آنية"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "شرب"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شَلومو"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهب"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "آنية"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יער",
+      "gloss": "يعر"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "اللبنان"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهب"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "سَگور"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لم یكن"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضّة"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "تُحسَب"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "في أيّام"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شَلومو"
+    },
+    {
+      "surface": "למאומה",
+      "gloss": "لشیء"
+    }
+  ],
+  "timestamp": "2026-08-07T05:24:23.126038069Z",
+  "model": "glm-5.2"
+}

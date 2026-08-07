@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 19:20",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "والذين يبقون يسمعون ويخافون، ولا يزيدون أن يفعلوا بعد مثل الأمر الشرّير هذا في وسطك.",
+  "tokens": [
+    {
+      "surface": "והנשארים",
+      "gloss": "والذين يبقون"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "يسمعون"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ويخافون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "يزيدون"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "أن يفعلوا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "مثل الأمر"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "الشرّير"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "في وسطك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:04.375692729Z",
+  "model": "glm-5.2"
+}

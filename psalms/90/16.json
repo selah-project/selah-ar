@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 90,
+  "translation": "لْيُرَ عملُك إلى عبيدك، وبهاؤك على بنيهم.",
+  "tokens": [
+    {
+      "surface": "יֵרָאֶ֣ה",
+      "gloss": "لْيُرَ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עֲבָדֶ֣יךָ",
+      "gloss": "عبيدك"
+    },
+    {
+      "surface": "פָעֳלֶ֑ךָ",
+      "gloss": "عملُك"
+    },
+    {
+      "surface": "וַ֝הֲדָרְךָ֗",
+      "gloss": "وبهاؤك"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "على"
+    },
+    {
+      "surface": "בְּנֵיהֶֽם",
+      "gloss": "بنيهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:51.761591939Z",
+  "model": "glm-5.2"
+}

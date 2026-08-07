@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 144,
+  "translation": "طوبى للشعبِ الذي هكذا حالُه، طوبى للشعبِ أنَّ يهوه ⟨هو⟩ إلوهيمُه",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "طوبى"
+    },
+    {
+      "surface": "העם",
+      "gloss": "للشعب"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "حاله"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "طوبى"
+    },
+    {
+      "surface": "העם",
+      "gloss": "للشعب"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "أنَّ يهوه"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "إلوهيمُه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:38.842094259Z",
+  "model": "glm-5.2"
+}

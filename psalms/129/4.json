@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 129,
+  "translation": "يهوه صِدّيق؛ قطّع حبال الأشرار.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صِدّيق"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "قطّع"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "حبال"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الأشرار"
+    }
+  ],
+  "timestamp": "2026-08-07T04:16:06.124383942Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "مَصيدةُ الإنسانِ ⟨أن⟩ يَلتَهِمَ قُدسًا، وبعد النذورِ يَتَفَحَّصُ.",
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "مَصيدة"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "يَلتَهِم"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قُدسًا"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "وبعد"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "النذور"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "يَتَفَحَّصُ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:14.703698200Z",
+  "model": "glm-5.2"
+}

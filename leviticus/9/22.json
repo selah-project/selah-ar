@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 9:22",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "ورفع أهرون ⟨את⟩ يده نحو الشعب وباركهم، ونزل من عمل الخطيئة والعولاه والشَلاميم.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ورفع"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهرون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يده"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نحو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ויברכם",
+      "gloss": "وباركهم"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ونزل"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "من عمل"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "الخطيئة"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "والعولاه"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "والشَلاميم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:31.514114183Z",
+  "model": "glm-5.2"
+}

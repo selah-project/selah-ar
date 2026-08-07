@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 21:20",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "كنزٌ مرغوبٌ وزيتٌ في مسكنِ الحكيم، وكلَّما أحمقٌ يبتلعُه.",
+  "tokens": [
+    {
+      "surface": "אוצר",
+      "gloss": "كنز"
+    },
+    {
+      "surface": "נחמד",
+      "gloss": "مرغوب"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "وزيت"
+    },
+    {
+      "surface": "בנוה",
+      "gloss": "في مسكن"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "الحكيم"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "وأحمق"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "يبتلعه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:56.299595220Z",
+  "model": "glm-5.2"
+}

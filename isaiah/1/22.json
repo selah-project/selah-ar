@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 1:22",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فضّتُكِ صار خَبَثًا، سُكْرَكِ مَمْزُوجٌ بالماءِ.",
+  "tokens": [
+    {
+      "surface": "כספך",
+      "gloss": "فضّتُكِ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "صار"
+    },
+    {
+      "surface": "לסיגים",
+      "gloss": "خَبَثًا"
+    },
+    {
+      "surface": "סבאך",
+      "gloss": "سُكْرَكِ"
+    },
+    {
+      "surface": "מהול",
+      "gloss": "مَمْزُوجٌ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "بالماءِ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:04:03.454540588Z",
+  "model": "glm-5.2"
+}

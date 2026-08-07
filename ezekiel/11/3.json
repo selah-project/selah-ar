@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "القائلون: ليس الوقت قريبًا! ابنوا بيوتًا! هي ⟨الـ⟩قدر ونحن اللحم.",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "القائلون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "قريبًا"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ابنوا"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "بيوتًا"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "القدر"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ونحن"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "اللحم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:58:42.760805121Z",
+  "model": "glm-5.2"
+}

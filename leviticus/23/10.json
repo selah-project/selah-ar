@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 23:10",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "كلّم بني يسرائيل وقل لهم: متى جئتم إلى الأرض التي أنا أعطيكم وحصدتم حصيدها، ⟨ف⟩جئتم ⟨ب⟩عُمر باكورة حصيدكم إلى الكوهين —",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "كلّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "وقل"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "متى"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "جئتم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطيكم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨ل⟩كم"
+    },
+    {
+      "surface": "וקצרתם",
+      "gloss": "وحصدتم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حصيدها"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "حصيدها"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "⟨ف⟩جئتم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عُمر"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "عُمر"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "باكورة"
+    },
+    {
+      "surface": "קצירכם",
+      "gloss": "حصيدكم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:43.795702371Z",
+  "model": "glm-5.2"
+}

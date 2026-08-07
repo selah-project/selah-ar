@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "فأجاب بنو حِت ⟨את⟩ أفراهام قائلين له:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "فأجاب"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حِت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أفراهام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:33.546588648Z",
+  "model": "glm-5.2"
+}

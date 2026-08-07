@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 25:6",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وتقولون هكذا: «للحياة! وأنتَ شالوم، وبيتُك شالوم، وكلُّ ما لك شالوم».",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "وتقولون"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "للحياة"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "وأنتَ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "وبيتُك"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلُّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:29:39.112914674Z",
+  "model": "glm-5.2"
+}

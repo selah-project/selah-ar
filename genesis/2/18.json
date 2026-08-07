@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وقال يهوه إلوهيم: «ليس جيّدًا أن يكون الإنسان وحده؛ أصنع ⟨له⟩ عَونًا يقابله».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "جيّدًا"
+    },
+    {
+      "surface": "היות",
+      "gloss": "أن يكون"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "وحده"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "أصنع"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨له⟩"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "عَونًا"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "يقابله"
+    }
+  ],
+  "timestamp": "2026-08-06T23:36:04.710328105Z",
+  "model": "glm-5.2"
+}

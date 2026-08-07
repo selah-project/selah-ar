@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 38:23",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "فقال يهودا: لتأخذْ لنفسها، لئلّا نَصير للبَس. ها أنا أرسلتُ الجديَ هذا، وأنت لم تجدها.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "لتأخذْ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لنفسها"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلّا"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "نَصير"
+    },
+    {
+      "surface": "לבוז",
+      "gloss": "للبَس"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "أنا أرسلتُ"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "الجديَ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "وأنت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "מצאתה",
+      "gloss": "تجدها"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:11.634109523Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "أَعرِض ⟨وجهك⟩ عنّي فأَبتَسِم، قبل أن أذهب فلا أكون.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "أَعرِض"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "عنّي"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "فأَبتَسِم"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "قبل"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "أن أذهب"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "فلا أكون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:07.437533411Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 18:15",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وجهة الجنوب من طرف قريات يَعاريم. وخرج الحدّ غربًا، وخرج إلى معين مياه نفتوح.",
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "وجهة"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "الجنوب"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "من طرف"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قريات"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "يَعاريم"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "الحدّ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "غربًا"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "معين"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مياه"
+    },
+    {
+      "surface": "נפתוח",
+      "gloss": "نفتوح"
+    }
+  ],
+  "timestamp": "2026-08-07T01:09:59.770161957Z",
+  "model": "glm-5.2"
+}

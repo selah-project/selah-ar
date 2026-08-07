@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 91,
+  "translation": "على الأكفّ يحملونك، لئلّا تعثر بأحجرٍ رِجلك",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "الأكفّ"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "يحملونك"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلّا"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "تعثر"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "بأحجرٍ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "رِجلك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:02.571752470Z",
+  "model": "glm-5.2"
+}

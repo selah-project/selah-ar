@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "⟨את⟩ دِمناه و⟨את⟩ مراعيها، ⟨את⟩ نهَلال و⟨את⟩ مراعيها: أربعُ مدن.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دِمناه"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "دِمناه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مراعيها"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مراعيها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نهَلال"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "نهَلال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مراعيها"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مراعيها"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "أربع"
+    }
+  ],
+  "timestamp": "2026-08-07T07:21:47.991012617Z",
+  "model": "glm-5.2"
+}

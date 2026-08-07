@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 6:8",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "تأدَّبي يا يروشالايم لئلا تَنزِع نفسي منكِ، لئلا أجعلكِ خرابًا أرضًا غير مسكونة!",
+  "tokens": [
+    {
+      "surface": "הוסרי",
+      "gloss": "تأدَّبي"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يا يروشالايم"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلا"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "تَنزِع"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نفسي"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "منكِ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلا"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "أجعلكِ"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "خرابًا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرضًا"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "غير"
+    },
+    {
+      "surface": "נושבה",
+      "gloss": "مسكونة"
+    }
+  ],
+  "timestamp": "2026-08-07T02:31:00.644719578Z",
+  "model": "glm-5.2"
+}

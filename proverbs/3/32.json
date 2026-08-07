@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "لأنَّ مَقتَ يهوه ⟨هو⟩ المُنحرف، ومع المستقيمين سِرُّه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "مقت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "المنحرف"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨و⟩"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "المستقيمين"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "سرّه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:12.838171882Z",
+  "model": "glm-5.2"
+}

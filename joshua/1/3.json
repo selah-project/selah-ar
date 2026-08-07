@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "كلّ مكان تدوسه بطن أقدامكم فيه لكم قد أعطيته، كما كلّمتُ به موشيه.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "مكان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "تدوسه"
+    },
+    {
+      "surface": "כף",
+      "gloss": "بطن"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "أقدامكم"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "قد أعطيته"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "كلّمتُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:03:37.977357767Z",
+  "model": "glm-5.2"
+}

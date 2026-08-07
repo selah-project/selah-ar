@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 140,
+  "translation": "علمتُ أنّ يهوه يَصنعُ دينَ المسكين، حقَّ المحتاجين.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "علمتُ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يَصنعُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "דין",
+      "gloss": "دينَ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "المسكين"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حقَّ"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "المحتاجين"
+    }
+  ],
+  "timestamp": "2026-08-07T04:17:33.766612098Z",
+  "model": "glm-5.2"
+}

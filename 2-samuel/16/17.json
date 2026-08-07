@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 16:17",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وقال أَفْشالوم لخوشاي: «هذا حِسِدُك مع رفيقك؟ لِمَاذا لم تَمْشِ مع رفيقك؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "أَفْشالوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "خوشاي"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حِسِدُك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رفيقك"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "رفيقك"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "مَشيتَ\/ذهبتَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رفيقك"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "رفيقك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:36:39.988118066Z",
+  "model": "glm-5.2"
+}

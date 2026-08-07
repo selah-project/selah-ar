@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 139,
+  "translation": "وَلي، ما أَثْمَنَ رَعايَاكَ يا إيل! ما عَظُمَ مَجْموعُها!",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "وَلي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "أَثْمَنَ"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "رَعايَاكَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "يا إيل"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "عَظُمَ"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "مَجْموعُها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:00.822669594Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 10:4",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فخافوا خوفًا شديدًا جدًا وقالوا: «هوذا الملكان لم يقفا أمامه، فكيف نقف نحن؟»",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "فخافوا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "خوفًا شديدًا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًا"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقالوا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "שני",
+      "gloss": "الملكان"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "اثنان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "يقفا"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمامه"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "فكيف"
+    },
+    {
+      "surface": "נעמד",
+      "gloss": "نقف"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "نحن"
+    }
+  ],
+  "timestamp": "2026-08-07T01:56:35.194031570Z",
+  "model": "glm-5.2"
+}

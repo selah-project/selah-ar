@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "و⟨كان⟩ بعد ذلك أن مات ناحاش ملك بني عمون، وملك ابنه تحته.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ومات"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ناحاش"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "وملك"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "تحته"
+    }
+  ],
+  "timestamp": "2026-08-07T05:17:14.268148309Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 19:18",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "ففرّ أرام من أمام إسرايل، وقتل داويد من أرام سبعة آلاف مركبة وأربعين ألفًا راجلًا، و⟨את⟩ شوفاك رئيس الجيش أمات.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "ففرّ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "أرام"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "من أمام"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرايل"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "وقتل"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "מארם",
+      "gloss": "من أرام"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سبعة"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "آلاف"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "مركبة"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "وأربعين"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفًا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "راجلًا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شوفاك"
+    },
+    {
+      "surface": "שופך",
+      "gloss": "شوفاك"
+    },
+    {
+      "surface": "שר",
+      "gloss": "رئيس"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "الجيش"
+    },
+    {
+      "surface": "המית",
+      "gloss": "أمات"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:41.090618753Z",
+  "model": "glm-5.2"
+}

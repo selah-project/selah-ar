@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "و⟨رَأَى⟩ إلوهيم ⟨את⟩ الأرض، وها قد فسدت، لأنّ كلّ بَشَر أفسد ⟨את⟩ طريقَه على الأرض.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ورأى"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وها"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "قد فسدت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "أفسد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بَشَر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "طريقَه"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "طريقَه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:29.408347171Z",
+  "model": "glm-5.2"
+}

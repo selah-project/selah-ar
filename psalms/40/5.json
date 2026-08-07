@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "طُوبَى للرجلِ الذي جعل يهوه ثقتَه، ولم يلتفت إلى المتغطرسين وإلى مَنْ يميل إلى الكذب.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "طُوبَى"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "للرجل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "جعل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "ثقتَه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "يلتفت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "المتغطرسين"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "ومَنْ يميل"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "إلى الكذب"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:02.599208831Z",
+  "model": "glm-5.2"
+}

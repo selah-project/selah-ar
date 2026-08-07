@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 13:16",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "و⟨يكون⟩ لعلامة على يدك ولِعصائب بين عينيك، لأنّ بشدّة يدٍ أخرجنا يهوه من مصرايم.»",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و⟨يكون⟩"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "لعلامة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ידכה",
+      "gloss": "يدك"
+    },
+    {
+      "surface": "ולטוטפת",
+      "gloss": "ولعصائب"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "عينيك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "بشدّة"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يد"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "أخرجنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "من مصرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:04:00.011487622Z",
+  "model": "glm-5.2"
+}

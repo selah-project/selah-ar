@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وفعل الشرّ في عيني يهوه، لكن لا كأبيه ⟨ولا⟩ كأمّه، وأزال ⟨את⟩ نصب البعل الذي صنعه أبوه",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "وفعل"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عيني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "רק",
+      "gloss": "لكن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "كأبيه"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "وكأمّه"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "وأزال"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نصب البعل"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "نصب"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "البعل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنع"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:53:14.519148541Z",
+  "model": "glm-5.2"
+}

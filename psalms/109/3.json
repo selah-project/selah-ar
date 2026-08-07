@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 109,
+  "translation": "وبِأقوالِ سِنآه أحاطوا بي، وحاربوني دَوانًا.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "وبِأقوالِ"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "سِنآه"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "أحاطوا بي"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "وحاربوني"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "دَوانًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:41.970876676Z",
+  "model": "glm-5.2"
+}

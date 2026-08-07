@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "malachi 2:10",
+  "book": "malachi",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "أليس أبٌ واحدٌ لنا جميعًا؟ أليس إيلٌ واحدٌ خلقنا؟ لماذا يغدر الإنسان بأخيه، لتدنيس بريت آبائنا؟",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "أليس"
+    },
+    {
+      "surface": "אב",
+      "gloss": "أبٌ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدٌ"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "لنا جميعًا"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "أليس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيلٌ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدٌ"
+    },
+    {
+      "surface": "בראנו",
+      "gloss": "خلقنا"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "נבגד",
+      "gloss": "يغدر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "بأخيه"
+    },
+    {
+      "surface": "לחלל",
+      "gloss": "لتدنيس"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريت"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "آبائنا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:39:19.855931137Z",
+  "model": "glm-5.2"
+}

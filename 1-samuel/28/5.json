@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "ورأى شاؤول ⟨את⟩ معسكر فلشتيم، فخاف وارتجف قلبه جدًّا.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ورأى"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "معسكر"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "معسكر"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلشتيم"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "فخاف"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "وارتجف"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "قلبه"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:30:42.667054355Z",
+  "model": "glm-5.2"
+}

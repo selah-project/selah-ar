@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 22:15",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "هل تتملّك لأنّك أنت تتحدّى ⟨ب⟩الأرز؟ أبوك ألم يأكل ويشرب ويصنع مشباتٍ وصِدِق؟ إذًا حينئذٍ كان خيرٌ له.",
+  "tokens": [
+    {
+      "surface": "התמלך",
+      "gloss": "هل تتملّك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "מתחרה",
+      "gloss": "تتحدّى"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "بالأرز"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أبوك"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ألم"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "يأكل"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ويشرب"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ويصنع"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "مشباتٍ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "وصِدِق"
+    },
+    {
+      "surface": "אז",
+      "gloss": "إذًا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خيرٌ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T02:37:54.089706050Z",
+  "model": "glm-5.2"
+}

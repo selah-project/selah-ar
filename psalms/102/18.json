@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 102,
+  "translation": "أَقْبَلَ على صلاةِ المُعوِز، ولم يَحتَقِرْ ⟨את⟩ صلاتَهم",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "أقبل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "على"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "صلاة"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "المُعوِز"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "يَحتَقِرْ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صلاتَهم"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "صلاتَهم"
+    }
+  ],
+  "timestamp": "2026-08-07T08:07:58.023001169Z",
+  "model": "glm-5.2"
+}

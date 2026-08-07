@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 5:24",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "ف⟨كان⟩ حيرام يُعطِي شْلومو خشبَ أرزٍ وخشبَ سروٍ حسب كلِّ مُشتهاه.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ف⟨كان⟩"
+    },
+    {
+      "surface": "חירום",
+      "gloss": "حيرام"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "يُعطِي"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شْلومو"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "خشبَ"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "أرزٍ"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "وخشبَ"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "سروٍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "مُشتهاه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:43:41.253927364Z",
+  "model": "glm-5.2"
+}

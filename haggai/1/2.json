@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "haggai 1:2",
+  "book": "haggai",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "هكذا قال يهوه صَباؤوت قائلًا: الشعبُ هذا قالوا: «ليس الوقتَ، وقتَ بيت يهوه لأن يُبنى».",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صَباؤوت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "قالوا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "עת",
+      "gloss": "الوقت"
+    },
+    {
+      "surface": "בא",
+      "gloss": "جاء"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "להבנות",
+      "gloss": "لأن يُبنى"
+    }
+  ],
+  "timestamp": "2026-08-07T03:34:34.272208382Z",
+  "model": "glm-5.2"
+}

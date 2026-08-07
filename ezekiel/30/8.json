@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 30:8",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وعَرَفوا أنّي أنا يهوه، في إضرامي نارًا في مصرايم، وانكسر كلُّ أعوانِها.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "وعَرَفوا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בתתי",
+      "gloss": "في إضرامي"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نارًا"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "في مصرايم"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "وانكسر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "أعوانِها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:07:14.229490803Z",
+  "model": "glm-5.2"
+}

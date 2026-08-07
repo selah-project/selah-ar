@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 17:2",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "عبدٌ متبصّرٌ يسودُ على ابنٍ مُخزٍ، وفي وسط إخوةٍ يَقسِمُ ميراثًا.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "عبدٌ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "متبصّرٌ"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "يسودُ"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "على ابنٍ"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "مُخزٍ"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "وفي وسطِ"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "إخوةٍ"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "يَقسِمُ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ميراثًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:41.978686973Z",
+  "model": "glm-5.2"
+}

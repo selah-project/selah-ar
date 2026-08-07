@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "حتّى متى أُضِعُ مشوراتٍ في نَفسي، حُزنًا في قلبي يومًا؟ حتّى متى يتعالى عدوّي عليّ؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "حتّى"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "متى"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "أُضِعُ"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "مشوراتٍ"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "في نَفسي"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "حُزنًا"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "في قلبي"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "يومًا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتّى"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "متى"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "يتعالى"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "عدوّي"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عليّ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:42:35.564631372Z",
+  "model": "glm-5.2"
+}

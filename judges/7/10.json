@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وإن كنتَ تخاف أن تنزل، انزل أنتَ وفوراه نَعَرُك إلى المحلَّة.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "تخاف"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "أن تنزل"
+    },
+    {
+      "surface": "רד",
+      "gloss": "انزل"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "ופרה",
+      "gloss": "وفوراه"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "نَعَرُك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "المحلَّة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:14:56.298006285Z",
+  "model": "glm-5.2"
+}

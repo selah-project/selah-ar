@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 5:3",
+  "book": "micah",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "ويقف، ويرعى بعزّ يهوه، بجلال اسم يهوه إلوهيم، ويسكنون لأنّه الآن يتعظّم حتّى أطراف الأرض.",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "ويقف"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ويرعى"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "بعزّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "بجلال"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ويسكنون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "يتعظّم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتّى"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "أطراف"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T03:29:37.119236185Z",
+  "model": "glm-5.2"
+}

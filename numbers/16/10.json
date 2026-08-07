@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وقرّبك ⟨⟨את⟩ك⟩ و⟨את⟩ كل إخوتك بني لاوي معك، وأنتم تطلبون أيضًا الكوهنّة؟",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "وقرّب"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ك",
+      "marks": "إيّاك"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كل إخوتك"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "إخوتك"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لاوي"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "وتطلبون"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "الكوهنّة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:36:32.931662727Z",
+  "model": "glm-5.2"
+}

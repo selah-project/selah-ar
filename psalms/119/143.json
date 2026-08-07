@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 143,
+  "ref": "psalms 119:143",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "ضيقٌ وضِيقٌ وجَداني، وصاياكَ مُتعَتي",
+  "tokens": [
+    {
+      "surface": "צר",
+      "gloss": "ضيق"
+    },
+    {
+      "surface": "ומצוק",
+      "gloss": "وضِيق"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "وجَداني"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "وصاياكَ"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "مُتعَتي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:50.741203680Z",
+  "model": "glm-5.2"
+}

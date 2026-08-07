@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 80,
+  "translation": "إلوهيم، أرجِعنا، وأَنِرْ وجهك، فنَخْلُص.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "أرجِعنا"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "وأَنِرْ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهك"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "فنَخْلُص"
+    }
+  ],
+  "timestamp": "2026-08-07T06:05:40.318692239Z",
+  "model": "glm-5.2"
+}

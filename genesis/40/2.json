@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 40:2",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "وغضب فرعو على خصيّيه الاثنين، على رئيس السُقاة وعلى رئيس الخبّازين.",
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "وغضب"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعو"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שני",
+      "gloss": "اثنين"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "خصيّيه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שר",
+      "gloss": "رئيس"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "السُقاة"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "שר",
+      "gloss": "رئيس"
+    },
+    {
+      "surface": "האופים",
+      "gloss": "الخبّازين"
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:56.966798179Z",
+  "model": "glm-5.2"
+}

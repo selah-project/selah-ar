@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 94,
+  "translation": "يهوه يعلم أفكار الإنسان، أنّها هباء.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "يعلم"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "أفكار"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّها"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨هي⟩"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هباء"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:08.122072087Z",
+  "model": "glm-5.2"
+}

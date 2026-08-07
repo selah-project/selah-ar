@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "وصعد داود من هناك، وجلس في حصون عين جِدي.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "وصعد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "משם",
+      "gloss": "من هناك"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "وجلس"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "في حصون"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عين"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "جِدي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:29:26.336469155Z",
+  "model": "glm-5.2"
+}

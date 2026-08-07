@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "الكلمةُ التي رآها يشعياو بن أموص على يهودا ويرشالايم.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "الكلمة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "رآها"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "يشعياو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "أموص"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ويرشالايم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:04:17.941364205Z",
+  "model": "glm-5.2"
+}

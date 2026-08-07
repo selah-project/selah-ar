@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "لا تكن حكيماً في عينيك؛ اِهَبْ ⟨את⟩ يهوه، وحِدْ عن الشرّ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "تكن"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حكيماً"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "في عينيك"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "اِهَبْ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "وحِدْ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "عن الشرّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:21:42.889657368Z",
+  "model": "glm-5.2"
+}

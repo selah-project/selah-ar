@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وجلس رَحَبْعام في يروشالايم وبنى مدنًا لمَصار في يهودا",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "وجلس"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رَحَبْعام"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "في يروشالايم"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "وبنى"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "مدنًا"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "لمَصار"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "في يهودا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:24:09.656306920Z",
+  "model": "glm-5.2"
+}

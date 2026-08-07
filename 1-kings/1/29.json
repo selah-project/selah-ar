@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وحلف الملك وقال: «حيّ هو يهوه الذي فدى ⟨את⟩ نَفسي من كل ضيق»",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "وحلف"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "חי",
+      "gloss": "حيّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "فدى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نَفسي"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفسي"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كل"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ضيق"
+    }
+  ],
+  "timestamp": "2026-08-07T01:42:14.617769530Z",
+  "model": "glm-5.2"
+}

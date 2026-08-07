@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "وتضع ⟨את⟩ها صفّين، ستًّا للصفّ، على المنضدة الطاهرة أمام يهوه.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "وتضع"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ها",
+      "marks": "الكعكات"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "صفّين\/اثنين"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "ترتيب\/صفّ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ستّ"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "الصفّ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "المنضدة"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "الطاهرة"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:57.213173400Z",
+  "model": "glm-5.2"
+}

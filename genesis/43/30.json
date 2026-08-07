@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 43:30",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 43,
+  "translation": "وأسرع يوسف لأن أحشاءه اشتعلت شوقًا إلى أخيه، وطلب مكانًا يبكي فيه، فدخل الغرفة وبكى هناك.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "وأسرع"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "اشتعلت"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "أحشاءه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "أخيه"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "وطلب"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "يبكي"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "فدخل"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "الغرفة"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "وبكى"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هناك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:58.129409203Z",
+  "model": "glm-5.2"
+}

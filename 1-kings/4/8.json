@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وهذه أسماؤهم: بِنْ-حور في جبل أفرايم",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "وهذه"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "أسماؤهم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حور"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "في جبل"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "أفرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:42:54.443960254Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 27:19",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "الغنيّ يضطجع ولا يُجمَع، يفتح عينيه وليس موجودًا.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "الغنيّ"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "يضطجع"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "يُجمَع"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "عينيه"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "يفتح"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "وليس موجودًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:40:01.185011046Z",
+  "model": "glm-5.2"
+}

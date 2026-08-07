@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "في الأيّام تلك، كجلوس الملك أحشويرش على كرسي مُلكه الذي في شوشن ⟨القلعة⟩",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "في الأيّام"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "تلك"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "كجلوس"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "أحشويرش"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "كرسي"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "مُلكه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "في شوشن"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "⟨القلعة⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T04:54:05.147246187Z",
+  "model": "glm-5.2"
+}

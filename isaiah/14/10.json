@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "كلّهم يجيبون فيقولون لك: «أنت أيضاً ضُعفت مثلنا، ومثلنا صِرْتَ.»",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "كلّهم"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "يجيبون"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ويقولون"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضاً"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "ضُعفت"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "مثلنا"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "مثلنا"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "صِرْتَ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:06:31.724880715Z",
+  "model": "glm-5.2"
+}

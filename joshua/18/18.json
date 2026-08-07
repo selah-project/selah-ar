@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 18:18",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وعبر إلى كتفٍ مُقابل العربة شمالاً، ونزل إلى العربة.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "وعبر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "كتفٍ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "مُقابل"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "العربة"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "شمالاً"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ونزل"
+    },
+    {
+      "surface": "הערבתה",
+      "gloss": "إلى العربة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:09:53.230218407Z",
+  "model": "glm-5.2"
+}

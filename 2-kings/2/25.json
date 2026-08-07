@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وذهب من هناك إلى جبل هاكَرميل، ومن هناك رجع إلى شومرون.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "وذهب"
+    },
+    {
+      "surface": "משם",
+      "gloss": "من هناك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "هاكَرميل"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ومن هناك"
+    },
+    {
+      "surface": "שב",
+      "gloss": "رجع"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شومرون"
+    }
+  ],
+  "timestamp": "2026-08-07T01:51:35.417598955Z",
+  "model": "glm-5.2"
+}

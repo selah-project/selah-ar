@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 14:31",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "فقام يوآب وجاء إلى أَفْشالوم البيتَ وقال له: «لماذا أضرم عبيدُك ⟨את⟩ القطعة التي لي بالنار؟»",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "فقام"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "أَفْشالوم"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "البيتَ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "הציתו",
+      "gloss": "أضرم"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبيدك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "القطعة"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "القطعة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بالنار"
+    }
+  ],
+  "timestamp": "2026-08-07T01:36:04.063194835Z",
+  "model": "glm-5.2"
+}

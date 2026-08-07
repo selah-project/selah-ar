@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "و⟨את⟩ كَبشِ التَّملُّؤات تأخذ، وتطبخ ⟨את⟩ لحمَه في مكانٍ مقدَّس.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كبش"
+    },
+    {
+      "surface": "איל",
+      "gloss": "كبش"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "التمليؤات"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "تأخذ"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "وتطبخ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لحمه"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "لحمه"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "في مكان"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدَّس"
+    }
+  ],
+  "timestamp": "2026-08-07T05:37:34.901044788Z",
+  "model": "glm-5.2"
+}

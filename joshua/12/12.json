@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "مَلِك عجلون واحدًا؛ مَلِك غازر واحدًا.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "مَلِك"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "عجلون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلِك"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "غازر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:05:57.631172147Z",
+  "model": "glm-5.2"
+}

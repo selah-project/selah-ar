@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "لأنَّه هكذا قال يهوه: صوتَ رُعْبٍ سمعنا، خوفٌ وليس شالوم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّه"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوتَ"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "رُعْبٍ"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "سمعنا"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "خوفٌ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "وليس"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:42:10.424063766Z",
+  "model": "glm-5.2"
+}

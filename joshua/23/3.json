@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 23:3",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "وأنتم رأيتم ⟨את⟩ كلّ ما فعله يهوه إلوهيمكم لجميع الأمم هؤلاء أمامكم، لأنّ يهوه إلوهيمكم هو المحارب عنكم.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "وأنتم"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "رأيتم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعله"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلوهيمكم"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لجميع"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "أمامكم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلوهيمكم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "المحارب"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "عنكم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:12:10.005702550Z",
+  "model": "glm-5.2"
+}

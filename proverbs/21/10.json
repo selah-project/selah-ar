@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "نَفْسُ الشرّيرِ اشتاقتْ شرًّا، لا يُنعَمُ ⟨عليهِ⟩ في عينيهِ رفيقُه.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "نَفْسُ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "الشرّيرِ"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "اشتاقتْ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شرًّا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "يُنعَمُ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "في عينيهِ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "رفيقُه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:44.672080733Z",
+  "model": "glm-5.2"
+}

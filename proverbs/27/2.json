@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "ليُحمِّدْكَ غريبٌ ولا فمك، نكرةٌ ولا شفاهك",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "ليُحمِّدْكَ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "غريبٌ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "فمك"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "نكرةٌ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "شفاهك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:37.348818221Z",
+  "model": "glm-5.2"
+}

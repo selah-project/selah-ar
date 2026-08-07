@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "لا ارتدَّ القَهْقَرى قلبُنا، وانحرفت خُطانا عن طريقك",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "ارتدَّ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "القَهْقَرى"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "قلبُنا"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "وانحرفت"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "خُطانا"
+    },
+    {
+      "surface": "מני",
+      "gloss": "عن"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "طريقك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:32.203802431Z",
+  "model": "glm-5.2"
+}

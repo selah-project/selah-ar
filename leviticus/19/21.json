@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "و⟨يُحضِر⟩ ⟨את⟩ أَشَمُه ليهوه إلى فتحة أُهُل موعِد: كَبشُ أَشَم.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "و⟨يُحضِر⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أَشَمُه"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "أَشَمُه"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "فتحة"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "أُهُل"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "موعِد"
+    },
+    {
+      "surface": "איל",
+      "gloss": "كَبش"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "أَشَم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:12.874713015Z",
+  "model": "glm-5.2"
+}

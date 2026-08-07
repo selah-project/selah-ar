@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 2:13",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وعند هذا كانت الفتاةُ تدخل إلى الملك: ⟨את⟩ كلّ ما تقول يُعطى لها لتأتيه معها من بيت النساء إلى بيت الملك.",
+  "tokens": [
+    {
+      "surface": "ובזה",
+      "gloss": "وعند هذا"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "الفتاة"
+    },
+    {
+      "surface": "באה",
+      "gloss": "تدخل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "تقول"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "يُعطى"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "لتأتيه"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "معها"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "من بيت"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "النساء"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:54:16.338782215Z",
+  "model": "glm-5.2"
+}

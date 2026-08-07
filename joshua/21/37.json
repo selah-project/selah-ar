@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 21:37",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "⟨את⟩ قِدموت ومَغرَشها، و⟨את⟩ ميفَعت ومَغرَشها — مدن أربع.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قِدموت"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "قِدموت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مَغرَشها"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مَغرَشها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "ميفَعت"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "ميفَعت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مَغرَشها"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مَغرَشها"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "أربع"
+    }
+  ],
+  "timestamp": "2026-08-07T01:10:44.699656290Z",
+  "model": "glm-5.2"
+}

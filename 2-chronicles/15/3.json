@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 15:3",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وأيّام كثيرة لإسرائيل بلا إلوهيم إمِت وبلا كاهن مورِه وبلا توراة.",
+  "tokens": [
+    {
+      "surface": "וימים",
+      "gloss": "وأيّام"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرة"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "لإسرائيل"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "بلا"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "إمِت"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "وبلا"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "كاهن"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "مورِه"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "وبلا"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "توراة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:26:27.509363709Z",
+  "model": "glm-5.2"
+}

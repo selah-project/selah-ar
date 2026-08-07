@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وهذه ⟨هي⟩ الترومة التي تأخذونها منهم: ذهب وفضّة ونحاس.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "وهذه"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "الترومة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "تأخذونها"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "منهم"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهب"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "وفضّة"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ونحاس"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:17.536457057Z",
+  "model": "glm-5.2"
+}

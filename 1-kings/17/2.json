@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وكانت كلمةُ يهوه إليه قائلةً:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وكانت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمةُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلةً"
+    }
+  ],
+  "timestamp": "2026-08-07T05:48:50.951361643Z",
+  "model": "glm-5.2"
+}

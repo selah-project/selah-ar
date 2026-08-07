@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "وأخبرتِ السماواتُ بصِدْقه، لأنَّ إلوهيم شافط ⟨هو⟩. سلاه",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "وأخبرتِ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "السماواتُ"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "بصِدْقه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "شافط"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:51:43.128813262Z",
+  "model": "glm-5.2"
+}

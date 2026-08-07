@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 25:10",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "لأنّ يدَ يهوه تستقرّ على الجبل هذا، ويُداس موآب تحته كدوسِ القشّ في الماء — مدمِنةً للسماد.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "تستقرّ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يدَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "على جبل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ונדוש",
+      "gloss": "ويُداس"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "تحته"
+    },
+    {
+      "surface": "כהדוש",
+      "gloss": "كدوسِ"
+    },
+    {
+      "surface": "מתבן",
+      "gloss": "القشّ"
+    },
+    {
+      "surface": "במי",
+      "gloss": "في ماءِ"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "مدمِنة"
+    }
+  ],
+  "timestamp": "2026-08-07T02:10:55.906037230Z",
+  "model": "glm-5.2"
+}

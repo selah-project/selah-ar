@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 6:15",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "«إخوتي غَدَروا كنَهْرٍ، كقَناةِ أَوديةٍ تَعْبُر.»",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "إخوتي"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "غدروا"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ك"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "نهر"
+    },
+    {
+      "surface": "כאפיק",
+      "gloss": "كقناة"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "أَودية"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "تعبر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:42.839956085Z",
+  "model": "glm-5.2"
+}

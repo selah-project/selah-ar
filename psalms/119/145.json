@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 145,
+  "ref": "psalms 119:145",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "دعوتُ بكلِّ قلب؛ أجِبْني يا يهوه، ⟨فـ⟩أحرُس فرائضك",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "دعوتُ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بكلِّ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "أجِبْني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "فرائضك"
+    },
+    {
+      "surface": "אצרה",
+      "gloss": "أحرُس"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:39.558716231Z",
+  "model": "glm-5.2"
+}

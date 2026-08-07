@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "ليأتِهِ دمارٌ لا يعلمُ ⟨بنفسه⟩، وشبكتُه التي أخفاها تُمسكُه؛ في دمارٍ يقعُ فيها.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "ليأتِهِ"
+    },
+    {
+      "surface": "שואه",
+      "gloss": "دمارٌ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "يعلمُ"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "وشبكتُه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "أخفاها"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "تُمسكُه"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "في دمارٍ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "يقعُ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:04.759166906Z",
+  "model": "glm-5.2"
+}

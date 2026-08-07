@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "في يوم ذبحكم ⟨يُؤكَل⟩، ومن الغد، والفائض حتى اليوم الثالث بالنار يُحرق.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "ذبحكم"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "⟨يُؤكَل⟩"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "ومن الغد"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "والفائض"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "יום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "الثالث"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بالنار"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "يُحرق"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:43.835911854Z",
+  "model": "glm-5.2"
+}

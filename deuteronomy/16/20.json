@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "صِدِقًا صِدِقًا تتبعْ، لكي تحيا وترثَ ⟨את⟩ الأرض التي يهوه إلوهيمك يعطيك.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "صِدِقًا"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "صِدِقًا"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "تتبعْ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "تحيا"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "وترثَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "يعطيك"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-07T00:56:32.792804070Z",
+  "model": "glm-5.2"
+}

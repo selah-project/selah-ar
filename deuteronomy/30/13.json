@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 30:13",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وليس في عَبر البحر، ⟨هو⟩، قائلًا: من يعبر لنا إلى عَبر البحر فيأخذها لنا ويُسمِعُنا ⟨את⟩ها ونصنعها؟",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "وليس"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "في عَبر"
+    },
+    {
+      "surface": "לים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "يعبر"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عَبر"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "فيأخذها"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "ويُسمِعُنا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاها"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "ونصنعها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:55.659322182Z",
+  "model": "glm-5.2"
+}

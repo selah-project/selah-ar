@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 16:2",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وادي فِسحًا ليهوه إلوهيمك من الغنم والبقر، في المكان الذي يختاره يهوه لِيُسكِن ⟨اسمَهُ⟩ هناك.",
+  "tokens": [
+    {
+      "surface": "וזבחת",
+      "gloss": "وادي"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "فِسحًا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "من الغنم"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "والبقر"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "في المكان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "يختاره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "لِيُسكِن"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمَهُ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:56:24.583558242Z",
+  "model": "glm-5.2"
+}

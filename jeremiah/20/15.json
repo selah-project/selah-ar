@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "ملعونٌ الرجلُ الذي بشّر ⟨את⟩ أبي قائلًا: «وُلِدَ لك ابنٌ ذكر»، مُفَرِّحًا إيّاه فَرَحًا.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملعونٌ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجلُ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بشّر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أبي"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "وُلِدَ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنٌ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ذكر"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "مُفَرِّحًا"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "إيّاه فَرَحًا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:37:21.073612682Z",
+  "model": "glm-5.2"
+}

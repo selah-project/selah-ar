@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "طيّبة الحكمة مع ميراث، وفائدةٌ لِرُوّاد الشمس.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "طيّبة"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "الحكمة"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ميراث"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "وفائدة"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "لرُوّاد"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "الشمس"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:02.931734886Z",
+  "model": "glm-5.2"
+}

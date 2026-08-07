@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 26:1",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "فأخذ كلُّ شعبِ يهودا عُزّيا وهو ابنَ ستَّ عشرةَ سنةً، وملَّكوه ⟨تحت⟩ أبيه أمصيا.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "فأخذ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعبِ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عُزّيا"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "عُزّيا"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنَ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ستَّ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرةَ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنةٍ"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "وملَّكوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "تحت"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "أمصيا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:30:14.242089095Z",
+  "model": "glm-5.2"
+}

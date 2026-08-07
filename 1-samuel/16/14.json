@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وروَح يهوه زالت من عند شاؤول، وقلقله روَح ردية من لدن يهوه.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "وروَح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "زالت"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "من عند"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "وقلقله"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روَح"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ردية"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "من لدن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:26:11.234036185Z",
+  "model": "glm-5.2"
+}

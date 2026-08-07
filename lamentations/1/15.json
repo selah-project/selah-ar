@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 1:15",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "أزال كلَّ أبطالي أدوناي من وسطي، دعا عليّ موعدًا لكسر فتياني، داس معصرةً أدوناي لعذراء بنت يهودا.",
+  "tokens": [
+    {
+      "surface": "סלה",
+      "gloss": "أزال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "أبطالي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "من وسطي"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "دعا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عليّ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "موعدًا"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "لكسر"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "فتياني"
+    },
+    {
+      "surface": "גת",
+      "gloss": "معصرةً"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "داس"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "לבתולת",
+      "gloss": "لعذراء"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:49:29.825216533Z",
+  "model": "glm-5.2"
+}

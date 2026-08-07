@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وأخذ داوود ⟨את⟩ كلَّ ⟨ال⟩غنم و⟨ال⟩بقر، ساقوها أمام ذلك ⟨ال⟩قطيع، وقالوا: «هذا غنيمة داوود.»",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلَّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "الغنم"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "والبقر"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "ساقوها"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "القطيع"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقالوا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "غنيمة"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    }
+  ],
+  "timestamp": "2026-08-07T01:31:06.649305954Z",
+  "model": "glm-5.2"
+}

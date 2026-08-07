@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وأحاط عشرة فتيان حاملو عدّة يواب، وضربوا ⟨את⟩ أفشالوم فأماتوه.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "وأحاط"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرة"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "فتيان"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "حاملو"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "عدّة"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يواب"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "وضربوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أفشالوم"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "أفشالوم"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "فأماتوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:39:45.523799255Z",
+  "model": "glm-5.2"
+}

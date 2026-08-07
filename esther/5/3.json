@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 5:3",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "فقال لها الملك: «ما لكِ يا إستير الملكة؟ وما طلَبُكِ؟ حتى نصف الملکوت يُعطى لكِ.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكِ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "إستير"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "الملكة"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "وما"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "طلبُكِ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "نصف"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "الملکوت"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "يُعطى"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:54:39.604983233Z",
+  "model": "glm-5.2"
+}

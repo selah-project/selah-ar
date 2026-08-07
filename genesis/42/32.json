@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "نحن اثنا عشر أخاً، بني أبينا. الواحد ليس، والصغير اليوم ⟨את⟩ أبينا في أرض كنعان.»",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "اثنا"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "نحن"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "أخاً"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "أبينا"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "الواحد"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "والصغير"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أبينا"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "أبينا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كنعان"
+    }
+  ],
+  "timestamp": "2026-08-06T23:52:23.745189271Z",
+  "model": "glm-5.2"
+}

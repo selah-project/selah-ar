@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "ويعطيك ⟨את⟩ بركة أفراهام لك ولنسلك معك، لترث ⟨את⟩ أرض غربتك التي أعطاها إلوهيم لأفراهام",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ويعطي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بركة أفراهام"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "بركة"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "ولنسلك"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "لترث"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أرض غربتك"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "غربتك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطاها"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "لأفراهام"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:37.703287153Z",
+  "model": "glm-5.2"
+}

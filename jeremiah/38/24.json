@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 38:24",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "فقال صدقيا لإرميا: لا يعرف رجل في هذه الأمور شيئًا، فلا تموت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صدقيا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "إرميا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "يعرف"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "في الأمور"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "تموت"
+    }
+  ],
+  "timestamp": "2026-08-07T05:54:44.105842217Z",
+  "model": "glm-5.2"
+}

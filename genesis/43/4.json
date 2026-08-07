@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 43,
+  "translation": "إن كنتَ ترسل ⟨את⟩ أخينا معنا ننزل ونشبر لك طعامًا،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "كنتَ"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ترسل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أخينا"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "أخينا"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "معنا"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "ننزل"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "ونشبر"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "طعامًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:52:10.038531595Z",
+  "model": "glm-5.2"
+}

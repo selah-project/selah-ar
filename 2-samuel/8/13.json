@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وصنع داوِد اسمًا عند رجوعه من ضربه ⟨את⟩ أرام في وادي الملح — ثمانية عشر ألفًا.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وصنع"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسمًا"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "عند رجوعه"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "من ضربه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أرام"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "أرام"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "في وادي"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "الملح"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ثمانية"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:13.797336991Z",
+  "model": "glm-5.2"
+}

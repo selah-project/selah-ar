@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 15:2",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "«كلّما بني يسرائيل وقلوا لهم: أيُّ رجلٍ، إذا صار ⟨له⟩ زافٌ من لحمه، فسيلُه نجِسٌ هو.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "كلّما"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "وقلوا"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "أيُّ رجل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "صار"
+    },
+    {
+      "surface": "זב",
+      "gloss": "زاف"
+    },
+    {
+      "surface": "מבשרו",
+      "gloss": "من لحمه"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "سيلُه"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجِسٌ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T00:20:10.777506097Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 69,
+  "translation": "عييتُ من صراخي، احترقَ حلقي، كلِحَت عيناي، أنتظرُ إلهي",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "عييتُ"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "من صراخي"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "احترقَ"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "حلقي"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "كلِحَت"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "عيناي"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "أنتظرُ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "إلهي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:26.094146916Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "فتقدّس الكهنة واللاويون لإصعاد ⟨את⟩ تابوت يهوه إله إسرائيل.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "فتقدّس"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكهنة"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "واللاويون"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "لإصعاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تابوت"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إله"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:49.619520137Z",
+  "model": "glm-5.2"
+}

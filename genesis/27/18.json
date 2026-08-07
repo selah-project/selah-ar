@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "فجاء إلى أبيه وقال: «يا أبي!» فقال: «ها أنا. من أنت يا ابني؟»",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "فجاء"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "يا أبي"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ها أنا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "يا ابني"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:17.783084442Z",
+  "model": "glm-5.2"
+}

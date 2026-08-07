@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "فعرف يوسف ⟨את⟩ إخوته، وأمّا هم فلم يعرفوه.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "فعرف"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "إخوته"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "إخوته"
+    },
+    {
+      "surface": "והם",
+      "gloss": "وأمّا هم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "يعرفوه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:42.733460540Z",
+  "model": "glm-5.2"
+}

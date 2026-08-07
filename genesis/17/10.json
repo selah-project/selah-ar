@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 17:10",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "هذا بريتي الذي تحفظونه بيني وبينكم وبين زرعك من بعدك: يُختَن لكم كلّ ذكر.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "بريتي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "تحفظونه"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "بيني"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "وبينكم"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "زرعك"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "من بعدك"
+    },
+    {
+      "surface": "המול",
+      "gloss": "يُختَن"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ذكر"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:07.082795015Z",
+  "model": "glm-5.2"
+}

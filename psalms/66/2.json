@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 66,
+  "translation": "رَنِّموا لِمَجدِ اسمِهِ، اجْعَلوا ⟨لـ⟩ مَجدٍ تَهْليلَهُ.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "رَنِّموا"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "لِمَجدِ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمِهِ"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "اجْعَلوا"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "مَجدٍ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "تَهْليلَهُ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:44.587183966Z",
+  "model": "glm-5.2"
+}

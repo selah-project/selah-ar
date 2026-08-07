@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فقال لها باراك: «إن ذهبتِ معي ذهبتُ، وإن لم تذهبي معي لا أذهب.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "باراك"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "ذهبتِ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "معي"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "ذهبتُ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "تذهبي"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "معي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "أذهب"
+    }
+  ],
+  "timestamp": "2026-08-07T01:14:29.929208559Z",
+  "model": "glm-5.2"
+}

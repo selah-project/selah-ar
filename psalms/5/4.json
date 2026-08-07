@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "يهوه صباحًا تسمع صوتي، صباحًا أُرَتِّب ⟨نفسي⟩ لك وأَرقُب",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صباحًا"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "تسمع"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "صوتي"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صباحًا"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "أُرَتِّب"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "وأَرقُب"
+    }
+  ],
+  "timestamp": "2026-08-07T03:40:13.863596644Z",
+  "model": "glm-5.2"
+}

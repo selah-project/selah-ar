@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فقال له: «امشِ معي إلى البيت، وكُل خبزًا».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "לך",
+      "gloss": "امشِ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "معي"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "إلى البيت"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "وكُل"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:47:52.684010690Z",
+  "model": "glm-5.2"
+}

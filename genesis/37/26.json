@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "فقال يهودا لإخوته: «ما المغنم أن نقتل ⟨את⟩ أخانا ونغطّي ⟨את⟩ دمه؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لإخوته"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": ""
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "المغنم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أن"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "نقتل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أخانا"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "أخانا"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "ونغطّي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دمه"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "دمه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:38.855989487Z",
+  "model": "glm-5.2"
+}

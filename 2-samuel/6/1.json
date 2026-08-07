@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وعاد داود فجمع ⟨את⟩ كلّ مُنتقًى في إسرائيل، ثلاثين ألفًا.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "وعاد"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "مُنتقًى"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "في إسرائيل"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ثلاثين"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:54.087634069Z",
+  "model": "glm-5.2"
+}

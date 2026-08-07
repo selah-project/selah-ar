@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "لكن ⟨את⟩ هذا لا تأكلوه من مجترّات الجرّة ومن مشقّقات الظلف: ⟨את⟩ الجَمَل، لأنه مجترّ الجرّة وظلفًا لا يشقّقه — طامئ هو لكم.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "لكن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هذا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تأكلوه"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "من مجترّات"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "الجرّة"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "ومن مشقّقات"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "الظلف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الجَمَل"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "الجَمَل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "مجترّ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "الجرّة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "وظلفًا"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "لا"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "يشقّقه"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "طامئ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:15.673243970Z",
+  "model": "glm-5.2"
+}

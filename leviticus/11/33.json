@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وكلُّ آنيةِ خزفٍ يقعُ ⟨منها⟩ واحدٌ إلى داخلِها — كلُّ ما في داخلِها يتنجَّسُ، و⟨את⟩ها تكسرون",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "آنية"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "خزف"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "يقع"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "منها"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "داخلِها"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "في داخلِها"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "يتنجَّس"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاها"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "تكسرون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:53.132262103Z",
+  "model": "glm-5.2"
+}

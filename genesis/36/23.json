@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "وهذه ابنو شوڤال: علوان، ومنحت، وعيڤال، شِفو، وأونام.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "وهذه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ابنو"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "شوڤال"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "علوان"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "ومنحت"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "وعيڤال"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "شِفو"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "وأونام"
+    }
+  ],
+  "timestamp": "2026-08-07T05:34:59.302120514Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 30:15",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "ما لكِ تصرخين على كسرِكِ؟ لا شفاءَ لوجعكِ. على كثرةِ ذنبكِ، ⟨قد⟩ اشتدّت خطاياكِ، أنا صنعتُ هذه لكِ.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ما لكِ"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "تصرخين"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שברך",
+      "gloss": "كسرِكِ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "لا شفاءَ"
+    },
+    {
+      "surface": "מכאבך",
+      "gloss": "لوجعكِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "רב",
+      "gloss": "كثرة"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "ذنبكِ"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "اشتدّت"
+    },
+    {
+      "surface": "חטאתיך",
+      "gloss": "خطاياكِ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "صنعتُ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:42:33.378782956Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "فصنع ⟨את⟩ الإيفود: ذهب وتخيلت وأرگمان ودودة شاني وكتّان مبروم.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "فصنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الإيفود"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "الإيفود"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهب"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "تخيلت"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "وأرگمان"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ودودة"
+    },
+    {
+      "surface": "שני",
+      "gloss": "شاني"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "وكتّان"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "مبروم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:14:50.876854865Z",
+  "model": "glm-5.2"
+}

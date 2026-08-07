@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "كُفَّ عن الغضب، واترك الحَمَد؛ لا تتوقّد، إنّما ⟨الأمر⟩ للإساءة",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "كُفَّ"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "عن الغضب"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "واترك"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "الحَمَد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "تتوقّد"
+    },
+    {
+      "surface": "אך",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "للإساءة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:40.837613051Z",
+  "model": "glm-5.2"
+}

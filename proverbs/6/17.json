@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "عُيونٌ مُترفّعة، لسانُ كذب، و⟨أيادٍ⟩ تَسفك دمًا بريئًا،",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "عيون"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "مُترفّعة"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "لسان"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "كذب"
+    },
+    {
+      "surface": "ודים",
+      "gloss": "و⟨أيادٍ⟩"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "تَسفك"
+    },
+    {
+      "surface": "דם",
+      "gloss": "دم"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بريئًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:33.619593478Z",
+  "model": "glm-5.2"
+}

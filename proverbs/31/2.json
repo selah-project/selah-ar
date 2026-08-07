@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "ماذا يا بَرِي؟ وماذا يا بَرَ بَطْني؟ وماذا يا بَرَ نُذُوري؟",
+  "tokens": [
+    {
+      "surface": "מַה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "בְּרִי",
+      "gloss": "يا بَرِي"
+    },
+    {
+      "surface": "וּמַֽה",
+      "gloss": "وماذا"
+    },
+    {
+      "surface": "בַּר",
+      "gloss": "يا بَرَ"
+    },
+    {
+      "surface": "בִּטְנִ֑י",
+      "gloss": "بَطْني"
+    },
+    {
+      "surface": "וּ֝מֶה",
+      "gloss": "وماذا"
+    },
+    {
+      "surface": "בַּר",
+      "gloss": "يا بَرَ"
+    },
+    {
+      "surface": "נְדָרָֽי",
+      "gloss": "نُذُوري"
+    }
+  ],
+  "timestamp": "2026-08-07T06:09:08.283883399Z",
+  "model": "glm-5.2"
+}

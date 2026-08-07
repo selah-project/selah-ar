@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "كما أنك لا تعرف ما طريق الروَح، كالعظام في بطن ⟨الممتلئة⟩، هكذا لا تعرف ⟨את⟩ عمل إلوهيم الذي يصنع ⟨את⟩ الكلّ.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "لست"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "تعرف"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "طريق"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "الروَح"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "كالعظام"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "في بطن"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "الممتلئة"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "تعرف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عمل"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يصنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الكلّ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "الكلّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:53:16.371600234Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "أجابَ دُودي وقال لي: «قومي لِكِ، راعيتي يافَتي، واذهبي لِكِ».",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "أجابَ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "دُودي"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "قومي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لِكِ"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "راعيتي"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "يافَتي"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "واذهبي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لِكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:44:47.601946572Z",
+  "model": "glm-5.2"
+}

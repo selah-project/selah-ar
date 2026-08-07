@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 12:5",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "أمام أعينهم اِنقُب لنفسك في الجدار، وَأخرِج منه.",
+  "tokens": [
+    {
+      "surface": "לעיניהם",
+      "gloss": "أمام أعينهم"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "اِنقُب"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لنفسك"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "في الجدار"
+    },
+    {
+      "surface": "והוצאת",
+      "gloss": "وَأخرِج"
+    },
+    {
+      "surface": "בו",
+      "gloss": "منه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:58:19.675912821Z",
+  "model": "glm-5.2"
+}

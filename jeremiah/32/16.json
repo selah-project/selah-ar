@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 32:16",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "وصلّيتُ إلى يهوه بعدَ إعطائي ⟨את⟩ سفرَ المِقنيةِ إلى باروخ بن نِريا، قائلاً:",
+  "tokens": [
+    {
+      "surface": "ואתפלל",
+      "gloss": "وصلّيتُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعدَ"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "إعطائي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سفر المِقنية"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سفرَ"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "المِقنيةِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروخ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "نِريا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    }
+  ],
+  "timestamp": "2026-08-07T02:44:05.745169327Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "ثِقَلُ حجرٍ ورَفعُ الرمل، وغضبُ الإوَلْ ثقيلٌ من كِليهما",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "ثِقَلُ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "حجرٍ"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "ورَفعُ"
+    },
+    {
+      "surface": "החול",
+      "gloss": "الرمل"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "وغضبُ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "الإوَلْ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ثقيلٌ"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "من كِليهما"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:37.348983224Z",
+  "model": "glm-5.2"
+}

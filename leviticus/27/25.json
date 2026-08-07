@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 27:25",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وكل تقويمك يكون بشيقل القدس: عشرون جِيراه يكون الشيقل.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "تقويمك"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "بشيقل"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "القدس"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "عشرون"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "جِيراه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "الشيقل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:44.880570192Z",
+  "model": "glm-5.2"
+}

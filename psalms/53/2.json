@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 53,
+  "translation": "قال الجاهلُ في قلبه: «لا إلوهيم». أفسدوا وتنجّسوا إثمًا، لا فاعلَ خير.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "الجاهل"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "في قلبه"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "أفسدوا"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "وتنجّسوا"
+    },
+    {
+      "surface": "עול",
+      "gloss": "إثمًا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فاعل"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خير"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:29.787002645Z",
+  "model": "glm-5.2"
+}

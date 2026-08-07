@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "تُنشدُ لساني قولك لأنّ كلّ وصاياك صِدِق",
+  "tokens": [
+    {
+      "surface": "תַּ֣עַן",
+      "gloss": "تُنشدُ"
+    },
+    {
+      "surface": "לְשׁוֹנִי",
+      "gloss": "لساني"
+    },
+    {
+      "surface": "אִמְרָתֶ֑ךָ",
+      "gloss": "قولك"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "מִצְוֺתֶ֣יךָ",
+      "gloss": "وصاياك"
+    },
+    {
+      "surface": "צֶּֽדֶק",
+      "gloss": "صِدِق"
+    }
+  ],
+  "timestamp": "2026-08-07T04:13:09.988304351Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فسلّمه يهوه إلوهيمنا أمامنا، وضربناه، ⟨את⟩ه و⟨את⟩ بنيه و⟨את⟩ كلّ شعبه.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "فسلّمه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلوهيمنا"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "أمامنا"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "وضربناه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بنيه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بنيه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ شعبه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبه"
+    }
+  ],
+  "timestamp": "2026-08-07T08:33:48.350797331Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "و بنو حامٍ: كوشُ ومصرايمُ (مصر) وفوتُ وكَنْعانُ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "وبنو"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "كوش"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "ومصرايم"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "وفوت"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "وكَنْعان"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:15.934156539Z",
+  "model": "glm-5.2"
+}

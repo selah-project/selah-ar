@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "أمَّا يهوه ففي هيكلِ قدسهِ. اسكُتْ من وجههِ كلُّ الأرض!",
+  "tokens": [
+    {
+      "surface": "והוה",
+      "gloss": "أمَّا يهوه"
+    },
+    {
+      "surface": "והוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "في هيكل"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "قدسهِ"
+    },
+    {
+      "surface": "הס",
+      "gloss": "اسكُتْ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "من وجهه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T03:32:27.693181371Z",
+  "model": "glm-5.2"
+}

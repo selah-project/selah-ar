@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 27:8",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "فما رجاء المنافق إذا قطع، إذا أسلم أَلُوَهّ نَفْسَه؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ف"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "رجاء"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "المنافق"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יבצע",
+      "gloss": "قطع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "ישל",
+      "gloss": "أسلم"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "أَلُوَهّ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نَفْسَه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:39:59.027077065Z",
+  "model": "glm-5.2"
+}

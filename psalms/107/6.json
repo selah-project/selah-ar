@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 107,
+  "translation": "فصرخوا إلى يهوه في ضيقهم، ومن ضيقاتهم خلّصهم.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "فصرخوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "في ضيقهم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "ومن ضيقاتهم"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "خلّصهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:44.271090829Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 71,
+  "translation": "قائلين: إلوهيم تركه! طاردوه وأمسكوه، لأنّه لا مُنقذ!",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "تركه"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "طاردوه"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "وأمسكوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "مُنقذ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:36.036767310Z",
+  "model": "glm-5.2"
+}

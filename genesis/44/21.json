@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 44:21",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "فقلتِ ⟨ل⟩عبيدك أنزِلوه إليّ وأجعَل عيني عليه",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "وقلتِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "عبيدك"
+    },
+    {
+      "surface": "הורדהו",
+      "gloss": "أنزِلوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "ואשימה",
+      "gloss": "وأجعَل"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "عيني"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:52:16.205233317Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 39:31",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "وجعلوا عليه خيطًا من اللازورد، لوضعه على العِمامة من فوق، كما أوصى يهوه ⟨את⟩ موشيه.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "وجعلوا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "خيطًا"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "من اللازورد"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "لوضعه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "العِمامة"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "من فوق"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:05.792007161Z",
+  "model": "glm-5.2"
+}

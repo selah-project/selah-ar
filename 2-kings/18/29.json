@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 18:29",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "هكذا قال الملك: لا يُضلِّلَنّكم حزقياهو، لأنّه لا يقدر أن يُنقذ ⟨את⟩كم من يده.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישיא",
+      "gloss": "يُضلِّلَنّ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "كم"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حزقياهو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "يقدر"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "أن يُنقذ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "كم"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "من يده"
+    }
+  ],
+  "timestamp": "2026-08-07T02:00:23.428196146Z",
+  "model": "glm-5.2"
+}

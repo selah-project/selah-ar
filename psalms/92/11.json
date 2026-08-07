@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 92,
+  "translation": "وترفع قرني مثل الرّآيم، أُشبَع بزيتٍ رعنان",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "وترفع"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "مثل الرّآيم"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "قرني"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "أُشبَع"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "بزيتٍ"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "رعنان"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:42.952286448Z",
+  "model": "glm-5.2"
+}

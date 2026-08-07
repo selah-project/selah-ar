@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وفي الشهر الثاني، في السابع والعشرين يومًا للشهر، يبِسَت الأرض.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "وفي الشهر"
+    },
+    {
+      "surface": "השני",
+      "gloss": "الثاني"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "في السابع"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "والعشرين"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يومًا"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "للشهر"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "يبِسَت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:04.680690352Z",
+  "model": "glm-5.2"
+}

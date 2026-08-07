@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "طوّب ⟨الحالُ⟩ الذي تمسكه بهذا، ومن هذا لا تُنِح ⟨את⟩ يدك، لأنَّ يري إلوهيم يخرج ⟨أصلحَ⟩ ⟨من⟩ ⟨את⟩ كلّهم",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "طوّب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "تمسك"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "بهذا"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "من هذا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "تُنِح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يدك"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "يري"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "يخرج"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّهم"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "كلّهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:23.962743311Z",
+  "model": "glm-5.2"
+}

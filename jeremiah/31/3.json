@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 31:3",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "من بعيد ظهر يهوه ليّ، وبمحبّةٍ دهريّة أحببتكِ، لذلك مددتكِ بحِسِد.",
+  "tokens": [
+    {
+      "surface": "מרחוק",
+      "gloss": "من بعيد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ظهر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ليّ"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "وبمحبّة"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "دهريّة"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "أحببتكِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "משכתיך",
+      "gloss": "مددتكِ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "بحِسِد"
+    }
+  ],
+  "timestamp": "2026-08-07T02:42:48.560115889Z",
+  "model": "glm-5.2"
+}

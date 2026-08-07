@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "فأخذوه وطرحوه ⟨את⟩ه إلى البئر، والبئر خاوٍ، ليس فيه ماء.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "فأخذوه"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "طرحوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "إلى البئر"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "إلى البئر"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "والبئر"
+    },
+    {
+      "surface": "רק",
+      "gloss": "خاوٍ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماء"
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:38.057258675Z",
+  "model": "glm-5.2"
+}

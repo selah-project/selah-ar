@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 60:20",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 60,
+  "translation": "لا يأتي بعدُ شمسُكِ، وقمرُكِ لا يُجمَع، لأنّ يهوه يكونُ لكِ لنورٍ أبديّ، وتكمُلُ أيّامُ حدادِكِ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "يأتي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعدُ"
+    },
+    {
+      "surface": "שמשך",
+      "gloss": "شمسك"
+    },
+    {
+      "surface": "וירחך",
+      "gloss": "وقمرك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "يُجمع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "لنور"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "أبديّ"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "وتكمل"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "אבלך",
+      "gloss": "حدادك"
+    }
+  ],
+  "timestamp": "2026-08-07T02:24:44.531696294Z",
+  "model": "glm-5.2"
+}

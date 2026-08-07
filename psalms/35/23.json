@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "أِقظَ وانتبهْ لحكمي، إلوهاي وأدوناي، لِخصومتي.",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "أِقظَ"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "وانتبهْ"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "لحكمي"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهاي"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "وأدوناي"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "لِخصومتي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:23.319505554Z",
+  "model": "glm-5.2"
+}

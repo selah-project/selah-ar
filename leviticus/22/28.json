@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "والبقرةُ أو الشاة، إيّاه و⟨את⟩ ابنه لا تذبحوه في يومٍ واحد",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "والبقرة"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "שה",
+      "gloss": "الشاة"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "إيّاه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ابنه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "تذبحوه"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:26.406192521Z",
+  "model": "glm-5.2"
+}

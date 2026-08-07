@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "لأنهم لم يؤمنوا بإلوهيم، ولم يتوكّلوا على خلاصه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "آمنوا"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "بإلوهيم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "اتكلوا"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "على خلاصه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:30.709893532Z",
+  "model": "glm-5.2"
+}

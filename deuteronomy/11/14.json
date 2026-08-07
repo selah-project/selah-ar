@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 11:14",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨أعطي⟩ مطر أرضكم في وقته، يورِيه وملقوش، فتجمعون حنطتكم وخمركم وزيتكم،",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "و⟨أعطي⟩"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "مطر"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "أرضكم"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "في وقته"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "يورِيه"
+    },
+    {
+      "surface": "ומלקוש",
+      "gloss": "وملقوش"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "فتجمعون"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "حنطتكم"
+    },
+    {
+      "surface": "ותירשך",
+      "gloss": "خمركم"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "وزيتكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:53:54.276381197Z",
+  "model": "glm-5.2"
+}

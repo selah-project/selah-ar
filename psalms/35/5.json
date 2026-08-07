@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "ليكونوا كالعَصَفة أمامَ الريَح، وملَكُ يهوه يَدفعُهم.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ليكونوا"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "كالعَصَفة"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمامَ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "الريَح"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "وملَكُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "يَدفعُهم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:04.758833023Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 24:17",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فركض العبد للقائها وقال: «اسقني ⟨نعم⟩ قليلًا ماءً من كدّك»",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "فركض"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "العبد"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "للقائها"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "הגמיאיני",
+      "gloss": "اسقني"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨نعم⟩"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "قليلًا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماءً"
+    },
+    {
+      "surface": "מכדך",
+      "gloss": "من كدّك"
+    }
+  ],
+  "timestamp": "2026-08-07T05:33:54.471769310Z",
+  "model": "glm-5.2"
+}

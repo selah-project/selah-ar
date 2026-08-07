@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فعاد الرسل إليه وقال لهم: ما هذا ⟩أنتم⟨⟨ رجعتم؟",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "فرجعوا"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "الرسل"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "رجعتم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:52:43.014934114Z",
+  "model": "glm-5.2"
+}

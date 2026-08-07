@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 30:28",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "السَّماميتُ تُمسَك باليدَين، وهي في قصور مَلِك",
+  "tokens": [
+    {
+      "surface": "שממית",
+      "gloss": "السَّماميت"
+    },
+    {
+      "surface": "בידים",
+      "gloss": "باليدَين"
+    },
+    {
+      "surface": "תתפש",
+      "gloss": "تُمسَك"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "وهي"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "في قصور"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلِك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:20.149119701Z",
+  "model": "glm-5.2"
+}

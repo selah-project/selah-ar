@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "لا تأكلون على الدم لا تتشائمون ولا تتعرّفون بالعيافة",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تأكلون"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "الدم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "تتشائمون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "تتعرّفون بالعيافة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:38.551287078Z",
+  "model": "glm-5.2"
+}

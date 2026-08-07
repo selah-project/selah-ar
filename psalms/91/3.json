@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 91,
+  "translation": "لأنّه ⟨هو⟩ يُنقذُكَ من فخّ الصيّاد، من وباء الهَوَى.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "يُنقذُكَ"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "من فخّ"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "الصيّاد"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "من وباء"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "الهَوَى"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:33.098434103Z",
+  "model": "glm-5.2"
+}

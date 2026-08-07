@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "حياةً سأل منك، فأعطيتها له: طولَ أيّام إلى الدّهر والأبد.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "حياة"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "سأل"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "منك"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "أعطيت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "طول"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "الدهر"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "والأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:45.525638001Z",
+  "model": "glm-5.2"
+}

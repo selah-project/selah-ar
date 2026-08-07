@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 11:19",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "فوجد هدد حِناً في عيني فرعون جدّاً، فأعطاه امرأة ⟨את⟩ أخت امرأته أخت تحفنيس الحاكمة.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "فوجد"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "هدد"
+    },
+    {
+      "surface": "חן",
+      "gloss": "حِناً"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عيني"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدّاً"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "فأعطى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أخت"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "أخت"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "امرأته"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "أخت"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "تحفنيس"
+    },
+    {
+      "surface": "הגבירה",
+      "gloss": "الحاكمة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:47:31.555633187Z",
+  "model": "glm-5.2"
+}

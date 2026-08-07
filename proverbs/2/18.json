@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 2:18",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "لأن بيتها انحدر إلى موت، وإلى رَفائيم سُبُلها.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "انحدر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "بيتها"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رَفائيم"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "سُبُلها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:21:24.934662704Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "يحتقرُّ صاحبَه ناقصُ الفؤاد، وذو التَّبَصُّراتِ يَسكُت.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "يحتقرُّ"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "صاحبَه"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ناقصُ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "الفؤاد"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "وذو"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "التَّبَصُّراتِ"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "يَسكُت"
+    }
+  ],
+  "timestamp": "2026-08-07T04:24:45.872146134Z",
+  "model": "glm-5.2"
+}

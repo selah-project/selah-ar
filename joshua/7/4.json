@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 7:4",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "فصعد من الشعب إلى هناك نحو ثلاثة آلاف رجل، فهربوا من وجه رجال هاعاي.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "فصعدوا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "إلى هناك"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "نحو ثلاثة"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "آلاف"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "فهربوا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "من وجه"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "העי",
+      "gloss": "هاعاي"
+    }
+  ],
+  "timestamp": "2026-08-07T05:44:04.072161583Z",
+  "model": "glm-5.2"
+}

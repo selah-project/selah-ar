@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 6:6",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "يوآح ابنه، عِدّو ابنه، زَرَح ابنه، يعَثراي ابنه.",
+  "tokens": [
+    {
+      "surface": "יואח",
+      "gloss": "يوآح"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "عِدّو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زَرَح"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "יאתרי",
+      "gloss": "يعَثراي"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:14.818940035Z",
+  "model": "glm-5.2"
+}

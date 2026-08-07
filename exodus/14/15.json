@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "و⟨قال⟩ يهوه لموشيه: «ما بالك تصرخ إليّ؟ كلّم بني يسرائيل وليرتحلوا.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و⟨قال⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "تصرخ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨لـ⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "وليرتحلوا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:36:25.408088988Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 46:8",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 46,
+  "translation": "اذكروا هذا وتماسّوا، أرجِعوا أيها المتمرّدون إلى القلب",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "اذكروا"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "והתאששו",
+      "gloss": "وتماسّوا"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "أرجِعوا"
+    },
+    {
+      "surface": "פושעים",
+      "gloss": "أيها المتمرّدون"
+    },
+    {
+      "surface": "על",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "לב",
+      "gloss": "القلب"
+    }
+  ],
+  "timestamp": "2026-08-07T02:19:42.351691110Z",
+  "model": "glm-5.2"
+}

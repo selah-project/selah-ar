@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 78:57",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "و⟨يرتدّون⟩ و⟨يغدرون⟩ كآبائهم، انقلبوا كقوسِ غدرٍ",
+  "tokens": [
+    {
+      "surface": "ויסגו",
+      "gloss": "و⟨يرتدّون⟩"
+    },
+    {
+      "surface": "ויבגדו",
+      "gloss": "و⟨يغدرون⟩"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "كآبائهم"
+    },
+    {
+      "surface": "נהפכו",
+      "gloss": "انقلبوا"
+    },
+    {
+      "surface": "כקשת",
+      "gloss": "كقوس"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "غدر"
+    }
+  ],
+  "timestamp": "2026-08-07T06:05:17.995786558Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "طيّبٌ عاقبةُ الأمرِ مِنْ بِدايته؛ طيّبٌ طَويلُ الرُّوحِ مِنْ رَفيعِ الرُّوحِ",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "طيّبٌ"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "عاقبةُ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "الأمرِ"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "مِنْ بِدايته"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيّبٌ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "طَويلُ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "الرُّوحِ"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "مِنْ رَفيعِ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "الرُّوحِ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:05.658399492Z",
+  "model": "glm-5.2"
+}

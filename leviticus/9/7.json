@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 9:7",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وقال موشيه لأهارون: «اقترب إلى المذبح واصنع ⟨את⟩ خطيّتك و⟨את⟩ عولتك، وكفّر عنك وعن الشعب، واصنع ⟨את⟩ قربان الشعب وكفّر عنهم كما أوصى يهوه».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "اقترب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "واصنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خطيّتك"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "خطيّتك"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "عولتك"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "عولتك"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "وكفّر"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "عنك"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "وعن"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "واصنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قربان"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "قربان"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "وكفّر"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "عنهم"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:11.978853440Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 1:27",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "عدّوهم لِسبط يهوداه: أربعة وسبعون ألفًا وستّمئة.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "عدّوهم"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "لِسبط"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوداه"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "أربعة"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "وسبعون"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفًا"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "وستّ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:48.713407021Z",
+  "model": "glm-5.2"
+}

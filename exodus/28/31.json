@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "وتصنَعُ ⟨את⟩ رِداءِ الأِيفودِ مُتَّسِقًا من أزرقٍ.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "وتصنَع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رداء"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "رداء"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "الأِيفود"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "متّسقًا"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "من أزرق"
+    }
+  ],
+  "timestamp": "2026-08-07T00:09:39.226491687Z",
+  "model": "glm-5.2"
+}

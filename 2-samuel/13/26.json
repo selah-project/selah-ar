@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 13:26",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فقال أفشالوم: وإنْ لم يكن، فليمشِ أمنون أخي معنا. فقال له الملك: لماذا يذهب معك؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "أفشالوم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "وإن لم"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "يكن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨أرجوك⟩"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "معنا"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "أمنون"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "أخي"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "يذهب"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:35:40.560347046Z",
+  "model": "glm-5.2"
+}

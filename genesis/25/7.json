@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 25:7",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وهذه أيّام سنوات حياة أفراهام التي عاشها: مئة سنة وسبعون سنة وخمس سنوات.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "وهذه"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سنوات"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "حياة"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "חי",
+      "gloss": "عاشها"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "وسبعون"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "وخمس"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنوات"
+    }
+  ],
+  "timestamp": "2026-08-06T23:43:13.492404230Z",
+  "model": "glm-5.2"
+}

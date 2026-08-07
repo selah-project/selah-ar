@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "لا تُجِب كسيلاً كحماقته، لئلا تتساوى معه أنت أيضًا.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תַּ֣עַן",
+      "gloss": "تُجِب"
+    },
+    {
+      "surface": "כְּ֭סִיל",
+      "gloss": "كسيلاً"
+    },
+    {
+      "surface": "כְּאִוַּלְתּ֑וֹ",
+      "gloss": "كحماقته"
+    },
+    {
+      "surface": "פֶּֽן",
+      "gloss": "لئلا"
+    },
+    {
+      "surface": "תִּשְׁוֶה",
+      "gloss": "تتساوى"
+    },
+    {
+      "surface": "לּ֥וֹ",
+      "gloss": "معه"
+    },
+    {
+      "surface": "גַם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "אָֽתָּה",
+      "gloss": "أنت"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:22.983879435Z",
+  "model": "glm-5.2"
+}

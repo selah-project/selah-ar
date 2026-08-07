@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وضربهم ملكُ بافِل وقتلهم في ريبلاة في أرض حماط، وسُبي يهودا عن أرضه.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "وضرب"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩هم",
+      "marks": "ملك بافل"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملكُ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافِل"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "وقتلهم"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "في ريبلاة"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرضِ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حماط"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "وسُبي"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "عن"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "أرضه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:03:17.020841726Z",
+  "model": "glm-5.2"
+}

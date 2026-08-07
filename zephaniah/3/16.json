@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "في ذلك اليوم يُقالُ ليروشالايم: لا تخافي. صهيون، لا ترخِ يديكِ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "يُقالُ"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "ليروشالايم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "تخافي"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "ترخِ"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "يديكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:32:53.183257519Z",
+  "model": "glm-5.2"
+}

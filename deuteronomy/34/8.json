@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 34:8",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "وبكى بنو إسرائيل ⟨את⟩ موشيه في عَرَباتِ موآب ثلاثين يومًا، فتمّت أيّامُ بكاءِ نياحِ موشيه",
+  "tokens": [
+    {
+      "surface": "ויבכו",
+      "gloss": "وبكى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "في عَرَباتِ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ثلاثين"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يومًا"
+    },
+    {
+      "surface": "ויתמו",
+      "gloss": "فتمّت"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّامُ"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "بكاءِ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "نياحِ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:02:29.516003737Z",
+  "model": "glm-5.2"
+}

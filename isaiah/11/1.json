@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "ويخرجُ قَضِيبٌ مِنْ جِذعِ يِشاي، ونبعٌ مِنْ جذورِه يُثمرُ،",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ويخرجُ"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "قَضِيبٌ"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "مِنْ جِذعِ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "يِشاي"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "ونبعٌ"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "مِنْ جذورِه"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "يُثمرُ"
+    }
+  ],
+  "timestamp": "2026-08-07T05:52:29.332748967Z",
+  "model": "glm-5.2"
+}

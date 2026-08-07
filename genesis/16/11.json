@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 16:11",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وقال لها ملاك يهوه: ها أنتِ حامل وستلدين ابنًا، وتدعوين اسمه يِشماعيل، لأنّ يهوه قد سمع إلى مَذَلّتك.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ملاكُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "ها أنتِ"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "حامل"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "وستلدين"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنًا"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "وتدعوين"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمَه"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "يِشماعيل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سمع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עניך",
+      "gloss": "مَذَلّتك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:19.548891929Z",
+  "model": "glm-5.2"
+}

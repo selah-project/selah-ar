@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "إليك صرخوا فنَجَوا؛ بك اتّكلوا فلم يخزوا.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "صرخوا"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "فنَجَوا"
+    },
+    {
+      "surface": "בך",
+      "gloss": "بك"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "اتّكلوا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "يخزوا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:49.963311598Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "هذه ⟨هي⟩ الوصايا التي وصّى بها يهوه ⟨את⟩ موشيه لدى بني يِسراائيل في جبل سيناي.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "الوصايا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "وصّى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لدى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسراائيل"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "في جبل"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سيناي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:09.714138109Z",
+  "model": "glm-5.2"
+}

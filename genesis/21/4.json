@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وختَن أفراهام ⟨את⟩ يِصْحاق ابنه، ابن ثمانية أيّام، كما أوصاه ⟨את⟩ إلوهيم.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "وختَن"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يِصْحاق"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يِصْحاق"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "ثمانية"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨أَنْ⟩ ⟨את⟩",
+      "marks": "إلوهيم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:27.693596827Z",
+  "model": "glm-5.2"
+}

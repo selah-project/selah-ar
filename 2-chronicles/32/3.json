@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "فاتّخذ مشورةً مع وزرائه وأبطاله لسدّ مياه العيون التي خارج المدينة، فأعانوه.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "فاتّخذ مشورةً"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "وزرائه"
+    },
+    {
+      "surface": "וגבריו",
+      "gloss": "وأبطاله"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "لسدّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مياه"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "مياه"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "العيون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "خارج"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "فأعانوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:31:25.454854727Z",
+  "model": "glm-5.2"
+}

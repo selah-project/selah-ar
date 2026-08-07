@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "فأدرك لابان ⟨את⟩ يعقوف، أما يعقوف فضرب ⟨את⟩ خيمته في الجبل، ولابان ضرب ⟨את⟩ إخوته في جبل الجلعاد.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "فأدرك"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يعقوف"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "وأما يعقوف"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "ضرب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خيمته"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "خيمته"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "في الجبل"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "ولابان"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "ضرب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "إخوته"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "إخوته"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "في جبل"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "الجلعاد"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:05.079078339Z",
+  "model": "glm-5.2"
+}

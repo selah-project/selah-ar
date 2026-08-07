@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "لا تقل: ما الذي كان، ⟨حتى⟩ أنّ الأيّام الأولى كانت أفضل من هذه؟ لأنّك لا عن حكمة سألت عن هذا.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "تقل"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "أنّ الأيّام"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "الأولى"
+    },
+    {
+      "surface": "היו",
+      "gloss": "كانت"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "أفضل"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "من هذه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "عن حكمة"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "سألت"
+    },
+    {
+      "surface": "על",
+      "gloss": "عن"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:02.931612687Z",
+  "model": "glm-5.2"
+}

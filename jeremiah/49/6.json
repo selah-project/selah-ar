@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "وبعد ذلك أُعيد ⟨את⟩ سبي بني عمون، نُطْق يهوه.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "وبعد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "أُعيد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سبي"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "سبي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نُطْق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:50:34.799942998Z",
+  "model": "glm-5.2"
+}

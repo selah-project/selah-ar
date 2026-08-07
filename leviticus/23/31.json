@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 23:31",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "كلّ مَلَكَه لا تعملوا — فريضةُ دهرٍ لأجيالِكم في كلّ مساكنِكم.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "تعملوا"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "فريضةُ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "دهر"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "لأجيالِكم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلّ"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "مساكنِكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:26:55.398741911Z",
+  "model": "glm-5.2"
+}

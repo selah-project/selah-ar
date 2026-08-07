@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 36:24",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "اذكر أنّك تُعظِّم عمله، الذي رتّله الناس.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "اذكر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "תשגיא",
+      "gloss": "تُعظِّم"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "عمله"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "שררו",
+      "gloss": "رتّله"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "الناس"
+    }
+  ],
+  "timestamp": "2026-08-07T04:42:11.385918874Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "لأنكم قلتم: «أقام يهوه لنا نافيين (أنبياء) في بافِل»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنكم"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "قلتم"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "أقام"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "نافيين (أنبياء)"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "في بافِل"
+    }
+  ],
+  "timestamp": "2026-08-07T02:41:53.581261177Z",
+  "model": "glm-5.2"
+}

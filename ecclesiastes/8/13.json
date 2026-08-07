@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وخيرٌ لا يكون للراشع، ولا يطيل أيامًا كالظلّ، الذي ليس هو يره من أمام إلوهيم.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "وخيرٌ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "للراشع"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "يطيل"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيامًا"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "كالظلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "يره"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "من أمام"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:53:02.474332662Z",
+  "model": "glm-5.2"
+}

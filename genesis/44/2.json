@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 44:2",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "و⟨את⟩ كأسي، كأس الفضّة، تضع في فم وعاء الأصغر، و⟨את⟩ فضّة طعامه. ففعل كقول يوسف الذي قاله.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كأسي"
+    },
+    {
+      "surface": "גביעי",
+      "gloss": "كأسي"
+    },
+    {
+      "surface": "גביע",
+      "gloss": "كأس"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "الفضّة"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "تضع"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "في فم"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "وعاء"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "الأصغر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "فضّة طعامه"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضّة"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "طعامه"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ففعل"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "كقول"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "قاله"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:58.167880313Z",
+  "model": "glm-5.2"
+}

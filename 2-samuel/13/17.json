@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 13:17",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فدعا ⟨את⟩ فتاه خادمه وقال: «اطردوا الآن ⟨את⟩ هذه من عندي إلى الخارج، وأوصد الباب بعدها».",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "فدعا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فتاه"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "فتاه"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "خادمه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "اطردوا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هذه"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "من عندي"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "إلى الخارج"
+    },
+    {
+      "surface": "ונעל",
+      "gloss": "وأوصد"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "الباب"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "بعدها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:35:37.960753204Z",
+  "model": "glm-5.2"
+}

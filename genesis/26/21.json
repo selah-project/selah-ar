@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 26:21",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "وحفروا بئرًا أُخرى، وخاصموا أيضًا عليها، فدعا اسمها شِطنة.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "وحفروا"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "أُخرى"
+    },
+    {
+      "surface": "ויריבו",
+      "gloss": "وخاصموا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "عليها"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "فدعا"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اسمها"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "شِطنة"
+    }
+  ],
+  "timestamp": "2026-08-06T23:42:54.764552176Z",
+  "model": "glm-5.2"
+}

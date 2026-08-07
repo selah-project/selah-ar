@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 26:17",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "مُمْسِكٌ أُذُنَيْ كلبٍ — عابرٌ يتذامّ على خصومةٍ لا له",
+  "tokens": [
+    {
+      "surface": "מחזיק",
+      "gloss": "مُمْسِكٌ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "أُذُنَيْ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "كلبٍ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عابرٌ"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "يتذامّ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "خصومةٍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:28.980179923Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 34:4",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "حُكْمًا نَخْتار لأنفسنا، فنعرف بيننا ما هو الصالح.",
+  "tokens": [
+    {
+      "surface": "משפט",
+      "gloss": "حُكْمًا"
+    },
+    {
+      "surface": "נבחרה",
+      "gloss": "نختار"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لأنفسنا"
+    },
+    {
+      "surface": "נדעה",
+      "gloss": "فنعرف"
+    },
+    {
+      "surface": "בינינו",
+      "gloss": "بيننا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "الصالح"
+    }
+  ],
+  "timestamp": "2026-08-07T04:41:52.142657149Z",
+  "model": "glm-5.2"
+}

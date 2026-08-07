@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 68,
+  "translation": "جبلُ إلوهيم، جبلُ باشان؛ جبلُ قمم، جبلُ باشان.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "جبلُ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبلُ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "باشان"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبلُ"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "قمم"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبلُ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "باشان"
+    }
+  ],
+  "timestamp": "2026-08-07T03:58:07.086043108Z",
+  "model": "glm-5.2"
+}

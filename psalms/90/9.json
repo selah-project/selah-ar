@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 90,
+  "translation": "لأنّ كلّ أيّامنا ولّت في غضبك، أتممنا سنينانا كهَجْهٍ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "أيّامنا"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "ولّت"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "في غضبك"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "أتممنا"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "سنينانا"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "كـ"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "هَجْهٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:07:12.699276896Z",
+  "model": "glm-5.2"
+}

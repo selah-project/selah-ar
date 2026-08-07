@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "طَمَسَ الكسلانُ يدَهُ في القصعة، حتى إلى فِيهِ لا يُعيدها.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "طَمَس"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "الكسلان"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يدَهُ"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "في القصعة"
+    },
+    {
+      "surface": "גם",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "فِيهِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "يُعيدها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:07.638499745Z",
+  "model": "glm-5.2"
+}

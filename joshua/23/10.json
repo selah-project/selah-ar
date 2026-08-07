@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 23:10",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "رجلٌ واحدٌ منكم يطارد ألفًا، لأنّ يهوه إلوهيمَكم هو ⟨الذي⟩ يحارب عنكم، كما كلّمكم.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "منكم"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "يطارد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلوهيمكم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "⟨الذي⟩ يحارب"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "عنكم"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلّم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "كم"
+    }
+  ],
+  "timestamp": "2026-08-07T07:22:10.001701096Z",
+  "model": "glm-5.2"
+}

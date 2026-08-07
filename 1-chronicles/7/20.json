@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 7:20",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وبنو أَفْرايم: شوتلح، وبَرِد ابنُه، وتَحَت ابنُه، وإلْعاده ابنُه، وتحَت ابنُه.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "وبنو"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "أفرايم"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "شوتلح"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "وبرد"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "وتحت"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "ואלעדה",
+      "gloss": "وألعاده"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "وتحت"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:12:11.641523003Z",
+  "model": "glm-5.2"
+}

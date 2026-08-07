@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 33:14",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "ونفائس غلّات الشمس، ونفائس مدفوعات الأهلّة،",
+  "tokens": [
+    {
+      "surface": "וממגד",
+      "gloss": "ونفائس"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "غلّات"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "الشمس"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "ونفائس"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "مدفوعات"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "الأهلّة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:01:57.794474606Z",
+  "model": "glm-5.2"
+}

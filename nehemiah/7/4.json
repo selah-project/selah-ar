@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 7:4",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "والمدينة واسعة اليدَين وعظيمة، والشعب قليل في وسطها، ولا بيوت مبنية.",
+  "tokens": [
+    {
+      "surface": "והעיר",
+      "gloss": "والمدينة"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "واسعة"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "اليدَين"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "وعظيمة"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "والشعب"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "قليل"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "في وسطها"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "بيوت"
+    },
+    {
+      "surface": "בנוים",
+      "gloss": "مبنية"
+    }
+  ],
+  "timestamp": "2026-08-07T05:05:46.816620370Z",
+  "model": "glm-5.2"
+}

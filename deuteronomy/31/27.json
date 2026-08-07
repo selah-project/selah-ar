@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 31:27",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "لأني أنا عرفت ⟨את⟩ تمردك و⟨את⟩ قفاك الصلب — هانذا بعدُ حيّ معكم اليوم وكنتم متمردين مع يهوه، فكم بالأحرى بعد موتي!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأني"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "عرفت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمردك"
+    },
+    {
+      "surface": "מריך",
+      "gloss": "تمردك"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "قفاك"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "قفاك"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "الصلب"
+    },
+    {
+      "surface": "הן",
+      "gloss": "هانذا"
+    },
+    {
+      "surface": "בעודני",
+      "gloss": "بعدُ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "حيّ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "معكم"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "ממרים",
+      "gloss": "متمردين"
+    },
+    {
+      "surface": "היתם",
+      "gloss": "كنتم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "فكم بالأحرى"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨بعد⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "موتي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:01:12.950512886Z",
+  "model": "glm-5.2"
+}

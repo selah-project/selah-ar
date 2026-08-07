@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 21:20",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وفعل الشرّ في عيني يهوه، كما فعل منشّى أبوه.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وفعل"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عيني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعل"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشّى"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبوه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:01:16.168680679Z",
+  "model": "glm-5.2"
+}

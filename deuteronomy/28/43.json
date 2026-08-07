@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 28:43",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "الغريب الذي في وسطك يصعد عليك صعودًا فصعودًا، وأنت تنزل هبوطًا فهبوطًا",
+  "tokens": [
+    {
+      "surface": "הגר",
+      "gloss": "الغريب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "في وسطك"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "يصعد"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "عليك"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "صعودًا"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "فصعودًا"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "وأنت"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "تنزل"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "هبوطًا"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "فهبوطًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:43.920680452Z",
+  "model": "glm-5.2"
+}

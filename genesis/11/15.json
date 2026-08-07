@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وعاش شلاح بعد ولادته ⟨את⟩ عيبر ثلاث سنين وأربع مئة سنة، وولد بنين وبنات",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "وعاش"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شلاح"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ولادته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عيبر"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عيبر"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ثلاث"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنين"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "وأربع"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "وولد"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بنين"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "وبنات"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:08.887669262Z",
+  "model": "glm-5.2"
+}

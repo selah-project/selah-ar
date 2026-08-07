@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 14:19",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وباركه وقال: «مبارك أفرام لإيل عليون، قاني السماوات والأرض».",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "وباركه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "مبارك"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "أفرام"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "لإيل"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عليون"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "قاني"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "والأرض"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:22.521551178Z",
+  "model": "glm-5.2"
+}

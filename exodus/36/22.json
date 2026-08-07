@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 36:22",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "يدان للوح الواحد، مشبَكة إحداهما إلى الأخرى، هكذا صنع لكل ألواح المِشكان.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "يدان"
+    },
+    {
+      "surface": "ידת",
+      "gloss": "ـ"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "للوح"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "الواحد"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "مشبَكة"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "إحداهما"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "الأخرى"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنع"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لكل"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "ألواح"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "المِشكان"
+    }
+  ],
+  "timestamp": "2026-08-07T00:14:15.436386489Z",
+  "model": "glm-5.2"
+}

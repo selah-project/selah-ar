@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "ورجلٌ إذا ضربَ نَفْسَ إنسانٍ موتًا يُقتَل",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ورجلٌ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ضربَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْس"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موتًا"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "يُقتَل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:26:10.385323388Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "بَيْتُ الأَشْرَارِ يُخْرَبُ، وَخَيْمَةُ الْمُسْتَقِيمِينَ تُزْهِرُ.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الأشرار"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "يخرب"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "وخيمة"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "المستقيمين"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "تزهر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:24.718886315Z",
+  "model": "glm-5.2"
+}

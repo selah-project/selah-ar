@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 19:12",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "أين الآن حكماؤك؟ فليُخبروك الآن، وليعلَموا ماذا أشار يهوه صَباؤوت على مصرايم.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "أين"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "حكماؤك"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "فليُخبروا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ك"
+    },
+    {
+      "surface": "לך",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "وليعلَموا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "أشار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صَباؤوت"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:08:40.995272388Z",
+  "model": "glm-5.2"
+}

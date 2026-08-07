@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 12:11",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "فقال هارون لموشيه: أحلفك يا سيّدي، لا تضع علينا خطيئةً التي حمقنا فيها والتي أخطأناها.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "هارون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "בי",
+      "gloss": "أحلفك"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "يا سيّدي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "أرجوك"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "تضع"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "علينا"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "خطيئةً"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "נואלנו",
+      "gloss": "حمقنا"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "والتي"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "أخطأناها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:34:58.430146765Z",
+  "model": "glm-5.2"
+}

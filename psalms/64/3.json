@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 64,
+  "translation": "أخفِني من مجمع فاعلي الشّر، من هَيَجان عمّال الإثم،",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "أخفِني"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "من مجمع"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "فاعلي الشّر"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "من هياج"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "عمّال"
+    },
+    {
+      "surface": "און",
+      "gloss": "الإثم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:01.672295964Z",
+  "model": "glm-5.2"
+}

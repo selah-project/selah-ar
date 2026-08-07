@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 39:24",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "بهدير وهَيْجٍ يَبْتَلِعُ الأرض، ولا يَثِقُ بأنّه صوتُ شوفار.",
+  "tokens": [
+    {
+      "surface": "ברעש",
+      "gloss": "بهدير"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "وهَيْجٍ"
+    },
+    {
+      "surface": "יגמא",
+      "gloss": "يَبْتَلِعُ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "يَثِقُ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بأنّه"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوتُ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شوفار"
+    }
+  ],
+  "timestamp": "2026-08-07T04:43:36.032201130Z",
+  "model": "glm-5.2"
+}

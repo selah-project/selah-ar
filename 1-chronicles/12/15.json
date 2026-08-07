@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "هؤلاء ⟨هم⟩ من بني گاد، رؤوس الجيش: الصغير ⟨كان⟩ واحدًا لمئة، والكبير لألف.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "من بني"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "رؤوس"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "الجيش"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "لمئة"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "الصغير"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "والكبير"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "لألف"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:20.453209427Z",
+  "model": "glm-5.2"
+}

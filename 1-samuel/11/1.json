@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 11:1",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وصعد ناحاش ⟨الـ⟩عمّونيّ ونزل على يافيش گلعاد. وقال كلّ رجال يافيش لناحاش: اقطع لنا بريتًا ونعبدك.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "وصعد"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ناحاش"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "العمّونيّ"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "ونزل"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "يافيش"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گلعاد"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "يافيش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ناحاش"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "اقطع"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريتًا"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "ونعبدك"
+    }
+  ],
+  "timestamp": "2026-08-07T07:24:01.165734562Z",
+  "model": "glm-5.2"
+}

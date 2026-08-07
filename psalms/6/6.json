@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "لأنه ليس في الموت ذِكرُك؛ في شيول من يحمدك؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "במות",
+      "gloss": "في الموت"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "ذكرك"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "في شيول"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "يحمدك"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-07T03:40:24.390846947Z",
+  "model": "glm-5.2"
+}

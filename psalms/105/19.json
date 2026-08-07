@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 105,
+  "translation": "حتى وقت مجيء كلمته، قولَ يهوه صهره.",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "עֵ֥ת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "בֹּֽא",
+      "gloss": "مجيء"
+    },
+    {
+      "surface": "דְבָר֑וֹ",
+      "gloss": "كلمته"
+    },
+    {
+      "surface": "אִמְרַ֖ת",
+      "gloss": "قول"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צְרָפָֽתְהוּ",
+      "gloss": "صهره"
+    }
+  ],
+  "timestamp": "2026-08-07T04:08:57.559683698Z",
+  "model": "glm-5.2"
+}

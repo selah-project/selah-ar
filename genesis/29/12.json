@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 29:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وأخبر يعقوف راحيل بأنّه أخو أبيها، وبأنّه ابن رِفقة، فركضت وأخبرت أباها.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "وأخبر"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "راحيل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بأنّ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "أخو"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "أبيها"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "وبأنّ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "رِفقة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "فركضت"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "وأخبرت"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "أباها"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:34.921726828Z",
+  "model": "glm-5.2"
+}

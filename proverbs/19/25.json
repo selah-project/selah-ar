@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 19:25",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "اِضْرِبْ لِئيمًا فيُذْكي غافلًا، ووَبِّخْ فهيمًا فيَفْهَمْ معرفةً.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "لِئيمًا"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "اِضْرِبْ"
+    },
+    {
+      "surface": "ופתי",
+      "gloss": "وغافلًا"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "فيُذكى"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "ووبّخ"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "فهيمًا"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "فيَفهم"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "معرفةً"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:14.535589873Z",
+  "model": "glm-5.2"
+}

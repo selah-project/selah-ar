@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "لأنّه كصوت الشَّوك تحت القِدر، كذلك ضَحك الجاهل — وهذا أيضًا هابيل",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "كصوت"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "الشَّوك"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "القِدر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "كذلك"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "ضَحك"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "الجاهل"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "— وأيضًا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هابيل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:05.658203859Z",
+  "model": "glm-5.2"
+}

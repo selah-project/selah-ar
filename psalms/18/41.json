@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 18:41",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وأعدائي جعلتَ لي قفا، ومبغضيّ أبيدهم.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "وأعدائي"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "جعلتَ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "قفا"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "ومبغضيّ"
+    },
+    {
+      "surface": "אצמיתם",
+      "gloss": "أبيدهم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:39.112666572Z",
+  "model": "glm-5.2"
+}

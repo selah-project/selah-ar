@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 17:16",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وجاء الملك داويد وجلس أمام يهوه وقال: «من أنا يهوه إلوهيم ومن بيتي بأنكَ قد جئتَ بي إلى هنا؟»",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "وجلس"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "ביתي",
+      "gloss": "بيتي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بأنّ"
+    },
+    {
+      "surface": "הביאתני",
+      "gloss": "جئتَ بي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "هنا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:14.154377349Z",
+  "model": "glm-5.2"
+}

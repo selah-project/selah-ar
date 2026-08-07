@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فقال لشعبه: هوذا شعبُ بني يسرايل أكثرُ وأعزُّ منّا",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبه"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعبُ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "רב",
+      "gloss": "أكثرُ"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "وأعزُّ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منّا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:08.229655479Z",
+  "model": "glm-5.2"
+}

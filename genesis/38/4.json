@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "فحبلت أيضًا وولدت ابنًا، و⟨هي⟩ دعت ⟨את⟩ اسمَه أونان.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "فحبلت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "وولدت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنًا"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "و⟨هي⟩ دعت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسمَه"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمَه"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "أونان"
+    }
+  ],
+  "timestamp": "2026-08-07T05:35:12.459585048Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 17:19",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "يهوه، من أجل عبدك وحسب قلبك صنعت ⟨את⟩ كلّ هذه العظمة، لتُعرّف ⟨את⟩ كلّ العظائم.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "من أجل"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدك"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "وحسب قلبك"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "صنعت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "هذه العظمة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "להדיע",
+      "gloss": "لتُعرّف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "العظائم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:30.393581162Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "قولوا لإخوتكم: «عمّي»، ولأخواتكم: «رحُما».",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "قولوا"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "لإخوتكم"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "عمّي"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "ولأخواتكم"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "رحُما"
+    }
+  ],
+  "timestamp": "2026-08-07T03:20:19.472018584Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 66,
+  "translation": "هلمّوا اسمعوا، فأُخبرِكُم، جميعُ يتّقي إلوهيم، ما فعله لنفسي.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "هلمّوا"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "اسمعوا"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "فأُخبرِكُم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميع"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "يتّقي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعله"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "لنفسي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:47.645812426Z",
+  "model": "glm-5.2"
+}

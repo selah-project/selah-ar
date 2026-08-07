@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "يشقّ صخورًا في البريّة، ويسقيهم كتُهُموت ربّابة",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "يشقّ"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "صخور"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في البريّة"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ويسقيهم"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "كتُهُموت"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ربّابة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:23.356475123Z",
+  "model": "glm-5.2"
+}

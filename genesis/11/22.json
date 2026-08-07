@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨عاش⟩ سروج ثلاثين سنة، وولد ⟨את⟩ ناحور.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و⟨عاش⟩"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "سروج"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ثلاثين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "وولد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناحور"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحور"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:02.479968473Z",
+  "model": "glm-5.2"
+}

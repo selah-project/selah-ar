@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 6:26",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "ارتفاعُ الكَروڤ الواحد عشرُ ذراعًا، وكذلك الكَروڤ الثاني.",
+  "tokens": [
+    {
+      "surface": "קומת",
+      "gloss": "ارتفاع"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "الكَروڤ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "الواحد"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ذراع"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "وكذلك"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "الكَروڤ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "الثاني"
+    }
+  ],
+  "timestamp": "2026-08-07T01:44:27.120877828Z",
+  "model": "glm-5.2"
+}

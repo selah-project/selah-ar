@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 24:33",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "و⟨وُضع⟩ طعامٌ أمامه ليأكل، فقال: لا آكل حتى أُكلِّم كلامي. فقال: تكلَّم.",
+  "tokens": [
+    {
+      "surface": "ויישם",
+      "gloss": "و⟨وُضع⟩"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمامه"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ليأكل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "آكل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨إذا⟩"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "أُكلِّم"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلامي"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلَّم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:34:07.810002783Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 15:21",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وإذا كان فيه عيب، أعرج أو أعمى، كلّ عيب رديّ، فلا تذبحه ليهوه إلوهيمك.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "מום",
+      "gloss": "عيب"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "أعرج"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "עור",
+      "gloss": "أعمى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "عيب"
+    },
+    {
+      "surface": "רע",
+      "gloss": "رديّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תזבחנו",
+      "gloss": "تذبحه"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:37.082573948Z",
+  "model": "glm-5.2"
+}

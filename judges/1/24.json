@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 1:24",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فرأى المراقبون رجلاً يخرج من المدينة، فقالوا له: أرنا الآن ⟨את⟩ مدخل المدينة، فنصنع معك حِسِدًا.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "فرأى"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "المراقبون"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "يخرج"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقالوا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "הראנו",
+      "gloss": "أرنا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مدخل"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "مدخل"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "ועשינו",
+      "gloss": "فنصنع"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حِسِدًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:12:06.978337279Z",
+  "model": "glm-5.2"
+}

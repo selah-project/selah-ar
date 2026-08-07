@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 61:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 61,
+  "translation": "كذلك أُطرّب اسمك إلى الأبد، لأوفينذوري يومًا فيومًا.",
+  "tokens": [
+    {
+      "surface": "כֵּן",
+      "gloss": "كذلك"
+    },
+    {
+      "surface": "אֲזַמְּרָה",
+      "gloss": "أُطرّب"
+    },
+    {
+      "surface": "שִׁמְךָ",
+      "gloss": "اسمك"
+    },
+    {
+      "surface": "לָעַד",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "לְשַׁלְּמִי",
+      "gloss": "لأوفي"
+    },
+    {
+      "surface": "נְדָרַי",
+      "gloss": "نذوري"
+    },
+    {
+      "surface": "יוֹם",
+      "gloss": "يومًا"
+    },
+    {
+      "surface": "יוֹם",
+      "gloss": "فيومًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:55:46.937360503Z",
+  "model": "glm-5.2"
+}

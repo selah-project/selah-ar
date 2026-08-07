@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 68,
+  "translation": "إلوهيم، في خروجك أمام شعبك، في خُطاك في يَشيمون، سيلاه.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "في خروجك"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "شعبك"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "في خُطاك"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "في يَشيمون"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سيلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:52.246387217Z",
+  "model": "glm-5.2"
+}

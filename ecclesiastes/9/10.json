@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "كلّ ما تجده يدُك لفعله بقدرتك ⟨فافعله⟩، لأنه لا عمل ولا حساب ولا معرفة ولا حكمة في شيول الذي أنت ذاهبٌ إليه.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "تجده"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدُك"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "لفعله"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "بقدرتك"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨فافعله⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "ولا حساب"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ولا معرفة"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "ولا حكمة"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "في شيول"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ذاهبٌ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "إليه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:53:20.337847588Z",
+  "model": "glm-5.2"
+}

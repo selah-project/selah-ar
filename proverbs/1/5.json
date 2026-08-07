@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ليسمعْ حكيمٌ فيزدادُ لَقَحًا، وذو فِطنةٍ يتقلَّدْ تَحْبُولاتٍ.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "ليسمعْ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حكيمٌ"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "فيزدادُ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "لَقَحًا"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "وذو فِطنةٍ"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "تَحْبُولاتٍ"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "يتقلَّدْ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:19:43.138709904Z",
+  "model": "glm-5.2"
+}

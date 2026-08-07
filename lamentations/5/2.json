@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "ميراثُنا انقلبَ لِغُرباء، بيوتُنا لِنُكراء.",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "ميراثُنا"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "انقلبَ"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "لِغُرباء"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "بيوتُنا"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "لِنُكراء"
+    }
+  ],
+  "timestamp": "2026-08-07T04:50:27.299041438Z",
+  "model": "glm-5.2"
+}

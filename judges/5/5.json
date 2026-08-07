@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "الجبال ذابت من أمام يهوه، هذا سيناي، من أمام يهوه إلوهيم يِسراإيل.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "الجبال"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "ذابت"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سيناي"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسراإيل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:13:45.719010069Z",
+  "model": "glm-5.2"
+}

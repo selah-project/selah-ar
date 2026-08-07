@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "و⟨كان⟩ في نهاية أيامٍ أنّ قاين قدّم من ثمرة الأَداماه تقدمةً ليهوه.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "في نهاية"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيامٍ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "فقدّم"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قاين"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "من ثمرة"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "الأَداماه"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "تقدمةً"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:41.669066686Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فدعا عيلي ⟨את⟩ شموئيل وقال: «شموئيل، يا بَني». فقال: «ها أنا».",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "فدعا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عيلي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شموئيل"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "يا بَني"
+    },
+    {
+      "surface": "ויאمר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ها أنا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:21:51.657890500Z",
+  "model": "glm-5.2"
+}

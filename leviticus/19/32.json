@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 19:32",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "مِن أمام الشَّيبة تَقوم، وأَجَلَّتَ وجهَ الشَّيخ، وخِفتَ إلوهيمَك. أنا يهوه.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "مِن أمام"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "الشَّيبة"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "تَقوم"
+    },
+    {
+      "surface": "והדרת",
+      "gloss": "وأَجَلَّتَ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهَ"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "الشَّيخ"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "وخِفتَ"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "إلوهيمَك"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:00.784998196Z",
+  "model": "glm-5.2"
+}

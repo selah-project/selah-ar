@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "وجلود كباش مُحمَرّة، وجلود تخاشيم، وخشب شطّيم.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "وجلود"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "كباش"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "مُحمَرّة"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "وجلود"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "تخاشيم"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "وخشب"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شطّيم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:59.539724390Z",
+  "model": "glm-5.2"
+}

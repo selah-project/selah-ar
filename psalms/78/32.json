@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "في كلّ هذا أخطأوا بعدُ، ولم يُؤمنوا في عجائبه.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "في كلّ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "أخطأوا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعدُ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "يُؤمنوا"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "في عجائبه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:52.838305377Z",
+  "model": "glm-5.2"
+}

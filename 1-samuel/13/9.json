@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 13:9",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فقال شاؤول: «قرّبوا إليّ العولاه والشلاميم.» وأصعد العولاه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "הגשו",
+      "gloss": "قرّبوا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "العولاه"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "والشلاميم"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "وأصعد"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "العولاه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:23:12.787190770Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 15:6",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "لأبناء مراري: عسايا ⟨الرئيس⟩ وإخوته مئتان وعشرون.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "لأبناء"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراري"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "عسايا"
+    },
+    {
+      "surface": "השר",
+      "gloss": "الرئيس"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "وإخوته"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "مئتان"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "وعشرون"
+    }
+  ],
+  "timestamp": "2026-08-07T05:14:58.530440454Z",
+  "model": "glm-5.2"
+}

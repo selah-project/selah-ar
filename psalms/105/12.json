@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 105,
+  "translation": "إذ كانوا أنفسًا بعدد، قليلين، وغرباء فيها",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "إذ كانوا"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "أنفسًا"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "بعدد"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "قليلين"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "وغرباء"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:08:47.291419009Z",
+  "model": "glm-5.2"
+}

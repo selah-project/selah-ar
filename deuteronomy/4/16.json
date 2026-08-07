@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 4:16",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "حَذارِ أن تُفسِدوا، فتَعمَلوا لكم صنمًا، تمونة كلِّ سَمَل، تبنيت ذَكَر أو أُنثى.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "حَذارِ أن"
+    },
+    {
+      "surface": "תשחתון",
+      "gloss": "تُفسِدوا"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "فتَعمَلوا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "صنمًا"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "تمونة"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "סמל",
+      "gloss": "سَمَل"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "تبنيت"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ذَكَر"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "أُنثى"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:11.679403416Z",
+  "model": "glm-5.2"
+}

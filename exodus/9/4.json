@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 9:4",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "ويُفصِلُ يهوه بين ماشية يسرائيل وماشية مصرايم، فلا يموت من كلِّ ما لبَني يسرائيل شيء.»",
+  "tokens": [
+    {
+      "surface": "והפלה",
+      "gloss": "ويُفصِلُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ماشية"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ماشية"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "يموت"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كلِّ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لبَني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شيء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:44.708149769Z",
+  "model": "glm-5.2"
+}

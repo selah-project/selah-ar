@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 13:32",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "هذه التي أورَثَها موشيه في عرَبوت موآب، عبرَ الأردنّ أُخرى يريحو شرقًا.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "أورَثَها"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "في عرَبوت"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "عبرَ"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "الأردنّ"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "يريحو"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "شرقًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:06:08.067546668Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وأختُه هامُولِخِت ولَدت ⟨את⟩ إيشود و⟨את⟩ أَبِيعَزِر و⟨את⟩ مَحْلاه.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "وأخته"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "هامولخيت"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ولدت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "إيشود"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "إيشود"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أبيعزر"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "أبيعزر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "محلاه"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "محلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:12:11.641297451Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 27:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "و⟨كان⟩ لمّا شاخ يتسحاق وكلّحت عيناه عن الرؤية، دعا ⟨את⟩ عيسو ابنه الكبير وقال له: «يا ابني». فقال له: «ها أنا».",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لمّا"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "شاخ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يتسحاق"
+    },
+    {
+      "surface": "ותכהין",
+      "gloss": "وكلّحت"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "عيناه"
+    },
+    {
+      "surface": "מראת",
+      "gloss": "عن الرؤية"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "دعا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عيسو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "الكبير"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "בני",
+      "gloss": "يا ابني"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ها أنا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:43:03.778631551Z",
+  "model": "glm-5.2"
+}

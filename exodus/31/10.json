@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "و⟨את⟩ ثياب النَّسْج و⟨את⟩ ثياب القُدس لأهارون الكوهين و⟨את⟩ ثياب بنيه للكَهَنة،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ثياب"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ثياب"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "النَّسْج"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ثياب"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ثياب"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "القُدس"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "لأهارون"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ثياب"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ثياب"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "بنيه"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "للكَهَنة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:09:30.149411830Z",
+  "model": "glm-5.2"
+}

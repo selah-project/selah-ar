@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "فإنّه من صوت يهوه يُحطَّم أَشُّور، بالعصا يضرب.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "فإنّه"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "من صوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "يُحطَّم"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "أَشُّور"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "بالعصا"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "يضرب"
+    }
+  ],
+  "timestamp": "2026-08-07T02:13:06.611394341Z",
+  "model": "glm-5.2"
+}

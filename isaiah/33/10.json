@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "الآنَ أقومُ، يقولُ يهوه؛ الآنَ أترفّعُ؛ الآنَ أرتفعُ.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "الآنَ"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "أقومُ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "يقولُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "الآنَ"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "أترفّعُ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "الآنَ"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "أرتفعُ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:13:07.716999291Z",
+  "model": "glm-5.2"
+}

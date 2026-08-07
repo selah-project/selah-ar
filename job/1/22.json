@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 1:22",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "في كلّ هذا لم يُخطئ أيّوف، ولم يَنسب ⟨شيئًا⟩ تَفاهةً لإلوهيم.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "في كلّ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "يُخطئ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "أيّوف"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "يَنسب"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "تَفاهةً"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "لإلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:31:12.332302611Z",
+  "model": "glm-5.2"
+}

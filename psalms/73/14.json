@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 73,
+  "translation": "وكنتُ منكوبًا كلَّ النهار، وتوبيختُ كلَّ صباح.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "وكنتُ"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "منكوبًا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "النهار"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "وتوبيختُ"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "كلَّ صباح"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:17.002168461Z",
+  "model": "glm-5.2"
+}

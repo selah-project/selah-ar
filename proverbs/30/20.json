@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 30:20",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "هكذا طريقُ امرأةٍ زانٍ: أكلت ومسحت فاها وقالت: «لم أُحدِثْ شرًّا».",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "طريقُ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "מנאפת",
+      "gloss": "زانية"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "أكلت"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "ومسحت"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "فاها"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "وقالت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "أُحدِث"
+    },
+    {
+      "surface": "און",
+      "gloss": "شرًّا"
+    }
+  ],
+  "timestamp": "2026-08-07T06:09:20.514410791Z",
+  "model": "glm-5.2"
+}

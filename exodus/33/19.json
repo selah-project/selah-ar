@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 33:19",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "وقال: أنا أُعبر كلّ طوبي على وجهك، وأنادي باسم يهوه أمامك. وأنا أُنعم ⟨את⟩ على من أُنعم عليه، وأرحم ⟨את⟩ من أرحم.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אעביר",
+      "gloss": "أُعبر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "טובי",
+      "gloss": "طوبي"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهك"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "وأنادي"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "باسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "أمامك"
+    },
+    {
+      "surface": "וחנתי",
+      "gloss": "وأُنعم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الذي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אחן",
+      "gloss": "أُنعم عليه"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "وأرحم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الذي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "أرحم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:37:48.885713543Z",
+  "model": "glm-5.2"
+}

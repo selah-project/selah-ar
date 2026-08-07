@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وكلّ بهيمة شقوق ظلفًا وفاصعة فصًّا اثنتينِ شقوقًا مُجَ بهيمًا — ⟨את⟩ها تأكلون",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "بهيمة"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "شقوق"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "ظلفًا"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "وفاصعة"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "فصًّا"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "اثنتينِ"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "شقوقًا"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "مُجَ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "←«الجِرَّة»"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "بهيمًا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "«إيّاها»"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تأكلون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:46.590206899Z",
+  "model": "glm-5.2"
+}

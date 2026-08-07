@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "الآمر للشمس فلا تُشرق، وعن الكواكب يختم",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "الآمر"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "للشمس"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "تُشرق"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "وعن"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "الكواكب"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "يختم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:29.989755371Z",
+  "model": "glm-5.2"
+}

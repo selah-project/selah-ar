@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وقدّم ⟨את⟩ ثور الخطيئة، فأسند أهارون وبنوه ⟨את⟩ أيديهم على رأس ثور الخطيئة.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "وقدّم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ثور"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ثور"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "الخطيئة"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "فأسند"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "وبنوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أيديهم"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "أيديهم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأس"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ثور"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "الخطيئة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:55.608469086Z",
+  "model": "glm-5.2"
+}

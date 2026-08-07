@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "فأخذوا ⟨את⟩ قميص يوسف وذبحوا تيسًا من المعز وغمسوا ⟨את⟩ القميص في الدم",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "فأخذوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قميص يوسف"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "قميص"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "وذبحوا"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "تيس"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "من المعز"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "وغمسوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "القميص"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "القميص"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "في الدم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:55.980480102Z",
+  "model": "glm-5.2"
+}

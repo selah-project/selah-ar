@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 109:26",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 109,
+  "translation": "أعنّي يا يهوه إلهي، خلّصني كحِسِدك.",
+  "tokens": [
+    {
+      "surface": "עזרני",
+      "gloss": "أعنّي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلهي"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "خلّصني"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "كحِسِدك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:09.221029559Z",
+  "model": "glm-5.2"
+}

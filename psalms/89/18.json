@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "لأنَّكَ ⟨أنتَ⟩ زينةُ قوّتهم، وبرضاكَ ترفعُ قرنَنا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "زينةُ"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "قوّتهم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "وبرضاكَ"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "ترفعُ"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "قرنَنا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:24.239672937Z",
+  "model": "glm-5.2"
+}

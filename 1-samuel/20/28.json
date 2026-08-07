@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 20:28",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "فأجاب يهوناتان ⟨את⟩ شاؤول: «سأل داود سؤالاً من عندي إلى بيت لحم».",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "فأجاب"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يهوناتان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شاؤول"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "سأل"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "سؤالاً"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "מעמדי",
+      "gloss": "من عندي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:28:12.737084704Z",
+  "model": "glm-5.2"
+}

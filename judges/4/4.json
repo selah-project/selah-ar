@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 4:4",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "ودبورة، امرأة نافية، زوجة لفيدوت، هي كانت تحاكم ⟨את⟩ يسرايل في ذلك الوقت.",
+  "tokens": [
+    {
+      "surface": "ודבורה",
+      "gloss": "ودبورة"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "נביאה",
+      "gloss": "نافية"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "زوجة"
+    },
+    {
+      "surface": "לפידות",
+      "gloss": "لفيدوت"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "كانت تحاكم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرايل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "في وقت"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ذلك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:14:07.621407198Z",
+  "model": "glm-5.2"
+}

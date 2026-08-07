@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "أَفْتَحُ بِمَثَلٍ فمي، أَفِيضُ ألغازاً مِنْ قَدِيم.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "أَفْتَحُ"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "بِمَثَلٍ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فمي"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "أَفِيضُ"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "ألغازاً"
+    },
+    {
+      "surface": "מני",
+      "gloss": "مِنْ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "قَدِيم"
+    }
+  ],
+  "timestamp": "2026-08-07T06:05:39.990519818Z",
+  "model": "glm-5.2"
+}

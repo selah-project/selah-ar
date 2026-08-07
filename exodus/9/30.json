@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وأمّا أنت وعبيدك فقد عرفتُ أنّكم لم تخشوا بعد من وجه يهوه إلوهيم.»",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "وأمّا أنت"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "وعبيدك"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "عرفتُ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "لم… بعد"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "تخشوا"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:31.350710992Z",
+  "model": "glm-5.2"
+}

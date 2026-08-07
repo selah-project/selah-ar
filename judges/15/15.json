@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 15:15",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "فوجد لحيَّ حمار طريّة، فمدّ يده وأخذها وضرب بها ألف رجل.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "فوجد"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "لحيَّ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "حمار"
+    },
+    {
+      "surface": "טריה",
+      "gloss": "طريّة"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "فمدّ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "وأخذها"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "وضرب"
+    },
+    {
+      "surface": "בה",
+      "gloss": "بها"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:17:59.295236446Z",
+  "model": "glm-5.2"
+}

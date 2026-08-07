@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 140,
+  "translation": "قلتُ ليهوه: إيلي أنتَ. أصيخي يا يهوه لصوت تَحَنّني.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "قلتُ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إيلي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "أصيخي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "קול",
+      "gloss": "لصوت"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "تَحَنّني"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:21.179802076Z",
+  "model": "glm-5.2"
+}

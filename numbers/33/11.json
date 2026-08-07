@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 33:11",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "وَرَحَلوا مِن بحرِ القَصَب وَنَزَلوا في مَدبَرَة سين",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ورحلوا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "من بحر"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "القصب"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ونزلوا"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في مدبرة"
+    },
+    {
+      "surface": "סין",
+      "gloss": "سين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:35.343755963Z",
+  "model": "glm-5.2"
+}

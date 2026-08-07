@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 88,
+  "ref": "psalms 119:88",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "كحِسِدِكَ أَحيِني، فأحرُسَنَّ شهادة فِيكَ.",
+  "tokens": [
+    {
+      "surface": "כחסדך",
+      "gloss": "كحِسِدِكَ"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "أَحيِني"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "فأحرُسَنَّ"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "شهادة"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "فِيكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:22.267556178Z",
+  "model": "glm-5.2"
+}

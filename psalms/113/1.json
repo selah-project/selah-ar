@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 113,
+  "translation": "هلِّلوا ياه، هلِّلوا يا عبيد يهوه، هلِّلوا ⟨את⟩ اسم يهوه",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "هلِّلوا"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "هلِّلوا"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "يا عبيد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "هلِّلوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:39.860806340Z",
+  "model": "glm-5.2"
+}

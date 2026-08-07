@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وحمّمتكِ بالماء، وغسلتُ دماءكِ عنكِ، ودهنتكِ بالزيت.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "وحمّمتكِ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "بالماء"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "وغسلتُ"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "دماءكِ"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "عنكِ"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "ودهنتكِ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "بالزيت"
+    }
+  ],
+  "timestamp": "2026-08-07T02:59:45.925319520Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "و⟨كان⟩ عندما يرفع موشه يده يغلب يسرايل، وعندما يُريح يده يغلب عماليق.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "عندما"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "يرفع"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "يغلب"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "وعندما"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "يُريح"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "يغلب"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عماليق"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:12.220768925Z",
+  "model": "glm-5.2"
+}

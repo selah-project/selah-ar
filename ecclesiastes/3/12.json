@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "عرفتُ أنه ليس فيهم خيرٌ، إلا أن يفرحوا وأن يصنعوا الخيرَ في حياته.",
+  "tokens": [
+    {
+      "surface": "יָדַ֕עְתִּי",
+      "gloss": "عرفتُ"
+    },
+    {
+      "surface": "כִּ֛י",
+      "gloss": "أن"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "ט֖וֹב",
+      "gloss": "خير"
+    },
+    {
+      "surface": "בָּ֑ם",
+      "gloss": "فيهم"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "⟨إلا⟩"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "⟨أن⟩"
+    },
+    {
+      "surface": "לִשְׂמ֔וֹחַ",
+      "gloss": "يفرحوا"
+    },
+    {
+      "surface": "וְלַעֲשׂ֥וֹת",
+      "gloss": "وأن يصنعوا"
+    },
+    {
+      "surface": "ט֖וֹב",
+      "gloss": "الخير"
+    },
+    {
+      "surface": "בְּחַיָּֽיו",
+      "gloss": "في حياته"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:04.025163329Z",
+  "model": "glm-5.2"
+}

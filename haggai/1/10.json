@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "haggai 1:10",
+  "book": "haggai",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "لذلك من جهتكم حبستِ السماواتُ الندى، والأرضُ حبستْ غلّتها.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "من جهتكم"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "حبست"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "الندى"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "والأرض"
+    },
+    {
+      "surface": "כלאה",
+      "gloss": "حبست"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "غلّتها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:34:25.537328170Z",
+  "model": "glm-5.2"
+}

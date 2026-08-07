@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 99:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 99,
+  "translation": "ارفعوا يهوه إلوهيمنا واسجدوا لموطئ قدميه، قُدّوس ⟨هو⟩",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "ارفعوا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلوهيمنا"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "واسجدوا"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "لموطئ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "قدميه"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "قُدّوس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:38.486298902Z",
+  "model": "glm-5.2"
+}

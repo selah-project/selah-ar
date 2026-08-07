@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "للمُنْتِهِي مزامير لِداوِد",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "للمُنْتِهِي"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزامير"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِداوِد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:42:35.564293802Z",
+  "model": "glm-5.2"
+}

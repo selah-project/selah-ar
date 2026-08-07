@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 35:32",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "ولا تأخذوا فِديةً للهاربِ إلى مدينةِ ملجئِهِ ليعودَ ليسكنَ في الأرضِ إلى موتِ الكوهين.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "تأخذوا"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "فدية"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "للهارب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "ملجئه"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ليعود"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ليسكن"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:45:14.648567908Z",
+  "model": "glm-5.2"
+}

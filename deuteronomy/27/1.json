@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "ووصّى موشيه و⟨شيوخُ⟩ يسرايل ⟨את⟩ الشعب قائلين: احفظوا ⟨את⟩ كل الوصية التي أنا أوصيكم بها اليوم.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ووصّى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "وشيوخُ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "احفظوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "الوصية"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "أوصيكم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "بها"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:21.637352507Z",
+  "model": "glm-5.2"
+}

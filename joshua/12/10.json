@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "مَلِك يروشالايم واحدًا؛ مَلِك حبرون واحدًا.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "مَلِك"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلِك"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حبرون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:05:57.625468857Z",
+  "model": "glm-5.2"
+}

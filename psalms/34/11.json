@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "الأشباء افتقرت وجاعت، وطلباء يهوه لا يُعوَزهم كلُّ خير.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "الأشباء"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "افتقرت"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "وجاعت"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "وطلباء"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "يُعوَزهم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خير"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:16.291618228Z",
+  "model": "glm-5.2"
+}

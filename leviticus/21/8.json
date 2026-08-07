@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وتُقدِّسونه، لأنَّ ⟨את⟩ طعام إلوهيمك هو يُقرِّب. قُدسًا يكون لك، لأنَّ قُدوسًا أنا يهوه مُقدِّسُكم.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "وتُقدِّسونه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "طعام"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "طعام"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "يُقرِّب"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قُدسًا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "قُدوسًا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "مُقدِّسُكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:22.708143454Z",
+  "model": "glm-5.2"
+}

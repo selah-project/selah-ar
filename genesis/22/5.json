@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 22:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وقال أفراهام لفتيانه: اِجلِسوا هنا مع الحمار، وأمّا أنا والفتى فنمضي حتّى هناك، ونسجد ونعود إليكم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "فتيانه"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "اِجلِسوا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨لكم⟩"
+    },
+    {
+      "surface": "פה",
+      "gloss": "هنا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "الحمار"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "وأمّا أنا"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "والفتى"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "فنمضي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتّى"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "ונשתחוה",
+      "gloss": "ونسجد"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "ونعود"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "إليكم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:29.350318306Z",
+  "model": "glm-5.2"
+}

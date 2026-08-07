@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 144,
+  "translation": "يهوه، أَطْنِ שمايك و⟨تنزل⟩، المس الجبال ف⟨تُدخّنها⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הט",
+      "gloss": "أَطْنِ"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "سماءك"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "و⟨تنزل⟩"
+    },
+    {
+      "surface": "גע",
+      "gloss": "المس"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "الجبال"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "ف⟨تُدخّنها⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T08:13:09.104731670Z",
+  "model": "glm-5.2"
+}

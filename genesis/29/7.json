@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 29:7",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "فقال: ها اليوم لا يزال كبيرًا، ليس وقت جمع الماشية. اسقوا القطيع واذهبوا وارعوه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ها"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "لا يزال"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "كبيرًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "جمع"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "الماشية"
+    },
+    {
+      "surface": "השקו",
+      "gloss": "اسقوا"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "القطيع"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "واذهبوا"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "وارعوه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:32.965781337Z",
+  "model": "glm-5.2"
+}

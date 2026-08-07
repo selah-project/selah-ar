@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وكان يهوه ⟨مع⟩ يهوشُع، وصارت سمعته في كلّ الأرض.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨مع⟩",
+      "marks": "يهوشُع"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشُع"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وصارت"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سمعته"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T01:04:07.274292793Z",
+  "model": "glm-5.2"
+}

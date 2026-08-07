@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 95,
+  "translation": "الذي له البحر وهو صنعه، واليابسة يداه صيّرتاها.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "صنعه"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "واليابسة"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "يداه"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "صيّرتاها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:03.731584390Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "ومن زرعك لا تعطِ لإِعبارٍ للَّمولِك، ولا تُدنِّس ⟨את⟩ اسم إلوهيمك. أنا يهوه.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "ومن زرعك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "تعطِ"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "لإِعبارٍ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "للَّمولِك"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "تُدنِّس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:53.878732488Z",
+  "model": "glm-5.2"
+}

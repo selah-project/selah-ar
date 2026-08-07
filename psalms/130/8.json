@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 130,
+  "translation": "وهو يفدي ⟨את⟩ يِسراائيل من كلّ ذنوبه.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "يفدي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يِسراائيل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسراائيل"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كلّ"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "ذنوبه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:15:58.440481893Z",
+  "model": "glm-5.2"
+}

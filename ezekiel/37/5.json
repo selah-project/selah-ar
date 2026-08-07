@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 37:5",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "«كذا قالَ أدوناي يهوه لهذه العِظام: ها أنا أُدخِلُ فيكم روَحًا فتحيَون».",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "كذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قالَ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לעצמות",
+      "gloss": "لهذه العِظام"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "أُدخِلُ"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "فيكم"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روَحًا"
+    },
+    {
+      "surface": "וחייתם",
+      "gloss": "فتحيَون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:11:31.154546103Z",
+  "model": "glm-5.2"
+}

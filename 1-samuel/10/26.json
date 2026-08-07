@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 10:26",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وأمّا شاؤول فمضى إلى بيته، جِبعةً. ومضى معه الجيشُ الذي مسَّه إلوهيم في قلبه.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "وأمّا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "فمضى"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "إلى بيته"
+    },
+    {
+      "surface": "גבעתה",
+      "gloss": "جِبعةً"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ومضى"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "الجيشُ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "مسَّه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "في قلبه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:23:40.797969816Z",
+  "model": "glm-5.2"
+}

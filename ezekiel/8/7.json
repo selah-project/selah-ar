@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "فأدخلني إلى فتحة الدار، فنظرت، وإذا ثقب واحد في الحائط.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "فأدخل"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "فتحة"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "الدار"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "فنظرت"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "חר",
+      "gloss": "ثقب"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "في الحائط"
+    }
+  ],
+  "timestamp": "2026-08-07T02:56:34.261316299Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فأنكرت سارة قائلة: لم أضحك، لأنها خافت. فقال: لا، بل أنتِ ضحِكتِ.",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "فأنكرت"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارة"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "أضحك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنها"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "خافت"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بل"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "ضحِكتِ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:42:18.473465787Z",
+  "model": "glm-5.2"
+}

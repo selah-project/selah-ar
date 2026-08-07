@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 106,
+  "translation": "فتحتِ الأرضُ وبلعتْ داتان، وسترتْ على جماعةِ أَڤيرام.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "فتحت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "وبلعت"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "داتان"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "وسترتْ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعة"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "أَڤيرام"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:11.727880792Z",
+  "model": "glm-5.2"
+}

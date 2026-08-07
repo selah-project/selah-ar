@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 13:13",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وأنا، أنّى أُذهبُ ⟨את⟩ عاري، وأنت تكون كأحد الأغبياء في يسرايل؟ والآن كلّم نا الملك، فإنه لا يمنعني منك",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "أنّى"
+    },
+    {
+      "surface": "אוליך",
+      "gloss": "أُذهبُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عاري"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "عاري"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "وأنت"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "كأحد"
+    },
+    {
+      "surface": "הנבלים",
+      "gloss": "الأغبياء"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "في يسرايل"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلّم"
+    },
+    {
+      "surface": "נא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "فإنّه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ימנעני",
+      "gloss": "يمنعني"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "منك"
+    }
+  ],
+  "timestamp": "2026-08-07T07:27:51.225319089Z",
+  "model": "glm-5.2"
+}

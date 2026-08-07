@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "فتحفظ ⟨את⟩ الوصية و⟨את⟩ الفرائض و⟨את⟩ الأحكام التي أنا أوصيك بها اليوم لتعملها",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "فتحفظ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الوصية"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "الوصية"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الفرائض"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "الفرائض"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الأحكام"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "الأحكام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "أوصيك"
+    },
+    {
+      "surface": "היום",
+      "gloss": "بها اليوم"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "لتعملها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:53:47.532170197Z",
+  "model": "glm-5.2"
+}

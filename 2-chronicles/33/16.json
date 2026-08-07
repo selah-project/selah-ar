@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 33:16",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "وأقام ⟨את⟩ مذبح يهوه، وذبح عليه ذبائح سلامٍ وشكر، وقال ليهودا أن يخدموا ⟨את⟩ يهوه إلهَ يِسرائيل.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "وأقام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مذبح يهوه"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "وذبح"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ذبائح"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "سلام"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "وشكر"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ليهودا"
+    },
+    {
+      "surface": "לעבוד",
+      "gloss": "أن يخدموا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلهَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:31:45.412057430Z",
+  "model": "glm-5.2"
+}

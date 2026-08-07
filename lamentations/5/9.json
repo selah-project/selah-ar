@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "بِنَفْسِنا نُشْرِعُ خُبْزَنا من وجهِ سيفِ البرّيّة.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "بِنَفْسِنا"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نُشْرِع"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "خُبْزَنا"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجهِ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "سيفِ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "البرّيّة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:50:34.696325461Z",
+  "model": "glm-5.2"
+}

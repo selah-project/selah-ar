@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 35:7",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "إن برَرتَ، ماذا تُعطي ⟨له⟩؟ أو ماذا من يدك يأخذ؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "برَرتَ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "تُعطي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "من يدك"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "يأخذ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:42:27.708304878Z",
+  "model": "glm-5.2"
+}

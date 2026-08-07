@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وإن كان قُربانُكَ مِنْحاةً ⟨على⟩ الصاج، فلْتكنْ سُوَيقةٌ مَزْجوَلةٌ بالزيتِ — مَصّةً ⟨هي⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "مِنْحاة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "الصاج"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "قُربانك"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "سُوَيقة"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "مَزْجوَلة"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "بالزيت"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "مَصّة"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "لتكن"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:19.376786792Z",
+  "model": "glm-5.2"
+}

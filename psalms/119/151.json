@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "قريبٌ ⟨أنت⟩ يا يهوه، وكلّ وصاياك إمِت",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "قريبٌ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨أنت⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "وصاياك"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "إمِت"
+    }
+  ],
+  "timestamp": "2026-08-07T04:13:04.850963709Z",
+  "model": "glm-5.2"
+}

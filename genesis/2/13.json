@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "واسم النهر الثاني گيحون، هو المحيط ⟨את⟩ كل أرض كوش",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "واسم"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "النهر"
+    },
+    {
+      "surface": "השני",
+      "gloss": "الثاني"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "گيحون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "المحيط"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل أرض كوش"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "كوش"
+    }
+  ],
+  "timestamp": "2026-08-06T23:36:57.102296286Z",
+  "model": "glm-5.2"
+}

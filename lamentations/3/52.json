@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "صيدًا صادوني كالطائر، أعدائي بلا سبب",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "صيدًا"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "صادوني"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "كالطائر"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "أعدائي"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بلا سبب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:48:37.897270520Z",
+  "model": "glm-5.2"
+}

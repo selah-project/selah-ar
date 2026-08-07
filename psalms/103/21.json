@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 103,
+  "translation": "بارِكوا يهوه، كلَّ جنوده، خُدَّمُه، فاعلي رضاه.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "بارِكوا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "جنوده"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "خُدَّمُه"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "فاعلي"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "رضاه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:36.298758750Z",
+  "model": "glm-5.2"
+}

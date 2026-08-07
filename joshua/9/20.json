@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "«هذا نفعل لهم ونُحييهم ⟨את⟩، فلا يكون علينا سخط بسبب القسم الذي حلَفناه لهم».",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "نفعل"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "והחיה",
+      "gloss": "ونُحييهم"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "هم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "علينا"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "سخط"
+    },
+    {
+      "surface": "על",
+      "gloss": "بسبب"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "القسم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "حلَفناه"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:04:25.077545378Z",
+  "model": "glm-5.2"
+}

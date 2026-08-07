@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 14:23",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "إنَّ من خيطٍ إلى سيورِ نعل، وإن آخذُ من كلِّ ما لك، فلا تقول: أنا أغنيتُ ⟨את⟩ أفرام.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إنَّ"
+    },
+    {
+      "surface": "מחוט",
+      "gloss": "من خيطٍ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "سيورِ"
+    },
+    {
+      "surface": "נעל",
+      "gloss": "نعلٍ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "آخذُ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كلِّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "تقول"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "העשרתי",
+      "gloss": "أغنيتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أفرام"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "أفرام"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:37.235844796Z",
+  "model": "glm-5.2"
+}

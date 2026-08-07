@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 1:21",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "في رأس الضجيج تنادي، في فتحات الأبواب، في المدينة، تقول أقوالها،",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "في رأس"
+    },
+    {
+      "surface": "המיות",
+      "gloss": "الضجيج"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "تنادي"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "في فتحات"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "الأبواب"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "في المدينة"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "أقوالها"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "تقول"
+    }
+  ],
+  "timestamp": "2026-08-07T04:19:46.285730918Z",
+  "model": "glm-5.2"
+}

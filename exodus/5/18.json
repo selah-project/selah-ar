@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 5:18",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "والآن امضوا واعملوا! التِّبن لا يُعطى لكم، ومقدار الطوب تُسلّمونه.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "امضوا"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "واعملوا"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "والتِّبن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "يُعطى"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "ومقدار"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "الطوب"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "تُسلّمونه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:01:01.352236113Z",
+  "model": "glm-5.2"
+}

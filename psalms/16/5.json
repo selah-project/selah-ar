@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "يهوه نصيب حظّي وكأسي، أنت ⟨هو الذي⟩ يسند نصيبي.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "نصيب"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "حظّي"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "وكأسي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "يسند"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "نصيبي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:43:11.190398943Z",
+  "model": "glm-5.2"
+}

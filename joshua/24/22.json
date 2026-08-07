@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 24:22",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فقال يهوشُع لِلشعب: شهداء أنتم في أنفسكم أنّكم ⟨اخترتم⟩ لكم ⟨את⟩ يهوه لتعبدوه. فقالوا: شهداء.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشُع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "شهداء"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "فيكم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "اخترتم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "لتعبدوا"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "إيّاه"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقالوا"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "شهداء"
+    }
+  ],
+  "timestamp": "2026-08-07T01:11:47.589548688Z",
+  "model": "glm-5.2"
+}

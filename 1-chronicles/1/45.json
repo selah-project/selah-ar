@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 1:45",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "و⟨مات⟩ يوفاف، وملك عِوَضًا عنه حوشام من أرض التيمانيّ.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و⟨مات⟩"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "يوفاف"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "وملك"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "عِوَضًا عنه"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "حوشام"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "من أرض"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "التيمانيّ"
+    }
+  ],
+  "timestamp": "2026-08-07T05:09:23.976046096Z",
+  "model": "glm-5.2"
+}

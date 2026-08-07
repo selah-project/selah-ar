@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 4:8",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "شَدِّدْها فترفَعك تُكرِمك إذا تعانِقُها",
+  "tokens": [
+    {
+      "surface": "סלסלה",
+      "gloss": "شَدِّدْها"
+    },
+    {
+      "surface": "ותרוממך",
+      "gloss": "فـ⟨هي⟩ ترفَعك"
+    },
+    {
+      "surface": "תכבדך",
+      "gloss": "⟨هي⟩ تُكرِمك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "תחבקנה",
+      "gloss": "تعانِقُها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:03.954407423Z",
+  "model": "glm-5.2"
+}

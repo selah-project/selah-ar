@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "«انتقم انتقام بني يسرائيل من المديانيين؛ بعد ذلك تُجمَع إلى شعبك».",
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "انتقم"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "انتقام"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "من"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "المديانيين"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بعد ذلك"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "تُجمَع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "شعبك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:06.586171525Z",
+  "model": "glm-5.2"
+}

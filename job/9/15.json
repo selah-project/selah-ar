@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 9:15",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "الذي وإن تَبَرَّرتُ، لا أُجيب، لكن لمحاكمتي أَتضرَّع.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "تَبَرَّرتُ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "أُجيب"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "لمحاكمتي"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "أَتضرَّع"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:44.590546196Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 31:24",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "فجاء إلوهيم إلى لابان الأراميّ في حلم الليل، وقال له: «احترز لك من أن تتكلّم مع يعقوف من خير إلى شرّ».",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "فجاء"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "الأراميّ"
+    },
+    {
+      "surface": "בחלם",
+      "gloss": "في حلم"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "الليل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "احترز"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "פן",
+      "gloss": "من أن"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "تتكلّم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "من خير"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شرّ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:34.475636890Z",
+  "model": "glm-5.2"
+}

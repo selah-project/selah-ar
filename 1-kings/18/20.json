@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فأرسل أخآف في كلّ بَنِي يسرايل، وجمع ⟨את⟩ الأنبياء إلى جبل الكرمل.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "أخآف"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلّ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنِي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "وجمع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأنبياء"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "الأنبياء"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "الكرمل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:50:23.835513220Z",
+  "model": "glm-5.2"
+}

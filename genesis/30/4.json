@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "فأعطته بِلهاة جاريتَها زوجةً، فدخل إليها يعقوف.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "فأعطته"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨له⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بِلهاة"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بِلهاة"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "جاريتَها"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زوجةً"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "فدخل"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "إليها"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    }
+  ],
+  "timestamp": "2026-08-06T23:45:19.866307090Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "لا ⟨مع⟩ آبائنا قطع يهوه ⟨את⟩ البريت هذه، بل ⟨معنا⟩ نحن، نحن هؤلاء هنا اليوم كلّنا أحياء.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨مع⟩",
+      "marks": "آبائنا"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "آبائنا"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "قطع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "البريت"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "البريت"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بل"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨معنا⟩"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "نحن"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "פה",
+      "gloss": "هنا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "كلنا"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "أحياء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:02.608491378Z",
+  "model": "glm-5.2"
+}

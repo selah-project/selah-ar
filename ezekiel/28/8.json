@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 28:8",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "إلى الهوّة يُنزلونك، وموتَ موتاتِ القتلى في قلب البحار.",
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "إلى الهوّة"
+    },
+    {
+      "surface": "יורדוך",
+      "gloss": "يُنزلونك"
+    },
+    {
+      "surface": "ומתה",
+      "gloss": "وموتَ"
+    },
+    {
+      "surface": "ממותי",
+      "gloss": "موتِ"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "القتلى"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "في قلب"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "البحار"
+    }
+  ],
+  "timestamp": "2026-08-07T03:06:22.929175621Z",
+  "model": "glm-5.2"
+}

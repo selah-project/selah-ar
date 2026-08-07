@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 13:1",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وعاد بنو يسرايل يفعلون الشرّ في عيني يهوه، فسلّمهم يهوه في يد فلشتيّم أربعين سنة.",
+  "tokens": [
+    {
+      "surface": "ויספו",
+      "gloss": "وعاد"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "يفعلون"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عيني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "فسلّمهم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "في يد"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلشتيّم"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "أربعين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:17:28.900021331Z",
+  "model": "glm-5.2"
+}

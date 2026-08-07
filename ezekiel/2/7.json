@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فتكلّم ⟨את⟩ كلماتي إليهم، إن سمعوا وإن كفّوا — لأنّهم هم مَريّ",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "فتكلّم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلماتي"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلماتي"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "إليهم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "سمعوا"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "كفّوا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّهم"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "مَريّ (تمرّد)"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:54:43.982056411Z",
+  "model": "glm-5.2"
+}

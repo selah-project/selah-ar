@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "حين تقترب إلى مدينة لتحارب عليها، فتدعوها إلى شالوم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "حين"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "تقترب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "لتحارب"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "عليها"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "فتدعوها"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "إليها"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "إلى شالوم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:02.307944873Z",
+  "model": "glm-5.2"
+}

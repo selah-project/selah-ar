@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "لك السماوات، بل لك الأرض، تڤيل وملؤُها أنت أسّستها",
+  "tokens": [
+    {
+      "surface": "לְךָ֣",
+      "gloss": "لك"
+    },
+    {
+      "surface": "שָׁ֭מַיִם",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "אַף",
+      "gloss": "بل"
+    },
+    {
+      "surface": "לְךָ֥",
+      "gloss": "لك"
+    },
+    {
+      "surface": "אָ֑רֶץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "תֵּבֵ֥ל",
+      "gloss": "تڤيل"
+    },
+    {
+      "surface": "וּ֝מְלֹאָ֗הּ",
+      "gloss": "وملؤُها"
+    },
+    {
+      "surface": "אַתָּ֥ה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "יְסַדְתָּֽם",
+      "gloss": "أسّستها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:12.855424882Z",
+  "model": "glm-5.2"
+}

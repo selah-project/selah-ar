@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 20:10",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "فأخرجتُهم من أرض مصرايم، وأتيتُ بهم إلى البرّيّة.",
+  "tokens": [
+    {
+      "surface": "ואוציאם",
+      "gloss": "فأخرجتُهم"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "من أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "ואבאם",
+      "gloss": "وأتيتُ بهم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "البرّيّة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:01:54.010990162Z",
+  "model": "glm-5.2"
+}

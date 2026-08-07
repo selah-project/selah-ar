@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 4:33",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "و⟨يُسند⟩ ⟨את⟩ يده على رأس خطيئة الذبيحة، ويذبحها لخطيئة في المكان الذي يُذبح فيه ⟨את⟩ العولاه.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "و⟨يُسند⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يده"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأس"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "خطيئة الذبيحة"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ويذبح"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "إياها"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "لخطيئة"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "في المكان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "يُذبح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "العولاه"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "العولاه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:48.462874841Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 22:20",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "أليس قد اُبيد مبغضونا، والنار التهمت فضلهم؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "أليس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "قد"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "اُبيد"
+    },
+    {
+      "surface": "קימנו",
+      "gloss": "مبغضونا"
+    },
+    {
+      "surface": "ויתרם",
+      "gloss": "وفضلهم"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "التهمَت"
+    },
+    {
+      "surface": "אש",
+      "gloss": "النار"
+    }
+  ],
+  "timestamp": "2026-08-07T04:38:48.138193602Z",
+  "model": "glm-5.2"
+}

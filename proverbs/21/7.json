@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "سلبُ الأشرار يجرُّهم، لأنّهم أبوًا فعلَ الحقّ.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "سلبُ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الأشرار"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "يجرُّهم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّهم"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "أبوًا"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "فعلَ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "الحقّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:51.757016618Z",
+  "model": "glm-5.2"
+}

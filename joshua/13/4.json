@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 13:4",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "من الجنوب كلُّ أرض الكنعاني ومَعارة التي للصيدونيين إلى أفقة، إلى حدود الأموري.",
+  "tokens": [
+    {
+      "surface": "מתימן",
+      "gloss": "من الجنوب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "الكنعاني"
+    },
+    {
+      "surface": "ומערה",
+      "gloss": "ومَعارة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "לצידנים",
+      "gloss": "للصيدونيين"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "أفقة"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "حدود"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "الأموري"
+    }
+  ],
+  "timestamp": "2026-08-07T01:06:09.804967729Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 17:4",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "«اذهبْ وقل لِداوِد عبدي: هكذا قال يهوه: أنتَ لا تبني لي البيت لِلسكنى.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "اذهبْ"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "وقل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لِـ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عبدي"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "تبني"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "لِلسكنى"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:30.370653407Z",
+  "model": "glm-5.2"
+}

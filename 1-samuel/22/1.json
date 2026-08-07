@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 22:1",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وذهب داوِد من هناك ونجا إلى مغارة عَدُلّام، فسمع إخوته وكلّ بيت أبيه، فنزلوا إليه هناك.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "وذهب"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "משם",
+      "gloss": "من هناك"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ونجا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "مغارة"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "عَدُلّام"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "فسمع"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "إخوته"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "فنزلوا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هناك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:29:14.313888827Z",
+  "model": "glm-5.2"
+}

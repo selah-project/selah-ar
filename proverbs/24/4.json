@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "وبمعرفةٍ تمتليء الغُرَفُ كلَّ ثروةٍ نفيسةٍ وناعمةٍ.",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "وبمعرفةٍ"
+    },
+    {
+      "surface": "חדרים",
+      "gloss": "الغُرَفُ"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "تمتليء"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ثروةٍ"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "نفيسةٍ"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "وناعمةٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:01.131966957Z",
+  "model": "glm-5.2"
+}

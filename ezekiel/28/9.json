@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 28:9",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "أَ⟨هل⟩ تقول تقول: «إلوهيم أنا» أمام قاتلك؟ وإنّما أنت إنسانٌ لا إيلًا في يدِ مُجرِحيك.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "أ⟨هل⟩ تقول"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "تقول"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "הרגך",
+      "gloss": "قاتلك"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "وإنّما أنت"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "في يد"
+    },
+    {
+      "surface": "מחלליך",
+      "gloss": "مُجرِحيك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:06:43.207176717Z",
+  "model": "glm-5.2"
+}

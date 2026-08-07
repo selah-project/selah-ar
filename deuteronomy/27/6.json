@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 27:6",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "حجارةً سليمةً تبني ⟨את⟩ مذبح يهوه إلوهيمك، وتُصعِد عليه عُولَت ليهوه إلوهيمك،",
+  "tokens": [
+    {
+      "surface": "אבנים",
+      "gloss": "حجارةً"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "سليمةً"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "تبني"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مذبح"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "وتُصعِد"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "عُولَت"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:25.085890796Z",
+  "model": "glm-5.2"
+}

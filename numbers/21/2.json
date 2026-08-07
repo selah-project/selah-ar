@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 21:2",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "ونذر إسرايل نذرًا ليهوه وقال: «إنّ مواصلًا تعطي ⟨את⟩ الشعب هذا في يدي، فإنّي أحرّم ⟨את⟩ مدنهم».",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "ونذر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرايل"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذرًا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "مواصلًا"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "تعطي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "في يدي"
+    },
+    {
+      "surface": "והחרמתי",
+      "gloss": "فإنّي أحرّم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مدنهم"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "مدنهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:38:35.218428441Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "وتكلّم موشيه في آذان كل جماعة يسرايل ⟨بـ⟩ ⟨את⟩ كلمات هذه الشيره، حتّى تمامها.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وتكلّم"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "في آذان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "جماعة"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلمات"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلمات"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "الشيره"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتّى"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "تمامها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:59.832078180Z",
+  "model": "glm-5.2"
+}

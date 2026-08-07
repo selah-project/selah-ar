@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "ونَفْس إذْ تخطئ فتسمع صوتَ تعهُّدٍ وهو ⟨شهيد⟩ — أو رأى أو عَلِم — إن لم يُخبر فهو يحمل ذنبه.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "ونَفْس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذْ"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "تخطئ"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "فتسمع"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوتَ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "تعهُّدٍ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨شهيد⟩",
+      "marks": "الشاهد"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "رأى"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "عَلِم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "يُخبر"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "فهو يحمل"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ذنبه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:50.710817935Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 2:42",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وبنو كاليف أخي يرحَمئيل: ميشع بكره، هو ⟨أبو⟩ زيف؛ وبنو ماريشا أبو حَبرون.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "وبنو"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "كاليف"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "أخي"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "يرحَمئيل"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "ميشع"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "بكره"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبو"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "زيف"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "وبنو"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "ماريشا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبو"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حَبرون"
+    }
+  ],
+  "timestamp": "2026-08-07T05:09:14.640780951Z",
+  "model": "glm-5.2"
+}

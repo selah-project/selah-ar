@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 27:6",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "فأعطاه آخيش في ذلك اليوم ⟨את⟩ صقلاغ. لذلك صارت صقلاغ لملوك يهودا إلى هذا اليوم.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "فأعطى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "آخيش"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صقلاغ"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "صقلاغ"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "صارت"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "صقلاغ"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "لملوك"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "היום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:30:26.201006125Z",
+  "model": "glm-5.2"
+}

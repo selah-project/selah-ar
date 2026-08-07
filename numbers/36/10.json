@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "كما أوصى يهوه ⟨את⟩ موشيه، هكذا فعلتْ بناتُ صَلَفحاد.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "فعلتْ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "بناتُ"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "صَلَفحاد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:23.459542792Z",
+  "model": "glm-5.2"
+}

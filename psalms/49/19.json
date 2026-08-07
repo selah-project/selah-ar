@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "لأنّ نفسَه في حياته يُباركها، ويحمدونك لأنّك تُحسِنُ إليك.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نفسَه"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "في حياته"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "يُباركها"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "ويحمدونك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّك"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "تُحسِنُ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "إليك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:51:55.738619336Z",
+  "model": "glm-5.2"
+}

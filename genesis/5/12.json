@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وعاش قينان سبعين سنة، ووَلَد ⟨את⟩ ماهللئيل.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "وعاش"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "قينان"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "سبعين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ووَلَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماهللئيل"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "ماهللئيل"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:56.671030219Z",
+  "model": "glm-5.2"
+}

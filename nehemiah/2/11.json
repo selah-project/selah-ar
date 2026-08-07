@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "ودخلتُ إلى يروشالايم، وكنتُ هناك ثلاثةَ أيام.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "ودخلتُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "وكنتُ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ثلاثةَ"
+    }
+  ],
+  "timestamp": "2026-08-07T05:04:40.148002201Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "يعود الراشعون إلى شيول، كلّ الأمم ناسيي إلوهيم.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "يعود"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الراشعون"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "إلى شيول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "ناسيي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:42:33.307582604Z",
+  "model": "glm-5.2"
+}

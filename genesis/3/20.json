@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "ودعا الآدمُيّ اسمَ امرأتِهِ حوّاء، لأنّها ⟨كانت⟩ أمَّ كلِّ حيّ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الآدميّ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسمَ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "امرأتِهِ"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "حوّاء"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّها"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨كانت⟩"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨كانت⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أمَّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "حيّ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:39.278243115Z",
+  "model": "glm-5.2"
+}

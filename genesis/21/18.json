@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 21:18",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "«قومي، احملي ⟨את⟩ الفتى، وشدّي ⟨إلى⟩ يدكِ عليه، لأنني سأجعله أمّةً عظيمة.»",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "قومي"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "احملي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الفتى"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "الفتى"
+    },
+    {
+      "surface": "והחזיקי",
+      "gloss": "وشدّي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨إلى⟩",
+      "marks": "يدكِ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدكِ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "أمّة"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيمة"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "سأجعله"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:37.122247884Z",
+  "model": "glm-5.2"
+}

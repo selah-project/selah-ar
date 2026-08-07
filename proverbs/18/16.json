@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 18:16",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "هديّةُ إنسانٍ تُفسحُ له، وأمامَ عِظامٍ تَهديه",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "هديّة"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "تُفسح"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "وأمام"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "عِظام"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "تَهديه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:58.842365453Z",
+  "model": "glm-5.2"
+}

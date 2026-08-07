@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 8:6",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "لأنه من يسرايل وهو، صناع صنعه، و⟨هو⟩ لا إلوهيم هو؛ لأنه شِظايا يكون عجل شومرون.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "من يسرايل"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "صنّاع"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "صنعه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "שבבים",
+      "gloss": "شِظايا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "عجل"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شومرون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:22:09.335770021Z",
+  "model": "glm-5.2"
+}

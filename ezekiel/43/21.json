@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 43,
+  "translation": "وتأخذ ⟨את⟩ ثور الخطيئة وتُحرَق ⟨فيه⟩ في مقصورة البيت خارج المقدّس.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "وتأخذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ثور الخطيئة"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ثور"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "الخطيئة"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "وتُحرَق"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "في مقصورة"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "خارج"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "المقدّس"
+    }
+  ],
+  "timestamp": "2026-08-07T03:16:47.756708015Z",
+  "model": "glm-5.2"
+}

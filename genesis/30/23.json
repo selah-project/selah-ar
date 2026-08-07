@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "فحبلت وولدت ابنًا، وقالت: «أزال إلوهيم ⟨את⟩ عاري.»",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "فحبلت"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "وولدت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنًا"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "وقالت"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "أزال"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عاري"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "عاري"
+    }
+  ],
+  "timestamp": "2026-08-07T05:35:04.166508553Z",
+  "model": "glm-5.2"
+}

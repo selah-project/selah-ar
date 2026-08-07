@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 13:16",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وقال لملك يسرائيل: «ضع يدك على القوس». فوضع يده، ووضع أليشع يدَيه على يدَي الملك.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "لملك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ضع"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدك"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "القوس"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "فوضع"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ووضع"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "أليشع"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "يدَيه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "يدَي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:57:44.136722036Z",
+  "model": "glm-5.2"
+}

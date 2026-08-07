@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 11:5",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "لكن من يُعطي أن أَلُوَهّ يتكلّم، ويفتح شفتيه معك؟",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "لكن"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "يُعطي"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "أَلُوَهّ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "يتكلّم"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ويفتح"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "شفتيه"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:34:32.002730151Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "ارتجفوا ولا تُخطئوا؛ قولوا في قلوبكم على مضاجعكم ⟨واسكتوا⟩. سيلاه",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "ارتجفوا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "تُخطئوا"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "قولوا"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "في قلوبكم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "مضاجعكم"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "واسكتوا"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سيلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:40:07.462259025Z",
+  "model": "glm-5.2"
+}

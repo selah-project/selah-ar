@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 22:30",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "لأنّه بك أركض جيشًا، بإلهي أثبُّ سورًا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "بك"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "أركض"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "جيشًا"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "بإلهي"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "أثبُّ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "سورًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:40:40.264641534Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 26:1",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "لِقِسَمِ البوّابين: للقرحِيّين، مَشَلَمياهو بن قورِع، من بني آساف.",
+  "tokens": [
+    {
+      "surface": "למחלקות",
+      "gloss": "لقِسَمِ"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "البوّابين"
+    },
+    {
+      "surface": "לקרחים",
+      "gloss": "للقرحِيّين"
+    },
+    {
+      "surface": "משלמיהו",
+      "gloss": "مَشَلَمياهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "قورِع"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف"
+    }
+  ],
+  "timestamp": "2026-08-07T05:18:33.707026182Z",
+  "model": "glm-5.2"
+}

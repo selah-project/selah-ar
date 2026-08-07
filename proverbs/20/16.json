@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 20:16",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "خذ رداءه لأنّه ضَمِن غريبًا، ومن أجل الأجانب رهنه",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "خذ"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "رداءه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ضَمِن"
+    },
+    {
+      "surface": "זר",
+      "gloss": "غريبًا"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ومن أجل"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "الأجانب"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "رهنه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:34.985628983Z",
+  "model": "glm-5.2"
+}

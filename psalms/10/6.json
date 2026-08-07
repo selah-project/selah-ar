@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "قال في قلبه: «لا أتزعزع، جيلاً فجيلاً، ⟨أنا الذي⟩ لا في شرٍّ.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "في قلبه"
+    },
+    {
+      "surface": "בל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "أتزعزع"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "جيلاً"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "فجيلاً"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨الذي⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "في شرٍّ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:43:00.046116287Z",
+  "model": "glm-5.2"
+}

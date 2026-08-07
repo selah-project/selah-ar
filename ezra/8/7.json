@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 8:7",
+  "book": "ezra",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "ومن بني عيلام، يَشَعيا بن عَتَليا، ومعه سبعون من الذكور.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "ومن بني"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عيلام"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "يَشَعيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "عَتَليا"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ومعه"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "سبعون"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "من الذكور"
+    }
+  ],
+  "timestamp": "2026-08-07T05:03:00.159693740Z",
+  "model": "glm-5.2"
+}

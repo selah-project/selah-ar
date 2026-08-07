@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 25:14",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "السابع يَشَرْئِلاه، بنوه وإخوته، اثنا عشر.",
+  "tokens": [
+    {
+      "surface": "הַשְּׁבִיעִ֣י",
+      "gloss": "السابع"
+    },
+    {
+      "surface": "יְשַׂרְאֵ֔לָה",
+      "gloss": "يَشَرْئِلاه"
+    },
+    {
+      "surface": "בָּנָ֥יו",
+      "gloss": "بنوه"
+    },
+    {
+      "surface": "וְאֶחָ֖יו",
+      "gloss": "وإخوته"
+    },
+    {
+      "surface": "שְׁנֵ֥ים",
+      "gloss": "اثنا"
+    },
+    {
+      "surface": "עָשָֽׂר",
+      "gloss": "عشر"
+    }
+  ],
+  "timestamp": "2026-08-07T05:18:01.509480222Z",
+  "model": "glm-5.2"
+}

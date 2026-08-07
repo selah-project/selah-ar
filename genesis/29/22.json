@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وجمع لاڤان ⟨את⟩ كلّ رجال المكان، وصنع مِشتِه.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "وجمع"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لاڤان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ رجال المكان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "المكان"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "وصنع"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "مِشتِه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:34:51.164017471Z",
+  "model": "glm-5.2"
+}

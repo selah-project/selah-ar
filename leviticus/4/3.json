@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 4:3",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "إنِ الكوهين الماشيح يُخطئ لإثم الشعب، فليقرِّب على خطيئته التي أخطأها ثورًا ابن بقر تامّ ⟨الخلو من العيب⟩ ليهوه خطيئةً.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "الماشيح"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "يُخطئ"
+    },
+    {
+      "surface": "לאשמת",
+      "gloss": "لإثم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "فليقرِّب"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "خطيئته"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "أخطأها"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ثورًا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "بقر"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "تامّ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "خطيئة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:46.109077909Z",
+  "model": "glm-5.2"
+}

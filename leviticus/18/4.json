@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "⟨את⟩ أحكامي تعملوا و⟨את⟩ فرائضي تحفظوا للسلوك فيها: أنا يهوه إلوهيمُكم.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أحكامي"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "أحكامي"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "تعملوا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "فرائضي"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "فرائضي"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "تحفظوا"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "للسلوك"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلوهيمُكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:33.429328934Z",
+  "model": "glm-5.2"
+}

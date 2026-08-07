@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "ففعل أهارون وبنوه ⟨את⟩ كل الأمور التي أوصى بها يهوه بيد موشيه.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ففعل"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "وبنوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل الأمور"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "الأمور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بيد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    }
+  ],
+  "timestamp": "2026-08-07T07:07:01.800669446Z",
+  "model": "glm-5.2"
+}

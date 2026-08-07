@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "ويقترب موشيه وحده إلى يهوه، وهم لا يقتربون، أمّا الشعب فلا يصعد معه».",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "ويقترب"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "وحده"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "והם",
+      "gloss": "وهم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "يقتربون"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "والشعب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "يصعد"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:37:18.761340891Z",
+  "model": "glm-5.2"
+}

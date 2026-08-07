@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 28:2",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "«هكذا قال يهوه صباؤت إله إسرائيل قائلاً: لقد كسرتُ ⟨את⟩ نير ملك بافل».",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤت"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إله"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "كسرتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نير"
+    },
+    {
+      "surface": "על",
+      "gloss": "نير"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافل"
+    }
+  ],
+  "timestamp": "2026-08-07T02:43:07.416973124Z",
+  "model": "glm-5.2"
+}

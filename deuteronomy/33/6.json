@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "ليَحْيَ رأُوفين ولا يَموت، و⟨يكن⟩ رجالُه عددًا.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "ليَحْيَ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رأُوفين"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "يَموت"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨يكن⟩"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "رجالُه"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "عددًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:02:22.989811156Z",
+  "model": "glm-5.2"
+}

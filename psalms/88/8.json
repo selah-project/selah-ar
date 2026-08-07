@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 88,
+  "translation": "عَلَيَّ أسندتَ حميّتك، وكلُّ أمواجك سَحَقتَني. صَلَاة.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "عَلَيَّ"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "أسندتَ"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "حميّتك"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلُّ"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "أمواجك"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "سَحَقتَني"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "صَلَاة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:58.414148175Z",
+  "model": "glm-5.2"
+}

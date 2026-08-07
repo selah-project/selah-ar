@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 40:4",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "هُنَا قَدْ حَقُرْتُ، مَاذَا أَرُدُّ إِلَيْكَ؟ يَدِي وَضَعْتُ عَلَى فَمِي.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "هنا"
+    },
+    {
+      "surface": "קלתי",
+      "gloss": "قد حقُرتُ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "أردّ إليك"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "يدي"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "وضعتُ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "على"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فمي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:43:59.504802915Z",
+  "model": "glm-5.2"
+}

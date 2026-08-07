@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 116,
+  "translation": "لأنه أمال أذنه إليّ، وفي أيامي أدعو",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "أمال"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "أذنه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "وفي أيامي"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "أدعو"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:01.676328865Z",
+  "model": "glm-5.2"
+}

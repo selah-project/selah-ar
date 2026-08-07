@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 21:21",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "طاردُ صِدِقٍ وحِسِدٍ يجدُ حياةً وصِدِقًا وكَبود",
+  "tokens": [
+    {
+      "surface": "רדף",
+      "gloss": "طاردُ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "صِدِقٍ"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "وحِسِدٍ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "يجدُ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حياةً"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "صِدِقًا"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "وكَبود"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:49.011225752Z",
+  "model": "glm-5.2"
+}

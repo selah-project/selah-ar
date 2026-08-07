@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "و⟨هذه⟩ توليدات بني نُواح: شيم وحام ويافِت، ووُلد لهم بنون بعد المابُول.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و⟨هذه⟩"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "توليدات"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُواح"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شيم"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "ويافِت"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "ووُلد"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بنون"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "المابُول"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:15.949681007Z",
+  "model": "glm-5.2"
+}

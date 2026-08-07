@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "مباركٌ أنتَ في دخولك، ومباركٌ أنتَ في خروجك.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "مباركٌ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "في دخولك"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ومباركٌ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "في خروجك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:13.092652138Z",
+  "model": "glm-5.2"
+}

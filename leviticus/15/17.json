@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 15:17",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وكل ثوب وكل جلدٍ يكون عليه مضطجعُ زرعٍ يُغسَل في الماء ويكون طامسًا حتى المساء.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ثوب"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "עור",
+      "gloss": "جلد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "مضطجعُ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "زرعٍ"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "يُغسَل"
+    },
+    {
+      "surface": "במים",
+      "gloss": "في الماء"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ويكون طامسًا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "المساء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:03.709269584Z",
+  "model": "glm-5.2"
+}

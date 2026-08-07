@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "خيرٌ لي أنّني تُذلِّلتُ، لِكَي أتعلّم فرائضك.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "خيرٌ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "تُذلِّلتُ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "أتعلّم"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "فرائضك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:25.554091926Z",
+  "model": "glm-5.2"
+}

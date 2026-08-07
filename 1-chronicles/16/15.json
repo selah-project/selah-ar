@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 16:15",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "اذكروا إلى الأبد بريت(ه)، كلمةً أمر⟨بها⟩ لألف جيل:",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "اذكروا"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "بريت(ه)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمةً"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أمر"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "لألف"
+    },
+    {
+      "surface": "דור",
+      "gloss": "جيل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:00.666822927Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 8:12",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "أنا الحكمةَ سكنتُ دهاءً، ومعرفةَ التدبيرات أجد.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "الحكمة"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "سكنتُ"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "دهاءً"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ومعرفة"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "التدبيرات"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "أجد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:23:03.859845754Z",
+  "model": "glm-5.2"
+}

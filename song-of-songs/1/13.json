@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "صُرَّةُ הْمُرِّ دُودِي ⟨لِي⟩، بَيْنَ شَدَيَيَّ يَبِيتُ.",
+  "tokens": [
+    {
+      "surface": "צְרוֹר",
+      "gloss": "صُرَّة"
+    },
+    {
+      "surface": "הַמֹּר",
+      "gloss": "المُرّ"
+    },
+    {
+      "surface": "דוֹדִי",
+      "gloss": "دودي"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "⟨لي⟩"
+    },
+    {
+      "surface": "בֵּין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "שָׁדַי",
+      "gloss": "شدَيَّ"
+    },
+    {
+      "surface": "יָלִין",
+      "gloss": "يبيت"
+    }
+  ],
+  "timestamp": "2026-08-07T08:18:22.603125127Z",
+  "model": "glm-5.2"
+}

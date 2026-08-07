@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "⟨את⟩ أيّالون و⟨את⟩ مغارسها، ⟨את⟩ جات-ريمّون و⟨את⟩ مغارسها: أربع مدن.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أيّالون"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "أيّالون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مغارسها"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مغارسها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جات-ريمّون"
+    },
+    {
+      "surface": "גת",
+      "gloss": "جات"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ريمّون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مغارسها"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مغارسها"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "أربع"
+    }
+  ],
+  "timestamp": "2026-08-07T01:10:42.724244556Z",
+  "model": "glm-5.2"
+}

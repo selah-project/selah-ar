@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 22:6",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "لأنه هكذا قال يهوه على بيتِ ملكِ يهودا: جلعاد أنتَ لي رأسُ لبنان! إن لا أجعلُكَ قفرًا مدنًا لا ⟨تُسكن⟩!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيتِ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملكِ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "جلعاد"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأسُ"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "لبنان"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אשיתך",
+      "gloss": "أجعلُكَ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "قفرًا"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "مدنًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נושבה",
+      "gloss": "⟨تُسكن⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T02:38:12.503281308Z",
+  "model": "glm-5.2"
+}

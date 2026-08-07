@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 94,
+  "translation": "حتى متى الأشرارُ يا يهوه؟ حتى متى الأشرارُ يبتهجون؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "متى"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الأشرار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "متى"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الأشرار"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "يبتهجون"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:52.188489Z",
+  "model": "glm-5.2"
+}

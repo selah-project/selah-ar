@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 9:22",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فقال يهوه لموشيه: مدّ ⟨את⟩ يدك نحو السماوات، فليكن بَرَدٌ في كل أرض مصرايم (مصر)، على الإنسان وعلى البهيمة وعلى كل عشب الحقل في أرض مصرايم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "مدّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يدك"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدك"
+    },
+    {
+      "surface": "על",
+      "gloss": "نحو"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "فليكن"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "بَرَد"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كل"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "البهيمة"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "عشب"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "الحقل"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:53.369603380Z",
+  "model": "glm-5.2"
+}

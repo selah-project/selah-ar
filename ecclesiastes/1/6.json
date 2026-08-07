@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ذاهبٌ نحو ⟨ال⟩جَنوب، وَدائِرٌ نحو ⟨ال⟩شَّمال، دائِرًا يُدِيرُ — سائِرٌ ⟨هو⟩ ⟨ال⟩رُّوَح؛ وَعلى مَداراِته يَعودُ ⟨ال⟩رُّوَح.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ذاهب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نحو"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "الجنوب"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "ودائر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نحو"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "الشمال"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "دائرًا"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "يدير"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "سائر"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "الروح"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "مداراته"
+    },
+    {
+      "surface": "שב",
+      "gloss": "يعود"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "الروح"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:17.422602993Z",
+  "model": "glm-5.2"
+}

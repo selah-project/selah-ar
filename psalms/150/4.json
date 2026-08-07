@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 150,
+  "translation": "هلّلوه بطُفّ ومَحول، هلّلوه بمنيم وعُغاف",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "هلّلوه"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "بطُفّ"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "ومَحول"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "هلّلوه"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "بمنيم"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "وعُغاف"
+    }
+  ],
+  "timestamp": "2026-08-07T04:19:16.068641198Z",
+  "model": "glm-5.2"
+}

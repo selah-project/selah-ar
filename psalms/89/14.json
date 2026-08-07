@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "لك الذراع مع الجبروت؛ تعزّ يدك وترتفع يمينك",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "الذراع"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "الجبروت"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "تعزّ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدك"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "وترتفع"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "يمينك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:06.752732560Z",
+  "model": "glm-5.2"
+}

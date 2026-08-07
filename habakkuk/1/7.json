@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "مُرهِبٌ ومخوفٌ هو؛ منهُ حُكمُهُ ورفعتُهُ تخرج.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "مُرهِبٌ"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ومخوفٌ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منهُ"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "حُكمُهُ"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "ورفعتُهُ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "تخرج"
+    }
+  ],
+  "timestamp": "2026-08-07T03:32:14.599808032Z",
+  "model": "glm-5.2"
+}

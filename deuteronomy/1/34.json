@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فسمع يهوه ⟨את⟩ صوت كلامكم، وغضب، وحلف قائلاً",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "فسمع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صوت كلامكم"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "كلامكم"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "وغضب"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "وحلف"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    }
+  ],
+  "timestamp": "2026-08-07T00:48:05.283530948Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 20:2",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "وأخذ داويد ⟨את⟩ تاج مَلكهم عن رأسه، فوجده وزنُهُ كِرّ ذهب، و⟨فيه⟩ حجر نفيس، فصار على رأس داويد. وغنيمة المدينة أخرج كثيرًا جدًّا.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تاج"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "مَلكهم"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "عن"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "رأسه"
+    },
+    {
+      "surface": "וימצאה",
+      "gloss": "فوجده"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "وزنُهُ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "كِرّ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهب"
+    },
+    {
+      "surface": "ובה",
+      "gloss": "و⟨فيه⟩"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "حجر"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "نفيس"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "فصار"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأس"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "وغنيمة"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "أخرج"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "كثيرًا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:17:29.014900683Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 2:2",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "ابتلع أدوناي و⟨لم⟩ يشفق، ⟨את⟩ كلَّ مراعي يعقوف؛ هدم في حمَده حصونَ بنت يهودا، أوصلها إلى الأرض، دنّس مملكةً وأمراءها.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "ابتلع"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "و⟨لم⟩"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "يشفق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلَّ مراعي يعقوف"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "مراعي"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "هدم"
+    },
+    {
+      "surface": "בעברתו",
+      "gloss": "في حَمَده"
+    },
+    {
+      "surface": "מבצרי",
+      "gloss": "حصون"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "أوصلها"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "إلى الأرض"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "دنّس"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "مملكةً"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "وأمراءها"
+    }
+  ],
+  "timestamp": "2026-08-07T06:11:09.860894227Z",
+  "model": "glm-5.2"
+}

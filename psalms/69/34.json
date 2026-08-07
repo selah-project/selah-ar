@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 69,
+  "translation": "لأنّ يهوه سامعٌ للمحتاجين، و⟨את⟩ أسراه لم يحتقر",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سامعٌ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "المحتاجين"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "أسراه"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "أسراه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "يحتقر"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:16.863739120Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "هأنذا إيّاهم يقولون لي: أين ⟨هو⟩ كلمةُ يهوه؟ فليأتِ الآن!",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "هأنذا"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "يقولون"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "איה",
+      "gloss": "أين"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمةُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "فليأتِ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    }
+  ],
+  "timestamp": "2026-08-07T02:36:45.837400368Z",
+  "model": "glm-5.2"
+}

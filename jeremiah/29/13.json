@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وَتَطْلُبُونَنِي ⟨את⟩ فتجدونني، لأنكم تطلبونني بكل قلبكم",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "وتطلبونني"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاي"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "فتجدونني"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنكم"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "تطلبونني"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بكل"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "قلبكم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:41:53.580916754Z",
+  "model": "glm-5.2"
+}

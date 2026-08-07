@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 2:7",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وبنو كرمي: عاكار، مُعكِّر إسرائيل، الذي خان ⟨في⟩ الحرَم.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "وبنو"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "كرمي"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "عاكار"
+    },
+    {
+      "surface": "עוכר",
+      "gloss": "مُعكِّر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "خان"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "⟨في⟩ الحرَم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:17.779036082Z",
+  "model": "glm-5.2"
+}

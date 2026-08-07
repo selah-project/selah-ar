@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "أمّا أنت فقد أبغضتَ التأديب، وطرحتَ كلماتي خلفك.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "أمّا أنت"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "أبغضتَ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "التأديب"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "وطرحتَ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلماتي"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "خلفك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:51:41.653839537Z",
+  "model": "glm-5.2"
+}

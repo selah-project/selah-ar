@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 48:25",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "وعلى حدود شمعون من جهة الشرق إلى جهة البحر: يِسّاسخار، واحدًا.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "حدود"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمعون"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "من جهة"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "الشرق"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "جهة"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "يِسّاسخار"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:20:17.727807879Z",
+  "model": "glm-5.2"
+}

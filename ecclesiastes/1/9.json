@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ما كان هو ما سيكون، وما فُعل هو ما سيُفعل، ولا شيء جديد تحت الشمس.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "سيكون"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "وما"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "فُعل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "سيُفعل"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "جديد"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "الشمس"
+    }
+  ],
+  "timestamp": "2026-08-07T04:50:47.048330415Z",
+  "model": "glm-5.2"
+}

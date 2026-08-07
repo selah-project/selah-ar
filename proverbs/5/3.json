@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 5:3",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "لأنَّ شَفَتَي الأجنبيَّة تقطران عسلاً مذابًا، وحنكها أنعم من الزيت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "عسلاً مذابًا"
+    },
+    {
+      "surface": "תטפנה",
+      "gloss": "تقطران"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "شَفَتَي"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "الأجنبيَّة"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "وأنعم"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "من الزيت"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "حنكها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:22.826509824Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "قلبُ الإنسان يخطّط طريقه، ويهوه يثبّت خطوَه.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "يخطّط"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "طريقه"
+    },
+    {
+      "surface": "והוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "يثبّت"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "خطوَه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:10.188245328Z",
+  "model": "glm-5.2"
+}

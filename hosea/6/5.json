@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 6:5",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "لذلك نحتُ في النافيين، قتلتُهم بكلمات فمي، وأحكامك ⟨هي⟩ نورٌ يخرج.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "חצבתי",
+      "gloss": "نحتُ"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "في النافيين"
+    },
+    {
+      "surface": "הרגתים",
+      "gloss": "قتلتُهم"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "بكلمات"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فمي"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "وأحكامك"
+    },
+    {
+      "surface": "אור",
+      "gloss": "نور"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "يخرج"
+    }
+  ],
+  "timestamp": "2026-08-07T03:20:29.561069702Z",
+  "model": "glm-5.2"
+}

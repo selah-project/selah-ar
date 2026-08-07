@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 1:4",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "و⟨كان⟩ كلمةُ يهوه إليّ قائلاً:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمةُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    }
+  ],
+  "timestamp": "2026-08-07T02:28:14.629246563Z",
+  "model": "glm-5.2"
+}

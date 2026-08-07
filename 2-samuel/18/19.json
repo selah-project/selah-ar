@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 18:19",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فقال أحيمعص بن صادوق: «أركضنَّ، فأُبشِّر ⟨את⟩ الملك بأن يهوه قد قضى له من يد أعدائه».",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "فقال أحيمعص"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "صادوق"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "ארוצה",
+      "gloss": "أركضنَّ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "فـ"
+    },
+    {
+      "surface": "ואבשרה",
+      "gloss": "أُبشِّر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الملك"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بأن"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "قضى له"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يد"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "أعدائه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:39:48.409549058Z",
+  "model": "glm-5.2"
+}

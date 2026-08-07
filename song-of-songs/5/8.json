@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 5:8",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "أستحلفكم يا بنات يروشالايم: إن وجدتم ⟨את⟩ حبيبي فماذا تُخبرونه؟ إنّي سقيمة من الحبّ.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "أستحلفكم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨إيّاكم⟩"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "يا بنات"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "وجدتم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حبيبي"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "حبيبي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "فماذا"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "تُخبرونه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨له⟩"
+    },
+    {
+      "surface": "שחולת",
+      "gloss": "سقيمة"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "من الحبّ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "إنّي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:45:54.015052477Z",
+  "model": "glm-5.2"
+}

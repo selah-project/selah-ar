@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "طيّبٌ بطيءُ الأنف من جبّار، ومَن يَمْلِكُ روَحَه من آخذِ مدينة",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "طيّبٌ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "بطيءُ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "الأنف"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "من جبّار"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ومَن يَمْلِكُ"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "روَحَه"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "من آخذِ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:50.495285838Z",
+  "model": "glm-5.2"
+}

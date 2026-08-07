@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "«كفاكم الدوران حول ⟨את⟩ هذا الجبل؛ وجّهوا لأنفسكم شمالًا.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "كفاكم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "סב",
+      "gloss": "الدوران"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هذا الجبل"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "الجبل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "وجّهوا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لأنفسكم"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "شمالًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:37.336549819Z",
+  "model": "glm-5.2"
+}

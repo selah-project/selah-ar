@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "يأخذ الكهنة لأنفسهم كل واحد من معارفه، وهم يُقوّون ⟨את⟩ خراب البيت لكل ما يُوجد هناك خراب.»",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "يأخذ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لأنفسهم"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكهنة"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كل واحد"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "من"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "معارفه"
+    },
+    {
+      "surface": "והם",
+      "gloss": "وهم"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "يُقوّون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خراب"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "خراب"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لكل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "يُوجد"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "خراب"
+    }
+  ],
+  "timestamp": "2026-08-07T01:58:07.369277281Z",
+  "model": "glm-5.2"
+}

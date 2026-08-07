@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 38:9",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "وتصعد كالعاصفة، تأتي كالسحاب لتغطية الأرض تكون. أنت وكلّ أجنحتك وشعوب كثيرون ⟨معك⟩.",
+  "tokens": [
+    {
+      "surface": "ועלית",
+      "gloss": "وتصعد"
+    },
+    {
+      "surface": "כשאה",
+      "gloss": "كالعاصفة"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "تأتي"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "كالسحاب"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "لتغطية"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "אגפיך",
+      "gloss": "أجنحتك"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "وشعوب"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرون"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "معك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:10:56.587042170Z",
+  "model": "glm-5.2"
+}

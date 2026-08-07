@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "لأنَّهُ في كثرةِ الحِكمةِ كثرةُ غَيظ، والذي يَزيدُ معرفةً يَزيدُ ألمًا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّهُ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "في كثرة"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "الحِكمةِ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "كثرةُ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "غَيظ"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "والذي يَزيد"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "معرفةً"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "يَزيدُ"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "ألمًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:50:25.050211372Z",
+  "model": "glm-5.2"
+}

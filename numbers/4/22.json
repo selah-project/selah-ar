@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "«ارفع ⟨את⟩ رأس بني جرشون، هم أيضًا، لبيت آبائهم لعشائرهم",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "ارفع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رأس"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأس"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "جرشون"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "لبيت"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "آبائهم"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "لعشائرهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:29:11.614891415Z",
+  "model": "glm-5.2"
+}

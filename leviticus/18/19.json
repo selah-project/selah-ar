@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 18:19",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وإلى امرأة في طمث نجاستها لا تقترب لكشف عورتها.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "בנדת",
+      "gloss": "في طمث"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "نجاستها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "تقترب"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "لكشف"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "عورتها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:03.032419095Z",
+  "model": "glm-5.2"
+}

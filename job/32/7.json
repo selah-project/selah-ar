@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 32:7",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "قلتُ: الأيّامُ تتكلّم، وكثرةُ السنين تُعلِّم حكمة.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "قلتُ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "الأيّامُ"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "تتكلّم"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "وكثرةُ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "السنين"
+    },
+    {
+      "surface": "ידיעו",
+      "gloss": "تُعلِّم"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حكمة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:41:01.349061692Z",
+  "model": "glm-5.2"
+}

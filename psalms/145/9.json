@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 145,
+  "translation": "طَيّبٌ يهوه لِكُلّ، ورَحَماتُهُ على كُلّ مَصنوعاته.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "طَيّبٌ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لِكُلّ"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "ورَحَماتُهُ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كُلّ"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "مَصنوعاته"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:45.740644387Z",
+  "model": "glm-5.2"
+}

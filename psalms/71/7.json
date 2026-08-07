@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 71,
+  "translation": "كآيةٍ صرتُ للكثيرين، وأنت ملجأي عِزٌّ.",
+  "tokens": [
+    {
+      "surface": "כְּ֭מוֹפֵת",
+      "gloss": "كآية"
+    },
+    {
+      "surface": "הָיִ֣יתִי",
+      "gloss": "صرت"
+    },
+    {
+      "surface": "לְרַבִּ֑ים",
+      "gloss": "للكثيرين"
+    },
+    {
+      "surface": "וְ֝אַתָּ֗ה",
+      "gloss": "وأنت"
+    },
+    {
+      "surface": "מַֽחֲסִי",
+      "gloss": "ملجأي"
+    },
+    {
+      "surface": "עֹֽז",
+      "gloss": "عِزّ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:51.573100919Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 121,
+  "translation": "هُوَذَا لاَ يَنْعَسُ وَلاَ يَنَامُ حَارِسُ يِسْرَائِيل",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "هُوَذَا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لاَ"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "يَنْعَسُ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "وَلاَ"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "يَنَامُ"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "حَارِسُ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسْرَائِيل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:13:17.788944782Z",
+  "model": "glm-5.2"
+}

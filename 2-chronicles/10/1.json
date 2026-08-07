@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وذهب رحبعام إلى شكيم، لأنَّ شكيم ⟨كانت⟩ قد أتى إليها كلُّ يسرائيل لتملِكه ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "وذهب"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رحبعام"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "إلى شكيم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شكيم"
+    },
+    {
+      "surface": "באו",
+      "gloss": "أتى إليها"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "لتملِكه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:25:14.370250641Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 20:9",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "و⟨يكون⟩ عندمَا تُتمّم السلاطين الكلام إلى الشعب، فتُعَيِّنُ أمراءَ الجيوش على رأس الشعب.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و⟨يكون⟩"
+    },
+    {
+      "surface": "ככלת",
+      "gloss": "عندمَا تُتمّم"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "السلاطين"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "الكلام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ופקדו",
+      "gloss": "فتُعَيِّنُ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "أمراءَ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "الجيوش"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "على رأس"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:02.307697720Z",
+  "model": "glm-5.2"
+}

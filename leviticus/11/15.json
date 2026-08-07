@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "⟨את⟩ كُلّ غُراب، لِنوعه.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كُلّ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "غُراب"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "لِنوعه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:29.896312995Z",
+  "model": "glm-5.2"
+}

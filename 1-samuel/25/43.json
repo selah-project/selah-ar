@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-samuel 25:43",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "⟨و⟩⟨את⟩ أخينوعم أخذ داود من يزرعئيل، و⟨كانتا⟩ كلتاهما له نساء.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "أخينوعم"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "أخينوعم"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "أخذ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "מיזרעאל",
+      "gloss": "من يزرعئيل"
+    },
+    {
+      "surface": "ותהיין",
+      "gloss": "وكانتا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "كلتاهما"
+    },
+    {
+      "surface": "שתיהן",
+      "gloss": "كلتاهما"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "نساء"
+    }
+  ],
+  "timestamp": "2026-08-07T01:29:57.404858683Z",
+  "model": "glm-5.2"
+}

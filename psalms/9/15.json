@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "لكي أُخبر بكلِّ تسبيحك في أبواب بنتِ صهيون، أبتهج بخلاصك.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "أُخبر بـ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "تسبيحك"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "في أبواب"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنتِ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "أبتهج"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "بخلاصك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:42:37.749945998Z",
+  "model": "glm-5.2"
+}

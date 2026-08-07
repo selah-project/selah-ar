@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "ويأكلون ولا يشبعون، يزنون ولا يزدادون، لأنهم تركوا ⟨את⟩ يهوه للحِفظ.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ويأكلون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "يشبعون"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "يزنون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "يزدادون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "تركوا"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "للحِفظ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:19:29.062752715Z",
+  "model": "glm-5.2"
+}

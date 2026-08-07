@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "الحافرُ حفرةً فيه يقع، والمُخترقُ سياجًا يلسعه أفعًى.",
+  "tokens": [
+    {
+      "surface": "חֹפֵ֥ר",
+      "gloss": "الحافرُ"
+    },
+    {
+      "surface": "גוּמָּ֖ץ",
+      "gloss": "حفرةً"
+    },
+    {
+      "surface": "בּ֣וֹ",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "יִפּ֑וֹל",
+      "gloss": "يقع"
+    },
+    {
+      "surface": "וּפֹרֵ֥ץ",
+      "gloss": "والمُخترقُ"
+    },
+    {
+      "surface": "גָּדֵ֖ר",
+      "gloss": "سياجًا"
+    },
+    {
+      "surface": "יִשְּׁכֶ֥נּוּ",
+      "gloss": "يلسعه"
+    },
+    {
+      "surface": "נָחָֽשׁ",
+      "gloss": "أفعًى"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:35.093559442Z",
+  "model": "glm-5.2"
+}

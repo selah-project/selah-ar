@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 8:26",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "والآن إلهيم يسرائيل، لِتَثبُتْ نعمةً ⟨كلامك⟩ الذي كلّمتَ به عبدك دافيد أبي —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلهيم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "יאמן",
+      "gloss": "لتثبت"
+    },
+    {
+      "surface": "נא",
+      "gloss": "نعمةً"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "كلامك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "كلّمت"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "لعبدك"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "دافيد"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:45:36.662580262Z",
+  "model": "glm-5.2"
+}

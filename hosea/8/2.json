@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "إليّ يصرخون: «إلهي، نحن يِسرائيل عرفناك!»",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "יִזְעָקוּ",
+      "gloss": "يصرخون"
+    },
+    {
+      "surface": "אֱלֹהַי",
+      "gloss": "إلهي"
+    },
+    {
+      "surface": "יָדַעֲנוּךָ",
+      "gloss": "عرفناك"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "يِسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:22:32.367248232Z",
+  "model": "glm-5.2"
+}

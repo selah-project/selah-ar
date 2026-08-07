@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "«أنتَ عابرٌ اليومَ ⟨את⟩ تخمَ موآب، ⟨את⟩ عَر،",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عابرٌ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليومَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تخم موآب"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "تخمَ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عَر"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عَر"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:35.398788407Z",
+  "model": "glm-5.2"
+}

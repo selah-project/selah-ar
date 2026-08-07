@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فأرسلوا ⟨את⟩ رِفقَة أختَهم و⟨את⟩ مُرضِعَتها و⟨את⟩ عبدِ أفراهام و⟨את⟩ رجاله.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "فأرسلوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رفقة"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "رفقة"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "أختهم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مرضعتها"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "مرضعتها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "عبد"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عبد"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "رجاله"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "رجاله"
+    }
+  ],
+  "timestamp": "2026-08-06T23:42:35.173618128Z",
+  "model": "glm-5.2"
+}

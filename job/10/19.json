@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 10:19",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "كما لم أكن، ⟨فلا⟩ أكون — من البطن إلى القبر ⟨أُحْمَل⟩.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "كنت"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "أكون"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "من البطن"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "إلى القبر"
+    },
+    {
+      "surface": "אובל",
+      "gloss": "أُحْمَل"
+    }
+  ],
+  "timestamp": "2026-08-07T06:09:07.561140629Z",
+  "model": "glm-5.2"
+}

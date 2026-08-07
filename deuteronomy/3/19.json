@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 3:19",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "إنّما نساؤكم وأطفالكم ومواشيكم — قد عرفتُ أنّ لكم مواشيَ كثيرة — يسكنون في مدنكم التي أعطيتُها لكم.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "نساؤكم"
+    },
+    {
+      "surface": "וטפכם",
+      "gloss": "وأطفالكم"
+    },
+    {
+      "surface": "ומקנכם",
+      "gloss": "ومواشيكم"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "عرفتُ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "مواشيَ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "كثيرة"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "يسكنون"
+    },
+    {
+      "surface": "בעריכם",
+      "gloss": "في مدنكم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "أعطيتُها"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:42:31.331269708Z",
+  "model": "glm-5.2"
+}

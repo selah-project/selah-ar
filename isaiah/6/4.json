@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وتزلزلت عتبات الأعتاب من صوت المنادي، والبيت يمتلئ دخانًا.",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "وتزلزلت"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "عتبات"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "الأعتاب"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "من صوت"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "المنادي"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "والبيت"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "يمتلئ"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "دخانًا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:06:05.512938602Z",
+  "model": "glm-5.2"
+}

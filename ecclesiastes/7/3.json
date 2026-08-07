@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "طيّبٌ الكربُ من الضحك، لأنّه بعبوسةِ الوجه يُطابُ القلب.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "طيّب"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "كرب"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "من ضحك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "بعبوسة"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "يُطاب"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:01.589039130Z",
+  "model": "glm-5.2"
+}

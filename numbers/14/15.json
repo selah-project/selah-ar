@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 14:15",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "فتُميت ⟨את⟩ الشعب هذا كرجلٍ واحد، فيقول الأمم الذين سمعوا ⟨את⟩ خبرَك قائلين:",
+  "tokens": [
+    {
+      "surface": "והמתה",
+      "gloss": "فتُميت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "كرجل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "فيقول"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سمعوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خبرك"
+    },
+    {
+      "surface": "שמעך",
+      "gloss": "خبرَك"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:35:53.326643162Z",
+  "model": "glm-5.2"
+}

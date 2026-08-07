@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "ومِن ابن خمسين سنةً يَعودُ مِن جُندِ الخدمة، ولا يَخدم بَعدُ.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "ومِن ابن"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "خمسين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنةً"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "يعود"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "مِن جُند"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "الخدمة"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "يخدم"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعدُ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:30:41.307147363Z",
+  "model": "glm-5.2"
+}

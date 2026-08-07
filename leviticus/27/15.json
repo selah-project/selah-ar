@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وإذا فكَّ المُكرِّس ⟨את⟩ بيته، فليزدَ خُمس فضّة تقويمك عليه، فيكون له.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "المُكرِّس"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "فكَّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيته"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "بيته"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "فليزدَ"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "خُمس"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضّة"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "تقويمك"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "فيكون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:54.749906431Z",
+  "model": "glm-5.2"
+}

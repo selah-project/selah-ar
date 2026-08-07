@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 32:19",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "فرأى يهوه فاحتقر، من إغاظة بنيه وبناته",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "فرأى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וינאץ",
+      "gloss": "فاحتقر"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "من إغاظة"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "بنيه"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "وبناته"
+    }
+  ],
+  "timestamp": "2026-08-07T01:02:14.161534660Z",
+  "model": "glm-5.2"
+}

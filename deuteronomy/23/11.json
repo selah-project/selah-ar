@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 23:11",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "«حين يكون فيك رجلٌ لا يكون طاهرًا من عَرَضِ ليلٍ، فيخرج إلى خارج المحلّة، لا يدخل إلى وسط المحلّة.»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "حين"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "בך",
+      "gloss": "فيك"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلٌ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "طاهرًا"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "من عَرَضِ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ليلٍ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "فيخرج"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "خارجِ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "المحلّة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "يدخل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "وسطِ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "المحلّة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:58:36.008177742Z",
+  "model": "glm-5.2"
+}

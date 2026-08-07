@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "عظيمٌ يهوه ومحمودٌ جدًّا، في مدينةِ إلوهيم‌نا، جبلُ قدسِه",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "عظيم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ومحمود"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "في مدينة"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلوهيم‌نا"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "قدسِه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:51:43.136662735Z",
+  "model": "glm-5.2"
+}

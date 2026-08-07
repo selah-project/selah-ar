@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "genesis 24:55",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فقال أخوها وأمّها: لتمكث الفتاة معنا أيّامًا أو عَشْرًا، وبعدُ تذهب.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "أخوها"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "وأمّها"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "لتمكث"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "الفتاة"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "معنا"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيّامًا"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "عَشْرًا"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بعدُ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "تذهب"
+    }
+  ],
+  "timestamp": "2026-08-07T05:34:26.183201448Z",
+  "model": "glm-5.2"
+}

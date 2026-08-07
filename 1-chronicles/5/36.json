@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 5:36",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "ويوحنان ولَد ⟨את⟩ عَزَراياه — ⟨هو⟩ الذي كهَنَ في البيت الذي بناه شلوموه في يروشالايم.",
+  "tokens": [
+    {
+      "surface": "ויוחנן",
+      "gloss": "ويوحنان"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عَزَراياه"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عَزَراياه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "كهَنَ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في البيت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بناه"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموه"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "في يروشالايم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:14.065493071Z",
+  "model": "glm-5.2"
+}

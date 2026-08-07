@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "دَفْعُكَ إِلَى يَهوه أَعْمَالَكَ، فَتُثَبَّتُ مَقَاصِدُكَ",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "دفع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "أعمالك"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "فتثبّت"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "مقاصدك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:41.220033636Z",
+  "model": "glm-5.2"
+}

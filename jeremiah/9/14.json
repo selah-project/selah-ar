@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 9:14",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "لذلك هكذا قال يهوه صباؤوت إلوهيم يسرايل: ها أنا أُطعِم ⟨את⟩ الشعب هذا لَعانة، وأُسقِيهم مياه رُعاش",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤوت"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ها أنا"
+    },
+    {
+      "surface": "מאכילם",
+      "gloss": "أُطعِم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "لَعانة"
+    },
+    {
+      "surface": "והשקיתים",
+      "gloss": "وأُسقِيهم"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مياه"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رُعاش"
+    }
+  ],
+  "timestamp": "2026-08-07T02:33:34.539365461Z",
+  "model": "glm-5.2"
+}

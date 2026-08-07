@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 4:43",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وضربوا ⟨את⟩ بقيّة الناجين لعماليق، وسكنوا هناك إلى هذا اليوم.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "وضربوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بقيّة"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "بقيّة"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "الناجين"
+    },
+    {
+      "surface": "לעמלק",
+      "gloss": "لعماليق"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "وسكنوا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:35.872736804Z",
+  "model": "glm-5.2"
+}

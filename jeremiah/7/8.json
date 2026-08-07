@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "ها أنتم متّكلون لأنفسكم على كلمات الكذب، لِغير النفع",
+  "tokens": [
+    {
+      "surface": "הִנֵּ֤ה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "אַתֶּם֙",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "בֹּטְחִ֣ים",
+      "gloss": "متّكلون"
+    },
+    {
+      "surface": "לָכֶ֔ם",
+      "gloss": "لأنفسكم"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "على"
+    },
+    {
+      "surface": "דִּבְרֵ֖י",
+      "gloss": "كلمات"
+    },
+    {
+      "surface": "הַשָּׁ֑קֶר",
+      "gloss": "الكذب"
+    },
+    {
+      "surface": "לְבִלְתִּ֖י",
+      "gloss": "لِغير"
+    },
+    {
+      "surface": "הוֹעִֽיל",
+      "gloss": "النفع"
+    }
+  ],
+  "timestamp": "2026-08-07T02:31:39.846754557Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 8:17",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "ورأيتُ ⟨את⟩ كلَّ عمل إلوهيم: أنّه لا يقدر الإنسان أن يجد ⟨את⟩ العمل الذي يُعمَل تحت الشمس. مهما تعب الإنسان في الطلب، لا يجدُه؛ وإن قال الحكيم إنّه يعرف، فلا يقدر أن يجد.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "ورأيتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلَّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "يقدر"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "למצוא",
+      "gloss": "أن يجد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "العمل"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "العمل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "يُعمَل"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "الشمس"
+    },
+    {
+      "surface": "בשל",
+      "gloss": "مهما"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨الذي⟩"
+    },
+    {
+      "surface": "יעמל",
+      "gloss": "تعب"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "في الطلب"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "يجدُه"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "החכם",
+      "gloss": "الحكيم"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "إنّه يعرف"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "يقدر"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "أن يجد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:44.171129528Z",
+  "model": "glm-5.2"
+}

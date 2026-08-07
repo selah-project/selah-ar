@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "في قلبي ذخَرتُ ⟨את⟩ قولَكَ، لأجلِ ألّا أُخطئَ إليكَ.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "في قلبي"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "ذخَرتُ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "قولَكَ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لأجلِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ألّا"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "أُخطئَ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "إليكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:13.667058420Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "ويتوكّل عليك عارفو اسمك، لأنك لم تترك طالبيك، يهوه.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "ويتوكّلون"
+    },
+    {
+      "surface": "בך",
+      "gloss": "عليك"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "عارفو"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "اسمك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "تترك"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "طالبيك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:42:25.962609746Z",
+  "model": "glm-5.2"
+}

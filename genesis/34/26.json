@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 34:26",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "وقتلوا ⟨את⟩ حَمور و⟨את⟩ شكيم ابنه بفم السيف، وأخذوا ⟨את⟩ ديناه من بيت شكيم وخرجوا.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "حَمور"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "حَمور"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "شكيم"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شكيم"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "قتلوا"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "بفم"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "السيف"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "وأخذوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ديناه"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "ديناه"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "من بيت"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شكيم"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "وخرجوا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:48:29.536539633Z",
+  "model": "glm-5.2"
+}

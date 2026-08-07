@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 9:6",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "ومن بني زَرَح: يعوئيل وإخوتهم ستّمائة وتسعون.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زَرَح"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "يعوئيل"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "وإخوتهم"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ستّ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مائة"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "وتسعون"
+    }
+  ],
+  "timestamp": "2026-08-07T05:13:31.474676060Z",
+  "model": "glm-5.2"
+}

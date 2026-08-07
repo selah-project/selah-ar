@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 45:22",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "ويصنع الناسي في اليوم ذاك عنه وعن كلِّ شعب الأرض ثور خطأة.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ويصنع"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "الناسي"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في اليوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذاك"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "عنه"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "وعن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ثور"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "خطأة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:18:20.915166061Z",
+  "model": "glm-5.2"
+}

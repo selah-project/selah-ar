@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 16:23",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "غنّوا ليهوه كلُّ الأرض، بشّروا من-يوم إلى يوم خلاصه.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "غنّوا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "بشّروا"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "من-يوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "خلاصه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:26.351292777Z",
+  "model": "glm-5.2"
+}

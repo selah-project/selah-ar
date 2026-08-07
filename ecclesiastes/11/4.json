@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "مَنْ يُراقبُ الرّيحَ لا يزرع، ومَنْ يتأمّلُ السُّحُبَ لا يحصُد",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "مَنْ يُراقبُ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "الرّيحَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "يزرع"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ومَنْ يتأمّلُ"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "السُّحُبَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "يحصُد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:53:13.024936659Z",
+  "model": "glm-5.2"
+}

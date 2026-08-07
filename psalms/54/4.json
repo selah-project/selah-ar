@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 54,
+  "translation": "إلوهيم، اسمعْ صلاتي، أصغِي ⟨إلى⟩ أقوالِ فمي",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "اسمعْ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "صلاتي"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "أصغِي"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "⟨إلى⟩ أقوالِ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فمي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:53:26.548303543Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 25:27",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "أكلُ العسلِ بكثرةٍ ليس طيّبًا، وامتحانُ ثقلهم ثِقَل.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "أكل"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "العسل"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "بكثرة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيّب"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "وامتحان"
+    },
+    {
+      "surface": "כבדם",
+      "gloss": "ثقلهم"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ثِقَل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:16.145497271Z",
+  "model": "glm-5.2"
+}

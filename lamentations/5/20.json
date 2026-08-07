@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "لماذا إلى النهاية تنسىنا؟ تتخلّى عننا إلى امتداد أيّام؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "إلى النهاية"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "تنسىنا"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "تتخلّى عننا"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "إلى امتداد"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيّام"
+    }
+  ],
+  "timestamp": "2026-08-07T04:50:29.525392489Z",
+  "model": "glm-5.2"
+}

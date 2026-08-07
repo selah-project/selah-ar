@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 105,
+  "translation": "وأقامها ليعقوف فريضة، ولإسرائيل بريت عولام",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "وأقامها"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ليعقوف"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "فريضة"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "لإسرائيل"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريت"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "عولام"
+    }
+  ],
+  "timestamp": "2026-08-07T04:08:47.291179960Z",
+  "model": "glm-5.2"
+}

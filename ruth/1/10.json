@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فقلن لها: «بل إيّاكِ نعود، إلى شعبكِ.»",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "فقلن"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بل\/لأنّ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "معكِ"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "نعود"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "إلى شعبكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:47:25.322820291Z",
+  "model": "glm-5.2"
+}

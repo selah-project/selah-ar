@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 51:1",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 51,
+  "translation": "هكذا قال يهوه: هأنذا أُثير على بافل وإلى ساكني لَوْ قامَيّ روَحًا مُهلِكًا.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "هأنذا"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "أُثير"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ساكني"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قَلْب"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "قامَيّ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روَحًا"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "مُهلِكًا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:51:26.297826477Z",
+  "model": "glm-5.2"
+}

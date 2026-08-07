@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 26:17",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "فذهب يصحاق من هناك ونزل في وادي جرار وسكن هناك",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "فذهب"
+    },
+    {
+      "surface": "משם",
+      "gloss": "من هناك"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يصحاق"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "ونزل"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "في وادي"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "جرار"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "وسكن"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:43:40.600246028Z",
+  "model": "glm-5.2"
+}

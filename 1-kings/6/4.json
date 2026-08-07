@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وصنع للبيت نوافذَ مُشْرَفَاتٍ مُصَمَّتَة.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وصنع"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "للبيت"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "نوافذَ"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "مُشْرَفَاتٍ"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "مُصَمَّتَة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:44:02.491711026Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 56,
+  "translation": "بإلوهيم أُسبّح كلمته، بإلوهيم وثقتُ، لا أَخاف — ماذا يصنع بَشَرٌ لي؟",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "بإلوهيم"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "أُسبّح"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "كلمته"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "بإلوهيم"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "وثقتُ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "أَخاف"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يصنع"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بَشَرٌ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:42.060627719Z",
+  "model": "glm-5.2"
+}

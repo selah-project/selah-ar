@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 19:5",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "والذي يدخل مع صاحبه ⟨إلى⟩ الغابة ليقطع حطبًا، وتندفع يده بالفأس لقطع الشجرة، فينزلق الحديد عن الخشب ويصيب ⟨את⟩ صاحبه فيموت — هو يهرب إلى إحدى المدن هذه فيحيا.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "والذي"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "يدخل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صاحبه"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "صاحبه"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "في الغابة"
+    },
+    {
+      "surface": "לחטב",
+      "gloss": "ليقطع"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "حطبًا"
+    },
+    {
+      "surface": "ונדחה",
+      "gloss": "فتندفع"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "בגרזן",
+      "gloss": "بالفأس"
+    },
+    {
+      "surface": "לכרת",
+      "gloss": "لقطع"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "الشجرة"
+    },
+    {
+      "surface": "ונשל",
+      "gloss": "وينزلق"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "الحديد"
+    },
+    {
+      "surface": "מן",
+      "gloss": "عن"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "الخشب"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "ويصيب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صاحبه"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "صاحبه"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "فيموت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "يهرب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "إحدى"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "المدن"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "فيحيا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:24.558367117Z",
+  "model": "glm-5.2"
+}

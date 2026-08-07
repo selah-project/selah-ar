@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 34:6",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "وفي مدُنِ منشّى وأفرايِم وشِمعون وإلى نفتالي، بِخرابِ بُيوتِهم حولًا.",
+  "tokens": [
+    {
+      "surface": "ובערי",
+      "gloss": "وفي مدُنِ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشّى"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "وأفرايِم"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "وشِمعون"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالي"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "بِخرابِ"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "بُيوتِهم"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "حولًا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:32:37.246274073Z",
+  "model": "glm-5.2"
+}

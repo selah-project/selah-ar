@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "ولم يُزِل داوِد ⟨את⟩ التابوت إليه إلى مدينة داوِد، بل حوّله إلى بيت عوبيد أدوم الجَتّي.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "يُزِل"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "التابوت"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "التابوت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "بل حوّله"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عوبيد"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "أدوم"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "الجَتّي"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:07.352447509Z",
+  "model": "glm-5.2"
+}

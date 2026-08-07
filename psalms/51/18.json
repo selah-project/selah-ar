@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 51,
+  "translation": "لأنك لا تَشتَهي ذَبيحةً فأُعطيَها، عولاهً لا تَرضى.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "لأنك"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תַחְפֹּץ",
+      "gloss": "تَشتَهي"
+    },
+    {
+      "surface": "זֶבַח",
+      "gloss": "ذَبيحةً"
+    },
+    {
+      "surface": "וְאֶתֵּנָה",
+      "gloss": "فأُعطيَها"
+    },
+    {
+      "surface": "עֹלָה",
+      "gloss": "عولاهً"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תִרְצֶה",
+      "gloss": "تَرضى"
+    }
+  ],
+  "timestamp": "2026-08-07T03:53:40.272434080Z",
+  "model": "glm-5.2"
+}

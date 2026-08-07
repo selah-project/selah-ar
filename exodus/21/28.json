@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وإذا نطح ثور ⟨את⟩ رجل أو ⟨את⟩ امرأة فمات، يُرجمًا يُرجم الثور ولا يُؤكل ⟨את⟩ لحمه، وصاحب الثور بريء.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "نطح"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ثور"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رجل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "امرأة"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "فمات"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "يُرجمًا"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "يُرجم"
+    },
+    {
+      "surface": "השור",
+      "gloss": "الثور"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يُؤكل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لحمه"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "لحمه"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "وصاحب"
+    },
+    {
+      "surface": "השור",
+      "gloss": "الثور"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بريء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:02.109978492Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وفعل داود كذلك كما أمره يهوه، وضرب ⟨את⟩ فلشتيم من جبع إلى مجيئك جازر.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وفعل"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "כן",
+      "gloss": "كذلك"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "أمره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "وضرب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فلشتيم"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلشتيم"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "من جبع"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "באך",
+      "gloss": "مجيئك"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "جازر"
+    }
+  ],
+  "timestamp": "2026-08-07T01:32:33.604804982Z",
+  "model": "glm-5.2"
+}

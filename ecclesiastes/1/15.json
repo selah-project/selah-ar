@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "المُعوَجُّ لا يَقدر أن ⟨يُقوَّم⟩، والنّاقص لا يَقدر أن ⟨يُعَدَّ».",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "المُعوَجُّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "يَقدر"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "أن ⟨يُقوَّم⟩"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "والنّاقص"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "يَقدر"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "أن ⟨يُعَدَّ⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:03.526414881Z",
+  "model": "glm-5.2"
+}

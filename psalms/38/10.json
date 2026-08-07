@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "أدوناي، أمامك كلُّ تَوَقي، وتنهّدي منك لا ⟨يَخْفى⟩.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "أمامك"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "تَوَقي"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "وتنهّدي"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "منك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "⟨يَخْفى⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:24.168612112Z",
+  "model": "glm-5.2"
+}

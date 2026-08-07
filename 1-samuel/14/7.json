@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 14:7",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "فقال له حامل عدّته: افعل كلّ ما في قلبك. مِلْ أنتَ — ها أنا معك كقلبك.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "حامل"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "عدّته"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "افعل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "في قلبك"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "مِلْ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ها أنا"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "كقلبك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:24:25.107363306Z",
+  "model": "glm-5.2"
+}

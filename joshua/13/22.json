@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 13:22",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "و⟨את⟩ بِلعام بن بعور العائف، قَتَلَ بنو إسرائيل بالسيف ضمن قتلاهم.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بِلعام"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلعام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "بعور"
+    },
+    {
+      "surface": "הקוסם",
+      "gloss": "العائف"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "قَتَلَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "بالسيف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ضمن"
+    },
+    {
+      "surface": "חלליהם",
+      "gloss": "قتلاهم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:10:25.506833141Z",
+  "model": "glm-5.2"
+}

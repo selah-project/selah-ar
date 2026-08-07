@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 69,
+  "translation": "لِقائدِ ⟨النشيد⟩، على «شوشانيم»، لِدافيد",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لِقائدِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "«شوشانيم»"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِدافيد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:26.093804234Z",
+  "model": "glm-5.2"
+}

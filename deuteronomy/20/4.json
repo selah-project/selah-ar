@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "«لأنّ يهوه إلهكم هو السائر معكم ليُحارب عنكم مع أعدائكم، ليُخلِّصكم».",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلهكم"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "السائر"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "معكم"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ليُحارب"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "عنكم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "أعدائكم"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "ليُخلِّص"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "إياكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:46.464336443Z",
+  "model": "glm-5.2"
+}

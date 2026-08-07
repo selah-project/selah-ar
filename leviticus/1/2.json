@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "كلِّم بني إسرائيل وقل لهم: أيُّ إنسانٍ منكم إذا قرَّب قُربانًا ليهوه، فمن البهائم، من البقر ومن الضأن، تقرّبون ⟨את⟩ قربانكم.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "كلِّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "وتقول"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "يقرّب"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "منكم"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "قُربانًا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "البهائم"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "البقر"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "الضأن"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "تقرّبون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قربانكم"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "قربانكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:02.225279977Z",
+  "model": "glm-5.2"
+}

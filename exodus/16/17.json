@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 16:17",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "ففعلَ بنو يِسراإيل كذلك، ولقّطوا — المُكثر ⟨والناقص⟩.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "وفعلوا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "كذلك"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسراإيل"
+    },
+    {
+      "surface": "וילקטו",
+      "gloss": "ولقّطوا"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "المُكثر"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "والناقص"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:06.555168161Z",
+  "model": "glm-5.2"
+}

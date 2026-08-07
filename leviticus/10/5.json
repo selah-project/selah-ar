@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فتقرّبوا وحملوهم في قمصانهم إلى خارج المحلّة كما تكلّم موشيه.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "فتقرّبوا"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "وحملوهم"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "في قمصانهم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "خارج"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "المحلّة"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    }
+  ],
+  "timestamp": "2026-08-07T07:07:00.039518599Z",
+  "model": "glm-5.2"
+}

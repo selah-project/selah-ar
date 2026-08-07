@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "ونزل يهوه على جبل سيناي، إلى رأس الجبل، فدعا يهوه موشيه إلى رأس الجبل، فصعد موشيه",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ونزل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سيناي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأس"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "الجبل"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "فدعا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأس"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "الجبل"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "فصعد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:34.707499765Z",
+  "model": "glm-5.2"
+}

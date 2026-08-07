@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 19:19",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "و⟨كان⟩ صوت الشوفار يسير ويقوى جدًّا؛ موشيه يتكلّم وإلوهيم يُجيبه بصوت",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "الشوفار"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "يسير"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "ويقوى"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "يتكلّم"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "وإلوهيم"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "يُجيبه"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "بصوت"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:34.707350493Z",
+  "model": "glm-5.2"
+}

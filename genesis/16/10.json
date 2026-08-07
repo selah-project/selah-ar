@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وقال لها ملاك يهوه: مُكثِرًا أُكثِرُ ⟨את⟩ زرعك، فلا يُحصى من كثرة.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ملاكُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "مُكثِرًا"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "أُكثِرُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زرعك"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "زرعك"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "يُحصى"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "من كثرة"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:19.548766544Z",
+  "model": "glm-5.2"
+}

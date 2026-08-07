@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-kings 8:57",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "ليَكُنْ يهوه إلوهيمنا معنا كما كان مع آبائنا، لا يتركنا ولا يهملنا.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ليَكُنْ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلوهيمنا"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "معنا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "آبائنا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "يتركنا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יטשנו",
+      "gloss": "يهملنا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:45:47.355500531Z",
+  "model": "glm-5.2"
+}

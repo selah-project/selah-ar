@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨את⟩ الشافان، لأنه مُعلى جِرَّة ⟨هو⟩، وظلفًا لا يشقّص — نجس ⟨هو⟩ لكم.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الشافان"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "الشافان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "مُعلى"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "جِرَّة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "وظلفًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "يشقّص"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:14.231699995Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 59,
+  "translation": "إلوهيم حِسِده يَستبقني، إلوهيم يُريني في أعدائي.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حِسِده"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "يَستبقني"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "يُريني"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "في أعدائي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:55:59.159870661Z",
+  "model": "glm-5.2"
+}

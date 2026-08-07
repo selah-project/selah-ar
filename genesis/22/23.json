@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وبتوئيل وَلَد ⟨את⟩ رِفقة. ثمانية هؤلاء وَلَدتهم ملكة لناحور أخي أفراهام.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "وبتوئيل"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "وَلَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رفقة"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "رِفقة"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ثمانية"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "وَلَدتهم"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ملكة"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "لناحور"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "أخي"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:51.294688836Z",
+  "model": "glm-5.2"
+}

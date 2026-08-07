@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "و⟨هذه⟩ أسماءُ بَني يِسرايل الآتينَ مصرايمًا: ⟨את⟩ يعقوف رجلاً وبيتَه جاؤوا.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و⟨هذه⟩"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "أسماء"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرايل"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "الآتين"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "مصرايمًا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يعقوف"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلاً"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "وبيتَه"
+    },
+    {
+      "surface": "באו",
+      "gloss": "جاؤوا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:40.295734816Z",
+  "model": "glm-5.2"
+}

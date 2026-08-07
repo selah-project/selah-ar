@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ما الفائضُ للإنسانِ في كلِّ تعَبهِ الذي يتعبُهُ تحتَ الشمس؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "الفائضُ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "للإنسانِ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلِّ"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "تعَبهِ"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "الذي يتعبُهُ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحتَ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "الشمس"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:12.974205083Z",
+  "model": "glm-5.2"
+}

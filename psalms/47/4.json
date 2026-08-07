@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 47,
+  "translation": "يُخضِعُ شعوبًا تحتنا وأُممًا تحت أقدامنا.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "يُخضِعُ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "شعوبًا"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "تحتنا"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "وأُممًا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "أقدامنا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:51.247912811Z",
+  "model": "glm-5.2"
+}

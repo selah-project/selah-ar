@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "خبزَ الأبطال أكلَ ⟨ال⟩إنسان، طعامًا أرسل إليهم ⟨لل⟩شبع.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "خبزَ"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "الأبطال"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "أكلَ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "طعامًا"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "أرسل"
+    },
+    {
+      "surface": "להם",
+      "gloss": "إليهم"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "للشبع"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:38.462670981Z",
+  "model": "glm-5.2"
+}

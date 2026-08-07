@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 18:1",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وقال يهوه لأهارون: أنت وبنوك وبيت أبيك معك تحملون ⟨את⟩ ذنب المقدس، وأنت وبنوك معك تحملون ⟨את⟩ ذنب كهنوتكم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "وبنوك"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "وبيت"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أبيك"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "تحملون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ذنب"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ذنب"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "المقدس"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "وأنت"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "وبنوك"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "تحملون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ذنب"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ذنب"
+    },
+    {
+      "surface": "כהנתכם",
+      "gloss": "كهنوتكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:37:18.854747826Z",
+  "model": "glm-5.2"
+}

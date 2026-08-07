@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 14:3",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "ويخرج يهوه ويحارب تلك الأمم، كمحاربته في يوم قِتال.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ويخرج"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "ويحارب"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "أولئك الأمم"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "تلك"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "كـ"
+    },
+    {
+      "surface": "הלחמו",
+      "gloss": "محاربته"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "قِتال"
+    }
+  ],
+  "timestamp": "2026-08-07T03:37:52.378571203Z",
+  "model": "glm-5.2"
+}

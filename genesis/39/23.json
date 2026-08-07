@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 39:23",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "ليس رئيسُ بيت السجن يُبصرُ ⟨את⟩ شيئًا ما بيدِه، لأنَّ يهوه ⟨معه⟩؛ وما يَعمَلُه، يهوه يُنجِحُه.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "שר",
+      "gloss": "رئيس"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "السجن"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "يُبصر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شيئًا ما"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ\/أيّ"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "شيء"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "بيدِه"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "لأنَّ\/⟨في أنَّ⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨معه⟩"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "وما"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "يَعمَلُه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "يُنجِحُه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:33.718659771Z",
+  "model": "glm-5.2"
+}

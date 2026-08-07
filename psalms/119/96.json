@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "لكلِّ كَمالٍ رأيتُ نهايةً؛ واسعةٌ مِصواتُك جدًّا.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "لكلِّ"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "كَمالٍ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "رأيتُ"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "نهايةً"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "واسعةٌ"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "مِصواتُك"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:12.529478900Z",
+  "model": "glm-5.2"
+}

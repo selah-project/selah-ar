@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 27:11",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وإذا كلّ بهيمة طمسة مما لا يُقرّبون منها قُربانًا ليهوه، وأوقف ⟨את⟩ البهيمة أمام الكوهين.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "بهيمة"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "طمسة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "مما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "يُقرّبون"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "منها"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "قُربانًا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "وأوقف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "البهيمة"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "البهيمة"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:44.262915396Z",
+  "model": "glm-5.2"
+}

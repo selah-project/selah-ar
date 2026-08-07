@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 7:12",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "جاء الوقت، بلغ اليوم: المشتري لا يفرح، والبائع لا ينُح — لأنّ الحُمُوّ على كلِّ جمهورها.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "جاء"
+    },
+    {
+      "surface": "העת",
+      "gloss": "الوقت"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "بلغ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "הקונה",
+      "gloss": "المشتري"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "يفرح"
+    },
+    {
+      "surface": "והמוכר",
+      "gloss": "والبائع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יתאבל",
+      "gloss": "ينُح"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "الحُمُوّ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "جمهورها"
+    }
+  ],
+  "timestamp": "2026-08-07T02:55:14.572098102Z",
+  "model": "glm-5.2"
+}

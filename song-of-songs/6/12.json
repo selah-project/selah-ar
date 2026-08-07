@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "لم أعرف، نَفْسي جعلتني مركباتِ ⟨...⟩ شعبي ناديف.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "أعرف"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفْسي"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "جعلتني"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "مركباتِ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "شعبي"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "ناديف"
+    }
+  ],
+  "timestamp": "2026-08-07T04:45:13.079152134Z",
+  "model": "glm-5.2"
+}

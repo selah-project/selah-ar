@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 8:23",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "منذ الأزل رُشِّحت، من الرأس، من أوائل أرض",
+  "tokens": [
+    {
+      "surface": "מעולם",
+      "gloss": "منذ الأزل"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "رُشِّحت"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "من الرأس"
+    },
+    {
+      "surface": "מקדמי",
+      "gloss": "من أوائل"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:54.129511851Z",
+  "model": "glm-5.2"
+}

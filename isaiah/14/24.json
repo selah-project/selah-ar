@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "حَلَفَ يهوه صَباؤوت قائلًا: إنّه كما تصوّرتُ فهكذا صارت، وكما أَشرتُ فهي تقوم.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "حَلَفَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صَباؤوت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إنْ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "تصوّرتُ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "صارت"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "وكما"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "أَشرتُ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "تقوم"
+    }
+  ],
+  "timestamp": "2026-08-07T07:37:02.539394795Z",
+  "model": "glm-5.2"
+}

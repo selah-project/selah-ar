@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 88,
+  "translation": "هل يُحكى حِسِدُكَ في القبر؟ أمانتُكَ في أَوَدون؟",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "هل يُحكى"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "في القبر"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حِسِدُكَ"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "أمانتُكَ"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "في أَوَدون"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:38.480813072Z",
+  "model": "glm-5.2"
+}

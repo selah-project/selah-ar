@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "في سنة اليوفيل هذه تعودون، الإنسان إلى ملكيّته.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "في سنة"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "اليوفيل"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "تعودون"
+    },
+    {
+      "surface": "איש",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "ملكيّته"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:55.213480088Z",
+  "model": "glm-5.2"
+}

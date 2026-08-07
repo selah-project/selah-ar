@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "هذه ⟨هي⟩ البهيمة التي تأكلونها: البقر، صغار الكباش، وصغار المعز.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "البهيمة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تأكلونها"
+    },
+    {
+      "surface": "שור",
+      "gloss": "البقر"
+    },
+    {
+      "surface": "שה",
+      "gloss": "صغار"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "الكباش"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "وصغار"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "المعز"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:24.709858311Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "وسَمِع يهوشُعَع ⟨את⟩ صوتَ الشعبِ في هُتافِه، فقال لموشيه: صوتُ حربٍ في المحلّة.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "وسَمِع"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشُعَع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صوت"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "في هُتافه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "حرب"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "في المحلّة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:32.218683197Z",
+  "model": "glm-5.2"
+}

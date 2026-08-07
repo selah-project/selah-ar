@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "لا تَهفُف بروَحك (نفَس\/روح) لتغضب، لأنَّ الغضب في حضن الجهّال يستقرّ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "تهفُف\/تندفع"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "بروَحك"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "لتغضب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "الغضب"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "في حضن"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "الجهّال"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "يستقرّ\/يَرخي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:02.931422124Z",
+  "model": "glm-5.2"
+}

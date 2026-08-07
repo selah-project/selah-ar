@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "بحسب العدد الذي تصنعونه، هكذا تصنعون للواحد بحسب عددهم.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "بحسب العدد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "تصنعونه"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "تصنعون"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "للواحد"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "بحسب عددهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:36:06.082771183Z",
+  "model": "glm-5.2"
+}

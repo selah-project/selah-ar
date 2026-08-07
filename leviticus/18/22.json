@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "و⟨את⟩ ذكر لا تضاجع مضاجعة ⟨ال⟩مرأة: تَوئَبَة ⟨هو⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "ذكر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ذكر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "تضاجع"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "مضاجعة"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "تَوئَبَة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:53.879374164Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 33:29",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "«وعَرَفوا أنّي أنا يهوه في جَعْلي ⟨את⟩ الأرض خَرابًا ومُوحِشةً، بسبب كلّ أرجاسِهم التي فعَلوها».",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "وعرفوا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בתתי",
+      "gloss": "في جَعْلي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "خرابًا"
+    },
+    {
+      "surface": "ומשמה",
+      "gloss": "وموحِشة"
+    },
+    {
+      "surface": "על",
+      "gloss": "بسبب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "תועבתם",
+      "gloss": "أرجاسِهم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "فعلوها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:09:50.330795772Z",
+  "model": "glm-5.2"
+}

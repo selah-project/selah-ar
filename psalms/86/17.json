@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 86:17",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 86,
+  "translation": "اصنع معي آية لخيرٍ، فيرى مبغضّيّ ويخجلوا، لأنّك أنت يهوه أعنتني و⟨أنت⟩ عزّيتني.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "اصنع"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "معي"
+    },
+    {
+      "surface": "אות",
+      "gloss": "آية"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "لخيرٍ"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "فيرى"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "مبغضّيّ"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ويخجلوا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّك"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עזרתנي",
+      "gloss": "أعنتني"
+    },
+    {
+      "surface": "ונחמתני",
+      "gloss": "وعزّيتني"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:11.613280791Z",
+  "model": "glm-5.2"
+}

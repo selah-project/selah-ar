@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "و⟨أتمَّ⟩ موشيه الكلامَ ⟨على⟩ ⟨את⟩ كلِّ الكلماتِ هذه إلى كلِّ يسرائيل،",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "و⟨أتمَّ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "الكلامَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلَّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "الكلماتِ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:01:22.777570002Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "يهوه إلوهيم، صرختُ إليكَ فشفيتَني",
+  "tokens": [
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אֱלֹהָ֑י",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "שִׁוַּ֥עְתִּי",
+      "gloss": "صرخت"
+    },
+    {
+      "surface": "אֵ֝לֶ֗יךָ",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "וַתִּרְפָּאֵֽנִי",
+      "gloss": "فشفيتَني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:35.930772119Z",
+  "model": "glm-5.2"
+}

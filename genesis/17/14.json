@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 17:14",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وذكرٌ أغرلُ الذي لا يُختَن ⟨את⟩ لحمَ غُرلَتِه، فتُقطَع النَّفسُ تلك من شعبِها: ⟨את⟩ بريتي نكَث.",
+  "tokens": [
+    {
+      "surface": "וערל",
+      "gloss": "وأغرلُ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ذكرٌ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "يُختَن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لحم"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "لحمَ"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "غُرلَتِه"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "فتُقطَع"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "النَّفسُ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "تلك"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "من شعبِها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بريتي"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "بريتي"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "نكَث"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:04.600883602Z",
+  "model": "glm-5.2"
+}

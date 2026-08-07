@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "عندما اعتصرتني نفسي، ⟨את⟩ يهوه تذكّرتُ، وجاءت إليك صلاتي نحو هيكل قدسك.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "عندما اعتصرتني"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نفسي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "تذكّرتُ"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "وجاءت"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "صلاتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نحو"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "هيكل"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "قدسك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:27:56.681661779Z",
+  "model": "glm-5.2"
+}

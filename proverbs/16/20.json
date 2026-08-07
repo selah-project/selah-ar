@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 16:20",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "المُتَفطِّنُ للأمرِ يجدُ خيرًا، والمتوكِّلُ على يهوه طوبى له.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "المُتَفطِّن"
+    },
+    {
+      "surface": "על",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "يجد"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خيرًا"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "والمتوكِّل"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "على يهوه"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "طوبى له"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:24.236237542Z",
+  "model": "glm-5.2"
+}

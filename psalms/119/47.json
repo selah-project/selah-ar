@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 119:47",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "«و⟨أنغمسُ⟩ في وصاياك التي أحببتُها.»",
+  "tokens": [
+    {
+      "surface": "ואשתעשע",
+      "gloss": "«و⟨أنغمسُ⟩»"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "في وصاياك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "أحببتُها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:53.333268403Z",
+  "model": "glm-5.2"
+}

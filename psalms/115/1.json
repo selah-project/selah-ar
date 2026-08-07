@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 115,
+  "translation": "لا لنا يهوه، لا لنا، بل لاسمك ⟨هَبْ⟩ مجدًا، من أجل حِسِدِك، من أجل إمِتِّك.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بل\/لأنّ"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "لاسمك"
+    },
+    {
+      "surface": "תן",
+      "gloss": "⟨هَبْ⟩"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "مجدًا"
+    },
+    {
+      "surface": "על",
+      "gloss": "من أجل"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حِسِدِك"
+    },
+    {
+      "surface": "על",
+      "gloss": "من أجل"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "إمِتِّك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:02.691974855Z",
+  "model": "glm-5.2"
+}

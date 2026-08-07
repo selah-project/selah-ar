@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "ولماذا جئتم بـ⟨את⟩ جماعة يهوه إلى هذه البرّية لِنموت هناك نحن وبهائمنا؟",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "ولماذا"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "جئتم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جماعة يهوه"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "جماعة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "البرّية"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "למות",
+      "gloss": "لِنموت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "نحن"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "وبهائمنا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:38:07.071432300Z",
+  "model": "glm-5.2"
+}

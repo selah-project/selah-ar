@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "عِندَ موتِ الإنسانِ الرّاشِع تبيدُ رجاؤُه، ورجاءُ الأباطيلِ هَلَك.",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "عِندَ موتِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسانِ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "الرّاشِع"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "تبيدُ"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "رجاؤُه"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "ورجاءُ"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "الأباطيلِ"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "هَلَك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:04.533446734Z",
+  "model": "glm-5.2"
+}

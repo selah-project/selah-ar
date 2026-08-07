@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 6:12",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "كلَّم يهوه موشيهه قائلًا:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּר",
+      "gloss": "كلَّم"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨إلى⟩"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "לֵּאמֹֽר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:38:14.655636154Z",
+  "model": "glm-5.2"
+}

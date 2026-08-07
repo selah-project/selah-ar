@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "فيردّ يهوه إلوهيمك ⟨את⟩ سبيك ويرحمك، ويرجع ويجمّعك من كلّ الشعوب الذين بدّدك يهوه إلوهيمك هناك،",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "فيردّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سبيك"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "سبيك"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "ويرحمك"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ويرجع"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "ويجمّعك"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كلّ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "الشعوب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "بدّدك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هناك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:51.363588055Z",
+  "model": "glm-5.2"
+}

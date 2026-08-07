@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 27:9",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "واضطجع يوتام مع آبائه، ودفنوه ⟨את⟩⟨ه⟩ في مدينة داود، وملك أحاز ابنه عوضًا عنه.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "واضطجع"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "يوتام"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "آبائه"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ودفنوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ه"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "في مدينة"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "وملك"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "أحاز"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "عوضًا عنه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:28:52.913913851Z",
+  "model": "glm-5.2"
+}

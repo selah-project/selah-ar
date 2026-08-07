@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 12:33",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وتشدد مصرايم على الشعب ⟨ليسرعوا⟩ إلى إطلاقهم من الأرض، لأنهم قالوا: «نحن كلّنا أموات».",
+  "tokens": [
+    {
+      "surface": "ותחזק",
+      "gloss": "وتشدد"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "للإسراع"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "إطلاقهم"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "قالوا"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "نحن كلّنا"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "أموات"
+    }
+  ],
+  "timestamp": "2026-08-07T00:03:36.359614461Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وعاش ياردُ اثنتين وستّين سنةً ومئةَ سنةٍ، ووَلَدَ ⟨את⟩ حَنوك.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "وعاش"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "يارد"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "اثنتين"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "وستّين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ومئة"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ووَلَدَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حَنوك"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "حَنوك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:23.735230795Z",
+  "model": "glm-5.2"
+}

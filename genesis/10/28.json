@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "و⟨את⟩ عوبال و⟨את⟩ أَبِيماعيل و⟨את⟩ شَبع.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "عوبال"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "عوبال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أَبِيماعيل"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "أَبِيماعيل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "شَبع"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شَبع"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:51.321487606Z",
+  "model": "glm-5.2"
+}

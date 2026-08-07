@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وأرسل يوآڤ رسلًا إلى داود وقال: «قد حاربتُ في ربّة وأمسكتُ أيضًا ⟨את⟩ مدينة المياه.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "وأرسل"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآڤ"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "رسلًا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "حاربتُ"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "في ربّة"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "أمسكتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مدينة"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "המים",
+      "gloss": "المياه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:34:33.384509109Z",
+  "model": "glm-5.2"
+}

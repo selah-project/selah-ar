@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "وتأخذ ⟨את⟩ حجرَيِ الشوهَم، وتنقش عليهما أسماءَ بني يِسرايل،",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "وتأخذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حجرَيِ الشوهَم"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "حجرَيْ"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "حجري"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "الشوهَم"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "وتنقش"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "عليهما"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "أسماءَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:57.290698390Z",
+  "model": "glm-5.2"
+}

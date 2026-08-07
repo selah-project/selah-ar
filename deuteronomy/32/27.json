@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 32:27",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "لولا أنّي أرهب استفزاز العدوّ، لئلّا يجهل مضايقوهم، لئلّا يقولوا: يدُنا ارتفعت، وليس يهوه فعل كلّ هذا.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "لولا أنّي"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "استفزاز"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "العدوّ"
+    },
+    {
+      "surface": "אגור",
+      "gloss": "أرهب"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلّا"
+    },
+    {
+      "surface": "ינכרו",
+      "gloss": "يجهل"
+    },
+    {
+      "surface": "צרימו",
+      "gloss": "مضايقوهم"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلّا"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "يقولوا"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "يدُنا"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ارتفعت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "وليس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "فعل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:01:56.149325252Z",
+  "model": "glm-5.2"
+}

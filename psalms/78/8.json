@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "ولا يكونوا كآبائهم، جيلٌ ماردٌ ومُرِيبٌ، جيلٌ لم يُهيّئ قلبه، ولم تثبت ⟨את⟩ إيل روَحه.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "يكونوا"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "كآبائهم"
+    },
+    {
+      "surface": "דור",
+      "gloss": "جيلٌ"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "ماردٌ"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "ومُرِيبٌ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "جيلٌ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "يُهيّئ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "قلبه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "تثبت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "إيل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "روَحه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:27.856907119Z",
+  "model": "glm-5.2"
+}

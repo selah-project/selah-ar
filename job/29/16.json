@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 29:16",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "أباً أنا للمحتاجين، ودعوى لا عرفتُها أفحصُها.",
+  "tokens": [
+    {
+      "surface": "אב",
+      "gloss": "أباً"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "للمحتاجين"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ودعوى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "عرفتُها"
+    },
+    {
+      "surface": "אחקרהו",
+      "gloss": "أفحصُها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:40:02.627580999Z",
+  "model": "glm-5.2"
+}

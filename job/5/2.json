@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "لأنّ الغضبَ يقتلُ الجاهل، والغيظُ يُميتُ الساذج.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "الجاهل"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "يُقتَل"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "الغيظ"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "والساذج"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "يُميت"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "الحسد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:08.499867928Z",
+  "model": "glm-5.2"
+}

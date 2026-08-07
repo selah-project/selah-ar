@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 30:17",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وإذا انصرف قلبُك ولم تسمع، ⟨و⟩أُزِحتَ وسجدتَ لإلوهيم آخرين وعبَدتَهم،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "انصرف"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "قلبك"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "تسمع"
+    },
+    {
+      "surface": "ונדחת",
+      "gloss": "⟨و⟩أُزِحتَ"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "⟨و⟩سجدتَ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "لإلوهيم"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "آخرين"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "⟨و⟩عبَدتَهم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:43:27.103589155Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 28:29",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "عُشرٌ عُشرٌ للكبش الواحد، لِسبعة الكِباش،",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "عُشر"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "عُشر"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "للكبش"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "الواحد"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "لِسبعة"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "الكِباش"
+    }
+  ],
+  "timestamp": "2026-08-07T00:42:58.143023811Z",
+  "model": "glm-5.2"
+}

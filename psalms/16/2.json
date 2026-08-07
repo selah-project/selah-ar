@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "قلتُ ليهوه: أنتَ أدوناي، طِيبتي لا ⟨هي⟩ إليك،",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "قلتُ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "طِيبتي"
+    },
+    {
+      "surface": "בל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "إليك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:43:26.623072699Z",
+  "model": "glm-5.2"
+}

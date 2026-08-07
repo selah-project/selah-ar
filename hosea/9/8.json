@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 9:8",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "راصدٌ أفراييم مع إلهي. نافي فخّ صائدٍ على كلّ طرقه، عداوةٌ في بيت إلهه.",
+  "tokens": [
+    {
+      "surface": "צפה",
+      "gloss": "راصدٌ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "أفراييم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلهي"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نافي"
+    },
+    {
+      "surface": "פח",
+      "gloss": "فخّ"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "صائدٍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "طرقه"
+    },
+    {
+      "surface": "משטמה",
+      "gloss": "عداوةٌ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في بيت"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "إلهه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:23:12.290794909Z",
+  "model": "glm-5.2"
+}

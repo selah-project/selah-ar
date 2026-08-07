@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 6:8",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فأرسلتُ إليه قائلاً: «لم يكن كهذه الأمور هذه التي أنت تقولها، بل من قلبك أنت تختلقها»",
+  "tokens": [
+    {
+      "surface": "ואשלחה",
+      "gloss": "فأرسلتُ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "يكن"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "كهذه الأمور"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "تقولها"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بل"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "من قلبك"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "בודאם",
+      "gloss": "تختلقها"
+    }
+  ],
+  "timestamp": "2026-08-07T05:05:31.562432746Z",
+  "model": "glm-5.2"
+}

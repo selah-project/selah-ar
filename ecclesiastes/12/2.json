@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "قبل ⟨أن⟩ لا تظلم الشمس والنور والقمر والكواكب، وترجع الغيوم بعد المطر.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "قبل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨أن⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "تظلم"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "الشمس"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "والنور"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "والقمر"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "والكواكب"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "وترجع"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "الغيوم"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "المطر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:53:29.637150291Z",
+  "model": "glm-5.2"
+}

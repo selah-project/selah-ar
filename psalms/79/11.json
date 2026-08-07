@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 79,
+  "translation": "لتأتي أمامك أنين الأسير حسب عظمة ذراعك، أطلق بني الموت.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "لتأتي"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "أمامك"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "أنين"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "الأسير"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "حسب عظمة"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "ذراعك"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "أطلق"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "الموت"
+    }
+  ],
+  "timestamp": "2026-08-07T04:01:38.170101019Z",
+  "model": "glm-5.2"
+}

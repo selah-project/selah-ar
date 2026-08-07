@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 22:10",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "ورأت عَتَلْيا أمّ أَحَزْيا أن ابنها قد مات، فقامت وأبادت ⟨את⟩ كل نسل الملك من بيت يهودا.",
+  "tokens": [
+    {
+      "surface": "ועתליהו",
+      "gloss": "وعَتَلْيا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أمّ"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "أَحَزْيا"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "رأت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "قد مات"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ابنها"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "فقامت"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "وأبادت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل نسل الملك"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "من بيت"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:28:38.218886654Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 95,
+  "translation": "لذلك أقسمتُ بغضبي: إن يدخلوا إلى منوَحتي!،",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "أقسمتُ"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "بغضبي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "يدخلوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "منوَحتي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:25.575664317Z",
+  "model": "glm-5.2"
+}

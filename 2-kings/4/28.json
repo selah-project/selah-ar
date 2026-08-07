@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فقالت: هل سألتُ ابنًا من عند أدوناي؟ ألم أقل: لا تُضلِّلني ⟨את⟩؟",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "هل سألتُ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنًا"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "من عند"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ألم"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "أقل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "تُضلِّل"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاي"
+    }
+  ],
+  "timestamp": "2026-08-07T07:33:32.726391321Z",
+  "model": "glm-5.2"
+}

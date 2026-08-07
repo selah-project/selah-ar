@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "و⟨את⟩ برج فنيئيل هدم، وقتل ⟨את⟩ رجال المدينة.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "برج"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "برج"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "فنيئيل"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "هدم"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "وقتل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رجال"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:15:40.125788513Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 14:35",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "يأتي صاحبُ البيت ويُخبر الكوهين قائلًا: كضربةٍ تراءت لي في البيت.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ويأتي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "והגיד",
+      "gloss": "ويُخبر"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "כנגע",
+      "gloss": "كضربة"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "تراءت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في البيت"
+    }
+  ],
+  "timestamp": "2026-08-07T00:19:32.763832670Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "يوعيل ⟨هو⟩ الرأس، وشافم الثاني، ويعني وشافاط في الباشان.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "يوعيل"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "الرأس"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "وشافم"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "الثاني"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "ويعني"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "وشافاط"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "في الباشان"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:07.617119730Z",
+  "model": "glm-5.2"
+}

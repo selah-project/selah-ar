@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "بَاءَ الغُرورُ، فَجاءَ الهَوانُ، وَمَعَ ⟨المُتواضِعينَ⟩ حِكمَة.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "جاء"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "غرور"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "فجاء"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "هوان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "المتواضعين"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "المتواضعين"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حكمة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:00.705494735Z",
+  "model": "glm-5.2"
+}

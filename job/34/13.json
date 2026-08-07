@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 34:13",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "من ولاّه ⟨على⟩ الأرض؟ ومن وضع المسكونة كلَّها؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ولاّه"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨على⟩"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "שם",
+      "gloss": "وضع"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "المسكونة"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "كلَّها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:41:44.273654295Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "فاضطجع أوريّاه عند مدخل بيت الملك ⟨مع⟩ ⟨את⟩ كلّ عبيد سيّده، ولم ينزل إلى بيته.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "فاضطجع"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "أوريّاه"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "عند مدخل"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عبيد"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "سيّده"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ينزل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "بيته"
+    }
+  ],
+  "timestamp": "2026-08-07T01:34:43.704755982Z",
+  "model": "glm-5.2"
+}

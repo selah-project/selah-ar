@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "لا يَصْرخُ ولا يَرفعُ، ولا يُسمِعُ في الخارج صوتَه.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "يَصْرخُ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "يَرفعُ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "يُسمِعُ"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "في الخارج"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "صوتَه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:18:39.101363575Z",
+  "model": "glm-5.2"
+}

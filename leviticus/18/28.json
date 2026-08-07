@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "ولا تقلعُ الأرضُ إيّاكم بتنجيسِكم إيّاها، كما قلعتْ ⟨את⟩ الأمّةِ التي أمامَكم.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "تقلع"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "إيّاكم"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "بتنجيسكم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "إيّاها"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "قلعت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأمّة"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "الأمّة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "أمامكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:07.359778965Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 18:4",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فقال لهم: هكذا وهكذا صنع لي ميخا، وقد استأجرني فصرتُ له كوهينًا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "וכזה",
+      "gloss": "وهكذا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنع"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ميخا"
+    },
+    {
+      "surface": "וישכרני",
+      "gloss": "وقد استأجرني"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "فصرتُ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "كوهينًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:19:09.512726964Z",
+  "model": "glm-5.2"
+}

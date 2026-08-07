@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 20:25",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "وأيضًا أنا أعطيتهم فرائض غير صالحة وأحكامًا لا يحيون ⟨فيها⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "أعطيتهم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "فرائض"
+    },
+    {
+      "surface": "לא",
+      "gloss": "غير"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "صالحة"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "وأحكامًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "يحيون"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "فيها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:05:26.015372631Z",
+  "model": "glm-5.2"
+}

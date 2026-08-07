@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 21:27",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "ذَبيحَةُ الأشرارِ رِجسٌ، فكيفَ إذا بِزِمَّةٍ أحضَرَها؟",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "ذبيحة"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الأشرار"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "رجس"
+    },
+    {
+      "surface": "אף",
+      "gloss": "فكيف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "بزِمّة"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "أحضرها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:47.139297275Z",
+  "model": "glm-5.2"
+}

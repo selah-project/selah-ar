@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "وقال داود: حيّ هو يهوه، بل يهوه يضربه، أو يأتي يومه فيموت، أو في الحرب ينزل فيُجمَع.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "חי",
+      "gloss": "حيّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨صادقًا⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "يضربه"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "يومه"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "يأتي"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "فيموت"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "في الحرب"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ينزل"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "فيُجمَع"
+    }
+  ],
+  "timestamp": "2026-08-07T01:30:13.475595247Z",
+  "model": "glm-5.2"
+}

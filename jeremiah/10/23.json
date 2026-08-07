@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 10:23",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "عَرَفْتُ، يهوه، أنْ ليستْ للإنسان طريقُهُ، لا ⟨لـ⟩رجلٍ أن يسير ويُهيّئ ⟨את⟩ خُطاه.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "عَرَفْتُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليست"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "للإنسان"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "طريقُه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "⟨لـ⟩رجل"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "أن يسير"
+    },
+    {
+      "surface": "והכין",
+      "gloss": "ويُهيّئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خُطاه"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "خُطاه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:54:26.077860018Z",
+  "model": "glm-5.2"
+}

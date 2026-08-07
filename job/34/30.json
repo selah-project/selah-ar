@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 34:30",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "مِن تَمَلُّكِ إنسانٍ مُنافِق، مِن فِخاخِ شعبٍ",
+  "tokens": [
+    {
+      "surface": "ממלך",
+      "gloss": "مِن تَمَلُّكِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "إنسانٍ"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "مُنافِق"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "مِن فِخاخِ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعبٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:42:09.498501362Z",
+  "model": "glm-5.2"
+}

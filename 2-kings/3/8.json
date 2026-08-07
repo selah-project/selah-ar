@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فقال: «أيّ طريق نصعد؟» فقال: «طريق برّية أدوم».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אי",
+      "gloss": "أيّ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "الطريق"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "نصعد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "طريق"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "برّية"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "أدوم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:53:23.245341564Z",
+  "model": "glm-5.2"
+}

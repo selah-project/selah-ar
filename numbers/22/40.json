@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 22:40",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وذبح بالاق بقرًا وغنمًا، وأرسل إلى بيلعَم وإلى الرؤساء الذين معه.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "وذبح"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "بقرًا"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "وغنمًا"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "وأرسل"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "إلى بيلعَم"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "وإلى الرؤساء"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:39:02.969982067Z",
+  "model": "glm-5.2"
+}

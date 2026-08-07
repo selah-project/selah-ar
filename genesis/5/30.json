@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 5:30",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وعاش لامك بعد ولادته ⟨את⟩ نُواح خمسًا وتسعين سنة وخمسمائة سنة، وولد بنين وبنات",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "وعاش"
+    },
+    {
+      "surface": "למך",
+      "gloss": "لامك"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ولادته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نُواح"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُواح"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "خمسًا"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "وتسعين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "وخمسمائة"
+    },
+    {
+      "surface": "מאת",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "وولد"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بنين"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "وبنات"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:28.768029821Z",
+  "model": "glm-5.2"
+}

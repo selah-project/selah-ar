@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 17:11",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "على فم التوراة التي يُرشدك وعلى الحُكم الذي يقولون ⟨أنت⟩ تفعل؛ لا تحد عن الكلمة التي يُخبرون ⟨أنت⟩ يمينًا و⟨أو⟩ يسارًا.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فم"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "التوراة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "يُرشدك"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "الحُكم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "يقولون"
+    },
+    {
+      "surface": "לך",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تفعل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "تحد"
+    },
+    {
+      "surface": "מן",
+      "gloss": "عن"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الكلمة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "يُخبرون"
+    },
+    {
+      "surface": "לך",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "يمينًا"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "ويسارًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:11.646601893Z",
+  "model": "glm-5.2"
+}

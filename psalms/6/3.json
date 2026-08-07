@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "تحنّن عليَّ يهوه لأنني ضعيف، اشفني يهوه لأنّ عظامي قد ارتعدت",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "تحنّن عليَّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "ضعيف"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "اشفني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "قد ارتعدت"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "عظامي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:41:01.201109034Z",
+  "model": "glm-5.2"
+}

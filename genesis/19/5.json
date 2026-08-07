@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "ودعوا لوطًا وقالوا له: «أين الرجال الذين جاؤوا إليك الليلة؟ أخرِجهم إلينا ونَعْرِفَهم ⟨את⟩»",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "ودعوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوط"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقالوا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "איה",
+      "gloss": "أين"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "الرجال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "באו",
+      "gloss": "جاؤوا"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "الليلة"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "أخرِجهم"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "إلينا"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "ونَعْرِفَ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "هم"
+    }
+  ],
+  "timestamp": "2026-08-07T08:32:55.149146308Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "هوذا لِيهوه إلوهيمك السماوات وسموات السماوات، الأرض وكلُّ ما فيها",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "لِيهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "وسموات"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلُّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    }
+  ],
+  "timestamp": "2026-08-07T05:42:41.000703079Z",
+  "model": "glm-5.2"
+}

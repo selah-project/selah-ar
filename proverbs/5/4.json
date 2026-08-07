@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 5:4",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "لكن عاقبتها مُرَّة كالأفسنتين، حادَّة كسيف ذي فمين.",
+  "tokens": [
+    {
+      "surface": "ואחריתה",
+      "gloss": "لكن عاقبتها"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "مُرَّة"
+    },
+    {
+      "surface": "כלענה",
+      "gloss": "كالأفسنتين"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "حادَّة"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "كسيف"
+    },
+    {
+      "surface": "פיות",
+      "gloss": "ذي فمين"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:22.826594530Z",
+  "model": "glm-5.2"
+}

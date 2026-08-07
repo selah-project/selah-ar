@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "ووضع ⟨את⟩ها على كتفَي الأِيفود، أحجارَ تذكارٍ لبني يسرايل، كما وصى يهوه ⟨את⟩ موشيه.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ووضع"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاها"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "كتفَي"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "الأِيفود"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "أحجار"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "تذكار"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لبني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "وصى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    }
+  ],
+  "timestamp": "2026-08-07T07:04:33.470439198Z",
+  "model": "glm-5.2"
+}

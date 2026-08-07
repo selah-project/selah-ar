@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "فقال أهارون: لا يَحْمَدْنَّ غضب سيّدي، أنت تعرف ⟨את⟩ الشعب، أنّه في شرٍّ هو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "يلتهب"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سيّدي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "تعرف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "في شرٍّ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:25.371594670Z",
+  "model": "glm-5.2"
+}

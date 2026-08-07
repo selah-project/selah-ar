@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 22:30",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وطلبتُ منهم رجلًا يبنى سورًا ويقف⟨ُ⟩ في الثغرة أمامي لأجل الأرض لألّا أُهلِكها، فلم أجد.",
+  "tokens": [
+    {
+      "surface": "ואבקש",
+      "gloss": "وطلبتُ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "منهم"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلًا"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "يبنى"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "سورًا"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "ويقف"
+    },
+    {
+      "surface": "בפרץ",
+      "gloss": "في الثغرة"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمامي"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "لأجل"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "لألّا"
+    },
+    {
+      "surface": "שחתה",
+      "gloss": "أُهلِكها"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "أجد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:03:38.570363628Z",
+  "model": "glm-5.2"
+}

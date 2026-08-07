@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فاندفعوا وصعدوا الجبل، وجاؤوا حتى وادي إِشكول، وتجسّسوها.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "فاندفعوا"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "وصعدوا"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "الجبل"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "وجاؤوا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "وادي"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "إِشكول"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "وتجسّسوها"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاها (الأرض)"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:27.094814644Z",
+  "model": "glm-5.2"
+}

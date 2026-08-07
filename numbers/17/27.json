@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 17:27",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "فقال بنو يسرايل لموشيه قائلين: هوذا نفَسُنا يَخرج، هلكنا جميعًا، هلكنا.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "הן",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "גוענו",
+      "gloss": "نفَسُنا يخرج"
+    },
+    {
+      "surface": "אבדנו",
+      "gloss": "هلكنا"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "جميعًا"
+    },
+    {
+      "surface": "אבדנו",
+      "gloss": "هلكنا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:37:05.982322121Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 27:25",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "فقال: «قرّب ⟨لي⟩ وآكل من صيد ابني لكي تباركك نفسي.» فقرّب له فأكل، وأحضر له خمرًا فشرب.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "הגשה",
+      "gloss": "قرّب"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "وآكل"
+    },
+    {
+      "surface": "מציד",
+      "gloss": "من صيد"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ابني"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "תברכך",
+      "gloss": "تباركك"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نفسي"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "فقرّب"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "فأكل"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "وأحضر"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "יין",
+      "gloss": "خمرًا"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "فشرب"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:13.424465507Z",
+  "model": "glm-5.2"
+}

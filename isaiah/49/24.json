@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 49:24",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "«أيُؤخَذ من الجبّار غنيمته؟ وإنْ أسيرَ الصدّيق هل يُنقَذ؟»",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "أيُؤخَذ"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "من الجبّار"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "غنيمته"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإنْ"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "أسيرَ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "الصدّيق"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "هل يُنقَذ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:21:28.277562531Z",
+  "model": "glm-5.2"
+}

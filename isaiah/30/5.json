@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "الجميع ⟨يُخزى⟩ بسبب شعب لا ينفعهم، لا لعونٍ ولا لنفع، بل لخزيٍ وأيضًا لعار.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "الجميع"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "يُخزى"
+    },
+    {
+      "surface": "על",
+      "gloss": "بسبب"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "ينفعهم"
+    },
+    {
+      "surface": "למו",
+      "gloss": "إياهم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "لعون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "لنفع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بل"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "لخزي"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "لعار"
+    }
+  ],
+  "timestamp": "2026-08-07T02:14:03.362577955Z",
+  "model": "glm-5.2"
+}

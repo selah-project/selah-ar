@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 14:43",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وإذا رجع الضّرَب وانتشر في البيت بعد نزع ⟨את⟩ الحجارة، وبعد قشط ⟨את⟩ البيت وبعد الطّلي،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "رجع"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "الضّرَب"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "وانتشر"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في البيت"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "نزع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الحجارة"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "الحجارة"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "وبعد"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "قشط"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "البيت"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "وبعد"
+    },
+    {
+      "surface": "הטוח",
+      "gloss": "الطّلي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:19:53.204225198Z",
+  "model": "glm-5.2"
+}

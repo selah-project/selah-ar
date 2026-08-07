@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 5:1",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "أُنشِدُنَّا ⟨ل⟩حبيبي نَشيدَ حبيبي ⟨عن⟩كرمه: كرمٌ ⟨كان⟩ لحبيبي في قرنٍ ⟨ابن⟩ دهنٍ،",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "أُنشِدُ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "نَّ"
+    },
+    {
+      "surface": "לידידי",
+      "gloss": "لحبيبي"
+    },
+    {
+      "surface": "שירת",
+      "gloss": "نَشيدَ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "حبيبي"
+    },
+    {
+      "surface": "לכרמו",
+      "gloss": "عن كرمه"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "كرمٌ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "לידידי",
+      "gloss": "لحبيبي"
+    },
+    {
+      "surface": "בקרן",
+      "gloss": "في قرنٍ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "دهنٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:05:47.359142946Z",
+  "model": "glm-5.2"
+}

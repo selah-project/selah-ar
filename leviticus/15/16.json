@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "ورجلٌ إذا خرجت منه شِكبَةُ زرع، يغسل في الماء ⟨את⟩ كلّ لحمه، فيكون طمِسًا حتى المساء.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ورجلٌ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "خرجت"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "شِكبَةُ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "زرع"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "يغسل"
+    },
+    {
+      "surface": "במים",
+      "gloss": "في الماء"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ لحمه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "لحمه"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "فيكون طمِسًا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "المساء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:04.437962891Z",
+  "model": "glm-5.2"
+}

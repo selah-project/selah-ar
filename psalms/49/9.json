@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "وغالٍ فداءُ نَفْسِهِم، و⟨ينقطع⟩ إلى الأبد.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "وغالٍ"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "فداءُ"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "نَفْسِهِم"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "و⟨ينقطع⟩"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:51:42.535077813Z",
+  "model": "glm-5.2"
+}

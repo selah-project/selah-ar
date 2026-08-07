@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 16:16",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "اقتناءُ حكمةٍ، ما أبدعه من ذهبٍ، واقتناءَ فطنةٍ مُختارٌ من فضّة.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "اقتناءُ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حكمة"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "أبدعه"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "من ذهب"
+    },
+    {
+      "surface": "וקנות",
+      "gloss": "واقتناءَ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "فطنة"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "مُختار"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "من فضّة"
+    }
+  ],
+  "timestamp": "2026-08-07T06:08:30.453277528Z",
+  "model": "glm-5.2"
+}

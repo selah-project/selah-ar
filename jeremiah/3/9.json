@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "و⟨كان⟩ من ⟨خفّة⟩ زِناها ⟨أن⟩ نجّست ⟨את⟩ الأرض وزنت ⟨את⟩ الحجر و⟨את⟩ الشجر.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "من خفّة"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "زناها"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "نجّست"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "وزنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الحجر"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "الحجر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الشجر"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "الشجر"
+    }
+  ],
+  "timestamp": "2026-08-07T02:29:01.060169604Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 47,
+  "translation": "صعد إلوهيم بِهُتاف، يهوه بصوت شوفار.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "صعد"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "بِهُتاف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "بصوت"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شوفار"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:53.518894112Z",
+  "model": "glm-5.2"
+}

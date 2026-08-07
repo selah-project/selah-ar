@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 21:11",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وترى في السبي امرأة جميلة المنظر، وتشتاق إليها، وتأخذها لك زوجة،",
+  "tokens": [
+    {
+      "surface": "וראית",
+      "gloss": "وترى"
+    },
+    {
+      "surface": "בשביה",
+      "gloss": "في السبي"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "جميلة"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "المنظر"
+    },
+    {
+      "surface": "וחשקת",
+      "gloss": "وتشتاق"
+    },
+    {
+      "surface": "בה",
+      "gloss": "إليها"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "وتأخذها"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زوجة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:28.860111640Z",
+  "model": "glm-5.2"
+}

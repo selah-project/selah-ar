@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 5:28",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وإن لم تتنجّس المرأة وطاهرة هي، تُبرَّأ وتُزرع زرعًا.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "נטמאה",
+      "gloss": "تنجّس"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "المرأة"
+    },
+    {
+      "surface": "וטהרה",
+      "gloss": "وطاهرة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "ונקתה",
+      "gloss": "تُبرَّأ"
+    },
+    {
+      "surface": "ונזרעה",
+      "gloss": "تُزرع"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "زرعًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:29:46.956482842Z",
+  "model": "glm-5.2"
+}

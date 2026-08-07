@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "راقِبِ التامَّ ⟨و⟩أبصِرِ المُستقيمَ، لأنَّ عاقبةَ رجلِ شالوم",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "راقِبْ"
+    },
+    {
+      "surface": "תם",
+      "gloss": "التامَّ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "⟨و⟩أبصِرْ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "المُستقيمَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "عاقبةَ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "رجلِ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:51.737102109Z",
+  "model": "glm-5.2"
+}

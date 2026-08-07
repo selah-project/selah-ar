@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 17:5",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وأخذ من زرع الأرض ووضعه في حقل زرع، أخذ ⟨على⟩ مياهٍ كثيرة صفصفةً وضعها.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "من زرع"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "ووضعه"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "في حقل"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "زرع"
+    },
+    {
+      "surface": "קח",
+      "gloss": "أخذ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "מים",
+      "gloss": "مياه"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرة"
+    },
+    {
+      "surface": "צפצפה",
+      "gloss": "صفصفة"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "وضعها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:00:39.906523782Z",
+  "model": "glm-5.2"
+}

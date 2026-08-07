@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فمدَّ موشيه ⟨את⟩ يده نحو السماوات، فكانت ظُلمة حالكة في كل أرض مصرايم ثلاثة أيام.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "فمدَّ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يده"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "על",
+      "gloss": "نحو"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "فكانت"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ظُلمة"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "حالكة"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كل"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ثلاثة"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيام"
+    }
+  ],
+  "timestamp": "2026-08-07T05:36:58.009966874Z",
+  "model": "glm-5.2"
+}

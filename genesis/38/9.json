@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 38:9",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "وَعَلِمَ أُونانُ أنِّ ليس له يكون النّسل، وكان إذا دخل إلى امرأة أخيه يُفسِدُ إلى الأرض لِئلّا يُعطيَ نسلًا لأخيه.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "وَعَلِمَ"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "أُونانُ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "النّسل"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "בא",
+      "gloss": "دخل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "أخيه"
+    },
+    {
+      "surface": "ושחת",
+      "gloss": "يُفسِدُ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "إلى الأرض"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "لِئلّا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "يُعطيَ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نسلًا"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "لأخيه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:14.879466455Z",
+  "model": "glm-5.2"
+}

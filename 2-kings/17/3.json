@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 17:3",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "عليه صعِدَ شلمنأْسَر ملكُ آشور، فصار له هوشِيع عبدًا، وردّ له تقدمةً.",
+  "tokens": [
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "صعِد"
+    },
+    {
+      "surface": "שלמנאסר",
+      "gloss": "شلمنأْسَر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "آشور"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "فصار"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "هوشِيع"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عبدًا"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "وردّ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "تقدمة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:59:28.789253995Z",
+  "model": "glm-5.2"
+}

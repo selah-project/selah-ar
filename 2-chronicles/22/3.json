@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 22:3",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "أيضًا ⟨هو⟩ سارَ في طرقِ بيتِ أخآف، لأنّ أمّه كانت مُشيرةً عليه لإفساد.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "سار"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "في طرق"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "أخآف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "أمه"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "كانت"
+    },
+    {
+      "surface": "יועצתו",
+      "gloss": "مشيرةً عليه"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "لإفساد"
+    }
+  ],
+  "timestamp": "2026-08-07T05:28:37.076808568Z",
+  "model": "glm-5.2"
+}

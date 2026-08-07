@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 27:7",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وبقيّة أمور يوتام وكلّ حروبه وطرقه، هاهي مكتوبة على سفر ملوك يسرائيل ويهودا.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "وبقيّة"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "أمور"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "يوتام"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "מלחמתיו",
+      "gloss": "حروبه"
+    },
+    {
+      "surface": "ודרכיו",
+      "gloss": "وطرفه"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "هاهي"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "مكتوبة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سفر"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ملوك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ويهودا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:29:39.274403995Z",
+  "model": "glm-5.2"
+}

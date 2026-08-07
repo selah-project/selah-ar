@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 19:3",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وموشيه صعد إلى إلوهيم، فناداه يهوه من الجبل قائلًا: كذا تقول لبيت يعقوف وتُخبر لبني يِسرائيل:",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "وموشيه"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "صعد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "فنادى"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "الجبل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "כה",
+      "gloss": "كذا"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "تقول"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "لبيت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "ותגיד",
+      "gloss": "وتُخبر"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لبني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:33.023395351Z",
+  "model": "glm-5.2"
+}

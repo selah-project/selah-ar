@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "لا يومًا واحدًا تأكلون، ولا يومين، ولا خمسة أيّام، ولا عشرة أيّام، ولا عشرين يومًا —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يومًا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "تأكلون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "يومين"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "خمسة"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرة"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "عشرين"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يومًا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:41:32.626519839Z",
+  "model": "glm-5.2"
+}

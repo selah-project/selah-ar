@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 13:12",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فقالت له: «لا يا أخي، لا تُذِلَّني، لأنه لا يُفعَل هكذا في إسرائيل. لا تفعل ⟨את⟩ هذه النّابالاه!",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "يا أخي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "تُذِلَّني"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يُفعَل"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "في إسرائيل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تفعل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "النابالاه"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "النّابالاه"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:35:10.923125297Z",
+  "model": "glm-5.2"
+}

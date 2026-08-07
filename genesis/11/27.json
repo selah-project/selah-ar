@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وهذه تولدات تارَح: تارَح ولَد ⟨את⟩ أفرام ⟨את⟩ ناحور و⟨את⟩ هاران، وهاران ولَد ⟨את⟩ لوط.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "وهذه"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "تولدات"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تارَح"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تارَح"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أفرام"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "أفرام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناحور"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحور"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "هاران"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "هاران"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "وهاران"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لوط"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوط"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:01.041414999Z",
+  "model": "glm-5.2"
+}

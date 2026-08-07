@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 10:21",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "شَفَتا الصِّدِّيق تَرعيانِ كثيرين، ⟨و⟩الجهلاء بنقص الفؤاد يموتون.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "شفتا"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "الصديق"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "ترعيان"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرين"
+    },
+    {
+      "surface": "ואוילים",
+      "gloss": "والجهلاء"
+    },
+    {
+      "surface": "בחסר",
+      "gloss": "بنقص"
+    },
+    {
+      "surface": "לב",
+      "gloss": "الفؤاد"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "يموتون"
+    }
+  ],
+  "timestamp": "2026-08-07T04:24:42.606442662Z",
+  "model": "glm-5.2"
+}

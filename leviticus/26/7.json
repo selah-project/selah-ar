@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "وتطاردون ⟨את⟩ أعدائكم، فيسقطون أمامكم بالسيف.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "وتطاردون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أعدائكم"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "أعدائكم"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "فيسقطون"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "أمامكم"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "بالسيف"
+    }
+  ],
+  "timestamp": "2026-08-07T00:26:28.425016179Z",
+  "model": "glm-5.2"
+}

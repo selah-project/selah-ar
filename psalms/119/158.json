@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "رأيتُ غادِرين فاقتنَتْ نفسي، أنّهم كلامك لم يحفظوا.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "رأيتُ"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "غادِرين"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "فاقتنَتْ نفسي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "أنّهم"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "كلامك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "يحفظوا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:13:07.998956123Z",
+  "model": "glm-5.2"
+}

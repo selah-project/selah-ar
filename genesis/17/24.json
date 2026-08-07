@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 17:24",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وكان أفراهام ابن تسع وتسعين سنة في ختنه بشر قُلفته.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "وكان أفراهام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "تسعين"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "وتسع"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "في ختنه"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بشر"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "قُلفته"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:32.702351448Z",
+  "model": "glm-5.2"
+}

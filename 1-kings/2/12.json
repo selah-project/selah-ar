@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 2:12",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وشلومو جلس على كرسي داود أبيه، وثَبُتَت مملكته جدًّا.",
+  "tokens": [
+    {
+      "surface": "ושלמה",
+      "gloss": "وشلومو"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "جلس"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "كرسي"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "وثَبُتَت"
+    },
+    {
+      "surface": "מלכתו",
+      "gloss": "مملكته"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:42:07.997668282Z",
+  "model": "glm-5.2"
+}

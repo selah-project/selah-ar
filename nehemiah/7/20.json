@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 7:20",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "بَنو عادين، سِتَّ مئة وخمسين وخمسَة.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بَنو"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "عادين"
+    },
+    {
+      "surface": "שש",
+      "gloss": "سِتَّ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "وخمسين"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "وخمسَة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:05:54.443316452Z",
+  "model": "glm-5.2"
+}

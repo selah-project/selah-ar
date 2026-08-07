@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "ملكٌ بالحقّ يُثبِّت أرضًا، ورجلُ تروموتٍ يهدِمها.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "بالحقّ"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "يُثبِّت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ورجل"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "تروموت"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "يهدِمها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:11.496711062Z",
+  "model": "glm-5.2"
+}

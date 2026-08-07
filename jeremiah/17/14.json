@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 17:14",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "اشفِني يا يهوه فأُشفى، خلّصني فأُخلَّص، لأنك ⟨هو⟩ تَهيلَتي.",
+  "tokens": [
+    {
+      "surface": "רפאני",
+      "gloss": "اشفِني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וארפא",
+      "gloss": "فأُشفى"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "خلّصني"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "فأُخلَّص"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنك"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "تَهيلَتي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:36:45.837320792Z",
+  "model": "glm-5.2"
+}

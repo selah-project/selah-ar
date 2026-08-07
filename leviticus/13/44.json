@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 13:44",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "رجلٌ مَصروع هو، طامٍ هو؛ يُنَجِّسه الكاهن، في رأسه نَگَعُه.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "مَصروع"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "طامٍ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "طامٍ"
+    },
+    {
+      "surface": "יטמאנו",
+      "gloss": "يُنَجِّسه"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكاهن"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "في رأسه"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "نَگَعُه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:19:13.227905384Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 16:34",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "احْمَدوا لِيهوه، لأنّه صالح، لأنَّ إلى الأبد حِسِدُه",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "احمدوا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "صالح"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حِسِدُه"
+    }
+  ],
+  "timestamp": "2026-08-07T06:43:33.169661629Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 5:2",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "لأنّ يهودا غبر ⟨على⟩ إخوته، وللنقيذ منه، والبكرّوه ليوسف.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "غبر"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "⟨على⟩ إخوته"
+    },
+    {
+      "surface": "ולנגיד",
+      "gloss": "وللنقيذ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "והבכרה",
+      "gloss": "والبكرّوه"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "ليوسف"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:10.343703616Z",
+  "model": "glm-5.2"
+}

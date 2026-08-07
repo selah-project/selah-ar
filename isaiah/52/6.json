@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 52,
+  "translation": "لذلك يعرف شعبي اسمي، لذلك في ذلك اليوم ⟨أنّهم⟩ يعرفون أنّي أنا هو المتكلِّم. هأنذا.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "يعرف"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "شعبي"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "اسمي"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أني أنا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "المتكلِّم"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "هأنذا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:22:25.288111086Z",
+  "model": "glm-5.2"
+}

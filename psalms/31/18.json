@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "يهوه، لا أَخزَى لأنّي دعوتك. ليَخزَ الأشرار، ليَصمتوا إلى شيول.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "أَخزَى"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "دعوتك"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ليَخزَ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الأشرار"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "ليَصمتوا"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "إلى شيول"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:53.099898193Z",
+  "model": "glm-5.2"
+}

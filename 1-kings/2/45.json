@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 2:45",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "والمَلِكُ شلوموه مبارَك، وكرسيُ دافيد يكون ثابتًا أمام يهوه إلى الأبد».",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "والملك"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموه"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "مبارَك"
+    },
+    {
+      "surface": "וכסא",
+      "gloss": "وكرسيُّ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "دافيد"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ثابتًا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T01:41:58.371468555Z",
+  "model": "glm-5.2"
+}

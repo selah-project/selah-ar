@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 12:22",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "لأنَّ يهوه لا يَترك ⟨את⟩ شعبَه، مِن أجل اسمه العظيم، لأنَّ يهوه شاءَ أن يَصنعكم له شعبًا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "يَترك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شعبه"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبَه"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "مِن أجل"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمِه"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "العظيم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "شاءَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "أن يَصنع"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "إيّاكم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "شعبًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:23:09.831140698Z",
+  "model": "glm-5.2"
+}

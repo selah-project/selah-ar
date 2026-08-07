@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 1:6",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وحبلت أيضًا وولدت بنتًا، فقال له: ادعُ اسمها لُؤ-رُحاماه، لأنّي لا أزيد بعد أن أرحَم ⟨את⟩ بيت يسرايل، بل ⟨رفعًا⟩ أرفعهم.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "وحبلت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "وولدت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنتًا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ادعُ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اسمها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لُؤ"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "رُحاماه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "أزيد"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "أن أرحَم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بل"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "⟨رفعًا⟩"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "أرفعهم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "هم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:19:42.584075701Z",
+  "model": "glm-5.2"
+}

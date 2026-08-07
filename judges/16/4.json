@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 16:4",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وحدث بعد ذلك أنّه أحبَّ امرأةً في وادي سورَق، واسمها دَليلَة.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وحدث"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "أحبَّ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأةً"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "في وادي"
+    },
+    {
+      "surface": "שרק",
+      "gloss": "سورَق"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "واسمها"
+    },
+    {
+      "surface": "דלילה",
+      "gloss": "دَليلَة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:18:30.139716988Z",
+  "model": "glm-5.2"
+}

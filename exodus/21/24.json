@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "عينًا تحت عين، سنًّا تحت سنّ، يدًا تحت يد، رِجلاً تحت رِجل",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "عينًا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عين"
+    },
+    {
+      "surface": "שן",
+      "gloss": "سنًّا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "שן",
+      "gloss": "سنّ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يدًا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يد"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "رِجلاً"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "رِجل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:21.289119253Z",
+  "model": "glm-5.2"
+}

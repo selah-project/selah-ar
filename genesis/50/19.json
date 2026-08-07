@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "فقال لهم يوسيف: «لا تخافوا، فهَل مكان إلوهيم أنا؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسيف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "تخافوا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "فهَل"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "مكان"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:24.125794714Z",
+  "model": "glm-5.2"
+}

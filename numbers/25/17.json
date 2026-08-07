@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "ضايِقوا ⟨את⟩ المِديانيِّين واضربوهم ⟨את⟩⟨هم⟩،",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "ضايِقوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المِديانيِّين"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "المِديانيِّين"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "واضربوهم"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩⟨هم⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T00:39:25.314298791Z",
+  "model": "glm-5.2"
+}

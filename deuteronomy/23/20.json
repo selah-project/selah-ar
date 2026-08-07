@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "لا تُرْبِ لأخيك رِبًا فضَّةٍ رِبًا طعامٍ رِبًا كلَّ شيءٍ يُرْبَى.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תַשִּׁ֣יךְ",
+      "gloss": "تُرْبِ"
+    },
+    {
+      "surface": "לְאָחִ֔יךָ",
+      "gloss": "لأخيك"
+    },
+    {
+      "surface": "נֶ֥שֶׁךְ",
+      "gloss": "رِبًا"
+    },
+    {
+      "surface": "כֶּ֖סֶף",
+      "gloss": "فضَّةٍ"
+    },
+    {
+      "surface": "נֶ֣שֶׁךְ",
+      "gloss": "رِبًا"
+    },
+    {
+      "surface": "אֹ֑כֶל",
+      "gloss": "طعامٍ"
+    },
+    {
+      "surface": "נֶ֕שֶׁךְ",
+      "gloss": "رِبًا"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "דָבָר֖",
+      "gloss": "شيءٍ"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יִשָּֽׁךְ",
+      "gloss": "يُرْبَى"
+    }
+  ],
+  "timestamp": "2026-08-07T05:43:24.329386855Z",
+  "model": "glm-5.2"
+}

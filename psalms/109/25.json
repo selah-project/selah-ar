@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 109,
+  "translation": "وأمّا أنا فقد كنتُ عارًا عليهم، إذا رأوني هزّوا رأسهم.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "وأمّا أنا"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "فقد كنتُ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "عارًا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "إذا رأوني"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "هزّوا"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "رأسهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:09.220812975Z",
+  "model": "glm-5.2"
+}

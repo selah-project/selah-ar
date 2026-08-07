@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 1:10",
+  "book": "amos",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "و⟨أُرسِلُ⟩ نارًا في سور صُور، فتأكُلُ قصورَها.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "و⟨أُرسِلُ⟩"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نارًا"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "في سور"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صُور"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "فتأكُلُ"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "قصورَها"
+    }
+  ],
+  "timestamp": "2026-08-07T07:56:55.936392620Z",
+  "model": "glm-5.2"
+}

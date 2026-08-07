@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "و⟨את⟩ لحم الثور و⟨את⟩ جلده و⟨את⟩ فرثه تحرق بالنار خارج المحلّة، خطيئة هو.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "لحم"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "لحم"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "الثور"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "جلده"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "جلده"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "فرثه"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "فرثه"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "تحرق"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بالنار"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "خارج"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "المحلّة"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "خطيئة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T07:03:11.777288212Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "كُلَّ ذَا عَمَلٍ عَمِلَهُ يَهوهُ لِأَجْلِهِ، وَكَذَلِكَ الشَّارُّ لِيَوْمِ رَاع",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ذا عمل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "لأجله"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "وكذلك"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "الشارّ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ليوم"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "راع"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:41.220125406Z",
+  "model": "glm-5.2"
+}

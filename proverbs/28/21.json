@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "تعرُّفُ الوجوهِ ليس جيّدًا، وعلى فُتاتِ خبزٍ يَعصي إنسان.",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "تعرُّفُ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "الوجوهِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "جيّدًا"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "פת",
+      "gloss": "فُتاتِ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزٍ"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "يَعصي"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "إنسان"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:55.740167359Z",
+  "model": "glm-5.2"
+}

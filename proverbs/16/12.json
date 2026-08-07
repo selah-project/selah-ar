@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 16:12",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "مَقْتُ الملوكِ فعْلُ الشّرّ، لأنَّ بالصِّدْق يثبّت العرشُ.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "مَقْتُ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "الملوكِ"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "فعْلُ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "الشّرّ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "بالصِّدْق"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "يثبّت"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "العرشُ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:10.188624861Z",
+  "model": "glm-5.2"
+}

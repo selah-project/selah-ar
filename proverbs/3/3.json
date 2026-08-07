@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "حِسِدٌ وإِمِت لا يتركاك؛ اربطهما على غَلْصَمَتَيْكَ، اكتبهما على لوحِ قلبك",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "حِسِدٌ"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "وإِمِت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "يتركاك"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "اربطهما"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "غَلْصَمَتَيْكَ"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "اكتبهما"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "لوحِ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "قلبك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:21:46.474421339Z",
+  "model": "glm-5.2"
+}

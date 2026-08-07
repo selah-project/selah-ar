@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 76,
+  "translation": "و⟨كان⟩ في شاليم مِشكانه، ومَقرّه في صهيون.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "في شاليم"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "مِشكانه"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "ومَقرّه"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "في صهيون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:18.328644803Z",
+  "model": "glm-5.2"
+}

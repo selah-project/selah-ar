@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وظهرتُ لأفراهام، ليتسحاق، ولِيعقوف، ب⟨صفةِ⟩ إيل شدّاي. أمّا اسمي يهوه فلم أُعرَفْ به لهم.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "وظهرتُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يتسحاق"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولـ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "באל",
+      "gloss": "بـ⟨صفةِ⟩ إيل"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّاي"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "واسمي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "أُعرَفْ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:36:43.532363073Z",
+  "model": "glm-5.2"
+}

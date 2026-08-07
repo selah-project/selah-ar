@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 52,
+  "translation": "فيُبصِرُ الصِّدّيقون ويهابون، وعليه يقهقهون.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "فيُبصِرُ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "الصِّدّيقون"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ويهابون"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "وعليه"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "يقهقهون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:53:50.923755514Z",
+  "model": "glm-5.2"
+}

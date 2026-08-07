@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وفاقت حكمةُ شلوموه حكمةَ كلِّ بني قِدِم، وكلَّ حكمةِ مصرايم.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "وفاقت\/كثرت"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "حكمة"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموه"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "عن\/من حكمة"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "قِدِم"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "وعن\/من كل"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "حكمة"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:44:39.832755838Z",
+  "model": "glm-5.2"
+}

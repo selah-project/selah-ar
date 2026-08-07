@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 35:10",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "ولا يقول: أين أَلُوَهّ صانعي، ⟨الذي⟩ يعطي أغاني في الليل؟",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "يقول"
+    },
+    {
+      "surface": "איה",
+      "gloss": "أين"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "أَلُوَهّ"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "صانعي"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "يعطي"
+    },
+    {
+      "surface": "זמרות",
+      "gloss": "أغاني"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "في الليل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:42:16.036306052Z",
+  "model": "glm-5.2"
+}

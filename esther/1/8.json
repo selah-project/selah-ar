@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 1:8",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "والشُّرب كالدات: لا إكراه، لأنه هكذا أسّس الملك على كل راب بيتِه: أن يُعمَل كرضا إيش وإيش.",
+  "tokens": [
+    {
+      "surface": "והשתיה",
+      "gloss": "والشُّرب"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "كالدات"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אנס",
+      "gloss": "إكراه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "أسّس"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "רב",
+      "gloss": "راب"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "بيتِه"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "أن يُعمَل"
+    },
+    {
+      "surface": "כרצון",
+      "gloss": "كرضا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "إيش"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "وإيش"
+    }
+  ],
+  "timestamp": "2026-08-07T04:53:41.143721956Z",
+  "model": "glm-5.2"
+}

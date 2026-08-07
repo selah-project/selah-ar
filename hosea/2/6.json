@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "و⟨את⟩ بنيها لا أَرحَم، لأنّهم بنو زِنى هم",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بنيها"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "بنيها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "أَرحَم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "زِنى"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:19:59.444535105Z",
+  "model": "glm-5.2"
+}

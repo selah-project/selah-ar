@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 5:10",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "كان رؤسا يهودا كناقلي التخم. عليهم أسكبُ كالماء غضبي.",
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "كان"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "رؤسا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "כמסיגי",
+      "gloss": "كناقلي"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "التخم"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "أسكبُ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "كالماء"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "غضبي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:20:07.372753060Z",
+  "model": "glm-5.2"
+}

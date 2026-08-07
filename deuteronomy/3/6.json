@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وحرَّمنا ⟨את⟩هم كما فعلنا لسيحون ملك حشبون — تحريم كلِّ مدينة: رجالٍ والنساء والاطفال.",
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "وحرَّمنا"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "هم"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "فعلنا"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "لسيحون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "حشبون"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "تحريم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "النساء"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "والاطفال"
+    }
+  ],
+  "timestamp": "2026-08-07T00:48:14.258264345Z",
+  "model": "glm-5.2"
+}

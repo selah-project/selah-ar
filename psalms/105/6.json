@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 105,
+  "translation": "زرع أفراهام عبده، بَنو يعقوف مختاريه",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "زرع"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "عبده"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "مختاريه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:04.008586331Z",
+  "model": "glm-5.2"
+}

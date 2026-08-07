@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 6:9",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "هذه تولُدات نُوح: نُوح رجلٌ صادِق تامّ ⟨كان⟩ في أجياله؛ ⟨مع⟩ ⟨את⟩ إلوهيم سلك نُوح.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "تولُدات"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صادِق"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "تامّ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "בדרתיו",
+      "gloss": "في أجياله"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "إلوهيم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "سلك"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:29.407935776Z",
+  "model": "glm-5.2"
+}

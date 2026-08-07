@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "فَوَلَدَتْ لَهُ بَنِين ⟨את⟩ يَعُوش وَ⟨את⟩ شَمَرْيَاه وَ⟨את⟩ زَاهَم.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "فَوَلَدَتْ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لَهُ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بَنِين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يَعُوش"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "يَعُوش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "وَ⟨את⟩",
+      "marks": "شَمَرْيَاه"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "شَمَرْيَاه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "وَ⟨את⟩",
+      "marks": "زَاهَم"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "زَاهَم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:25:29.466649006Z",
+  "model": "glm-5.2"
+}

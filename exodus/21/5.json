@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وإذا قالَ العبدُ قائلاً: أحببتُ ⟨את⟩ سيّدي و⟨את⟩ امرأتي و⟨את⟩ بنيّ، لا أخرجُ حرًّا،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قالَ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "العبدُ"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "أحببتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سيّدي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سيّدي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "امرأتي"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "امرأتي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بنيّ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنيّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "أخرجُ"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "حرًّا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:38.282710931Z",
+  "model": "glm-5.2"
+}

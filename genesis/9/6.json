@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "سافكُ دمِ الإنسانِ، بإنسانٍ يُسكَبُ دمُه، لأنّ بصورة إلوهيم صنع ⟨את⟩ الإنسان.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "سافك"
+    },
+    {
+      "surface": "דם",
+      "gloss": "دم"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "بإنسان"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "دمُه"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "يُسكَب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "بصورة"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الإنسان"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسان"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:42.948543294Z",
+  "model": "glm-5.2"
+}

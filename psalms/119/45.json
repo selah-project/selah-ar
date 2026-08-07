@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "«و⟨أتأنّق⟩ سيرًا في رحب، لأنّ وصاياك طلبتُها.»",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "«و⟨أتأنّق⟩ سيرًا»"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "في رحب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "وصاياك"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "طلبتُها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:53.332960450Z",
+  "model": "glm-5.2"
+}

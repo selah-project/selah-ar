@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وأمسك ⟨את⟩ أجاج ملك عماليك حيًّا، و⟨את⟩ جميع الشعب حرّم بفم السيف.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "وأمسك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أجاج ملك عماليك"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "أجاج"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عماليك"
+    },
+    {
+      "surface": "חי",
+      "gloss": "حيًّا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "جميع الشعب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميع"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "حرّم"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "بفم"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "السيف"
+    }
+  ],
+  "timestamp": "2026-08-07T01:26:12.620248579Z",
+  "model": "glm-5.2"
+}

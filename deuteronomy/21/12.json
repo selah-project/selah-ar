@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فتُدخلها إلى داخل بيتك، وتحلق ⟨את⟩ رأسها، وتُهذّب ⟨את⟩ أظفارها،",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "فتُدخلها"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "داخل"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "بيتك"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "وتحلق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رأسها"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "رأسها"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "وتُهذّب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أظفارها"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "أظفارها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:28.860192829Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 19:30",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وصعد لوط من صوغر وسكن في الجبل، وابنتاه معه، لأنه خاف أن يسكن في صوغر، فسكن في المغارة هو وابنتاه.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "وصعد"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوط"
+    },
+    {
+      "surface": "מצוער",
+      "gloss": "من صوغر"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "وسكن"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "في الجبل"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "وابنتا"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "ـه"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "خاف"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "أن يسكن"
+    },
+    {
+      "surface": "בצוער",
+      "gloss": "في صوغر"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "فسكن"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "في المغارة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "وابنتا"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "ـه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:47.857890274Z",
+  "model": "glm-5.2"
+}

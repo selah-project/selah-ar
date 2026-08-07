@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 12:16",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وبعد ذلك رحل الشعب من حَصيروت، ونزلوا في بريّة فاران.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "وبعد ذلك"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "رحل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "מחצרות",
+      "gloss": "من حَصيروت"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ونزلوا"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في بريّة"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "فاران"
+    }
+  ],
+  "timestamp": "2026-08-07T00:34:49.687099619Z",
+  "model": "glm-5.2"
+}

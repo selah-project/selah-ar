@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "وصلّى حزقياىو إلى يهوه قائلًا:",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "وصلّى"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حزقياىو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:16:37.737889352Z",
+  "model": "glm-5.2"
+}

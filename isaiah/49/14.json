@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 49:14",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "وقالت صهيون: تركني يهوه، وأدوناي نَسِيَني.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "وقالت"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "تركني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "وأدوناي"
+    },
+    {
+      "surface": "שכחני",
+      "gloss": "نَسِيَني"
+    }
+  ],
+  "timestamp": "2026-08-07T02:21:09.393613060Z",
+  "model": "glm-5.2"
+}

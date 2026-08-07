@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 39:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "اِسمَع صَلاتي يهوه، و⟨إلى⟩ صراخي أَصغِ، إلى دمعتي لا تصمت، لأنّي غريب أنا عندك، مُقيم كجميع آبائي.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "اِسمَع"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "صلاتي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "وصراخي"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "أَصغِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "دمعتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "تصمت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "גר",
+      "gloss": "غريب"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "عندك"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "مُقيم"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "كجميع"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "آبائي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:07.437299904Z",
+  "model": "glm-5.2"
+}

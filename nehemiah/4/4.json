@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 4:4",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فقال يهودا: «كلَّت قوّة الحاملين والتراب كثير، ونحن لا نقدر أن نبني السور.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "كلَّت"
+    },
+    {
+      "surface": "כח",
+      "gloss": "قوّة"
+    },
+    {
+      "surface": "הסבל",
+      "gloss": "الحاملين"
+    },
+    {
+      "surface": "והעפר",
+      "gloss": "والتراب"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "كثير"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ونحن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "نقدر"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "أن نبني"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "السور"
+    }
+  ],
+  "timestamp": "2026-08-07T05:05:18.955376532Z",
+  "model": "glm-5.2"
+}

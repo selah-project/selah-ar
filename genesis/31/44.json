@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 31:44",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "والآن هات نقطع بريتًا أنا وإيّاك، ويكون لشهادة بيني وبينك.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "هات"
+    },
+    {
+      "surface": "נכרתה",
+      "gloss": "نقطع"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريتًا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "وإيّاك"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ويكون"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "لشهادة"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "بيني"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "وبينك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:59.505694087Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 2:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "قبّلوا بارًّا لئلاّ يغضب فتهلكوا طريقٌ، لأنّ ⟨بنار⟩ يشتعل قليلًا أنفه. طوبى لكلّ المحتمين به.",
+  "tokens": [
+    {
+      "surface": "נשקו",
+      "gloss": "قبّلوا"
+    },
+    {
+      "surface": "בר",
+      "gloss": "بارًّا"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلاّ"
+    },
+    {
+      "surface": "יאנף",
+      "gloss": "يغضب"
+    },
+    {
+      "surface": "ותאבדו",
+      "gloss": "فتهلكوا"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "طريقٌ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "يشتعل"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "قليلًا"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "أنفه"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "طوبى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "المحتمين"
+    },
+    {
+      "surface": "בו",
+      "gloss": "به"
+    }
+  ],
+  "timestamp": "2026-08-07T06:02:02.062485373Z",
+  "model": "glm-5.2"
+}

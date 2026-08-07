@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 17:12",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "قُل الآنَ ⟨لـ⟩ بيت المرْي: أما عرفتم ما هذه؟ قُل: ها أتى ملكُ بافل يروشالايم، فأخذ ⟨את⟩ ملكها و⟨את⟩ رؤساءها، وأدخلهم إليه بافلَة.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "قُل"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآنَ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨لـ⟩ بيت"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "المرْي"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "أما"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "عرفتم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قُل"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "בא",
+      "gloss": "أتى"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملكُ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافل"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "فأخذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ملكها"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ملكها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "رؤساءها"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "رؤساءها"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "وأدخل"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "هم"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "بافلَة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:00:36.577574318Z",
+  "model": "glm-5.2"
+}

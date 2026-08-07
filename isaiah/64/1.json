@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 64:1",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 64,
+  "translation": "كاشتعال النار حطبًا، النارَ تُغلي الماء، لتُعلِم اسمَك لخصومك، من وجهك ترتعد الأمم.",
+  "tokens": [
+    {
+      "surface": "כקדח",
+      "gloss": "كاشتعال"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نار"
+    },
+    {
+      "surface": "המסים",
+      "gloss": "حطبًا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماء"
+    },
+    {
+      "surface": "תבעה",
+      "gloss": "تُغلي"
+    },
+    {
+      "surface": "אש",
+      "gloss": "النار"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "لتُعلِم"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "اسمَك"
+    },
+    {
+      "surface": "לצריך",
+      "gloss": "لخصومك"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "من وجهك"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "أمم"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "ترتعد"
+    }
+  ],
+  "timestamp": "2026-08-07T02:24:19.807145820Z",
+  "model": "glm-5.2"
+}

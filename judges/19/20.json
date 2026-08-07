@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 19:20",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "فقال الرجل الشيخ: شالوم لك (سلام)، إنّما كل احتياجك عليّ، إنّما في الساحة لا تَلنْ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "الشيخ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "רק",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "מחסורך",
+      "gloss": "احتياجك"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عليّ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "في الساحة"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תלן",
+      "gloss": "تَلنْ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:19:33.641735705Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 17:28",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "كل من يقترب، يقترب إلى مِشكان يهوه، يموت؛ هل انتهينا إلى أن نَنفُد؟",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "من يقترب"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "يقترب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "مِشكان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "يموت"
+    },
+    {
+      "surface": "האם",
+      "gloss": "هل"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "انتهينا"
+    },
+    {
+      "surface": "לגוע",
+      "gloss": "إلى أن نَنفُد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:37:05.982422478Z",
+  "model": "glm-5.2"
+}

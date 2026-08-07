@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 22:5",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "شَوكٌ وفِخاخٌ في طريقِ المُلتوي، وحافظُ نَفْسِه يبتعدُ عنها",
+  "tokens": [
+    {
+      "surface": "צנים",
+      "gloss": "شَوك"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "وفِخاخ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "في طريقِ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "المُلتوي"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "وحافظُ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نَفْسِه"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "يبتعدُ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "عنها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:10.598126982Z",
+  "model": "glm-5.2"
+}

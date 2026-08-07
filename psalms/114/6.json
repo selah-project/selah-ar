@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 114,
+  "translation": "أيّها الجبالُ ترقصون كالكباش، ⟨و⟩التلالُ كأبناءِ الصأون.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "الجبال"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "ترقصون"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "كالكباش"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "التلال"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "كأبناء"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "الصأون"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:43.235829085Z",
+  "model": "glm-5.2"
+}

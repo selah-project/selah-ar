@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 35:20",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "وإذا بُغضاءٍ دفعه، أو رمى عليه بكَيْد فمات،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "בשנאה",
+      "gloss": "بغضاء"
+    },
+    {
+      "surface": "יהדפנו",
+      "gloss": "دفعه"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "رمى"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "בצדיה",
+      "gloss": "بكيد"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "فمات"
+    }
+  ],
+  "timestamp": "2026-08-07T00:45:07.280775761Z",
+  "model": "glm-5.2"
+}

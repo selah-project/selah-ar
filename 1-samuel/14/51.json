@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وقيس أبو شاوول، ونير أبو أَفينير، ⟨وهما⟩ ابنا أَفيعيل.",
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "وقيس"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاوول"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "ونير"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبو"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "أَفينير"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنُ"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "أَفيعيل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:25:41.294791268Z",
+  "model": "glm-5.2"
+}

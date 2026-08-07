@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 3:38",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "«فبنينا ⟨את⟩ السور، واتّصل كلُّ السور إلى نصفه، وصار لِلشعب قلبٌ للعمل.»",
+  "tokens": [
+    {
+      "surface": "ונבנה",
+      "gloss": "فبنينا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "السور"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "السور"
+    },
+    {
+      "surface": "ותקשר",
+      "gloss": "واتّصل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "السور"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "חציה",
+      "gloss": "نصفه"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وصار"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلبٌ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "لِلشعب"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "للعمل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:04:17.347708308Z",
+  "model": "glm-5.2"
+}

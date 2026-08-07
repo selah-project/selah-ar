@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "وخرج ملك إسرايل وضرب ⟨את⟩ الخيل و⟨את⟩ المركبات، وضرب في أرام ضربةً عظيمة.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرايل"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "وضرب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الخيل"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "الخيل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "المركبات"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "المركبات"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "وضرب"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "في أرام"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ضربةً"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "عظيمة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:50:38.697466986Z",
+  "model": "glm-5.2"
+}

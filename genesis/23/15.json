@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "«سيّدي، اسمعني: أرضٌ بأربع مئة شاقل فضّة، ما هذا بيني وبينك؟ وأمّا ⟨את⟩ ميّتك فادفِنه».",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "سيّدي"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "اسمعني"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "بأربع"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شاقل"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضّة"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "بيني"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "وبينك"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨أمّا⟩ ⟨את⟩",
+      "marks": "ميّتك"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "ميّتك"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "فادفِنْ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:43:56.375206977Z",
+  "model": "glm-5.2"
+}

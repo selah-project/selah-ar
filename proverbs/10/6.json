@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "بركاتٌ على رأس الصدّيق، وفمُ الأشرار يغطّيه عُنفٌ.",
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "بركات"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "على رأس"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "الصدّيق"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "وفم"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الأشرار"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "يغطّيه"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "عُنف"
+    }
+  ],
+  "timestamp": "2026-08-07T04:23:44.303905117Z",
+  "model": "glm-5.2"
+}

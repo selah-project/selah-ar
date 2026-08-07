@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "وَلَدتْ عادةُ لعيسو ⟨את⟩ أليفاز، وبَسمةُ وَلَدتْ ⟨את⟩ رَعوئيل.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "وَوَلَدت"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عادة"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "لعيسو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أليفاز"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "أليفاز"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "وبَسمة"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "وَلَدت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رَعوئيل"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رَعوئيل"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:54.006650482Z",
+  "model": "glm-5.2"
+}

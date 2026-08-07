@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "تَدُوسُها قَدَمٌ، أقدامُ المساكين، خطواتُ البائسين.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "تَدُوسُها"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "قَدَمٌ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "أقدامُ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "المساكين"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "خطواتُ"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "البائسين"
+    }
+  ],
+  "timestamp": "2026-08-07T05:52:36.751369290Z",
+  "model": "glm-5.2"
+}

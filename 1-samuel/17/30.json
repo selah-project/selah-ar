@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 17:30",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "فالتفت من عنده إلى وجه آخر وقال مثل هذا الكلام، فردّ عليه القوم كلامًا كالكلام الأول.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "فالتفت"
+    },
+    {
+      "surface": "מאצלו",
+      "gloss": "من عنده"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מול",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "آخر"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "مثل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "الكلام"
+    },
+    {
+      "surface": "וישבהו",
+      "gloss": "وردّ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "القوم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلامًا"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "كـ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "الأول"
+    }
+  ],
+  "timestamp": "2026-08-07T01:26:49.822384791Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "مباركًا تكون من جميع الشعوب، لا يكون فيك عاقر ولا عاقرة، وفي بهائمك.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "مباركًا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من جميع"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "الشعوب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨سيكون⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "فيك"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "عاقر"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "ولا عاقرة"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "وفي بهائمك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:54:24.381095144Z",
+  "model": "glm-5.2"
+}

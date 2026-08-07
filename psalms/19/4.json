@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "لا قَولَ ولا كَلِماتٍ، بِلا أنْ يُسمَعَ صَوتُها.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قَولَ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "كَلِماتٍ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بِلا"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "أنْ يُسمَعَ"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "صَوتُها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:53.278503041Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "وكلَّف رئيس الجلاّدين ⟨את⟩ يوسف ليكون معهما، فخدمهما. ومكثا أيامًا في الحجز.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "وكلَّف"
+    },
+    {
+      "surface": "שר",
+      "gloss": "رئيس"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "الجلاّدين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوسف"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "معهما"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "فخدم"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "هما"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "وكانوا"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيامًا"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "في الحجز"
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:56.967213712Z",
+  "model": "glm-5.2"
+}

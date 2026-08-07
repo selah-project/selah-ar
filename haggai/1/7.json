@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "haggai 1:7",
+  "book": "haggai",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "هكذا قال يهوه صباؤوت: اجعلوا قلوبكم على طرقكم.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤوت"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "اجعلوا"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "قلوبكم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "طرقكم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:33:57.203498406Z",
+  "model": "glm-5.2"
+}

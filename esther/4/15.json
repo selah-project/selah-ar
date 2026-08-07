@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وَقالتْ إَستير لِتُرْجِعَ إِلى مُردَخاي:",
+  "tokens": [
+    {
+      "surface": "וַתֹּאמֶר",
+      "gloss": "وَقالتْ"
+    },
+    {
+      "surface": "אֶסְתֵּר",
+      "gloss": "إَستير"
+    },
+    {
+      "surface": "לְהָשִׁיב",
+      "gloss": "لِتُرْجِعَ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "إِلى"
+    },
+    {
+      "surface": "מָרְדֳּכָי",
+      "gloss": "مُردَخاي"
+    }
+  ],
+  "timestamp": "2026-08-07T06:11:28.801636141Z",
+  "model": "glm-5.2"
+}

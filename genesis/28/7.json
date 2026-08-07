@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "و⟨كان⟩ يعقوف قد سمع ⟨ل⟩أبيه و⟨ل⟩أمّه، وذهبَ پَدَناه أرام.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "وسمع"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ل⟩"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و⟨ل⟩"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "أمّه"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "وذهب"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "پَدَناه"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "أرام"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:37.490445067Z",
+  "model": "glm-5.2"
+}

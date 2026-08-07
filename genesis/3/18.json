@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وشوكًا ودَرْدارًا تُنبِتُ ⟨لك⟩، وتأكلُ ⟨את⟩ عشبَ الحقل.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "وشوكًا"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "ودَرْدارًا"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "تُنبِت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨لك⟩"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "وتأكل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عشب"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "عشب"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "الحقل"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:39.278005760Z",
+  "model": "glm-5.2"
+}

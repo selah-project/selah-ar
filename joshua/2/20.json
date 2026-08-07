@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وإن تُخبري ⟨את⟩ أمرنا هذا، نكون أبرياء من قسمكِ الذي أقسَمتِنا.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "تُخبري"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أمرنا"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "أمرنا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "نكون"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "أبرياء"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "من قسمكِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "أقسَمتِنا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:03:42.852754986Z",
+  "model": "glm-5.2"
+}

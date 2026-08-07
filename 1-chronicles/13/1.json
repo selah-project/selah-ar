@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "واستشار داوود مع شاراي الألوف والمئات لكلّ ناجيد،",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "واستشار"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "رؤساء"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "الألوف"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "والمئات"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لكلّ"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "قائد"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:52.300277130Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "وذهب يعقوف في طريقه، فاستقبله ملائكة إلوهيم.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "ويعقوف"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ذهب"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "في طريقه"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "فاستقبله"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "ملائكة"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:23.181054247Z",
+  "model": "glm-5.2"
+}

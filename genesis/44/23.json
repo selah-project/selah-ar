@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 44:23",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "فقلتِ ⟨ل⟩عبيدك إن لم ينزل أخوكم الصغير معكم فلا تعودون ترَون وجهي",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "فقلتِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "عبيدك"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ينزل"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "أخوكم"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "الصغير"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "معكم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "تعودون"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ترَون"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:52:16.205566850Z",
+  "model": "glm-5.2"
+}

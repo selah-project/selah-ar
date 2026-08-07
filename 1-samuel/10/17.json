@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "ودعا شموئيل ⟨את⟩ الشعب إلى يهوه في هامتصفا",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "هامتصفا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:23:57.112366583Z",
+  "model": "glm-5.2"
+}

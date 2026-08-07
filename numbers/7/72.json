@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "numbers 7:72",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "في يومٍ حاديَ عشرَ يومًا، نَسيٌ لبني آشير: فَغعيئيل بن عكران.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "حادي"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "نسي"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لبني"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشير"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "فَغعيئيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "عكران"
+    }
+  ],
+  "timestamp": "2026-08-07T00:30:47.915819640Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 9:18",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "ولا يعرفُ أنّ رفائيم هناك، في أعماقِ شيول مدعوّوها.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "يعرف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفائيم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "בעמקי",
+      "gloss": "في أعماق"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شيول"
+    },
+    {
+      "surface": "קראיה",
+      "gloss": "مدعوّوها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:33.353936326Z",
+  "model": "glm-5.2"
+}

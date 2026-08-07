@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "«وأمّا أنا فهأنذا مُقيمٌ ⟨את⟩ بريتي معكم ومع ⟨את⟩ زرعكم من بعدكم».",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "وأمّا أنا"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "فهأنذا"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "مُقيمٌ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بريتي"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "بريتي"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "معكم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ومع ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "زرعكم"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "من بعدكم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:14.143624886Z",
+  "model": "glm-5.2"
+}

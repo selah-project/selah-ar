@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "اسمعوا ⟨את⟩ كلمات البريت هذه، وكلّموها إلى رجال يهودا وإلى سكّان يروشالايم:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "اسمعوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلمات البريت"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلمات"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "البريت"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "وكلّموها"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "سكّان"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:33:28.375372221Z",
+  "model": "glm-5.2"
+}

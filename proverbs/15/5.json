@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 15:5",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "أوِيلٌ يَدْفعُ تَأديبَ أبيه، وحافِظُ توكِيحٍ ⟨يكونُ⟩ ذَكِيًّا.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "أوِيل"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "يَدْفع"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تَأديب"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "وحافِظُ"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "توكِيح"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "ذَكِيًّا"
+    }
+  ],
+  "timestamp": "2026-08-07T08:14:15.484322243Z",
+  "model": "glm-5.2"
+}

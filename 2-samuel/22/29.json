@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 22:29",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "لأنّك أنت نيري يا يهوه، ويهوه ⟨يُنير⟩ ظلمتي،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّك"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "נירי",
+      "gloss": "نيري"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ويهوه"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "⟨يُنير⟩"
+    },
+    {
+      "surface": "חשכי",
+      "gloss": "ظلمتي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:40:40.263701578Z",
+  "model": "glm-5.2"
+}

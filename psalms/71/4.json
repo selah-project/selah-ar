@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 71,
+  "translation": "إلهي، أَفلِتني من يدِ رشيع، من كفِّ مُعوِجٍّ وظالم.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "إلهي"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "أَفلِتني"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يد"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "رشيع"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "من كفِّ"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "مُعوِجّ"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "وظالم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:57.292740176Z",
+  "model": "glm-5.2"
+}

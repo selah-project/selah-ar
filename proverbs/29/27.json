@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 29:27",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "مَقْتُ الصدّيقين ⟨هو⟩ رجلُ ظلم، ومَقْتُ الراشي ⟨هو⟩ المستقيمُ طريقًا",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "مَقْت"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "الصدّيقين"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "ومَقْت"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "الراشي"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "المستقيم"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "طريقًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:09.227238394Z",
+  "model": "glm-5.2"
+}

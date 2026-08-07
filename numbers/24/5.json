@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "ما أطيب خيامك يا يعقوف، مَشكاناتك يا يسرايل!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ما أ"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "طيب"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "خيامك"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يا يعقوف"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "مَشكاناتك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يا يسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:39:52.609601986Z",
+  "model": "glm-5.2"
+}

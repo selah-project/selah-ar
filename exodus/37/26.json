@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 37:26",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "وغشّاه ذهبًا طاهرًا: ⟨את⟩ سقفَه و⟨את⟩ جدرانَه حولَه و⟨את⟩ قرونَه. وصنع له إكليلَ ذهبٍ حولَه.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "وغشّى"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "المذبح (المشار إليه)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهب"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "طاهر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سقفه"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "سقفَه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "جدرانه"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "جدرانَه"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "حول"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "قرونه"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "قرونَه"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "وصنع"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "זר",
+      "gloss": "إكليل"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهب"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "حول"
+    }
+  ],
+  "timestamp": "2026-08-07T00:14:39.654983697Z",
+  "model": "glm-5.2"
+}

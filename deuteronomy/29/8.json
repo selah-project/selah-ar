@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "واحفظوا ⟨את⟩ كلماتِ البريتِ هذه، واعملوها، لِكَي تُتفَكّروا ⟨את⟩ كلَّ ما تعملون.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "واحفظوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلماتِ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلماتِ"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "البريتِ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "واعملوها"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "كلماتِ البريتِ هذه"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لِكَي"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "تُتفَكّروا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلَّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "تعملون"
+    }
+  ],
+  "timestamp": "2026-08-07T07:19:12.360764588Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "شْبَهُ كلِّ بَهيمةٍ التي في الأرض، شْبَهُ كلِّ صُقورِ ذي جناحٍ التي تطيرُ في السماوات،",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "شْبَهُ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "بَهيمةٍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "شْبَهُ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "صُقورٍ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ذي جناحٍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "تطيرُ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "في السماوات"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:37.884012811Z",
+  "model": "glm-5.2"
+}

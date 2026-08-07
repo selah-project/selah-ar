@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 70,
+  "translation": "إلوهيم، لإنقاذي؛ يهوه، لمعونتي، أسرعْ!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "لإنقاذي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "لمعونتي"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "أسرعْ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:53.609753175Z",
+  "model": "glm-5.2"
+}

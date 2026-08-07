@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 88,
+  "translation": "يهوه إلوهيم יְשׁוּעָתִ֑י יוֹם צָעַ֖קְתִּי בַלַּ֣יְלָה נֶגְדֶּֽךָ",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ישועתי"
+    },
+    {
+      "surface": "יום",
+      "gloss": "יום"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "צעקתי"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "בלילה"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "נגדך"
+    }
+  ],
+  "timestamp": "2026-08-07T08:07:14.096740348Z",
+  "model": "glm-5.2"
+}

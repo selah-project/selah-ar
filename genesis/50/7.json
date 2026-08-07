@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 50:7",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "فصعد يوسف لِيدفن ⟨את⟩ أبيه، وصعد معه كلُّ عبيد فِرعَوْن، شيوخُ بيتِه وكلُّ شيوخِ أرضِ مصرايم.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "فصعد"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "لِيدفن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أبيه"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "وصعد"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عبيد"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فِرعَوْن"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "شيوخُ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "بيتِه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلُّ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "شيوخِ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرضِ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:36:57.189370890Z",
+  "model": "glm-5.2"
+}

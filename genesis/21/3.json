@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "ودعا أفراهام ⟨بـ⟩ ⟨את⟩ اسم ابنه المولود له، الذي ولدته له سارَة: يِصْحاق.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "المولود"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ولدته"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارَة"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يِصْحاق"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:27.693489949Z",
+  "model": "glm-5.2"
+}

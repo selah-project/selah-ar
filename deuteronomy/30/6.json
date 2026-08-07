@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "ويختن يهوه إلوهيمك ⟨את⟩ قلبك و⟨את⟩ قلب نسلك، لأجل أن تُحبّ يهوه إلوهيمك بكل قلبك وبكل نفسك، من أجل حياتك.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "ويختن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قلبك"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "قلبك"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "قلب نسلك"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "نسلك"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "لأجل أن تُحبّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بكل"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "قلبك"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "وبكل"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "نفسك"
+    },
+    {
+      "surface": "למען",
+      "gloss": "من أجل"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "حياتك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:39.926009198Z",
+  "model": "glm-5.2"
+}

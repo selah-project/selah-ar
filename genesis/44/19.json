@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "سيّدي سأل عبيده قائلاً: هل لكم أب أو أخ؟",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "سيّدي"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "سأل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عبيده"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "عبيده"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "היש",
+      "gloss": "هل"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "אב",
+      "gloss": "أب"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "אח",
+      "gloss": "أخ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:52:01.892642503Z",
+  "model": "glm-5.2"
+}

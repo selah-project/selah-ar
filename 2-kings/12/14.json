@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 12:14",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "لأنّه لفعلة العمل يُعطى، وبه يُشدَّد ⟨את⟩ بيت يهوه،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "لفعلة"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "العمل"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "يُعطى"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "ويُشدَّد"
+    },
+    {
+      "surface": "בו",
+      "gloss": "به"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:57:56.599996816Z",
+  "model": "glm-5.2"
+}

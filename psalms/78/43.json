@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "حينَ جعل في مصرايم ⟨את⟩ آياته، ومعجزاته في حقل صوعن.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "جعل"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "في مصرايم"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "آياته"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "ومعجزاته"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "في حقل"
+    },
+    {
+      "surface": "צען",
+      "gloss": "صوعن"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:45.432778290Z",
+  "model": "glm-5.2"
+}

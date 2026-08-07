@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وتّر قوسَه ونصبني كالهدف للسهم.",
+  "tokens": [
+    {
+      "surface": "דָּרַ֤ךְ",
+      "gloss": "وتّر"
+    },
+    {
+      "surface": "קַשְׁתוֹ֙",
+      "gloss": "قوسَه"
+    },
+    {
+      "surface": "וַיַּצִּיבֵ֔נִי",
+      "gloss": "ونصبني"
+    },
+    {
+      "surface": "כַּמַּטָּרָ֖א",
+      "gloss": "كالهدف"
+    },
+    {
+      "surface": "לַחֵֽץ",
+      "gloss": "للسهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:48:39.890985611Z",
+  "model": "glm-5.2"
+}

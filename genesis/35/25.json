@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 35:25",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "و⟨أبناء⟩ بِلهةَ جاريةِ راحيل: دان ونفتالي.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و⟨أبناء⟩"
+    },
+    {
+      "surface": "בלהه",
+      "gloss": "بِلهةَ"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "جاريةِ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحيل"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "ونفتالي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:22.934826043Z",
+  "model": "glm-5.2"
+}

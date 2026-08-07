@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وأَفِيشُوع وَلَّد ⟨את⟩ بُقّي، وبُقّي وَلَّد ⟨את⟩ عُزّي.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "وأَفِيشُوع"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وَلَّد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بُقّي"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "بُقّي"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "وبُقّي"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وَلَّد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عُزّي"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "عُزّي"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:57.396035465Z",
+  "model": "glm-5.2"
+}

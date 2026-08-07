@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "وتاق دافيد وقال: «مَن يسقيني ماءً من بئر بيت-لَحِم التي عند الباب؟»",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "وتاق"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "دافيد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "يسقيني"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماءً"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "من بئر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لَحِم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "عند الباب"
+    }
+  ],
+  "timestamp": "2026-08-07T01:41:10.616503092Z",
+  "model": "glm-5.2"
+}

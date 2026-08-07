@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "و⟨أمّا⟩ ⟨את⟩ اللحم و⟨את⟩ الجلد فأحرقه بالنار خارج المحلّة.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "اللحم"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "اللحم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الجلد"
+    },
+    {
+      "surface": "העור",
+      "gloss": "الجلد"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "فأحرقه"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بالنار"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "خارج"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "المحلّة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:53.614354805Z",
+  "model": "glm-5.2"
+}

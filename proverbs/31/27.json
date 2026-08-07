@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 31:27",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "هي مُراقِبةٌ سُبُلَ بيتِها، وخبزَ الكَسلِ لا تأكُلُه.",
+  "tokens": [
+    {
+      "surface": "צופיה",
+      "gloss": "هي مُراقِبةٌ"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "سُبُلَ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "بيتِها"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "وخبزَ"
+    },
+    {
+      "surface": "עצלות",
+      "gloss": "الكَسلِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "تأكُلُه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:50.861308579Z",
+  "model": "glm-5.2"
+}

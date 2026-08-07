@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 2:22",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "كُفّوا عنِ الإنسانِ الذي نَسَمَتُه في أنفِه، لأنّه بمَ يُحتَّم؟",
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "كُفّوا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "عن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨من⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "نَسَمَتُه"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "في أنفه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "במה",
+      "gloss": "بمَ"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "يُحتَّم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T02:03:18.761762641Z",
+  "model": "glm-5.2"
+}

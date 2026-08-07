@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "احترس ⟨لنفسك⟩ أن تنسى ⟨את⟩ يهوه إلوهيمك، بأن لا تحفظ وصاياه وأحكامه وفرائضه التي أنا آمرك بها اليوم.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "احترس"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨لنفسك⟩"
+    },
+    {
+      "surface": "פן",
+      "gloss": "أن"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "تنسى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "بأن لا"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "تحفظ"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "وصاياه"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "وأحكامه"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "وفرائضه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "آمرك بها"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    }
+  ],
+  "timestamp": "2026-08-07T07:15:55.545772580Z",
+  "model": "glm-5.2"
+}

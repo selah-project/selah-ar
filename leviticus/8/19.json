@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "و⟨ذبحه⟩، ورشّ موشيه ⟨את⟩ الدم على المذبح حَوْلَهُ.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "و⟨ذبحه⟩"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ورشّ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الدم"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "الدم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "حَوْلَهُ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:49.077426880Z",
+  "model": "glm-5.2"
+}

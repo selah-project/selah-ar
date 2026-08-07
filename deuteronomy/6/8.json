@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وربطتَها عَلَمًا على يدك و⟨كانت⟩ لِعِصابات بين عينيك.",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "وربطتَها"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "عَلَمًا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدك"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "و⟨كانت⟩"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "لِعِصابات"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "عينيك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:13.479292927Z",
+  "model": "glm-5.2"
+}

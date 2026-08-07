@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 29:10",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وتُقَرِّبُ ⟨את⟩ الثور أمام خيمة الموعد، ويسند أهرون وبنوه ⟨את⟩ أيديهم على رأس الثور.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "وتُقَرِّبُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الثور"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "الثور"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "ويسند"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهرون"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "وبنوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أيديهم"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "أيديهم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأس"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "الثور"
+    }
+  ],
+  "timestamp": "2026-08-07T00:09:45.401596741Z",
+  "model": "glm-5.2"
+}

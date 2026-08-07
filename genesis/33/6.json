@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 33:6",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "فتقدّمت الجواري هنّ وأطفالهنّ فسجدنّ.",
+  "tokens": [
+    {
+      "surface": "ותגשן",
+      "gloss": "فتقدّمت"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "الجواري"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هنّ"
+    },
+    {
+      "surface": "וילדיהן",
+      "gloss": "وأطفالهنّ"
+    },
+    {
+      "surface": "ותשתחוין",
+      "gloss": "فسجدنّ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:02.838120888Z",
+  "model": "glm-5.2"
+}

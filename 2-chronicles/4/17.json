@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 4:17",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "في دائرة الأردن صبّها الملك في غلظة الأرض بين سكّوت وبين صراداتا",
+  "tokens": [
+    {
+      "surface": "בככר",
+      "gloss": "في دائرة"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "الأردن"
+    },
+    {
+      "surface": "יצקם",
+      "gloss": "صبّها"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "בעבי",
+      "gloss": "في غلظة"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "سكّوت"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "צרדתה",
+      "gloss": "صراداتا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:20:58.440460541Z",
+  "model": "glm-5.2"
+}

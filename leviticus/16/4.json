@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 16:4",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "قميص كتان قدس يلبس، وسراويل كتان تكون على لحمه، وبمنطقة كتان يتّزر، وبعمامة كتان يعتمّ؛ ثياب قدس هي، فيغسل لحمه بالماء ⟨את⟩ لحمه ويلبسها.",
+  "tokens": [
+    {
+      "surface": "כתנת",
+      "gloss": "قميص"
+    },
+    {
+      "surface": "בד",
+      "gloss": "كتان"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدس"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "يلبس"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "و سراويل"
+    },
+    {
+      "surface": "בד",
+      "gloss": "كتان"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "لحمه"
+    },
+    {
+      "surface": "ובאבנט",
+      "gloss": "و بمنطقة"
+    },
+    {
+      "surface": "בד",
+      "gloss": "كتان"
+    },
+    {
+      "surface": "יחגר",
+      "gloss": "يتّزر"
+    },
+    {
+      "surface": "ובמצנפת",
+      "gloss": "و بعمامة"
+    },
+    {
+      "surface": "בד",
+      "gloss": "كتان"
+    },
+    {
+      "surface": "יצנף",
+      "gloss": "يعتمّ"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ثياب"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدس"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هي"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "فيغسل"
+    },
+    {
+      "surface": "במים",
+      "gloss": "بالماء"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لحمه"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "لحمه"
+    },
+    {
+      "surface": "ולבשם",
+      "gloss": "ويلبسها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:08.671541735Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وضرب ⟨את⟩ موآب، فصار موآب عبيدًا لداويد، حاملين مِنحةً.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "وضرب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موآب"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "فصاروا"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "عبيدًا"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "لداويد"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "حاملين"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "مِنحة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:35.691080414Z",
+  "model": "glm-5.2"
+}

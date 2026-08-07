@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 45:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "وبهائكَ تَقَدَّم، اركب على كلمة إمِت و°تواضع° صِدِق، ويمينك تُعلِّمك نُدُرات.",
+  "tokens": [
+    {
+      "surface": "והדרך",
+      "gloss": "وبهاؤك"
+    },
+    {
+      "surface": "צלח",
+      "gloss": "تقدَّم"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "اركب"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "إمِت"
+    },
+    {
+      "surface": "וענוה",
+      "gloss": "وتواضع"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "صِدِق"
+    },
+    {
+      "surface": "ותורך",
+      "gloss": "ويعلِّمك"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "نُدُرات"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "يمينك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:52:11.619371766Z",
+  "model": "glm-5.2"
+}

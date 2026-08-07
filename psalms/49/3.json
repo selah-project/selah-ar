@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "أيضًا بَنُو آدمَ، أيضًا بَنُو ⟨الإنسان⟩، معًا غنيٌّ ومُعوِز.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "معًا"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "غنيٌّ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ومُعوِز"
+    }
+  ],
+  "timestamp": "2026-08-07T03:52:03.850094577Z",
+  "model": "glm-5.2"
+}

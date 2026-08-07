@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "لا تأكلوا منه نيّـًا ولا مطبوخًا مسلوقًا في الماء، بل مشويًا بالنار، رأسُه على ساقَيه ⟨وعلى⟩ أحشائه.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تأكلوا"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "נא",
+      "gloss": "نيّـًا"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "ولا مطبوخًا"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "مسلوقًا"
+    },
+    {
+      "surface": "במים",
+      "gloss": "في الماء"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨فقط⟩"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "مشويًا"
+    },
+    {
+      "surface": "אש",
+      "gloss": "بالنار"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "رأسُه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "ساقَيه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "أحشائه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:31.569091238Z",
+  "model": "glm-5.2"
+}

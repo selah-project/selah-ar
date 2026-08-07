@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 13:12",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "انتظارٌ مُمتَطَرٌ يُمرِضُ القلب، وشجرةُ حياةٍ تَوَقٌّ آتٍ.",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "انتظار"
+    },
+    {
+      "surface": "ממשכה",
+      "gloss": "مُمتَطَر"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "يُمرِض"
+    },
+    {
+      "surface": "לב",
+      "gloss": "القلب"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "وشجرة"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حياة"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "تَوَق"
+    },
+    {
+      "surface": "באה",
+      "gloss": "آتٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:24.245287191Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 12:4",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "حتى متى تنوح الأرض وييبس عشب كلّ الحقل؟ من شرّ ساكنيها فُنِيَت البهائم والطير، لأنّهم قالوا: «لا يرى ⟨את⟩ آخرتنا».",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "متى"
+    },
+    {
+      "surface": "תאבל",
+      "gloss": "تنوح"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "وعشب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "الحقل"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "ييبس"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "من شرّ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ساكني"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "ספתה",
+      "gloss": "فُنِيَت"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "البهائم"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "والطير"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّهم"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "قالوا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "يرى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آخرتنا"
+    },
+    {
+      "surface": "אחריתנו",
+      "gloss": "آخرتنا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:54:37.232366139Z",
+  "model": "glm-5.2"
+}

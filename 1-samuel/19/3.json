@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 19:3",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وأنا أخرج وأقف بجانب أبي في الحقل حيث أنت هناك، وأنا أتكلّم عنك إلى أبي، وأرى ماذا يكون وأخبرك.»",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "أخرج"
+    },
+    {
+      "surface": "ועמדתי",
+      "gloss": "وأقف"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "بجانب"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "في الحقل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "حيث"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "أتكلّم"
+    },
+    {
+      "surface": "בך",
+      "gloss": "عنك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "وأرى"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "והגדתי",
+      "gloss": "وأخبرك"
+    },
+    {
+      "surface": "לך",
+      "gloss": "إيّاك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:27:45.933313308Z",
+  "model": "glm-5.2"
+}

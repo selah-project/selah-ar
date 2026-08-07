@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 2:12",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "بسبب هذا غضب الملك واحتدّ غضبًا شديدًا، وأمر بإبادة جميع حكماء بافل.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "بسبب"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "בנס",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "واحتدّ"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "شديدًا"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "وأمر"
+    },
+    {
+      "surface": "להובדה",
+      "gloss": "بإبادة"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "جميع"
+    },
+    {
+      "surface": "חכימי",
+      "gloss": "حكماء"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:56:08.032389762Z",
+  "model": "glm-5.2"
+}

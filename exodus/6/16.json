@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 6:16",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وهذه أسماء بني ليفي حسب توالدهم: جيرشون وقهات ومراري. وسنو حياة ليفي سبع وثلاثون ومئة سنة.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "وهذه"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "أسماء"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ليفي"
+    },
+    {
+      "surface": "לתלדתם",
+      "gloss": "حسب توالدهم"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "جيرشون"
+    },
+    {
+      "surface": "וקהת",
+      "gloss": "وقهات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "ومراري"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "وسنو"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "حياة"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ليفي"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبع"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "وثلاثون"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ومئة"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:01:12.592843432Z",
+  "model": "glm-5.2"
+}

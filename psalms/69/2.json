@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 69,
+  "translation": "خلِّصني يا إلوهيم، لأنّ المياه قد وصلت إلى نفسي",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "خلِّصني"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "يا إلوهيم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "قد وصلت"
+    },
+    {
+      "surface": "מים",
+      "gloss": "المياه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفسي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:26.093982103Z",
+  "model": "glm-5.2"
+}

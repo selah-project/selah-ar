@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "أبلى لحمي وجلدي، حطّم عظامي.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "أبلى"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "لحمي"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "وجلدي"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "حطّم"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "عظامي"
+    }
+  ],
+  "timestamp": "2026-08-07T08:20:05.131146351Z",
+  "model": "glm-5.2"
+}

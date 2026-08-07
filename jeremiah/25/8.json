@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "لذلك هكذا قال يهوه صَباؤوت: لأنكم لم تسمعوا ⟨את⟩ كلامي،",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صَباؤوت"
+    },
+    {
+      "surface": "יען",
+      "gloss": "لأنكم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨الذي⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "تسمعوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلامي"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلامي"
+    }
+  ],
+  "timestamp": "2026-08-07T02:39:33.424601394Z",
+  "model": "glm-5.2"
+}

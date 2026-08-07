@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "مُنقِذُ نُفوسٍ ⟨هو⟩ شاهدُ إمِت، ونافخُ أكاذيبَ ⟨هو⟩ غشٌّ.",
+  "tokens": [
+    {
+      "surface": "מַצִּיל",
+      "gloss": "مُنقِذُ"
+    },
+    {
+      "surface": "נְפָשׁוֹת",
+      "gloss": "نُفوسٍ"
+    },
+    {
+      "surface": "עֵד",
+      "gloss": "شاهدُ"
+    },
+    {
+      "surface": "אֱמֶת",
+      "gloss": "إمِت"
+    },
+    {
+      "surface": "וְיָפִיחַ",
+      "gloss": "ونافخُ"
+    },
+    {
+      "surface": "כְּזָבִים",
+      "gloss": "أكاذيبَ"
+    },
+    {
+      "surface": "מִרְמָה",
+      "gloss": "غشٌّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:52.579143847Z",
+  "model": "glm-5.2"
+}

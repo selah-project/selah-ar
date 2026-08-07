@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "فاجتمع كلّ يسرايل إلى دافيد خبرونا قائلين: هأنحن من عظمك ومن لحمك.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "فاجتمع"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "דָּוִיד",
+      "gloss": "دافيد"
+    },
+    {
+      "surface": "חֶבְרוֹנָה",
+      "gloss": "حبرونا"
+    },
+    {
+      "surface": "לֵּאמֹר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "הִנֵּה",
+      "gloss": "هـ"
+    },
+    {
+      "surface": "עַצְמְךָ",
+      "gloss": "عظمك"
+    },
+    {
+      "surface": "וּבְשָׂרְךָ",
+      "gloss": "ولحمك"
+    },
+    {
+      "surface": "אֲנַחְנוּ",
+      "gloss": "نحن"
+    }
+  ],
+  "timestamp": "2026-08-07T06:14:08.538301547Z",
+  "model": "glm-5.2"
+}

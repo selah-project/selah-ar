@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 17:7",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "في ذلك اليوم يتطلّع الإنسان إلى صانعه، وعيناه إلى قدّوس يسرايل تنظران،",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "يتطلّع"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "על",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "صانعه"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "وعيناه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "قدّوس"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "تنظران"
+    }
+  ],
+  "timestamp": "2026-08-07T02:08:41.015943921Z",
+  "model": "glm-5.2"
+}

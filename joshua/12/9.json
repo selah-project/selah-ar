@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "مَلِك يريحو واحدًا؛ مَلِك ها-عاي الذي بجانب بيت-إيل واحدًا.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "مَلِك"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "يريحو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلِك"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ها-عاي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "بجانب"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:05:57.624488333Z",
+  "model": "glm-5.2"
+}

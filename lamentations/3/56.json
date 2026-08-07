@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "سمعتَ صوتي، لا تُخفِ أذنَكَ عن تنفُّسي، عن صراخي.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "صوتي"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "سمعتَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "تُخفِ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "أذنَكَ"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "عن تنفُّسي"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "عن صراخي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:49:00.146984448Z",
+  "model": "glm-5.2"
+}

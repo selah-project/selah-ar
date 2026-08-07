@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "و⟨صلّى⟩ يونه إلى يهوه إلههِ، من أحشاء السمكة.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "و⟨صلّى⟩"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "يونه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "إلههِ"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "من أحشاء"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "السمكة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:28:23.985050480Z",
+  "model": "glm-5.2"
+}

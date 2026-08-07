@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "فاجتمعوا إلى الملك كلُّ رجال يِسرائيل في العيد — هو الشهر السابع.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "فاجتمعوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "في العيد"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "الشهر"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "السابع"
+    }
+  ],
+  "timestamp": "2026-08-07T05:21:41.078494351Z",
+  "model": "glm-5.2"
+}

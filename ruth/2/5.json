@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 2:5",
+  "book": "ruth",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وقال بوآز لِفتاهُ الواقفِ على الحاصدين: لمن ⟨هذه⟩ الفتاةُ هذه؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "بوآز"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "لِفتاهُ"
+    },
+    {
+      "surface": "הנצב",
+      "gloss": "الواقفِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הקוצרים",
+      "gloss": "الحاصدين"
+    },
+    {
+      "surface": "למי",
+      "gloss": "لمن"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "الفتاةُ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:48:06.453896189Z",
+  "model": "glm-5.2"
+}

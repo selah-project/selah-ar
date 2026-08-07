@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 20:26",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "و⟨تكونون⟩ لي قِدسيش، لأنّي قدّوس أنا يهوه، و⟨أنا⟩ أُميِّز ⟨את⟩كم من الشعوب لتكونوا لي.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "و⟨تكونون⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "قِدسيش"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "قدّوس"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ואבדל",
+      "gloss": "و⟨أنا⟩ أُميِّز"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩كم",
+      "marks": "أنتم"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "الشعوب"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "لتكونوا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:30.876961872Z",
+  "model": "glm-5.2"
+}

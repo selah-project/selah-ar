@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 2:24",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وبعد موت حَصرون في كالِب أفراتة، زوجةُ حَصرون أبيّا، فولدت له ⟨את⟩ أَشحور أبي تقوع.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "وبعد"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حَصرون"
+    },
+    {
+      "surface": "בכלב",
+      "gloss": "في كالِب"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "أفراتة"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "وزوجة"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حَصرون"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "أبيّا"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "فولدت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أشحور"
+    },
+    {
+      "surface": "אשחור",
+      "gloss": "أَشحور"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "تقوع"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:17.916891013Z",
+  "model": "glm-5.2"
+}

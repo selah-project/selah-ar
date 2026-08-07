@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "ابن زَرحيا ابن عُزّي ابن بُقّي",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "زَرحيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "عُزّي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "بُقّي"
+    }
+  ],
+  "timestamp": "2026-08-07T05:02:05.157169205Z",
+  "model": "glm-5.2"
+}

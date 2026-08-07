@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 7:30",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "في اليومِ ال〈رابع⟩: نَسيءٌ لبَني رَئُوفِن، إيليصور بنُ شدِيئور.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "في اليومِ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ال〈رابع⟩"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "نَسيءٌ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لبَني"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رَئُوفِن"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "إيليصور"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنُ"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "شدِيئور"
+    }
+  ],
+  "timestamp": "2026-08-07T07:10:51.441025972Z",
+  "model": "glm-5.2"
+}

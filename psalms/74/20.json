@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 74,
+  "translation": "أنظُرْ إلى البريتِ، فإنّ مظلماتِ الأرضِ قد امتلأت سُكّانَ عنفٍ.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "أنظُرْ"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "إلى البريتِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "فإنّ"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "قد امتلأت"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "مظلماتِ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرضِ"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "سُكّانَ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "عنفٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:59.193776596Z",
+  "model": "glm-5.2"
+}

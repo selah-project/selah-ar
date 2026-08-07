@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 5:5",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "قُمتُ أنا لأفتح لحبيبي، ويداي تقاطرتا مُرًّا، وأصابعي مُرٌّ عابرٌ على مقابض المزلاج.",
+  "tokens": [
+    {
+      "surface": "קמתי",
+      "gloss": "قمتُ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "لأفتح"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "لحبيبي"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "ويداي"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "تقاطرتا"
+    },
+    {
+      "surface": "מור",
+      "gloss": "مُرًّا"
+    },
+    {
+      "surface": "ואצבעתי",
+      "gloss": "وأصابعي"
+    },
+    {
+      "surface": "מור",
+      "gloss": "مُرٌّ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عابرٌ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "مقابض"
+    },
+    {
+      "surface": "המנעול",
+      "gloss": "المزلاج"
+    }
+  ],
+  "timestamp": "2026-08-07T04:45:54.014542829Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 7:7",
+  "book": "amos",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "هكذا أراني، وإذا أدوناي قائمٌ على جدار أناخْ، وفي يده أناخْ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "أراني"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "قائمٌ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "جدار"
+    },
+    {
+      "surface": "אנך",
+      "gloss": "أناخْ"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "وفي يده"
+    },
+    {
+      "surface": "אנך",
+      "gloss": "أناخْ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:27:03.351270932Z",
+  "model": "glm-5.2"
+}

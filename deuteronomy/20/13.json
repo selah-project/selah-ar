@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "و⟨يُسلِمُها⟩ يهوه إلوهيمك إلى يدك، فتضرب ⟨את⟩ كلّ ذكرها بفم السيف.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "و⟨يُسلِمُها⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "إلى يدك"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "فتضرب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ ذكرها"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "ذكرها"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "بفم"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "السيف"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:46.482609478Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "لأنّ الملك يتوكّل على يهوه، وبحِسِد العليّ لا يتزعزع.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "يتوكّل"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "على يهوه"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "وبحِسِد"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "العليّ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "يتزعزع"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:45.526145263Z",
+  "model": "glm-5.2"
+}

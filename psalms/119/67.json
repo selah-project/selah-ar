@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "قبل أن أُذلَّ، أنا ضللتُ، لكنِ الآن قولك حفظتُ.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "قبل أن"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "أُذلَّ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "ضللتُ"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "لكنِ الآن"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "قولك"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "حفظتُ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:12.090539217Z",
+  "model": "glm-5.2"
+}

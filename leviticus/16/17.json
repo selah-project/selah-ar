@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 16:17",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وأيُّ إنسان لا يكون في خيمة الموعد في دخوله ليُكفِّر في القدس حتى خروجه، فيُكفِّر عن نفسه وعن بيته وعن كل جماعة يسرائيل.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وأيُّ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "في خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "في دخوله"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "ليُكفِّر"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "في القدس"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "צאתו",
+      "gloss": "خروجه"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "فيُكفِّر"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "عن نفسه"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "وعن"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "بيته"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "وعن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "جماعة"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:42.744608241Z",
+  "model": "glm-5.2"
+}

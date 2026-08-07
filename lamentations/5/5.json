@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "على أقفائنا تُطُوردنا، أُعيينا، لم يُترَك لنا ⟨راحة⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "أقفاؤنا"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "تُطُوردنا"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "أُعيينا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "تُرِكَ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:50:33.455348111Z",
+  "model": "glm-5.2"
+}

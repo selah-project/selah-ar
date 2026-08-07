@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 11:8",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وينزل كل عبيدك هؤلاء إليّ ويسجدون لي قائلين: اخرج أنت وكل الشعب الذي في رجليك، وبعد ذلك أخرج. وخرج من عند فرعون بحَرارة أنف.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "وينزل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "عبيدك"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "ويسجدون"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "צא",
+      "gloss": "اخرج"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ברגליך",
+      "gloss": "في رجليك"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "وبعد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "أخرج"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "من عند"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "בחרי",
+      "gloss": "بحَرارة"
+    },
+    {
+      "surface": "אף",
+      "gloss": "أنف"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:28.586073749Z",
+  "model": "glm-5.2"
+}

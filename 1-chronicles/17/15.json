@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "حسب كلِّ هذه الكلمات وكلِّ هذا الرؤيا، هكذا كلَّمَ ناتان داويد.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "حسب كلِّ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "الكلمات"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "وكلِّ"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "هذا الرؤيا"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلَّمَ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:14.154280660Z",
+  "model": "glm-5.2"
+}

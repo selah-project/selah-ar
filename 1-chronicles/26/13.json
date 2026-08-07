@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 26:13",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "فأَسقطوا قُرعًا كالصّغير كالكبير لبيت آبائهم لشاعر و⟨ل⟩شاعر",
+  "tokens": [
+    {
+      "surface": "ויפילו",
+      "gloss": "فأسقطوا"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "قرعًا"
+    },
+    {
+      "surface": "כקטן",
+      "gloss": "كالصغير"
+    },
+    {
+      "surface": "כגדול",
+      "gloss": "كالكبير"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "لبيت"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "آبائهم"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "لشاعر"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "ولشاعر"
+    }
+  ],
+  "timestamp": "2026-08-07T06:44:11.789711471Z",
+  "model": "glm-5.2"
+}

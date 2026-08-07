@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "من الكوهنيم: يَدَعيا بن يُوياريب، ياكين.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكوهنيم"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "يَدَعيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "يُوياريب"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "ياكين"
+    }
+  ],
+  "timestamp": "2026-08-07T06:12:55.018423961Z",
+  "model": "glm-5.2"
+}

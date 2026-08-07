@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 30:32",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "إن غَبُوتَ في التَّرفُّع، وإن نَويتَ ⟨شرًّا⟩ — يَدٌ إلى الفم!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "غبوت"
+    },
+    {
+      "surface": "בהתנשא",
+      "gloss": "في الترفع"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "نويت"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يد"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "إلى الفم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:36.630718338Z",
+  "model": "glm-5.2"
+}

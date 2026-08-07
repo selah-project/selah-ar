@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "حيثما كلمة ملك فهي سُلطة، ومن ذا الذي يقول له «ماذا تفعل؟».",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "حيثما"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "سُلطة"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ومن ذا"
+    },
+    {
+      "surface": "יואמר",
+      "gloss": "الذي يقول"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تفعل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:20.712421610Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فإنه يقول: «أليس رؤسائي جميعًا ملوكًا؟»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "فإنه"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "يقول"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "أليس"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "رؤسائي"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "جميعًا"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ملوكًا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:06:58.383431331Z",
+  "model": "glm-5.2"
+}

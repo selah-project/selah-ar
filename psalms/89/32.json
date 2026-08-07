@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "إن تدنّسوا فرائضي، ووصاياي لا يحفظون،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "فرائضي"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "تدنّسوا"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ووصاياي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "يحفظون"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:21.970422231Z",
+  "model": "glm-5.2"
+}

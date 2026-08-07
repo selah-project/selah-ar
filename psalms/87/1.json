@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 87,
+  "translation": "لِبَنِي قورَح مِزمورٌ. شيرٌ. أُسُسُهُ ⟨في⟩ جِبالِ قُدسٍ.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "لبني"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "شير"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "أسسه"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "في جبال"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدس"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:01.526634267Z",
+  "model": "glm-5.2"
+}

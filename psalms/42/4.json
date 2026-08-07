@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "⟨كانت⟩ دمعتي لي خُبزًا نهارًا وليلًا، عند قولهم لي كلَّ اليوم: أين إلوهيمُكَ؟",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "⟨كانت⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "دمعتي"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خُبزًا"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "نهارًا"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "وليلًا"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "عند قولِ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "איה",
+      "gloss": "أين"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمُكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T06:04:09.988459969Z",
+  "model": "glm-5.2"
+}

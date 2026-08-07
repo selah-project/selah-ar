@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وحمل بنو اللاويين ⟨את⟩ تابوت الإلوهيم كما أمر موشيه بكلمة يهوه، على أكتافهم بالعُصيّ عليهم.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "وحمل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "اللاويين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تابوت"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الإلوهيم"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أمر"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "بكلمة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "على أكتافهم"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "بالعُصيّ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "عليهم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:49.619621054Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 1:22",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "و⟨هوذا⟩ إذ ⟨هي⟩ بعدُ تتكلّم مع الملك، جاء ناتان النّافي (الناطق).",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "و⟨هوذا⟩"
+    },
+    {
+      "surface": "עודנה",
+      "gloss": "بعدُ"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "تتكلّم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "وجاء ناتان"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "النّافي"
+    },
+    {
+      "surface": "בא",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-07T01:42:01.485032493Z",
+  "model": "glm-5.2"
+}

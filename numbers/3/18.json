@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 3:18",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وهذه أسماء بَني گيرشون لعشائرهم: لفني وشمعي",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "وهذه"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "أسماء"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَني"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "گيرشون"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "لعشائرهم"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لفني"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "وشمعي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:54.505843882Z",
+  "model": "glm-5.2"
+}

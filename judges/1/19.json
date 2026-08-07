@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وكان يهوه مع ⟨את⟩ يهودا، فامتلك ⟨את⟩ الجبل، لأنه لم يكن ⟨لكي⟩ يملك طرد ساكني الوادي، لأن لهم مركبات حديد.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهودا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "فامتلك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الجبل"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "الجبل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "للطرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساكني"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ساكني"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "الوادي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "مركبات"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "حديد"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:13:04.325990093Z",
+  "model": "glm-5.2"
+}

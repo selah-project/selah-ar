@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 102,
+  "translation": "منذُ قديمٍ الأرضَ أسَّستَ، وسماءٌ عملُ يَدَيكَ.",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "منذُ قديمٍ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرضَ"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "أسَّستَ"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "وعملُ"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "يَدَيكَ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "سماءٌ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:06:17.463909270Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 11:16",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "فوضعوا لها أياديًا، فدخلت طريق مدخل الخيل بيت الملك، ومُتت هناك.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "فوضعوا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "أياديًا"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "فدخلت"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "طريق"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "مدخل"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "الخيل"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "ותומת",
+      "gloss": "ومُتت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:57:07.914684693Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 22:29",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "شعبُ الأرض ظلموا ظلمًا وغصبوا غصبًا، والفقير والمحتاج قهروا، و⟨את⟩ الغريب ظلموا بلا حُكمٍ.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "شعبُ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "ظلموا"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ظلمًا"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "وغصبوا"
+    },
+    {
+      "surface": "גזל",
+      "gloss": "غصبًا"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "والفقير"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "والمحتاج"
+    },
+    {
+      "surface": "הונו",
+      "gloss": "قهروا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "الغريب"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "الغريب"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "ظلموا"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بلا"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حُكم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:03:38.570161211Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 94,
+  "translation": "طوبى للرجل الذي تؤدّبه يا ياه، ومن توراتك تعلّمه.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "طوبى لـ"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "تؤدّبه"
+    },
+    {
+      "surface": "יה",
+      "gloss": "يا ياه"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "ومن توراتك"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "تعلّمه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:08.122176171Z",
+  "model": "glm-5.2"
+}

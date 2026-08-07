@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "ثروةٌ من باطلٍ تَقلّ، والجامعُ على يدٍ يُكثِر.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ثروة"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "من باطل"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "تَقلّ"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "والجامع"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يد"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "يُكثِر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:24.245210361Z",
+  "model": "glm-5.2"
+}

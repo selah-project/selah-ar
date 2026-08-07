@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 8:4",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وإذا هناك مجدُ إلوهيم إسرائيل، كالمنظرِ الذي رأيتُه في البقعة.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "مجدُ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "كالمنظرِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "رأيتُه"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "في البقعة"
+    }
+  ],
+  "timestamp": "2026-08-07T02:56:34.647651886Z",
+  "model": "glm-5.2"
+}

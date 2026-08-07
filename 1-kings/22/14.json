@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "فقال ميكاييهو: «حيٌّ هو يهوه، لأنّ ⟨את⟩ الذي يقوله يهوه لي إيّاه أتكلّم».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "ميكاييهو"
+    },
+    {
+      "surface": "חי",
+      "gloss": "حيٌّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الذي يقوله"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "يقوله"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "أتكلّم"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "أتكلّم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:52:19.652462793Z",
+  "model": "glm-5.2"
+}

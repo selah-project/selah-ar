@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 1:25",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "كيف سقط الأبطال في وسط الحرب! يهوناتان على مرتفعاتك جريح!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "كيف"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "سقط"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "الأبطال"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "الحرب"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يهوناتان"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "במותיך",
+      "gloss": "مرتفعاتك"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "جريح"
+    }
+  ],
+  "timestamp": "2026-08-07T01:32:06.539931629Z",
+  "model": "glm-5.2"
+}

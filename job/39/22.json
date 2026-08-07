@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 39:22",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "يَسْخَرُ من الفزع ولا يَنْكَسِر، ولا يَرجِعُ من وجه السيف.",
+  "tokens": [
+    {
+      "surface": "ישחק",
+      "gloss": "يَسْخَرُ"
+    },
+    {
+      "surface": "לפחד",
+      "gloss": "من الفزع"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "يَنْكَسِر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "يَرجِعُ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجه"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "السيف"
+    }
+  ],
+  "timestamp": "2026-08-07T04:43:36.031876184Z",
+  "model": "glm-5.2"
+}

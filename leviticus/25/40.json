@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 25:40",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "كأجير كنازل يكون معك؛ إلى سنة اليوفيل يخدم معك.",
+  "tokens": [
+    {
+      "surface": "כשכיר",
+      "gloss": "كأجير"
+    },
+    {
+      "surface": "כתושב",
+      "gloss": "كنازل"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "اليوفيل"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "يخدم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:58.497818417Z",
+  "model": "glm-5.2"
+}

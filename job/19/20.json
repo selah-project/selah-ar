@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 19:20",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "بشرتي ولحمي التصقت عظامي، ونجوتُ بجلدِ أسناني.",
+  "tokens": [
+    {
+      "surface": "בעורי",
+      "gloss": "بشرتي"
+    },
+    {
+      "surface": "ובבשרי",
+      "gloss": "ولحمي"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "التصقت"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "عظامي"
+    },
+    {
+      "surface": "ואתמלטה",
+      "gloss": "ونجوت"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "بجلد"
+    },
+    {
+      "surface": "שני",
+      "gloss": "أسناني"
+    }
+  ],
+  "timestamp": "2026-08-07T04:37:51.788699395Z",
+  "model": "glm-5.2"
+}

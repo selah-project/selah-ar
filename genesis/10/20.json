@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "هؤلاء بنو حامٍ لعشائرهم للغاتهم بأراضيهم بأممهم.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حامٍ"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "لعشائرهم"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "للغاتهم"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "بأراضيهم"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "بأممهم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:40.563015764Z",
+  "model": "glm-5.2"
+}

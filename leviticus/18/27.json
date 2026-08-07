@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "لأنّ ⟨את⟩ كلِّ الرجاساتِ هذه عملَها رجالُ الأرضِ الذين أمامَكم، فتنجَّستِ الأرض.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ الرجاسات هذه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "الرجاسات"
+    },
+    {
+      "surface": "האל",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عملَها"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "رجالُ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "أمامكم"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "فنجَّست"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:07.359582180Z",
+  "model": "glm-5.2"
+}

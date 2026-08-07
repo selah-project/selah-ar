@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 21:7",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وقالت: «مَن قالَ لأفراهام إنّ ساره تُرضِعُ بنين؟ فقد ولَدتُ ابنًا لِشَيخوخته.»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "وقالت"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "قالَ"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "لأفراهام"
+    },
+    {
+      "surface": "היניקה",
+      "gloss": "تُرضِعُ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بنين"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ساره"
+    },
+    {
+      "surface": "כי",
+      "gloss": "فقد"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "ولَدتُ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنًا"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "لِشَيخوخته"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:26.320503269Z",
+  "model": "glm-5.2"
+}

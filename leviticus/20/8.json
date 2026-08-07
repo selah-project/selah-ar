@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "واحفظوا ⟨את⟩ فرائضي وافعلوها ⟨את⟩ها؛ أنا يهوه مُقدِّسُكم",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "واحفظوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فرائضي"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "فرائضي"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "وافعلوا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "—"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "مُقدِّسُكم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:38:48.254727166Z",
+  "model": "glm-5.2"
+}

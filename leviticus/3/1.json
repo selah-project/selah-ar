@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 3:1",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وإن كان قُربانُه ذَبْحَ شَلاميم، فإن كان من البقر ⟨هو⟩ يُقرِّب، إن ذكرًا وإن أُنثى، تامًّا يُقرِّبُه أمام يهوه.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ذبح"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "شلاميم"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "قربانه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "البقر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "يُقرِّب"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ذكرًا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "أُنثى"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "تامًّا"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "يُقرِّبه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:48.319305837Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "شفاهٍ يُقبِّل ⟨من هو⟩ مُعيدُ كلماتٍ مستقيمة.",
+  "tokens": [
+    {
+      "surface": "שְׂפָתַ֥יִם",
+      "gloss": "شفاه"
+    },
+    {
+      "surface": "יִשָּׁ֑ק",
+      "gloss": "يُقبِّل"
+    },
+    {
+      "surface": "מֵ֝שִׁ֗יב",
+      "gloss": "مُعيد"
+    },
+    {
+      "surface": "דְּבָרִ֥ים",
+      "gloss": "كلمات"
+    },
+    {
+      "surface": "נְכֹחִֽים",
+      "gloss": "مستقيمة"
+    }
+  ],
+  "timestamp": "2026-08-07T06:09:19.335859051Z",
+  "model": "glm-5.2"
+}

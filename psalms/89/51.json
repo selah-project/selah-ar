@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 89:51",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "اذكر يا أدوناي عارَ عبيدك، ⟨الذي⟩ حملتُه في حضني من كلِّ كثيري الشعوب،",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "اذكر"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "عارَ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "عبيدك"
+    },
+    {
+      "surface": "שאתי",
+      "gloss": "حملتُه"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "في حضني"
+    },
+    {
+      "surface": "כל",
+      "gloss": "من كلِّ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيري"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "الشعوب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:41.275164158Z",
+  "model": "glm-5.2"
+}

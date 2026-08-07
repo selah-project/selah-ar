@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 47,
+  "translation": "فقال يوسف: «هاتوا مواشيَكم وأُعطيكم ⟨خبزًا⟩ بمواشيكم، إن فني فضة».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "هاتوا"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "مواشيَكم"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "وأُعطيكم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": ""
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "بمواشيكم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "فني"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضة"
+    }
+  ],
+  "timestamp": "2026-08-06T23:57:39.665621720Z",
+  "model": "glm-5.2"
+}

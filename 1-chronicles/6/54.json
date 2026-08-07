@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 6:54",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "و⟨את⟩ أيّالون و⟨את⟩ مراعيها، و⟨את⟩ جات-ريمون و⟨את⟩ مراعيها.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أيّالون"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "أيّالون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مراعيها"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مراعيها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "جات-ريمون"
+    },
+    {
+      "surface": "גת",
+      "gloss": "جات"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ريمون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مراعيها"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مراعيها"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:59.407875012Z",
+  "model": "glm-5.2"
+}

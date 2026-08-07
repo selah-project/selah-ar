@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "لأنّه من أجلك ⟨كنا⟩ نُقتَل كلّ النهار، حُسِبنا كقطيعٍ للذبح.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "من أجلك"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "نُقتَل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "النهار"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "حُسِبنا"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "كقطيعٍ"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "للذبح"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:22.154399162Z",
+  "model": "glm-5.2"
+}

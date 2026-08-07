@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 15:10",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "ومن يمسّ كل ما يكون تحته يتنجّس إلى المساء، ومن يحمل ⟨את⟩ها يغسل ثيابه ويرتسل في الماء ويكون نجسًا إلى المساء",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "الماسّ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "تحته"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "يتنجّس"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "المساء"
+    },
+    {
+      "surface": "והנושא",
+      "gloss": "والحامل"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاها"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "يغسل"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ثيابه"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ويرتسل"
+    },
+    {
+      "surface": "במים",
+      "gloss": "في الماء"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ويتنجّس"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "المساء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:00.680242570Z",
+  "model": "glm-5.2"
+}

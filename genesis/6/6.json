@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فتنّدَم يهوه على أنّه صنع ⟨את⟩ الإنسان في الأرض، وانقبض إلى قلبه.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "فتنّدَم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "على أنّ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الإنسان"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "وانقبض"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "قلبه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:34:27.335828475Z",
+  "model": "glm-5.2"
+}

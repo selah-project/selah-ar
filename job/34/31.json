@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 34:31",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "فهل قال أحدٌ لإيل: «حَمَلتُ، لا أُعْوِجُّ»،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "فهل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "قال أحدٌ لـ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "⟨قال⟩"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "حَمَلتُ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אחבל",
+      "gloss": "أُعْوِجُّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:42:09.498589675Z",
+  "model": "glm-5.2"
+}

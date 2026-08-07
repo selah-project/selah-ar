@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 109,
+  "translation": "وليعلموا أنّ يدك هذه، أنت يا يهوه فعلتَها.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "وليعلموا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدك"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "فعلتَها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:09.221116649Z",
+  "model": "glm-5.2"
+}

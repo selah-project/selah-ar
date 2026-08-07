@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "رجلٌ سيّئُ العينِ يَنهمكُ وراء الغِنى، وهو لا يعلمُ أنَّ الفقرَ سيُدركه.",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "يَنهمكُ"
+    },
+    {
+      "surface": "להון",
+      "gloss": "وراءَ الغِنى"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلٌ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "سيّئُ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "العينِ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "يعلمُ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنَّ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "الفقرَ"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "سيُدركه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:55.740384705Z",
+  "model": "glm-5.2"
+}

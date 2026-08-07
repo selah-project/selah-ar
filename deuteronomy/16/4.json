@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 16:4",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "ولا يُرى لك خَمير في كلِّ تخمك سبعة أيام، ولا يَبيت من اللحم الذي تذبحه مساءً في اليوم الأوّل إلى الصباح.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "يُرى"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "خَمير"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلِّ"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "تخمك"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سبعة"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "يَبيت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "اللحم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "تذبحه"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "مساءً"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في اليوم"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "الأوّل"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "إلى الصباح"
+    }
+  ],
+  "timestamp": "2026-08-07T00:56:24.583749426Z",
+  "model": "glm-5.2"
+}

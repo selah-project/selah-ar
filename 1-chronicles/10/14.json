@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "ولم يستشرْ في يهوه، فأماتَهُ، وحوّلَ ⟨את⟩ المُلكَ إلى داوودَ بنِ يِشاي.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "يستشرْ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "في يهوه"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "فأماتَهُ"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "وحوّلَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المُلك"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "المُلكَ"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "إلى داوودَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنِ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "يِشاي"
+    }
+  ],
+  "timestamp": "2026-08-07T05:13:35.584681118Z",
+  "model": "glm-5.2"
+}

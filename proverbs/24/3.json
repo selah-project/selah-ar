@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "بحكمةٍ يُبنى بيتٌ، وبتبصُّرٍ يتأهَّلُ.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "بحكمةٍ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "يُبنى"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيتٌ"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "وبتبصُّرٍ"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "يتأهَّلُ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:01.131880538Z",
+  "model": "glm-5.2"
+}

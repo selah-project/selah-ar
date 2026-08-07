@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "إلى الأبد، يا يهوه، كلمتُكَ ثابتةٌ في السماوات.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "كلمتُكَ"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ثابتة"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "في السماوات"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:35.659483276Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 15:13",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وجاء المُخبِر إلى داود قائلًا: صار قلب رجل يسرايم وراء أفشالوم.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "المُخبِر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "صار"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايم"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وراء"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "أفشالوم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:36:17.658828206Z",
+  "model": "glm-5.2"
+}

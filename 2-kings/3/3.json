@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فقط بذنوب ياروفعام بن نِباط الذي أخطأ ⟨את⟩ يسرائيل لَصِق، لم يَصْرُف عنها",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "فقط"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "بذنوب"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ياروفعام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "نِباط"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "أخطأ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرائيل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "لَصِق"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "סר",
+      "gloss": "يَصْرُف"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "عنها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:53:14.519276762Z",
+  "model": "glm-5.2"
+}

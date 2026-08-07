@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "«قرِّب ⟨את⟩ سبط لاوي، وأوقفه أمام أهارون الكوهين، فيخدموه.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "قرّب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سبط لاوي"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "سبط"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لاوي"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "وأوقفه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "أمام أهارون الكوهين"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "فيخدموه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "أهارون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:38.819054846Z",
+  "model": "glm-5.2"
+}

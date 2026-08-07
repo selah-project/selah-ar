@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 8:23",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "طريق ثلاثة أيام نمشي في البرّيّة ونذبح ليهوه إلوهيمنا كما يقول لنا",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "طريق"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ثلاثة"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "نمشي"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في البرّيّة"
+    },
+    {
+      "surface": "וזבחנו",
+      "gloss": "ونذبح"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلوهيمنا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "يقول"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "لنا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:14.800774599Z",
+  "model": "glm-5.2"
+}

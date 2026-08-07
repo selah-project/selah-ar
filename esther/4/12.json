@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فأخبروا مردخاي ⟨بـ⟩⟨את⟩ كلمات إستير.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "فأخبروا"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "مردخاي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلمات إستير"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلمات"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "إستير"
+    }
+  ],
+  "timestamp": "2026-08-07T04:53:36.629283513Z",
+  "model": "glm-5.2"
+}

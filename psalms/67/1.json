@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 67,
+  "translation": "للقائد، على نغينوت. مِزمور. نشيد.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "للقائد"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "على نغينوت (معزوفات أوتار)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مِزمور"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "نشيد"
+    }
+  ],
+  "timestamp": "2026-08-07T06:04:40.959083288Z",
+  "model": "glm-5.2"
+}

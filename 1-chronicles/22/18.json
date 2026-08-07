@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 22:18",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "«أليس يهوه إلهَكم معكم، وأراحكم من حولكم؟ لأنه دفع ⟨إلى⟩ يدي ⟨את⟩ سكّان الأرض، فتُخضَع الأرض أمام يهوه وأمام شعبه.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "أليس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلهَكم"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "معكم"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "وأراح"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "كم"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "من حولكم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دفع"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "⟨إلى⟩ يدي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سكّان"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "سكّان"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ונכבשה",
+      "gloss": "فتُخضَع"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "وأمام"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:17:49.941067358Z",
+  "model": "glm-5.2"
+}

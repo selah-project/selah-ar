@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وإنسان إذا أكل قُدسًا سهوًا، وزاد خُمُسَه عليه، وأعطى الكاهن ⟨את⟩ القُدس.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "وإنسان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "أكل"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قُدسًا"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "سهوًا"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "و增加"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "خُمُسَه"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "وأعطى"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "للكاهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "القُدس"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "القُدس"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:50.432297230Z",
+  "model": "glm-5.2"
+}

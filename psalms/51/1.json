@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 51,
+  "translation": "لِقائد المُنشدين. مَزْمور لِداؤد.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لِقائد المُنشدين"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مَزْمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِداؤد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:53:34.220281607Z",
+  "model": "glm-5.2"
+}

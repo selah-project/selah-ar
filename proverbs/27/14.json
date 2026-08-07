@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 27:14",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "مُبارِكٌ صاحبَه بصوتٍ عالٍ في الصباح المُبكِّر — شتيمةً تُحسَب له",
+  "tokens": [
+    {
+      "surface": "מברך",
+      "gloss": "مُبارِكٌ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "صاحبَه"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "بصوتٍ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عالٍ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "في الصباح"
+    },
+    {
+      "surface": "השכים",
+      "gloss": "المُبكِّر"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "شتيمةً"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "تُحسَب"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:45.481061785Z",
+  "model": "glm-5.2"
+}

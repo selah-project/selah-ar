@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 59,
+  "translation": "عِزَّهُ إليك أحرُس، لأنّ إلوهيم ملجأي.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "عِزَّهُ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "أحرُس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ملجأي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:55:59.159775925Z",
+  "model": "glm-5.2"
+}

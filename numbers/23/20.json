@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "ها قد قَبِلتُ بَرَكاً فأُبارِك ولا أرجِعُها.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "بَرَكاً"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "قَبِلتُ"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "فأُبارِك"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "أرجِعُها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:39:27.195415779Z",
+  "model": "glm-5.2"
+}

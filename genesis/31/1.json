@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 31:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "و⟨سمع⟩ ⟨את⟩ كلامَ بَني لابان قائلين: أخذ يعقوف ⟨את⟩ كلّ ما لأبينا، وممّا لأبينا صنع ⟨את⟩ كلّ هذا الثقل هذا.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "و⟨سمع⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلامَ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلامَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَني"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "أخذ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "لأبينا"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "وممّا"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "لأبينا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "الثقل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:22.063739422Z",
+  "model": "glm-5.2"
+}

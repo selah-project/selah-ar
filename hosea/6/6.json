@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "لأنَّ حِسِدًا شئتُ لا ذبحًا، ومعرفةَ إلوهيم أكثرَ من عولات.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حِسِدًا"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "شئتُ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ذبحًا"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ومعرفةَ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "أكثرَ من عولات"
+    }
+  ],
+  "timestamp": "2026-08-07T03:20:29.561264494Z",
+  "model": "glm-5.2"
+}

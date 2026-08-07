@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وقالت ⟨ال⟩أشجار للتينه: تعالي، أنتِ تَملِكين علينا.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقالت"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "الأشجار"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "للتينة"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "تعالي"
+    },
+    {
+      "surface": "את",
+      "gloss": "أنتِ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "تملكين"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "علينا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:15:34.857720969Z",
+  "model": "glm-5.2"
+}

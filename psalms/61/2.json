@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 61,
+  "translation": "اسمع يا إلوهيم صراخي، أصغِ ⟨إلى⟩ صلاتي",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "اسمع"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "يا إلوهيم"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "صراخي"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "أصغِ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "⟨إلى⟩ صلاتي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:55:59.374443773Z",
+  "model": "glm-5.2"
+}

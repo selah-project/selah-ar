@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 12:13",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "فقال داوود لِناتان: «أخطأتُ لِيهوه». فقال ناتان لِداوود: «أيضًا يهوه قد نقل خطيئتك؛ لا تموت».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لِـ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "أخطأتُ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "لِيهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لِـ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "قد نقل"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "خطيئتك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "تموت"
+    }
+  ],
+  "timestamp": "2026-08-07T01:35:02.971387682Z",
+  "model": "glm-5.2"
+}

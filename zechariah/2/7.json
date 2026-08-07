@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 2:7",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وإذا الملاكُ المتكلّمُ فيّ خرج، وملاكٌ آخَرُ خرج لاستقباله،",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "الملاكُ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "المتكلّمُ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "فيّ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "خرج"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "وملاكٌ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "آخَرُ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "خرج"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "لاستقباله"
+    }
+  ],
+  "timestamp": "2026-08-07T03:35:14.225694614Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 11:3",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "«قول لرَحَبْعام بن شَلومو، ملك يهودا، ولكلّ يسرائيل الذين في يهودا وبنيامين، قائلًا:",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "قول"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رَحَبْعام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شَلومو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولـ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "الذين في يهودا"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "وبنيامين"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:25:34.335263738Z",
+  "model": "glm-5.2"
+}

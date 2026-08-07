@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "تامٌّ أنا، لا أعرِف نَفسي، أحتقِر حياتي.",
+  "tokens": [
+    {
+      "surface": "תָּֽם",
+      "gloss": "تامٌّ"
+    },
+    {
+      "surface": "אָ֭נִי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אֵדַ֥ע",
+      "gloss": "أعرِف"
+    },
+    {
+      "surface": "נַפְשִׁ֗י",
+      "gloss": "نَفسي"
+    },
+    {
+      "surface": "אֶמְאַ֥ס",
+      "gloss": "أحتقِر"
+    },
+    {
+      "surface": "חַיָּֽי",
+      "gloss": "حياتي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:34:08.933235435Z",
+  "model": "glm-5.2"
+}

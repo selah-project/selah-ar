@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "و⟨كان⟩ بعد سبعة أيام أنّ مياه المبول كانت على الأرض.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "لسبعة"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "الأيام"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ومياه"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "المبول"
+    },
+    {
+      "surface": "היו",
+      "gloss": "كانت"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:48.386949294Z",
+  "model": "glm-5.2"
+}

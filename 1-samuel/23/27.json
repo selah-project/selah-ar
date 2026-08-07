@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 23:27",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "وجاء رسول إلى شاؤول قائلاً: أسرع واذهب، لأن الفلستيينيين قد انتشروا على الأرض.",
+  "tokens": [
+    {
+      "surface": "ומלאך",
+      "gloss": "ورسول"
+    },
+    {
+      "surface": "בא",
+      "gloss": "جاء"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "أسرع"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "واذهب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "انتشروا"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "الفلستيينيون"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T01:28:33.033672444Z",
+  "model": "glm-5.2"
+}

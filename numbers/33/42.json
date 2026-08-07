@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 33:42",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "وَرَحَلوا مِنْ صَلْمُوناه، وَخَيَّموا في فُونُون.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ورحلوا"
+    },
+    {
+      "surface": "מצלמנה",
+      "gloss": "من صَلْموناه"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "وخيّموا"
+    },
+    {
+      "surface": "בפונן",
+      "gloss": "في فُونون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:47.058993238Z",
+  "model": "glm-5.2"
+}

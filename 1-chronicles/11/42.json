@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 11:42",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "عادينا بن شيزا الرأوبينيّ، رأسٌ للرأوبينيّين، وعليه ثلاثون،",
+  "tokens": [
+    {
+      "surface": "עדינא",
+      "gloss": "عادينا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "שיזא",
+      "gloss": "شيزا"
+    },
+    {
+      "surface": "הראובני",
+      "gloss": "الرأوبينيّ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأس"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "للرأوبينيّين"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "وعليه"
+    },
+    {
+      "surface": "שלושים",
+      "gloss": "ثلاثون"
+    }
+  ],
+  "timestamp": "2026-08-07T05:13:46.228675720Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 18:9",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وفرِح يِترو على كلِّ الخير الذي صنعه يهوه لإسرائيل، الذي أنقذه من يد مصرايم.",
+  "tokens": [
+    {
+      "surface": "ויחד",
+      "gloss": "وفرِح"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "يِترو"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "الخير"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنعه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "لإسرائيل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "أنقذه"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يد"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:12.509801249Z",
+  "model": "glm-5.2"
+}

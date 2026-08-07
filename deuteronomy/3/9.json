@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "الصيدونيّون يدعون حرمون ⟨بـ⟩ سريون، والأموريّ يدعونه ⟨بـ⟩ سَنير.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "الصيدونيّون"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "يدعون"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "حرمون"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "سريون"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "والأموريّ"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "يدعونه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨له⟩"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "سَنير"
+    }
+  ],
+  "timestamp": "2026-08-07T00:48:29.772481494Z",
+  "model": "glm-5.2"
+}

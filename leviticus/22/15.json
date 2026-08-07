@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 22:15",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "ولا يُدنِّسُون ⟨את⟩ مقدَّسات بني إسرائيل، ⟨את⟩ التي يرفعونها لِيهوه.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "يُدنِّسُون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مقدَّسات"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "مقدَّسات"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "التي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "يرفعونها"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "لِيهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:50.432597778Z",
+  "model": "glm-5.2"
+}

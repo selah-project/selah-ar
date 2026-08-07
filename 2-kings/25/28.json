@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 25:28",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وكلّمه طيّبات، وجعل ⟨את⟩ كرسيه فوق كرسي الملوك الذين معه في بافل.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وكلّمه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "طيّبات"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "وجعل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كرسيه"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "كرسيه"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "فوق"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "كرسي"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "الملوك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "في بافل"
+    }
+  ],
+  "timestamp": "2026-08-07T02:03:10.375630833Z",
+  "model": "glm-5.2"
+}

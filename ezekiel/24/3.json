@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 24:3",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "وَمَثِّلْ ⟨على⟩ بيتِ المَري مَثَلًا، وستقول لهم: هكذا قال أدوناي يهوه: أَقِلِ القِدرَ، أَقِلْهُ، وأَيضًا اسكب فيه ماءً.",
+  "tokens": [
+    {
+      "surface": "ומשל",
+      "gloss": "ومثّل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "على"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "المَري"
+    },
+    {
+      "surface": "משל",
+      "gloss": "مثلا"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "وستقول"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "أَقِلْ"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "القِدر"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "أقلْه"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "وأيضا"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "اسكب"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماء"
+    }
+  ],
+  "timestamp": "2026-08-07T07:51:52.035756864Z",
+  "model": "glm-5.2"
+}

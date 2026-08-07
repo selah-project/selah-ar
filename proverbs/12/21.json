@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 12:21",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "لا يُصيبُ الصدّيقَ ⟨من⟩ كلَّ أَوَن، والرّشاعيم يمتلئون شرًّا.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יאנה",
+      "gloss": "يُصيب\/يُدرِك"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "الصدّيق"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "און",
+      "gloss": "أَوَن"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "والرّشاعيم"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "يمتلئون"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شرًّا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:18.341806288Z",
+  "model": "glm-5.2"
+}

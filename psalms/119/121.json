@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "فعلتُ مِشپاط ⟨و⟩صِدِق؛ لا تُسلِّمني لمُضطهِديّ.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "فعلتُ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "مِشپاط"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "⟨و⟩صِدِق"
+    },
+    {
+      "surface": "בל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "تُسلِّمني"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "لمُضطهِديّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:57.117022715Z",
+  "model": "glm-5.2"
+}

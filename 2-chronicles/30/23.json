@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 30:23",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وتشاور كل الجماعة أن يعملوا سبعة أيام أخرى، فعملوا سبعة أيام فرحًا.",
+  "tokens": [
+    {
+      "surface": "ויועצו",
+      "gloss": "وتشاور"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "الجماعة"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "أن يعملوا"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سبعة"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "أخرى"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "فعملوا"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سبعة"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "فرحًا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:31:20.669664250Z",
+  "model": "glm-5.2"
+}

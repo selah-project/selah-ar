@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 22:15",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "هكذا قال أدوناي يهوه صَباؤوت: اذهبْ، ادخلْ إلى هذا الساكِنِ المسؤول، إلى شَبْنا، الذي على البيت،",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صَباؤوت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اذهبْ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨ادخل⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הסכן",
+      "gloss": "الساكن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "על",
+      "gloss": "المسؤول"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "شَبْنا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    }
+  ],
+  "timestamp": "2026-08-07T02:10:08.537249424Z",
+  "model": "glm-5.2"
+}

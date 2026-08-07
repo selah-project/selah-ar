@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "اقتربَ ملاحِقو المؤامرة، من توراتك ابتعدوا",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "اقتربَ"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "ملاحِقو"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "المؤامرة"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "من توراتك"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "ابتعدوا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:13:04.850802363Z",
+  "model": "glm-5.2"
+}

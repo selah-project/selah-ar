@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "لأنّ طولَ أيّامٍ وسنينَ حياةٍ وشالومٍ يزيدونها لك",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "طولَ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيّامٍ"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "وسنينَ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حياةٍ"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "وشالومٍ"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "يزيدونها"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:21:46.474320542Z",
+  "model": "glm-5.2"
+}

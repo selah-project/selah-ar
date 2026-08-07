@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 76,
+  "translation": "لقائد المُغنّين، على نَغينوت. مِزمور لأساف، نَشيد.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لقائد"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "على نغينوت"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مِزمور"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "لأساف"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "نَشيد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:18.328149983Z",
+  "model": "glm-5.2"
+}

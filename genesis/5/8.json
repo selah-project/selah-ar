@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "و⟨كانت⟩ كل أيّام شِيت اثنتين وعشرة سنة وتسعمئة سنة، فمات.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و⟨كانت⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "שת",
+      "gloss": "شِيت"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "اثنتين"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "وعشرة"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "وتسع"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "فمات"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:41.580716052Z",
+  "model": "glm-5.2"
+}

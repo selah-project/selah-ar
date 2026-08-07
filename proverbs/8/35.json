@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 8:35",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "لأنّ من يجدني يجد الحياة، ويستجلب رضًا من يهوه.",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "מֹ֭צְאִי",
+      "gloss": "من يجدني"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "يجد"
+    },
+    {
+      "surface": "חַיִּ֑ים",
+      "gloss": "الحياة"
+    },
+    {
+      "surface": "וַיָּ֥פֶק",
+      "gloss": "ويستجلب"
+    },
+    {
+      "surface": "רָ֝צ֗וֹן",
+      "gloss": "رضًا"
+    },
+    {
+      "surface": "מֵיְהוָֽה",
+      "gloss": "من يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:23:14.722611221Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "لا تسمعوا إليهم، اعبدوا ⟨את⟩ ملك بافل واحيوا. لماذا تصير هذه المدينة خربة؟",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "تسمعوا"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "إليهم"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "اعبدوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ملك"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافل"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "وحيوا"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تصير"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "خربة"
+    }
+  ],
+  "timestamp": "2026-08-07T02:41:29.375957815Z",
+  "model": "glm-5.2"
+}

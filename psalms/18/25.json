@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "ويُعيد يهوه ⟨لي⟩ كصِدقي، كطهارة يديّ أمام عينيه.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ويُعيد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨لي⟩"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "كصِدقي"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "كطهارة"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "يديّ"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "عينيه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:40.334930952Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 124,
+  "translation": "مباركٌ يهوه الذي لم يجعلنا فريسةً لأأسنانهم",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "مبارك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "الذي لم"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "يجعلنا"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "فريسة"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "لأأسنانهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:15:30.582189949Z",
+  "model": "glm-5.2"
+}

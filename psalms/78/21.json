@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "لذلك سمع يهوه وغضب، فاشتعلت نار في يعقوف، وصعد أيضًا غضب في يسرايل،",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سمع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "وغضب"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ونار"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "اشتعلت"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "في يعقوف"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "صعد"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "في يسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:30.709651227Z",
+  "model": "glm-5.2"
+}

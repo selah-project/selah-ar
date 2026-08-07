@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 44:3",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "⟨أمّا⟩ ⟨את⟩ الناسيئ، فهو ناسيئ يجلس فيه ليأكل خبزًا أمام يهوه؛ من طريق رواق الباب يدخل ومن طريقه يخرج».",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الناسيئ"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "الناسيئ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ناسيئ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "يجلس"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "ليأكل"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "من طريق"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "رواق"
+    },
+    {
+      "surface": "השער",
+      "gloss": "الباب"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "يدخل"
+    },
+    {
+      "surface": "ומדרכו",
+      "gloss": "ومن طريقه"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "يخرج"
+    }
+  ],
+  "timestamp": "2026-08-07T03:18:16.815597831Z",
+  "model": "glm-5.2"
+}

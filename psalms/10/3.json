@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "لأنّ الرّاشِع يتباهى بِشهوة نَفسِه، والخاطف يُبارك نفسه — يَحتقر يهوه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "يتباهى"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "الرّاشِع"
+    },
+    {
+      "surface": "על",
+      "gloss": "بـ"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "شهوة"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نفسه"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "والخاطف"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "يُبارك"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "يحتقر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:42:36.501592702Z",
+  "model": "glm-5.2"
+}

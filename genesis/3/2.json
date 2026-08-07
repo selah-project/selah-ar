@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فقالت المرأةُ للحية: «من ثمرِ شجرِ الجنّة نأكل،",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "المرأة"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "الحية"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "من ثمر"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "شجر"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "الجنّة"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "نأكل"
+    }
+  ],
+  "timestamp": "2026-08-06T23:36:10.530437946Z",
+  "model": "glm-5.2"
+}

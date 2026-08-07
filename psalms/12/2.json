@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "خلِّص يا يهوه، لأنّ القَدِّيس انقرض، لأنّ المؤتَمِنين تلاشوا من بَني آدم.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "خلِّص"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "انقرض"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "القَدِّيس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "تلاشوا"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "المؤتَمِنين"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "من بَني"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:42:14.550903296Z",
+  "model": "glm-5.2"
+}

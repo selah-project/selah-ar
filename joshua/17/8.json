@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 17:8",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "كانت أرض تَفّوح لمنشّه، وأمّا تَفّوح فعلى تخم منشّه فلأبناء أفرايم.",
+  "tokens": [
+    {
+      "surface": "למנשה",
+      "gloss": "لمنشّه"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "كانت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "تَفّوح"
+    },
+    {
+      "surface": "ותפוח",
+      "gloss": "وأمّا تَفّوح"
+    },
+    {
+      "surface": "אל",
+      "gloss": "فعلى"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "تخم"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشّه"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "فلأبناء"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "أفرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:09:32.170513961Z",
+  "model": "glm-5.2"
+}

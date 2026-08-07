@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "ولن يُدعى ⟨بعد⟩ ⟨את⟩ اسمك أفرام، و⟨كان⟩ اسمك أفراهام، لأنّ أباً لهموم جوييم جعلتُك.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولن"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "يُدعى"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسمك"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "اسمك"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "أفرام"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "اسمك"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "أباً"
+    },
+    {
+      "surface": "המון",
+      "gloss": "لهموم"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "جوييم"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "جعلتُك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:18.000548294Z",
+  "model": "glm-5.2"
+}

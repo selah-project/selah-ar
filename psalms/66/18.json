@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 66,
+  "translation": "ظلمًا، إن رأيتُ في قلبي، لا يسمع أدوناي.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "ظلمًا\/باطلًا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "رأيتُ"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "في قلبي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "يسمع"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:20.565148522Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 59,
+  "translation": "أنقِذني من فعَلة الإثم، ومن رجال الدماء خلِّصني.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "أنقِذني"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "من فعَلة"
+    },
+    {
+      "surface": "און",
+      "gloss": "الإثم"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "ومن رجال"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "الدماء"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "خلِّصني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:47.639224629Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "يفور قلبي أمرًا طيّبًا، أقول أنا أعمالي لملكٍ، لساني قلم كاتب سريع",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "يفور"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "أمرًا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيّبًا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "أقول"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "أعمالي"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "لملكٍ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "لساني"
+    },
+    {
+      "surface": "עט",
+      "gloss": "قلم"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "كاتب"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "سريع"
+    }
+  ],
+  "timestamp": "2026-08-07T03:53:02.826905129Z",
+  "model": "glm-5.2"
+}

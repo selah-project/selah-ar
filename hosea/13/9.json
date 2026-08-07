@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "أهلكَكَ يا يسرايم، أنّه بي ⟨هو⟩ عونُكَ.",
+  "tokens": [
+    {
+      "surface": "שִֽׁחֶתְךָ֥",
+      "gloss": "أهلكَكَ"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "يا يسرايم"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "أنّه"
+    },
+    {
+      "surface": "בִ֥י",
+      "gloss": "بي"
+    },
+    {
+      "surface": "בְעֶזְרֶֽךָ",
+      "gloss": "عونُكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:22:08.251630041Z",
+  "model": "glm-5.2"
+}

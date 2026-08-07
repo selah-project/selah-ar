@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "كالقمر يُثبَّت إلى الأبد، و⟨شاهد⟩ في السماء أمين. سيلاه.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "كالقمر"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "يُثبَّت"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وشاهد"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "في السماء"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "أمين"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سيلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:01.463751471Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 43,
+  "translation": "هذا الشعبُ صغتُهُ لي، تهليلي يروون⟨ه⟩.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "شعبًا"
+    },
+    {
+      "surface": "זו",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "صغتُ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "تهليلي"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "يروون"
+    }
+  ],
+  "timestamp": "2026-08-07T05:52:53.186440265Z",
+  "model": "glm-5.2"
+}

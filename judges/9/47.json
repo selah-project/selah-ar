@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "judges 9:47",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وَأُخْبِرَ أَبِيمَلِكَ أَنَّ كُلَّ سَادَةِ بُرْجِ شَكِيم قَدِ اجْتَمَعُوا.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "وأُخبر"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "أبيملكَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنَّ"
+    },
+    {
+      "surface": "התקבצו",
+      "gloss": "اجتمعوا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "سادةِ"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "برجِ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شكيم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:16:02.134414976Z",
+  "model": "glm-5.2"
+}

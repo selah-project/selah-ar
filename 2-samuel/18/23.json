@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 18:23",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فكان مهما يكن أركض، فقال له اركض. فركض أخيمعص طريق السهل وعبر ⟨את⟩ الكوشيّ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "فكان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "مهما"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "أركض"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "רוץ",
+      "gloss": "اركض"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "فركض"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "أخيمعص"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "طريق"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "السهل"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "وعبر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الكوشيّ"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "الكوشيّ"
+    }
+  ],
+  "timestamp": "2026-08-07T07:28:13.654868964Z",
+  "model": "glm-5.2"
+}

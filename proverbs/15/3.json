@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "في كلّ مكان عينا يهوه يراقبان الأشرار والصالحين.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "في كلّ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "مكان"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "عينا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "يراقبان"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "الأشرار"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "والصالحين"
+    }
+  ],
+  "timestamp": "2026-08-07T08:14:11.803719517Z",
+  "model": "glm-5.2"
+}

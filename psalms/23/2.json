@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "في مَراعٍ عُشبيّة يُربِضُني، على مياهِ مَنُوح يَسوقُني.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "في مَراعٍ"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "عُشبيّة"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "يُربِضُني"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مياهِ"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "مَنُوح"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "يَسوقُني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:45:20.374758830Z",
+  "model": "glm-5.2"
+}

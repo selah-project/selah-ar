@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وتصنع ⟨את⟩ه دهنًا لمسحةِ قُدس، عِطرَ مَرقَحةٍ صنعةَ عطّارٍ، دهنُ مسحةِ قُدسٍ يكونُ.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "وتصنع"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "دهنًا"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "دهنًا"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "لمسحةِ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قُدس"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "عِطرَ"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "مَرقَحةٍ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "صنعةَ"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "عطّارٍ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "دهنُ"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "مسحةِ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قُدسٍ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكونُ"
+    }
+  ],
+  "timestamp": "2026-08-07T07:03:50.080860112Z",
+  "model": "glm-5.2"
+}

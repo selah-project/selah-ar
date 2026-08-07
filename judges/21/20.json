@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وأوصوا ⟨את⟩ بني بنيامين قائلين: «امضوا واكمنوا في الكروم.»",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "وأوصوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بني"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنيامين"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "امضوا"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "واكمنوا"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "في الكروم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:20:34.844963002Z",
+  "model": "glm-5.2"
+}

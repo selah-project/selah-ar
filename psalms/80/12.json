@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 80,
+  "translation": "أرسلتِ قُضبانها إلى البحر، وإلى النهر فِراخُها.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "أرسلتِ"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "قُضبانها"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "النهر"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "فِراخُها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:01:18.465393850Z",
+  "model": "glm-5.2"
+}

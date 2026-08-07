@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 62,
+  "translation": "لإمام ⟨الفرقة⟩ على يَدوتون، مزمور لِدافيد.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لإمام"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "يَدوتون"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِدافيد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:00.672822742Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 44:27",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "وقال عبدك أبونا إلينا: أنتم تعلمون أنّ امرأتي ولدت لي اثنين.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدك"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبونا"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "إلينا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "تعلمون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "اثنين"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ولدت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "امرأتي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:56:35.628114558Z",
+  "model": "glm-5.2"
+}

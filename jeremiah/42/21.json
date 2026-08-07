@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 42:21",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "ف⟨أخبرتكم⟩ اليوم، ولم تسمعوا في صوت يهوه إلوهيمكم، ولا ⟨في⟩ كل ما أرسلني به إليكم.",
+  "tokens": [
+    {
+      "surface": "ואגד",
+      "gloss": "و⟨أخبرتكم⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "تسمعوا"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "في صوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلوهيمكم"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ولا ⟨في⟩ كل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "أرسلني به"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "إليكم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:47:50.391183375Z",
+  "model": "glm-5.2"
+}

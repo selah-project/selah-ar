@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 19:15",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "لا يقوم شاهدٌ واحدٌ في رجلٍ، لأيِّ ذنبٍ ولأيِّ خطيئة، في كلِّ خطيئةٍ يخطئها؛ على فمِ شاهدين أو على فمِ ثلاثةِ شهداء يقوم الأمر.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "يقوم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "في رجل"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لأيِّ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ذنب"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ولأيِّ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "خطيئة"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلِّ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "خطيئة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "يخطئها"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فم"
+    },
+    {
+      "surface": "שני",
+      "gloss": "شاهدين"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "شاهدين"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فم"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ثلاثة"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "شهداء"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "يقوم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "الأمر"
+    }
+  ],
+  "timestamp": "2026-08-07T00:56:56.029741919Z",
+  "model": "glm-5.2"
+}

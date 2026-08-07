@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 3:14",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وصنع ⟨את⟩ الحاجب من أزرق وأرجوان وقرمزي وبوص، وأصعد عليه كروبيم.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وصنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الحاجب"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "الحاجب"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "من أزرق"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "وأرجوان"
+    },
+    {
+      "surface": "וכרמיל",
+      "gloss": "وقرمزي"
+    },
+    {
+      "surface": "ובוץ",
+      "gloss": "وبوص"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "وأصعد"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "كروبيم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:20:39.720347376Z",
+  "model": "glm-5.2"
+}

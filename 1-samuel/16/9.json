@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "فأمر يِشَاي شَمَّة بالعبور، فقال: «أيضًا في هذا لم يختر يهوه.»",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "فأمر بالعبور"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "يِشَاي"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "شَمَّة"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "في هذا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "يختر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:26:12.619434607Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "و⟨ابنُ⟩ شلومو رَحَبعام، أَفيا بْنُه، آسا بْنُه، يَهوشافاط بْنُه.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "و⟨ابنُ⟩"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رَحَبعام"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "أَفيا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بْنُه"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بْنُه"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "يَهوشافاط"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بْنُه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:18.830479896Z",
+  "model": "glm-5.2"
+}

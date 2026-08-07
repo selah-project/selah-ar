@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 8:27",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "و⟨أعطى⟩ ⟨את⟩ الكل على كفّي أهرون وعلى كفّي بنيه، و⟨حرّكها⟩ ⟨את⟩ها تحريكًا أمام يهوه.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "و⟨أعطى⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الكل"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "الكل"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "كفّي"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهرون"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "كفّي"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "بنيه"
+    },
+    {
+      "surface": "וינף",
+      "gloss": "و⟨حرّكها⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ها",
+      "marks": "تحريكًا"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "تحريكًا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:13.786398382Z",
+  "model": "glm-5.2"
+}

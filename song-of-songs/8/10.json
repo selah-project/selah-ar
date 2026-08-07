@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 8:10",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "أنا حائطٌ، وثدياي كالمَغانِ، حينئذٍ ⟨كنتُ⟩ في عينيه كواجدةٍ شالوم.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "حائط"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "وثدياي"
+    },
+    {
+      "surface": "כמגדלות",
+      "gloss": "كالمَغانِ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "حينئذٍ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "⟨كنتُ⟩"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "في عينيه"
+    },
+    {
+      "surface": "כמוצאת",
+      "gloss": "كواجدةٍ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    }
+  ],
+  "timestamp": "2026-08-07T08:19:27.601121995Z",
+  "model": "glm-5.2"
+}

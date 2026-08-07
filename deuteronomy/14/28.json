@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 14:28",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "في نهايةِ ثلاثِ سنينٍ تُخرج ⟨את⟩ كلَّ معشَرِ دَخْلِك في تلك السنة، وتضع ⟨ذلك⟩ في أبوابك.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "في نهايةِ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ثلاثِ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنينٍ"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "تُخرج"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلَّ معشَرِ دخلك"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "معشَرِ"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "دَخْلِك"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "في"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "تلك السنة"
+    },
+    {
+      "surface": "והנחת",
+      "gloss": "وتضع"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "في أبوابك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:42.360175061Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 35:17",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "وإذا بحجرِ يدٍ يُمكن أن يموت به فضربه فمات، فهو قاتلٌ: موتًا يُقتل القاتلُ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "بحجر"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "يموت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "به"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "ضربه"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "فمات"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "قاتل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موتًا"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "يُقتل"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "القاتل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:45:07.280445626Z",
+  "model": "glm-5.2"
+}

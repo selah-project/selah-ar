@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 54:4",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 54,
+  "translation": "لا تخافي لأنك لا تخزين، ولا تُهاني لأنك لا تتخجّلين. لأن خزي صباك تنسين، وعار أرملتك لا تذكرينه بعد.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "تخافي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תבושי",
+      "gloss": "تخزين"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תכלמי",
+      "gloss": "تُهاني"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תחפירי",
+      "gloss": "تتخجّلين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "خزي"
+    },
+    {
+      "surface": "עלומיך",
+      "gloss": "صباك"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "تنسين"
+    },
+    {
+      "surface": "וחרפת",
+      "gloss": "وعار"
+    },
+    {
+      "surface": "אלמנותיך",
+      "gloss": "أرملتك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "تذكرينه"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعد"
+    }
+  ],
+  "timestamp": "2026-08-07T02:22:33.412745914Z",
+  "model": "glm-5.2"
+}

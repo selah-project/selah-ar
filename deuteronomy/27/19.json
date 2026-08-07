@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "ملعون ⟨من⟩ يُميل حقّ الغريب واليتيم والأرملة، و⟨يقول⟩ كل الشعب: آمين.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملعون"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "يُميل"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حقّ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "الغريب"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "واليتيم"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "والأرملة"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و⟨يقول⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:30.017127400Z",
+  "model": "glm-5.2"
+}

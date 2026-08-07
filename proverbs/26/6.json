@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 26:6",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "قَطْعُ أرجلٍ، شُربُ ظلمٍ — مَنْ يُرسِلُ كلامًا على يَدِ جاهل.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "قَطْع"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "أرجل"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "شُرب"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "مَنْ يُرسِل"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "كلامًا"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "على يَدِ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "جاهل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:26.518178600Z",
+  "model": "glm-5.2"
+}

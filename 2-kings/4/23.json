@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 4:23",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فقال: لماذا أنتِ تذهبين إليه اليوم؟ ليس هلالًا ولا شبّات. فقالت: شالوم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "أنتِ"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "تذهبين"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "هلالًا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "شبّات"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:49:42.765142040Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 11:12",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "فيرفع الجمهورُ رأسه، ويتشامخ قلبه، ويُسقط رُبواتٍ، لكنّه لا يعزُّ.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "فيرفع"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "الجمهور"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "رأسه"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "قلبه"
+    },
+    {
+      "surface": "והפיל",
+      "gloss": "ويُسقط"
+    },
+    {
+      "surface": "רבאות",
+      "gloss": "رُبواتٍ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "لكنّه لا"
+    },
+    {
+      "surface": "יעוז",
+      "gloss": "يعزُّ"
+    }
+  ],
+  "timestamp": "2026-08-07T05:00:07.706263769Z",
+  "model": "glm-5.2"
+}

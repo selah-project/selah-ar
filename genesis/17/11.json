@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وتختنون ⟨את⟩ لحم عُرلتِكم، فيكون لعلامةِ بريت بيني وبينكم.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "وتختنون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لحم عُرلتِكم"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "لحم"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "عُرلتِكم"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "فيكون"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "لعلامةِ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريت"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "بيني"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "وبينكم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:07.084699347Z",
+  "model": "glm-5.2"
+}

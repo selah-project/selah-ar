@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 25:11",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وتشدّد أَمَصْياھو وقاد ⟨את⟩ شعبه، وسار وادي الملح، فضرب ⟨את⟩ بني سِعير عشرة آلاف.",
+  "tokens": [
+    {
+      "surface": "ואמציהו",
+      "gloss": "وأَمَصْياھو"
+    },
+    {
+      "surface": "התחזק",
+      "gloss": "تشدد"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "وقاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شعبه"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبه"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "وسار"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "وادي"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "الملح"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "فضرب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بني سِعير"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سِعير"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "عشرة"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "آلاف"
+    }
+  ],
+  "timestamp": "2026-08-07T05:29:15.791658847Z",
+  "model": "glm-5.2"
+}

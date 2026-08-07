@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 18:13",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وقال يهوه لأفراهام: لماذا هذا ضحِكت سارة قائلة: هل حقًّا ألِد وأنا قد شِختُ؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "צחקה",
+      "gloss": "ضحِكت"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارة"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلة"
+    },
+    {
+      "surface": "האף",
+      "gloss": "هل"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "حقًّا"
+    },
+    {
+      "surface": "אלד",
+      "gloss": "ألِد"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "قد شِختُ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:42:18.473124911Z",
+  "model": "glm-5.2"
+}

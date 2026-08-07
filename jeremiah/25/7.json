@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 25:7",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "فلم تسمعوا لي — نَأْم يهوه — حتى أغضبتموني بعمل أيديكم للشرّ عليكم.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "تسمعوا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نَأْم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "למען",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "הכעסוני",
+      "gloss": "أغضبتموني"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "بعمل"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "أيديكم"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "للشرّ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "عليكم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:39:33.424506679Z",
+  "model": "glm-5.2"
+}

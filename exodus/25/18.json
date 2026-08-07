@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وتصنع كروفيم ذهب مِقشاه تصنع ⟨את⟩هم من طرفَيِ الكبّورِت.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "وتصنع"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "اثنين"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "كروفيم"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهب"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "مِقشاه"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تصنع"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "هم"
+    },
+    {
+      "surface": "משני",
+      "gloss": "من"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "طرفَي"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "الكبّورِت"
+    }
+  ],
+  "timestamp": "2026-08-07T05:37:13.022698288Z",
+  "model": "glm-5.2"
+}

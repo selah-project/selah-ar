@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "وعيّر ⟨את⟩ يسرائيل، فضربه يهوناتان بن شمعا أخو داود.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "وعيّر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرائيل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "فضربه"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يهوناتان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "شمعا"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "أخو"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:52.749451040Z",
+  "model": "glm-5.2"
+}

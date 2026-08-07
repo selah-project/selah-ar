@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 7:12",
+  "book": "amos",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "فقال أمصيا لعاموس: أيها الرائي، اذهب، اهرب إلى أرض يهودا، وكل هناك خبزًا، وهناك تتنبّأ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "أمصيا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "עמוס",
+      "gloss": "عاموس"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "أيها الرائي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اذهب"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "اهرب"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨لك⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "وهناك"
+    },
+    {
+      "surface": "תנבא",
+      "gloss": "تتنبّأ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:26:10.133176350Z",
+  "model": "glm-5.2"
+}

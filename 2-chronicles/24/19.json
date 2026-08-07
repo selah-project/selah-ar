@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 24:19",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فأرسل فيهم نافيين لإرجاعهم إلى يهوه، فشهدوا فيهم فلم يُصغوا.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "فيهم"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "نافيين"
+    },
+    {
+      "surface": "להשיבם",
+      "gloss": "لإرجاعهم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויעידו",
+      "gloss": "فشهدوا"
+    },
+    {
+      "surface": "בם",
+      "gloss": "فيهم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "أصغوا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:29:13.595267732Z",
+  "model": "glm-5.2"
+}

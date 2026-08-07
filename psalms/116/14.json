@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 116,
+  "translation": "نذوري ليهوه أُوفِي، الآنَ أمامَ كلِّ شعبه.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "نذوري"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "أُوفِي"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "أمامَ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآنَ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:24.741482738Z",
+  "model": "glm-5.2"
+}

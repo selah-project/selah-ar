@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وعبدك في وسط شعبك الذي اخترتَ، شعبًا كثيرًا لا يُحصى ولا يُعَدّ من كثرة.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "وعبدك"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "شعبك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "اخترتَ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعبًا"
+    },
+    {
+      "surface": "רב",
+      "gloss": "كثيرًا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "يُحصى"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "يُعَدّ"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "من كثرة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:43:10.359811037Z",
+  "model": "glm-5.2"
+}

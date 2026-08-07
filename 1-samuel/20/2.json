@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 20:2",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "فقال له: حاشا! لا تموت. ها إن أبي لا يصنع أمرًا عظيمًا أو أمرًا صغيرًا ويخفي ⟨את⟩ أذني. ولماذا يستر أبي عنّي ⟨את⟩ هذا الأمر؟ ليس هذا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "حاشا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "تموت"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "לו",
+      "gloss": "إن"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "يصنع"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "أمرًا"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيمًا"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "أمرًا"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "صغيرًا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "يخفي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أذني"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "أذني"
+    },
+    {
+      "surface": "ומדוע",
+      "gloss": "ولماذا"
+    },
+    {
+      "surface": "יסתיר",
+      "gloss": "يستر"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "عنّي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هذا الأمر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T07:25:07.420429264Z",
+  "model": "glm-5.2"
+}

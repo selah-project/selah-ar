@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 48:10",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "ملعون فاعل عمل يهوه برخاوة، وملعون مانع سيفه عن الدم.",
+  "tokens": [
+    {
+      "surface": "אָר֗וּר",
+      "gloss": "ملعون"
+    },
+    {
+      "surface": "עֹשֶׂ֛ה",
+      "gloss": "فاعل"
+    },
+    {
+      "surface": "מְלֶ֥אכֶת",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "רְמִיָּ֑ה",
+      "gloss": "برخاوة"
+    },
+    {
+      "surface": "וְאָר֕וּר",
+      "gloss": "وملعون"
+    },
+    {
+      "surface": "מֹנֵ֥עַ",
+      "gloss": "مانع"
+    },
+    {
+      "surface": "חַרְבּ֖וֹ",
+      "gloss": "سيفه"
+    },
+    {
+      "surface": "מִדָּֽם",
+      "gloss": "عن الدم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:49:46.568345890Z",
+  "model": "glm-5.2"
+}

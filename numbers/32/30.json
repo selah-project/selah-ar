@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 32:30",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "وإن لا يعبروا متجرّدين معكم، يُستوطَنوا ⟨في⟩ وسطكم في أرض كنعان.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "يعبروا"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "متجرّدين"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "معكم"
+    },
+    {
+      "surface": "ונאחזו",
+      "gloss": "يُستوطَنوا"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "وسطكم"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كنعان"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:28.486048875Z",
+  "model": "glm-5.2"
+}

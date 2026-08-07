@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 101,
+  "translation": "قلبٌ مُعوَجٌّ يَبتعِدُ عنّي، شَرًّا لا أعرِف.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "قلبٌ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "مُعوَجٌّ"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "يَبتعِدُ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "عنّي"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شَرًّا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "أعرِف"
+    }
+  ],
+  "timestamp": "2026-08-07T04:06:05.438936080Z",
+  "model": "glm-5.2"
+}

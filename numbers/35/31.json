@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 35:31",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "ولا تأخذوا فِديةً لنَفْسِ قاتلٍ الذي ⟨هو⟩ شرِّيرٌ للموت، لأنَّ موتًا يُقتَل.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "تأخذوا"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "فدية"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "لنَفْس"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "قاتل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شرِّير"
+    },
+    {
+      "surface": "למות",
+      "gloss": "للموت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موتًا"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "يُقتَل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:45:14.648460658Z",
+  "model": "glm-5.2"
+}

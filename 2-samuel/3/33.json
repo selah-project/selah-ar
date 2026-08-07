@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 3:33",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وَرَثى الملك على أَفْنَير وقال: «هل كموته نابِل يموت أَفْنَير؟»",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "ورثى"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "على"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "أَفْنَير"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "הכמות",
+      "gloss": "كموته"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نابِل"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "يموت"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "أَفْنَير"
+    }
+  ],
+  "timestamp": "2026-08-07T01:32:37.497142745Z",
+  "model": "glm-5.2"
+}

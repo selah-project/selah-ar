@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 19:11",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "ولكن إن كان رجل يبغض قريبه فتربّص له وقام عليه وضربه نَفْسًا فمات وهرب إلى إحدى المدن هذه،",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ولكن إن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "يبغض"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "قريبه"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "فتربّص"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "وقام"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "وضربه"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْسًا"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "فمات"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "وهرب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "إحدى"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "المدن"
+    },
+    {
+      "surface": "האל",
+      "gloss": "هذه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:00.194534179Z",
+  "model": "glm-5.2"
+}

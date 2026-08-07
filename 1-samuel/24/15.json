@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 24:15",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "وراءَ مَن خرج ملك يسرائيل؟ وراءَ مَن أنت تطارد؟ وراءَ كلب ميت، وراءَ برغوثٍ واحد!",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "وراء"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "خرج"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وراء"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "تطارد"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وراء"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "كلب"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ميت"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وراء"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "برغوث"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    }
+  ],
+  "timestamp": "2026-08-07T01:29:25.308562301Z",
+  "model": "glm-5.2"
+}

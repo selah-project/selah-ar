@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "هؤلاء بنو يِسرائيل: رأوبين شمعون لاوي ويهودا يِسّاسكر وزبولون.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رأوبين"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمعون"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لاوي"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ويهودا"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "يِسّاسكر"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "وزبولون"
+    }
+  ],
+  "timestamp": "2026-08-07T05:09:59.591801962Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "و⟨أمّا⟩ فضّة الذبيحة وفضّة الخطيئة فلا تُدخَل بيت يهوه — للكهنة هي.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "فضّة"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "الذبيحة"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "وفضّة"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "الخطيئة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "تُدخَل"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "للكهنة"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "هي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:57:56.600231595Z",
+  "model": "glm-5.2"
+}

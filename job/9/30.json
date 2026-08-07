@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "إن اغتسلتُ بِمُو الثلج، ونقّيتُ ⟨يدي⟩ بالبورق،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "اغتسلتُ"
+    },
+    {
+      "surface": "במו",
+      "gloss": "بِمُو"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "الثلج"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "ونقّيتُ"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "بالبورق"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "⟨يدي⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T04:34:01.332732160Z",
+  "model": "glm-5.2"
+}

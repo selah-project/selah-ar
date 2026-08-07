@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 18:20",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وخرج الروَح ووقف أمام يهوه وقال: «أنا أُغويه.» فقال يهوه له: «بماذا؟»",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "الروَح"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ووقف"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "أُغويه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "במה",
+      "gloss": "بماذا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:26:57.292662858Z",
+  "model": "glm-5.2"
+}

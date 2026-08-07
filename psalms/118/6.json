@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 118,
+  "translation": "يهوه لي، لا أَخاف؛ ماذا يَصنع لي الإنسان؟",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "أَخاف"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يَصنع"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسان"
+    }
+  ],
+  "timestamp": "2026-08-07T08:08:12.330055942Z",
+  "model": "glm-5.2"
+}

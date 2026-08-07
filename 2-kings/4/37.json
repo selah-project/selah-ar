@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 4:37",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فدخلت ووقعت على رجليه وسجدت أرضًا، وحملت ⟨את⟩ ابنها وخرجت.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "فدخلت"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "ووقعت"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "رجليه"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "وسجدت"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "أرضًا"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "وحملت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابنها"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ابنها"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "وخرجت"
+    }
+  ],
+  "timestamp": "2026-08-07T01:54:06.614115276Z",
+  "model": "glm-5.2"
+}

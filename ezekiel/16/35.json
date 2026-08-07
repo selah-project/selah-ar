@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "لِذلك، يا زانيَة، اسمَعي كَلِمَةَ يهوه.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لِذلك"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "يا زانيَة"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "اسمَعي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كَلِمَةَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:00:38.208228387Z",
+  "model": "glm-5.2"
+}

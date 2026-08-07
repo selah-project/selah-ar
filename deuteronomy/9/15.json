@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فالتفتُّ ونزلتُ من الجبل، والجبلُ يحترقُ بالنار، ولوحا البريت على يديّ",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "فالتفتُّ"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "ونزلتُ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "الجبل"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "والجبل"
+    },
+    {
+      "surface": "בער",
+      "gloss": "يحترق"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بالنار"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ولوحا"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "لوحي"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "البريت"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "كلتا"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "يديّ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:54:09.620589362Z",
+  "model": "glm-5.2"
+}

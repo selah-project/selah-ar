@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 18:13",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "يأكل أطرافُ جلده، يأكل أطرافُه بِكرُ موت،",
+  "tokens": [
+    {
+      "surface": "יֹאכַל",
+      "gloss": "يأكل"
+    },
+    {
+      "surface": "בַּדֵּי",
+      "gloss": "أطرافُ"
+    },
+    {
+      "surface": "עוֹרוֹ",
+      "gloss": "جلده"
+    },
+    {
+      "surface": "יֹאכַל",
+      "gloss": "يأكل"
+    },
+    {
+      "surface": "בַּדָּיו",
+      "gloss": "أطرافُه"
+    },
+    {
+      "surface": "בְּכוֹר",
+      "gloss": "بِكرُ"
+    },
+    {
+      "surface": "מָוֶת",
+      "gloss": "موت"
+    }
+  ],
+  "timestamp": "2026-08-07T04:37:32.564181063Z",
+  "model": "glm-5.2"
+}

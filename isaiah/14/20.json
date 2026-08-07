@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 14:20",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "لن تُجمَع معهم في دفن، لأنّك أرضك أخربت، شعبك ذبحت؛ لا يُذكَر اسمُ نسل المفسدين إلى الأبد",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لن"
+    },
+    {
+      "surface": "תחד",
+      "gloss": "تُجمَع"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "معهم"
+    },
+    {
+      "surface": "בקבורה",
+      "gloss": "في دفن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّك"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "أرضك"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "أخربت"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "شعبك"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "ذبحت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "يُذكَر اسم"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "المفسدين"
+    }
+  ],
+  "timestamp": "2026-08-07T02:07:34.114680762Z",
+  "model": "glm-5.2"
+}

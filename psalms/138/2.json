@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 138,
+  "translation": "أسجُد نحو هيكل قدسك، وأحمد ⟨את⟩ اسمك على حِسِدك وعلى إمِتِك، لأنّك عظَّمت على كلِّ اسمك ⟨את⟩ أمرك.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "أسجُد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نحو"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "هيكل"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "قدسك"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "وأحمد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسمك"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "اسمك"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حِسِدِك"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "إمِتِك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّك"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "عظَّمت"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "اسمك"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "أمرك"
+    }
+  ],
+  "timestamp": "2026-08-07T06:07:55.404460346Z",
+  "model": "glm-5.2"
+}

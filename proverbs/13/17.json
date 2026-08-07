@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "رسولٌ راشِعٌ يَسقُط في الشرّ، ورسولٌ أمينٌ ⟨هو⟩ شِفاء",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "رسول"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "راشع"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "يسقط"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "في الشرّ"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "ورسول"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "أمين"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "شِفاء"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:40.415613266Z",
+  "model": "glm-5.2"
+}

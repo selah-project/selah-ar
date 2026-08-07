@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 21:18",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "لأنّ كلَّ رجلٍ فيه عيبٌ لا يقرُب: رجلٌ أعمى أو أعرج أو أشَنّ أو مُشوَّه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "מום",
+      "gloss": "عيب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "يقرُب"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "עור",
+      "gloss": "أعمى"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "أعرج"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "أشَنّ"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "مُشوَّه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:55.582084628Z",
+  "model": "glm-5.2"
+}

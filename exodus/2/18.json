@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 2:18",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فجئنَ إلى رَعوئيل أبيهنّ، فقال: «لماذا أسرعتنّ المجيءَ اليوم؟»",
+  "tokens": [
+    {
+      "surface": "ותבאנה",
+      "gloss": "فجئنَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رَعوئيل"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "أبيهنّ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "מהרתן",
+      "gloss": "أسرعتنّ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "المجيء"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:44.723147971Z",
+  "model": "glm-5.2"
+}

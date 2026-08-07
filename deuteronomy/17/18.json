@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 17:18",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "וְהָיָה כְּשִׁבְתּוֹ עַל כִּסֵּא מַמְלַכְתּוֹ, וְכָתַב לוֹ אֶת־מִשְׁנֵה הַתּוֹרָה הַזֹּאת עַל־סֵפֶר מִלִּפְנֵי הַכֹּהֲנִים הַלְוִיִּם׃",
+  "tokens": [
+    {
+      "surface": "וְהָיָה",
+      "translit": "vehayah",
+      "gloss": "and it shall be",
+      "gloss_ar": "و⟨يكون⟩"
+    },
+    {
+      "surface": "כְּשִׁבְתּוֹ",
+      "translit": "kheshivto",
+      "gloss": "when he sits",
+      "gloss_ar": "عند جلوسه"
+    },
+    {
+      "surface": "עַל",
+      "translit": "al",
+      "gloss": "on",
+      "gloss_ar": "على"
+    },
+    {
+      "surface": "כִּסֵּא",
+      "translit": "kise",
+      "gloss": "the throne of",
+      "gloss_ar": "كرسي"
+    },
+    {
+      "surface": "מַמְלַכְתּוֹ",
+      "translit": "mamlekhto",
+      "gloss": "his kingdom",
+      "gloss_ar": "مُلكه"
+    },
+    {
+      "surface": "וְכָתַב",
+      "translit": "vekhatav",
+      "gloss": "then he shall write",
+      "gloss_ar": "فيكتب"
+    },
+    {
+      "surface": "לוֹ",
+      "translit": "lo",
+      "gloss": "for himself",
+      "gloss_ar": "له"
+    },
+    {
+      "surface": "אֶת",
+      "translit": "et",
+      "gloss": "⟨את⟩ (direct object marker)",
+      "gloss_ar": "⟨את⟩",
+      "marks": "نسخة (מִשְׁנֵה)"
+    },
+    {
+      "surface": "מִשְׁנֵה",
+      "translit": "mishneh",
+      "gloss": "a copy of",
+      "gloss_ar": "نسخة"
+    },
+    {
+      "surface": "הַתּוֹרָה",
+      "translit": "hatorah",
+      "gloss": "this law",
+      "gloss_ar": "هذه التوراة"
+    },
+    {
+      "surface": "הַזֹּאת",
+      "translit": "hazot",
+      "gloss": "this",
+      "gloss_ar": "هذه"
+    },
+    {
+      "surface": "עַל",
+      "translit": "al",
+      "gloss": "in",
+      "gloss_ar": "على"
+    },
+    {
+      "surface": "סֵפֶר",
+      "translit": "sefer",
+      "gloss": "a book",
+      "gloss_ar": "سِفْر"
+    },
+    {
+      "surface": "מִלִּפְנֵי",
+      "translit": "milinei",
+      "gloss": "from before",
+      "gloss_ar": "من أمام"
+    },
+    {
+      "surface": "הַכֹּהֲנִים",
+      "translit": "hakohanim",
+      "gloss": "the priests",
+      "gloss_ar": "الكهنة"
+    },
+    {
+      "surface": "הַלְוִיִּם",
+      "translit": "haleviyyim",
+      "gloss": "the Levites",
+      "gloss_ar": "اللاويين"
+    }
+  ],
+  "timestamp": "2026-08-07T07:18:10.422211416Z",
+  "model": "glm-5.2"
+}

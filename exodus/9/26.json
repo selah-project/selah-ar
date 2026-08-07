@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "إنّما في أرضِ جوشَن، حيث كان هناك بنو يِسرائيل، لم يكن بَرَدٌ.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرضِ"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "جوشَن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "حيث"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "היה",
+      "gloss": "يكن"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "بَرَدٌ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:45.242674501Z",
+  "model": "glm-5.2"
+}

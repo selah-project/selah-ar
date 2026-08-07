@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وجمع ييهو ⟨את⟩ كلِّ الشعب، وقال لهم: «أخآف عبد ⟨את⟩ البعل قليلاً، ييهو يعبده كثيرًا.»",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "وجمع"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ييهو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلِّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "أخآف"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عبد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "البعل"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "البعل"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "قليلاً"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ييهو"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "يعبده"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "كثيرًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:56:35.135340946Z",
+  "model": "glm-5.2"
+}

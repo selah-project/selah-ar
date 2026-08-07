@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 19:8",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وإن وسَّع يهوه إلوهيمك ⟨את⟩ تخمك كما أقسم لآبائك، وأعطاك ⟨את⟩ كل الأرض التي تكلَّم بأن يعطيها لآبائك —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "وسَّع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تخمك"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "تخمك"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "أقسم"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "لآبائك"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "وأعطاك"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلَّم"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "بأن يعطيها"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "لآبائك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:24.558722763Z",
+  "model": "glm-5.2"
+}

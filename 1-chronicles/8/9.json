@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "ووَلَد من حُدِش زوجته ⟨את⟩ يوفاف و⟨את⟩ صِفيا و⟨את⟩ مِيشا و⟨את⟩ مَلكام.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ووَلَد"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "حُدِش"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "زوجته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوفاف"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "يوفاف"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "صِفيا"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "صِفيا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مِيشا"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "مِيشا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مَلكام"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "مَلكام"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:35.164045482Z",
+  "model": "glm-5.2"
+}

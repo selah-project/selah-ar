@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 4:8",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وأيُّ أمّةٍ عظيمةٍ لها فرائضُ وأحكامٌ عادلةٌ ككلّ هذه التوراة التي أنا واضعٌ أمامكم اليوم؟",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "وأيُّ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "أمّةٍ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيمةٍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨التي⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لها"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "فرائضُ"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "وأحكامٌ"
+    },
+    {
+      "surface": "צדיקם",
+      "gloss": "عادلةٌ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ككلّ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "هذه التوراة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "واضعٌ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "أمامكم"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:22.829937031Z",
+  "model": "glm-5.2"
+}

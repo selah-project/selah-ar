@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وكلُّ آنيةِ خزفٍ تُطبَخ فيه تُكسَر، وإن طُبِخت في آنيةِ نحاسٍ تُحكّ وتُغسَل بالماء.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "وكلُّ آنيةِ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "خزفٍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "تُطبَخ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "تُكسَر"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "في آنيةِ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "نحاسٍ"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "طُبِخت"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "تُحكّ"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "وتُغسَل"
+    },
+    {
+      "surface": "במים",
+      "gloss": "بالماء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:30.185143772Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 4:2",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "«كلِّم بني يسرائيل قائلًا: نَفْسٌ حين تُخطئ بالسهو من كلِّ وصايا يهوه التي لا يُعمل بها، وعمل ⟨هي⟩ واحدة منهنّ —",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "كلِّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨إلى⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "حين"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "تُخطئ"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "بالسهو"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كلِّ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "وصايا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "يُعمل بها"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "وعمل"
+    },
+    {
+      "surface": "מאחת",
+      "gloss": "واحدة"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "منهنّ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:46.107417359Z",
+  "model": "glm-5.2"
+}

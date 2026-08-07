@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "لا تمنع عنِ الفتى أدبًا، لأنك إن ضربته بالعصا لا يموت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "تمنع"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "عنِ الفتى"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "أدبًا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنك"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "ضربته"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "بالعصا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "يموت"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:30.689770468Z",
+  "model": "glm-5.2"
+}

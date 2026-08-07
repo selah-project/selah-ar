@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 20:21",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "لا باقيَ ⟨ل⟩أكله، لذلك لا يدوم خيرُه.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "باقيَ"
+    },
+    {
+      "surface": "לאכלו",
+      "gloss": "لأكله"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "يدوم"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "خيرُه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:38:13.366013330Z",
+  "model": "glm-5.2"
+}

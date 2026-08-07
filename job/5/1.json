@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "نادِ الآن، هل من مجيبٍ لك؟ وإلى مَنْ من القِدّيسين تلتفت؟",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "نادِ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "היש",
+      "gloss": "هل يوجد"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "مجيبٌ لك"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَنْ"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "القِدّيسين"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "تلتفت"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:08.499669570Z",
+  "model": "glm-5.2"
+}

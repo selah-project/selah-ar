@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "سهامك الحادّة ⟨—⟩ شعوب تحتك يسقطون في قلب أعداء المَلِك.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "سهامك"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "الحادّة"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "شعوب"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "تحتك"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "يسقطون"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "في قلب"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "أعداء"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "المَلِك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:52:11.619575625Z",
+  "model": "glm-5.2"
+}

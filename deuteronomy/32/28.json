@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "لأنّ أمّةً ضالّةً في المشورة هم، وليس فيهم تفهّم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "أمّةً"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ضالّةً"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "في المشورة"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "وليس"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "فيهم"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "تفهّم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:01:56.149413444Z",
+  "model": "glm-5.2"
+}

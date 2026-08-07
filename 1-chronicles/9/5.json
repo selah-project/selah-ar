@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "ومن الشيلونيّين: عسايا البكر وبنوه.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "השילוני",
+      "gloss": "الشيلونيّين"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "عسايا"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "البكر"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "وبنوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:13:31.474465779Z",
+  "model": "glm-5.2"
+}

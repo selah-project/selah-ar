@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 55,
+  "translation": "قلبي يَتلوّى في داخلي وأهوال موت سقطت عليّ",
+  "tokens": [
+    {
+      "surface": "לִ֭בִּי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "יָחִ֣יל",
+      "gloss": "يتلوّى"
+    },
+    {
+      "surface": "בְּקִרְבִּ֑י",
+      "gloss": "في داخلي"
+    },
+    {
+      "surface": "וְאֵימ֥וֹת",
+      "gloss": "وأهوال"
+    },
+    {
+      "surface": "מָ֝֗וֶת",
+      "gloss": "موت"
+    },
+    {
+      "surface": "נָפְל֥וּ",
+      "gloss": "سقطت"
+    },
+    {
+      "surface": "עָלָֽי",
+      "gloss": "عليّ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:53:47.668616320Z",
+  "model": "glm-5.2"
+}

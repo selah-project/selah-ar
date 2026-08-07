@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 11:11",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "ببركةِ المُستقيمين ترتفعُ المدينة، وبفمِ الأشرارِ تُهدَم.",
+  "tokens": [
+    {
+      "surface": "בברכת",
+      "gloss": "ببركةِ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "المُستقيمين"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ترتفعُ"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "ובפי",
+      "gloss": "وبفمِ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الأشرارِ"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "تُهدَم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:24:45.872058923Z",
+  "model": "glm-5.2"
+}

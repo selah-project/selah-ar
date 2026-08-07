@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "نِبْحار اسمٌ مِن عُسرٍ كثير، مِن فِضّةٍ ومِن ذهَبٍ — حِنٌ صالِح.",
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "نِبْحار"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "مِن ثروة"
+    },
+    {
+      "surface": "רב",
+      "gloss": "كثيرة"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "مِن فِضّة"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "ومِن ذهَب"
+    },
+    {
+      "surface": "חן",
+      "gloss": "حِن"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "صالِح"
+    }
+  ],
+  "timestamp": "2026-08-07T06:08:44.215193607Z",
+  "model": "glm-5.2"
+}

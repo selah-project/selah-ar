@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "ووَبَّخَ أفراهام ⟨את⟩ أڤيميلخ على حساب بئر المياه الذي غصبه عبيد أڤيميلخ.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "ووَبَّخَ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أڤيميلخ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "أڤيميلخ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "حساب"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "המים",
+      "gloss": "المياه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "غصبه"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عبيد"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "أڤيميلخ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:20.661731018Z",
+  "model": "glm-5.2"
+}

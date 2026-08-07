@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "نَفسي يُرجِعُ، يَهديني في مَسالِك صِدِق لأجل اسمِه.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "نَفسي"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "يُرجِعُ"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "يَهديني"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "في مَسالِك"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "صِدِق"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لأجل"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمِه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:45:20.374866891Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 75,
+  "translation": "لأنه لا من المَوعِد ولا من المغرب، ولا من برّية المرتفعات.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "من المَوعِد"
+    },
+    {
+      "surface": "וממערب",
+      "gloss": "ولا من المغرب"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "من برّية"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "المرتفعات"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:36.210765234Z",
+  "model": "glm-5.2"
+}

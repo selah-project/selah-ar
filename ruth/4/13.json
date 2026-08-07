@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ruth 4:13",
+  "book": "ruth",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فأخذ بوْعَز ⟨את⟩ روت و⟨كانت⟩ له لزوجة، ودخل إليها، وأعطى يهوه لها حَمْلاً، فوَلَدت ابناً.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "فأخذ"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "بوْعَز"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "روت"
+    },
+    {
+      "surface": "רות",
+      "gloss": "روت"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "و⟨كانت⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "لزوجة"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ودخل"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "إليها"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "وأعطى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "הריון",
+      "gloss": "حَمْلاً"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "فوَلَدت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابناً"
+    }
+  ],
+  "timestamp": "2026-08-07T04:47:47.930551411Z",
+  "model": "glm-5.2"
+}

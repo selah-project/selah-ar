@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فالتفت هكذا وهكذا ورأى أنّه ليس رجل، فضرب ⟨את⟩ المصراييّ وطارحه في الرمل.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "فالتفت"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "وهكذا"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ورأى"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّه"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "فضرب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المصراييّ"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "المصراييّ"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "وطارحه"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "في الرمل"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:20.960861017Z",
+  "model": "glm-5.2"
+}

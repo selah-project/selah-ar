@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 24:16",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "والفتاة طيّبة المنظر جدًّا، بتول، ورجلٌ لم يعرفها؛ ونزعت إلى العين وملأت جرّتها وصعدت.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "والفتاة"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "طيّبة"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "المنظر"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "بتول"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ورجلٌ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "يعرفها"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "ونزعت"
+    },
+    {
+      "surface": "העינה",
+      "gloss": "إلى العين"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "وملأت"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "جرّتها"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "وصعدت"
+    }
+  ],
+  "timestamp": "2026-08-06T23:42:08.427392660Z",
+  "model": "glm-5.2"
+}

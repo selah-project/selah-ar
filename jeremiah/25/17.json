@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 25:17",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "فأخذتُ ⟨את⟩ الكأسَ من يدِ يهوه، وأسقيتُ ⟨את⟩ جميعَ الأممِ الذين أرسلني يهوه إليهم،",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "فأخذتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الكأس"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "الكأس"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ואשקה",
+      "gloss": "وأسقيتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جميع"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميع"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "أرسلني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "إليهم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:40:41.503565730Z",
+  "model": "glm-5.2"
+}

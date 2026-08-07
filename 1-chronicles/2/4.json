@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وتامار كَلَّتُه ولدت له ⟨את⟩ فارِص و⟨את⟩ زارح. كلُّ بني يهودا خمسة.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "وتامار"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "كَلَّتُه"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ولدت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فارِص"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "فارِص"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "زارح"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زارح"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "خمسة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:09:59.592359794Z",
+  "model": "glm-5.2"
+}

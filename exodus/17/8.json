@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وأتى عماليق وحارب يسرائيل في رفيديم.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "وأتى"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عماليق"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "وحارب"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع\/ضد"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "في رفيديم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:05:50.334613276Z",
+  "model": "glm-5.2"
+}

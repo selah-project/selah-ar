@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "هلمّوا، طعاموا من خبزي، واشربوا من خمرٍ مزجتُه.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "هلمّوا"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "طعاموا"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "من خبزي"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "واشربوا"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "من خمرٍ"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "مزجتُه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:23:35.942278732Z",
+  "model": "glm-5.2"
+}

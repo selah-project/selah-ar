@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 22:28",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وفتح يهوه ⟨את⟩ فم الأتونة، فقالت لبيلعام: ماذا فعلتُ بك حتى ضربتَني، هذه ثلاثَ مرّات؟",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "وفتح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فم"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فم"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "الأتونة"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "لبيلعام"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "فعلتُ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "הכיתני",
+      "gloss": "ضربتَني"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ثلاثَ"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "مرّات"
+    }
+  ],
+  "timestamp": "2026-08-07T00:39:08.447536732Z",
+  "model": "glm-5.2"
+}

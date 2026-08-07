@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "«يستغيثون وليس من مُخلِّص، إلى يهوه فلا استجاب لهم»",
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "يستغيثون"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "«وليس"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "من مُخلِّص"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "«فلا"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "استجاب لهم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:40:46.274014669Z",
+  "model": "glm-5.2"
+}

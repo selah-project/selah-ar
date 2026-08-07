@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "و⟨يأخذ⟩ ⟨את⟩ التيسين ويُوقِفهُما أمام يهوه، لدى مدخل خيمة الموعد.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "و⟨يأخذ⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "التيسين"
+    },
+    {
+      "surface": "שני",
+      "gloss": "اثنين"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "التيوس"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "ويُوقِف"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "إيّاهما"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "مدخل"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    }
+  ],
+  "timestamp": "2026-08-07T05:38:13.388022275Z",
+  "model": "glm-5.2"
+}

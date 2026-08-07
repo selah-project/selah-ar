@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "malachi 3:23",
+  "book": "malachi",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "هاأنا مرسلٌ إليكم ⟨את⟩ إيليّاه النافي قبل مجيء يوم يهوه العظيم والمهوب.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "مرسلٌ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "إليكم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "إيليّاه"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "إيليّاه"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "النافي"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "قبل"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "مجيء"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "العظيم"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "والمهوب"
+    }
+  ],
+  "timestamp": "2026-08-07T03:39:50.659911302Z",
+  "model": "glm-5.2"
+}

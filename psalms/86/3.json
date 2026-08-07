@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 86,
+  "translation": "امنُنْ عليَّ يا أدوناي، لأنّي إليك أدعو كلَّ النهار",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "امنُنْ عليَّ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "يا أدوناي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "أدعو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "النهار"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:49.385566115Z",
+  "model": "glm-5.2"
+}

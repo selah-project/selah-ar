@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 29:24",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وتضع الكل على راحتي أهارون وعلى راحتي بنيه، وتُرفع ⟨את⟩ها رَفْعًا أمام يهوه",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "وتضع"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "الكل"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "راحتي"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "راحتي"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "بنيه"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "وتُرفع"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ها",
+      "marks": "رَفعًا"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "رَفْعًا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:10:38.244705565Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "و⟨את⟩ حقل المدينة و⟨את⟩ أطرافها أعطوا لكالب بن يفنّه",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "حقل"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "حقل"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أطرافها"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "أطرافها"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "أعطوا"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "لكالب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "يفنّه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:45.499830068Z",
+  "model": "glm-5.2"
+}

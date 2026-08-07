@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "إذا قام في وسطكم نافي أو حالِم حُلُمًا، و⟨أعطى⟩ إليكم آية أو معجزة،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "قام"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "في وسطكم"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نافي"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "حالِم"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "حُلُمًا"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "و⟨أعطى⟩"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليكم"
+    },
+    {
+      "surface": "אות",
+      "gloss": "آية"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "معجزة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:55.084392283Z",
+  "model": "glm-5.2"
+}

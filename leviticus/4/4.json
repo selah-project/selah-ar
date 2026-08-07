@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 4:4",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وقدَّم ⟨את⟩ الثور إلى فُتحة خيمة الموعد أمام يهوه، وأسند يده على رأس الثور وذبح ⟨את⟩ الثور أمام يهوه.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "وقدَّم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الثور"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "الثور"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "فُتحة"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "وأسند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يده"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأس"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "الثور"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "وذبح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الثور"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "الثور"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:46.110663392Z",
+  "model": "glm-5.2"
+}

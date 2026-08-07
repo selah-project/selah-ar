@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "خيرَ الذوقِ ⟨و⟩المعرفة علّمني، لأنّي بصاياك آمنتُ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "خيرَ"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "الذوقِ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "⟨و⟩المعرفة"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "علّمني"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "بصاياك"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "آمنتُ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:12.090433841Z",
+  "model": "glm-5.2"
+}

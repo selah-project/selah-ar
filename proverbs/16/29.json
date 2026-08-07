@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 16:29",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "رجلُ عنفٍ يُغوي صاحبَه، ويُسيرُه في طريقٍ لا ⟨هو⟩ طيّب",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "عنف"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "يُغوي"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "صاحبَه"
+    },
+    {
+      "surface": "והוליכו",
+      "gloss": "ويُسيرُه"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "في طريقٍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيّب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:50.494855125Z",
+  "model": "glm-5.2"
+}

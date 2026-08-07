@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 29:34",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وإن بقي شيء من لحم التمام ومن الخبز إلى الصباح، فأَحْرِقْ ⟨את⟩الفائض بالنار، لا يُؤكَل لأنه قُدس هو.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "بقي\/فاض"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "من لحم"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "التمام"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "الخبز"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "الصباح"
+    },
+    {
+      "surface": "ושרפת",
+      "gloss": "فأَحْرِقْ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الفائض"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "الفائض"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بالنار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يُؤكَل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قُدس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T00:10:43.042906037Z",
+  "model": "glm-5.2"
+}

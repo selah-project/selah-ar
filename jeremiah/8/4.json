@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "«وتقول لهم: هكذا قال يهوه: هل يسقطون ولا يقومون؟ هل يرجع ⟨الإنسان⟩ ولا يرجع؟»",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "وتقول"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "هل يسقطون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "يقومون"
+    },
+    {
+      "surface": "אם",
+      "gloss": "هل"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "يرجع"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "يرجع"
+    }
+  ],
+  "timestamp": "2026-08-07T02:32:54.064121027Z",
+  "model": "glm-5.2"
+}

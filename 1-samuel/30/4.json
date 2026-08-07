@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "ورفع دافيد والقوم الذين معه ⟨את⟩ صوتهم وبكوا، حتى لم يكن فيهم قوّة على البكاء.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ورفع"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "دافيد"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "والقوم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صوتهم"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "صوتهم"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "وبكوا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "لم"
+    },
+    {
+      "surface": "אין",
+      "gloss": "يكن"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "فيهم"
+    },
+    {
+      "surface": "כח",
+      "gloss": "قوّة"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "على البكاء"
+    }
+  ],
+  "timestamp": "2026-08-07T01:31:00.711067180Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 104,
+  "translation": "ما أكثرَ أعمالَك يا يهوه! كلَّها بحكمة صنعتَ، ملأى الأرضُ من مقتنياتك",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "أكثرَ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "أعمالك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "كلَّها"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "بحكمة"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "صنعتَ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ملأى"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرضُ"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "من مقتنياتك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:06:21.202497866Z",
+  "model": "glm-5.2"
+}

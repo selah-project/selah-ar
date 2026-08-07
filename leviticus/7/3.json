@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "و⟨את⟩ كلّ شحمه يُقرَّب منه: ⟨את⟩ الألية و⟨את⟩ الشحم الذي يغطّي ⟨את⟩ الأحشاء،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ شحمه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "شحمه"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "يُقرَّب"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الألية"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "الألية"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الشحم"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "الشحم"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "الذي يغطّي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأحشاء"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "الأحشاء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:29.054811107Z",
+  "model": "glm-5.2"
+}

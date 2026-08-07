@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "فأدركهم وكلّمهم ⟨ب⟩هذه الكلمات.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "فأدركهم"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "وكلّم"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هذه الكلمات"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "الكلمات"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:52:12.439686077Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "نَبوءَةُ تمرّدِ الرّديءِ في وسطِ قلبي: «لا خوفَ لإلوهيمَ أمامَ عينيهِ»",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "نَبوءَةُ"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "تمرّدِ"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "الرّديءِ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "في وسطِ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "خوفَ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيمَ"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "أمامَ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "عينيهِ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:51.861395922Z",
+  "model": "glm-5.2"
+}

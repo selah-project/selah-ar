@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "و⟨את⟩ أربع عجلات و⟨את⟩ ثماني بقرات أعطى لبني مراري، على قدر خدمتهم، بيد إيتامار بن هارون الكوهين.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أربع"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "أربع"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "عجلات"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "ثماني"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "ثماني"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "بقرات"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطى"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لبني"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراري"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "على قدر"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "خدمتهم"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بيد"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "إيتامار"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "هارون"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:29:33.306342574Z",
+  "model": "glm-5.2"
+}

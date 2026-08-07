@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "و⟨هناك⟩ رأيٌّ شريرٌ مؤلمٌ رأيتُه تحتَ الشمس: ثروةٌ محفوظةٌ لصاحبها لضرّه،",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "و⟨هناك⟩"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شريرٌ"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "مؤلمٌ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "رأيتُه"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحتَ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "الشمس:"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ثروةٌ"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "محفوظةٌ"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "لصاحبها"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "لضرّه،"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:03.474585595Z",
+  "model": "glm-5.2"
+}

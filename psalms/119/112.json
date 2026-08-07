@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "ملّكتُ قلبي لِعمل فرائضك إلى الأبد، عاقبةً.",
+  "tokens": [
+    {
+      "surface": "נטיתי",
+      "gloss": "ملّكتُ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "لِعمل"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "فرائضك"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "عاقبةً"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:57.098829252Z",
+  "model": "glm-5.2"
+}

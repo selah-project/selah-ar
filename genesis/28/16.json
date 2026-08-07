@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 28:16",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "فاستيقظ يعقوف من نومه، و⟨قال⟩: حقًّا يهوه في هذا المكان، وأنا لم أعلم.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "فاستيقظ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "משנתו",
+      "gloss": "من نومه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و⟨قال⟩"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "حقًّا"
+    },
+    {
+      "surface": "יש",
+      "gloss": "في"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "المكان"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "أعلم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:35.343408240Z",
+  "model": "glm-5.2"
+}

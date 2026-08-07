@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 9:23",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فأرسل إلوهيم روَحًا رديئة بين أڤيميلخ وبين أسياد شكيم، فغدر أسياد شكيم بأڤيميلخ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روَحًا"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "رديئة"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "أڤيميلخ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "أسياد"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شكيم"
+    },
+    {
+      "surface": "ויבגדו",
+      "gloss": "فغدر"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "أسياد"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شكيم"
+    },
+    {
+      "surface": "באבימלך",
+      "gloss": "بأڤيميلخ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:15:36.508497627Z",
+  "model": "glm-5.2"
+}

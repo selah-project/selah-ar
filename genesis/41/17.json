@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "وكلّم فرعون يوسف: في حلمي ها أنا واقف على شفة النهر",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وكلّم"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "في حلمي"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ها أنا"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "واقف"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "شفة"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "النهر"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:14.321223574Z",
+  "model": "glm-5.2"
+}

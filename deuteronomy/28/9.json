@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 28:9",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "سيُقيمُك يهوه ⟨له⟩ شعبًا مقدّسًا، كما أقسم لك، إذا حفظتَ ⟨את⟩ وصايا يهوه إلهك وسلكتَ في طرقه.",
+  "tokens": [
+    {
+      "surface": "יקימך",
+      "gloss": "سيُقيمُك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "شعبًا"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "مقدّسًا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "أقسم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "حفظتَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وصايا"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "وصايا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلهك"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "وسلكتَ"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "في طرقه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:51.222295752Z",
+  "model": "glm-5.2"
+}

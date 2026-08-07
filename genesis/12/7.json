@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 12:7",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وظهر يهوه لأفراهام وقال: «لنسلك أعطي ⟨את⟩ هذه الأرض.» فبنى هناك مذبحاً ليهوه الظاهر له.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "وظهر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "لنسلك"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "أعطي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هذه الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "فبنى"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبحاً"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "الظاهر"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:01.561362223Z",
+  "model": "glm-5.2"
+}

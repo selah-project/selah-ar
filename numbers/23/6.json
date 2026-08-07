@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 23:6",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "فرجع إليه، وإذا هو قائمٌ عند عولته، هو وكلّ شرفاء موآب.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "فرجع"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "قائمٌ"
+    },
+    {
+      "surface": "על",
+      "gloss": "عند"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "عولته"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "شرفاء"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    }
+  ],
+  "timestamp": "2026-08-07T00:41:28.483208848Z",
+  "model": "glm-5.2"
+}

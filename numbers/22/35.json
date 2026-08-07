@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 22:35",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "فقال ملاك يهوه لبلعام: «اذهب مع الرجال، لكن أمّا ⟨את⟩ الكلام الذي أكلّمك به ف⟨את⟩ه تتكلّم به». فمضى بلعام مع أمراء بالاق.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ملاك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بلعام"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اذهب"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "الرجال"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "لكن أمّا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الكلام"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الكلام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "أكلّم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "بـه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "تتكلّم به"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "تتكلّم بـه"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "فمضى"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بلعام"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "أمراء"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    }
+  ],
+  "timestamp": "2026-08-07T00:39:08.511446709Z",
+  "model": "glm-5.2"
+}

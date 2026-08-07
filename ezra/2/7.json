@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "بَنُو عِيلام: ألفٌ ومئتان وخمسون وأربعة.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بَنُو"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عِيلام"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "مئتان"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "خمسون"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "وأربعة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:00:47.539295058Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 27:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "والآن، احملْ من فضلك عدّدك وجعبتك وقوسك، واخرجْ إلى الحقل واصطدْ لي صيدًا،",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "שא",
+      "gloss": "احملْ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "من فضلك"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "عدّدك"
+    },
+    {
+      "surface": "תליך",
+      "gloss": "وجعبتك"
+    },
+    {
+      "surface": "וקשתך",
+      "gloss": "وقوسك"
+    },
+    {
+      "surface": "וצא",
+      "gloss": "واخرجْ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "إلى ⟨الـ⟩حقل"
+    },
+    {
+      "surface": "וצודה",
+      "gloss": "واصطدْ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "صيدًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:43:03.779025211Z",
+  "model": "glm-5.2"
+}

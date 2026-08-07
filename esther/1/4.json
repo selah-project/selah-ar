@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "بإرائه ⟨את⟩ ثروة مجد ملكوته و⟨את⟩ وقار توهّر عظمته، أيّامًا كثيرة، ثمانين ومئة يوم",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "بإرائه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ثروة"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ثروة"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "مجد"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ملكوته"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "وقار"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "وقار"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "توهّر"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "عظمته"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيّامًا"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرة"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "ثمانين"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ومئة"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:54:05.147453984Z",
+  "model": "glm-5.2"
+}

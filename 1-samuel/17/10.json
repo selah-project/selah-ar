@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وقال الفلشتي: «أنا عيّرتُ ⟨את⟩ صفوف إسرائيل اليوم هذا. أعطوني رجلاً فنتحارب معًا.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "الفلشتي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "عيّرت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صفوف"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "صفوف"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "أعطوني"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨لي⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلاً"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "فنتحارب"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "معًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:26:27.208273164Z",
+  "model": "glm-5.2"
+}

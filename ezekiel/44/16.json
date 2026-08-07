@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 44:16",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "هم يدخلون إلى مقدسي، وهم يقتربون إلى مائدتي لخدومتي، فيحفظون ⟨את⟩ حراستي.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "يدخلون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "مقدسي"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "وهم"
+    },
+    {
+      "surface": "יקרבו",
+      "gloss": "يقتربون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "مائدتي"
+    },
+    {
+      "surface": "לשרתני",
+      "gloss": "لخدومتي"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "فيحفظون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حراستي"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "حراستي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:17:38.292895893Z",
+  "model": "glm-5.2"
+}

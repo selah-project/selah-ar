@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 51:4",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 51,
+  "translation": "فسقَطَ القَتلى في أرض كَشدِيم، والمَطعونون في شوارعِها.",
+  "tokens": [
+    {
+      "surface": "ונפלו",
+      "gloss": "فسقَطَ"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "القَتلى"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "كَشدِيم"
+    },
+    {
+      "surface": "ומדקרים",
+      "gloss": "والمَطعونون"
+    },
+    {
+      "surface": "בחוצותיה",
+      "gloss": "في شوارعِها"
+    }
+  ],
+  "timestamp": "2026-08-07T02:51:26.298269962Z",
+  "model": "glm-5.2"
+}

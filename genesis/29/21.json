@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وقال يعقوف لِلاڤان: «هاتَ ⟨את⟩ امرأتي، لأن أيامي قد امتلأت، وآتي إليها.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لاڤان"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "هاتَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "امرأتي"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "امرأتي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "امتلأت"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيامي"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "وآتي"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "إليها"
+    }
+  ],
+  "timestamp": "2026-08-07T05:34:51.163770247Z",
+  "model": "glm-5.2"
+}

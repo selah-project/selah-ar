@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 46,
+  "translation": "فيُصنعون ⟨את⟩ الكبش و⟨את⟩ المِنحة و⟨את⟩ الزيت صباحًا صباحًا، عولاه دائمة.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "فيُصنعون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الكبش"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "الكبش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "المِنحة"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "المِنحة"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الزيت"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "الزيت"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صباحًا"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صباحًا"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "عولاه"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "دائمة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:17:07.691656113Z",
+  "model": "glm-5.2"
+}

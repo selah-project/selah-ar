@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 69,
+  "translation": "وجَعَلتُ لباسي مِسحًا، وصرتُ لهم ⟨ل⟩مَثَلًا.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "وجَعَلتُ"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "لباسي"
+    },
+    {
+      "surface": "שק",
+      "gloss": "مِسحًا"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "وصرتُ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "⟨ل⟩مَثَلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:33.490899117Z",
+  "model": "glm-5.2"
+}

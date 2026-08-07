@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "أُخبرُ باسمِكَ إخوتي، في وسطِ الجماعة أسبّحُكَ.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "أُخبرُ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "اسمِكَ"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "إخوتي"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "في وسطِ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "الجماعة"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "أسبّحُكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:51.073646894Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فانحنت بت-شبع وسجدتْ للملك، فقال الملك: «ما لكِ؟»",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "فانحنت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-شبع"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "وسجدتْ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "للملك"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:41:46.803457774Z",
+  "model": "glm-5.2"
+}

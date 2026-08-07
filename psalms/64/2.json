@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 64,
+  "translation": "اسمع، يا إلوهيم، صوتي في شَكواي؛ من رعب العدو احرس حياتي.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "اسمع"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "يا إلوهيم"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "صوتي"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "في شكواي"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "من رعب"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "العدو"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "احرس"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "حياتي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:01.672186740Z",
+  "model": "glm-5.2"
+}

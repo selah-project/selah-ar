@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 5:25",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وتعلم أنّ ذريّتَك كثيرة، ونسلَك كعشب الأرض.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "وتعلم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "كثيرة"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ذريّتك"
+    },
+    {
+      "surface": "וצאצאיך",
+      "gloss": "ونسلك"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "كعشب"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T06:08:47.489509776Z",
+  "model": "glm-5.2"
+}

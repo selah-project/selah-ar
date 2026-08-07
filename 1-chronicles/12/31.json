@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 12:31",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "ومن بني أفرايم عشرون ألفًا وثمانمئة، جبّابرة بأسٍ، رجالُ أسماءٍ لبيت آبائهم.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "أفرايم"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "عشرون"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفًا"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "وثمان"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "جبّابرة"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بأسٍ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "أسماءٍ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "لبيت"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "آبائهم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:14:56.596270919Z",
+  "model": "glm-5.2"
+}

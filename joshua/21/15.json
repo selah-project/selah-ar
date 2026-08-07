@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "و⟨את⟩ حولون و⟨את⟩ مراعيها، و⟨את⟩ دَبير و⟨את⟩ مراعيها.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "حولون"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "حولون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مراعيها"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مراعيها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "دَبير"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دَبير"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مراعيها"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مراعيها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:11:03.265579374Z",
+  "model": "glm-5.2"
+}

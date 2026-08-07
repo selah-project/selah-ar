@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وتتبّع داود هو وأربع مئة رجل، فوقف مئتا رجل ممّن وهنوا عن عبور ⟨את⟩ نهر هَبَشّور.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "وتتبّع"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "وأربع"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "فوقف"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "مئتا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "وهنوا"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "عن عبور"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نهر"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "نهر"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "هَبَشّور"
+    }
+  ],
+  "timestamp": "2026-08-07T01:31:00.513269826Z",
+  "model": "glm-5.2"
+}

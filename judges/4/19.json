@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 4:19",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فقال لها: «أَسْقِيني ahora قليلًا من ماءٍ، لأنّي عطشان.» ففتحت ⟨את⟩ قربة الحليب، وأسقته وغطّته.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "השקיני",
+      "gloss": "أسقيني"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ahora"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "قليلًا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "من ماءٍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "צמאתי",
+      "gloss": "عطشان"
+    },
+    {
+      "surface": "ותפתח",
+      "gloss": "ففتحت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قربة الحليب"
+    },
+    {
+      "surface": "נאוד",
+      "gloss": "قربة"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "الحليب"
+    },
+    {
+      "surface": "ותשקהו",
+      "gloss": "وأسقته"
+    },
+    {
+      "surface": "ותכסהו",
+      "gloss": "وغطّته"
+    }
+  ],
+  "timestamp": "2026-08-07T07:22:30.295692011Z",
+  "model": "glm-5.2"
+}

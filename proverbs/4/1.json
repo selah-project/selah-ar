@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 4:1",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "اسمعوا يا أبناءَ مُوسارَ أَبٍ، وأَصغُوا لِ⟨أن⟩ تَعرِفوا بيناه.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "اسمعوا"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "يا أبناء"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "مُوسار"
+    },
+    {
+      "surface": "אב",
+      "gloss": "أَب"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "وأَصغُوا"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "لِ⟨أن⟩ تَعرِفوا"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "بيناه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:26.316697854Z",
+  "model": "glm-5.2"
+}

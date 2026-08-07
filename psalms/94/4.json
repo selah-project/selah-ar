@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 94,
+  "translation": "يُفِيضون، يتكلَّمون وقاحةً، يتعاظَمُ كلُّ فاعلي الإثم!",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "يُفِيضون"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "يتكلَّمون"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "وقاحةً"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "يتعاظَم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "فاعلي"
+    },
+    {
+      "surface": "און",
+      "gloss": "الإثم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:52.188573576Z",
+  "model": "glm-5.2"
+}

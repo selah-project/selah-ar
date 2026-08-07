@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "ويِشماعئيل ابنه ابن ثلاثَ عشرةَ سنةً في ختانه ⟨את⟩ لحمَ عُرلَتِهِ",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "ويِشماعئيل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ثلاث"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرة"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "في ختانه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لحم"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "لحم"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "عُرلَتِهِ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:35.473358549Z",
+  "model": "glm-5.2"
+}

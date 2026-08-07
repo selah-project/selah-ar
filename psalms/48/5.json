@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "لأنّه هوذا الملوك اجتمعوا، عبروا معًا",
+  "tokens": [
+    {
+      "surface": "כִּֽי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "הִנֵּ֣ה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "הַ֭מְּלָכִים",
+      "gloss": "الملوك"
+    },
+    {
+      "surface": "נֽוֹעֲד֑וּ",
+      "gloss": "اجتمعوا"
+    },
+    {
+      "surface": "עָבְר֥וּ",
+      "gloss": "عبروا"
+    },
+    {
+      "surface": "יַחְדָּֽו",
+      "gloss": "معًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:51:33.590475030Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "والباقي من المنحة لأهارون ولِبنيه، قُدس أقداس هو، من قربان نار يهوه.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "والباقي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "المنحة"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "لأهارون"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ولِبنيه"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قُدس"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "أقداس"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "من قربان نار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:46.670730668Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "وكان يرميا هو يدخل ويخرج في وسط الشعب، ولم يدفعوه ⟨את⟩ هو بيت الكِلي.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "وكان يرميا هو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "يدخل"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ويخرج"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "يدفعوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ هو",
+      "marks": "بيت الكِلي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "الكِلي"
+    }
+  ],
+  "timestamp": "2026-08-07T02:46:45.514851251Z",
+  "model": "glm-5.2"
+}

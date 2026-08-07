@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "ولا تحلفوا باسمي للكذب، وتُدنِّس ⟨את⟩ اسمَ إلوهيمك. أنا يهوه.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "تحلفوا"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "باسمي"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "للكذب"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "وتُدنِّس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:38:31.205392696Z",
+  "model": "glm-5.2"
+}

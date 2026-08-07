@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 12:13",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "والآن هوذا الملك الذي اخترتموه الذي سألتموه، وهوذا قد أعطى يهوه عليكم ملكًا.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "اخترتموه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "سألتموه"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وهوذا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "عليكم"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملكًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:23:05.909040265Z",
+  "model": "glm-5.2"
+}

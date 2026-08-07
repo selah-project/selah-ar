@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 13:5",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "مَنْ يُعطي ⟨أن⟩ تصمتوا صمتًا فتكون لكم حكمةً؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "مَنْ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "يُعطي"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "⟨أن⟩ تصمتوا صمتًا"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "تصمتوا صمتًا"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "فتكون"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "حكمةً"
+    }
+  ],
+  "timestamp": "2026-08-07T04:34:51.245673258Z",
+  "model": "glm-5.2"
+}

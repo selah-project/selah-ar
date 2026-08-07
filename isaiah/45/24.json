@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 45:24",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "إِنَّما في يهوه لي — قيل — صِدِقاتٌ وعِزّ، إليه يأتي ويخزى كلُّ المُحرَمين عليه.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "إِنَّما"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "في يهوه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قيل"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "صِدِقاتٌ"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "وعِزّ"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "يأتي"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ويخزى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "הנחרים",
+      "gloss": "المُحرَمين"
+    },
+    {
+      "surface": "בו",
+      "gloss": "عليه"
+    }
+  ],
+  "timestamp": "2026-08-07T07:41:02.606716583Z",
+  "model": "glm-5.2"
+}

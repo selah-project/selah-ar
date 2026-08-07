@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 19:12",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "فقال له سيّده: «لا نعطف نحو مدينة غريبٍ ليست من بني يسرائيل هي هناك، بل نعبر حتى جِبعَة».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "سيّده"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נסור",
+      "gloss": "نعطف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نحو"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "غريبٍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليست"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "من بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هي هناك"
+    },
+    {
+      "surface": "ועברנו",
+      "gloss": "بل نعبر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "جِبعَة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:19:35.115935363Z",
+  "model": "glm-5.2"
+}

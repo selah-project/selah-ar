@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 35:7",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "وبنى هناك مذبحًا، ودعا المكان إيل بيت إيل، لأنّه هناك تَجَلَّى له الإلوهيم في هروبه من وجه أخيه.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "وبنى"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبحًا"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "المكان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "נגלו",
+      "gloss": "تَجَلَّى"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الإلوهيم"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "في هروبه"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجه"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "أخيه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:29.985144558Z",
+  "model": "glm-5.2"
+}

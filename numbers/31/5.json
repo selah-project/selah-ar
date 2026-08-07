@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 31:5",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "فأُسلِمَ من ألوف يسرايم ألفٌ للسِّبط، اثنا عشرَ ألفًا متجرّدين للجيش.",
+  "tokens": [
+    {
+      "surface": "וימסרו",
+      "gloss": "فأُسلِمَ"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "من ألوف"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايم"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفٌ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "للسبط"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "اثنا"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشرَ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفًا"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "متجرّدين"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "للجيش"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:22.122144697Z",
+  "model": "glm-5.2"
+}

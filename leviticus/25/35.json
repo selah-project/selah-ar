@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 25:35",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وإذا افتقر أخوك وكلّت يدُه معك، فأمسك به — كغريبٍ كمُقيمٍ فيُحيا معك.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "افتقر"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "أخوك"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "وكلّت"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يدُه"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "והחזקת",
+      "gloss": "فأمسك"
+    },
+    {
+      "surface": "בו",
+      "gloss": "به"
+    },
+    {
+      "surface": "גר",
+      "gloss": "كغريبٍ"
+    },
+    {
+      "surface": "ותושב",
+      "gloss": "كمُقيمٍ"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "فيُحيا"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:59.101275403Z",
+  "model": "glm-5.2"
+}

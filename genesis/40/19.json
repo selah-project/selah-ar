@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 40:19",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "بَعدَ ثلاثةِ أيّامٍ يرفعُ فِرعَو ⟨את⟩ رأسَكَ عنكَ ويُعلّقُكَ على خشبة، فيأكلُ الطيرُ ⟨את⟩ لحمَكَ عنكَ.",
+  "tokens": [
+    {
+      "surface": "בעוד",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ثلاثة"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "يرفع"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رأسك"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "رأسك"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "عنك"
+    },
+    {
+      "surface": "ותלה",
+      "gloss": "ويعلّقك"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "إيّاك"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "خشبة"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "فيأكل"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "الطير"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لحمك"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "لحمك"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "عنك"
+    }
+  ],
+  "timestamp": "2026-08-07T06:59:46.058782807Z",
+  "model": "glm-5.2"
+}

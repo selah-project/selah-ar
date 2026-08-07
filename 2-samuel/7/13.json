@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 7:13",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "هو يبني بيتًا لاسمي، وأنا أُثبِّت ⟨את⟩ كرسي مملكته إلى الأبد.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "يبني"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "لاسمي"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "وأنا أُثبِّت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كرسي"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "كرسي"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "مملكته"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:04.091040311Z",
+  "model": "glm-5.2"
+}

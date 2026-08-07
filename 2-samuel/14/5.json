@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "فقال لها الملك: ما لك؟ فقالت: حقًا، امرأةٌ أرملةٌ أنا، ومات رجلي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "حقًا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "أرملة"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ومات"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "رجلي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:35:53.878582856Z",
+  "model": "glm-5.2"
+}

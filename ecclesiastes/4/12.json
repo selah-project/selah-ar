@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وإذا غلب ⟨على⟩ الواحد، فالاثنان يقفان تجاهه، وخيط ⟨الـ⟩مثلَّث لا بسرعةٍ ينقطع.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "يغلب"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "الواحد"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "الاثنان"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "يقفان"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "تجاهه"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "وخيط"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "المثلَّث"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "במהרה",
+      "gloss": "بسرعةٍ"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "ينقطع"
+    }
+  ],
+  "timestamp": "2026-08-07T08:37:36.981566468Z",
+  "model": "glm-5.2"
+}

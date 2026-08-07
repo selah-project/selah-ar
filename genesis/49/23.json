@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 49:23",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "فأمرّوه ونازعوه ويمقتوه أربابُ السهام",
+  "tokens": [
+    {
+      "surface": "וימררהו",
+      "gloss": "فأمرّوه"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ونازعوه"
+    },
+    {
+      "surface": "וישטמהו",
+      "gloss": "ويمقتوه"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "أربابُ"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "السهام"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:05.679381755Z",
+  "model": "glm-5.2"
+}

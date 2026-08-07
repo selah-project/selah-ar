@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 28:19",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "العامل أرضه يشبع خبزًا، وتاركُها يتبع المخاليّ يشبع فقرًا",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "العامل"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "أرضه"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "يشبع"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "ويتبع"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "المخاليّ"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "يشبع"
+    },
+    {
+      "surface": "ריש",
+      "gloss": "فقرًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:55.611147179Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "ثلاث سنوات مَلَكَ في يروشالايم، واسمُ أمّه معاكهة بنت أفِشالوم",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ثلاث"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنوات"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلَكَ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "في يروشالايم"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "واسم"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "أمّه"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "معاكهة"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "أفِشالوم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:49:14.623274393Z",
+  "model": "glm-5.2"
+}

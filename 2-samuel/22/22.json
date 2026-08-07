@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 22:22",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "لأنّي حفظتُ طرق يهوه، ولم أُفسد منحرفًا عن إلوهيم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "حفظتُ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "طرق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "أُفسد"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "منحرفًا عن إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:40:36.396426962Z",
+  "model": "glm-5.2"
+}

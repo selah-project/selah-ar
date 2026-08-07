@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وفعل بنو الجلوة ⟨את⟩ الفصح في الرابع عشر للشهر الأول.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "وفعل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "الجلوة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الفصح"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "الفصح"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "في الرابع"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "للشهر"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "الأول"
+    }
+  ],
+  "timestamp": "2026-08-07T05:01:53.087867762Z",
+  "model": "glm-5.2"
+}

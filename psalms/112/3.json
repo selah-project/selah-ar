@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 112,
+  "translation": "ثروةٌ وغنًى في بيته، وصداقتُه قائمة到大 الأبد",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ثروة"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "وغنًى"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "في بيته"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "وصداقته"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "قائمة"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "إلى الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:29.588403632Z",
+  "model": "glm-5.2"
+}

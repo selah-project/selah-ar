@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "لا تتعجّل من وجهه أن تنصرف، لا تقف في أمر شرّير، لأنّ كلّ ما يشاء يفعله.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "تتعجّل"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "من وجهه"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "أن تنصرف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "تقف"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "في أمر"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شرّير"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "يشاء"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يفعله"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:20.712334890Z",
+  "model": "glm-5.2"
+}

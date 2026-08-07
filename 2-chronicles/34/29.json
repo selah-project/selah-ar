@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "فأرسل الملك وجمع ⟨את⟩ كلَّ شيوخ يهودا ويروشالايم.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "وجمع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "شيوخ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ويروشالايم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:32:56.183212660Z",
+  "model": "glm-5.2"
+}

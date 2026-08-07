@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 4:16",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وقال الرجل لعيلي: أنا الآتي من صفّ القتال، وأنا من صفّ القتال هربت اليوم. فقال: ما الأمر يا ابني؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عيلي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "الآتي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "صفّ القتال"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "صفّ القتال"
+    },
+    {
+      "surface": "נסתי",
+      "gloss": "هربت"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "היה",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "يا ابني"
+    }
+  ],
+  "timestamp": "2026-08-07T01:22:23.445846824Z",
+  "model": "glm-5.2"
+}

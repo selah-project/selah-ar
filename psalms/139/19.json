@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 139,
+  "translation": "لو تَقْتُلُ يا أَلُوَهّ الشرّير — فأهلَ الدماء، حِيدوا عنّي!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "لو"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "تَقْتُلُ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "يا أَلُوَهّ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "الشرّير"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "فأهلَ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "الدماء"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "حِيدوا"
+    },
+    {
+      "surface": "מני",
+      "gloss": "عنّي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:00.823011764Z",
+  "model": "glm-5.2"
+}

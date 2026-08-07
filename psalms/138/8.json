@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 138,
+  "translation": "يهوه يُتمُّ ما لي، يهوه حِسِدُك إلى الأبد؛ أعمال يديك لا تَتْرُك.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "يُتمُّ"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ما لي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حِسِدُك"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "أعمال"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "يديك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "تَتْرُك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:17:51.951178108Z",
+  "model": "glm-5.2"
+}

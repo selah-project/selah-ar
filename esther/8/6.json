@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "لأنّه كيف أُطيق وأرى ⟨في⟩ الشرّ الذي يصيب ⟨את⟩ شعبي، وكيف أُطيق وأرى ⟨في⟩ هلاك مَولِدي؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "كيف"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "أُطيق"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "وأرى"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "⟨في⟩ الشرّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "يصيب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شعبي"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "شعبي"
+    },
+    {
+      "surface": "ואיככה",
+      "gloss": "وكيف"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "أُطيق"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "وأرى"
+    },
+    {
+      "surface": "באבדן",
+      "gloss": "⟨في⟩ هلاك"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "مَولِدي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:55:20.911225402Z",
+  "model": "glm-5.2"
+}

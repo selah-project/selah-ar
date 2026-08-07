@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 32:43",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "رتّلوا يا أممَ ⟨ل⟩شعبه، لأنّ دمَ عبيده يُنتقَم، وانتقامًا يردُّ لمُضايقيه، ويكفّر عن أرضه شعبَه.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "رتّلوا"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "يا أممَ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "دمَ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "عبيده"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "يُنتقَم"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "وانتقامًا"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "يردُّ"
+    },
+    {
+      "surface": "לצריו",
+      "gloss": "لمُضايقيه"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ويكفّر"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "عن أرضه"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبَه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:02:04.674351353Z",
+  "model": "glm-5.2"
+}

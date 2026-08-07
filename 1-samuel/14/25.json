@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 14:25",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وكل الأرض دخلوا إلى الغابة، وكان عسل على وجه الحقل.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "באו",
+      "gloss": "دخلوا"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "إلى الغابة"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "عسل"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "الحقل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:25:09.752075667Z",
+  "model": "glm-5.2"
+}

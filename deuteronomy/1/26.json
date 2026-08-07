@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ولم تأبهوا أن تصعدوا فتمرّدتم على ⟨את⟩ فمِّ يهوه إلوهيمِكم.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "تأبهوا"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "أن تصعدوا"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "فتمرّدتم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فمِّ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فمِّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلوهيمِكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:28.380774541Z",
+  "model": "glm-5.2"
+}

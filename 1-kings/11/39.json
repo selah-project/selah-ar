@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وأُذلُّ ⟨את⟩ نسلِ داوِد من أجلِ هذا، لكن لا كلَّ الأيّام.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "وأُذلُّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نسلِ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نسلِ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "למען",
+      "gloss": "من أجلِ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אך",
+      "gloss": "لكن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "الأيّام"
+    }
+  ],
+  "timestamp": "2026-08-07T01:47:23.848914067Z",
+  "model": "glm-5.2"
+}

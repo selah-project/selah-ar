@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "وصنع ⟨את⟩ رداء الأفود عمل ناسج كُلِّه تَخِيلت",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وصنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رداء"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "رداء"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "الأفود"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "ناسج"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "كُلِّه"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "تَخِيلت"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:05.144501661Z",
+  "model": "glm-5.2"
+}

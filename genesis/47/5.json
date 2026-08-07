@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 47,
+  "translation": "وقال فرعون ليوصف قائلًا: أبوك وإخوتك جاؤوا إليك.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أبوك"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "وإخوتك"
+    },
+    {
+      "surface": "באו",
+      "gloss": "جاؤوا"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:57:09.422376420Z",
+  "model": "glm-5.2"
+}

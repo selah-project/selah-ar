@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 2:16",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فأقام يهوه شوفطيم، فأنقذوهم من يد ناهبيهم.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "فأقام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "شوفطيم"
+    },
+    {
+      "surface": "ויושיעום",
+      "gloss": "فأنقذوهم"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يد"
+    },
+    {
+      "surface": "שסיהם",
+      "gloss": "ناهبيهم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:12:31.424391587Z",
+  "model": "glm-5.2"
+}

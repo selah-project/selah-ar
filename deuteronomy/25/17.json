@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "اُذكُرْ ⟨את⟩ ما فعله بك عمالِق في الطريق عند خروجكم من مصرايم،",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "اُذكُرْ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ما"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعل"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بك"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عمالِق"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "في الطريق"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "عند خروجكم"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "من مصرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:58:42.346937019Z",
+  "model": "glm-5.2"
+}

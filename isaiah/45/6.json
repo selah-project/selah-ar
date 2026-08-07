@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "لكي يعرفوا من مشرق الشمس ومن مغربها أنّه لا شيء غيري. أنا يهوه و⟨لا⟩ آخر.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "يعرفوا"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "من مشرق"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "الشمس"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "ومن مغربها"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّه"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "لا شيء"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "غيري"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و⟨لا⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "آخر"
+    }
+  ],
+  "timestamp": "2026-08-07T02:20:37.437414136Z",
+  "model": "glm-5.2"
+}

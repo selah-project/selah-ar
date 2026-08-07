@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 12:5",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "فاحتدم غضب داوِد على الرجل جدًّا، وقال لناتان: حيّ ⟨هو⟩ يهوه، لأنّ ابن موت ⟨هو⟩ الرجل الفاعل هذا.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "فاحتدم"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "على الرجل"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "חי",
+      "gloss": "حيّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "الفاعل"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:35:12.084024998Z",
+  "model": "glm-5.2"
+}

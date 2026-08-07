@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فخرج سيحون للقائنا، هو وكل شعبه، للحرب في يهصه.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "فخرج"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "سيحون"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "للقائنا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبه"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "للحرب"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "في يهصه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:56.662758034Z",
+  "model": "glm-5.2"
+}

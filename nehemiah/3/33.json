@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 3:33",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "ف⟨كان⟩ عندما سمع سنبلّط أنّنا نبني ⟨את⟩ السور، واحترق ⟨له⟩ وغضب كثيرًا، وسخر على اليهود.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ف⟨كان⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "عندما"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سمع"
+    },
+    {
+      "surface": "סנבלט",
+      "gloss": "سنبلّط"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "نحن"
+    },
+    {
+      "surface": "בונים",
+      "gloss": "نبني"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "السور"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "السور"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "واحترق"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "وغضب"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "كثيرًا"
+    },
+    {
+      "surface": "וילעג",
+      "gloss": "وسخر"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "اليهود"
+    }
+  ],
+  "timestamp": "2026-08-07T05:04:32.663123600Z",
+  "model": "glm-5.2"
+}

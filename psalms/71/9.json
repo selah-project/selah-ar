@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 71,
+  "translation": "لا تطرحني في وقت الشيخوخة؛ عند فناء قوّتي لا تتركني.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "تطرحني"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "في وقت"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "الشيخوخة"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "عند فناء"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "قوّتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "تتركني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:36.036483414Z",
+  "model": "glm-5.2"
+}

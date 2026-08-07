@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وماشى خانوخَ مع ⟨את⟩ إلوهيم، ولم يكنْ موجودًا، لأنّ إلوهيم أخذَه.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "وماشى"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "خانوخَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "إلوهيم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ولم يكنْ موجودًا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "أخذَ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:22.202296805Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "أنّ يهوه تراءى لشلوموه ثانيةً كما تراءى له في جبعون.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "أنّه تراءى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموه"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ثانيةً"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "تراءى"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "في جبعون"
+    }
+  ],
+  "timestamp": "2026-08-07T01:45:56.635054266Z",
+  "model": "glm-5.2"
+}

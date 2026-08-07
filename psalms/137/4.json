@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 137,
+  "translation": "كيف أُرنّم ⟨את⟩ أُغنية يهوه على أرضٍ غريبة؟",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "كيف"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "أُرنّم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أُغنية يهوه"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "أُغنية"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "أرضٍ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "غريبة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:17:43.729239760Z",
+  "model": "glm-5.2"
+}

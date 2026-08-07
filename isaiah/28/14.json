@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 28:14",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "لذلك اسمعوا كلمة يهوه، رجال السخرية، حُكّام هذا الشعب الذي في يروشالايم.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "اسمعوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "السخرية"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "حُكّام"
+    },
+    {
+      "surface": "העם",
+      "gloss": "هذا الشعب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "في يروشالايم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:12:32.092105101Z",
+  "model": "glm-5.2"
+}

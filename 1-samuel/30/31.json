@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 30:31",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "ولِمَن في حبرون، ولكلّ المواضع التي تَرَدَّد فيها داوِد، هو ورجاله.",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "ولِمَن"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "في حبرون"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ولكلّ"
+    },
+    {
+      "surface": "המקמות",
+      "gloss": "المواضع"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "تَرَدَّد"
+    },
+    {
+      "surface": "שם",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ورجاله"
+    }
+  ],
+  "timestamp": "2026-08-07T01:30:46.533623128Z",
+  "model": "glm-5.2"
+}

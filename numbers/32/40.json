@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "فأعطى موشيه ⟨את⟩ الجلعاد لماكير بن منشّه فسكنها",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "فأعطى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الجلعاد"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "الجلعاد"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "لماكير"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشّه"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "فسكن"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:14.649844333Z",
+  "model": "glm-5.2"
+}

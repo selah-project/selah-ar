@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 77,
+  "translation": "أذكرُ إلوهيم وأئنّ، أُتأمّلُ فَتَعْيا رُوَحي. سِلاه",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "أذكرُ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "وأئنّ"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "أُتأمّلُ"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "فَتَعْيا"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "رُوَحي"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:15.978419970Z",
+  "model": "glm-5.2"
+}

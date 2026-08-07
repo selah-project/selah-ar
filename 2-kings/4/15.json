@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فقال: ادعُها. فدعاها، فوقفت في الباب.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ادعُ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "فدعا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "فوقفت"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "في الباب"
+    }
+  ],
+  "timestamp": "2026-08-07T01:53:47.387733209Z",
+  "model": "glm-5.2"
+}

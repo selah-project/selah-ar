@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "و⟨את⟩ كلَّ غرابٍ لنوعه",
+  "tokens": [
+    {
+      "surface": "וְאֵת",
+      "gloss": "⟨את⟩",
+      "marks": "كل غراب"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "עֹרֵב",
+      "gloss": "غراب"
+    },
+    {
+      "surface": "לְמִינוֹ",
+      "gloss": "لنوعه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:42:53.874577044Z",
+  "model": "glm-5.2"
+}

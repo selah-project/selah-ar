@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 26:10",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "ولِحوسا، من بني مراري، بنون: شِمري الرأسُ، لأنه لم يكن بكرًا، فجعله أبوه رأسًا.",
+  "tokens": [
+    {
+      "surface": "ולחסה",
+      "gloss": "ولِحوسا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراري"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بنون"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "شِمري"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "الرأسُ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "היה",
+      "gloss": "يكن"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "بكرًا"
+    },
+    {
+      "surface": "וישימהו",
+      "gloss": "فجعله"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "أبوه"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "رأسًا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:18:29.657253767Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "«مباركٌ أنتَ في المدينة، ومباركٌ أنتَ في الحقل»،",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "مباركٌ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "في المدينة"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ومباركٌ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "في الحقل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:15.145939244Z",
+  "model": "glm-5.2"
+}

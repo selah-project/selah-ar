@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "فرجع راب شاقِه، فوجد ⟨את⟩ ملكِ آشور يتقاتل على لِبنة، لأنه سمع أنه ارتحل عن لاخيش.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "فرجع"
+    },
+    {
+      "surface": "רב",
+      "gloss": "راب"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "شاقِه"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "فوجد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ملكِ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملكِ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "آشور"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "يتقاتل"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "لِبنة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سمع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنه"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "ارتحل"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "عن لاخيش"
+    }
+  ],
+  "timestamp": "2026-08-07T02:16:33.217349102Z",
+  "model": "glm-5.2"
+}

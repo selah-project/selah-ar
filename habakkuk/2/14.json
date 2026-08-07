@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "لأنّ الأرض تُملأ لمعرفة ⟨את⟩ مجد يهوه كالمياه تغطّي على البحر.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "تُملأ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "لمعرفة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مجد يهوه"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "مجد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "كالمياه"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "تغطّي"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ים",
+      "gloss": "البحر"
+    }
+  ],
+  "timestamp": "2026-08-07T03:32:05.116718569Z",
+  "model": "glm-5.2"
+}

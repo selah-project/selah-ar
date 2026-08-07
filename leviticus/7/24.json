@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وشَحْمُ نَبيلَةٍ وشَحْمُ طَريدةٍ يُعمَلُ لكلِّ صنعةٍ، فأكْلًا لا تأكُلُونه.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "وشَحْمُ"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "نَبيلَةٍ"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "وشَحْمُ"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "طَريدةٍ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يُعمَلُ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لكلِّ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "صنعةٍ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "فأكْلًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "تأكُلُونه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:10.281031919Z",
+  "model": "glm-5.2"
+}

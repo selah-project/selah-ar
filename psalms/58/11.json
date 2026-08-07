@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 58,
+  "translation": "يفرح الصدّيقُ لأنّه رأى نَقمةً، في دمِ الراشِعِ يغسِلُ قَدَمَيهِ.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "يفرح"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "الصدّيق"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "رأى"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "نَقمة"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "قَدَمَيهِ"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "يغسِل"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "في دم"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "الراشِع"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:46.536537563Z",
+  "model": "glm-5.2"
+}

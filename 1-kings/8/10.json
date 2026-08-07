@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "و⟨كان⟩ عند خروج الكهنة من القدس أنّ السحاب ملأ ⟨את⟩ بيت يهوه.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "عند خروج"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكهنة"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "القدس"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "وأنّ السحاب"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ملأ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:45:42.569742652Z",
+  "model": "glm-5.2"
+}

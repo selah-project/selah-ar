@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وأنا أُغلِظُ ⟨את⟩ قلب فرعون، وأُكثِرُ ⟨את⟩ آياتي و⟨את⟩ عجائقي في أرض مصرايم.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "أُغلِظُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قلب"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "وأُكثِرُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آياتي"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "آياتي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "عجائقي"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "عجائقي"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:01:22.272343240Z",
+  "model": "glm-5.2"
+}

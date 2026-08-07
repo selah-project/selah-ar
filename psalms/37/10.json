@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "وبعد قليل ولا شرّير، فتتأمَّل ⟨في⟩ موضعه ولا ⟨هو⟩ موجود.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "وبعد"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "قليل"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شرّير"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "فتتأمَّل"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨في⟩"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "موضعه"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ولا ⟨هو⟩ موجود"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:29.795783149Z",
+  "model": "glm-5.2"
+}

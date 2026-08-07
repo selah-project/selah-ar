@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 75,
+  "translation": "لأنّ إلوهيم هو الديّان: هذا يَخْفِضُ وهذا يَرفع.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "هو الديّان"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "يَخْفِضُ"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "وهذا"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "يَرفعُ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:36.210867895Z",
+  "model": "glm-5.2"
+}

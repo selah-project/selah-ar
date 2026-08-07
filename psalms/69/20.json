@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 69,
+  "translation": "أنتَ عرَفتَ عاريَّ وخزْيي وخِزْيي، أمامك كلُّ مُضايِقيّ",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "عرَفتَ"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "عاريَّ"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "وخزْيي"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "وخِزْيي"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "أمامك"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "مُضايِقيّ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:33.082996371Z",
+  "model": "glm-5.2"
+}

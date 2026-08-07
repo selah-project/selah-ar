@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 96,
+  "translation": "رنّموا ليهوه، باركوا اسمه، بشّروا من يومٍ إلى يومٍ بخلاصه",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "رنّموا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "باركوا"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمه"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "بشّروا"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "من يومٍ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "إلى يومٍ"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "بخلاصه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:47.211225090Z",
+  "model": "glm-5.2"
+}

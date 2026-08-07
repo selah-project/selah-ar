@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "وكضوء صباح تُشرق شمس، صباح لا ⟨فيه⟩ غَيْمات، من إشراق، من مطر، عُشب من الأرض.",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "وكضوء"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صباح"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "تُشرق"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "شمس"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صباح"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "غَيْمات"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "من إشراق"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "من مطر"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "عُشب"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "من الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T01:41:06.693403167Z",
+  "model": "glm-5.2"
+}

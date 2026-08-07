@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "الفطن رأى الشرّ فاختتبأ، والبُلهَعَبَرُوا فعُوقبوا.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "الفطن"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "رأى"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "فاختتبأ"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "والبُله"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "عبَرُوا"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "فعُوقبوا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:47.599065541Z",
+  "model": "glm-5.2"
+}

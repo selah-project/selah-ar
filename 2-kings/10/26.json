@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وأخرجوا ⟨את⟩ مصبّوت بيت البَعل وأحرقوها",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "وأخرجوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مصبّوت"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "مصبّوت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "البَعل"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "وأحرقوها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:56:29.454240613Z",
+  "model": "glm-5.2"
+}

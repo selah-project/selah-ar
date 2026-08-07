@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 17:24",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "فأخرج موشيه ⟨את⟩ كلّ العصيّ من أمام يهوه إلى كلّ بَنَي يسرايل، فنظروا وأخذ كلّ واحدٍ عصاه.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "فأخرج"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ العصيّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "العصيّ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "من أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنَي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "فنظروا"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كلّ واحدٍ"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "عصاه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:36:47.095745296Z",
+  "model": "glm-5.2"
+}

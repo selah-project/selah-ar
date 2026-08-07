@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "«لأنّه بك أركُدُ جماعةً ⟨محاربة⟩، وبإلهي أثِبُ سورًا.»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "בך",
+      "gloss": "بك"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أركُدُ"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "جماعةً"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "وبإلهي"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "أثِبُ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "سورًا"
+    }
+  ],
+  "timestamp": "2026-08-07T06:01:39.236591901Z",
+  "model": "glm-5.2"
+}

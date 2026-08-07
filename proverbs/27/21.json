@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 27:21",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "مِصْرَفٌ للفضّة وَكُورٌ للذهب، والإنسان ⟨حسب⟩ ثناءِه.",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "مِصْرَفٌ"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "للفضّة"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "وَكُورٌ"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "للذهب"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "والإنسان"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "⟨حسب⟩"
+    },
+    {
+      "surface": "מהללו",
+      "gloss": "ثناءِه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:38.299081172Z",
+  "model": "glm-5.2"
+}

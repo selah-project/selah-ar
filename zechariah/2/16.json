@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "ويرث يهوه ⟨את⟩ يهودا نصيبه على أرض القدس، ويختار ثانيةً في يروشالايم.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "ويرث"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهودا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "نصيبه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "القدس"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "ويختار"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ثانيةً"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "في يروشالايم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:35:12.159845973Z",
+  "model": "glm-5.2"
+}

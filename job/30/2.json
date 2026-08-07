@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 30:2",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "أيضًا، قوّةُ أيديهم — لِمَ لي؟ عليهم هلك النضج.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "כח",
+      "gloss": "قوّة"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "أيديهم"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لِمَ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "هلك"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "النضج"
+    }
+  ],
+  "timestamp": "2026-08-07T04:40:50.044590266Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 53:10",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 53,
+  "translation": "ويهوه شاء أن يسحقه، أمرضه؛ إن جعل ذنبًا نفسَه يرى نسلًا، يُطيل الأيام، ومسرّة يهوه بيده تنجح.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ويهوه"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "شاء"
+    },
+    {
+      "surface": "דכאו",
+      "gloss": "أن يسحقه"
+    },
+    {
+      "surface": "החלי",
+      "gloss": "أمرضه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "جعل"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ذنبًا"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نفسَه"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "يرى"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نسلًا"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "يُطيل"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "الأيام"
+    },
+    {
+      "surface": "וחפץ",
+      "gloss": "ومسرّة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "بيده"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "تنجح"
+    }
+  ],
+  "timestamp": "2026-08-07T02:22:50.997790392Z",
+  "model": "glm-5.2"
+}

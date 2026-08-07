@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 34:10",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "وعيّنتم لأنفسكم لتخم شرقًا من حَصَر عِينان شَفامَ.",
+  "tokens": [
+    {
+      "surface": "והתאויתם",
+      "gloss": "وعيّنتم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لأنفسكم"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "لتخم"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "شرقًا"
+    },
+    {
+      "surface": "מחצר",
+      "gloss": "من حَصَر"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "عِينان"
+    },
+    {
+      "surface": "שפמה",
+      "gloss": "شَفامَ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:45:03.847477157Z",
+  "model": "glm-5.2"
+}

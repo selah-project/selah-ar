@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فسَمِع موشيه لقول حَميه، وفعل كل ما قال.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "فسَمِع"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "لقول"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "حَميه"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "وفعل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:13.356954079Z",
+  "model": "glm-5.2"
+}

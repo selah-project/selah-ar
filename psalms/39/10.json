@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "أُسكَتُّ، لا أفتح فمي، لأنّك أنت فعلتَ.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "أُسكَتُّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "أفتح"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فمي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "فعلتَ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:12.114460843Z",
+  "model": "glm-5.2"
+}

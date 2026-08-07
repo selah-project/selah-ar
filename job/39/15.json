@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 39:15",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "وتنسى أنّ قدمًا قد تدوسه، ووحش البرّية قد تَدوسه.",
+  "tokens": [
+    {
+      "surface": "ותשכח",
+      "gloss": "وتنسى"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "قدمًا"
+    },
+    {
+      "surface": "תזורה",
+      "gloss": "تدوسه"
+    },
+    {
+      "surface": "וחית",
+      "gloss": "ووحش"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "البرّية"
+    },
+    {
+      "surface": "תדושה",
+      "gloss": "تَدوسه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:43:36.896716845Z",
+  "model": "glm-5.2"
+}

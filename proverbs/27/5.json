@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "طيّبةٌ توخيتٌ مكشوفةٌ مِن محبّةٍ مستورةٌ",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "طيّبة"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "توخيت"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "مكشوفة"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "مِن محبّة"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "مستورة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:33.660958455Z",
+  "model": "glm-5.2"
+}

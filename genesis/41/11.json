@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 41:11",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "وحلمنا حُلُمًا في ليلة واحدة، أنا وهو، رجلٌ كفِسران حُلمه حلمنا.",
+  "tokens": [
+    {
+      "surface": "ונחלמה",
+      "gloss": "وحلمنا"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "حُلُمًا"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "في ليلة"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدة"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "כפתרון",
+      "gloss": "كفِسران"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "حُلمه"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "حلمنا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:58.422588Z",
+  "model": "glm-5.2"
+}

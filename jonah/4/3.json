@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "والآن يا يهوه خذْ نَفسي منّي، لأن موتي خيرٌ من حياتي.»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "קח",
+      "gloss": "خذْ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨أرجوك⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نَفسي"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفسي"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "منّي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خيرٌ"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "موتي"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "من حياتي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:28:31.769860411Z",
+  "model": "glm-5.2"
+}

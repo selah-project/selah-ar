@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 42:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "بهذا تُختبَرون: حياةُ فِرعون إنّكم لا تخرجون من هنا إلّا بمجيء أخيكم الصغير إلى هنا.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "بهذا"
+    },
+    {
+      "surface": "תבחנו",
+      "gloss": "تُختبَرون"
+    },
+    {
+      "surface": "חי",
+      "gloss": "حياة"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فِرعون"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إنّ"
+    },
+    {
+      "surface": "תצאו",
+      "gloss": "تخرجون"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "من هنا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إلّا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بـ"
+    },
+    {
+      "surface": "בבוא",
+      "gloss": "مجيء"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "أخيكم"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "الصغير"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "إلى هنا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:38.936248622Z",
+  "model": "glm-5.2"
+}

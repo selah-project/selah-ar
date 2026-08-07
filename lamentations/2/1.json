@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 2:1",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "كيف أظلمَّ أدوناي في غضبه ⟨את⟩ بنت تسيّون! طرَح من السماوات أرضَ زينةِ يسرائيل، و⟨لم⟩ يذكر موطئ قدميه في يوم غضبه.",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "كيف"
+    },
+    {
+      "surface": "יעיב",
+      "gloss": "أظلمّ"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "في غضبه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بنت تسيّون"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "تسيّون"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "طرح"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "من السماوات"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "زينة"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و⟨لم⟩"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "يذكر"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "موطئ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "قدميه"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "غضبه"
+    }
+  ],
+  "timestamp": "2026-08-07T06:11:09.860527960Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "لكنّهم وآباءنا استعلَوْا، وقسَّوْا ⟨את⟩ قفاهم، ولم يسمعوا إلى وصاياك.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "لكنّهم"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "وآباءنا"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "استعلَوْا"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "وقسَّوْا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قفاهم"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "قفاهم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "يسمعوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "وصاياك"
+    }
+  ],
+  "timestamp": "2026-08-07T05:06:33.070515096Z",
+  "model": "glm-5.2"
+}

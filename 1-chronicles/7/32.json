@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وحِبِر وَلَد ⟨את⟩ يَفلِت و⟨את⟩ شومِر و⟨את⟩ حوتام و⟨את⟩ شوعا أختهم.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "وحِبِر"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وَلَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يفلت"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "يَفلِت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "شومر"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "شومِر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "حوتام"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "حوتام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "شوعا"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "شوعا"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "أختهم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:12:28.045038245Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 38:3",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "وتقول: هكذا قال أدوناي يهوه: ها أنا عليك يا غوج، رئيسَ روش ميشك وتوبال.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "وتقول"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ها أنا"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "عليك"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "يا غوج"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "رئيسَ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "روش"
+    },
+    {
+      "surface": "משך",
+      "gloss": "ميشك"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "وتوبال"
+    }
+  ],
+  "timestamp": "2026-08-07T03:11:35.081031738Z",
+  "model": "glm-5.2"
+}

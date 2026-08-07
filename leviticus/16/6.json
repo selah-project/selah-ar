@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وَيُقَرِّبُ أَهْرُونَ ⟨את⟩ ثَوْرَ الْخَطِيئَةِ الَّذِي لَهُ، وَيُكَفِّرُ عَنْ نَفْسِهِ وَعَنْ بَيْتِهِ.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ويقرّب"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهرون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ثور الخطيئة"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ثور"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "الخطيئة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ويكفّر"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "عنه"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "وعن"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "بيته"
+    }
+  ],
+  "timestamp": "2026-08-07T05:38:34.060766961Z",
+  "model": "glm-5.2"
+}

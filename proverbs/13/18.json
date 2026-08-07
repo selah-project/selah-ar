@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 13:18",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فقرٌ وخزايةٌ ⟨لمن⟩ يُعرِضُ عن التأديب، وحافظُ التوبيخِ يُكرَّم",
+  "tokens": [
+    {
+      "surface": "ריש",
+      "gloss": "فقر"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "وخزاية"
+    },
+    {
+      "surface": "פורע",
+      "gloss": "يُعرض عن"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "التأديب"
+    },
+    {
+      "surface": "ושומר",
+      "gloss": "وحافظ"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "التوبيخ"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "يُكرَّم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:40.415808188Z",
+  "model": "glm-5.2"
+}

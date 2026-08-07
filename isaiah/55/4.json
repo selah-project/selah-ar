@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 55,
+  "translation": "هأنذا شاهدًا للأُمَم جعلتُه، نَگيدًا ومُوصيًا للأُمَم.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "هأنذا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شاهدًا"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "للأُمَم"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "جعلتُه"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "نَگيدًا"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "ومُوصيًا"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "للأُمَم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:22:25.567878417Z",
+  "model": "glm-5.2"
+}

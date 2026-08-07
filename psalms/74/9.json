@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 74,
+  "translation": "آياتِنا لم نَرَ، ليس ثمّة نافيًا (الناطق)، ولا مَعنا مَن يعرف إلى متى.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "آياتِنا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "نَرَ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس ثمّة"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نافيًا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "مَعنا"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "مَن يعرف"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מה",
+      "gloss": "متى"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:34.194138112Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 76,
+  "translation": "⟨قد⟩ عُرِف إلوهيم في يهودا، في يسرائيل اسمُه عظيم.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "عُرِف"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "في يهودا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "في يسرائيل"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيم"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمُه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:18.328546039Z",
+  "model": "glm-5.2"
+}

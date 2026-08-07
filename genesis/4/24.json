@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فإنَّ قايين يُنتقَمُ له سبعًا وسبعين. ولَمَك سبعين وسبعًا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "فإنَّ"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "سبعًا"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "يُنتقَمُ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قايين"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "ولَمَك"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "سبعين"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "وسبعًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:42.374325009Z",
+  "model": "glm-5.2"
+}

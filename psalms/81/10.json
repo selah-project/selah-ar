@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 81,
+  "translation": "لا يكون فيك إلٌ غريب، ولا تسجد لإلٍّ نكريّ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "בך",
+      "gloss": "فيك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلٌّ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "غريب"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "تسجد"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "لإلٍّ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "نكريّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:01:25.072180523Z",
+  "model": "glm-5.2"
+}

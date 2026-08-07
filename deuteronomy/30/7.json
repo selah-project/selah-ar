@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "ويعطي يهوه إلوهيمك ⟨את⟩ كلّ هذه اللعنات على أعدائك وعلى مبغضيك الذين طردوك.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ويعطي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ هذه اللعنات"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "هذه اللعنات"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "أعدائك"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "مبغضيك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "طردوك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:39.926115796Z",
+  "model": "glm-5.2"
+}

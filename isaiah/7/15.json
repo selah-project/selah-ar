@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "زُبدةً وعسلاً يأكلُ لِمعرفتِهِ رَفْضَ الشرّ واختيارَ الخير.",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "زُبدةً"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "وعسلاً"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يأكلُ"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "لِمعرفتِهِ"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "رَفْضَ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "واختيارَ"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "الخير"
+    }
+  ],
+  "timestamp": "2026-08-07T02:05:30.603619779Z",
+  "model": "glm-5.2"
+}

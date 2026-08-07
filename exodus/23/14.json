@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "ثلاثَ مرَّاتٍ تحتفلُ لي في السنة.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ثلاثَ"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "مرَّاتٍ"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "تحتفلُ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "في السنة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:45.420815804Z",
+  "model": "glm-5.2"
+}

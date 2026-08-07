@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 42:10",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "إن عائدًا تقيمون في الأرض هذه، فأبني ⟨את⟩كم ولا أهدِم، وأغرس ⟨את⟩كم ولا أقتلع، لأنّي نَدِمتُ على الشرّ الذي فعلتُه بكم.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "عائدًا"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "تقيمون"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "فأبني"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاكم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "אהרס",
+      "gloss": "أهدِم"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "وأغرس"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاكم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "אתוש",
+      "gloss": "أقتلع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "نَدِمتُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "على"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "فعلتُه"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بكم"
+    }
+  ],
+  "timestamp": "2026-08-07T07:48:46.209331619Z",
+  "model": "glm-5.2"
+}

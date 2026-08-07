@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "أنتَ يهوه إلى الأبد تجلس، كرسيُّك إلى جيلٍ فجيل",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "تجلس"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "كرسيُّك"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "إلى جيل"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "فجيل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:50:29.525306070Z",
+  "model": "glm-5.2"
+}

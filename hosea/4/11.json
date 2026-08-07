@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "الزِّنا والخمرُ والمصطارُ يأخذانِ القلبَ.",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "الزِّنا"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "والخمرُ"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "والمُصطارُ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "يأخذ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "القلبَ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:19:29.062854855Z",
+  "model": "glm-5.2"
+}

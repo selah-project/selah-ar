@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "أيضًا شهاداتُك متعتي، رجالُ مشورتي.",
+  "tokens": [
+    {
+      "surface": "גַּֽם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "עֵ֭דֹתֶיךָ",
+      "gloss": "شهاداتُك"
+    },
+    {
+      "surface": "שַׁעֲשֻׁעָ֗י",
+      "gloss": "متعتي"
+    },
+    {
+      "surface": "אַנְשֵׁ֥י",
+      "gloss": "رجالُ"
+    },
+    {
+      "surface": "עֲצָתִֽי",
+      "gloss": "مشورتي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:54.335402238Z",
+  "model": "glm-5.2"
+}

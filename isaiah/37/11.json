@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 37:11",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "ها أنت قد سمعت ما فعله ملوك آشور لكلّ الأراضي لِتُحْرَمَها، وأنت تُنقَذ؟",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "قد سمعت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "فعله"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ملوك"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "آشور"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لكلّ"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "الأراضي"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "لِتُحْرَمَها"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "وأنت"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "تُنقَذ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:16:33.961766714Z",
+  "model": "glm-5.2"
+}

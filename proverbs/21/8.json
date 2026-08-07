@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "مُنحرفٌ طريقُ إنسانٍ وزنيمٌ، وزاكيًّا مستقيمٌ عملُه.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "مُنحرفٌ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "طريقُ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "إنسانٍ"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "وزنيمٌ"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "وزاكيًّا"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "مستقيمٌ"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "عملُه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:51.757137044Z",
+  "model": "glm-5.2"
+}

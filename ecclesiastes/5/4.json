@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "خيرٌ ألّا تنذُر من أن تنذُر ولا تُتمّم.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "خيرٌ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ألّا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "تنذُر"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "من أن تنذُر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "تُتمّم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:41.917333859Z",
+  "model": "glm-5.2"
+}

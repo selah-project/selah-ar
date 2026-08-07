@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وأمّا من شجرةِ المعرفةِ خيرًا وشرًّا فلا تأكل منها، لأنّه في يومِ أكلكَ منها موتًا تموت».",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "وأمّا من شجرة"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "المعرفة"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خيرًا"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "وشرًّا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "تأكل"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منها"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "أكلك"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منها"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موتًا"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "تموت"
+    }
+  ],
+  "timestamp": "2026-08-06T23:36:04.710144676Z",
+  "model": "glm-5.2"
+}

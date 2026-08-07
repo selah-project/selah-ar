@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 27:5",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وتبني هناك مذبحًا ليهوه إلوهيمك، مذبحَ حجارة، لا ترفع عليهم حديدًا،",
+  "tokens": [
+    {
+      "surface": "ובנית",
+      "gloss": "وتبني"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبحًا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبحَ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "حجارة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "ترفع"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "حديدًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:25.085729110Z",
+  "model": "glm-5.2"
+}

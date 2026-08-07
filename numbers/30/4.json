@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 30:4",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وامرأةٌ إذا نذرت نذرًا ليهوه وألزمت إصرًا في بيت أبيها في حداثتها،",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "وامرأة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "نذرت"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذرًا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "ואסרה",
+      "gloss": "وألزمت"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "إصرًا"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في بيت"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "أبيها"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "في حداثتها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:27.833487557Z",
+  "model": "glm-5.2"
+}

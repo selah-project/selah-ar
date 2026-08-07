@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 5:12",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "كلّم بني يِسرائيل وقل لهم: رجلٌ رجلٌ إذا زاغت امرأته وقد خانته خيانةً",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "كلّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "وقل"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "תשטה",
+      "gloss": "زاغت"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "امرأته"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "وخانت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨فيه⟩"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "خيانةً"
+    }
+  ],
+  "timestamp": "2026-08-07T05:40:58.925421588Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 17:2",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وفعَل الشرّ في عيني يهوه، فقط لا كملوك يسرائيل الذين كانوا قبله.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وفعَل"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عيني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "רק",
+      "gloss": "فقط"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "כמלכי",
+      "gloss": "كملوك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "היו",
+      "gloss": "كانوا"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "قبله"
+    }
+  ],
+  "timestamp": "2026-08-07T01:59:28.789130794Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "أنا حَبَصْلَت هشارون، شوشانات هعماقيم.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "حَبَصْلَت"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "هشارون"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "شوشانات"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "هعماقيم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:45:04.516601090Z",
+  "model": "glm-5.2"
+}

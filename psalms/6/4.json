@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "ونَفسي قد اضطربت جدًّا، وأنتَ يا يهوه ⟨⟨את⟩⟩ حتى متى؟",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "ونَفسي"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "قد اضطربت"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "وأنتَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "متى"
+    }
+  ],
+  "timestamp": "2026-08-07T03:41:01.201198178Z",
+  "model": "glm-5.2"
+}

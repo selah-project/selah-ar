@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "لأنّه ⟨هو⟩ يتتبّع الدِّماء، فتذكّرهم؛ لا ينسى صراخ المساكين.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "يتتبّع"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "الدِّماء"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "هم (المنظورين)"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "فتذكّر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "ينسى"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "صراخ"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "المساكين"
+    }
+  ],
+  "timestamp": "2026-08-07T03:42:37.749638998Z",
+  "model": "glm-5.2"
+}

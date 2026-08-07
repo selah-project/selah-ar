@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 17:1",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "في سنةِ اثنتي عشرةَ لأحاز ملكِ يهودا، مَلَكَ هوشِيع بنُ إيلا في شومرون على يسرائيل تسعَ سنين.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "في سنة"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "اثنتي"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرة"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "لأحاز"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملَك"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "هوشِيع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "إيلا"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "في شومرون"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "تسع"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنين"
+    }
+  ],
+  "timestamp": "2026-08-07T01:59:28.788836006Z",
+  "model": "glm-5.2"
+}

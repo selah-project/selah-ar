@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وذهبَ يهوه حين أنهى الكلامَ إلى أفراهام، وأفراهام رجع إلى مكانه.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "وذهبَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "حين"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "أنهى"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "الكلامَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "وأفراهام"
+    },
+    {
+      "surface": "שב",
+      "gloss": "رجع"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "إلى مكانه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:51.716865852Z",
+  "model": "glm-5.2"
+}

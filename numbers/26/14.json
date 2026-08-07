@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "هذه مِشْبَاخُوت هَشِّمْعونيّ: اثنان وعشرون ألفًا ومئتان.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "مِشْبَاخُوت"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "هَشِّمْعونيّ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "اثنان"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "وعشرون"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ومئتان"
+    }
+  ],
+  "timestamp": "2026-08-07T00:40:13.493684535Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "وبقي يعقوف وحده، فصارع رجل ⟨معه⟩ حتى صعود الفجر.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "وبقي"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "وحده"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "فصارع"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨معه⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "صعود"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "الفجر"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:00.171950153Z",
+  "model": "glm-5.2"
+}

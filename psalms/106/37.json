@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 106,
+  "translation": "وذبحوا ⟨את⟩ بنيهم و⟨את⟩ بناتهم للشدّايم",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "وذبحوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بنيهم"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "بنيهم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بناتهم"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "بناتهم"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "للشدّايم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:19.881190633Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "مُصَفّاةٌ ⟨هي⟩ إمراتكَ جدًّا، وعبدها أحبَّها.",
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "مُصَفّاة"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "إمراتك"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "وعبدها"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "أحبَّها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:49.998371980Z",
+  "model": "glm-5.2"
+}

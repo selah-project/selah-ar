@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 107,
+  "translation": "أخرجهم من ظلام وظِلِّ الموت، وقيودهم قطّع.",
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "أخرجهم"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "من ظلام"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "وظِلِّ الموت"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "وقيودهم"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "قطّع"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:36.876966188Z",
+  "model": "glm-5.2"
+}

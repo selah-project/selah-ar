@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 42:27",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "وفتح واحدٌ فمه — لإعطاء علفٍ لحماره في المنزل — فرأى ⟨את⟩ فضّته، وهوذا هو في فم جرابه.",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "وفتح"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "واحدٌ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فمه"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "فمه"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "لإعطاء"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "علفٍ"
+    },
+    {
+      "surface": "לחמרו",
+      "gloss": "لحماره"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "في المنزل"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "فرأى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فضّته"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "فضّته"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وهوذا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "في فم"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "جرابه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:56:18.809795137Z",
+  "model": "glm-5.2"
+}

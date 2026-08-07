@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "وكلَّم موشيه ⟨את⟩ مواعيد يهوه إلى بني يسرائيل.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وكلَّم"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مواعيد يهوه"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "مواعيد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:26:29.448749547Z",
+  "model": "glm-5.2"
+}

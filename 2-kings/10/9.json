@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 10:9",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "و⟨كان⟩ في الصباح فخرج ووقف وقال لكل الشعب: «أنتم أبرياء. هأنذا تآمرت على سيّدي وقتلته، فمن ضرب ⟨את⟩ كل هؤلاء؟»",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "في الصباح"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "فخرج"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ووقف"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "צדקים",
+      "gloss": "أبرياء"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هأنذا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "קשרתי",
+      "gloss": "تآمرت"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سيّدي"
+    },
+    {
+      "surface": "ואהרגהו",
+      "gloss": "وقتلته"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ضرب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل هؤلاء"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    }
+  ],
+  "timestamp": "2026-08-07T01:56:06.527257054Z",
+  "model": "glm-5.2"
+}

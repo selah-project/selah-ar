@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وساءَ ذلك يونا رعًا عظيمًا، فحميَ ⟨له⟩.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "وساءَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "يونا"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "رعًا"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "عظيمًا"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "فحميَ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T03:28:31.769543293Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 61,
+  "translation": "لأنك صرت مَلجأً لي، برجَّ عِزٍّ من وجه عدُوّ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنك"
+    },
+    {
+      "surface": "היית",
+      "gloss": "صرت"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "مَلجأً"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "برجَّ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "عِزٍّ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجه"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "عدُوّ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:55:59.374636491Z",
+  "model": "glm-5.2"
+}

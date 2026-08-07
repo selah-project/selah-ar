@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "لا يدخل مجروحُ سحقةٍ ومقطوعُ عضوٍ في جماعةِ يهوه.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "يدخل"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "مجروح"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "سحقة"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "ومقطوع"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "عضو"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "في جماعة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:58:43.659673879Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 4:21",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فصعدت وأضجعته على سرير رجل إلوهيم، وأغلقت ⟨الباب⟩ خلفه وخرجت.",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "فصعدت"
+    },
+    {
+      "surface": "ותשכבהו",
+      "gloss": "وأضجعته"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "سرير"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "وأغلقت"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "خلفه"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "وخرجت"
+    }
+  ],
+  "timestamp": "2026-08-07T05:52:01.705764723Z",
+  "model": "glm-5.2"
+}

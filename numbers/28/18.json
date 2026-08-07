@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "في اليوم الأول ⟨هو⟩ نداءٌ مقدَّس، كلَّ عملِ خدمةٍ لا تصنعوه.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "في اليوم"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "الأول"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "نداء"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدَّس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "عملِ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "خدمةٍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "تصنعوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:14.459355759Z",
+  "model": "glm-5.2"
+}

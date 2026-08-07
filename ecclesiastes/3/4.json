@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وقتٌ للبُكاء، ووقتٌ للضَّحك؛ وقتٌ للنَّوح، ووقتٌ للرَّقص.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "للبكاء"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ووقت"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "للضحك"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "للنوح"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ووقت"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "للرقص"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:20.702336838Z",
+  "model": "glm-5.2"
+}

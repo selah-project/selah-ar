@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "بَنُو موشيه: جيرشوم وإيليعازر.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بَنُو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "جيرشوم"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "وإيليعازر"
+    }
+  ],
+  "timestamp": "2026-08-07T05:17:55.350190028Z",
+  "model": "glm-5.2"
+}

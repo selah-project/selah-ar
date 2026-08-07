@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 17:7",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وعصا رمحه كنول النسّاجين، ولهيب رمحه ست مئة شاقل حديد، وحامل الترس يمشي أمامه.",
+  "tokens": [
+    {
+      "surface": "וחץ",
+      "gloss": "وعصا"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "رمحه"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "كنول"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "النسّاجين"
+    },
+    {
+      "surface": "ולהבת",
+      "gloss": "ولهب"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "رمحه"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ست"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شاقل"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "حديد"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "وحامل"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "الترس"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "يمشي"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمامه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:26:10.624323493Z",
+  "model": "glm-5.2"
+}

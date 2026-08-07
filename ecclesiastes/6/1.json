@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "يوجد شرّ رأيته تحت الشمس، وعظيم ⟨هو⟩ على الإنسان:",
+  "tokens": [
+    {
+      "surface": "יֵשׁ",
+      "gloss": "يوجد"
+    },
+    {
+      "surface": "רָעָה",
+      "gloss": "شرّ"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "רָאִיתִי",
+      "gloss": "رأيته"
+    },
+    {
+      "surface": "תַּחַת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "הַשָּׁמֶשׁ",
+      "gloss": "الشمس"
+    },
+    {
+      "surface": "וְרַבָּה",
+      "gloss": "وعظيم"
+    },
+    {
+      "surface": "הִיא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "على"
+    },
+    {
+      "surface": "הָאָדָם",
+      "gloss": "الإنسان"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:46.181440184Z",
+  "model": "glm-5.2"
+}

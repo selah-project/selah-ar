@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 32:19",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "فتقول لعبيدك: ليعقوف، ⟨هي⟩ تقدمةٌ مرسلةٌ لسيّدي لعيسو، وها هو أيضًا وراءنا.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "فتقول"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "لعبدك"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ليعقوف"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "تقدمةٌ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هي⟩"
+    },
+    {
+      "surface": "שלוחה",
+      "gloss": "مرسلةٌ"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "لسيّدي"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "لعيسو"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وها"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "אחרינו",
+      "gloss": "وراءنا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:43.258438018Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 135:19",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 135,
+  "translation": "بيت يِسرائِيل، بارِكوا ⟨את⟩ يهوه؛ بيت أهارون، بارِكوا ⟨את⟩ يهوه.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائِيل"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "بارِكوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "بارِكوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:16:26.730558136Z",
+  "model": "glm-5.2"
+}

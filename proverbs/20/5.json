@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 20:5",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "مياهٌ عميقةٌ المشورةُ في قلبِ رجل، ورجلُ التَّبُّونةِ ⟨هو⟩ يَستخرجُها.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "مياه"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "عميقة"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "المشورة"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "في قلب"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ورجل"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "التَّبُّونة"
+    },
+    {
+      "surface": "ידלנה",
+      "gloss": "يَستخرجُها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:29.587295176Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وأعطي ⟨את⟩ حِن ⟨هذا⟩ الشعب في عيني مصرايم، و⟨يكون⟩ حين تمضون لا تمضون فارغين،",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "وأعطي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حِن"
+    },
+    {
+      "surface": "חן",
+      "gloss": "حِن"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عيني"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و⟨يكون⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "حين"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "تمضون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "تمضون"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "فارغين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:10.149308399Z",
+  "model": "glm-5.2"
+}

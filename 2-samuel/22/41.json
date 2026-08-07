@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "2-samuel 22:41",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "«وأعدائي جعلتَ لي قفًا، ومبغضيَّ أفنيهم»",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "«وأعدائي"
+    },
+    {
+      "surface": "תתה",
+      "gloss": "جعلتَ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "قفًا"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "ومبغضيَّ"
+    },
+    {
+      "surface": "ואצמיתם",
+      "gloss": "أفنيهم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:40:46.272563269Z",
+  "model": "glm-5.2"
+}

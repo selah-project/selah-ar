@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "فنزل إخوة يوسف عشرة لِيَشبروا بَرًّا من مصرايم.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "فنزل"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "إخوة"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرة"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ليَشبروا"
+    },
+    {
+      "surface": "בר",
+      "gloss": "بَرًّا"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "من مصرايم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:43.747268209Z",
+  "model": "glm-5.2"
+}

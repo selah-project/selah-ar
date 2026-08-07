@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "عن كل طريق رَدِيء كَلَّيْتُ قدمَيّ، لِكَي أحفظ كلمتَك.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "عن كل"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "طريق"
+    },
+    {
+      "surface": "רע",
+      "gloss": "رَدِيء"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "كَلَّيْتُ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "قدمَيّ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لِكَي"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "أحفظ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "كلمتَك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:15.266936016Z",
+  "model": "glm-5.2"
+}

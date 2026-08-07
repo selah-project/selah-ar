@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "لِيُقبِّلني مِن نَشيقوت فِيهو، لأنّ طوبيم دُوديكا مِن ياين.",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "لِيُقبِّلني"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "مِن قُبَلات"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "فِيهو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "أطيب"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "دُوديكا"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "مِن خمر"
+    }
+  ],
+  "timestamp": "2026-08-07T06:10:31.244819915Z",
+  "model": "glm-5.2"
+}

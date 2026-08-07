@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "كلّنا بنو رجلٍ واحدٍ نحن؛ صادقون نحن؛ لم يكونوا عبيدك متجسّسين».",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "كلّنا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "نحن"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "صادقون"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "نحن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "היו",
+      "gloss": "كانوا"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "عبيدك"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "متجسّسين"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:39.439224383Z",
+  "model": "glm-5.2"
+}

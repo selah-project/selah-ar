@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 1:28",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فأجاب الملك داوِد وقال: «ادعوا لي بَت شابع». فدخلت أمام الملك ووقفت أمام الملك.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "فأجاب"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ادعوا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "بَت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شابع"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "فدخلت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ووقفت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:42:30.797695654Z",
+  "model": "glm-5.2"
+}

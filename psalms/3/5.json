@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "صوتي إلى يهوه أصرخ، فيُجيبني من جبل قدسه. سيلاه",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "صوتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "أصرخ"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "فيُجيبني"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "من جبل"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "قدسه"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سيلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:40:45.271834471Z",
+  "model": "glm-5.2"
+}

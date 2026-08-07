@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 2:5",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فدعوا اسم المكان ذلك بوكيم، وذبحوا هناك ليهوه.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "فدعوا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "المكان"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "בכים",
+      "gloss": "بوكيم"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "وذبحوا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:12:29.799534921Z",
+  "model": "glm-5.2"
+}

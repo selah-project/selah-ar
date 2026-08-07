@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "رأيتُ ⟨את⟩ الشغلَ الذي أعطاه إلوهيم لبني الإنسان لِيُشغلوا به.",
+  "tokens": [
+    {
+      "surface": "רָאִ֣יתִי",
+      "gloss": "رأيتُ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "الشغل"
+    },
+    {
+      "surface": "הָֽעִנְיָ֗ן",
+      "gloss": "الشغل"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "נָתַ֧ן",
+      "gloss": "أعطاه"
+    },
+    {
+      "surface": "אֱלֹהִ֛ים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "לִבְנֵ֥י",
+      "gloss": "لبني"
+    },
+    {
+      "surface": "הָאָדָ֖ם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "לַעֲנ֥וֹת",
+      "gloss": "ليُشغلوا"
+    },
+    {
+      "surface": "בּֽוֹ",
+      "gloss": "به"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:04.024948067Z",
+  "model": "glm-5.2"
+}

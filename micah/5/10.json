@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 5:10",
+  "book": "micah",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "«وأقطع مدن أرضك، وأهدم كل حصونك،",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "وأقطع"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "أرضك"
+    },
+    {
+      "surface": "והרסתי",
+      "gloss": "وأهدم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "מבצריך",
+      "gloss": "حصونك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:28:07.285567729Z",
+  "model": "glm-5.2"
+}

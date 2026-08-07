@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 6:4",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "كلَّ أيّام تفرّده، من كلِّ ما يُصنع من جفنة الخمر، من الحصرنات وإلى القشر لا يأكل.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "تفرّده"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كلِّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يُصنع"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "من جفنة"
+    },
+    {
+      "surface": "היין",
+      "gloss": "الخمر"
+    },
+    {
+      "surface": "מחרצנים",
+      "gloss": "من الحصرنات"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "זג",
+      "gloss": "القشر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يأكل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:30:29.650502315Z",
+  "model": "glm-5.2"
+}

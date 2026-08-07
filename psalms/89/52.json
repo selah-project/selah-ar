@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "الذي عيّروه أعداؤك يا يهوه، الذي عيّروا آثار ماشيحك.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "عيّروه"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "أعداؤك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "عيّروا"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "آثار"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "ماشيحك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:41.275267721Z",
+  "model": "glm-5.2"
+}

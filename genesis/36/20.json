@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "هؤلاء بنو سَعير الحُوري، سُكّان الأرض: لوطان، وشوبال، وصبعون، وعَنا.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سَعير"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "الحُوري"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "سُكّان"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوطان"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "وشوبال"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "وصبعون"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "وعَنا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:48:11.321969621Z",
+  "model": "glm-5.2"
+}

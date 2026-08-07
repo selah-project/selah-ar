@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فأجاب الهاستان ⟨את⟩ يهوه وقال: جلدٌ مقابل جلد، وكلُّ ما للإنسان يُعطيه مقابل نَفسِه.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "فأجاب"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "الهاستان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "עור",
+      "gloss": "جلد"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "مقابل"
+    },
+    {
+      "surface": "עור",
+      "gloss": "جلد"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلُّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "للإنسان"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "يُعطيه"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "مقابل"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نَفسِه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:32:10.367456871Z",
+  "model": "glm-5.2"
+}

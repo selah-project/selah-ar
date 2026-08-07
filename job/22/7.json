@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "لا ماءً تُسقي المُنهَك، ومن الجائع تمنع خبزًا.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماءً"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "المُنهَك"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "تُسقي"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "ومن الجائع"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "تمنع"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:38:31.190356915Z",
+  "model": "glm-5.2"
+}

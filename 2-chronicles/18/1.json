@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 18:1",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "و⟨كان⟩ ليهوشافاط ثروةٌ ومجدٌ بكثرة، فتحالف بالمصاهرة مع أخآب.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "ليهوشافاط"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ثروةٌ"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ومجدٌ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "بكثرة"
+    },
+    {
+      "surface": "ויתחתן",
+      "gloss": "فتحالف بالمصاهرة"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "مع أخآب"
+    }
+  ],
+  "timestamp": "2026-08-07T05:27:02.068961286Z",
+  "model": "glm-5.2"
+}

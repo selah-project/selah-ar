@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 12:12",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "لا تكن أرجوك كالميّت الذي عند خروجه من رحم أمّه يُؤكل نصف لحمه.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "أرجوك"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "تكن"
+    },
+    {
+      "surface": "כמת",
+      "gloss": "كالميّت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "عند خروجه"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "من رحم"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "أمّه"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "يُؤكل"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "نصف"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "لحمه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:34:58.430232152Z",
+  "model": "glm-5.2"
+}

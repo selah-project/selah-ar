@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "و⟨قال⟩ لهنّ: رأيةً أنا ⟨את⟩ وجه أبيكنّ أنّه ليس نحوي كأمسِ أولَ من أمسِ، وإلوهيم أبي ⟨كان⟩ معي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و⟨قال⟩"
+    },
+    {
+      "surface": "להן",
+      "gloss": "لهنّ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "رأيةً"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وجه أبيكنّ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "أبيكنّ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "نحوي"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "كأمسِ"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "أولَ من أمسِ"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "وإلوهيم"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨كان⟩"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "معي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:05.615356360Z",
+  "model": "glm-5.2"
+}

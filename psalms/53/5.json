@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 53,
+  "translation": "هَلْ لا يَعْلَمُونَ فاعِلو الآثام؟ آكِلو شَعْبي أَكَلوا خُبزًا، إلوهيمَ لم يُنادوا.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "هل لا"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "علموا"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "فاعلو"
+    },
+    {
+      "surface": "און",
+      "gloss": "الآثام"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "آكلو"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "شعبي"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "أكلوا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "نادوا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:38.746023866Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "كل اللاويين ⟨في⟩ المدينة المقدّسة ⟨كانوا⟩ مئتين وثمانين وأربعة.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "اللاويين"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "في المدينة"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "المقدّسة"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "مئتين"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "وثمانين"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "وأربعة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:08:31.426500981Z",
+  "model": "glm-5.2"
+}

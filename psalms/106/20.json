@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 106,
+  "translation": "فبادلوا ⟨את⟩ مجدَهم بصورةِ ثورٍ آكلٍ عُشب.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "فبادلوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مجدَهم"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "مجدهم"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "بصورة"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ثور"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "آكل"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "عُشب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:11.728359940Z",
+  "model": "glm-5.2"
+}

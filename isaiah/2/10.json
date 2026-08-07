@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "ادخل في الصخر واختبئ في التراب، من أمام رُعْب يهوه ومن بهاء جآونه",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "ادخل"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "في الصخر"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "واختبئ"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "في التراب"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من أمام"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "رُعْب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "ومن بهاء"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "جآونه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:03:27.938602376Z",
+  "model": "glm-5.2"
+}

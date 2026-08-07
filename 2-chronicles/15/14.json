@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 15:14",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وأقسموا ليهوه بصوت عظيم وهتاف وبالأبواق وبالشوفارات.",
+  "tokens": [
+    {
+      "surface": "וישבעו",
+      "gloss": "وأقسموا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "بصوت"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيم"
+    },
+    {
+      "surface": "ובתרועה",
+      "gloss": "وهتاف"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "وبالأبواق"
+    },
+    {
+      "surface": "ובשופרות",
+      "gloss": "وبالشوفارات"
+    }
+  ],
+  "timestamp": "2026-08-07T05:26:13.671423838Z",
+  "model": "glm-5.2"
+}

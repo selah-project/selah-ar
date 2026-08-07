@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "مَنقوش لداوِد. احفظني يا إيل لأنّي احتميت بك.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "مَنقوش"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لداوِد"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "احفظني"
+    },
+    {
+      "surface": "אל",
+      "gloss": "يا إيل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "احتميت"
+    },
+    {
+      "surface": "בך",
+      "gloss": "بك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:43:26.622858580Z",
+  "model": "glm-5.2"
+}

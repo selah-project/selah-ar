@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 11:11",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وهذا عدد الجبّارين الذين لداوود: ياشوبعام بن حكموني، رأس الثلاثين، هو رفع ⟨את⟩ رُمحه على ثلاث مئة صريع، دفعةً واحدة.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "وهذا"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "عدد"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "الجبّارين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "لداوود"
+    },
+    {
+      "surface": "ישבעם",
+      "gloss": "ياشوبعام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "חכמוני",
+      "gloss": "حكموني"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأس"
+    },
+    {
+      "surface": "השלושים",
+      "gloss": "الثلاثين"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "עורר",
+      "gloss": "رفع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رُمحه"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "رُمحه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ثلاث"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "صريع"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "دفعةً"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "واحدة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:14:22.364023941Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 52,
+  "translation": "الهلاك يُدبِّره لسانُك، مثل موسىً مصقول، صانع غدر.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "الهلاك"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "يُدبِّر"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "لسانُك"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "مثل موسىً"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "مصقول"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صانع"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "غدر"
+    }
+  ],
+  "timestamp": "2026-08-07T03:53:56.352394612Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 103,
+  "translation": "باركي يا نفسي ⟨את⟩ يهوه، ولا تنسي كلّ جزائه.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "باركي"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "يا نفسي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "تنسي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "جزائه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:06:06.667724373Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 31:26",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "إن رأيتُ نورًا إذ لمع، والقمر الكريم يسير،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "رأيتُ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "نورًا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذ"
+    },
+    {
+      "surface": "יהל",
+      "gloss": "لمع"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "والقمر"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "الكريم"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "يسير"
+    }
+  ],
+  "timestamp": "2026-08-07T04:40:48.806002839Z",
+  "model": "glm-5.2"
+}

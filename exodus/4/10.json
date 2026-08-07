@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 4:10",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وقال موشيه ليهوه: «آه، أدوناي، لستُ رجلَ كلماتٍ أنا، لا من أمس ولا من أول أمس، ولا منذ كلّمتَ عبدك، لأنّي ثقيل الفمِ وثقيل اللسان أنا».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בי",
+      "gloss": "آه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لستُ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلَ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "كلماتٍ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "لا"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "من أمس"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "משלשם",
+      "gloss": "من أول أمس"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "منذ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "كلّمتَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ثقيل"
+    },
+    {
+      "surface": "פה",
+      "gloss": "الفمِ"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "وثقيل"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "اللسان"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:01:10.195769140Z",
+  "model": "glm-5.2"
+}

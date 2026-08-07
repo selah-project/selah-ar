@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 3:19",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "بعرَقِ وجهِك تأكلُ خبزًا حتّى تعودَ إلى الأرضِ التي مِنها أُخذتَ، لأنّك ترابٌ وإلى ترابٍ تعود.",
+  "tokens": [
+    {
+      "surface": "בזעת",
+      "gloss": "بعرَق"
+    },
+    {
+      "surface": "אפיך",
+      "gloss": "وجهِك"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "تأكل"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتّى"
+    },
+    {
+      "surface": "שובך",
+      "gloss": "عودتك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "כי",
+      "gloss": "التي"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "مِنها"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "أُخذتَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّك"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "تراب"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨أنت⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "تراب"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "تعود"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:39.278127468Z",
+  "model": "glm-5.2"
+}

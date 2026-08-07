@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "فعصى يسرائيلُ بيتَ داودَ إلى هذا اليوم.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "فعصى"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيلُ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بيتَ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داودَ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "היום",
+      "gloss": "هذا اليوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:47:09.642635675Z",
+  "model": "glm-5.2"
+}

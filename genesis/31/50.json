@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 31:50",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "إن كنتَ تُضايق ⟨את⟩ بناتي، وإن كنتَ تأخذ نساءً على بناتي، فلا رجلَ معنا — انظر، إلوهيم شاهدٌ بيني وبينك.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "تُضايق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بناتي"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "بناتي"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "تأخذ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "نساءً"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "بناتي"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلَ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "معنا"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "انظر"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شاهدٌ"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "بيني"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "وبينك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:28.079403498Z",
+  "model": "glm-5.2"
+}

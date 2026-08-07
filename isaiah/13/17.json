@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "هأنذا أُهيج عليهم ⟨את⟩ ماداي الذين فضّةً لا يُحسبونها وذهبًا لا يَشتَهونه.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "هأنذا"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "أُهيج"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماداي"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ماداي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضّةً"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "يُحسبونها"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "وذهبًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "يَشتَهون"
+    },
+    {
+      "surface": "בו",
+      "gloss": "إيّاه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:07:14.438666257Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "و⟨את⟩ كلَّ مدنهم ⟨في⟩ مستوطناتهم و⟨את⟩ كلَّ حصونهم أحرقوها بالنار.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "مدنهم"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "⟨في⟩ مستوطناتهم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "حصونهم"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "أحرقوها"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بالنار"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:58.160457728Z",
+  "model": "glm-5.2"
+}

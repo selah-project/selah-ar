@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "لا يُقتَلُ آباءٌ عن بَنين، وبنون لا يُقتَلون عن آباء؛ كل واحد في خطيئته يُقتَلون.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יוּמְתוּ",
+      "gloss": "يُقتَلُ"
+    },
+    {
+      "surface": "אָבוֹת",
+      "gloss": "آباءٌ"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "عن"
+    },
+    {
+      "surface": "בָּנִים",
+      "gloss": "بنين"
+    },
+    {
+      "surface": "וּבָנִים",
+      "gloss": "وبنون"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יוּמְתוּ",
+      "gloss": "يُقتَلون"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "عن"
+    },
+    {
+      "surface": "אָבוֹת",
+      "gloss": "آباء"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "كل واحد"
+    },
+    {
+      "surface": "בְּחֶטְאוֹ",
+      "gloss": "في خطيئته"
+    },
+    {
+      "surface": "יוּמָתוּ",
+      "gloss": "يُقتَلون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:58:48.559706554Z",
+  "model": "glm-5.2"
+}

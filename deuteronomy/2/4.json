@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "و⟨את⟩ الشعب أوصِ قائلًا: أنتم عابرون في تخوم إخوتكم بني عيسو الساكنين في سعير، فيخافون منكم، فاحترسوا جدًّا.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "צו",
+      "gloss": "أوصِ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "عابرون"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "في تخوم"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "إخوتكم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "الساكنين"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "في سعير"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "فيخافون"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "منكم"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "فاحترسوا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:37.336647290Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 15:7",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وخمرًا للسكيب، ثلث الهِن، تُقرِّب، رائحةَ رضا ليهوه.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "وخمرًا"
+    },
+    {
+      "surface": "לנסך",
+      "gloss": "للسكيب"
+    },
+    {
+      "surface": "שלשית",
+      "gloss": "ثلث"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "الهِن"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "تُقرِّب"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "رائحة"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "رضا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:36:09.827386160Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "وليُخبِرنا يهوه إلوهيمك ⟨את⟩ الطريق التي نسلكها، و⟨את⟩ الأمر الذي نفعله.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "وليُخبِر"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الطريق"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "الطريق"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "نسلكها"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الأمر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "نفعله"
+    }
+  ],
+  "timestamp": "2026-08-07T05:55:54.581779637Z",
+  "model": "glm-5.2"
+}

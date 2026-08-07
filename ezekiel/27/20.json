@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 27:20",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "دَدانُ متاجِرَتُكِ في ثيابِ فُرُشٍ للرُّكوب.",
+  "tokens": [
+    {
+      "surface": "דדן",
+      "gloss": "دَدانُ"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "متاجِرَتُكِ"
+    },
+    {
+      "surface": "בבגדי",
+      "gloss": "في ثيابِ"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "فُرُشٍ"
+    },
+    {
+      "surface": "לרכבה",
+      "gloss": "للرُّكوب"
+    }
+  ],
+  "timestamp": "2026-08-07T03:06:23.431160910Z",
+  "model": "glm-5.2"
+}

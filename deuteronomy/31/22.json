@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "فكتب موشيه ⟨את⟩ هذه التسابيح في ذلك اليوم وعلّمها ⟨لـ⟩بني يسرائيل",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "فكتب"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هذه التسابيح"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "التسابيح"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "وعلّمها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨إلى⟩",
+      "marks": "بني"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:01:31.516352815Z",
+  "model": "glm-5.2"
+}

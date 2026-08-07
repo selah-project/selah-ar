@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 5:7",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وإذا قُرصُ رصاصٍ مرفوعٌ، وهذه امرأةٌ واحدةٌ جالسةٌ في وسط الإيفة",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "قُرص"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "رصاص"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "مرفوعٌ"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "وهذه"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "واحدة"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "جالسة"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "الإيفة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:35:43.601679112Z",
+  "model": "glm-5.2"
+}

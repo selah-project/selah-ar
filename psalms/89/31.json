@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "إن ترك بنوه توراتي، و⟨في⟩ أحكامي لا يسلكون،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "ترك"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "بنوه"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "توراتي"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "و⟨في⟩ أحكامي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "يسلكون"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:21.970326003Z",
+  "model": "glm-5.2"
+}

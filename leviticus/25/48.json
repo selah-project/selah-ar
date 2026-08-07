@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 25:48",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "بعد بَيعه يكون له حقُّ فداء؛ واحدٌ مِن إخوته يفديه.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "بَيعه"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "حقُّ فداء"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدٌ"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "مِن إخوته"
+    },
+    {
+      "surface": "יגאלנו",
+      "gloss": "يفديه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:26:50.687384870Z",
+  "model": "glm-5.2"
+}

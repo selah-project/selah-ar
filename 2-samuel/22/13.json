@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 22:13",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "من البريق أمامه اشتعلت جمرات نار.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "من البريق"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "أمامه"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "اشتعلت"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "جمرات"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نار"
+    }
+  ],
+  "timestamp": "2026-08-07T01:40:34.435280197Z",
+  "model": "glm-5.2"
+}

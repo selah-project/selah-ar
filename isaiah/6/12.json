@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "ويُبعد يهوه ⟨את⟩ الإنسان، وتَكثر المَتروكة في وسط الأرض.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "ويُبعد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الإنسان"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "وتَكثر"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "المتروكة\/المُهجَرة"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T02:05:53.332243689Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 6:12",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "حينئذٍ اجتمع هؤلاء الرجال ووجدوا دانييل يطلب ويتضرّع أمام إلِهه.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "حينئذٍ"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "الرجال"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "הרגשו",
+      "gloss": "اجتمع"
+    },
+    {
+      "surface": "והשכחו",
+      "gloss": "ووجدوا"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "دانييل"
+    },
+    {
+      "surface": "בעא",
+      "gloss": "يطلب"
+    },
+    {
+      "surface": "ומתחנן",
+      "gloss": "ويتضرّع"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "אלהה",
+      "gloss": "إلِهه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:58:41.808530491Z",
+  "model": "glm-5.2"
+}

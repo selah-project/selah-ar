@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فقام وجاء وسار إلى شومرون، هو في بيت-عاقِد الرُّعاة على الطريق.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "فقام"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "وسار"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "إلى شومرون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "في بيت"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "-عاقِد"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "الرُّعاة"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "على الطريق"
+    }
+  ],
+  "timestamp": "2026-08-07T01:56:06.527767994Z",
+  "model": "glm-5.2"
+}

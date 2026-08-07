@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "يفرح جبل صهيون، تبتهج بنات يهودا، من أجل أحكامك.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "يفرح"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "تبتهج"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "بنات"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "למען",
+      "gloss": "من أجل"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "أحكامك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:50.615226849Z",
+  "model": "glm-5.2"
+}

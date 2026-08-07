@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 9:5",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وجاء بيتَ أبيه عفرتة، وقتل ⟨את⟩ إخوته بني يَروبَعل، سبعين رجلاً على حجر واحد، وبقي يوتام بن يَروبَعل الأصغر لأنه اختبأ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "עפרתה",
+      "gloss": "عفرتة"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "وقتل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "إخوته"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "إخوته"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "يَروبَعل"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "سبعين"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلاً"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "حجر"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "ויותר",
+      "gloss": "وبقي"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "يوتام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "يَروبَعل"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "الأصغر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "נחבא",
+      "gloss": "اختبأ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:15:27.636736308Z",
+  "model": "glm-5.2"
+}

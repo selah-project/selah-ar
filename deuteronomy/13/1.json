@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "⟨את⟩ كل الكلمة التي أنا أوصيكم إيّاها تحفظون لتعملوها، لا تزيدون عليها ولا تنقصون منها",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل الكلمة"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الكلمة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "أوصي"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "إيّاكم"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "إيّاها"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "تحفظون"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "لتعملوها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "تزيدون"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليها"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "تنقصون"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:55.084196310Z",
+  "model": "glm-5.2"
+}

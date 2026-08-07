@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 68:14",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 68,
+  "translation": "أإن تبيتون بين حظائر، كجناحي حمامة مُغشًّى بفضّة، وريشُها بصفرة ذهبٍ.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "أإن"
+    },
+    {
+      "surface": "תשכבון",
+      "gloss": "تبيتون"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "حظائر"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "كجناحي"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "حمامة"
+    },
+    {
+      "surface": "נחפה",
+      "gloss": "مُغشًّى"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "بفضّة"
+    },
+    {
+      "surface": "ואברותיה",
+      "gloss": "وريشُها"
+    },
+    {
+      "surface": "בירקרק",
+      "gloss": "بصفرة"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "ذهبٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:58:07.085758660Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وجاء موشيه فدعا لشيوخ الشعب، ووضع أمامهم ⟨את⟩ كل هذه الكلمات التي أوصاه بها يهوه.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "فدعا"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "لشيوخ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ووضع"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "أمامهم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل هذه الكلمات"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "هذه الكلمات"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "أوصاه بها"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:29.202671206Z",
+  "model": "glm-5.2"
+}

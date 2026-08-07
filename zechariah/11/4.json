@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "هكذا قال يهوه إلهي: اِرعَ ⟨את⟩ قطيعَ الذَّبح.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلهي"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "اِرعَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قطيعَ الذبح"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "قطيعَ"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "الذَّبح"
+    }
+  ],
+  "timestamp": "2026-08-07T03:37:51.189707115Z",
+  "model": "glm-5.2"
+}

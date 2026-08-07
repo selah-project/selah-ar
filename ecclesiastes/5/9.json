@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "مُحِبُّ الفضّة لا يَشبَعُ فضّةً، ومَن يُحِبُّ الثَّراء لا ⟨تكونُ⟩ له غلّة. هذا أيضًا هافل.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "مُحِبُّ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "الفضّة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "يَشبَعُ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضّةً"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ومَن"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "يُحِبُّ"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "الثَّراء"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "غلّة"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هافل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:02.247404925Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وتحفظون ⟨את⟩ حراسة القدس و⟨את⟩ حراسة المذبح، فلا يكون بعدُ سخطٌ على بني يسرائيل.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "وتحفظون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حراسة القدس"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "حراسة"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "القدس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "حراسة المذبح"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "حراسة"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعدُ"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "سخط"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:37:25.916349088Z",
+  "model": "glm-5.2"
+}

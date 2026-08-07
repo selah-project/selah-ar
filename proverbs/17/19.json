@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 17:19",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "مُحِبّ الذنبّ يُحِبّ الخصام، ومُرتّع بابه يطلبُ الكسر.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "مُحِبّ"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "الذنب"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "يُحِبّ"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "الخصام"
+    },
+    {
+      "surface": "מגביה",
+      "gloss": "ومُرتّع"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "بابه"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "يطلب"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "الكسر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:28.232911720Z",
+  "model": "glm-5.2"
+}

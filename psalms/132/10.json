@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 132,
+  "translation": "من أجل دافيد عبدك لا تَرُدَّ وجه ماشيحَك.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "من أجل"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "دافيد"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "تَرُدَّ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "ماشيحَك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:16:19.890474702Z",
+  "model": "glm-5.2"
+}

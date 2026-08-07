@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 10:23",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فٱعظُمَالملكُ شلوموعنكلِّملوكِالأرضِفيالثروةِوفيالحكمةِ",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "فٱعظُمَ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملكُ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "عن"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ملوكِ"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "الأرضِ"
+    },
+    {
+      "surface": "ולחכמה",
+      "gloss": "في"
+    }
+  ],
+  "timestamp": "2026-08-07T01:46:58.885347770Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وأغلظ فرعوه ⟨את⟩ قلبه أيضًا هذه المرّة، ولم يُطلق ⟨את⟩ الشعب.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "وأغلظ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قلبه"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "قلبه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "المرّةَ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "يُطلق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:20.022386274Z",
+  "model": "glm-5.2"
+}

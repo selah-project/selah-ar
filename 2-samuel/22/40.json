@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-samuel 22:40",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وأنتَ تُحزِمُني قوّةً للحرب، تُخضِعُ قوّامي تحتي.",
+  "tokens": [
+    {
+      "surface": "ותזרני",
+      "gloss": "تُحزِمُني"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "قوّةً"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "للحرب"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "تُخضِعُ"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "قوّامي"
+    },
+    {
+      "surface": "תחתני",
+      "gloss": "تحتي"
+    }
+  ],
+  "timestamp": "2026-08-07T05:48:29.477911780Z",
+  "model": "glm-5.2"
+}

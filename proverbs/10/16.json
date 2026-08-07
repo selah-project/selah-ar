@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "عَمَلُ الصِّدِّيقِ للحياة، ودَخْلُ الرّاشِعِ للخطيئة.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "عَمَلُ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "الصِّدِّيقِ"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "للحياة"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ودَخْلُ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "الرّاشِعِ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "للخطيئة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:24:44.500338337Z",
+  "model": "glm-5.2"
+}

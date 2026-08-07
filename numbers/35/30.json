@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "كلُّ ضاربِ نَفْسٍ على فمِ شهودٍ يُقتُلُ ⟨את⟩ القاتل، وشاهدٌ واحدٌ لا يُشهَدُ في نَفْسٍ للموت.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ضارب"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْس"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "على فم"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "شهود"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "يُقتُل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "القاتل"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "القاتل"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وشاهد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "يُشهَد"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "في نَفْس"
+    },
+    {
+      "surface": "למות",
+      "gloss": "للموت"
+    }
+  ],
+  "timestamp": "2026-08-07T00:45:14.648321977Z",
+  "model": "glm-5.2"
+}

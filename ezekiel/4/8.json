@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 4:8",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وهاءَنذا قد جعلتُ عليك قُيودًا، فلا تنقلب من جانبك إلى جانبك حتّى تُتمِّم أيّام حصارك.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "وهاءَنذا"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "قد جعلتُ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "عليك"
+    },
+    {
+      "surface": "עבותים",
+      "gloss": "قُيودًا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "תהפך",
+      "gloss": "تنقلب"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "من جانبك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "צדך",
+      "gloss": "جانبك"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتّى"
+    },
+    {
+      "surface": "כלותך",
+      "gloss": "تُتمِّم"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "מצורך",
+      "gloss": "حصارك"
+    }
+  ],
+  "timestamp": "2026-08-07T02:55:55.903023612Z",
+  "model": "glm-5.2"
+}

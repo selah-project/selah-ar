@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 87,
+  "translation": "أُذكِّرُ راهَبَ وبافِلَ بينَ عارِفيّ، ها فِلِشْتُ وصورُ معَ كوشَ، هذا وُلِدَ هناك.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "أُذكِّر"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "راهب"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "وبافل"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "بين عارفيّ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "فِلِشت"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "وصور"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "كوش"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "وُلِد"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:01.527211738Z",
+  "model": "glm-5.2"
+}

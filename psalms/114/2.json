@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 114,
+  "translation": "صارت يهوداه لقدسه، يسرايل لممالكه،",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "صارت"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوداه"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "لقدسه"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "لممالكه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:47.456788412Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "ووجعلهت جلود جديان المعز على يديه وعلى مَلْساءِ عنقه.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ووجعلهت"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "جلود"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "جديان"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "المَعز"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "ألبست"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "يديه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "مَلْساءِ"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "عنقه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:15.939369187Z",
+  "model": "glm-5.2"
+}

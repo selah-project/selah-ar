@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 25:22",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "فضُرِبَت يهوداه أمام إسرايل، وهرب كل واحد إلى خيامه.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "فضُرِبَت"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوداه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرايل"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "وهرب"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كل واحد"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "إلى خيامه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:29:38.449215751Z",
+  "model": "glm-5.2"
+}

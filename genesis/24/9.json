@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فوضع العبد ⟨את⟩ يده تحت فخذ أفراهام سيّده، وحلف له على هذا الأمر.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "فوضع"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "العبد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يده"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "فخذ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "سيّده"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "وحلف"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:34:00.858729410Z",
+  "model": "glm-5.2"
+}

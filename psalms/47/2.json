@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 47,
+  "translation": "كلُّ الشعوب صفّقوا الكفّ، اهتفوا لإلوهيم بصوت رِنّة!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "الشعوب"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "صفّقوا"
+    },
+    {
+      "surface": "כף",
+      "gloss": "الكفّ"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "اهتفوا"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "لإلوهيم"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "بصوت"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "رِنّة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:51.247759100Z",
+  "model": "glm-5.2"
+}

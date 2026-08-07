@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 40:16",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "هآزم الآن قوّته في متنيه، وعزّته في عضلات بطنه",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "هآزم"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "قوّته"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "في متنيه"
+    },
+    {
+      "surface": "ואנו",
+      "gloss": "وعزّته"
+    },
+    {
+      "surface": "בשרירי",
+      "gloss": "في عضلات"
+    },
+    {
+      "surface": "בטנו",
+      "gloss": "بطنه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:44:05.197378838Z",
+  "model": "glm-5.2"
+}

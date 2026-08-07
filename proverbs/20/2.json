@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 20:2",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "زئيرٌ كالشَّبْلِ ⟨هو⟩ رُعبُ مَلِك؛ مَنْ يَتَجاوَزُ ⟨حدَّهُ⟩ يُخطئagainst نَفْسَه.",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "زئير"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "كالشبل"
+    },
+    {
+      "surface": "אימת",
+      "gloss": "رعب"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "מתעברו",
+      "gloss": "من يتجاوز"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "يُخطئ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نفسه"
+    }
+  ],
+  "timestamp": "2026-08-07T08:14:32.837948748Z",
+  "model": "glm-5.2"
+}

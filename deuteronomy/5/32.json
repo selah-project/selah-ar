@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وتحفَظون لتعمَلوا كما وصى يهوه إلهيمُكم ⟨אתكم⟩، لا تَصْرِفوا يمينًا و⟨⟩ يسارًا.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "وتحفَظون"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "لتعمَلوا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "وصى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلهيمُكم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاكم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "تَصْرِفوا"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "يمينًا"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "ويسارًا"
+    }
+  ],
+  "timestamp": "2026-08-07T08:33:51.579908321Z",
+  "model": "glm-5.2"
+}

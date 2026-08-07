@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "وإنْ يَسقُطْ لا يُنبَذُ، لأنَّ يَهوهَ سانِدٌ يدَهُ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "وإنْ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "يَسقُطْ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "يُنبَذُ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوهَ"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "سانِدٌ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يدَهُ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:03.129747909Z",
+  "model": "glm-5.2"
+}

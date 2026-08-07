@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وإيّانا أخرجَ من هناك، لأجلِ أنْ يُدخِلَنا ⟨أي يُدخِلَنا⟩، ليُعطيَنا ⟨את⟩ الأرضَ التي أقسَمَ لآبائنا.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩",
+      "marks": "إيانا"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "أخرج"
+    },
+    {
+      "surface": "משם",
+      "gloss": "من هناك"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لأجل"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "أن يُدخل"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨أي يُدخلنا⟩",
+      "marks": "أي يُدخلنا"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ليُعطي"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "نا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "أقسم"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "لآبائنا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:22.799451521Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "لا يُبقون منه إلى الصباح وعظمًا لا يكسرون فيه؛ ككلِّ فرضية الفِسح يصنعونه ⟨إيّاه⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "يُبقون"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "الصباحِ"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "وعظمًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "يكسرون"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ككلِّ"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "فرضيةِ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "الفِسحِ"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "يصنعون"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:31:05.623241148Z",
+  "model": "glm-5.2"
+}

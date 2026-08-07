@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "هلمَّ نسقِيَ أبانا ⟨את⟩ خمرًا وننام معه، فنُحييَ من أبينا نسلًا.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "هلمَّ"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "نسقِيَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أبانا"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "أبانا"
+    },
+    {
+      "surface": "יין",
+      "gloss": "خمرًا"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "وننام"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "فنُحييَ"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "من أبينا"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نسلًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:47.858139401Z",
+  "model": "glm-5.2"
+}

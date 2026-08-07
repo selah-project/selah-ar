@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "أنا حفرتُ و⟨اسيتُ⟩ ماءً، وأُجفِّفُ بباطن قدميّ جميع أنهار مصرايم.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "حفرتُ"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "⟨اسيتُ⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماءً"
+    },
+    {
+      "surface": "ואחריב",
+      "gloss": "وأُجفِّفُ"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "بباطن"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "قدميّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميع"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "أنهار"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "مصرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:16:36.034055036Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 2:13",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وولد إيشاي ⟨את⟩ بكره ⟨את⟩ أليآب، وأبيناداب الثاني، وشمَعا الثالث.",
+  "tokens": [
+    {
+      "surface": "ואישי",
+      "gloss": "وإيشاي"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بكره"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "بكره"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أليآب"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "أليآب"
+    },
+    {
+      "surface": "ואבינדב",
+      "gloss": "وأبيناداب"
+    },
+    {
+      "surface": "השני",
+      "gloss": "الثاني"
+    },
+    {
+      "surface": "ושמעא",
+      "gloss": "وشمَعا"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "الثالث"
+    }
+  ],
+  "timestamp": "2026-08-07T08:24:54.842314958Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 16:15",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "ورأى بنو يسرائيل، فقال رجلٌ لأخيه: «مان هو؟» لأنّهم لم يعرفوا ما هو. فقال لهم موشيه: «هو الخبز الذي أعطاه يهوه لكم لأكلًا.»",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ورأى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلٌ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "أخيه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "يعرفوا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "الخبز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطاه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "لأكلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:05:52.638653753Z",
+  "model": "glm-5.2"
+}

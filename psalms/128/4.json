@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 128,
+  "translation": "هاإنّه هكذا يُبارَكُ الجبرُ، يا من يخافُ يهوه.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "هاإنّه"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "يُبارَكُ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "الجبرُ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "يا من يخافُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:15:46.870788481Z",
+  "model": "glm-5.2"
+}

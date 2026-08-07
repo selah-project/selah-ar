@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فنادى يهوه إلوهيم ⟨إلى⟩ هاآدام وقال له أينك",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "فنادى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨إلى⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "هاآدام"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "أينك"
+    }
+  ],
+  "timestamp": "2026-08-07T06:55:32.958204029Z",
+  "model": "glm-5.2"
+}

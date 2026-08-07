@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 14:26",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "ودخل الشعب إلى الغابة، وإذا سيل عسل، وما من رافع يده إلى فمه، لأن الشعب يخشى ⟨את⟩ اليمين.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ودخل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "היער",
+      "gloss": "الغابة"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "سيل"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "عسل"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "وما من"
+    },
+    {
+      "surface": "משיג",
+      "gloss": "رافع\/مادّ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "فمه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "يخشى"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اليمين"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "اليمين"
+    }
+  ],
+  "timestamp": "2026-08-07T01:25:09.752330365Z",
+  "model": "glm-5.2"
+}

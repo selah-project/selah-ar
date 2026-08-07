@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وعلِم كلُّ يسرائيل، من دان وإلى بئر شبع، أنَّ شموئيل أمينُ لنافيٍّ ليَهوه.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "وعلِم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "من دان"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شبع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنَّ"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "أمينُ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "لنافيٍّ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:45:53.757972577Z",
+  "model": "glm-5.2"
+}

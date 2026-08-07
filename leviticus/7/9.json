@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 7:9",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وكل تقدمة تُخبَز في التنّور وكل تُصنع في الطست وعلى الصاج، للكوهين المُقرِّب ⟨את⟩ها له تكون.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "تقدمة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "تُخبَز"
+    },
+    {
+      "surface": "בתנור",
+      "gloss": "في التنّور"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "تُصنع"
+    },
+    {
+      "surface": "במרחשת",
+      "gloss": "في الطست"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "الصاج"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "للكوهين"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "المُقرِّب"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "له"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تكون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:54.532917945Z",
+  "model": "glm-5.2"
+}

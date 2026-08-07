@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وآكلوه إثمه يحمل، لأنّه ⟨את⟩ قدش يهوه دنَّس، فتُقطع تلك النفس من شعوبها.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "وآكلوه"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "إثمه"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "يحمل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قدش"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدش"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "دنَّس"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "فتُقطع"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "تلك النفس"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "من شعوبها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:43.836675659Z",
+  "model": "glm-5.2"
+}

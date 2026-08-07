@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 3:9",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "هكذا يفعل إلوهيم بأفنير، وكذلك يزيد عليه، لأنه كما حلف يهوه لداويد، فكذلك أفعل له».",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ليفعل"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "بأفنير"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "وكذلك"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ليزد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إن"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "حلف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لداويد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ف"
+    },
+    {
+      "surface": "כן",
+      "gloss": "كذلك"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "أفعل"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T01:32:21.013747802Z",
+  "model": "glm-5.2"
+}

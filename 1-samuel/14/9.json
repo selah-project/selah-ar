@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 14:9",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "إن قالوا لنا هكذا: اثبتوا حتى نصل إليكم، فإنّ ⟨نحن⟩ نقف في مكاننا ولا نصعد إليهم.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "قالوا"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "اثبتوا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "הגיענו",
+      "gloss": "نصل"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "إليكم"
+    },
+    {
+      "surface": "ועמדנו",
+      "gloss": "فإنّ نقف"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "في مكاننا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "نصعد"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "إليهم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:25:15.043004735Z",
+  "model": "glm-5.2"
+}

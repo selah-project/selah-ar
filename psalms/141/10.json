@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 141,
+  "translation": "ليسقط الأشرار في شبكاتهم معًا، ⟨وأمّا أنا⟩ فأعبر.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "ليسقط"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "في شبكاتهم"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الأشرار"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "معًا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "أعبر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:17:41.152784705Z",
+  "model": "glm-5.2"
+}

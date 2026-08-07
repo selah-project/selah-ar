@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وإن كان النَتَق يَفْشو في الجلد بعد طهرته،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "يَفْشو"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "يفشو"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "النَتَق"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "في الجلد"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "طهرته"
+    }
+  ],
+  "timestamp": "2026-08-07T00:19:10.907369390Z",
+  "model": "glm-5.2"
+}

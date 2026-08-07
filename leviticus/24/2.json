@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "«أوصِ ⟨את⟩ بني يسرائيل فيأخذوا إليك زيت زيتون نقيًّا كاتيت ⟨للمَنير⟩، لإصعاد نير دائمًا:",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "أوصِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بني يسرائيل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "فيأخذوا"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "زيت"
+    },
+    {
+      "surface": "זית",
+      "gloss": "زيتون"
+    },
+    {
+      "surface": "זך",
+      "gloss": "نقيًّا"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "كاتيت (مضروب)"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "⟨للمَنير⟩"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "لإصعاد"
+    },
+    {
+      "surface": "נר",
+      "gloss": "نير (سراج)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "دائمًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:26:36.305745496Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 7:24",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وثبَّتَّ لنفسك ⟨את⟩ شعبك إسرايل لنفسك شعبًا إلى الأبد، وأنت يهوه صرتَ لهم لإلوهيم.",
+  "tokens": [
+    {
+      "surface": "ותכונן",
+      "gloss": "وثبَّتَّ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لنفسك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شعبك"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "شعبك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرايل"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لنفسك"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "شعبًا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "الأبد"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "وأنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "היית",
+      "gloss": "صرتَ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "لإلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:41.156369263Z",
+  "model": "glm-5.2"
+}

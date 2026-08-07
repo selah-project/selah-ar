@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "و⟨قال⟩: «ادعُ اسمه لُو-أمّي، لأنّكم أنتم لستم شعبي، وأنا لا أكون لكم».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و⟨قال⟩"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ادعُ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لُو-"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "أمّي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "شعبي"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "أكون"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    }
+  ],
+  "timestamp": "2026-08-07T07:56:03.577719290Z",
+  "model": "glm-5.2"
+}

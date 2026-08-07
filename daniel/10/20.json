@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 10:20",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فقال: «هل علمتَ لماذا جئتُ إليك؟ والآن أعود لأُحارب مع رئيس فارس، وأنا خارجٌ، وها رئيس ياوان آتٍ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "הידעת",
+      "gloss": "هل علمتَ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "جئتُ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "أعود"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "لأُحارب"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "שר",
+      "gloss": "رئيس"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "فارس"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "خارجٌ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وها"
+    },
+    {
+      "surface": "שר",
+      "gloss": "رئيس"
+    },
+    {
+      "surface": "יון",
+      "gloss": "ياوان"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آتٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T05:00:08.917575366Z",
+  "model": "glm-5.2"
+}

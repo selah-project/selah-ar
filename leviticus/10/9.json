@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 10:9",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "خمرًا ومُسكرًا لا تشرب أنتَ وبنوك معك عند دخولكم إلى خيمة الموعد، فلا تموتوا — فريضةَ أبدٍ لأجيالكم.",
+  "tokens": [
+    {
+      "surface": "יין",
+      "gloss": "خمرًا"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ومُسكرًا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "تشرب"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "وبنوك"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "عند دخولكم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "تموتوا"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "فريضةَ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "أبدٍ"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "لأجيالكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:52.841895531Z",
+  "model": "glm-5.2"
+}

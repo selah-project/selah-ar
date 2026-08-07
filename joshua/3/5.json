@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 3:5",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وقال يهوشُعَع للشعب: تقدّسوا، لأنّ غدًا يصنع يهوه في وسطكم عجائب.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشُعَع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "تقدّسوا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "غدًا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يصنع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "في وسطكم"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "عجائب"
+    }
+  ],
+  "timestamp": "2026-08-07T01:03:00.048204678Z",
+  "model": "glm-5.2"
+}

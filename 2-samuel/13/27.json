@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فألحّ أفشالوم عليه، فأرسل معه ⟨את⟩ أمنون و⟨את⟩ كلّ بني الملك.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "فألحّ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "أفشالوم"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أمنون"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "أمنون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ بني الملك"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:35:40.560555985Z",
+  "model": "glm-5.2"
+}

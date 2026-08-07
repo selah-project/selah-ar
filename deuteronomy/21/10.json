@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 21:10",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "حين تخرج لمحاربة أعدائك، ويسلّمك يهوه إلوهيم ⟨إيّاهم⟩ في يدك، وتسبى سبيًا،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "حين"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "تخرج"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "لمحاربة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "أعدائك"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ويسلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "في يدك"
+    },
+    {
+      "surface": "ושבית",
+      "gloss": "وتسبى"
+    },
+    {
+      "surface": "שביו",
+      "gloss": "سبيًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:28.860025552Z",
+  "model": "glm-5.2"
+}

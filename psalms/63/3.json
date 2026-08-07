@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 63,
+  "translation": "هكذا في القُدس تأمّلتك، لرؤية عزّتك ومجدك",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "في القُدس"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "تأمّلتك"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "لرؤية"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "عزّتك"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "ومجدك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:33.422330504Z",
+  "model": "glm-5.2"
+}

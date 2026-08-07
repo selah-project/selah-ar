@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 15:4",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "بل أنت أيضًا تُبطِل التّقوى، وتُقلّل التأمّل أمام إيل.»",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "بل"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "تُبطِل"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "التّقوى"
+    },
+    {
+      "surface": "ותגרע",
+      "gloss": "وتُقلّل"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "التأمّل"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:37:01.792667618Z",
+  "model": "glm-5.2"
+}

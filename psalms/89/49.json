@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 89:49",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "من هو ⟨ال⟩جبّار ⟨الذي⟩ يحيا ولا يرى موتًا؟ هل يُنقذ نَفْسه من يد شيول؟ سيلاه.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "جبّار"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "يحيا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "يرى"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موتًا"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "هل يُنقذ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نَفْسه"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يد"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شيول"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سيلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:41.274715610Z",
+  "model": "glm-5.2"
+}

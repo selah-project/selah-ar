@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "و⟨كان⟩ لمّا شاخ شموئيل، جعل ⟨את⟩ بنيه شوفَر ⟨ل⟩يسرائيل.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لمّا"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "شاخ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "وجعل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بنيه"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "بنيه"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "شوفَر"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "⟨ل⟩يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:22:22.599824042Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 29:1",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "فدعا موشيه ⟨ب⟩كل يسرايل وقال ⟨ل⟩هم: أنتم رأيتم ⟨את⟩ كل ما فعله يهوه أمام أعينكم في أرض مصرايم لفرعون ولكل عبيده ولكل أرضه،",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "فدعا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ب⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "⟨ل⟩هم"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "رأيتم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعله"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "أمام أعينكم"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "لفرعون"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ولكل"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "عبيده"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ولكل"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "أرضه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:07.939064102Z",
+  "model": "glm-5.2"
+}

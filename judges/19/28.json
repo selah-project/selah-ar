@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "judges 19:28",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وقال لها: قومي ونمضي، فلم ⟨يكن⟩ مُجيبة، فأخذها على الحمار وقام الرجل ومضى إلى مكانه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "قومي"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "ونمضي"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "مُجيبة"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "فأخذها"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "الحمار"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "وقام"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ومضى"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "إلى مكانه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:19:16.693088807Z",
+  "model": "glm-5.2"
+}

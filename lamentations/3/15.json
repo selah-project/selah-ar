@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "أَشْبَعَني بالمرائر، أَرْواني لَعْنَةً.",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "أَشبَعَني"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "بالمرائر"
+    },
+    {
+      "surface": "הרונي",
+      "gloss": "أَرْواني"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "لَعْنَة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:48:39.094278704Z",
+  "model": "glm-5.2"
+}

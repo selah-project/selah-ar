@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 12:26",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وقال ياروڤعام في قلبه: الآن تَعود المملكة لبيت داوِد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ياروڤعام"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "في قلبه"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "تعود"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "المملكة"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "لبيت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    }
+  ],
+  "timestamp": "2026-08-07T05:48:59.160009101Z",
+  "model": "glm-5.2"
+}

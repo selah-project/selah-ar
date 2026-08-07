@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "رجلٌ يُحبّ الحكمة يُفرِح أباه، وراعي زواناتٍ يُهلِك ثروة.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "يُحبّ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "الحكمة"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "يُفرِح"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أباه"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "وراعي"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "زوانات"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "يُهلِك"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ثروة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:11.496614864Z",
+  "model": "glm-5.2"
+}

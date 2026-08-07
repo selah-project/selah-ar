@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 18:4",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وأخذ داويد منه ألف مركبة وسبعة آلاف فارسًا وعشرين ألف رجل راجل، وعرقب داويد ⟨את⟩ كل المركب ولم يُبقِ منه إلا مئة مركبة.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "مركبة"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "وسبعة"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "آلاف"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "فرسان"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "وعشرين"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "راجل"
+    },
+    {
+      "surface": "ויעקר",
+      "gloss": "وعرقب"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "المركب"
+    },
+    {
+      "surface": "ויותר",
+      "gloss": "ولم يُبقِ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "إلا مئة"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "مركبة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:35.691275586Z",
+  "model": "glm-5.2"
+}

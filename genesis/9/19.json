@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "ثلاثة، هؤلاء بَنو نوح، ومن هؤلاء تفرّقت كلّ الأرض.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "ثلاثة"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنو"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "ومن هؤلاء"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "تفرّقت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:54.529026310Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 140,
+  "translation": "حدّدوا ألسنتَهم كالمثلَّ، حُمَّةُ الأفعى تحت شفاههم. سِلاه",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "حدّدوا"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ألسنتَهم"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "كـ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "المثلَّ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حُمَّةُ"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "الأفعى"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "شفاههم"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:00.504463536Z",
+  "model": "glm-5.2"
+}

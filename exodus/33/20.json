@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "وقال: لا تستطيع أن ترى ⟨את⟩ وجهي، لأنّ الإنسان لا يراني ويبقى حيًّا.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "تستطيع"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "أن ترى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وجهي"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "يراني"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ويبقى حيًّا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:37:48.885956048Z",
+  "model": "glm-5.2"
+}

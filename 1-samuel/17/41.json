@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-samuel 17:41",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وذهب الفلشتي ذاهبًا واقتربًا إلى داود، والرجل حامل الترس ⟨أمام⟩ه.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "وذهب"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "الفلشتي"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ذاهبًا"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "واقتربًا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "والرجل"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "حامل"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "الترس"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمامه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:26:35.479556048Z",
+  "model": "glm-5.2"
+}

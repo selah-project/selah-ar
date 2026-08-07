@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وإذا تخاصم رجال فضرب رجل ⟨את⟩ صاحبه بحجر أو بقبضة، فلم يمت وسقط ⟨للفراش⟩،",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "تخاصم"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "فضرب"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صاحبه"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "صاحبه"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "بحجر"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "بقبضة"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "يمت"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "وسقط"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "⟨للفراش⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:34.580552745Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "غَضِبَ يهوه على آبائكم غَضَبًا.",
+  "tokens": [
+    {
+      "surface": "קָצַ֧ף",
+      "gloss": "غَضِبَ"
+    },
+    {
+      "surface": "יְהוָ֛ה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "على"
+    },
+    {
+      "surface": "אֲבֽוֹתֵיכֶ֖ם",
+      "gloss": "آبائكم"
+    },
+    {
+      "surface": "קָֽצֶף",
+      "gloss": "غَضَبًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:34:46.721142799Z",
+  "model": "glm-5.2"
+}

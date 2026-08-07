@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 15:7",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وقال له: أنا يهوه الذي أخرجك من أور كسديم، لأُعطيَك ⟨את⟩ هذه الأرض لتملكها.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "أخرجك"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "من أور"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "كسديم"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "لأُعطيَ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ـك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هذه الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "لتملكها"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:24.048169610Z",
+  "model": "glm-5.2"
+}

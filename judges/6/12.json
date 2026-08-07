@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 6:12",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وتراءى إليه ملاك يهوه وقال له: «يهوه معك، يا جبّار البأس.»",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "وتراءى"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ملاك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "يا جبّار"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "البأس"
+    }
+  ],
+  "timestamp": "2026-08-07T01:14:28.175068320Z",
+  "model": "glm-5.2"
+}

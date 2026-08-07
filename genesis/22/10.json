@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "و مدّ أفراهام ⟨את⟩ يده، وأخذ ⟨את⟩ السكين، ليذبح ⟨את⟩ ابنه.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ومدّ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يده"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "السكين"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "السكين"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "ليذبح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابنه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:33:41.627781216Z",
+  "model": "glm-5.2"
+}

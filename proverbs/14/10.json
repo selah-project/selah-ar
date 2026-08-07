@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "قَلْبٌ يَعْرِفُ مَرَارَةَ نَفْسِهِ، وَفِي فَرَحِهِ لَا يَتَشَارَكُ غَرِيبٌ.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "يعرف"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "مرارة"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نفسه"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "وفي فرحه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "يتشارك"
+    },
+    {
+      "surface": "זר",
+      "gloss": "غريب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:24.718806128Z",
+  "model": "glm-5.2"
+}

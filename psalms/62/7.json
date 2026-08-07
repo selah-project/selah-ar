@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 62,
+  "translation": "إنّما هو صخرتي و⟨هو⟩ خلاصي، ملجئي، لا أتزعزع.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "صخرتي"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "و⟨هو⟩ خلاصي"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ملجئي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "أتزعزع"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:23.206655911Z",
+  "model": "glm-5.2"
+}

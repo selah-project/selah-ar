@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "عَطِشَت نَفسي إلى إلوهيم، إلى إيل حيّ: متى أَجيءُ وأَرى وُجوهَ إلوهيم؟",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "عَطِشَت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفسي"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "إلى إلوهيم"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "إلى إيل"
+    },
+    {
+      "surface": "חי",
+      "gloss": "حيّ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "متى"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "أَجيءُ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "وأَرى"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وُجوهَ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T06:04:09.987649702Z",
+  "model": "glm-5.2"
+}

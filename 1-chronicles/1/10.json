@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وكوش وَلَدَ ⟨את⟩ نمرود. ⟨هو⟩ بدأ ليكون جبّارًا في الأرض.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "وكوش"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "وَلَدَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نمرود"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "نمرود"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "החל",
+      "gloss": "بدأ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ليكون"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "جبّارًا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T05:09:43.582017020Z",
+  "model": "glm-5.2"
+}

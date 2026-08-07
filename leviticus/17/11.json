@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 17:11",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "لأن نَفْس الجسد في الدمِّ هي، وأنا أعطيتُهُ لكم على المذبح للتكفير عن أنفسكم، لأن الدم هو يُكفِّرُ بالنفس.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْس"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "الجسد"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "في الدمِّ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "أعطيتُهُ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "للتكفير"
+    },
+    {
+      "surface": "על",
+      "gloss": "عن"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "أنفسكم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "الدم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "بالنفس"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "يُكفِّرُ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:10.936044921Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 8:16",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "ويوآب بنَ تصروية على الجيش، ويهوشافاط بنُ أخيلود مَذكِّر.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "ويوآب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنَ"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "تصروية"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "الجيش"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "ويهوشافاط"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنُ"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "أخيلود"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "مَذكِّر"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:13.797849624Z",
+  "model": "glm-5.2"
+}

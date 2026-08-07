@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 23:11",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "يده بسطها على البحر، أرعب الممالك: يهوه أمر على كنعان لتدمير معاقلها.",
+  "tokens": [
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "بسط"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "הרגיז",
+      "gloss": "أرعب"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "الممالك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أمر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "على"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كنعان"
+    },
+    {
+      "surface": "לשמד",
+      "gloss": "لتدمير"
+    },
+    {
+      "surface": "מעזניה",
+      "gloss": "معاقلها"
+    }
+  ],
+  "timestamp": "2026-08-07T06:37:41.744503276Z",
+  "model": "glm-5.2"
+}

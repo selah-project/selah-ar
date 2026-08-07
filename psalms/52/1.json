@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 52,
+  "translation": "لإمام ⟨الـ⟩فرقة، قصيدة تعليمية لداوود.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لإمام ⟨الـ⟩فرقة"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "قصيدة تعليمية"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لداوود"
+    }
+  ],
+  "timestamp": "2026-08-07T03:53:56.352016422Z",
+  "model": "glm-5.2"
+}

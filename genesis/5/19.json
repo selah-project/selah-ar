@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 5:19",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وعاش ياردُ بعد وِلادتِهِ ⟨את⟩ حَنوك ثمانمئةِ سنةٍ، ووَلَدَ بنين وبنات.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "وعاش"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "يارد"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ولادته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حَنوك"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "حَنوك"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ثمان"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ووَلَدَ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بنين"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "وبنات"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:23.735314850Z",
+  "model": "glm-5.2"
+}

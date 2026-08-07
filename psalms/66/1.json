@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 66,
+  "translation": "لِلمُنْشِد. شِير، مِزْمور. اهْتِفّوا لِإلوهيم، كلُّ الأرض:",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لِلمُنْشِد"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "شِير"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مِزْمور"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "اهْتِفّوا"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "لِإلوهيم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:44.587013001Z",
+  "model": "glm-5.2"
+}

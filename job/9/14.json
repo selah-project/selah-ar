@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 9:14",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فكم بالأحرى أنا — أَجيبُه؟ أَنتقي كلماتي معه؟",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "فـ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "كم بالأحرى"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אעננו",
+      "gloss": "أَجيبُه"
+    },
+    {
+      "surface": "אבחרה",
+      "gloss": "أَنتقي"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلماتي"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:44.590415109Z",
+  "model": "glm-5.2"
+}

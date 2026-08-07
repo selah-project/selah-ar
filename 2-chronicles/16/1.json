@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 16:1",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "في سنةِ ثلاثين وست لمُلك آسا، صعد بَعْشا ملك يسرايل على يهودا وبنى ⟨את⟩ الرامة، لِئلّا يُتاح لآسا ملك يهودا ⟨أن⟩ يخرج أو يدخل.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "في سنة"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ثلاثين"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "وست"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "لمُلك"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "صعد"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بَعْشا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "وبنى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الرامة"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "الرامة"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "لئلا"
+    },
+    {
+      "surface": "תת",
+      "gloss": "يُعطى\/يُتاح"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "خروج"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ودخول"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "لآسا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:26:15.564599243Z",
+  "model": "glm-5.2"
+}

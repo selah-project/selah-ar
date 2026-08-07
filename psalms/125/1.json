@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 125,
+  "translation": "שיר המעלות: المتّكلون على يهوه كجبل صهيون لا يتزعزع، إلى الأبد يَجلِس.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "שיר"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "המעלות"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "المتّكلون"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "على يهوه"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "كجبل"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "يتزعزع"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "يَجلِس"
+    }
+  ],
+  "timestamp": "2026-08-07T08:12:13.995572780Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 9:17",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وقدّم ⟨את⟩ التقدمة، وملأ كفّه منها، وأوقد ⟨على⟩ المذبح، إلى جانب عولاة الصباح.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "وقدّم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "التقدمة"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "التقدمة"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "وملأ"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "كفّه"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "منها"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "وأوقد"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨على⟩"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "إلى جانب"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "عولاة"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "الصباح"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:50.299870711Z",
+  "model": "glm-5.2"
+}

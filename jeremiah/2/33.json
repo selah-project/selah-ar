@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 2:33",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "ما أَحسَنُكِ تُزيّنينِ طريقكِ لطلبِ محبّةٍ؟ لذلك أيضًا ⟨את⟩ الشرّيرات علّمتُ ⟨את⟩ طرقكِ.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "תיטבי",
+      "gloss": "تُحسنين"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "طريقكِ"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "لطلبِ"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "محبّة"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشرّيرات"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "الشرّيرات"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "علّمتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "طرقكِ"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "طرقكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:27:59.345681281Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "الحبال وقعت لي في أماكن نُعم، بل الميراث أبهى عليّ.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "الحبال"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "وقعت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "في أماكن نُعم"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بل"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "الميراث"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "أبهى"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عليّ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:43:11.190595206Z",
+  "model": "glm-5.2"
+}

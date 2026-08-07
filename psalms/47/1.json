@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 47,
+  "translation": "لإمام ⟨الفرقة⟩، لبني قوراح، مِزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لإمام"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لبني"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قوراح"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مِزمور"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:51.247603847Z",
+  "model": "glm-5.2"
+}

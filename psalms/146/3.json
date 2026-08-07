@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 146,
+  "translation": "لا تتّكلوا على النَّديبين، على ابن آدم الذي لا ⟨لـ⟩ه نجاة.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "تتّكلوا"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "على النَّديبين"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "على ابن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "الذي لا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨لـ⟩ه"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "نجاة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:21:03.454466184Z",
+  "model": "glm-5.2"
+}

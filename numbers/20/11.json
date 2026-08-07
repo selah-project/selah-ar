@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 20:11",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "ورفع موشيه ⟨את⟩ يده وضرب ⟨את⟩ الصخرة بعصاه مرّتين، فخرج ماءٌ غزير، فشربت الجماعة وبهائمهم.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "ورفع"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يده"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "وضرب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الصخرة"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "الصخرة"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "بعصاه"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "مرّتين"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "فخرج"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماء"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "غزير"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "فشربت"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "الجماعة"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "وبهائمهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:38:13.886824414Z",
+  "model": "glm-5.2"
+}

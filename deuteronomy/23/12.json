@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "«ويكون عند ميلان المساء يغتسل في الماء، وعند غروب الشمس يدخل إلى وسط المحلّة.»",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ويكون"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "عند ميلانِ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "المساء"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "يغتسل"
+    },
+    {
+      "surface": "במים",
+      "gloss": "في الماء"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "وعند غروبِ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "الشمس"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "يدخل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "وسطِ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "المحلّة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:58:36.008295603Z",
+  "model": "glm-5.2"
+}

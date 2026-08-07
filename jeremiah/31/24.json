@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 31:24",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "فيَسكُن فيها يهودا وكلّ مدنه معًا: فلاّحون ويسيرون مع القطيع.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "فيَسكُن"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "مدنه"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "معًا"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "فلاّحون"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "ويسيرون"
+    },
+    {
+      "surface": "בעדר",
+      "gloss": "مع القطيع"
+    }
+  ],
+  "timestamp": "2026-08-07T02:42:28.875495845Z",
+  "model": "glm-5.2"
+}

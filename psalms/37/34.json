@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 37:34",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "انتظر إلى إيل، واحفظ طريقه، فيُعليك لوراثة أرض؛ عند استئصال رَشَعِيّم ترى.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "انتظر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "واحفظ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "طريقه"
+    },
+    {
+      "surface": "וירוממך",
+      "gloss": "فيُعليك"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "لوراثة"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "عند استئصال"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "رَشَعِيّم"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ترى"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:04.270328235Z",
+  "model": "glm-5.2"
+}

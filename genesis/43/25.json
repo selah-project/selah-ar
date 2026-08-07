@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 43,
+  "translation": "فأعدّوا ⟨את⟩ التقدمة إلى مجيء يوصوف ظهرًا، لأنّهم سمعوا أنّه هناك يأكلون خبزًا.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "فأعدّوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "التقدمة"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "التقدمة"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "مجيء"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوصوف"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "ظهرًا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّهم"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سمعوا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "يأكلون"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:52:15.001007520Z",
+  "model": "glm-5.2"
+}

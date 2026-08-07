@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وذهب داوود ذهابًا وعظُم، و⟨كان⟩ يهوه صباؤوت معه.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "وذهب"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ذهابًا"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "وعظُم"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و⟨كان⟩ يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤوت"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:14:22.363658686Z",
+  "model": "glm-5.2"
+}

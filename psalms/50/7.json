@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "اسمع يا شعبي وأنا أتكلّم، يسرائيل، وأنا أوعدك: إلوهيم إلهُكَ أنا",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "اسمع"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "يا شعبي"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "وأنا أتكلّم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "وأنا أوعدك"
+    },
+    {
+      "surface": "בך",
+      "gloss": "فيك"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلهُكَ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:51:43.128910693Z",
+  "model": "glm-5.2"
+}

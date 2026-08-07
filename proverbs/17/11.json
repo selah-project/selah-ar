@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 17:11",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "إنّما التمرّدَ يطلبُ شرًّا، وملاكٌ قاسٍ يُرسَل فيه.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "التمرّد"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "يطلبُ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شرًّا"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "وملاكٌ"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "قاسٍ"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "يُرسَل"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:22.669120122Z",
+  "model": "glm-5.2"
+}

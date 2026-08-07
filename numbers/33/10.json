@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 33:10",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "وَرَحَلوا مِن إيليم وَنَزَلوا عِندَ بحرِ القَصَب",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ورحلوا"
+    },
+    {
+      "surface": "מאילם",
+      "gloss": "من إيليم"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ونزلوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "عِندَ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "بحر"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "القصب"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:35.343661288Z",
+  "model": "glm-5.2"
+}

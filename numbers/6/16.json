@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "ويُقرّب الكوهين أمام يهوه، ويصنع ⟨את⟩ خطيئته و⟨את⟩ عولاه.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ويُقرّب"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ويصنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خطيئته"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "خطيئته"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "عولاه"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "عولاه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:30:16.750948385Z",
+  "model": "glm-5.2"
+}

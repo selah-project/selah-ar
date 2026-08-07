@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "ويضرب يهوه ⟨את⟩ مصرايم ضربًا وشفاءً، فيرجعون حتى يهوه، فيُستجاب لهم ويشفيهم.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "ويضرب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مصرايم"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "ضربًا"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "وشفاءً"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "فيرجعون"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "فيُستجاب"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "ويشفيهم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:09:18.088401431Z",
+  "model": "glm-5.2"
+}

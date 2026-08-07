@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 12:7",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "سَلّو، عاموق، حِلقيّا، يدعيا. هؤلاء رؤوس الكهنة وإخوتهم في أيّام يِشوع",
+  "tokens": [
+    {
+      "surface": "סלו",
+      "gloss": "سَلّو"
+    },
+    {
+      "surface": "עמוק",
+      "gloss": "عاموق"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "حِلقيّا"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "يدعيا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "رؤوس"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكهنة"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "وإخوتهم"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "في أيّام"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "يِشوع"
+    }
+  ],
+  "timestamp": "2026-08-07T05:08:35.759332127Z",
+  "model": "glm-5.2"
+}

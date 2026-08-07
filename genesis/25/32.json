@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "فقال عيساو: «هنذا ذاهلٌ لاموت، ولاماذا هذا لي بكورة؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيساو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هنذا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ذاهلٌ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "لاموت"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ولماذا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "بكورة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:34:41.213069338Z",
+  "model": "glm-5.2"
+}

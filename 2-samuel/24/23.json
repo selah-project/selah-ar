@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 24:23",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "الكلَّ أعطى أراونا الملكُ للملك. وقال أراونا للملك: «يهوه إلهَك يَرضَيك».",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "الكلَّ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطى"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "أراونا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملكُ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "للملك"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "أراونا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلهَك"
+    },
+    {
+      "surface": "ירצך",
+      "gloss": "يَرضَيك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:41:22.773651544Z",
+  "model": "glm-5.2"
+}

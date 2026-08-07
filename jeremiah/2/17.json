@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "أليس هذا تفعلينه ⟨لِنفسك⟩؟ تركُكِ ⟨את⟩ يهوه إلهكِ حينما سار بكِ في الطريق.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "أليس"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تفعلينه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لِنفسك"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "ترككِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلهكِ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "حينما"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "سار بكِ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "في الطريق"
+    }
+  ],
+  "timestamp": "2026-08-07T02:28:49.239871292Z",
+  "model": "glm-5.2"
+}

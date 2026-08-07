@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وحمل الشعب عجينه قبل أن يتخمّر، أوعية عجينهم مربوطة في ثيابهم على أكتافهم.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "وحمل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عجينه"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "عجينه"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "قبل"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "أن يتخمّر"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "أوعية عجينهم"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "مربوطة"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "في ثيابهم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "أكتافهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:03:36.359887746Z",
+  "model": "glm-5.2"
+}

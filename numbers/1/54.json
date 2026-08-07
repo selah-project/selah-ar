@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 1:54",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ففعل بنو يسرائيل كُلَّ ما أمَرَ به يهوه ⟨את⟩ موشيه؛ هكذا فعلوا.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ففعل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أمر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "فعلوا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:23.535545336Z",
+  "model": "glm-5.2"
+}

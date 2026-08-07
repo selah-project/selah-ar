@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "راعٍ يُساء إليه لأنّه ضامن غريب، ومبغض صفقات الطرق آمن.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "راعٍ"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "يُساء إليه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ضامن"
+    },
+    {
+      "surface": "זר",
+      "gloss": "غريب"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "ومبغض"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "صفقات الطرق"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "آمن"
+    }
+  ],
+  "timestamp": "2026-08-07T04:24:48.177484663Z",
+  "model": "glm-5.2"
+}

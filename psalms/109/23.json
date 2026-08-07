@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 109,
+  "translation": "كظلٍّ عند ميلانه ذهبتُ، نُفِضتُ كالجراد.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "كظلٍّ"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "عند ميلانه"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "ذهبتُ"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "نُفِضتُ"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "كالجراد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:11.219614181Z",
+  "model": "glm-5.2"
+}

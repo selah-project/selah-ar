@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 15:2",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وخرج أمام آسا وقال له: «اسمعوني آسا وكلّ يهودا وبنيامين: يهوه معكم في كونكم معه، وإن تطلبوه يُوجَد لكم، وإن تتركوه يترك ⟨את⟩كم.»",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "اسمعوني"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "وبنيامين"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "معكم"
+    },
+    {
+      "surface": "בהיותכם",
+      "gloss": "في كونكم"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "תדרשהו",
+      "gloss": "تطلبوه"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "يُوجَد"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "תעזבהו",
+      "gloss": "تتركوه"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "يترك"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "كم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:26:27.509260637Z",
+  "model": "glm-5.2"
+}

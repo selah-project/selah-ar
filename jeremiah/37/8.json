@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 37:8",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "ويرجع الكَشديم ويتحاربون على المدينة هذه، فيأسرونها ويحرقونها بالنار.",
+  "tokens": [
+    {
+      "surface": "ושבו",
+      "gloss": "ويرجع"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "الكَشديم"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "ويتحاربون"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "فيأسرونها"
+    },
+    {
+      "surface": "ושרפה",
+      "gloss": "ويحرقونها"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بالنار"
+    }
+  ],
+  "timestamp": "2026-08-07T02:46:25.829717445Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "فقال له: «كذلك قال يهوه: لأنك أطلقت ⟨את⟩ رجل حرمي من يدك، تكون نَفْسُك بدل نَفْسه وشعبك بدل شعبه».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "כה",
+      "gloss": "كذلك"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יען",
+      "gloss": "لأنك"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "أطلقت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رجل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "حرمي"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يدك"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "نَفْسُك"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدل"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نَفْسه"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "وشعبك"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدل"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:49:41.254916695Z",
+  "model": "glm-5.2"
+}

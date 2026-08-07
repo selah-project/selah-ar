@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 11:9",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "ولكي تُطِيلوا الأيّام على الأرض التي حلف يهوه لآبائكم أن يُعطيَها لهم ولزرعهم، أرضًا تَفِيض حليبًا وعسلاً.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "ولكي"
+    },
+    {
+      "surface": "תאריכו",
+      "gloss": "تُطِيلوا"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "الأيّام"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "حلف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "لآبائكم"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "أن يُعطيَ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "ولزرعهم"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرضًا"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "تَفِيض"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "حليبًا"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "وعسلاً"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:27.542087133Z",
+  "model": "glm-5.2"
+}

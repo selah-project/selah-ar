@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "أدوناي يضحك ⟨به⟩، لأنّه رأى أنّ يومه آتٍ.",
+  "tokens": [
+    {
+      "surface": "אֲדֹנָ֥י",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יִשְׂחַק",
+      "gloss": "يضحك"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "⟨به⟩"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "רָ֝אָ֗ה",
+      "gloss": "رأى"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "יָבֹ֥א",
+      "gloss": "آتٍ"
+    },
+    {
+      "surface": "יוֹמֽוֹ",
+      "gloss": "يومه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:37.233066801Z",
+  "model": "glm-5.2"
+}

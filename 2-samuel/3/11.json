@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "ولم يستطع ⟨بعد⟩ أن يردّ ⟨على⟩ ⟨את⟩ أفنير كلمةً، من خشيته إيّاه.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "يستطع"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "أن يردّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أفنير"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "أفنير"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمةً"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "من خشيته"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "إيّاه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:32:21.014139789Z",
+  "model": "glm-5.2"
+}

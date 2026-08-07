@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 7:16",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وتأكل ⟨את⟩ جميع الشعوب الذين يهوه إلوهيمك دافعٌ لك، لا تشفق عينك عليهم، ولا تعبد ⟨את⟩ آلهتهم، لأنه شَرَكٌ لك.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "وتأكل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جميع الشعوب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميع"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "الشعوب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دافعٌ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "تشفق"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "عينك"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "تعبد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آلهتهم"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "آلهتهم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "شَرَكٌ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:54:24.381265928Z",
+  "model": "glm-5.2"
+}

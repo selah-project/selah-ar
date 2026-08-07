@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 22:9",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "ودعا ملك إسرائيل أحد الخصيان وقال: «أسرع ⟨في إحضار⟩ ميخايهو بن يِملا.»",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "خصيّ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "أحد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "أسرع"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "ميخايهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "ימלה",
+      "gloss": "يِملا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:52:16.907902237Z",
+  "model": "glm-5.2"
+}

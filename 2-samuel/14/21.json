@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 14:21",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "فقال الملك ليوآب: هوذا الآن قد فعلت ⟨את⟩ الأمر هذا، فاذهب وأرجِع ⟨את⟩ الفتى ⟨את⟩ أفعشالوم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "قد فعلتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأمر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "فاذهب"
+    },
+    {
+      "surface": "השב",
+      "gloss": "وأرجِع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الفتى"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "الفتى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أفعشالوم"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "أفعشالوم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:36:39.168445564Z",
+  "model": "glm-5.2"
+}

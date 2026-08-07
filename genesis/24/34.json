@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فقال: أنا عبدُ أفراهام.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عبد"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:34:07.810207604Z",
+  "model": "glm-5.2"
+}

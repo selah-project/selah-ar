@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 15:26",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "فقال شموئيل لشاؤول: لا أرجعُ معك، لأنّك رفضتَ ⟨את⟩ كلمة يهوه، ورفضك يهوه من أن تكون ملكًا على يسرايل.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "أرجعُ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّك"
+    },
+    {
+      "surface": "מאסתה",
+      "gloss": "رفضتَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلمة"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וימאסך",
+      "gloss": "ورفضك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "من أن تكون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملكًا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:46:05.006294775Z",
+  "model": "glm-5.2"
+}

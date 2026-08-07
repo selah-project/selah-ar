@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فسار الماء حول المذبح، وحتى ⟨את⟩ القناة ملأ ماءً.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "فسار"
+    },
+    {
+      "surface": "המים",
+      "gloss": "الماء"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "حول"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "وحتى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "القناة"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "القناة"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ملأ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماءً"
+    }
+  ],
+  "timestamp": "2026-08-07T01:50:41.998248976Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وقال: «لأنّ يدًا على كُرسيّ ياه، حربٌ ليهوه في عماليك، من جيلٍ إلى جيل».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يدًا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כס",
+      "gloss": "كُرسيّ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "حرب"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "في عماليك"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "من جيل"
+    },
+    {
+      "surface": "דר",
+      "gloss": "إلى جيل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:06.743492550Z",
+  "model": "glm-5.2"
+}

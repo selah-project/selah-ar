@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وأتى الكوهين المشيح من دم الثور إلى خيمة الموعد.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "وأتى"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "المشيح"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "من دم"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "الثور"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:18.911013648Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فعَمِلَ نواح كُلَّ ما أوصاهُ إلوهيم، هكذا عَمِلَ.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "ونواح"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعَمِلَ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "كُلَّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "إيّاه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "عَمِلَ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:21.758861503Z",
+  "model": "glm-5.2"
+}

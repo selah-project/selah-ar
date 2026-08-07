@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 56,
+  "translation": "أنعِم عليَّ يا إلوهيم لأن أنوش يبتلعني؛ النهارَ كلَّه يحاربُ ⟨ف⟩يضغطني",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "أنعِم عليَّ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "يا إلوهيم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "يبتلعني"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "أنوش"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "النهار"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "يحارب"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "يضغطني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:28.864650343Z",
+  "model": "glm-5.2"
+}

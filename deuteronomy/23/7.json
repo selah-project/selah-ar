@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "لا تَطلُب شالومَهم ولا خيرَهم كلَّ أيّامِك إلى الأبد.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "تَطلُب"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "شالومَهم"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "وخيرَهم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "أيّامِك"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:58:19.968291673Z",
+  "model": "glm-5.2"
+}

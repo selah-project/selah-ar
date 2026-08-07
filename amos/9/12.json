@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 9:12",
+  "book": "amos",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "لكي يرثوا ⟨את⟩ بقية أدوم وكلَّ الأمم الذين دُعيَ اسمي عليهم، نَأمُ يهوه الفاعلُ هذا.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "يرثوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بقية أدوم"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "بقية"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "أدوم"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلَّ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "دُعيَ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "اسمي"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نَأمُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "الفاعلُ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:26:20.612163509Z",
+  "model": "glm-5.2"
+}

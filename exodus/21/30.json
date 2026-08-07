@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 21:30",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "إنْ وُضِعَ عليه فِداءٌ، يدفعُ فديةَ نَفسِه، بحسب كلِّ ما يُوضَعُ عليه.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إنْ"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "فداءٌ"
+    },
+    {
+      "surface": "יושת",
+      "gloss": "وُضِعَ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "يدفعُ"
+    },
+    {
+      "surface": "פדין",
+      "gloss": "فديةَ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نَفسِه"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "بحسب كلِّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יושת",
+      "gloss": "يُوضَعُ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:45.883736033Z",
+  "model": "glm-5.2"
+}

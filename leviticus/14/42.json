@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "ويأخذون حجارةً أُخَر ويُدخلونها تحت الحجارة، وترابًا آخر يأخذ ويُطلي ⟨את⟩ البيت.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ويأخذون"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "حجارة"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "أُخَر"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "ويُدخلونها"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "الحجارة"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "وترابًا"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "آخر"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "يأخذ"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "ويُطلي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "البيت"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    }
+  ],
+  "timestamp": "2026-08-07T00:19:53.202969971Z",
+  "model": "glm-5.2"
+}

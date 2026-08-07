@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "لأنَّ ⟨את⟩ كلَّ عملٍ إلوهيمَ يُحضِرُ في مِشپاطٍ، على كلِّ مستتِرٍ، سواءٌ خيرٌ أو سوءٌ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلَّ عمل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "عملٍ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيمَ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "يُحضِرُ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "في مِشپاطٍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "مستتِرٍ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "سواءٌ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خيرٌ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "أو"
+    },
+    {
+      "surface": "רע",
+      "gloss": "سوءٌ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:53:07.120117638Z",
+  "model": "glm-5.2"
+}

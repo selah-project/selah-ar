@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وبعد الزلزال نار — لا في النار يهوه. وبعد النار صوت هدوء دقيق.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "وبعد"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "الزلزال"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "באש",
+      "gloss": "في النار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "وبعد"
+    },
+    {
+      "surface": "האש",
+      "gloss": "النار"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "هدوء"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "دقيق"
+    }
+  ],
+  "timestamp": "2026-08-07T01:50:37.512531922Z",
+  "model": "glm-5.2"
+}

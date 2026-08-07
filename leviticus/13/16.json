@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "أو إذا رجع اللحمُ الحيُّ وتحوّل إلى أبيض، يأتي إلى الكوهين.",
+  "tokens": [
+    {
+      "surface": "א֣וֹ",
+      "gloss": "أو"
+    },
+    {
+      "surface": "כִ֥י",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יָשׁ֛וּב",
+      "gloss": "رجع"
+    },
+    {
+      "surface": "הַבָּשָׂ֥ר",
+      "gloss": "اللحمُ"
+    },
+    {
+      "surface": "הַחַ֖י",
+      "gloss": "الحيُّ"
+    },
+    {
+      "surface": "וְנֶהְפַּ֣ךְ",
+      "gloss": "وتحوّل"
+    },
+    {
+      "surface": "לְלָבָ֑ן",
+      "gloss": "إلى أبيض"
+    },
+    {
+      "surface": "וּבָ֖א",
+      "gloss": "يأتي"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הַכֹּהֵֽן",
+      "gloss": "الكوهين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:19:12.451049791Z",
+  "model": "glm-5.2"
+}

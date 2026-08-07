@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "وعبر، فإذا ليس هو، وطلبتُه فلم يُوجَد.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "وعبر"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "فإذا"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ليس هو"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "وطلبتُه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "يُوجَد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:04.270523216Z",
+  "model": "glm-5.2"
+}

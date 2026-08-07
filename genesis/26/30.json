@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "فصنع لهم مَشرَبًا، فأكلوا وشربوا.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "فصنع"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "مَشرَبًا"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "فأكلوا"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "وشربوا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:43:21.894795535Z",
+  "model": "glm-5.2"
+}

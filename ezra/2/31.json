@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezra 2:31",
+  "book": "ezra",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "بنو عيلام الآخَر، ألف ومئتان وأربعة وخمسون.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عيلام"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "الآخَر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ومئتان"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "خمسون"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "وأربعة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:01:07.623707478Z",
+  "model": "glm-5.2"
+}

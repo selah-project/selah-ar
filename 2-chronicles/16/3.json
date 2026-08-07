@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 16:3",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "«بريت بيني وبينك وبين أبي وبين أبيك. ها أنا أرسلتُ إليك فضة وذهب. اذهب وأبطل ⟨את⟩ بريتك مع بَعْشا ملك يسرايل، فيصعد عنّي.»",
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "بريت (عهد)"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "بيني"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "وبينك"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أبيك"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "أرسلتُ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضة"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "وذهب"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اذهب"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "أبطل"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "بريتك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بَعْشا"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بَعْشا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "فيصعد"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "عنّي"
+    }
+  ],
+  "timestamp": "2026-08-07T05:26:15.564934950Z",
+  "model": "glm-5.2"
+}

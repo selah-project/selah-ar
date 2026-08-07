@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "انظُر ⟨את⟩ عملَ إلوهيم، لأنّه مَن يقدر أن يُقَوِّم ⟨את⟩ ما عَوَّجَه؟",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "انظر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عمل"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "يقدر"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "أن يُقَوِّم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ما عَوَّجَه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "عَوَّجَه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:16.694172475Z",
+  "model": "glm-5.2"
+}

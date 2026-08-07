@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 12:6",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "فقال اسمعا الآن كلماتي إذا كان نافيكم يهوه ففي رؤيا أُعرِّفُ به وفي حلم أتكلّم معه",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "اسمعا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلماتي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "נביאכם",
+      "gloss": "نافيكم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "במראה",
+      "gloss": "ففي رؤيا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به"
+    },
+    {
+      "surface": "אתודע",
+      "gloss": "أُعرِّفُ"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "وفي حلم"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "أتكلّم"
+    },
+    {
+      "surface": "בו",
+      "gloss": "معه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:35:09.426910004Z",
+  "model": "glm-5.2"
+}

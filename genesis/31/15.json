@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "ألسنا محسوبات لديه غريبَات؟ لأنه باعنا، وقد أكل أيضًا أكلاً ⟨את⟩ فضّتنا.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "أليس"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "غريبَات"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "حُسِبنا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لديه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "باعنا"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "وقد أكل"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "أكلاً"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فضّتنا"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "فضّتنا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:46.369513302Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "كنجاستهم وكعصيانهم فعلتُ ⟨بهم⟩ ⟨את⟩، وسترتُ وجهي عنهم.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "كنجاستهم"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "وكعصيانهم"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "فعلتُ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "بهم"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "وسترتُ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهي"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "عنهم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:15:00.073133834Z",
+  "model": "glm-5.2"
+}

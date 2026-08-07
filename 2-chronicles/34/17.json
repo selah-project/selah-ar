@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 34:17",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "وصبّوا ⟨את⟩ الفضّة الموجودة في بيت يهوه، ودفعه إلى يد المُشتغلين وإلى يد صنّاع العمل».",
+  "tokens": [
+    {
+      "surface": "ויתיכו",
+      "gloss": "وصبّوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الفضّة"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "الفضّة"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "الموجودة"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في بيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויתנוהו",
+      "gloss": "ودفعوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يد"
+    },
+    {
+      "surface": "המפקדים",
+      "gloss": "المُشتغلين"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يد"
+    },
+    {
+      "surface": "עושי",
+      "gloss": "صنّاع"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "العمل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:32:48.270193859Z",
+  "model": "glm-5.2"
+}

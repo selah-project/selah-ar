@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "فحمَلوا ⟨את⟩ بُره على حَميرهم ومضوا من هناك.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "فحمَلوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بُره"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "بُره"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "حَميرهم"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ومضوا"
+    },
+    {
+      "surface": "משם",
+      "gloss": "من هناك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:56:18.809694681Z",
+  "model": "glm-5.2"
+}

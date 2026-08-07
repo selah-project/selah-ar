@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وقالَ موشيه لهم: «لا يُبقِ أحدٌ منه شيئًا حتى الصباح».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقالَ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "איש",
+      "gloss": "أحدٌ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "يُبقِ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "الصباح"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:06.555869794Z",
+  "model": "glm-5.2"
+}

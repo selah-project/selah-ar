@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 6:2",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "لكي تتّقي يهوه إلهك، لت حفظ جميع فرائضه ووصاياه التي أنا أوصيك بها، أنت وابنك وابن ابنك، كل أيام حياتك، ولكي تَطُول أيامك",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "تتّقي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلهك"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "لتحفظ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جميع"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميع"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "فرائضه"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "وصاياه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "أوصيك"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "وابنك"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "وابن"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ابنك"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "حياتك"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ولكي"
+    },
+    {
+      "surface": "יארכן",
+      "gloss": "تَطُول"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "أيامك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:53:04.964787467Z",
+  "model": "glm-5.2"
+}

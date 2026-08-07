@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "فيك يهوه احتميت، لا أخزى إلى الأبد، في صِدِقك نجّني",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "فيك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "احتميت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "أخزى"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "في صِدِقك"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "نجّني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:54.821626925Z",
+  "model": "glm-5.2"
+}

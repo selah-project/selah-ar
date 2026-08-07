@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 28:18",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "السالك بكمال يُخَلَّص، والمُعوَجّ الطرق يسقط دفعةً",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "السالك"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بكمال"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "يُخَلَّص"
+    },
+    {
+      "surface": "ונעקש",
+      "gloss": "والمُعوَجّ"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "الطرق"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "يسقط"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "دفعةً"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:55.611039759Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "فخلّص يهوه في ذلك اليوم ⟨את⟩ يسرائيل، وعبرت الحرب ⟨إلى⟩ بيت آوَن.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "فخلّص"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرائيل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "والحرب"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "عبرت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨إلى⟩",
+      "marks": "بيت آوَن"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "און",
+      "gloss": "آوَن"
+    }
+  ],
+  "timestamp": "2026-08-07T01:25:13.074090645Z",
+  "model": "glm-5.2"
+}

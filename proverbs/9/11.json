@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 9:11",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "لأنّه بي تكثرُ أيّامُك، وتُزادُ لك سنواتُ حياةٍ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "بي"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "تكثرُ"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "أيّامُك"
+    },
+    {
+      "surface": "ויוסיפו",
+      "gloss": "وتُزادُ\/تزداد"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "سنواتُ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حياةٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:55.353886993Z",
+  "model": "glm-5.2"
+}

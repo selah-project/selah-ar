@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 30:9",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وذهب داود هو وستّمئة رجل الذين معه، فجاؤوا حتى نهر هَبَشّور، و⟨أمّا⟩ الباقون فوقفوا.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "وذهب"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "وستّ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "فجاؤوا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "نهر"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "هَبَشّور"
+    },
+    {
+      "surface": "והנותרים",
+      "gloss": "والباقون"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "وقفوا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:31:00.511914746Z",
+  "model": "glm-5.2"
+}

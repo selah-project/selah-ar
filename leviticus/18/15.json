@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "عورة كلَّتك لا تكشفها. امرأة ابنك ⟨هي⟩؛ لا تكشف عورتها.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "عورة"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "كلَّتك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "تكشفها"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ابنك"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هي⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "تكشف"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "عورتها"
+    }
+  ],
+  "timestamp": "2026-08-07T05:38:34.325148411Z",
+  "model": "glm-5.2"
+}

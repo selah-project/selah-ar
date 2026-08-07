@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وجاء الملك وكل الشعب الذي معه وهُم مُنهَكون، فاستراح هناك.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "مُنهَكون"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "فاستراح"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:36:41.231907081Z",
+  "model": "glm-5.2"
+}

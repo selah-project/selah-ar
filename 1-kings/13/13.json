@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 13:13",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فقال لبنيه: «لِجُدوا لي الحِمار»، فلَجَدوا له الحِمار وركبه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "بنيه"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "لِجُدوا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "الحِمار"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "فلَجَدوا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "الحِمار"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "وركب"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:47:52.683678589Z",
+  "model": "glm-5.2"
+}

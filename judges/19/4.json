@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "فأمسكه حموه أبو الفتاة فأقام معه ثلاثة أيام، فأكلوا وشربوا وباتوا هناك.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "فأمسكه"
+    },
+    {
+      "surface": "בו",
+      "gloss": "به"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "حموه"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبو"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "الفتاة"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "فأقام"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ثلاثة"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "فأكلوا"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "وشربوا"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "وباتوا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:19:19.128762968Z",
+  "model": "glm-5.2"
+}

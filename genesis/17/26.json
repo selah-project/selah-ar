@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 17:26",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "في عينِ هذا اليومِ هذا خُتِنَ أفراهام، ويِشماعئيل ابنه",
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "في عينِ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليومِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "נמול",
+      "gloss": "خُتِنَ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "ويِشماعئيل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:35.475543749Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 131,
+  "translation": "فلينتظرْ يسرائيل إلَى يهوه من الآن وإلى الأبد.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "فلينتظرْ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "من الآن"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:15:51.464559571Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 66:19",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 66,
+  "translation": "لكنّ إلوهيم سمع، أصغى إلى صوت صلاتي.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "لكنّ\/حقًّا"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سمع"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "أصغى"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "إلى صوت"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "صلاتي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:20.565249891Z",
+  "model": "glm-5.2"
+}

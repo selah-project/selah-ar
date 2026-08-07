@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "كُلُّ مَنْ بِهِ نَسَمَةُ رُوحِ حَيَاةٍ فِي أَنْفِهِ، مِنْ كُلِّ مَنْ فِي الْيَابِسَةِ — مَاتُوا.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "من"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "نسمة"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حياة"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "في أنفه"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "من"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "في اليابسة"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ماتوا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:07.553164074Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "طيّبٌ ⟨أن⟩ يجلس على زاوية سقفٍ مِن امرأةٍ مِدارياتٍ وبيتٍ مشترك.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "طيّبٌ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "⟨أن⟩ يجلس"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "زاوية"
+    },
+    {
+      "surface": "גג",
+      "gloss": "سقفٍ"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "مِن امرأةٍ"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "مدارياتٍ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "وبيتٍ"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "مشترك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:44.671812729Z",
+  "model": "glm-5.2"
+}

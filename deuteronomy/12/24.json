@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "لا تأكله؛ على الأرض تسفكه كالماء.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "تأكله"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "تسفكه"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "كالماء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:21.392089556Z",
+  "model": "glm-5.2"
+}

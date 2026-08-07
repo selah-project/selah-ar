@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 15:23",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وإن كان على المِشكان أو على المتاع الذي هي جالسةٌ عليه، ففي مسِّّه ⟨إيّاه⟩ يتنجَّس إلى المساء.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "المِشكان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "المتاع"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "جالسة"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "בנגעו",
+      "gloss": "في مسّه"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨إيّاه⟩"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "يتنجَّس"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "المساء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:03.538081924Z",
+  "model": "glm-5.2"
+}

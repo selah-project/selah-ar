@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 18:2",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "ونزل في نهاية سنين إلى أخآب في شمرون، فذبح له أخآب صُؤجانًا وبقرًا بكثرة، وللشعب الذي معه، فأغراه أن يصعد إلى راموت جلعاد.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ونزل"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "في نهاية"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنين"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "أخآب"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "في شمرون"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "فذبح"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "أخآب"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "صؤجانًا"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "وبقرًا"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "بكثرة"
+    },
+    {
+      "surface": "ולעם",
+      "gloss": "وللشعب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "ויסיתהו",
+      "gloss": "فأغراه"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "أن يصعد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "راموت"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "جلعاد"
+    }
+  ],
+  "timestamp": "2026-08-07T05:27:02.069119676Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 21:9",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وإنْ ⟨يَعِدَها⟩ لابنه، كحقّ البنات يفعل لها.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإنْ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "لابنه"
+    },
+    {
+      "surface": "ייעדנה",
+      "gloss": "يَعِدَها"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "كحقّ"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "البنات"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يفعل"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:57.957171408Z",
+  "model": "glm-5.2"
+}

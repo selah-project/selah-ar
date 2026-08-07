@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "والثانية يصنعها عولاه كالمِشپات، ويُكفّر عنه الكوهين من خطيّته التي أخطأ، فيُصفح له.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الثانية"
+    },
+    {
+      "surface": "השני",
+      "gloss": "الثانية"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يصنعها"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "عولاه"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "كالمِشپات"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ويُكفّر"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عنه"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "من خطيّته"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "أخطأ"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "فيُصفح"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:32.905411285Z",
+  "model": "glm-5.2"
+}

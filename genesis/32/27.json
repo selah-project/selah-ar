@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 32:27",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "فقال: «أطلقني، لأنّ الفجر قد صعد.» فقال: «لا أطلقك إن لم تباركني.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "أطلقني"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "صعد"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "الفجر"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "أطلقك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إن"
+    },
+    {
+      "surface": "אם",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ברכתני",
+      "gloss": "تباركني"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:00.172347169Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "ويأخذ الكوهين من لُگ الزيت، ويصبّ على كفّ الكوهين اليسرى،",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ويأخذ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "من لُگ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "الزيت"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ويصبّ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כף",
+      "gloss": "كفّ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "اليسرى"
+    }
+  ],
+  "timestamp": "2026-08-07T00:19:37.243995512Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 27:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "لا تحجب وجهك عنّي، لا تمل بعبيدك في الغضب. معونتي ⟨كنت⟩ أنت. لا تطرحني ولا تتخلِّ عنّي، إلوهيم خلاصي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "تحجب"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهك"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "عنّي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תט",
+      "gloss": "تمل"
+    },
+    {
+      "surface": "באף",
+      "gloss": "في الغضب"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبيدك"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "معونتي"
+    },
+    {
+      "surface": "היית",
+      "gloss": "كنت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תטשני",
+      "gloss": "تطرحني"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "تتخلِّ عنّي"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "خلاصي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:05.322190854Z",
+  "model": "glm-5.2"
+}

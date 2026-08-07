@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 11:42",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "ويَبْسُطُ يدَهُ على البلدان، وأرضُ مصرايم لا تكون لِنجاة",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ويَبْسُطُ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يدَهُ"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "على البلدان"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "وأرضُ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "لِنجاة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:00:04.519249257Z",
+  "model": "glm-5.2"
+}

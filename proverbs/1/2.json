@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "لِمعرفةِ حِكمهٍ وموصرٍ، لِفهمِ أقوالِ بيناه",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "لِمعرفةِ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حِكمهٍ"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "وموصرٍ"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "لِفهمِ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "أقوالِ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "بيناه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:19:45.463246828Z",
+  "model": "glm-5.2"
+}

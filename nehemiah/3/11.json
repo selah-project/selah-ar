@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 3:11",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "مقدارًا ثانيًا تشدّد ملكيا بن حارم، وحشوب بن فاحت موآب، و⟨את⟩ برج الأفران.",
+  "tokens": [
+    {
+      "surface": "מדה",
+      "gloss": "مقدارًا"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ثانيًا"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "تشدّد"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "ملكيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "حارم"
+    },
+    {
+      "surface": "וחשוב",
+      "gloss": "وحشوب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "فاحت"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "برج"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "برج"
+    },
+    {
+      "surface": "התנורים",
+      "gloss": "الأفران"
+    }
+  ],
+  "timestamp": "2026-08-07T05:04:22.446975148Z",
+  "model": "glm-5.2"
+}

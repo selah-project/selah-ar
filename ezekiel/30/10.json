@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "هكذا قال أدوناي يهوه: و⟨أُوقِفُ⟩ ⟨את⟩ جموع مصرايم بيد نبوخدريصّر ملك بافل.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "و⟨أُوقِفُ⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جموع مصرايم"
+    },
+    {
+      "surface": "המון",
+      "gloss": "جموع"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بيد"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "نبوخدريصّر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:07:07.131721241Z",
+  "model": "glm-5.2"
+}

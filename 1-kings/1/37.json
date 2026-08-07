@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 1:37",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "كما كان يهوه مع سيّدِي الملك، كذلك ليكن مع شلوموه، وليعظّم ⟨את⟩ كرسيّه فوق كرسيّ سيّدِي الملك داود.»",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سيّدي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "כן",
+      "gloss": "كذلك"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ليكن"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموه"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "وليعظّم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كرسيّه"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "كرسيّه"
+    },
+    {
+      "surface": "מכסא",
+      "gloss": "فوق كرسيّ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سيّدي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    }
+  ],
+  "timestamp": "2026-08-07T01:42:13.773140023Z",
+  "model": "glm-5.2"
+}

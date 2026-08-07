@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فقالت للملك: إمِت كان الكلام الذي سمعتُه في أرضي عن أمورك وعن حكمتك",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "إمِت"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الكلام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "سمعتُه"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "في أرضي"
+    },
+    {
+      "surface": "על",
+      "gloss": "عن"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "أمورك"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعن"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "حكمتك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:46:33.959214469Z",
+  "model": "glm-5.2"
+}

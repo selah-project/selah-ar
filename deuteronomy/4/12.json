@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 4:12",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فكلّمكم يهوه من وسط النار: صوت كلامٍ أنتم سامعون، وصورةً لستم ⟨أنتم⟩ روين، إلا صوتًا.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "فكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "كم"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "من وسط"
+    },
+    {
+      "surface": "האש",
+      "gloss": "النار"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "كلام"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "سامعون"
+    },
+    {
+      "surface": "ותמונה",
+      "gloss": "وصورة"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "لستم"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "روين"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "إلا"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوتًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:15.318773345Z",
+  "model": "glm-5.2"
+}

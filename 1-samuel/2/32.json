@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 2:32",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فتُشاهد ضيقَ المسكن في كلِّ ما يُحسِن ⟨به⟩ ⟨את⟩ يسرايل، ولا يكون شيخٌ في بيتك كلَّ الأيام.",
+  "tokens": [
+    {
+      "surface": "והבטת",
+      "gloss": "فتُشاهد"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ضيقَ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "المسكن"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلِّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "يُحسِن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرايل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "شيخٌ"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "في بيتك"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "الأيام"
+    }
+  ],
+  "timestamp": "2026-08-07T01:21:12.472991496Z",
+  "model": "glm-5.2"
+}

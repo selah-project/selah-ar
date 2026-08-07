@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "يمقتونني، أبعدوا عنّي، ومن وجهي لم يَكُفّوا عن البَصَق.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "يمقتونني"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "أبعدوا"
+    },
+    {
+      "surface": "מני",
+      "gloss": "عنّي"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ومن وجهي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "كفّوا"
+    },
+    {
+      "surface": "רק",
+      "gloss": "البَصَق"
+    }
+  ],
+  "timestamp": "2026-08-07T04:40:27.820945719Z",
+  "model": "glm-5.2"
+}

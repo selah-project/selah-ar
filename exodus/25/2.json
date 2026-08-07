@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "«كلّم بني يِسرائيل فيأخذوا لي ترومة؛ من كلّ رجل يحرّضه قلبه تأخذون ⟨את⟩ ترومتي.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "كلّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "فليأخذوا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "ترومة"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "من"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "يحرّضه"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "قلبه"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "تأخذون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ترومتي"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "ترومتي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:17.532653412Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 18:36",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فسكت الشعب ولم يُجيبوه ⟨את⟩ كلمة، لأنّ وصيّة الملك ⟨هي⟩ قائلةً: لا تُجيبوه.",
+  "tokens": [
+    {
+      "surface": "והחרישו",
+      "gloss": "فسكت"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "يُجيبوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "كلمة"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "وصيّة"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨هي⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلةً"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "تُجيبوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:59:48.816695886Z",
+  "model": "glm-5.2"
+}

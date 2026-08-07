@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 26:14",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "وتصنع غطاءً للخيمة جلود كباش مُحمَرّة، وغطاء جلود تَحَش من فوق.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "وتصنع"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "غطاء"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "للخيمة"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "جلود"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "كباش"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "مُحمَرّة"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "وغطاء"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "جلود"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "تَحَش"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "من فوق"
+    }
+  ],
+  "timestamp": "2026-08-07T00:09:01.759242458Z",
+  "model": "glm-5.2"
+}

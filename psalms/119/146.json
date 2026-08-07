@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 146,
+  "ref": "psalms 119:146",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "دعوتُكَ؛ خلِّصْني، و⟨سـ⟩أحفظُ شهاداتك",
+  "tokens": [
+    {
+      "surface": "קראתיך",
+      "gloss": "دعوتُكَ"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "خلِّصْني"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "و⟨سـ⟩أحفظُ"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "شهاداتك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:39.558916223Z",
+  "model": "glm-5.2"
+}

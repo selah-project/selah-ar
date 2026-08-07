@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "وأخذ شاؤول ثلاثة آلاف رجل مختار من كل يسرائيل، ومشى ليطلب ⟨את⟩ داود ورجاله على وجه صخور اليعليم.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ثلاثة"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "آلاف"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "مختار"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ومشى"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ليطلب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داود"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ورجاله"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "صخور"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "اليعليم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:29:26.339821522Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 12:9",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "و⟨يكون⟩ في اليوم ذلك أَطلب لإهلاك ⟨את⟩ كل الأمم الآتين على يروشالايم.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و⟨يكون⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في اليوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "أَطلب"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "لإهلاك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل الأمم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "الآتين"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:38:23.634648169Z",
+  "model": "glm-5.2"
+}

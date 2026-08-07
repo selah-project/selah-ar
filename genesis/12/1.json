@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وقال يهوه لأفرام: اذهبْ لنفسك من أرضك ومن موطِئ ولادتك ومن بيت أبيك إلى الأرض التي أُريكَها.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "أفرام"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اذهبْ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "من أرضك"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "وممن وُلدتَ"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "ومن بيت"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أبيك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "أُريكَها"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:44.052598563Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 6:1",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وكلم يهوه موشيه قائلاً:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وكلم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    }
+  ],
+  "timestamp": "2026-08-07T00:30:29.650095238Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 21:12",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "من هناك ارتحلوا، ونزلوا في وادي زاريد.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "من هناك"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "ارتحلوا"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ونزلوا"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "في وادي"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "زاريد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:37:42.004824171Z",
+  "model": "glm-5.2"
+}

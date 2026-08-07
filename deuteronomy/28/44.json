@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 28:44",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "هو يُقرِضُكَ وأنت لا تُقرِضُهُ، هو ⟨يكون⟩ للرأس وأنت ⟨تكون⟩ للذنب",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ילוך",
+      "gloss": "يُقرِضُكَ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "وأنت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "تُقرِضُهُ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "للرأس"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "وأنت"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "לזנב",
+      "gloss": "للذنب"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:43.920786078Z",
+  "model": "glm-5.2"
+}

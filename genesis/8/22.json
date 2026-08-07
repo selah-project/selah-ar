@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 8:22",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "بعدُ، كلَّ أيام الأرض: زرعٌ وحصاد، وبردٌّ ⟨وحرّ⟩، وقيظٌ وخريف، ونهارٌ وليل، لا تَسكُت.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "زرع"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "وحصاد"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "وبرد"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "وحرّ"
+    },
+    {
+      "surface": "וקיץ",
+      "gloss": "وقيظ"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "وخريف"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ونهار"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "وليل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישבתו",
+      "gloss": "تسكت"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:35.687410785Z",
+  "model": "glm-5.2"
+}

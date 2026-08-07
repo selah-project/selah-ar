@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 47:6",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 47,
+  "translation": "وقالَ لي: «هل رأيتَ يا ابن آدم؟» وأمَرَني وأعادَني إلى حافّةِ النَّهر.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقالَ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "هل رأيتَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "يا ابن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "ויולכני",
+      "gloss": "وأمَرَني"
+    },
+    {
+      "surface": "וישבני",
+      "gloss": "وأعادَني"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "إلى حافّةِ"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "النَّهر"
+    }
+  ],
+  "timestamp": "2026-08-07T03:17:23.315659402Z",
+  "model": "glm-5.2"
+}

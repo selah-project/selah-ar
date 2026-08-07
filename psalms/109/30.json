@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 109,
+  "translation": "أحمد يهوه جدًّا بفمي، وفي وسط كثيرين أسبّحه",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "أحمد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "بفمي"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "وفي وسط"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرين"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "أسبّحه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:22.625064814Z",
+  "model": "glm-5.2"
+}

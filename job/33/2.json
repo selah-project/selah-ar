@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 33:2",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "ها ⟨أنا⟩ الآن فتحتُ فمي، لساني تكلّم في حنكي.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "פתחתי",
+      "gloss": "فتحتُ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فمي"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "لساني"
+    },
+    {
+      "surface": "בחכי",
+      "gloss": "في حنكي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:41:27.516840039Z",
+  "model": "glm-5.2"
+}

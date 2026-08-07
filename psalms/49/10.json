@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "فيَحيى ⟨أيُّ أحدٍ⟩ إلى الأبد؟ لا يرى الهُوَّة.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "فيَحيى"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨أيُّ أحدٍ⟩"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "يرى"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "الهُوَّة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:51:42.535244509Z",
+  "model": "glm-5.2"
+}

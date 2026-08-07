@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "الصدّيق إلى الأبد لا يتزعزع، والأشرار لا يسكنون الأرض.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "الصدّيق"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "בל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "يتزعزع"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "والأشرار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "يسكنون"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T04:24:41.438362565Z",
+  "model": "glm-5.2"
+}

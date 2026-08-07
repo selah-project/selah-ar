@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وفي حصادكم ⟨את⟩ حصيد أرضكم لا تُتمّ طرف حقلك للحصاد، ولُقّاط حصيدك لا تُلقّطه.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "وفي حصادكم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حصيد"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "حصيد"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "أرضكم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "تُتمّ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "طرف"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "حقلك"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "للحصاد"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "ولُقّاط"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "حصيدك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "تُلقّطه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:38:31.391630014Z",
+  "model": "glm-5.2"
+}

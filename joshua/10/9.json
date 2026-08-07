@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وجاء إليهم يهوشُع فجأةً، كلَّ الليل صعد من هاجيلجال",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "إليهم"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشُع"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "فجأةً"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "الليل"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "صعد"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "هاجيلجال"
+    }
+  ],
+  "timestamp": "2026-08-07T07:20:29.203104440Z",
+  "model": "glm-5.2"
+}

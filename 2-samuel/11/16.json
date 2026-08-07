@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨كان⟩ في مُراقبة يوآب المدينة، أنّه جعل ⟨את⟩ أوريّا في المكان الذي عرف أنّ رجال بأس هناك.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "في مُراقبة"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨على⟩"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "أنّه جعل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أوريّا"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "أوريّا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "في"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "المكان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "عرف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بأس"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:34:36.808270248Z",
+  "model": "glm-5.2"
+}

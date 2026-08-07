@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 48:22",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "وأنا أعطيتك شكيمًا واحدًا على إخوتك، الذي أخذته من يد الأموريّ بسيفي ⟨وبقوسي⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "أعطيتُ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ـك"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شكيمًا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "إخوتك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "أخذتُـه"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يد"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "الـأموريّ"
+    },
+    {
+      "surface": "בחרבי",
+      "gloss": "بسيفي"
+    },
+    {
+      "surface": "ובקשתי",
+      "gloss": "وبقوسي"
+    }
+  ],
+  "timestamp": "2026-08-07T07:00:38.758630794Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 4:6",
+  "book": "ruth",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فقال الفادي: «لا أقدر أن أفدي لنفسي، لئلا أُفسد ميراثي. افدَ أنتَ ⟨את⟩ فِدائي، لأنّي لا أقدر أن أفدي».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "الفادي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "أقدر"
+    },
+    {
+      "surface": "לגאול",
+      "gloss": "أن أفدي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لنفسي"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلا"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "أُفسد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ميراثي"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "ميراثي"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "افدَ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فِدائي"
+    },
+    {
+      "surface": "גאלתי",
+      "gloss": "فِدائي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "أقدر"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "أن أفدي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:47:36.544527060Z",
+  "model": "glm-5.2"
+}

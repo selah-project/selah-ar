@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joel 1:6",
+  "book": "joel",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "لأنّ أمّةً صعدت على أرضي، عاتيةً ولا عدد لها، أسنانها أسنانُ لَبوة، ولَه أنيابُ لَيبية",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "أمّة"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "صعدت"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "أرضي"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "عاتية"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "عدد لها"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "أسنانها"
+    },
+    {
+      "surface": "שני",
+      "gloss": "أسنان"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "لَبوة"
+    },
+    {
+      "surface": "ומתלעות",
+      "gloss": "وأنياب"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "لَيبية"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لَه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:23:14.202740434Z",
+  "model": "glm-5.2"
+}

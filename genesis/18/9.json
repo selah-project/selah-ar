@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فقالوا إليه: أين سارة امرأتك؟ فقال: ها هي في الخيمة.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقالوا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "איה",
+      "gloss": "أين"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارة"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "امرأتك"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها هي"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "في الخيمة"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:58.754303533Z",
+  "model": "glm-5.2"
+}

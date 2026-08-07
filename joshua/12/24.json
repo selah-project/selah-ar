@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "مَلِكُ تِرصَةَ واحدٌ؛ كلّ الملوكِ واحدٌ وثلاثون.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "مَلِكُ"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "تِرصَةَ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدٌ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "الملوكِ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ثلاثون"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "وواحد"
+    }
+  ],
+  "timestamp": "2026-08-07T01:06:01.363201493Z",
+  "model": "glm-5.2"
+}

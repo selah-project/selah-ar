@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 9:17",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "مياهٌ مسروقةٌ تَحلُو، وخبزُ السّتارِ يَطيبُ.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "مياه"
+    },
+    {
+      "surface": "גנובים",
+      "gloss": "مسروقة"
+    },
+    {
+      "surface": "ימתקו",
+      "gloss": "تَحلُو"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "وخبز"
+    },
+    {
+      "surface": "סתרים",
+      "gloss": "السّتار"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "يَطيب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:33.353669213Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "لإزالة المُلك من بيت شاؤول، ولإقامة ⟨את⟩ كرسي داويد على يسرائيل وعلى يهودا، من دان وإلى بئر شبع».",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "لإزالة"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "المُلك"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "من بيت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "ولإقامة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كرسي"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "كرسي"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "من دان"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شبع"
+    }
+  ],
+  "timestamp": "2026-08-07T01:32:21.013995146Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "فسمعت عتلياهو ⟨את⟩ صوت الشعب الراكضين والمسبّحين ⟨את⟩ الملك، فجاءت إلى الشعب في بيت يهوه.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "فسمعت"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "عتلياهو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صوت"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "الراكضين"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "والمسبّحين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الملك"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "فجاءت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "בית",
+      "gloss": "في بيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:28:26.823449363Z",
+  "model": "glm-5.2"
+}

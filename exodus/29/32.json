@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "ويأكل أهارونُ وبنوه ⟨את⟩ لحمَ الكبش و⟨את⟩ الخبزَ الذي في السلّ ⟨عند⟩ مدخل خيمة الموعد.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "ويأكل"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "وبنوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لحم"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "لحم"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "الكبش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الخبز"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "الخبز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "في السلّ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "مدخل"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    }
+  ],
+  "timestamp": "2026-08-07T05:37:34.901247725Z",
+  "model": "glm-5.2"
+}

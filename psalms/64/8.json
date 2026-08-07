@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 64,
+  "translation": "ويصيبُهم إلوهيم بسهمٍ، فجأةً كانت ضرباتُهم.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "ويصيبُهم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "بسهمٍ"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "فجأةً"
+    },
+    {
+      "surface": "היו",
+      "gloss": "كانت"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "ضرباتُهم"
+    }
+  ],
+  "timestamp": "2026-08-07T06:04:42.908686604Z",
+  "model": "glm-5.2"
+}

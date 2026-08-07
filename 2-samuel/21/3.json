@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فقال دافيد للجبعونيّين: «ماذا أصنع لكم وبِمَ أكفّر فتباركوا ⟨את⟩ ميراث يهوه؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "دافيد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "الجبعونيّين"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "أصنع"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "وبِمَ"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "أكفّر"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "فتباركوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ميراث"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ميراث"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:39:25.408256557Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 82,
+  "translation": "أنقذوا الذليل والبائس، من يدِ الأشرار خلّصوهنّ.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "أنقذوا"
+    },
+    {
+      "surface": "דל",
+      "gloss": "الذليل"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "والبائس"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يد"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الأشرار"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "خلّصوهنّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:01:19.626112504Z",
+  "model": "glm-5.2"
+}

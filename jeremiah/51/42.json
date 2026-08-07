@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 51,
+  "translation": "صَعِدَ البحرُ على بافِل، بضجيج أمواجه غُطّيَت.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "صَعِدَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافِل"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "بضجيج"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "أمواجه"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "غُطّيَت"
+    }
+  ],
+  "timestamp": "2026-08-07T02:53:21.389375251Z",
+  "model": "glm-5.2"
+}

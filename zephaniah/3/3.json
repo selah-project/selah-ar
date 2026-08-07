@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "book": "zephaniah",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "رؤساؤُها في وسطِها أسودٌ زمجرةٌ، قضاتُها ذئابُ المساءِ لا يُتركون عظمًا للصباحِ.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "رؤساؤُها"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "في وسطِها"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "أسودٌ"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "زمجرةٌ"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "قضاتُها"
+    },
+    {
+      "surface": "זאבי",
+      "gloss": "ذئابُ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "المساءِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "גרמו",
+      "gloss": "يُتركون"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "للصباحِ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:33:45.871204897Z",
+  "model": "glm-5.2"
+}

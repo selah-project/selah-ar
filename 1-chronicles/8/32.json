@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 8:32",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "ومِقلوت ولَد ⟨את⟩ شِمعاه. وهؤلاء أيضًا مقابل إخوتهم سكنوا في يروشالايم مع إخوتهم.",
+  "tokens": [
+    {
+      "surface": "ומקלות",
+      "gloss": "ومِقلوت"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شِمعاه"
+    },
+    {
+      "surface": "שמאה",
+      "gloss": "شِمعاه"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "مقابل"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "إخوتهم"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "سكنوا"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "في يروشالايم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "إخوتهم"
+    }
+  ],
+  "timestamp": "2026-08-07T06:12:59.426214019Z",
+  "model": "glm-5.2"
+}

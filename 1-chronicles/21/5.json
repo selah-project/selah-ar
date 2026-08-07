@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 21:5",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فأعطى يوآب ⟨את⟩ عدد إحصاء الشعب لداويد، فكان كل يسرايل ألف ألفٍ ومئة ألف رجلٍ سالبٍ سيفًا، ويهوداه أربع مئة وسبعين ألف رجلٍ سالبٍ سيفًا.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "فأعطى"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عدد"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "عدد"
+    },
+    {
+      "surface": "מפקד",
+      "gloss": "إحصاء"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "فكان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ومئة"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "سالب"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "سيف"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ويهوداه"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "أربع"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "وسبعين"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "سالب"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "سيف"
+    }
+  ],
+  "timestamp": "2026-08-07T05:17:07.292431075Z",
+  "model": "glm-5.2"
+}

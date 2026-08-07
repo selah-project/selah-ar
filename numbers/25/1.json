@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 25:1",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وجلس يسرايل في شوطيم، وبدأ الشعب ⟨في⟩ الزنى مع بنات موآف.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "وجلس"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "בשטים",
+      "gloss": "في شوطيم"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "وبدأ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "⟨في⟩ الزنى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مع"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "بنات"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآف"
+    }
+  ],
+  "timestamp": "2026-08-07T00:39:45.930549018Z",
+  "model": "glm-5.2"
+}

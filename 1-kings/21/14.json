@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فأرسلوا إلى إيزَبَل قائلين: «رُجم نابوت ومات.»",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "فأرسلوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "إيزَبَل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "رُجم"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "نابوت"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ومات"
+    }
+  ],
+  "timestamp": "2026-08-07T01:51:19.735658251Z",
+  "model": "glm-5.2"
+}

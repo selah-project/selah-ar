@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 2:1",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فالتفتنا ورحلنا نحو البريّة على طريق بحر سوف، كما تكلّم يهوه إليّ، وأدرنا بالدوران حول ⟨את⟩ جبل سعير أيّامًا كثيرة.",
+  "tokens": [
+    {
+      "surface": "ונפן",
+      "gloss": "فالتفتنا"
+    },
+    {
+      "surface": "ונסע",
+      "gloss": "ورحلنا"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "نحو البريّة"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "على طريق"
+    },
+    {
+      "surface": "ים",
+      "gloss": "بحر"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سوف"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "وأدرنا بالدوران"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جبل"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سعير"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيّامًا"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:37.336240534Z",
+  "model": "glm-5.2"
+}

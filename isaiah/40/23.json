@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 40:23",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "الذي يجعل الروّاة إلى لا شيء، قضاة الأرض كالتّوهو صنعها.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "الذي يجعل"
+    },
+    {
+      "surface": "רוזנים",
+      "gloss": "الرؤساء"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "إلى لا شيء"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "قضاة"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "כתהו",
+      "gloss": "كالتّوهو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنعها"
+    }
+  ],
+  "timestamp": "2026-08-07T02:18:34.093912389Z",
+  "model": "glm-5.2"
+}

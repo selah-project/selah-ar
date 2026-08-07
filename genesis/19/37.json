@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 19:37",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وَلَدَتِ البِكرُ ابنًا، وَدَعَتِ اسمَهُ موآب؛ هُوَ أبو موآب إِلى هذا اليوم.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "وَلَدَتِ"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "البِكرُ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنًا"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "وَدَعَتِ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمَهُ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هُوَ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبو"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إِلى"
+    },
+    {
+      "surface": "היום",
+      "gloss": "هذا اليوم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:49.833374170Z",
+  "model": "glm-5.2"
+}

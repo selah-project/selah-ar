@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 29:10",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "أطفالكم نساؤكم وغِرَكُمُ الذي في وسط محلاتك، من حاطب حطبك إلى ساقي مائك.",
+  "tokens": [
+    {
+      "surface": "טפכם",
+      "gloss": "أطفالكم"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "نساؤكم"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "وغِرَكُم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "محلاتك"
+    },
+    {
+      "surface": "מחטב",
+      "gloss": "من حاطب"
+    },
+    {
+      "surface": "עציך",
+      "gloss": "حطبك"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "שאב",
+      "gloss": "ساقي"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "مائك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:51.602451209Z",
+  "model": "glm-5.2"
+}

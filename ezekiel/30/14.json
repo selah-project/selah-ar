@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 30:14",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وأُخرّب ⟨את⟩ فتروس، وأجعل نارًا في صوعن، وأُجري أحكامًا في نو.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "وأُخرّب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فتروس"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "فتروس"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "وأجعل"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نارًا"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "في صوعن"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "وأُجري"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "أحكامًا"
+    },
+    {
+      "surface": "בנא",
+      "gloss": "في نو"
+    }
+  ],
+  "timestamp": "2026-08-07T03:07:00.192535318Z",
+  "model": "glm-5.2"
+}

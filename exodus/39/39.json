@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 39:39",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "⟨את⟩ مذبح النحاس و⟨את⟩ شبّاكته النحاسيّة التي له ⟨את⟩ عصيّه و⟨את⟩ كلّ آنيته ⟨את⟩ الحوض و⟨את⟩ قاعدته",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مذبح"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "النحاس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "شبّاكته"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "شبّاكته"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "النحاسيّة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عصيّه"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "عصيّه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "أنيته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الحوض"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "الحوض"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "قاعدته"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "قاعدته"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:09.807876682Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "من أمر الكذب تتباعد، وبريًّا وصِدّيقًا لا تقتل، لأنّي لا أُصَدِّق رشيعًا",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "من أمر"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "الكذب"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "تتباعد"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "وبريًّا"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "وصِدّيقًا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "تقتل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "أُصَدِّق"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "رشيعًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:13.960305009Z",
+  "model": "glm-5.2"
+}

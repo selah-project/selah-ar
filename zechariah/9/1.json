@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 9:1",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "حُمْلُ كلمةِ يهوه في أرضِ حَدراك، ودمشقُ مَناحُه، لأنَّ ليهوه عينَ الإنسان، وكلَّ أسباطِ يسرايل.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "حُمْل"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمةِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرضِ"
+    },
+    {
+      "surface": "חדרך",
+      "gloss": "حَدراك"
+    },
+    {
+      "surface": "ודמשק",
+      "gloss": "ودمشقُ"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "مَناحُه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عينَ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلَّ"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "أسباطِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:36:31.950970317Z",
+  "model": "glm-5.2"
+}

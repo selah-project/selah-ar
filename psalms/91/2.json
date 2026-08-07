@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 91,
+  "translation": "أقولُ ليهوه: «مَلجَإي وحِصني، إلوهيمي، به أتوكّلُ.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "أقولُ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "مَلجَإي"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "وحِصني"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيمي"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "أتوكّلُ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "به"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:33.098325851Z",
+  "model": "glm-5.2"
+}

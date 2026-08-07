@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "ليس قدّوس ك يهوه، لأنّه ليس سواك، وليس صخرة ك إلوهيمنا",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "قدّوس"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "ك يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "سواك"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "وليس"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صخرة"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "ك إلوهيمنا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:21:10.325858112Z",
+  "model": "glm-5.2"
+}

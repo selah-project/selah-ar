@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "ووضع عليه ⟨את⟩ الصُّدر، وجعل في الصُّدر ⟨את⟩ الأوريم و⟨את⟩ التُّميم.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ووضع"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الصُّدر"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "الصُّدر"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "وجعل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "في"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "الصُّدر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأوريم"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "الأوريم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "التُّميم"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "التُّميم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:42.764611527Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وكمل ⟨التكلّم⟩ معه، وصعد إلوهيم من على أفراهام.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "وكمل"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "⟨التكلّم⟩"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "وصعد"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "من على"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:32.702136097Z",
+  "model": "glm-5.2"
+}

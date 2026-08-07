@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وأخذ نحو خمسة آلاف رجل وجعلهم كمينًا بين بيت-إيل والعاي، من غرب المدينة.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "نحو خمسة"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "آلاف"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "وجعلهم"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩هم",
+      "marks": "كمين"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "كمينًا"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-إيل"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "העי",
+      "gloss": "العاي"
+    },
+    {
+      "surface": "מים",
+      "gloss": "من غرب"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "المدينة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:04:44.852245314Z",
+  "model": "glm-5.2"
+}

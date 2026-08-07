@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 74,
+  "translation": "اذكُرْ هذا، يا عدوُّ، ⟨الذي⟩ هجا يهوه، ⟨و⟩شعبٌ نابل احتقر اسمَك.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "اذكُرْ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "يا عدوُّ"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "هجا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "⟨و⟩شعبٌ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نابل"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "احتقر"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "اسمَك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:59.193581483Z",
+  "model": "glm-5.2"
+}

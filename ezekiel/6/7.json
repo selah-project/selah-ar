@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وسيقعُ قتيلٌ في وسطكم، فتعلمون أنّي أنا يهوه.",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "وسيقعُ"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "قتيلٌ"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "في وسطكم"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "فتعلمون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:55:29.864728891Z",
+  "model": "glm-5.2"
+}

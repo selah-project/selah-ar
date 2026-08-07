@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 21:1",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وقال يهوه لموشيه: قل للكوهنينين بني أهارون، وقل لهم: من أجل نَفْس لا يتنجّس في شعبه،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكوهنينين"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "وقل"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "من أجل نَفْس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "يتنجّس"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "في شعبه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:44.908288350Z",
+  "model": "glm-5.2"
+}

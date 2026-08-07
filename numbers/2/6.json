@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وجيشه ومَعْدوده: أربعةً وخمسين ألفًا وأربعَ مِئة.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "وجيشه"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "ومَعْدوده"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "أربعةً"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "وخمسين"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفًا"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "وأربعَ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مِئة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:18.490285482Z",
+  "model": "glm-5.2"
+}

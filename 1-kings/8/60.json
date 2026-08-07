@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-kings 8:60",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "لكي تَعْلَم جميعُ شعوب الأرض أنّ يهوه ⟨هو⟩ الإلوهيم، لا غير.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "تَعْلَم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميعُ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "شعوب"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الإلوهيم"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "غير"
+    }
+  ],
+  "timestamp": "2026-08-07T01:45:47.355955363Z",
+  "model": "glm-5.2"
+}

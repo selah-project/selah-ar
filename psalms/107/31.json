@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 107,
+  "translation": "ليحمدوا يهوه على حِسِده، و⟨على⟩ عجائبه لبني آدم",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ليحمدوا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حِسِده"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "وعجائبه"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لبني"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-08-07T06:06:03.140911166Z",
+  "model": "glm-5.2"
+}

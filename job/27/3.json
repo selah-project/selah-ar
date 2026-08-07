@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 27:3",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "لأنّ كلَّ ما دامت نَسَمتي فيّ، ورُوحُ أَلُوَهّ في أنفي،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ما دامت"
+    },
+    {
+      "surface": "נשמתי",
+      "gloss": "نَسَمتي"
+    },
+    {
+      "surface": "בי",
+      "gloss": "فيّ"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ورُوحُ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "أَلُوَهّ"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "في أنفي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:40:03.206284111Z",
+  "model": "glm-5.2"
+}

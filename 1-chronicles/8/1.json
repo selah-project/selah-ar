@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وَبِنْيامين وَلَدَ ⟨את⟩ بَلَع بِكورَهُ؛ أَشْبيل الثاني، وَأَحْرَح الثالث.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "وبنيامين"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وَلَدَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بَلَع"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "بَلَع"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "بِكورَهُ"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "أَشْبيل"
+    },
+    {
+      "surface": "השני",
+      "gloss": "الثاني"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "وَأَحْرَح"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "الثالث"
+    }
+  ],
+  "timestamp": "2026-08-07T05:12:16.808291147Z",
+  "model": "glm-5.2"
+}

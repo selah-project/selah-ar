@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وجاء كلُّ شيوخِ يسرائيل، وحملَ الكهنةُ ⟨את⟩ التابوتَ.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "شيوخِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "وحملَ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكهنةُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "التابوت"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "التابوتَ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:45:30.770650613Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 34:16",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "فتّشوا في سفرِ يهوه واقرأوا: لا واحدةٌ منهنّ تُفقَد، أنثى لا تُحصى برفيقتها. لأنّ فمَه هو أمر، وروحه هو جمعهن.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "فتّشوا"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "في"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سفرِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "واقرأوا"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "واحدةٌ"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "منهنّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נעדרה",
+      "gloss": "تُفقَد"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "أنثى"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "برفيقتها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "تُحصى"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فمَ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أمر"
+    },
+    {
+      "surface": "ורוחו",
+      "gloss": "وروحه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "קבצן",
+      "gloss": "جمعهن"
+    }
+  ],
+  "timestamp": "2026-08-07T02:16:36.823255161Z",
+  "model": "glm-5.2"
+}

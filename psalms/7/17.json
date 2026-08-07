@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "يعود تعَبُه على رأسه، وعلى هامَتِه عنفُه ينزل.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "يعود"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "تعبُه"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "على رأسه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "هامَتِه"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "عنفُه"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ينزل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:39:35.045733042Z",
+  "model": "glm-5.2"
+}

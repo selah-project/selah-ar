@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 51,
+  "translation": "أُعلِّم المتمرّدين طرقَك، فيعود الخطأة إليك",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "أُعلِّم"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "المتمرّدين"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "طرقَك"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "فيعود الخطأة"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-07T03:53:26.100898914Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "فيرسل شيوخ مدينه وياخذونه من هناك ويسلّمونه ليد غوئيل الدم فيموت.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "فيرسل"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "شيوخ"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "مدينه"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "وياخذونه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "من هناك"
+    },
+    {
+      "surface": "משם",
+      "gloss": "من هناك"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ويسلّمونه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ليد"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ليد"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "غوئيل"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "الدم"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "فيموت"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:00.194637411Z",
+  "model": "glm-5.2"
+}

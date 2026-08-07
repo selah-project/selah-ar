@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "فوجدها ملاك يهوه على عين الماء في البرّيّة، على العين في طريق شور.",
+  "tokens": [
+    {
+      "surface": "וימצאה",
+      "gloss": "فوجدها"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ملاك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عين"
+    },
+    {
+      "surface": "המים",
+      "gloss": "الماء"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في البرّيّة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "העין",
+      "gloss": "العين"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "في طريق"
+    },
+    {
+      "surface": "שור",
+      "gloss": "شور"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:49.327539953Z",
+  "model": "glm-5.2"
+}

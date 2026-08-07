@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 31:13",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "إنْ أُهينَ حقُّ عبدي أو أمتي في خصومتهم معي،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إنْ"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "أُهينَ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حقُّ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عبدي"
+    },
+    {
+      "surface": "ואמתי",
+      "gloss": "أو أمتي"
+    },
+    {
+      "surface": "ברבם",
+      "gloss": "في خصومتهم"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "معي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:41:10.073206675Z",
+  "model": "glm-5.2"
+}

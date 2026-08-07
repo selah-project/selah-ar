@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "وأُقفر أنا ⟨את⟩ الأرض، فيُدهش عليها أعداؤكم الساكنون فيها.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "وأُقفر"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "فيُدهش"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "عليها"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "أعداؤكم"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "الساكنون"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:17.986115231Z",
+  "model": "glm-5.2"
+}

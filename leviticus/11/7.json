@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨את⟩ الخنزير، لأنه مشقّص ظلفًا ⟨هو⟩، وشقَّ شقَّ ظلف، وهو جِرَّة لا يجترّها — نجس ⟨هو⟩ لكم.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الخنزير"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "الخنزير"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "مشقّص"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "ظلفًا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "وشقَّ"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "شقَّ"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "ظلف"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "جِرَّة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "يجترّها"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:14.232325298Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 17:19",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "حتى يهودا لم يحفظ ⟨את⟩ وصايا يهوه إلوهيمهم، وساروا في فرائض إسرايل التي صنعوها.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "يحفظ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وصايا"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "وصايا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "إلوهيمهم"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "وساروا"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "في فرائض"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرايل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "صنعوها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:59:55.069416510Z",
+  "model": "glm-5.2"
+}

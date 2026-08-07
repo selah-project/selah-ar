@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وأخذَ الرجالُ مِن زادِهم، و⟨את⟩ فمَ يهوه لم يسألوا.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "وأخذَ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "الرجالُ"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "من زادِهم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "فمَ يهوه"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فمَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "يسألوا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:04:28.083821982Z",
+  "model": "glm-5.2"
+}

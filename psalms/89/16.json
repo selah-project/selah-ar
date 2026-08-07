@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "طوبى للشعب عارفي الهتاف؛ يهوه، في نور وجهك يهيمون",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "طوبى"
+    },
+    {
+      "surface": "העם",
+      "gloss": "للشعب"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "عارفي"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "الهتاف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "באור",
+      "gloss": "في نور"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهك"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "يهيمون"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:06.752986798Z",
+  "model": "glm-5.2"
+}

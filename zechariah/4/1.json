@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 4:1",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "ورجع الملاك المتكلّم فيّ، وأيقظني كرجلٍ يُيقَظ من نومه.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ورجع"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "الملاك"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "المتكلّم"
+    },
+    {
+      "surface": "בי",
+      "gloss": "فيّ"
+    },
+    {
+      "surface": "ויעירני",
+      "gloss": "وأيقظني"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "كرجل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "يُيقَظ"
+    },
+    {
+      "surface": "משנתו",
+      "gloss": "من نومه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:35:36.798540984Z",
+  "model": "glm-5.2"
+}

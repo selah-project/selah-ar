@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 28:48",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "«فتعبد ⟨את⟩ أعداءك الذين يرسلهم يهوه فيك، في جوع وفي عطش وفي عُري وفي فقد كل شيء؛ و⟨يضع⟩ نير حديد على عنقك حتى يُبيدهم إيّاك.»",
+  "tokens": [
+    {
+      "surface": "ועבדת",
+      "gloss": "فتعبد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أعداءك"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "أعداءك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "يرسلهم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בך",
+      "gloss": "فيك"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "في جوع"
+    },
+    {
+      "surface": "ובצמא",
+      "gloss": "وفي عطش"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "وفي عري"
+    },
+    {
+      "surface": "ובחסר",
+      "gloss": "وفي فقد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل شيء"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ويضع"
+    },
+    {
+      "surface": "על",
+      "gloss": "نير"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "حديد"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "عنقك"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "يبيد"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "إياك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:55.394144840Z",
+  "model": "glm-5.2"
+}

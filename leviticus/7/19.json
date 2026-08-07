@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 7:19",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "واللحم الذي يمسّ كلَّ نجسٍ لا يُؤكَل، بالنار يُحرَق. وأمّا اللحم فكلُّ طاهر يأكل لحمًا،",
+  "tokens": [
+    {
+      "surface": "והבשר",
+      "gloss": "واللحم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "يمسّ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجسٍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يُؤكَل"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بالنار"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "يُحرَق"
+    },
+    {
+      "surface": "והבשר",
+      "gloss": "وأمّا اللحم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "فكلُّ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "طاهر"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يأكل"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "لحمًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:14.901087669Z",
+  "model": "glm-5.2"
+}

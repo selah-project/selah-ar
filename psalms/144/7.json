@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 144,
+  "translation": "أَطْلِقْ يديك من العلاء، أنقذني وأنجِني من مياهٍ كثيرة، من يد بني غريب.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "أَطْلِقْ"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "يديك"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "من العلاء"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "أنقذني"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "وأنجِني"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "من مياهٍ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرة"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يد"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "غريب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:31.941074468Z",
+  "model": "glm-5.2"
+}

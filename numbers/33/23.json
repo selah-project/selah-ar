@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 33:23",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "وَرَحَلُوا مِنْ قِهِيلاتَه، وَنَزَلُوا بِجَبَلِ شَافِير.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ورحلوا"
+    },
+    {
+      "surface": "מקהלתה",
+      "gloss": "من قهيلاته"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ونزلوا"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "بجبل"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "شافير"
+    }
+  ],
+  "timestamp": "2026-08-07T05:41:46.602526935Z",
+  "model": "glm-5.2"
+}

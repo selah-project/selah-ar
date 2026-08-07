@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 6:26",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "لأنَّ ⟨من أجل⟩ امرأة زانية ⟨يُفرَغ الإنسان⟩ إلى رغيف خبز، وامرأة رجل نَفْسًا ثمينة تصيد.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "من أجل"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "زانية"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "رغيف"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبز"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "وامرأة"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْسًا"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "ثمينة"
+    },
+    {
+      "surface": "תצוד",
+      "gloss": "تصيد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:45.846210357Z",
+  "model": "glm-5.2"
+}

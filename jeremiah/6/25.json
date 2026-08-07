@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "لا تخرجي إلى الحقل، وفي الطريق لا تمشي، لأنّ للعدوّ سيفًا، مَگور من كل جانب.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "تخرجي"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "إلى الحقل"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "وفي الطريق"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "تمشي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "سيفًا"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "للعدوّ"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "مَگور"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "من كل جانب"
+    }
+  ],
+  "timestamp": "2026-08-07T02:30:31.656576917Z",
+  "model": "glm-5.2"
+}

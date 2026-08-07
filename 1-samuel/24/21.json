@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 24:21",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "والآن هوذا عرفتُ أنّك مَلِكًا تَمْلُك، و⟨قد⟩ قامت في يدك مَملَكة يِسرايل.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "عرفتُ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملكًا"
+    },
+    {
+      "surface": "תמלוך",
+      "gloss": "تملك"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "وقامت"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "في يدك"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "مَملَكة"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:28:51.898379230Z",
+  "model": "glm-5.2"
+}

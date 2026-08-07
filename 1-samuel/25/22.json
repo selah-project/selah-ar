@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 25:22",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "هكذا يفعل إلوهيم لأعداء داود وهكذا يزيد، إن أبقيتُ من كل ما له حتى الصباح مبولًا في الجدار.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يفعل"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "לאיבי",
+      "gloss": "لأعداء"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "وهكذا"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "يزيد"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "אשאיר",
+      "gloss": "أبقيتُ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "الصباح"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "مبولًا"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "في الجدار"
+    }
+  ],
+  "timestamp": "2026-08-07T01:29:35.818499900Z",
+  "model": "glm-5.2"
+}

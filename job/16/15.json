@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 16:15",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "مُسوحًا خاطتُ على جِلدي، ودُمّرتْ قَرني في الغبار.",
+  "tokens": [
+    {
+      "surface": "שק",
+      "gloss": "مُسوحًا"
+    },
+    {
+      "surface": "תפרתי",
+      "gloss": "خاطتُ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "على"
+    },
+    {
+      "surface": "גלדי",
+      "gloss": "جِلدي"
+    },
+    {
+      "surface": "ועללתי",
+      "gloss": "ودُمّرتْ"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "في الغبار"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "قَرني"
+    }
+  ],
+  "timestamp": "2026-08-07T04:37:14.778255034Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨عاش⟩ ناحور بعد ولادته ⟨את⟩ تارَح تسع عشرة سنة ومئة سنة، و⟨وَلَد⟩ بنين وبنات.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و⟨عاش⟩"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحور"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ولادته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تارَح"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تارَح"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "تسع"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرة"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ومئة"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و⟨وَلَد⟩"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بنين"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "وبنات"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:01.041088149Z",
+  "model": "glm-5.2"
+}

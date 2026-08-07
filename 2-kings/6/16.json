@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فقال: لا تخف، لأنّهم أكثرُ الذين معنا من الذين معهم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "تخف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّهم"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "أكثرُ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "معنا"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "من الذين"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "معهم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:54:46.389494486Z",
+  "model": "glm-5.2"
+}

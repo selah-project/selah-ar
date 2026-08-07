@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "و⟨كان⟩ بعد ذلك فضرب داويد ⟨את⟩ فلشتيم وأخضَعَهم، وأخذ ⟨את⟩ جات وبناتها من يد فلشتيم.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "فضرب"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فلشتيم"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلشتيم"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "وأخضعهم"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جات"
+    },
+    {
+      "surface": "גת",
+      "gloss": "جات"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "وبناتها"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يد"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلشتيم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:35.690827729Z",
+  "model": "glm-5.2"
+}

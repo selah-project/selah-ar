@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "هل قوّتي كقوّة الحجارة؟ أم لحمي نَحاس؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "هل"
+    },
+    {
+      "surface": "כח",
+      "gloss": "قوّة"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "الحجارة"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "قوّتي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أم"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "لحمي"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "نَحاس"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:15.761416035Z",
+  "model": "glm-5.2"
+}

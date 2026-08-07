@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "والآن ما انتظرتُ يا أدوناي؟ رجائي أنتَ هو.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "انتظرتُ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "يا أدوناي"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "رجائي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:43.351639776Z",
+  "model": "glm-5.2"
+}

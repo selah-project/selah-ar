@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "عورةُ أبيك وعورةُ أمِّك لا تكشفها؛ أمُّك هي لا تكشف عورتها.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "عورة"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أبيك"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "وعورة"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "أمك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "تكشفها"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "أمك"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "تكشف"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "عورتها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:23.299187982Z",
+  "model": "glm-5.2"
+}

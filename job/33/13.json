@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 33:13",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "لماذا تخاصمه؟ لأنّه عن كلّ كلماته لا يجيب.",
+  "tokens": [
+    {
+      "surface": "מַ֭דּוּעַ",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "אֵלָ֣יו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "רִיב֑וֹתָ",
+      "gloss": "تخاصم"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "דְּבָרָ֗יו",
+      "gloss": "كلماته"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יַעֲנֶֽה",
+      "gloss": "يجيب"
+    }
+  ],
+  "timestamp": "2026-08-07T06:09:55.981778907Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "وَوَضَعَ ⟨את⟩ سَاتِرَ الْمَدْخَلِ لِلْمِشْكَانِ.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "وَوَضَعَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساتر"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "سَاتِرَ"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "الْمَدْخَلِ"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "لِلْمِشْكَانِ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:13.857050756Z",
+  "model": "glm-5.2"
+}

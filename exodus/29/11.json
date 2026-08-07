@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وتذبح ⟨את⟩ الثور أمام يهوه، بمدخل خيمة الموعد.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "وتذبح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الثور"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "الثور"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "بمدخل"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:09:45.403253884Z",
+  "model": "glm-5.2"
+}

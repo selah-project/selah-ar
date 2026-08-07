@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "«وصنعتَ مذبحَ تبخيرِ بخورٍ، خشبَ شِطيم تصنع ⟨את⟩ه.»",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "«وصنعتَ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبحَ"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "تبخيرِ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بخورٍ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "خشبَ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شِطيم"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تصنع"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "المذبح"
+    }
+  ],
+  "timestamp": "2026-08-07T00:10:18.015197473Z",
+  "model": "glm-5.2"
+}

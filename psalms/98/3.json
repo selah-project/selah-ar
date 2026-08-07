@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 98,
+  "translation": "ذكر حِسِدَه وأمانتَه لبيت يسرايل. رأت كلُّ أطراف الأرض ⟨את⟩ خلاصَ إلوهيم.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ذكر"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حِسِدَه"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "وأمانتَه"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "لبيت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "رأت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "أطراف"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خلاص"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "خلاصَ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:41.925830275Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "فقال شكيم لِحَمور أبيه قائلًا: خُذْ لي ⟨את⟩ هذه الطفلةَ زوجةً.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شكيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لِـ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "حَمور"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "קח",
+      "gloss": "خُذْ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هذه الطفلةَ"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "الطفلةَ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زوجةً"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:50.580193827Z",
+  "model": "glm-5.2"
+}

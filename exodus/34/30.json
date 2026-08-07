@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "فرأى أهارون وكل بني يسرايل ⟨את⟩ موشيه، وإذا جلد وجهه قد قَرَنَ، فخافوا من الاقتراب إليه.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "فرأى"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "قَرَنَ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "جلد"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "وجهه"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "فخافوا"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "من الاقتراب"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:13:05.569150831Z",
+  "model": "glm-5.2"
+}

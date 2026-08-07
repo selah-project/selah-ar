@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "judges 9:56",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فردَّ إلوهيم ⟨את⟩ شرَّ أڤيميلخ الذي فعله بأبيه في قتله ⟨את⟩ سبعين إخوته.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "فردَّ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شرّ"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "شرّ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "أڤيميلخ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعله"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "بأبيه"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "في قتله"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سبعين"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "سبعين"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "إخوته"
+    }
+  ],
+  "timestamp": "2026-08-07T01:15:29.069522161Z",
+  "model": "glm-5.2"
+}

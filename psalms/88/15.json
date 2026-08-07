@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 88,
+  "translation": "لماذا يهوه تنبذ نفسي، تُخفي وجهك عنّي؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "تنبذ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نفسي"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "تُخفي"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهك"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "عنّي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:49.273237318Z",
+  "model": "glm-5.2"
+}

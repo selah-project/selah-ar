@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 34:20",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "وأوصى الملك ⟨את⟩ حِلقياهو و⟨את⟩ أخيقام بن شافان و⟨את⟩ عبدون بن ميخا و⟨את⟩ شافان السوفر و⟨את⟩ عسايا عبد الملك قائلًا:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "وأوصى"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حِلقياهو"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "حِلقياهو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أخيقام"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "أخيقام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "شافان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "عبدون"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "عبدون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ميخا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "شافان"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "شافان"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "السوفر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "عسايا"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "عسايا"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عبد"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:32:48.270615384Z",
+  "model": "glm-5.2"
+}

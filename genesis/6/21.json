@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 6:21",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وأنتَ فخُذْ لكَ مِنْ كلِّ مَأكَلٍ يُؤكَل، واجمعهُ إليكَ، فيكونَ لكَ ولهم طعامًا.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "وأنتَ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "فخُذْ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكَ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "مِنْ كلِّ"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "مَأكَلٍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يُؤكَل"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "واجمعَ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليكَ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "فيكونَ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكَ"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "ولهم"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "طعامًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:21.758544562Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "هؤلاء بنو عيساو، و⟨هؤلاء⟩ أَلوفهم؛ هو ⟨هو⟩ أدوم.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيساو"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "و⟨هؤلاء⟩"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "أَلوفهم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "أدوم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:48:11.321869716Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 46,
+  "translation": "كفّوا واعلموا أنّي أنا إلوهيم، أُرفَع في الأمم، أُرفَع في الأرض",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "كفّوا"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "واعلموا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "أُرفَع"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "في الأمم"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "أُرفَع"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:55.182737308Z",
+  "model": "glm-5.2"
+}

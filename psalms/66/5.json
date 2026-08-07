@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 66,
+  "translation": "تعالوا ⟨وانظروا⟩ أعمال إلوهيم، مهوب ⟨هو⟩ فِعلُه على بني آدم.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "تعالوا"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "وانظروا"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "أعمال"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "مهوب"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "فِعلُه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:59.043943669Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "ملِك لِبنا واحدًا، ملِك عَدُلّام واحدًا",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ملِك"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "لِبنا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملِك"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "عَدُلّام"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:05:58.206048202Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وقال يهوه لموشيه: لا يسمع فرعون إليكم، لِكَيْ تكثُر عجائبي في أرض مصرايم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "يسمع"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "إليكم"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "تكثر"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "عجائبي"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:01:47.207940276Z",
+  "model": "glm-5.2"
+}

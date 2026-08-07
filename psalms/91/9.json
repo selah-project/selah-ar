@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 91,
+  "translation": "لأنّك أنت يهوه ملجإي، العليون جعلت ⟨م⟩ سُكناك",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّك"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ملجإي"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "العليون"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "جعلت"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "سُكناك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:02.571312408Z",
+  "model": "glm-5.2"
+}

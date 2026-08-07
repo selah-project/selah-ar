@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "فقالوا له جميع الشيوخ وجميع الشعب: «لا تسمع ولا تطِع».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقالوا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميع"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "الشيوخ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وجميع"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "تسمع"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "تطِع"
+    }
+  ],
+  "timestamp": "2026-08-07T01:51:14.334395325Z",
+  "model": "glm-5.2"
+}

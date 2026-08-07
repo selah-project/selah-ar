@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وفتحت فرأته، ⟨את⟩ الولد، وإذا صبيٌّ يبكي، فوقلب عليه وقالت: «من أولاد العبريّين هذا!»",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "وفتحت"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "فرأته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الولد"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "الولد"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "נער",
+      "gloss": "صبيٌّ"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "يبكي"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "فقلب"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "وقالت"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "من أولاد"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "العبريّين"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:41.211834502Z",
+  "model": "glm-5.2"
+}

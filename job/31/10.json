@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 31:10",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "فلِآخَر تطحنُ امرأتي، وعليها يركعونَ آخرون.",
+  "tokens": [
+    {
+      "surface": "תטחן",
+      "gloss": "تطحنُ"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "لِآخَر"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "امرأتي"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "وعليها"
+    },
+    {
+      "surface": "יכרעון",
+      "gloss": "يركعونَ"
+    },
+    {
+      "surface": "אחרין",
+      "gloss": "آخرون"
+    }
+  ],
+  "timestamp": "2026-08-07T04:40:26.555054621Z",
+  "model": "glm-5.2"
+}

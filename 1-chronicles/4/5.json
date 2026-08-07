@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "ولأَشْحور أبو تَقوع كانت زوجتان: حَلآه ونعارة.",
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "ولأَشْحور"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبو"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "تَقوع"
+    },
+    {
+      "surface": "היו",
+      "gloss": "كانت"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "زوجتان: اثنتان"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "زوجتان"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "حَلآه"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "ونعارة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:38.068002325Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وقرّب موشيه ⟨את⟩ أهارون و⟨את⟩ بنيه، وغسل ⟨את⟩هم بالماء.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "وقرّب"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أهارون"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بنيه"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "بنيه"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "وغسل"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩هم",
+      "marks": "أهارون وبنيه"
+    },
+    {
+      "surface": "במים",
+      "gloss": "بالماء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:42.763877661Z",
+  "model": "glm-5.2"
+}

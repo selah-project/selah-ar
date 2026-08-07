@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 5:9",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "ويسكن داود في المِصفاة ويدعوها مدينة داود، ويبني داود حولًا من المِلّو وإلى البيت.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ويسكن"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "במצדה",
+      "gloss": "في المِصفاة"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ويدعو"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ويبني"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "حولًا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "المِلّو"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "وإلى البيت"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:00.130351072Z",
+  "model": "glm-5.2"
+}

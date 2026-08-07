@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 16:28",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "والذي يحرقهنّ يغسل ثيابه ويرحّض ⟨את⟩ جسده في الماء، وبعد ذلك يأتي إلى المحلّة.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "والذي يحرقهنّ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩هنّ",
+      "marks": "الأجزاء المحرقة"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "يغسل"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ثيابه"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ويرحّض"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جسده"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "جسده"
+    },
+    {
+      "surface": "במים",
+      "gloss": "في الماء"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "وبعد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "يأتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "المحلّة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:22.871874570Z",
+  "model": "glm-5.2"
+}

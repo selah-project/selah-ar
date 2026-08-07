@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "رأيتَ، يهوه. لا تصمت. أدوناي، لا تبعد عنّي.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "رأيتَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "تصمت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "تبعد"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "عنّي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:23.319426229Z",
+  "model": "glm-5.2"
+}

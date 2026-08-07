@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 33:28",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "وجعلتُ ⟨את⟩ الأرض خرابًا وموحشًا، وكفّ فخر عزّتها، وخربت جبال إسرايل من عدم عابر.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "وجعلتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "خرابًا"
+    },
+    {
+      "surface": "ומשמה",
+      "gloss": "وموحشًا"
+    },
+    {
+      "surface": "ונשבת",
+      "gloss": "وكفّ"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "فخر"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "عزّتها"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "وخربت"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "جبال"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرايل"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "من عدم"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "عابر"
+    }
+  ],
+  "timestamp": "2026-08-07T03:09:14.662894300Z",
+  "model": "glm-5.2"
+}

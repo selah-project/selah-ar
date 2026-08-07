@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "فأُخبر شاؤول أنّ داوود هرب إلى جت، فلم يُزد بعد لطلبه.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "فأُخبر"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "هرب"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "גת",
+      "gloss": "إلى جت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يُزد"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "لطلبه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:30:14.961476938Z",
+  "model": "glm-5.2"
+}

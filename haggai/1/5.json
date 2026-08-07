@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 1:5",
+  "book": "haggai",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "والآن هكذا قال يهوه صباؤوت: اجعلوا قلوبكم على طرقكم.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤوت"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "اجعلوا"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "قلوبكم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "طرقكم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:33:57.202933863Z",
+  "model": "glm-5.2"
+}

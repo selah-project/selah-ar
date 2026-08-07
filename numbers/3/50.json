@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "من عند بكر بني يسرايل أخذ ⟨את⟩ الفضّة: خمسةً وستّين وثلاثَ مئة وألفًا بشاقل القدس.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "من عند"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "بكر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "أخذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الفضّة"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "الفضّة"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "خمسةً"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "وستّين"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "وثلاثَ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "وألفًا"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "بشاقل"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "القدس"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:36.291706551Z",
+  "model": "glm-5.2"
+}

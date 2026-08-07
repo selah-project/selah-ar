@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 79,
+  "translation": "لأنّه التهمَمُسوّدُرُ ضيعَ",
+  "tokens": [
+    {
+      "surface": "כִּ֭י",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "אָכַ֣ל",
+      "gloss": "التهم"
+    },
+    {
+      "surface": "אֶֽת",
+      "gloss": "⟨את⟩",
+      "marks": "يعقوف"
+    },
+    {
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "וְֽאֶת",
+      "gloss": "و⟨את⟩",
+      "marks": "مسكنه"
+    },
+    {
+      "surface": "נָוֵ֥הוּ",
+      "gloss": "مسكنه"
+    },
+    {
+      "surface": "הֵשַֽׁמּוּ",
+      "gloss": "خرّبوا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:02.698808913Z",
+  "model": "glm-5.2"
+}

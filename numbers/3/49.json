@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 3:49",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فأخذ موشيه ⟨את⟩ فضّة الفداء من عند الزائدين على مفدّيّي اللاويّين،",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "فأخذ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فضّة"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضّة"
+    },
+    {
+      "surface": "הפדיום",
+      "gloss": "الفداء"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "من عند"
+    },
+    {
+      "surface": "העדפים",
+      "gloss": "الزائدين"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פדויי",
+      "gloss": "مفدّيّي"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "اللاويّين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:36.291551277Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "و⟨كان⟩ عند سماع الملك ⟨את⟩ كلمات سفر التوراة، أنّه شقّ ⟨את⟩ ثيابه.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "عند سماع"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلمات"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلمات"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سفر"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "التوراة"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "شقّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ثيابه"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ثيابه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:01:33.836669756Z",
+  "model": "glm-5.2"
+}

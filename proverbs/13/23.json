@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 13:23",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وفرُ طعامٍ في محاريثِ المعوِزين، و⟨هناك⟩ مَن يُكتَسَفُ بلا مشپاط.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "وفرُ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "طعام"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "محاريث"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "المعوِزين"
+    },
+    {
+      "surface": "וש",
+      "gloss": "و⟨هناك⟩ مَن"
+    },
+    {
+      "surface": "נספה",
+      "gloss": "يُكتَسَفُ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بلا"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "مشپاط"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:12.247889664Z",
+  "model": "glm-5.2"
+}

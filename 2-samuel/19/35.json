@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 19:35",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "فقال برزلاي للملك: «كم أيّام سنوات حياتي، حتى أصعد الملك يروشالايم؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "برزلاي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "كم"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سنوات"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "حياتي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "أصعد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الملك"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:39:16.167584071Z",
+  "model": "glm-5.2"
+}

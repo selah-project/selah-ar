@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "صوتُ يهوه يَنحَتُ لَهَباتِ نار",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "صوتُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "يَنحَتُ"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "لَهَباتِ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نار"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:28.023857744Z",
+  "model": "glm-5.2"
+}

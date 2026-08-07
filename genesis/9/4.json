@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "لكن لحمًا بنَفْسِه — دمُه — لا تأكلوه.",
+  "tokens": [
+    {
+      "surface": "אַךְ",
+      "gloss": "لكن"
+    },
+    {
+      "surface": "בָּשָׂ֕ר",
+      "gloss": "لحمًا"
+    },
+    {
+      "surface": "בְּנַפְשׁ֥וֹ",
+      "gloss": "بنَفْسِه"
+    },
+    {
+      "surface": "דָמ֖וֹ",
+      "gloss": "دمُه"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תֹאכֵֽלוּ",
+      "gloss": "تأكلوه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:02.649254114Z",
+  "model": "glm-5.2"
+}

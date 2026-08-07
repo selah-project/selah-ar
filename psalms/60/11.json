@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 60,
+  "translation": "من ذا يحدرني إلى مدينةِ مَصور؟ من ذا يهديني إلى أدوم؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "ذا"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "يحدرني"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مدينةِ"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "مَصور"
+    },
+    {
+      "surface": "עד",
+      "gloss": "من"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ذا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:55:58.333878631Z",
+  "model": "glm-5.2"
+}

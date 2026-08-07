@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 22:27",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وتقول: «هكذا قال الملك: ضعوا ⟨את⟩ هذا في بيت السجن، وأطعموه خبزَ ضيق وماءَ ضيق حتى مجيئي بِشالوم.»",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "وتقول"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "ضعوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هذا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "في بيت"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "السجن"
+    },
+    {
+      "surface": "והאכילהו",
+      "gloss": "وأطعموه"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزَ"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ضيق"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "وماءَ"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ضيق"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "באי",
+      "gloss": "مجيئي"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "بشالوم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:52:18.832073171Z",
+  "model": "glm-5.2"
+}

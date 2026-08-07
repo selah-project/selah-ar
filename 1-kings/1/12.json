@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "والآن، اذهبي أُمشِكِ نَصيحةً وأنقذي ⟨את⟩ نفسَكِ و⟨את⟩ نفسَ ابنِكِ شلوموه.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "اذهبي"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "أمشك"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨أرجوك⟩"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "نصيحة"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "وأنقذي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نفسك"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "نفسك"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "نفس"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ابنك"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:41:45.084287607Z",
+  "model": "glm-5.2"
+}

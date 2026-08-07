@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 23:19",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "من الثلاثة أما كان أكرمَ، فصار لهم رأسًا؟ لكن إلى الثلاثة الأولى لم يأتِ.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "الثلاثة"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "أما"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "كان أكرمَ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "فصار"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "رأسًا"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "لكن إلى"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "الثلاثة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "בא",
+      "gloss": "يأتِ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:41:27.928259305Z",
+  "model": "glm-5.2"
+}

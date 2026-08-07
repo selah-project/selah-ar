@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 2:4",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "مدَّ قوسَه كالعدوّ، ونصبَ يمينَه كالخصم، وقتلَ كلَّ مَحاميد العين في خيمة بنت صهيون، وسكبَ كالنار حميَّتَه.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "مدَّ"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "قوسَه"
+    },
+    {
+      "surface": "כאויב",
+      "gloss": "كالعدوّ"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ونصبَ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "يمينَه"
+    },
+    {
+      "surface": "כצר",
+      "gloss": "كالخصم"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "وقتلَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "מחמדי",
+      "gloss": "محاميد"
+    },
+    {
+      "surface": "עין",
+      "gloss": "العين"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "في خيمة"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "وسكبَ"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "كالنار"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "حميَّتَه"
+    }
+  ],
+  "timestamp": "2026-08-07T06:11:11.205442504Z",
+  "model": "glm-5.2"
+}

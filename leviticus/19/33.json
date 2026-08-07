@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "«وإذا نزل عندك غريب ⟨معك⟩ في أرضكم لا تظلموه»",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "نزل"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "גר",
+      "gloss": "غريب"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "في أرضكم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "تظلموا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:46.489734459Z",
+  "model": "glm-5.2"
+}

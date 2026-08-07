@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 21:12",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "ومن المقدِس لا يخرج، ولا يدنّس ⟨את⟩ مقدِسَ إلوهيمه، لأنّ تَخْصيصَ دهنِ مسْح إلوهيمه عليه — أنا يهوه.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "المقدِس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "يخرج"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "يدنّس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مقدِس"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "مقدِس"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "إلوهيمه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "تخصيص"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "دهن"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "مسح"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "إلوهيمه"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:51.357187498Z",
+  "model": "glm-5.2"
+}

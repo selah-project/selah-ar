@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 21:10",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "ثورُه يعبر ولا يُنفِّر، بقرةُه تُسَلِّم ولا تُسقط.",
+  "tokens": [
+    {
+      "surface": "שורו",
+      "gloss": "ثورُه"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "يعبر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יגעל",
+      "gloss": "يُنفِّر"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "تُسَلِّم"
+    },
+    {
+      "surface": "פרתו",
+      "gloss": "بقرةُه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "تُسقط"
+    }
+  ],
+  "timestamp": "2026-08-07T04:38:12.631291671Z",
+  "model": "glm-5.2"
+}

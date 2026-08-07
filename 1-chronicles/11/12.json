@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 11:12",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وبعده إلعازار بن دودو الأَحوحيّ، هو ⟨من⟩ الثلاثة الجبّارين.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "وبعده"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "إلعازار"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "دودو"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "الأحوحيّ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "⟨من⟩ الثلاثة"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "الجبّارين"
+    }
+  ],
+  "timestamp": "2026-08-07T05:14:22.364127834Z",
+  "model": "glm-5.2"
+}

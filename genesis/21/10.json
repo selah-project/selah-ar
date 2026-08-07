@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فقالت لأفراهام: «اطرد ⟨⟨هذه الأَمَة⟩⟩ و⟨את⟩ ابنها، لأنّ ابن هذه الأَمَة لا يرث مع ابني، مع يتسحاق»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "لأفراهام"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "اطرد"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "الأَمَة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "ابنها"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ابنها"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "يرث"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "الأَمَة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ابني"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يتسحاق"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:07.558954131Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "طَيِّبٌ للرجُلِ أن يحمِلَ نِيرًا في صِباه.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "طَيِّبٌ"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "للرجُلِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أن"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "يحمِلَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "نِيرًا"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "في صِباه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:49:03.334802768Z",
+  "model": "glm-5.2"
+}

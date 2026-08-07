@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 9:8",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "باسط السماوات وحده، والماشي على مرتفعات البحر",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "باسط"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "وحده"
+    },
+    {
+      "surface": "ודורך",
+      "gloss": "والماشي"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "مرتفعات"
+    },
+    {
+      "surface": "ים",
+      "gloss": "البحر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:29.989881408Z",
+  "model": "glm-5.2"
+}

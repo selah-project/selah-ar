@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 10:21",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وقال يهوه لموشيه: مدَّ يدك نحو السماوات، فلتكن ظُلمة على أرض مصرايم، وظُلمة ⟨تُمَسُّ⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لموشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "مدَّ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدك"
+    },
+    {
+      "surface": "על",
+      "gloss": "نحو"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "فلتكن"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ظُلمة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "וימש",
+      "gloss": "و⟨تُمَسُّ⟩"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ظُلمة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:36:58.009752725Z",
+  "model": "glm-5.2"
+}

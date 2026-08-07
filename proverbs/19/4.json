@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "هَوْنُ يُضِيفُ رَفِيقَاتٍ كَثِيرِينَ، وְדָל مِنْ رֵעֵהוּ יִפָּרֵד.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ثروة"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "تُضيف"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "رفقاء"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرين"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "وفقير"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "من رفيقه"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "ينفصل"
+    }
+  ],
+  "timestamp": "2026-08-07T08:14:17.608363449Z",
+  "model": "glm-5.2"
+}

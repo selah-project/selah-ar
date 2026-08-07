@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "دعوتُ اسمكَ يا يهوه من البئر السُّفلى.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "دعوتُ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "اسمكَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "من البئر"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "السُّفلى"
+    }
+  ],
+  "timestamp": "2026-08-07T04:49:00.146876286Z",
+  "model": "glm-5.2"
+}

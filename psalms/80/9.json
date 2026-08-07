@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 80,
+  "translation": "كرمةً من مصرايم نقلتَ، طردتَ أممًا وغرستها.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "كرمة"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "من مصرايم"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "نقلتَ"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "طردتَ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "أممًا"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "وغرستها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:01:18.465051849Z",
+  "model": "glm-5.2"
+}

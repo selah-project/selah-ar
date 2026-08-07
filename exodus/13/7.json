@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "مَصّوت يُؤكل ⟨את⟩ سبعةِ الأيام، ولا يُرى لك حامِص، ولا يُرى لك سَؤور في كل تخومك.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "مَصّوت"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يُؤكل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سبعةِ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سبعةِ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "الأيام"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "يُرى"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "حامِص (مختمر)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "يُرى"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "سَؤور (خميرة)"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كل"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "تخومك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:03:16.127991498Z",
+  "model": "glm-5.2"
+}

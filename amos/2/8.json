@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 2:8",
+  "book": "amos",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وعلى ثيابٍ رُهنتِ يمتدّون عند كل مذبح، وخمرَ المعاقبين يشربون في بيت إلوهيم.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ثيابٍ"
+    },
+    {
+      "surface": "חבלים",
+      "gloss": "رُهنتِ"
+    },
+    {
+      "surface": "יטו",
+      "gloss": "يمتدّون"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "عند"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "وخمرَ"
+    },
+    {
+      "surface": "ענושים",
+      "gloss": "المعاقبين"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "يشربون"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:25:21.315225342Z",
+  "model": "glm-5.2"
+}

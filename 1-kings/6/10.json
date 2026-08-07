@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وبنى ⟨את⟩ الإيوان على كلّ البيت، خمسَ أذرعٍ ارتفاعُه، ومسك ⟨את⟩ البيت بخشب أرز.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "وبنى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الإيوان"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "الإيوان"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "خمس"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "أذرع"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ارتفاعُه"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "ومسك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "البيت"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "بخشب"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "أرز"
+    }
+  ],
+  "timestamp": "2026-08-07T05:48:52.223957608Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 35:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "وقال إلوهيم ليعقوف: قُم، اصعد بيت إيل، وأقِم هناك، واصنع هناك مذبحًا لإيل الظاهر لك حين هربت من وجه عيساو أخيك.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "קום",
+      "gloss": "قُم"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "اصعد"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "وأقِم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "واصنع"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبحًا"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "لإيل"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "الظاهر"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "בברחך",
+      "gloss": "حين هربت"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجه"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيساو"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "أخيك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:15.221877771Z",
+  "model": "glm-5.2"
+}

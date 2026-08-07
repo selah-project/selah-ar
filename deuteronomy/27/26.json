@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "ملعونٌ ⟨مَن⟩ لا يُقيم ⟨את⟩ كلماتِ التوراةِ هذه لِيَعمَلَها، وقال كلّ الشعب: آمين",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملعون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "يُقيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلمات"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلمات"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "التوراة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "لِيَعمَلَها"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩هم",
+      "marks": "كلمات"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:27.436286557Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وجاء داود مَحَنايْمًا، وعبر أفعشلوم ⟨את⟩ الأردنّ، هو وكلّ رجل إسرايل معه.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "وداود"
+    },
+    {
+      "surface": "בא",
+      "gloss": "جاء"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "مَحَنايْمًا"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "وأفعشلوم"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عبر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأردنّ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "الأردنّ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرايل"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:37:23.145815067Z",
+  "model": "glm-5.2"
+}

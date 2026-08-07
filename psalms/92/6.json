@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 92,
+  "translation": "ما أعظم أعمالك يا يهوه، جدًا عمقت أفكارك",
+  "tokens": [
+    {
+      "surface": "מַה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "גָּדְל֣וּ",
+      "gloss": "أعظم"
+    },
+    {
+      "surface": "מַעֲשֶׂ֣יךָ",
+      "gloss": "أعمالك"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "מְ֝אֹ֗ד",
+      "gloss": "جدًا"
+    },
+    {
+      "surface": "עָמְק֥וּ",
+      "gloss": "عمقت"
+    },
+    {
+      "surface": "מַחְשְׁבֹתֶֽיךָ",
+      "gloss": "أفكارك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:39.936427209Z",
+  "model": "glm-5.2"
+}

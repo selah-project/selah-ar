@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "وأصعدني من بئر ⟨ال⟩ضجيج، من وحل ⟨ال⟩طين، وأقامَ على صخرةٍ قدمَيّ، ثبَّتَ خطواتي",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "وأصعدني"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "من بئر"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ضجيج"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "من وحل"
+    },
+    {
+      "surface": "היון",
+      "gloss": "الطين"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "وأقامَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "صخرةٍ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "قدمَيّ"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "ثبَّتَ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "خطواتي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:42.028394032Z",
+  "model": "glm-5.2"
+}

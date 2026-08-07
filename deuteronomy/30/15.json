@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "انظر: قد جعلتُ أمامك اليوم ⟨את⟩ الحياة و⟨את⟩ الخير، و⟨את⟩ الموت و⟨את⟩ الشرّ.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "انظر"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "قد جعلتُ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "أمامك"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الحياة"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "الحياة"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الخير"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "الخير"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الموت"
+    },
+    {
+      "surface": "המות",
+      "gloss": "الموت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الشرّ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "الشرّ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:55.659618402Z",
+  "model": "glm-5.2"
+}

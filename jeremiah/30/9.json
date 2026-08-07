@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "ويعبدون ⟨את⟩ يهوه إلههم، و⟨את⟩ دافيد ملكهم الذي أُقيم لهم.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "ويعبدون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "إلههم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "دافيد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "دافيد"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "ملكهم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "أُقيم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:42:32.411585678Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "وصنع خمسين مشبكًا من نحاس لوصل ⟨את⟩ الخيمة لتكون واحدة.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وصنع"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "مشبكًا"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "من نحاس"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "خمسين"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "لوصل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الخيمة"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "الخيمة"
+    },
+    {
+      "surface": "להית",
+      "gloss": "لتكون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:14:13.491578675Z",
+  "model": "glm-5.2"
+}

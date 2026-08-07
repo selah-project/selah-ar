@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 4:11",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وماءً بالقَدّ تشربه، سُدسَ الهِين، من وقتٍ إلى وقتٍ تشربه.",
+  "tokens": [
+    {
+      "surface": "ומים",
+      "gloss": "وماء"
+    },
+    {
+      "surface": "במשורה",
+      "gloss": "بالقَدّ"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "تشربه"
+    },
+    {
+      "surface": "ששית",
+      "gloss": "سُدس"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "الهين"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "من وقت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "تشربه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:54:52.520220593Z",
+  "model": "glm-5.2"
+}

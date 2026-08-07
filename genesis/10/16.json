@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "و⟨את⟩ اليبوسيّ و⟨את⟩ الأموريّ و⟨את⟩ الجرگشيّ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "اليبوسيّ"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "اليبوسيّ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الأموريّ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "الأموريّ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الجرگشيّ"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "الجرگشيّ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:39.374730685Z",
+  "model": "glm-5.2"
+}

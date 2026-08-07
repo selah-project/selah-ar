@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وخيرٌ منهما معًا ذاك الذي لم يكنْ موجودًا بعدُ، الذي لم يرَ ⟨את⟩ العملَ الرديءَ الذي يُعمَل تحت الشمس.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "وخيرٌ"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "منهما معًا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ذاك الذي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "بعدُ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "היה",
+      "gloss": "يكنْ موجودًا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "يَرَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "العملَ الرديءَ"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "العملَ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "الرديءَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "يُعمَل"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "الشمس"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:44.701217308Z",
+  "model": "glm-5.2"
+}

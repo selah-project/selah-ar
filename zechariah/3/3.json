@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وكان يهوشوع لابسًا ثيابًا قذرة، وواقفًا أمام الملاك.",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "ويهوشوع"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "لابسًا"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ثيابًا"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "قذرة"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "وواقفًا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "الملاك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:35:55.155740267Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 11:22",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وأقام ⟨للرأس⟩ رحبعام ⟨את⟩ أبيّا بن معكة ⟨لرئيس⟩ بين إخوته، لأنّ ⟨الغاية كانت⟩ تتويجَهُ.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "وأقام"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "⟨للرأس⟩"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رحبعام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أبيّا"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "أبيّا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "معكة"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "⟨لرئيس⟩"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "بين إخوته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "להמליכו",
+      "gloss": "تتويجَهُ"
+    }
+  ],
+  "timestamp": "2026-08-07T05:24:31.933160221Z",
+  "model": "glm-5.2"
+}

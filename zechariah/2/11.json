@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "هُوِي! يَا صِهْيَون، أَنْجِي نَفْسَكِ، يَا سَاكِنَةَ بِنْتِ بَابِل!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "هوي"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "أنجي"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "يا ساكنة"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:34:54.875545535Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 8:8",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "فقال لي: ابن آدم، احفر الآن في الحائط. فحفرت في الحائط، وإذا باب واحد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "احفر"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "في الحائط"
+    },
+    {
+      "surface": "ואחתר",
+      "gloss": "فحفرت"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "في الحائط"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "باب"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    }
+  ],
+  "timestamp": "2026-08-07T02:56:34.261411496Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "إن رأيتَ سارقًا ⟨ف⟩اطمأننتَ معه، ومع الزُّناةِ نصيبُك.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "رأيتَ"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "سارقًا"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "اطمأننتَ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ومع"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "الزُّناة"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "نصيبك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:51:41.654015351Z",
+  "model": "glm-5.2"
+}

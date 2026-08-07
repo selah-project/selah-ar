@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 31:32",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "في الخارج لم يَبتْ غريب، أبوابي للعابر فتحتُ،",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "في الخارج"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "يَبتْ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "غريب"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "أبوابي"
+    },
+    {
+      "surface": "לארח",
+      "gloss": "للعابر"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "فتحتُ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:40:51.873254192Z",
+  "model": "glm-5.2"
+}

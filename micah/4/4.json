@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فيجلسون كلّ واحدٍ تحت كرمته وتحت تينّته ولا ⟨من⟩ يُرعب، لأنّ فم يهوه صباؤوت تكلّم",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "فيجلسون"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كلّ واحدٍ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "كرمته"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "وتحت"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "تينّته"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "⟨من⟩ يُرعب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤوت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:29:42.345483945Z",
+  "model": "glm-5.2"
+}

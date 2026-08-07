@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "مَنْ منكم يُصغي إلى هذا، يَنتبهُ ويسمعُ للآتي؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "مَنْ"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "منكم"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "يُصغي"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "إلى هذا"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "يَنتبهُ"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ويسمعُ"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "للآتي"
+    }
+  ],
+  "timestamp": "2026-08-07T02:17:50.314062180Z",
+  "model": "glm-5.2"
+}

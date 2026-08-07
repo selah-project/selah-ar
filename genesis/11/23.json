@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨عاش⟩ سروج بعد ولادته ⟨את⟩ ناحور مئتي سنة، وولد بنين وبنات.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و⟨عاش⟩"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "سروج"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ولادته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناحور"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحور"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "مئتي"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "وولد"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بنين"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "وبنات"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:02.480122655Z",
+  "model": "glm-5.2"
+}

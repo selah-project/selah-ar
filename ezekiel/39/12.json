@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "ويدفنونهم بيتُ يسراائيل ⟨لأجل⟩ تطهير الأرض، سبعةَ أشهر.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "ويدفنونهم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسراائيل"
+    },
+    {
+      "surface": "למען",
+      "gloss": "⟨لأجل⟩"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "تطهير"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سبعة"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "أشهر"
+    }
+  ],
+  "timestamp": "2026-08-07T06:00:59.824680178Z",
+  "model": "glm-5.2"
+}

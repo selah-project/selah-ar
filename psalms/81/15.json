@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 81,
+  "translation": "بسرعةٍ أعداءَهم أُخضِعُ، وعلى مُضايقيهم أَرُدُّ يدي",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "بسرعةٍ"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "أعداءَهم"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "أُخضِعُ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "مُضايقيهم"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "أَرُدُّ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "يدي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:00.181554262Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 7:3",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "كذلك رُزِقْتُ لنفسي أشهرَ بُطلان، وليلاتِ تعبٍ قُدِّرتْ لي.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "كذلك"
+    },
+    {
+      "surface": "הנחלתי",
+      "gloss": "رُزِقْتُ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لنفسي"
+    },
+    {
+      "surface": "ירחי",
+      "gloss": "أشهرَ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "بُطلان"
+    },
+    {
+      "surface": "ולילות",
+      "gloss": "وليلاتِ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "تعبٍ"
+    },
+    {
+      "surface": "מנו",
+      "gloss": "قُدِّرتْ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:26.626997620Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 108,
+  "translation": "استيقظي يا نافيل ⟨و⟩كينور! أُوقِظُ الشَّحَر",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "استيقظي"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "النافيل"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "⟨و⟩كينور"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "أُوقِظُ"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "الشَّحَر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:02.536034158Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 18:27",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فقال الحارس: «أنا أرى ⟨את⟩ جَري الأول كجري أحيمعص بن صادوق». فقال الملك: «رجلٌ طيبٌ هذا، وإلى بشارة طيبة يأتي».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "الحارس"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "أرى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جَري"
+    },
+    {
+      "surface": "מרוצת",
+      "gloss": "جَري"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "الأول"
+    },
+    {
+      "surface": "כמרצת",
+      "gloss": "كجري"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "أحيمعص"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "صادوق"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيب"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "בשורה",
+      "gloss": "بشارة"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "طيبة"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "يأتي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:39:38.912261456Z",
+  "model": "glm-5.2"
+}

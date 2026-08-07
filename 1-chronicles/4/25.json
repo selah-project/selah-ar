@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 4:25",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "شلّوم ابنه، مبسام ابنه، مشماع ابنه.",
+  "tokens": [
+    {
+      "surface": "שלם",
+      "gloss": "شلّوم"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "מבשם",
+      "gloss": "مبسام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "مشماع"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:40.930847921Z",
+  "model": "glm-5.2"
+}

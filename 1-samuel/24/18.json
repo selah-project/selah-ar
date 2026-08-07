@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 24:18",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "وقال لداوِد: «أنت أصدقُ منّي، لأنّك أنت صنعتَ معي الحسنة، وأنا صنعتُ معك الشرّ.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "أصدقُ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "منّي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "גמלתני",
+      "gloss": "صنعتَ معي"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "الحسنة"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "גמלתיך",
+      "gloss": "صنعتُ معك"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "الشرّ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:29:27.495305176Z",
+  "model": "glm-5.2"
+}

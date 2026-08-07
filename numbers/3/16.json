@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فعدَّهنّ موشيه ⟨את⟩ على فم يهوه كما أُمرِئَ.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "فعدَّ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "موشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أُمرِئَ"
+    }
+  ],
+  "timestamp": "2026-08-07T07:10:03.811069921Z",
+  "model": "glm-5.2"
+}

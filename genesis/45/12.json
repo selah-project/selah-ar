@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 45:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "وهوَذا عُيونُكم تَرى وعينا أخي بنيامين، أنّه فمي المُتكلِّم إليكم.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "وهوَذا"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "عيونُكم"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "تَرى"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "وعينا"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "أخي"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "بنيامين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّه"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فمي"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "المُتكلِّم"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "إليكم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:57:24.785545220Z",
+  "model": "glm-5.2"
+}

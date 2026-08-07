@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "و⟨قام⟩ وبارك ⟨את⟩ كلّ جمع يسرايل بصوتٍ عظيم قائلًا:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "و⟨قام⟩"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "وتبارك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ جمع يسرايل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "جمع"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "קול",
+      "gloss": "بصوت"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:49:20.134892778Z",
+  "model": "glm-5.2"
+}

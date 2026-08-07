@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 1:24",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "لأنّي ناديتُ فأبَيتُم، مددتُ يدي ومُلتفتًا ليس أحد.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ناديتُ"
+    },
+    {
+      "surface": "ותמאנו",
+      "gloss": "فأبَيتُم"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "مددتُ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "يدي"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "وليس"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "مُلتفتًا أحد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:19:46.287901937Z",
+  "model": "glm-5.2"
+}

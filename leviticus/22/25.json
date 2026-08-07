@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 22:25",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "ومن يد ابن نَكَر لا تُقرِّبوا ⟨את⟩ خبز إلوهيم من كلِّ هذه، لأنَّ تشويههم فيها عيبٌ فيها، لا يُرضَون لكم",
+  "tokens": [
+    {
+      "surface": "ומיד",
+      "gloss": "ومن يد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "نَكَر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "تُقرِّبوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خبز"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبز"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كلِّ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "تشويههم"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "מום",
+      "gloss": "عيب"
+    },
+    {
+      "surface": "בם",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "يُرضَون"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:26.405260326Z",
+  "model": "glm-5.2"
+}

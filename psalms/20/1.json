@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "لإمام ⟨الفرقة⟩، مَزْمور لِداوود.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لإمام"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مَزْمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِداوود"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:28.741121923Z",
+  "model": "glm-5.2"
+}

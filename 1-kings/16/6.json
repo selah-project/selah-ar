@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 16:6",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "فاضطجع بعشا مع آبائه ودُفن في تِرصه، وملك إيلا ابنه عوضًا عنه.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "فاضطجع"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بعشا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "آبائه"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ودُفن"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "في تِرصه"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "وملك"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "إيلا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "عوضًا عنه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:49:13.593200391Z",
+  "model": "glm-5.2"
+}

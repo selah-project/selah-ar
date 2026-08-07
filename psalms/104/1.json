@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 104,
+  "translation": "باركي يا نفسي ⟨את⟩ يهوه. يهوه إلوهيّ، ⟨قد⟩ عظُمتَ جدًا، هودًا وهادارًا لبِستَ.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "باركي"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "يا نفسي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيّ"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "عظُمتَ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًا"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "هودًا"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "وهادارًا"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "لبِستَ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:06:44.772116194Z",
+  "model": "glm-5.2"
+}

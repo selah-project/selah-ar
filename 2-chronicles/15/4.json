@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 15:4",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "ورجع في ضيقه إلى يهوه إلوهيم إسرائيل، فطلبه فوُجد لهم.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ورجع"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "في ضيق"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨له⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "فطلبه"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "فوُجد"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:26:27.509447092Z",
+  "model": "glm-5.2"
+}

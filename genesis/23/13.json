@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 23:13",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "وكلّم عِفرُنًا في مسامع شعب الأرض قائلًا: «لكن إن كنتَ لَوْ تسمعُني، فقد دفعتُ فضّة الحقل — خُذه منّي وأدفن ⟨את⟩ ميّتي هناك».",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وكلّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "عِفرُن"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "في مسامع"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "אך",
+      "gloss": "لكن"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لَوْ"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "تسمعُني"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "دفعتُ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضّة"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "الحقل"
+    },
+    {
+      "surface": "קח",
+      "gloss": "خُذ⟨ه⟩"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "منّي"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "وأدفن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ميّتي"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ميّتي"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هناك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:43:56.373343162Z",
+  "model": "glm-5.2"
+}

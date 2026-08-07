@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 8:14",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "فقال ⟨لي⟩: «إلى مساءٍ صباحٍ ألفين وثلاث مئة، ويُبرَّر القُدس».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨لي⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "مساءٍ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صباحٍ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ألفين"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "وثلاث"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "ונצדק",
+      "gloss": "ويُبرَّر"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "القُدس"
+    }
+  ],
+  "timestamp": "2026-08-07T04:58:54.060161755Z",
+  "model": "glm-5.2"
+}

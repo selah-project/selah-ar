@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "يهوه، ما أكثرَ ضيّقي! كثيرون قائمون عليَّ",
+  "tokens": [
+    {
+      "surface": "יְהוָה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מָה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "רַבּוּ",
+      "gloss": "أكثرَ"
+    },
+    {
+      "surface": "צָרַי",
+      "gloss": "ضيّقي"
+    },
+    {
+      "surface": "רַבִּים",
+      "gloss": "كثيرون"
+    },
+    {
+      "surface": "קָמִים",
+      "gloss": "قائمون"
+    },
+    {
+      "surface": "עָלַי",
+      "gloss": "عليَّ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:40:29.823127849Z",
+  "model": "glm-5.2"
+}

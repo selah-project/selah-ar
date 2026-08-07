@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 9:24",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وخرجت نار من أمام يهوه، فأكلت على المذبح ⟨את⟩ العولاه و⟨את⟩ الشحوم، فرأى كل الشعب وهتفوا وسقطوا على وجوههم.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "وخرجت"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نار"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "من أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "فأكلت"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "العولاه"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "العولاه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الشحوم"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "الشحوم"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "فرأى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "וירנו",
+      "gloss": "وهتفوا"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "وسقطوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "وجوههم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:31.514405683Z",
+  "model": "glm-5.2"
+}

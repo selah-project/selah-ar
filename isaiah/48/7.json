@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 48:7",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "الآن خُلقت ولم تكن منذ ذاك، وقبل يوم ولم تسمعها، لئلا تقول: «ها أنا عرفتها».",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "נבראו",
+      "gloss": "خُلقت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "منذ ذاك"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "وقبل"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "تسمعها"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلا"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "تقول"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "ידעתין",
+      "gloss": "عرفتها"
+    }
+  ],
+  "timestamp": "2026-08-07T02:20:54.599701369Z",
+  "model": "glm-5.2"
+}

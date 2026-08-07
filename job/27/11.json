@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "أُعَلِّمُكم ⟨عن⟩ ⟨את⟩ ما في يدِّ إيل، الذي مع شدّاي لا أكتمه.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "أُعَلِّمُ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاكم"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "في يدِّ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّاي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "أكتمُه"
+    }
+  ],
+  "timestamp": "2026-08-07T08:17:43.315073602Z",
+  "model": "glm-5.2"
+}

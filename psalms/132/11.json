@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 132,
+  "translation": "حلف يهوه لِدافيد إمِتًا، لا يَرجِعُ عنها: من ثمرة بطنك أَضَعُ ⟨على⟩ كُرسِيٍّ لكَ.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "حلف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِدافيد"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "إمِتًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "يَرجِعُ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "عنها"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "من ثمرة"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "بطنك"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "أَضَعُ"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "⟨على⟩ كُرسِيٍّ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:16:19.890582473Z",
+  "model": "glm-5.2"
+}

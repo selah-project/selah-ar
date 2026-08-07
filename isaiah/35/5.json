@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "حينئذٍ تنفتح عيونُ العميان، وآذانُ الصمّ ⟨تُفتَح⟩.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "حينئذٍ"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "تنفتح"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "عيونُ"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "العميان"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "وآذانُ"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "الصمّ"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "تُفتَح"
+    }
+  ],
+  "timestamp": "2026-08-07T05:53:07.910410636Z",
+  "model": "glm-5.2"
+}

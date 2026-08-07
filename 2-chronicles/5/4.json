@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "فجاء كلُّ شيوخ يِسرائيل، وحمل اللاويّون ⟨את⟩ التابوت.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "فجاء"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "شيوخ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "وحمل"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "اللاويّون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "التابوت"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "التابوت"
+    }
+  ],
+  "timestamp": "2026-08-07T05:21:41.078575901Z",
+  "model": "glm-5.2"
+}

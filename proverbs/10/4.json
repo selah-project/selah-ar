@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فقرٌ يعمل كفًّا رخوة، ويدُّ القَسْط تُغني.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "فقر"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "يعمل"
+    },
+    {
+      "surface": "כף",
+      "gloss": "كفًّا"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "رخوة"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ويدُّ"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "القَسْط"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "تُغني"
+    }
+  ],
+  "timestamp": "2026-08-07T04:23:47.669769587Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "وكتب موشيه ⟨את⟩ التوراة هذه، ودفَعها إلى الكهنة بني ليفي حاملي ⟨את⟩ تابوت بريت يهوه، وإلى كلِّ شيوخ يسرائيل.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "وكتب"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "التوراة"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "التوراة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ودفعها"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكهنة"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ليفي"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "حاملي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تابوت"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "شيوخ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:01:15.669951860Z",
+  "model": "glm-5.2"
+}

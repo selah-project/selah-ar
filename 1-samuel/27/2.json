@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "فقام داوود وعبر هو وستّمئة رجل الذين معه إلى أخيش بن معوك ملك جت.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "فقام"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "وعبر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "وستّمئة"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "أخيش"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "معوك"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "גת",
+      "gloss": "جت"
+    }
+  ],
+  "timestamp": "2026-08-07T01:30:14.958621362Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 8:7",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وجاء إيليشع دَمَشَق، وبِن-هدد ملك أرام مريض، فأُخبر قائلًا: جاء رجل الإلوهيم إلى هنا.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "إيليشع"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "دَمَشَق"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "وبِن-هدد"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "بِن-هدد"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "أرام"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "مريض"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "فأُخبر"
+    },
+    {
+      "surface": "לו",
+      "gloss": "إيّاه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "בא",
+      "gloss": "جاء"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الإلوهيم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هنا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:56:35.010262544Z",
+  "model": "glm-5.2"
+}

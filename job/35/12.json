@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 35:12",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "هناك يصرخون فلا يُجيب، من وجه كِبرياء الأشرار.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "יצעקו",
+      "gloss": "يصرخون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "يُجيب"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجه"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "كِبرياء"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "الأشرار"
+    }
+  ],
+  "timestamp": "2026-08-07T04:42:16.036498789Z",
+  "model": "glm-5.2"
+}

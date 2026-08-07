@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "لذلك أعترف لكِ في الأمم، يهوه، ولاسمك أُوترِدُ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "أعترف لكِ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "في الأمم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "ولاسمك"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "أُوترِدُ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:43:53.181780725Z",
+  "model": "glm-5.2"
+}

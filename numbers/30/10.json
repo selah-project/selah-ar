@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "ونذر أرملة ومطلّقة — كل ما ربطته على نفسها يقوم عليها.",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "ونذر"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "أرملة"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "ومطلّقة"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ربطته"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "نفسها"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "يقوم"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "عليها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:31.218730851Z",
+  "model": "glm-5.2"
+}

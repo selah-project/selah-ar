@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "لا تأخذْ لكَ ⟨את⟩ امرأةً، ولا يكونون لكَ بنينَ وبناتٍ في المكانِ هذا.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "تأخذْ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكَ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأةً"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "يكونون"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكَ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بنينَ"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "وبناتٍ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "في المكانِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:53:52.940188240Z",
+  "model": "glm-5.2"
+}

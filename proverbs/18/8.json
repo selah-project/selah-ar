@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 18:8",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "كلماتُ نِرْگانٍ كَمُشْتهاياتٍ، وهي تنزل إلى مخادع البطن.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "كلمات"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "نِرْگان"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "كمشتهيات"
+    },
+    {
+      "surface": "והם",
+      "gloss": "وهي"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "تنزل"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "مخادع"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "البطن"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:46.041005252Z",
+  "model": "glm-5.2"
+}

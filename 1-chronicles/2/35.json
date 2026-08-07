@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 2:35",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وأعطى شيشان ⟨את⟩ ابنته ليرحع عبده زوجة، فولدت له ⟨את⟩ عَتّاي.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "وأعطى"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "شيشان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابنته"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ابنته"
+    },
+    {
+      "surface": "לירחע",
+      "gloss": "ليرحع"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "عبده"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زوجة"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "فولدت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عَتّاي"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "عَتّاي"
+    }
+  ],
+  "timestamp": "2026-08-07T05:09:55.649138731Z",
+  "model": "glm-5.2"
+}

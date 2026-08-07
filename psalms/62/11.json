@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 62,
+  "translation": "لا تثقوا في الظلم، وفي الغنيمة لا تتبطّلوا؛ ⟨حتى⟩ لو نما الثروة، لا تضعوا القلب.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "تثقوا"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "في الظلم"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "وفي الغنيمة"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "تتبطّلوا"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "الثروة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨حتى⟩ لو"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "نما"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "تضعوا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "القلب"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:33.320824069Z",
+  "model": "glm-5.2"
+}

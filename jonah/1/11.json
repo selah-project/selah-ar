@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 1:11",
+  "book": "jonah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فقالوا له: «ماذا نفعل بك فيسكن البحر عمّا؟» لأنّ البحر ذاهبٌ ومُعصِف.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقالوا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "نفعل"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بك"
+    },
+    {
+      "surface": "וישתק",
+      "gloss": "فيسكن"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "عمّا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ذاهبٌ"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "ومُعصِف"
+    }
+  ],
+  "timestamp": "2026-08-07T03:28:07.895337840Z",
+  "model": "glm-5.2"
+}

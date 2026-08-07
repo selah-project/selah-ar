@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 20:14",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "ملعونٌ اليومُ الذي وُلدتُ فيه، اليومُ الذي ولدتني فيه أمي — لا يُبارَك.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملعونٌ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليومُ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "وُلدتُ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "יום",
+      "gloss": "اليومُ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ילדתני",
+      "gloss": "ولدتني"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "أمي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "يُبارَك"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "مُبارَك"
+    }
+  ],
+  "timestamp": "2026-08-07T02:37:21.073500332Z",
+  "model": "glm-5.2"
+}

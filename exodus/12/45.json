@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "تُوشاو⟨⟩ وأجير لا يأكل منه.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "تُوشاب"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "⟨و⟩أجير"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يأكل"
+    },
+    {
+      "surface": "בו",
+      "gloss": "منه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:05:29.451439149Z",
+  "model": "glm-5.2"
+}

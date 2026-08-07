@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 7:18",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "هيّا نَرتَوِ من المودّة حتى الصباح، نَتَرَهَّص بالمحبّات.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "هيّا"
+    },
+    {
+      "surface": "נרוה",
+      "gloss": "نَرتَوِ"
+    },
+    {
+      "surface": "דדים",
+      "gloss": "من المودّة"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "الصباح"
+    },
+    {
+      "surface": "נתעלסה",
+      "gloss": "نَتَرَهَّص"
+    },
+    {
+      "surface": "באהבים",
+      "gloss": "بالمحبّات"
+    }
+  ],
+  "timestamp": "2026-08-07T04:23:15.403081456Z",
+  "model": "glm-5.2"
+}

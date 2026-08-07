@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "و⟨بَنو⟩ عُزّيئيل: ميشائيل، وإلصافان، وسِتري.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و⟨بَنو⟩"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "عُزّيئيل"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "ميشائيل"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "وإلصافان"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "وسِتري"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:37.495874141Z",
+  "model": "glm-5.2"
+}

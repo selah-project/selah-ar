@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "فقام أفراهام وسجد لشعب الأرض، لبني حِت.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "فقام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "وسجد"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "لشعب"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لبني"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حِت"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:33.546949073Z",
+  "model": "glm-5.2"
+}

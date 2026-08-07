@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 36:15",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "ولا يُطمِنّكم حزقيا إلى يهوه قائلًا: يهوه يُنقذُنا، لا تُسلَّم ⟨هذه⟩ المدينة هذه إلى يد ملك أشّور.»",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "يُطمِنّ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "كم"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حزقيا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "يُنقذُ"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ينقذنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "تُسلَّم"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "إلى يد"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "أشّور"
+    }
+  ],
+  "timestamp": "2026-08-07T02:16:32.582581908Z",
+  "model": "glm-5.2"
+}

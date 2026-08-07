@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فقالت بَت-شيفع: طيب، أنا أتكلّم عنكِ لدى الملك.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بَت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شيفع"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيب"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "أتكلّم"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "عنكِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لدى"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:43:08.575783829Z",
+  "model": "glm-5.2"
+}

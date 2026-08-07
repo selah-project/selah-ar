@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 31:19",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "ولابان ذهب ليجزَّ ⟨את⟩ قطيعه، فسرقت راحيل ⟨את⟩ الترافيم التي لأبيها.",
+  "tokens": [
+    {
+      "surface": "ולבן",
+      "gloss": "ولابان"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ذهب"
+    },
+    {
+      "surface": "לגזז",
+      "gloss": "ليجزَّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قطيعه"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "قطيعه"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "فسرقت"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحيل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الترافيم"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "الترافيم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "لأبيها"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:45.947421439Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "كل الجماعة كرجل واحد أربع رِبو ألفين وثلاث مئة وستّين.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "الجماعة"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "كرجل واحد"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "أربع"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "رِبو"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ألفين"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "وثلاث"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "وستّين"
+    }
+  ],
+  "timestamp": "2026-08-07T06:12:03.962409412Z",
+  "model": "glm-5.2"
+}

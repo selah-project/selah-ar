@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 10:16",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "لذلك يُرسل السيد يهوه صباؤوت في سِمانه هُزالاً، وتحت مجده يُوقَد وقودٌ كوقود نار.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "يُرسل"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "السيد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤوت"
+    },
+    {
+      "surface": "במשמניו",
+      "gloss": "في سِمانه"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "هُزالاً"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "وتحت"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "مجده"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "يُوقَد"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "وقودٌ"
+    },
+    {
+      "surface": "כיקוד",
+      "gloss": "كوقود"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نار"
+    }
+  ],
+  "timestamp": "2026-08-07T02:07:33.446419312Z",
+  "model": "glm-5.2"
+}

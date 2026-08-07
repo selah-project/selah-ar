@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 7:6",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وكان عدد الذين يلعقون بأيديهم إلى أفواههم ثلاثمئة رجل، وكل بقيّة الشعب جثوا على ركبهم ليشربوا ماءً.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "عدد"
+    },
+    {
+      "surface": "המלקקים",
+      "gloss": "الذين يلعقون"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "بأيديهم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "أفواههم"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ثلاث"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "بقيّة"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "جثوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ברכיהם",
+      "gloss": "ركبهم"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ليشربوا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماءً"
+    }
+  ],
+  "timestamp": "2026-08-07T01:14:55.737526199Z",
+  "model": "glm-5.2"
+}

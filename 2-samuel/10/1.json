@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 10:1",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "و⟨كان⟩ بعد ذلك فمات ملكُ بني عمّون، وملك خانُن ابنُه تحته.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "فمات"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملكُ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمّون"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "وملك"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "خانُن"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنُه"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "تحته"
+    }
+  ],
+  "timestamp": "2026-08-07T01:34:19.434198307Z",
+  "model": "glm-5.2"
+}

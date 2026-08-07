@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 39:37",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "⟨את⟩ المنورة الطاهرة ⟨את⟩ سرجها سرج الترتيب و⟨את⟩ كلّ آنيتها و⟨את⟩ زيت الإنارة",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المنورة"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "المنورة"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "الطاهرة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سرجها"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "سرجها"
+    },
+    {
+      "surface": "נרת",
+      "gloss": "سرج"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "الترتيب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "آنيتها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "زيت"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "زيت"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "الإنارة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:09.799691422Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "فأوصي ⟨את⟩ بركتي لكم في السنة السادسة، ⟨ف⟩تصنع ⟨את⟩ الغلّة لثلاث السنين.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "فأوصي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بركتي"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "بركتي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "في السنة"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "السادسة"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "تصنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الغلّة"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "الغلّة"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "لثلاث"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "السنين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:53.374952312Z",
+  "model": "glm-5.2"
+}

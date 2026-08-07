@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "يفدي يهوه نَفْس عبيده، وكلّ المتوكّلين عليه لا يَأثَمون.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "يفدي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْس"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "عبيده"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و⟨لا⟩"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "يَأثَمون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "المتوكّلين"
+    },
+    {
+      "surface": "בו",
+      "gloss": "عليه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:34.408513723Z",
+  "model": "glm-5.2"
+}

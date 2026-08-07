@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 40:32",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "وأدخلني إلى الدار الداخلية من طريق الشرق، فقاس ⟨את⟩ الباب كمقاييس هذه.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "وأدخلني"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "الدار"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "الداخلية"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "من طريق"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "الشرق"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "فقاس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الباب"
+    },
+    {
+      "surface": "השער",
+      "gloss": "الباب"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "كمقاييس"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:14:55.319212134Z",
+  "model": "glm-5.2"
+}

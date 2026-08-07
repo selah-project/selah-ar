@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "وحِسيدي لا أُبطل من معه ولا أكذب في إيماني.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "وحِسيدي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "أُبطل"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "من معه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "أكذب"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "في إيماني"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:04.898190589Z",
+  "model": "glm-5.2"
+}

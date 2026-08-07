@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "⟨את⟩ مَنِ ⟨ال⟩أخبرتَ كلماتٍ؟ ونَفَسُ مَنٍ خرج منك؟",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مَن"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "أخبرتَ"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "كلماتٍ"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "ونَفَسُ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَنٍ"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "خرج"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "منك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:39:32.464237843Z",
+  "model": "glm-5.2"
+}

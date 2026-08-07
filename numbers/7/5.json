@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "«خذها منهم فلتكن لخدمة ⟨את⟩ خدمة خيمة الموعد، وتعطيها ⟨את⟩ إلى اللاويين، كلٌّ على قدر خدمته.»",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "خذ"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "منهم"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "فلتكن"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "لخدمة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خدمة"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "خدمة"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "وتعطي"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "إياها"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "اللاويين"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كلٌّ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "على قدر"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "خدمته"
+    }
+  ],
+  "timestamp": "2026-08-07T00:29:33.305662884Z",
+  "model": "glm-5.2"
+}

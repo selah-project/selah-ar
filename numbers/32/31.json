@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 32:31",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "فأجاب بنو غاد وبنو رأوفن قائلين: ⟨إنّ⟩ ⟨את⟩ الذي تكلّم به يهوه إلى عبيدك، كذلك نفعل.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "فأجاب"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "גד",
+      "gloss": "غاد"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "وبنو"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رأوفن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الذي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "عبيدك"
+    },
+    {
+      "surface": "כן",
+      "gloss": "كذلك"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "نفعل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:28.486134022Z",
+  "model": "glm-5.2"
+}

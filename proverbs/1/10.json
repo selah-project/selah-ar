@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "يا بُنَيّ، إن أغروك خاطئون، لا ترضَ ⟨بهم⟩.",
+  "tokens": [
+    {
+      "surface": "בְּנִ֡י",
+      "gloss": "يا بُنَيّ"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "يְפַתּ֥וּךָ",
+      "gloss": "أغروك"
+    },
+    {
+      "surface": "חַ֝טָּאִ֗ים",
+      "gloss": "خاطئون"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תֹּבֵֽא",
+      "gloss": "ترضَ"
+    }
+  ],
+  "timestamp": "2026-08-07T06:07:57.776469009Z",
+  "model": "glm-5.2"
+}

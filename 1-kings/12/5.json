@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "فقال لهم: «اذهبوا بعد ثلاثة أيام ثم عودوا إليّ». فمضى الشعب.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "اذهبوا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ثلاثة"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "ثم عودوا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "فمضى"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    }
+  ],
+  "timestamp": "2026-08-07T01:47:43.598580247Z",
+  "model": "glm-5.2"
+}

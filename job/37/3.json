@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 37:3",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "تحت كلّ السماوات يوجّهها، وضوءه على أطراف الأرض.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "ישרהו",
+      "gloss": "يوجّهها"
+    },
+    {
+      "surface": "ואורו",
+      "gloss": "وضوءه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "أطراف"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T04:42:47.510545177Z",
+  "model": "glm-5.2"
+}

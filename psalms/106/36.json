@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 106,
+  "translation": "وعبدوا ⟨את⟩ أصنامهم فصارت لهم فخًّا",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "وعبدوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أصنامهم"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "أصنامهم"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "فصارت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "فخًّا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:09.994794063Z",
+  "model": "glm-5.2"
+}

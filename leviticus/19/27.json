@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "لا تحُدّون طرف رؤوسكم ولا تُفسدون ⟨את⟩ طرف لحاكم",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "تحُدّون"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "طرف"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "رؤوسكم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "تُفسدون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "طرف لحاكم"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "طرف"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "لحاكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:38.551733862Z",
+  "model": "glm-5.2"
+}

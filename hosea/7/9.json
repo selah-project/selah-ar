@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 7:9",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "أكل الغرباء قوّته وهو لا يعرف؛ أيضًا الشَّيبةُ رُشّت عليه وهو لا يعرف.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "أكل"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "الغرباء"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "قوّته"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "يعرف"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "الشَّيبة"
+    },
+    {
+      "surface": "זרקה",
+      "gloss": "رُشّت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "يعرف"
+    }
+  ],
+  "timestamp": "2026-08-07T03:21:33.834893923Z",
+  "model": "glm-5.2"
+}

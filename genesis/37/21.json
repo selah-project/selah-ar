@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 37:21",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "وسمع رأوفين، فأنقذه من أيديهم، وقال: لا نضرب ⟨نَفْسًا⟩.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "وسمع"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رأوفين"
+    },
+    {
+      "surface": "ויצלהו",
+      "gloss": "فأنقذه"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "من أيديهم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נכנו",
+      "gloss": "نضرب"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْسًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:38.056654653Z",
+  "model": "glm-5.2"
+}

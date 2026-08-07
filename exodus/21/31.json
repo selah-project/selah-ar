@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "أو نطَح ابنًا أو نطَح ابنةً، بحسب هذا الحُكم يُفعَلُ به.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنًا"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "نطَح"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ابنةً"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "نطَح"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "بحسب الحُكم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يُفعَلُ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:45.884289076Z",
+  "model": "glm-5.2"
+}

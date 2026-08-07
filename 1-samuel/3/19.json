@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 3:19",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وكَبُرَ شموئيل، و⟨كان⟩ يهوه معه، ولم يُسقِط ⟨من⟩ كلِّ كلاماته أرضًا.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "وكَبُرَ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و⟨كان⟩ يهوه"
+    },
+    {
+      "surface": "היה",
+      "gloss": ""
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "הפיל",
+      "gloss": "يُسقِط"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "⟨من⟩ كلِّ"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "كلاماته"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "أرضًا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:45:53.757801962Z",
+  "model": "glm-5.2"
+}

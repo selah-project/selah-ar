@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وخرج حيرام من صُّور ليرى ⟨את⟩ المدن التي أعطاها له شلومو، فلم تَستقِم في عينَيه.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "حيرام"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "من صُّور"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ليرى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المدن"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "المدن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطاها"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "تَستقِم"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "في عينَيه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:45:28.131833216Z",
+  "model": "glm-5.2"
+}

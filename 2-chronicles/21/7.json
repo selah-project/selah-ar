@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 21:7",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "ولم يَشَأْ يهوه أن يُهلك ⟨את⟩ بيت داود، من أجل البريت التي قطعها لداود، وكما قال لإعطائه نيرًا ولِبَنيه كل الأيام.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "شاء"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "أن يُهلك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيت داود"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "למען",
+      "gloss": "من أجل"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "البريت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "قطعها"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "لداود"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "وكما"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "لإعطائه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "نيرًا"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ولِبَنيه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "الأيام"
+    }
+  ],
+  "timestamp": "2026-08-07T08:28:03.300460865Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 9:3",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "إن شاء أن يخاصمه، لا يستطيع أن يُجيبه واحدةً من ألف.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "شاء"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "أن يخاصم"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ـه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "يستطيع أن يُجيبه"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "واحدة"
+    },
+    {
+      "surface": "מני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:41.289443230Z",
+  "model": "glm-5.2"
+}

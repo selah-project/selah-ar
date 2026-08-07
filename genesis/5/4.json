@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وَكانَتْ أيّامُ آدَمَ بَعْدَ وِلادَتِهِ ⟨את⟩ شيت ثَمانَ مِئَةِ سَنَة، وَوَلَدَ بَنينَ وَبَنات.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "وكانت"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ولادته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شيت"
+    },
+    {
+      "surface": "שת",
+      "gloss": "شيت"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ثمان"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "وولد"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بنين"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "وبنات"
+    }
+  ],
+  "timestamp": "2026-08-07T05:34:12.213296669Z",
+  "model": "glm-5.2"
+}

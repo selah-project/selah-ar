@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وشدّد يهوه ⟨את⟩ قلبِ فرعون ملكِ مصرايم فطارَد وراءَ بني يسرايل، وبنو يسرايل خارجون بيدٍ رافعة.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "وشدّد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قلب"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلبِ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملكِ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "فطارَد"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وراءَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "وبنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "خارجون"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بيدٍ"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "رافعة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:03:26.137356345Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 8:5",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "رفض عِجلَكِ يا شومرون، اشتعل غضبي عليهم، حتى متى لا يقدرون طهارةً؟",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "رفض"
+    },
+    {
+      "surface": "עגלך",
+      "gloss": "عجلك"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "يا شومرون"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "اشتعل"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "غضبي"
+    },
+    {
+      "surface": "בם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "متى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "يقدرون"
+    },
+    {
+      "surface": "נקין",
+      "gloss": "طهارةً"
+    }
+  ],
+  "timestamp": "2026-08-07T03:22:09.335575423Z",
+  "model": "glm-5.2"
+}

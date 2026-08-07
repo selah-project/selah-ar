@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 33:1",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "و⟨كان⟩ كلمة يهوه إلى يرمياهو ثانية، وهو بعدُ محبوسٌ في دار الحرس، قائلاً:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرمياهو"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ثانية"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "بعدُ"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "محبوس"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "في دار"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "الحرس"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    }
+  ],
+  "timestamp": "2026-08-07T02:44:21.231289742Z",
+  "model": "glm-5.2"
+}

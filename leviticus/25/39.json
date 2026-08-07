@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 25:39",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وإذا افتقر أخوك معك وبِيع لك، لا تستعبده عبادةَ عبد.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "افتقر"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "أخوك"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "وبِيع"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "تستعبده"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "عبادة"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عبد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:58.497707781Z",
+  "model": "glm-5.2"
+}

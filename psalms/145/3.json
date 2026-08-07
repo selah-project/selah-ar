@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 145,
+  "translation": "عظيمٌ يهوه، و⟨مُسبَّحٌ⟩ جدًّا، ولعظمتِهِ لا ⟨⟨يُوجَد⟩⟩ إحصاءٌ.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "عظيمٌ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ومُسبَّحٌ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "ولعظمتِهِ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "إحصاءٌ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:56.501477311Z",
+  "model": "glm-5.2"
+}

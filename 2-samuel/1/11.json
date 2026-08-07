@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فأمسك داويد بثيابه ومزّقها، وكذلك كلّ الرّجال الذين معه.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "فأمسك"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "بثيابه"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "ومزّقها"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "وكذلك"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "الرّجال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:31:16.048099361Z",
+  "model": "glm-5.2"
+}

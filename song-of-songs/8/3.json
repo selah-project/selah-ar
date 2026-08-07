@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "شِمالُهُ تَحتَ رَأسي ويَمينُهُ تُعانِقُني.",
+  "tokens": [
+    {
+      "surface": "שְׂמֹאלוֹ",
+      "gloss": "شِمالُهُ"
+    },
+    {
+      "surface": "תַּחַת",
+      "gloss": "تَحتَ"
+    },
+    {
+      "surface": "רֹאשִׁי",
+      "gloss": "رَأسي"
+    },
+    {
+      "surface": "וִֽימִינוֹ",
+      "gloss": "ويَمينُهُ"
+    },
+    {
+      "surface": "תְּחַבְּקֵֽנִי",
+      "gloss": "تُعانِقُني"
+    }
+  ],
+  "timestamp": "2026-08-07T04:47:23.757330063Z",
+  "model": "glm-5.2"
+}

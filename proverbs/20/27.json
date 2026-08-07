@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 20:27",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "سِراجُ يهوه نَسَمَةُ الإنسانِ، تَفحَصُ كلَّ مَخادِعِ البَطنِ.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "سِراج"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "نَسَمَة"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "تَفحَص"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "مَخادِع"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "البَطن"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:14.704111509Z",
+  "model": "glm-5.2"
+}

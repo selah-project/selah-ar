@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 74,
+  "translation": "لكَ النهار، ⟨بل⟩ لكَ أيضًا الليل، أنتَ أقمتَ المنير ⟨و⟩الشمس.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "لكَ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "نهار"
+    },
+    {
+      "surface": "אף",
+      "gloss": "أيضًا\/بل"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكَ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ليل"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "أقمتَ\/هيّأتَ"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "منير\/نور"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "والشمس"
+    }
+  ],
+  "timestamp": "2026-08-07T06:05:34.873129063Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 23:31",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "هأنذا على الأنبياء، نأم يهوه، الآخذين ألسنتهم و⟨هم⟩ يقولون نأم ⟨أنه⟩",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "هأنذا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הנביאם",
+      "gloss": "الأنبياء"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نأم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הלקחים",
+      "gloss": "الآخذين"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ألسنتهم"
+    },
+    {
+      "surface": "וינאמו",
+      "gloss": "و⟨هم⟩ يقولون"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نأم"
+    }
+  ],
+  "timestamp": "2026-08-07T07:46:24.387857592Z",
+  "model": "glm-5.2"
+}

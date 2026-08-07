@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وأحسن إلوهيم إلى المولّدات، فكثر الشعب وتعزّز جدًّا.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "وأحسن"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "إلى المولّدات"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "فكثر"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "وتعزّز"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:39.511096743Z",
+  "model": "glm-5.2"
+}

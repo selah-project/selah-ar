@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فقال الشعب لِيهوشُع: ⟨את⟩ يهوه إلهنا نعبد، وبصوته نسمع.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشُع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلهنا"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "نعبد"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "وبصوته"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "نسمع"
+    }
+  ],
+  "timestamp": "2026-08-07T01:11:47.589775942Z",
+  "model": "glm-5.2"
+}

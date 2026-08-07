@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 4:4",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فقال يهوه لموشيه: «أرسل يدك وأمسك بذنبه»، فأرسل يده وأمسكه بقوّة، فعاد عصًا في كفّه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "أرسل"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدك"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "وأمسك"
+    },
+    {
+      "surface": "בזנבו",
+      "gloss": "بذنبه"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "وأمسك"
+    },
+    {
+      "surface": "בו",
+      "gloss": "به"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "فصار"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "لعصًا"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "في كفّه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:25.959678368Z",
+  "model": "glm-5.2"
+}

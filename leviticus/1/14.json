@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 1:14",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وإن كان قربانه من الطير عولاه ليهوه، يُقرِّب من اليَمام أو من بني الحمامة ⟨את⟩ قربانه.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "الطير"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "عولاه"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "قربانه"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "يُقرِّب"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "اليَمام"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "الحمامة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قربانه"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "قربانه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:22.617597896Z",
+  "model": "glm-5.2"
+}

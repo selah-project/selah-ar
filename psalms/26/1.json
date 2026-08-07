@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "لدواد. اقضِ لي، يا يهوه، لأنّي بسَداقتي سلكتُ، وبيهوه وثقتُ، لا أَتَعَثَّر.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "لدواد"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "اقضِ لي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "بكَمالي"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "سلكتُ"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "وبيهوه"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "وثقتُ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "أتعرقل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:47.491793679Z",
+  "model": "glm-5.2"
+}

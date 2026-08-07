@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 5:9",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "أعلى ⟨هذه⟩ لا أُعاقِب؟ — نَأْم يهوه — وإن في أمّةٍ كهذه لا تنتقم نَفسي؟",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "أعلى"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨هذه⟩"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "أُعاقِب"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نَأْم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "في أمّة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "كهذه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "تنتقم"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفسي"
+    }
+  ],
+  "timestamp": "2026-08-07T02:30:34.000311989Z",
+  "model": "glm-5.2"
+}

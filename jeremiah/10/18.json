@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 10:18",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "لأنه هكذا قال يهوه: ها أنا أقذف ⟨את⟩ سكّان الأرض هذه المرّة، وأضيّق عليهم، لكي يُوجَدوا كذلك",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ها أنا"
+    },
+    {
+      "surface": "קולע",
+      "gloss": "أقذف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سكّان"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "سكّان"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "هذه المرّة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "והצרותי",
+      "gloss": "وأضيّق"
+    },
+    {
+      "surface": "להם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "يُوجَدوا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:33:08.909008585Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 21:16",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "لأنه هكذا قال لي أدوناي: في مدى سنة كسنوات الأجير يفنى كل مجد قيدار.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "في مدى"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "كسنوات"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "الأجير"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "يفنى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "مجد"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "قيدار"
+    }
+  ],
+  "timestamp": "2026-08-07T02:09:09.249569278Z",
+  "model": "glm-5.2"
+}

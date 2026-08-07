@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 63:11",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 63,
+  "translation": "ثم ذكر أيّام الأزل، موشيه شعبه: أين صاعدُهم من البحر، ⟨مع⟩ رعاة قطيعه؟ أين الجاعلُ في وسطه ⟨את⟩ روح قدسه؟",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "ثم ذكر"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "الأزل"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبه"
+    },
+    {
+      "surface": "איה",
+      "gloss": "أين"
+    },
+    {
+      "surface": "המעלם",
+      "gloss": "صاعدُهم"
+    },
+    {
+      "surface": "מים",
+      "gloss": "من البحر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨مع⟩",
+      "marks": "رعاة"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "رعاة"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "قطيعه"
+    },
+    {
+      "surface": "איה",
+      "gloss": "أين"
+    },
+    {
+      "surface": "השם",
+      "gloss": "الجاعلُ"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "في وسطه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "روح"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "قدسه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:27:09.128229765Z",
+  "model": "glm-5.2"
+}

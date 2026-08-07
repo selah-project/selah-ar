@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 5:20",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وكلّم يهوه موشيه قائلًا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "⟨إلى⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:44.602861297Z",
+  "model": "glm-5.2"
+}

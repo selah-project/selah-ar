@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 23:17",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "عندك يَسكُن في وسطك في المكان الذي يختاره في أحد أبوابك في ما يَطيب له لا تَظلِمهُ",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "عندك"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "يَسكُن"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "في وسطك"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "في المكان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "يختاره"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "في أحد"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "أبوابك"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "في ما يَطيب"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תוננו",
+      "gloss": "تَظلِمهُ"
+    }
+  ],
+  "timestamp": "2026-08-07T05:43:13.660151398Z",
+  "model": "glm-5.2"
+}

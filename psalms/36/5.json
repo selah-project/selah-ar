@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "أَوَنٌ يُحْوِكُهُ على مضجعه، يتموّق على طريقٍ لا ⟨هو⟩ صالح، شرًّا لا يرفضه.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "أَوَنٌ"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "يُحْوِكُهُ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "مضجعه"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "يتموّق"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "طريقٍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "صالح"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شرًّا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "يرفضه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:43.571682575Z",
+  "model": "glm-5.2"
+}

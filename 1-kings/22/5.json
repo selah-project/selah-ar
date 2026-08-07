@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "فقال يهوشافاط لملك إسرايل: اسألْ نا اليوم ⟨את⟩ كلمة يهوه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "يهوشافاط"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرايل"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "اسألْ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلمة يهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:53:05.871665636Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 40:12",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "انظر كلَّ متعالٍ أخضِعْه، وادْسِ الأشرارَ تحتهم.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "انظر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "متعالٍ"
+    },
+    {
+      "surface": "הכניעהו",
+      "gloss": "أخضِعْه"
+    },
+    {
+      "surface": "והדך",
+      "gloss": "وادْسِ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الأشرار"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "تحتهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:43:59.560343956Z",
+  "model": "glm-5.2"
+}

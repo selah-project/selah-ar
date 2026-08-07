@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وتكون صرخة عظيمة في كل أرض مصرايم، مثلها لم تكن، ومثلها لا تُزاد.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "وتكون"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "صرخة"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "عظيمة"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كل"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "مثلها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "تكن"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "ومثلها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "تُزاد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:28.584467626Z",
+  "model": "glm-5.2"
+}

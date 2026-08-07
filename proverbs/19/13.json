@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 19:13",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "هَوْلةٌ لأبيهِ ابنٌ غبيّ، وكتساقط القطرِ ملاحقةُ خصوماتِ امرأة.",
+  "tokens": [
+    {
+      "surface": "הות",
+      "gloss": "هَوْلة"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "لأبيه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "غبيّ"
+    },
+    {
+      "surface": "ודלף",
+      "gloss": "وتساقطُ القطر"
+    },
+    {
+      "surface": "טרד",
+      "gloss": "ملاحقة"
+    },
+    {
+      "surface": "מדיני",
+      "gloss": "خصومات"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:35.134493589Z",
+  "model": "glm-5.2"
+}

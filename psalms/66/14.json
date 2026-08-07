@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 66,
+  "translation": "التي فتقتها شفاهي، ولهج فمي بها ⟨في⟩ ضيقي.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "فتقت"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "شفاهي"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ولهج"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فمي"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ضيقي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:47.645594148Z",
+  "model": "glm-5.2"
+}

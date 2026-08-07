@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 104,
+  "translation": "هذا البحرُ كبيرٌ ورحبُ اليدين، هناك رَمَش بلا عدد، حيواتٌ صغار مع كبيرات.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "كبير"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ورحب"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "اليدين"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "رَمَش"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "بلا"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "عدد"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "حيوات"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "صغار"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "كبيرات"
+    }
+  ],
+  "timestamp": "2026-08-07T04:06:40.869360776Z",
+  "model": "glm-5.2"
+}

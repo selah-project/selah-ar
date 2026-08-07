@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 107:21",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 107,
+  "translation": "ليَحْمَدوا يهوه على حِسِده، وعلى عجائبه ⟨لـ⟩ بني آدم",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ليَحْمَدوا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حِسِده"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "وعلى عجائبه"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨لـ⟩ بني"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:31.732835141Z",
+  "model": "glm-5.2"
+}

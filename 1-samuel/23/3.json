@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 23:3",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "فقال رجال داوود له: هوذا نحن هنا في يهوداه خائفون، فكيف إذا ذهبنا قَعيلاه إلى صفوف فِلِشتيم؟",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "نحن"
+    },
+    {
+      "surface": "פה",
+      "gloss": "هنا"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "في يهوداه"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "خائفون"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "فكيف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ذهبنا"
+    },
+    {
+      "surface": "קעלה",
+      "gloss": "قَعيلاه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "صفوف"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فِلِشتيم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:28:40.957196213Z",
+  "model": "glm-5.2"
+}

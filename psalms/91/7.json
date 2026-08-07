@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 91,
+  "translation": "يسقطُ من جنبك ألف، وربوةٌ من يمينك، إليك لا يقترب.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "يسقط"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "من جنبك"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "وربوة"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "من يمينك"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "يقترب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:24.708063848Z",
+  "model": "glm-5.2"
+}

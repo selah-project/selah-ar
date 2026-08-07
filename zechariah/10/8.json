@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 10:8",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "أُصفّر لهم فأجمعهم، لأنّني فديتهم، فيكثرون كما كثُروا.",
+  "tokens": [
+    {
+      "surface": "אשרקה",
+      "gloss": "أُصفّر"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "ואקבצם",
+      "gloss": "فأجمعهم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّني"
+    },
+    {
+      "surface": "פדיתים",
+      "gloss": "فديتهم"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "فيكثرون"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "كما"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "كثُروا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:38:27.233919433Z",
+  "model": "glm-5.2"
+}

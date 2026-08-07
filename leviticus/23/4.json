@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "هذه مواعيد يهوه، مَقاري قدَش، التي تنادون ⟨את⟩ها في موعدها.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "مواعيد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "مَقاري"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدَش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "تنادون"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ها (بموعدها)"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "في موعدها"
+    }
+  ],
+  "timestamp": "2026-08-07T07:09:03.925170929Z",
+  "model": "glm-5.2"
+}

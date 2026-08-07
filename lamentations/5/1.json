@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "اذكرْ، يا يهوه، ما ⟨كان⟩ لنا؛ تأمَّلْ ورَأَى ⟨את⟩ عارَنا.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "اذكرْ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "تأمَّلْ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ورَأَى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عارَنا"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "عارَنا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:50:27.298869131Z",
+  "model": "glm-5.2"
+}

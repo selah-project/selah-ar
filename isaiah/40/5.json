@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "ويُكشَفُ مجدُ يهوه، ويرى كلُّ بشرٍ معًا، لأنَّ فمَ يهوه تكلَّم.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "ويُكشَفُ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "مجدُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ويرى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بشرٍ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "معًا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فمَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلَّم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:17:43.273058606Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 4:14",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فزعٌ صادَفَني ورعدةٌ، وكثرةَ عظامي أفزَع.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "فزعٌ"
+    },
+    {
+      "surface": "קראני",
+      "gloss": "صادفني"
+    },
+    {
+      "surface": "ורעדה",
+      "gloss": "ورعدةٌ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "وكثرةَ"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "عظامي"
+    },
+    {
+      "surface": "הפחיד",
+      "gloss": "أفزع"
+    }
+  ],
+  "timestamp": "2026-08-07T04:31:21.859682148Z",
+  "model": "glm-5.2"
+}

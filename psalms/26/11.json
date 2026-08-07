@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "أمّا أنا فبكمالي أسلك، افتدِني ورحمني",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "وأمّا أنا"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "بكمالي"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "أسلك"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "افتدِني"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ورحمني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:45:40.444872526Z",
+  "model": "glm-5.2"
+}

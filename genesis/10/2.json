@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "بنو يافِت: جومر وماجوج وماضاي ويوان وتوبال وماشِك وتيراس.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "يافِت"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "جومر"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "وماجوج"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "وماضاي"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "ويوان"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "وتوبال"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "وماشِك"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "وتيراس"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:15.949854457Z",
+  "model": "glm-5.2"
+}

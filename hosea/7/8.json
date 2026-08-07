@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 7:8",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "أفرايِم، بين الشعوب هو يُختلَط، أفرايِم صار رغيفًا غيرَ مقلوبٍ.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "أفرايِم"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "بين الشعوب"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "יתבולל",
+      "gloss": "يُختلَط"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "أفرايِم"
+    },
+    {
+      "surface": "היה",
+      "gloss": "صار"
+    },
+    {
+      "surface": "עגה",
+      "gloss": "رغيفًا"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "غيرَ"
+    },
+    {
+      "surface": "הפוכה",
+      "gloss": "مقلوبٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:22:56.003285112Z",
+  "model": "glm-5.2"
+}

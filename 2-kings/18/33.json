@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "هل أنقذ حقًّا أنقذوا آلهة الأمم، رجلًا ⟨את⟩ أرضه من يد ملك آشور؟",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "هل أنقذ"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "أنقذوا"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "آلهة"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلًا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أرضه"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "أرضه"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يد"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "آشور"
+    }
+  ],
+  "timestamp": "2026-08-07T01:59:48.816130208Z",
+  "model": "glm-5.2"
+}

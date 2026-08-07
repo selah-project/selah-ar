@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 20:13",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "لا تُحِبَّ النومَ لئلاّ تَفتقر، افتح عينيك، ⟨فـ⟩تَشبع خبزًا",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאהב",
+      "gloss": "تُحِبَّ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "النوم"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلاّ"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "تَفتقر"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "افتح"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "عينيك"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "تَشبع"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:34.985218369Z",
+  "model": "glm-5.2"
+}

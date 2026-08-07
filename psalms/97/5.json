@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 97,
+  "translation": "الجبال كالشمع ذابت من أمام يهوه، من أمام أدون كل الأرض",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "الجبال"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "كالشمع"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "ذابت"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "من أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "من أمام"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "أدون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:02.977368448Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 36:17",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "وسألوا ⟨את⟩ باروخ قائلين: أخبرنا الآن كيف كتبت ⟨את⟩ كلَّ الكلماتِ هذه من فمه؟",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "باروخ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروخ"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "سألوا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "أخبر"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "نا"
+    },
+    {
+      "surface": "איך",
+      "gloss": "كيف"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "كتبت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلَّ الكلماتِ هذه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "الكلماتِ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "من فمه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:46:00.948274878Z",
+  "model": "glm-5.2"
+}

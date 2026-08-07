@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 23:18",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "فكشفت زِناها، وكشفت ⟨את⟩ عورتها، فجفَت نَفْسي عنها كما جفَت نَفْسي عن أُختها.",
+  "tokens": [
+    {
+      "surface": "ותגל",
+      "gloss": "فكشفت"
+    },
+    {
+      "surface": "תזנותיה",
+      "gloss": "زِناها"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "وكشفت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عورتها"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "عورتها"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "فجفَت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفْسي"
+    },
+    {
+      "surface": "מעליה",
+      "gloss": "عنها"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "נקעה",
+      "gloss": "جفَت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفْسي"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "عن"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "أُختها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:04:52.448235875Z",
+  "model": "glm-5.2"
+}

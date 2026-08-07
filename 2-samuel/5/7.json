@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "فاستولى داود على ⟨את⟩ حصن صهيون، هي مدينة داود.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "فاستولى"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حصن"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "حصن"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:30.362748190Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 55,
+  "translation": "لأنّه ليست أفكاري أفكارَكم، ولا طرقَكم طرقي، نئُم يهوه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليست"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "أفكاري"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "أفكارَكم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "طرقَكم"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "طرقي"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نئُم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:21:48.602350351Z",
+  "model": "glm-5.2"
+}

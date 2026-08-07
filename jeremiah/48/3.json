@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "صوتُ صُراخٍ مِن حورونايم: خرابٌ وكسرٌ عظيم!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "صُراخ"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "مِن حورونايم"
+    },
+    {
+      "surface": "שד",
+      "gloss": "خراب"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "وكسر"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:49:56.841619995Z",
+  "model": "glm-5.2"
+}

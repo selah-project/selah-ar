@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 128,
+  "translation": "لِتعملَ كفّاكَ فتأكل، أسعدُ لكَ الحظُّ ⟨و⟩خيرٌ لكَ.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "لِتعملَ"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "كفّاكَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "فتـ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "تأكل"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "أسعدُ لكَ الحظُّ"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "⟨و⟩خيرٌ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:15:46.870595553Z",
+  "model": "glm-5.2"
+}

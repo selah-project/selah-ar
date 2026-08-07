@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "ِشدد سيفك على فخذك أيها الجبّار، هودك ⟨و⟩هدرَك",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "ِشدد"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "سيفك"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "فخذك"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "أيها الجبّار"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "هودك"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "⟨و⟩هدرَك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:53:02.827168635Z",
+  "model": "glm-5.2"
+}

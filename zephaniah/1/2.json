@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "أزيلُ − أُزيلُ الكلّ من على وجه الأرض، نُطقُ يهوه",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "أزيلُ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "أُزيلُ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "الكلّ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "من على"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نُطقُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:33:52.688100714Z",
+  "model": "glm-5.2"
+}

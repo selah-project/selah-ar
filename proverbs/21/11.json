@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 21:11",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "بعقابِ المستهزئِ يَحكُمُ السّاذج، وبإفهامِ الحكيمِ يتلقّى معرفة.",
+  "tokens": [
+    {
+      "surface": "בענש",
+      "gloss": "بعقابِ"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "المستهزئِ"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "يَحكُمُ"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "السّاذج"
+    },
+    {
+      "surface": "ובהשכיל",
+      "gloss": "وبإفهامِ"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "الحكيمِ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "يتلقّى"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "معرفة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:44.672177102Z",
+  "model": "glm-5.2"
+}

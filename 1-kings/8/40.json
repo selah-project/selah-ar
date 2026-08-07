@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 8:40",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "لكي يهابوك كل الأيام التي هم أحياء فيها على وجه الأرض، التي أعطيتها لآبائنا،",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "يهابوك"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "الأيام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "أحياء"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "أعطيتها"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "لآبائنا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:46:00.000632184Z",
+  "model": "glm-5.2"
+}

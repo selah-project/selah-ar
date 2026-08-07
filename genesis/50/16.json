@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 50:16",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "فأوصوا إلى يوصِف قائلين: «أبوك أوصى قبل موته قائلًا:»",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "فأوصوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوصِف"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أبوك"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "قبل"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "موته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:46.009348426Z",
+  "model": "glm-5.2"
+}

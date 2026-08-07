@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 82,
+  "translation": "أنا قلتُ: «إلوهيم أنتم، وكلّكم بنو عليون».",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "قلتُ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "وبنو"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عليون"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "وكلّكم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:01:25.778214708Z",
+  "model": "glm-5.2"
+}

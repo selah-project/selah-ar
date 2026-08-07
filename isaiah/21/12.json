@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "قال الحارس: «أتى الصباح، وأيضًا الليل. إن كنتم تطلبون، فاطلبوا. عودوا، تعالَوا.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "الحارس"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أتى"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "الصباح"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "الليل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "תבעיון",
+      "gloss": "كنتم تطلبون"
+    },
+    {
+      "surface": "בעיו",
+      "gloss": "فاطلبوا"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "عودوا"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "تعالَوا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:08:34.783671186Z",
+  "model": "glm-5.2"
+}

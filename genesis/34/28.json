@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "أخذوا ⟨את⟩ قطيعهم و⟨את⟩ بقرهم و⟨את⟩ حميرهم و⟨את⟩ ما في المدينة و⟨את⟩ ما في الحقل.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قطيعهم"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "قطيعهم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بقرهم"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "بقرهم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "حميرهم"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "حميرهم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "ما في المدينة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "في المدينة"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "ما في الحقل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "في الحقل"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "أخذوا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:48:29.536799982Z",
+  "model": "glm-5.2"
+}

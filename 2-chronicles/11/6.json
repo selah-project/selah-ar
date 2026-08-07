@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وبنى ⟨את⟩ بيت لحم و⟨את⟩ عيطام و⟨את⟩ تقواع",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "وبنى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيت لحم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "عيطام"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "عيطام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "تقواع"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "تقواع"
+    }
+  ],
+  "timestamp": "2026-08-07T05:24:09.656519917Z",
+  "model": "glm-5.2"
+}

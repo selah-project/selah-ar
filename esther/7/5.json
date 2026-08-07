@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 7:5",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "و⟨تكلّم⟩ الملك أَحَشْوِروش و⟨قال⟩ لأَسْتِير الملكة: مَن هو هذا وأين هو هذا الذي ملأ قلبه أن يفعل هكذا؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و⟨تكلّم⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "أَحَشْوِروش"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و⟨قال⟩"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "لأَسْتِير"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "الملكة"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "وأين"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ملأ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "قلبه"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "أن يفعل"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:55:33.448208464Z",
+  "model": "glm-5.2"
+}

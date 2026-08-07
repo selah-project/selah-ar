@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 18:3",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "هم مع بيت ميخا، وهم عرفوا ⟨את⟩ صوت الفتى اللاوي، فمالوا إلى هناك وقالوا له: من جاء بك إلى هنا؟ وماذا أنت فاعل في هذا المكان؟ وما لك هنا؟",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ميخا"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "وهم"
+    },
+    {
+      "surface": "הכירו",
+      "gloss": "عرفوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صوت"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "الفتى"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "اللاوي"
+    },
+    {
+      "surface": "ויסורו",
+      "gloss": "فمالوا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "إلى هناك"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "הביאך",
+      "gloss": "جاء بك"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "إلى هنا"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "وماذا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فاعل"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "في هذا المكان"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "وما"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "פה",
+      "gloss": "هنا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:19:09.512573794Z",
+  "model": "glm-5.2"
+}

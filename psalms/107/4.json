@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 107,
+  "translation": "ضلّوا في البريّة، في بريّةٍ مقفرةٍ طريقَ⟨ه⟩، مدينةَ مسكنٍ لم يجدوها.",
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "ضلّوا"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في البريّة"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "في قَفار"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "طريق"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "مسكن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "يجدوا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:47.298153425Z",
+  "model": "glm-5.2"
+}

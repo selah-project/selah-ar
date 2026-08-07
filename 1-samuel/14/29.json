@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 14:29",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "فقال يوناتان: «قد أفسد أبي ⟨את⟩ الأرض. انظروا الآن كيف أُنيرَت عيناي لأنّي ذُقتُ قليلًا من هذا العسل».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "يوناتان"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "أفسد"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "انظروا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "كيف"
+    },
+    {
+      "surface": "ארו",
+      "gloss": "أُنيرَت"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "عيناي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "טעמתי",
+      "gloss": "ذُقتُ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "قليلًا"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "العسل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:25:10.127011468Z",
+  "model": "glm-5.2"
+}

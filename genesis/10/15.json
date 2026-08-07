@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وكنعان ولد ⟨את⟩ صيدون بكره و⟨את⟩ حِتّ",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "وكنعان"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ولد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صيدون بكره"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "صيدون"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "بكره"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "حتّ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حتّ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:39.374650929Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 11:15",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وإن كنتَ تفعل بي هكذا، فاقتُلني أرجوك قتلًا، إن وجدتُّ حُظوةً في عينيك، ولا أرى بليّتي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "את",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "تفعل"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بي"
+    },
+    {
+      "surface": "הרגני",
+      "gloss": "فاقتُلني"
+    },
+    {
+      "surface": "נא",
+      "gloss": "أرجوك"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "قتلًا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "وجدتُّ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "حُظوةً"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "في عينيك"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "أرى"
+    },
+    {
+      "surface": "ברעתי",
+      "gloss": "بليّتي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:35:17.876288644Z",
+  "model": "glm-5.2"
+}

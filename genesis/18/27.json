@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 18:27",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فأجاب أفراهام وقال: «هأنذا الآن قد تشجّعت ⟨على⟩ الكلام إلى أدوناي، وأنا تراب ورماد.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "فأجاب"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هأنذا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "הואלתי",
+      "gloss": "تشجّعت"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "على الكلام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "تراب"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "ورماد"
+    }
+  ],
+  "timestamp": "2026-08-07T05:34:31.305980192Z",
+  "model": "glm-5.2"
+}

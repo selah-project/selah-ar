@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "ثمرهم من أرض تُبيد، وذرّيّتهم من بين بني آدم.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "ثمرهم"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "من أرض"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "تُبيد"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "وذرّيّتهم"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "من بين"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:01.289693079Z",
+  "model": "glm-5.2"
+}

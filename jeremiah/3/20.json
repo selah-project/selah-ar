@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 3:20",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "أكيد غدَرت امرأةٌ قرينُها، هكذا غدرتُم بي يا بيت يساراإيل — نئوم يهوه.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "أكيد\/حقًا"
+    },
+    {
+      "surface": "בגדה",
+      "gloss": "غدَرَت"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأةٌ"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "قرينُها"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "בגדתם",
+      "gloss": "غدرتُم"
+    },
+    {
+      "surface": "בי",
+      "gloss": "بي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "يا بيتَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يساراإيل"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نئومُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:30:13.928256001Z",
+  "model": "glm-5.2"
+}

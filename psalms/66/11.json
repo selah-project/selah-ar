@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 66,
+  "translation": "أدخلتنا إلى الشَّبَكة، وضعت ضِيقًا على أوساطنا.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "أدخلنا"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "إلى الشَّبَكة"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "وضع"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "ضِيقًا"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "على أوساطنا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:25.514041224Z",
+  "model": "glm-5.2"
+}

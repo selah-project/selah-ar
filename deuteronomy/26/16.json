@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "«اليوم هذا يهوه إلوهيمك يوصيك لتعمل ⟨את⟩ هذه الفرائض و⟨את⟩ الأحكام، فتحفظ وتعملها بكل قلبك وبكل نفسك.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "يوصيك"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "لتعمل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هذه الفرائض"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "الفرائض"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الأحكام"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "الأحكام"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "فتحفظ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "وتعمل"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاها"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بكل"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "قلبك"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "وبكل"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "نفسك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:36.083123387Z",
+  "model": "glm-5.2"
+}

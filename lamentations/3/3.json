@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "حقًّا ⟨عليَّ⟩ يَرجِع، يُقلِّب يدَهُ كلَّ اليوم.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "حقًّا"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨عليَّ⟩"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "يرجع"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "يُقلِّب"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يدَه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    }
+  ],
+  "timestamp": "2026-08-07T08:19:45.006803815Z",
+  "model": "glm-5.2"
+}

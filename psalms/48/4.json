@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "إلوهيمُ ⟨في⟩ أبراجِها ⟨ـ⟩ عُرِفَ ملجأً",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "في أبراجِها"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "عُرِفَ"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "ملجأً"
+    }
+  ],
+  "timestamp": "2026-08-07T03:51:43.136872004Z",
+  "model": "glm-5.2"
+}

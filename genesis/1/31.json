@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ورأى إلوهيم ⟨את⟩ كل ما صنع، وإذا هو طيّب جداً. وكان مساءٌ وكان صباحٌ — اليوم السادس.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ورأى"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل ما صنع"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنع"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيّب"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جداً"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "مساءٌ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صباحٌ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "السادس"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:23.043945802Z",
+  "model": "glm-5.2"
+}

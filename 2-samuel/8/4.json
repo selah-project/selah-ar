@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 8:4",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وأخذ داوِد منه ألفًا وسبع مئة فارس وعشرين ألف راجل، وقلع داوِد ⟨את⟩ كل المركبات ولم يُبقِ منه إلا مئة مركبة.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفًا"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "وسبع"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "فارس"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "وعشرين"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "איש",
+      "gloss": "راجل"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "راجل"
+    },
+    {
+      "surface": "ויעקר",
+      "gloss": "و⟨قلع⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "المركبات"
+    },
+    {
+      "surface": "ויותר",
+      "gloss": "ولم يُبقِ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "مركبة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:55.420840570Z",
+  "model": "glm-5.2"
+}

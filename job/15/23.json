@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 15:23",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "هو تائِهٌ طلبًا للخبز: «أين هو؟» يعرفُ أنَّ مُهيَّأً في يدِه يومُ ظلام.",
+  "tokens": [
+    {
+      "surface": "נדד",
+      "gloss": "تائِه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "طلبًا للخبز"
+    },
+    {
+      "surface": "איה",
+      "gloss": "أين"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "يعرف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنَّ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "مُهيَّأ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "في يدِه"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ظلام"
+    }
+  ],
+  "timestamp": "2026-08-07T04:36:52.276163899Z",
+  "model": "glm-5.2"
+}

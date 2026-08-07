@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "للغنيّ كان قطيع وبقر ⟨كثيرًا⟩ جدّاً.",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "للغنيّ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "قطيع"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "وبقر"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "⟨كثيرًا⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدّاً"
+    }
+  ],
+  "timestamp": "2026-08-07T05:47:22.746389804Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "فكلّم يهوه موشيه: «اذهب، انزل، لأنّ شعبك قد أفسدوا، الذين أصعدتهم من أرض مصرايم»",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "فكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اذهب"
+    },
+    {
+      "surface": "רד",
+      "gloss": "انزل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "أفسدوا"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "شعبك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "أصعدتهم"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "من أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:28.764700860Z",
+  "model": "glm-5.2"
+}

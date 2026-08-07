@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 9:6",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "أيضًا محبّتُهم، أيضًا كراهتُهم، أيضًا غَيرتُهم، قد بادت منذ زمان، وليس لهم نصيبٌ بعدُ إلى الأبد في كلِّ ما يُعمَل تحت الشمس.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "אהבתם",
+      "gloss": "محبّتُهم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "كراهتُهم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "קנאתם",
+      "gloss": "غَيرتُهم"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "قد منذ زمان"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "بادت"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "وليس نصيبٌ"
+    },
+    {
+      "surface": "אין",
+      "gloss": ""
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعدُ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلِّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "يُعمَل"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "الشمس"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:51.299763737Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "شمالاً ويميناً أنت خلقتها؛ تافور وحَرمون باسمك يُرنّون",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "شمالاً"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ويميناً"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "خلقتها"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "تافور"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "وحَرمون"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "باسمك"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "يُرنّون"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:06.752522789Z",
+  "model": "glm-5.2"
+}

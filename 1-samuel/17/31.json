@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 17:31",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وسُمعت الكلمات التي تكلّم بها داود، فأخبروا أمام شاؤول، فأحضره.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "وسُمعت"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "الكلمات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "فأخبروا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "فأحضره"
+    }
+  ],
+  "timestamp": "2026-08-07T01:26:49.822511479Z",
+  "model": "glm-5.2"
+}

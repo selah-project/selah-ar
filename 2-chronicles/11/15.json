@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 11:15",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وأقام له كهنة للمرتفعات وللشعائر وللعجول التي صنعها.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "وأقام"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "كهنة"
+    },
+    {
+      "surface": "לבמות",
+      "gloss": "للمرتفعات"
+    },
+    {
+      "surface": "ולשעירים",
+      "gloss": "وللشعائر"
+    },
+    {
+      "surface": "ולעגלים",
+      "gloss": "وللعجول"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنعها"
+    }
+  ],
+  "timestamp": "2026-08-07T05:25:09.220916130Z",
+  "model": "glm-5.2"
+}

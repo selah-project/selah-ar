@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فرأت ساراه ⟨את⟩ ابن هگار المصرايمية التي ولدته لأفراهام يَمْزَح",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "فرأت"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ساراه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابن"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "هگار"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "المصرايمية"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ولدته"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "لأفراهام"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "يَمْزَح"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:07.558760382Z",
+  "model": "glm-5.2"
+}

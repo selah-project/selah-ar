@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "والتمس داوود ⟨את⟩ إلوهيم من أجل الفتى، وصام داوود صومًا، وجاء وبات واضطجع أرضًا.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "والتمس"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "إلوهيم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "من أجل"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "الفتى"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "وصام"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "צום",
+      "gloss": "صومًا"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "وبات"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "واضطجع"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "أرضًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:35:02.972274226Z",
+  "model": "glm-5.2"
+}

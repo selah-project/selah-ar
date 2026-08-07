@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 5:1",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "فعدتُ ورفعتُ عينيّ فرأيتُ، وإذا مَجيلاه طائرة.",
+  "tokens": [
+    {
+      "surface": "ואשוב",
+      "gloss": "فعدتُ"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "ورفعتُ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "عينيّ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "فرأيتُ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "مَجيلاه"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "طائرة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:36:11.623285746Z",
+  "model": "glm-5.2"
+}

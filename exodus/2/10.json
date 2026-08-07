@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وكبر الولد، فأتت به لبنت فرعون، فصار لها ابناً، ودعت اسمه موشيه، وقالت: «لأنّي من المياه سحبته».",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "وكبر"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "الولد"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "فأتت به"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "لبنت"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "فصار"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ابناً"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ودعت"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "وقالت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "המים",
+      "gloss": "المياه"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "سحبته"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:20.960638191Z",
+  "model": "glm-5.2"
+}

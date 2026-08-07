@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "ها إنّي جعلتُ ⟨את⟩ وجهك صُلبةً مقابل وجوههم، و⟨את⟩ جبهتَك صُلبةً مقابل جباههم.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "إنّي جعلتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وجهك"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهك"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "صُلبةً"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "مقابل"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "وجوههم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "جبهتك"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "جبهتَك"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "صُلبةً"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "مقابل"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "جباههم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:55:30.133748441Z",
+  "model": "glm-5.2"
+}

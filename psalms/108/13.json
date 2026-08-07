@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 108,
+  "translation": "أعطنا عَونًا ضدّ المِضْيق، وباطلٌ خلاصُ الإنسان.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "أعطِ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "عَونَ"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ضدّ المِضْيق"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "وباطلٌ"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "خلاصُ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسان"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:50.233401958Z",
+  "model": "glm-5.2"
+}

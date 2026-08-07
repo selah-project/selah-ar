@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "لا تخف لأنّي معك، لا تتلفت لأنّي أنا إلوهيمك. شدّدتُك، بل أعنتُك، بل ثبّتُك بيمين صِدقي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "تخف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "تتلفت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "شدّدتُك"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بل"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "أعنتُك"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بل"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "ثبّتُك"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "بيمين"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "صِدقي"
+    }
+  ],
+  "timestamp": "2026-08-07T02:18:19.616249218Z",
+  "model": "glm-5.2"
+}

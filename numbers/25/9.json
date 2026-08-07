@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "فكانَ الموتى في الوباء أربعةً وعشرين ألفًا.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "فكانَ"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "الموتى"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "في الوباء"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "أربعةً"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "وعشرين"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفًا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:41:44.032572891Z",
+  "model": "glm-5.2"
+}

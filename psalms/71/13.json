@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 71:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 71,
+  "translation": "ليخزَ ويُفنَى مبغضو نَفسي، يُلْبَسوا عارًا وخزيًا طالبو شرّي.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ليخزَ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ويُفنَى"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "مبغضو"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفسي"
+    },
+    {
+      "surface": "יעטו",
+      "gloss": "يُلْبَسوا"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "عارًا"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "وخزيًا"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "طالبو"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "شرّي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:58:19.911297526Z",
+  "model": "glm-5.2"
+}

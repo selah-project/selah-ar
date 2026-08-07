@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وإن كان قُربانُكَ مِنْحاةَ قِدْرٍ، فلْتُصنَعْ سُوَيقةً بالزيت.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "مِنْحاةَ"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "قِدْر"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "قُربانك"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "سُوَيقة"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "بالزيت"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "لِتُصنَع"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:19.380428540Z",
+  "model": "glm-5.2"
+}

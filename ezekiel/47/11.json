@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 47:11",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 47,
+  "translation": "مُسْتنقعاتُه وأحواضُه المُسوَّرة لا تُشفى، للملح تُعطى.",
+  "tokens": [
+    {
+      "surface": "בצאתו",
+      "gloss": "مُسْتنقعاتُه"
+    },
+    {
+      "surface": "וגבאיו",
+      "gloss": "وأحواضُه المُسوَّرة"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ירפאו",
+      "gloss": "تُشفى"
+    },
+    {
+      "surface": "למלח",
+      "gloss": "للملح"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "تُعطى"
+    }
+  ],
+  "timestamp": "2026-08-07T03:18:22.499342306Z",
+  "model": "glm-5.2"
+}

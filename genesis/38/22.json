@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 38:22",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "فرجع إلى يهودا وقال: لم أجدْها، وأيضًا رجال المكان قالوا: لم تكن في هذا قاداشة.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "فرجع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "מצאתיה",
+      "gloss": "أجدْها"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "المكان"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "قالوا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "تكن"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "في هذا"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "قاداشة"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:11.633977605Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 62,
+  "translation": "إنّما لإلوهيم سكونٌ يا نَفسي، لأنّ منه رجائي.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "لإلوهيم"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "سكونٌ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "يا نَفسي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "رجائي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:23.206552869Z",
+  "model": "glm-5.2"
+}

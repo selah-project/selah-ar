@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 7:7",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وموشيه ابن ثمانين سنة، وهأهارون ابن ثلاث وثمانين سنة، عند كلامهم فرعوه.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "وموشيه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ثمانين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "وهأهارون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ثلاث"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "وثمانين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "בדברם",
+      "gloss": "عند كلامهم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:40.135112014Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 16:1",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وذهب شِمشون إلى عزّة، ورأى هناك امرأة زانية، فدخل إليها.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "وذهب"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "شِمشون"
+    },
+    {
+      "surface": "עזתה",
+      "gloss": "إلى عزّة"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ورأى"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "زانية"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "فدخل"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "إليها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:18:30.139337666Z",
+  "model": "glm-5.2"
+}

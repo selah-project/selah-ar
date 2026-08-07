@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "لأنّ نصيب يهوه شعبه، يعقوف حبل ميراثه",
+  "tokens": [
+    {
+      "surface": "כִּ֛י",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "חֵ֥לֶק",
+      "gloss": "نصيب"
+    },
+    {
+      "surface": "יְהֹוָ֖ה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עַמּ֑וֹ",
+      "gloss": "شعبه"
+    },
+    {
+      "surface": "יַעֲקֹ֖ב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "חֶ֥בֶל",
+      "gloss": "حبل"
+    },
+    {
+      "surface": "נַחֲלָתֽוֹ",
+      "gloss": "ميراثه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:01:39.866243840Z",
+  "model": "glm-5.2"
+}

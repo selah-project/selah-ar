@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وتأخذ ⟨את⟩ الكبش الثاني، ويسند أهرون وبنوه ⟨את⟩ أيديهم على رأس الكبش.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "وتأخذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الكبش الثاني"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "الكبش"
+    },
+    {
+      "surface": "השני",
+      "gloss": "الثاني"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "ويسند"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهرون"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "وبنوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أيديهم"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "أيديهم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأس"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "الكبش"
+    }
+  ],
+  "timestamp": "2026-08-07T00:10:30.305157427Z",
+  "model": "glm-5.2"
+}

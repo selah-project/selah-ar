@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "إذا كان صاحبُه معه لا يُعوِّضُ؛ إن كان أجيرًا ⟨هو⟩ جاء بأجرته.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "صاحبُه"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "يُعوِّضُ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "أجيرًا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "جاء"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "بأجرته"
+    }
+  ],
+  "timestamp": "2026-08-07T05:37:47.707904482Z",
+  "model": "glm-5.2"
+}

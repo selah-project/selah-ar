@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "ورجلٌ يُضاجع بهيمةً، موتًا يُمات، و⟨את⟩ البهيمة تقتلون",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ورجل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "يُضاجع"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "مضاجعته"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "بهيمة"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موتًا"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "يُمات"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "البهيمة"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "البهيمة"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "تقتلون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:29.904124579Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "فصنع له بنوه هكذا كما وصاهم.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "فصنع"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "بنوه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צום",
+      "gloss": "وصاهم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:03.089396453Z",
+  "model": "glm-5.2"
+}

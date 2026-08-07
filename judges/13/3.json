@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 13:3",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فتراءى ملاكُ يهوه للمرأة وقال لها: «هأنذا الآن ⟨את⟩ أنتِ عاقر ولم تلدي، لكنّكِ ستحبلين وتلدين ابنًا.»",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "فتراءى"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ملاك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "المرأة"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هأنذا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أنتِ"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "عاقر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "تلدي"
+    },
+    {
+      "surface": "והרית",
+      "gloss": "ستحبلين"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "تلدين"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:17:28.900295607Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 7:23",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "ويسلّمهم يهوه إلوهيمك أمامك ويزعجهم بلبلة عظيمة حتى فنائهم",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "ويسلّمهم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "أمامك"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "ويزعجهم"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "بلبلة"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "عظيمة"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "השמדם",
+      "gloss": "فنائهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:53:23.992875783Z",
+  "model": "glm-5.2"
+}

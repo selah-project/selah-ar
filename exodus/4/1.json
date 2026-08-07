@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 4:1",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فأجاب موشيه وقال: «⟨و⟩هوذا لا يُصَدِّقونني ولا يسمعون لصوتي، لأنهم سيقولون: لم يَظْهَرْ يهوه لك».",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "فأجاب"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "והן",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "يُصَدِّقون"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "يسمعون"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "لصوتي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنهم"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "سيقولون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "يَظْهَر"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:25.959163560Z",
+  "model": "glm-5.2"
+}

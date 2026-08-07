@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "و⟨هذه⟩ الأحكام التي تضع أمامهم.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و⟨هذه⟩"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "الأحكام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "تضع"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "أمامهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:51.357301294Z",
+  "model": "glm-5.2"
+}

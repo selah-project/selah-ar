@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "وإذا تعامى شعب الأرض عن ذلك الرجل في إعطائه من نسله للمولك، فلا يُميتونه،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "تعامى"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "يُغضّون"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أعينهم"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "أعينهم"
+    },
+    {
+      "surface": "מן",
+      "gloss": "عن"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ذلك الرجل"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "في إعطائه"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "من نسله"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "للمولك"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "המית",
+      "gloss": "يُميتونه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:39:09.585234921Z",
+  "model": "glm-5.2"
+}

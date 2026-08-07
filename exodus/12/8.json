@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "ويأكلوا ⟨את⟩ اللحم في الليلة هذه، مشويًا بنار، ومع فطير، على مرارات يأكلوه.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ويأكلوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اللحم"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "اللحم"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "في الليلة"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "مشويًا"
+    },
+    {
+      "surface": "אש",
+      "gloss": "بنار"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "ومع فطير"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "مرارات"
+    },
+    {
+      "surface": "يאכלהו",
+      "gloss": "يأكلوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:36:22.893684127Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 15:2",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "حينئذ قال داوِد: «ليس لِحَمل ⟨את⟩ تابوت إلوهيم إلّا اللاويّون، لأنّهم فيهم اختار يهوه لِحَمل ⟨את⟩ تابوت يهوه وَلِخدمته إلى الأبد».",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "حينئذ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "لِحَمل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تابوت"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إلّا"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "اللاويّون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "فيهم"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "اختار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "لِحَمل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تابوت"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ולשרתו",
+      "gloss": "وَلِخدمته"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:39.977288382Z",
+  "model": "glm-5.2"
+}

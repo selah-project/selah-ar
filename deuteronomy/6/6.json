@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وَتَكُونُ ⟨هذه⟩ الكلماتُ هذه التي أنا أوصيك بها اليوم على قلبك",
+  "tokens": [
+    {
+      "surface": "וְהָי֞וּ",
+      "gloss": "وتكون"
+    },
+    {
+      "surface": "הַדְּבָרִ֣ים",
+      "gloss": "الكلمات"
+    },
+    {
+      "surface": "הָאֵ֗לֶּה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אָנֹכִ֧י",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מְצַוְּךָ֛",
+      "gloss": "أوصيك"
+    },
+    {
+      "surface": "הַיּ֖וֹם",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "على"
+    },
+    {
+      "surface": "לְבָבֶֽךָ",
+      "gloss": "قلبك"
+    }
+  ],
+  "timestamp": "2026-08-07T07:15:37.792811089Z",
+  "model": "glm-5.2"
+}

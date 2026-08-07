@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فقال: «لا أستطيع أن أرجع معك وأن أدخل معك، ولا آكل خبزًا ولا أشرب معك ماءً في هذا المكان».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "أستطيع"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "أن أرجع"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "وأن أدخل"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "آكل"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "أشرب"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماءً"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "في المكان"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:47:52.684115525Z",
+  "model": "glm-5.2"
+}

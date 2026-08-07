@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezekiel 40:47",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "فقاس ⟨את⟩ الدار: طولُها مئة ذراع، وعرضٌ مئة ذراع، مربَّعة. والمذبح أمام البيت.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "فقاس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الدار"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "الدار"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "طول"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ذراع"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "وعرض"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ذراع"
+    },
+    {
+      "surface": "מרבעת",
+      "gloss": "مربَّعة"
+    },
+    {
+      "surface": "והמזבח",
+      "gloss": "والمذبح"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    }
+  ],
+  "timestamp": "2026-08-07T03:14:55.964191948Z",
+  "model": "glm-5.2"
+}

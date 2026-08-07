@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 1:7",
+  "book": "nahum",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "طيّبٌ يهوه ⟨ل⟩معقلٍ في يومِ ضيقٍ، ويعرفُ المتحرّزين به.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "طيّبٌ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "למעוז",
+      "gloss": "⟨ل⟩معقلٍ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يومِ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ضيقٍ"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ويعرفُ"
+    },
+    {
+      "surface": "חסי",
+      "gloss": "المتحرّزين"
+    },
+    {
+      "surface": "בו",
+      "gloss": "به"
+    }
+  ],
+  "timestamp": "2026-08-07T03:31:24.097330875Z",
+  "model": "glm-5.2"
+}

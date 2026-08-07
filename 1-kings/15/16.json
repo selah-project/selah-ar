@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وحربٌ ⟨كانت⟩ بين أسا وبين بعشا ملك يسرائيل كلّ أيّامهم.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "وحربٌ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "كانت"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "أسا"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بعشا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "أيّامهم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:49:11.989789005Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 6:19",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "حينئذٍ مضى الملك إلى قصره، وبات صائمًا وطعامٌ لم يُدخَل أمامه، ونومُه هرب عنه",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "حينئذٍ"
+    },
+    {
+      "surface": "אזל",
+      "gloss": "مضى"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "להיכלה",
+      "gloss": "إلى قصره"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "وبات"
+    },
+    {
+      "surface": "טות",
+      "gloss": "صائمًا"
+    },
+    {
+      "surface": "ודחון",
+      "gloss": "وطعام"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "يُدخَل"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "أمامه"
+    },
+    {
+      "surface": "ושנתה",
+      "gloss": "ونومُه"
+    },
+    {
+      "surface": "נדת",
+      "gloss": "هرب"
+    },
+    {
+      "surface": "עלוהי",
+      "gloss": "عنه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:59:07.532050795Z",
+  "model": "glm-5.2"
+}

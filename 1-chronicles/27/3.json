@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "من بني فَرِص ⟨هو⟩ الرأس لكلّ أمراء الجنود للشهر الأول.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "فَرِص"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "الرأس"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لكلّ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "أمراء"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "الجنود"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "للشهر"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "الأول"
+    }
+  ],
+  "timestamp": "2026-08-07T05:19:19.092319880Z",
+  "model": "glm-5.2"
+}

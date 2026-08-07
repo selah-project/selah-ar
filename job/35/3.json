@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 35:3",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "أنك تقول: ماذا يُجديك؟ وماذا أُفيد أنا من خطيئتي؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "تقول"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "يُجدي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "אעיל",
+      "gloss": "أُفيد"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "من خطيئتي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:42:25.841165254Z",
+  "model": "glm-5.2"
+}

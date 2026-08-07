@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "ويسألونك عن شالوم فيعطونك رغيفين خبز فتأخذ من يدهم.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "ويسألون"
+    },
+    {
+      "surface": "לך",
+      "gloss": "عنك"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "فيعطون"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "اثنين"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبز"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "فتأخذ"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "من يدهم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:24:29.466779130Z",
+  "model": "glm-5.2"
+}

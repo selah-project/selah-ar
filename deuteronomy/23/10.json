@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "«حين تخرج ⟨المحلّة⟩ على أعدائك، فتحفظ من كل أمرٍ رديءٍ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "حين"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "تخرج"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "⟨المحلّة⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "أعدائك"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "فتحفظ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كل"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "أمرٍ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "رديءٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:58:36.008077426Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 11:16",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "فإنّك تنسى التعب، ك مياه عبَرت تذكُرها،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "فإنّك"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تنسى"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "التعب"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "تنسى"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "كـ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "مياه"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "عبَرت"
+    }
+  ],
+  "timestamp": "2026-08-07T04:34:22.422495857Z",
+  "model": "glm-5.2"
+}

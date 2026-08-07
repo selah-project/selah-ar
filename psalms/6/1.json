@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "لإمام ⟨المنشدين⟩ على ذوات الأوتار على الثامنة مزمور لِدافيد",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لإمام"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "على ذوات الأوتار"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "الثامنة"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِدافيد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:41:01.200803166Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 24:23",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "وحلف دافيد لشاؤول، ومضى شاؤول إلى بيته، ودافيد ورجاله صعدوا إلى الحصن.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "وحلف"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "دافيد"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "لشاؤول"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ومضى"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "بيته"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ودافيد"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ورجاله"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "صعدوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המצודה",
+      "gloss": "الحصن"
+    }
+  ],
+  "timestamp": "2026-08-07T01:28:51.898815173Z",
+  "model": "glm-5.2"
+}

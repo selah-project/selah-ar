@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 8:3",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وفعل أهارون كذلك: تجاه وجه المنورة أصعدَ مصابيحها، كما أمر يهوه ⟨את⟩ موشيه.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وفعل"
+    },
+    {
+      "surface": "כן",
+      "gloss": "كذلك"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تجاه"
+    },
+    {
+      "surface": "מול",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "المنورة"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "أصعدَ"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "مصابيحها"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أمر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:31:37.887127660Z",
+  "model": "glm-5.2"
+}

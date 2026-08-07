@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 13:4",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "خذ ⟨את⟩ المنطقة التي اقتنيتها، التي على حقويك، وقُم اذهب فَراته، واطمُنه هناك في شِقّ الصخرة.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "خذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المنطقة"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "المنطقة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "اقتنيتها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "حقويك"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "وقُم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اذهب"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "فراته"
+    },
+    {
+      "surface": "וטמנהו",
+      "gloss": "واطمُنه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "בנקיק",
+      "gloss": "في شِقّ"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "الصخرة"
+    }
+  ],
+  "timestamp": "2026-08-07T02:35:28.559106308Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 36:20",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "لا تشتهِ الليلَ لصُعودِ شعوبٍ بدلاً عنهم.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשאף",
+      "gloss": "تشتهِ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "الليلَ"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "لصُعودِ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "شعوبٍ"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "بدلاً عنهم"
+    }
+  ],
+  "timestamp": "2026-08-07T06:10:55.212032030Z",
+  "model": "glm-5.2"
+}

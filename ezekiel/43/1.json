@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 43:1",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 43,
+  "translation": "وقادني إلى البوابة، البوابة التي تُواجه طريق المشرق،",
+  "tokens": [
+    {
+      "surface": "ויולכני",
+      "gloss": "وقادني"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "השער",
+      "gloss": "البوابة"
+    },
+    {
+      "surface": "שער",
+      "gloss": "بوابة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "تُواجه"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "طريق"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "المشرق"
+    }
+  ],
+  "timestamp": "2026-08-07T03:16:13.705860932Z",
+  "model": "glm-5.2"
+}

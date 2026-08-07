@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "فرأى ⟨את⟩ السيف قادمًا على الأرض، ونفخ في الشوفار وحذّر ⟨את⟩ الشعب،",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "فرأى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "السيف"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "السيف"
+    },
+    {
+      "surface": "באה",
+      "gloss": "قادم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "ونفخ"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "في الشوفار"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "وحذّر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    }
+  ],
+  "timestamp": "2026-08-07T03:08:49.337173259Z",
+  "model": "glm-5.2"
+}

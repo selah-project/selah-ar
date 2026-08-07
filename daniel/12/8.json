@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وأمّا أنا فسمعتُ ولم أفهم، فقلتُ: «يا سيّدي، ما آخر هذه؟»",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "وأمّا أنا"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "فسمعتُ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "أفهم"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "فقلتُ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "يا سيّدي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "آخر"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:01:00.144310970Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 33:32",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "وها أنت لهم كأُغنية عِشقٍ جميل الصوت وحُسن العزف، فيسمعون ⟨את⟩ كلماتك ولا هم عامِلوها.",
+  "tokens": [
+    {
+      "surface": "והנך",
+      "gloss": "وها أنت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "כשיר",
+      "gloss": "كأُغنية"
+    },
+    {
+      "surface": "עגבים",
+      "gloss": "عشقٍ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "جميل"
+    },
+    {
+      "surface": "קול",
+      "gloss": "الصوت"
+    },
+    {
+      "surface": "ומטב",
+      "gloss": "وحُسن"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "العزف"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "فيسمعون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلماتك"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "كلماتك"
+    },
+    {
+      "surface": "ועשים",
+      "gloss": "وعاملو"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "لا هم"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "إيّاها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:09:50.331294921Z",
+  "model": "glm-5.2"
+}

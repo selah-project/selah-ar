@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 18:4",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "ويلازمونك ويحفظون ⟨את⟩ حراسة خيمة الموعد لكل عمل الخيمة، والأجنبي لا يقترب إليكم.",
+  "tokens": [
+    {
+      "surface": "ונלוו",
+      "gloss": "ويلازمونك"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "ويحفظون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حراسة"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "حراسة"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لكل"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "الخيمة"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "والأجنبي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "يقترب"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "إليكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:37:18.855259035Z",
+  "model": "glm-5.2"
+}

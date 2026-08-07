@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "فقال الملك للمرأة: اذهبي إلى بيتك، وأنا أوصي في شأنك.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "المرأة"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "اذهبي"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "إلى بيتك"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "أوصي"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "في شأنك"
+    }
+  ],
+  "timestamp": "2026-08-07T07:27:47.714356646Z",
+  "model": "glm-5.2"
+}

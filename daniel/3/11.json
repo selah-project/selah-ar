@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 3:11",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "ومن لا يخرّ ويسجد يُلقى في وسط أتّون النار المُوقَدة،",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "די",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "يخرّ"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "ويسجد"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "يُلقى"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "أتّون"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "النار"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "المُوقَدة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:56:34.864304357Z",
+  "model": "glm-5.2"
+}

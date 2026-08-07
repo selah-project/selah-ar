@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "فرأى يعقوف أنّ هناك شَبَرًا في مصرايم، وقال يعقوف لبنيه: لماذا تتفرّجون؟",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "فرأى"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شَبَرًا"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "في مصرايم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "لبنيه"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "تتفرّجون"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:43.746816535Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "فأساء המצרים إلينا، ⟨את⟩نا وضيّقونا، ووضعوا علينا عبءًا قاسيًا",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "فأساء"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩نا",
+      "marks": "مصرايم"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "وضيّقونا"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ووضعوا"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "علينا"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "عبءًا"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "قاسيًا"
+    }
+  ],
+  "timestamp": "2026-08-07T07:18:31.355864749Z",
+  "model": "glm-5.2"
+}

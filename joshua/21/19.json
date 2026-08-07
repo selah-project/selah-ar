@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 21:19",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "كل مُدن بني هارون الكوهنين: ثلاثَ عشْرة مَدينة ومَغرَساتُها.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "مُدن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "هارون"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكوهنين"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ثلاث"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشْرة"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "مَدينة"
+    },
+    {
+      "surface": "ומגרשיהן",
+      "gloss": "ومَغرَساتُها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:11:06.452560745Z",
+  "model": "glm-5.2"
+}

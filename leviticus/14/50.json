@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وَيَذْبَحُ ⟨את⟩ الطائرَ الواحدَ إِلى إناءِ خزفٍ فوقَ ماءٍ حيٍّ،",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "وَيَذْبَحُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الطائر"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "الطائرَ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "الواحدَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إِلى"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "إناءِ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "خزفٍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "فوقَ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماءٍ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حيٍّ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:19:13.142162588Z",
+  "model": "glm-5.2"
+}

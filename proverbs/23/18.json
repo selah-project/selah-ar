@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "لأنه بالحقيقة ⟨توجد⟩ آخِريتٌ، ورجاؤك لا يُقطَع.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بالحقيقة"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨توجد⟩"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "آخِريتٌ"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "ورجاؤك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "يُقطَع"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:24.225675331Z",
+  "model": "glm-5.2"
+}

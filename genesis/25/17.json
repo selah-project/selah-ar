@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 25:17",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وهذه سنو حياة يِشماعيل: مئة سنة وثلاثون سنة وسبع سنين، فأسلم الروح ومات، وجُمِع إلى شعبه.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "وهذه"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سنو"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "حياة"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "يِشماعيل"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "وثلاثون"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "وسبع"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنين"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "فأسلم الروح"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ومات"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "وجُمع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "شعبه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:43:27.662283850Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 12:14",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "ها هو يهدِم فلا يُبنى، يُغلق على رجلٍ فلا يُفتَح.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ها"
+    },
+    {
+      "surface": "יהרוס",
+      "gloss": "هو يهدِم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "يُبنى"
+    },
+    {
+      "surface": "יסגר",
+      "gloss": "يُغلق"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلٍ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "يُفتَح"
+    }
+  ],
+  "timestamp": "2026-08-07T04:34:36.512617391Z",
+  "model": "glm-5.2"
+}

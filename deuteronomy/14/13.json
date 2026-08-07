@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "والرَّآيةَ و⟨את⟩ الهاية، والدايةُ لِنوعِها",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "والرّآية"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "الهاية"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "الهاية"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "والداية"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "لِنوعها"
+    }
+  ],
+  "timestamp": "2026-08-07T07:16:11.798457971Z",
+  "model": "glm-5.2"
+}

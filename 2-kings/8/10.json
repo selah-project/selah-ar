@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "فقال له إليشع: «اذهب، قُل له: حيًّا تحيا. لكنّ يهوه قد أراني أنّه موتًا يموت.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "إليشع"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اذهب"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قُل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨لا⟩"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "حيًّا"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "تحيا"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "لكنّه أراني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موتًا"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "يموت"
+    }
+  ],
+  "timestamp": "2026-08-07T01:56:04.575555979Z",
+  "model": "glm-5.2"
+}

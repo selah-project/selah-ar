@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 8:27",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وفعل يهوه ككلمة موشيه، فأزال الـهعاروف من فرعون، من عبيده ومن شعبه، لم يبقَ واحد.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وفعل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ككلمة"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "فأزال"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "الـهعاروف"
+    },
+    {
+      "surface": "מפרעה",
+      "gloss": "من فرعون"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "من عبيده"
+    },
+    {
+      "surface": "ומעמו",
+      "gloss": "ومن شعبه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "بقِيَ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    }
+  ],
+  "timestamp": "2026-08-07T07:01:32.418258759Z",
+  "model": "glm-5.2"
+}

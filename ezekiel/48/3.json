@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "وعلى حدود آشر من جهة الشرق وإلى جهة البحر: نفتالي واحد.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "حدود"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشر"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "من جهة"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "الشرق"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "جهة"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالي"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:18:28.073637659Z",
+  "model": "glm-5.2"
+}

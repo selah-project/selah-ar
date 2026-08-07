@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "وأُخبر لابان في اليوم الثالث بأنّ يعقوف قد هرب.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "وأُخبر"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في اليوم"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "الثالث"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بأنّ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "هرب"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:34.475429434Z",
+  "model": "glm-5.2"
+}

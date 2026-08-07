@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 6:9",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "إنّما أنت لا تبني البيت، بل ابنك الخارج من صُلبك هو يبني البيت لاسمي.»",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "تبني"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بل"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ابنك"
+    },
+    {
+      "surface": "היוצא",
+      "gloss": "الخارج"
+    },
+    {
+      "surface": "מחלציך",
+      "gloss": "من صُلبك"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "يبني"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "لاسمي"
+    }
+  ],
+  "timestamp": "2026-08-07T05:21:13.803759704Z",
+  "model": "glm-5.2"
+}

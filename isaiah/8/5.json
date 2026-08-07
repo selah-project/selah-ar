@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وَزَادَ يهوهُ يُكلِّمُني أيضا قائلا",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "وَزَادَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "يُكلِّمُ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ني"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "أيضا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:52:18.341291500Z",
+  "model": "glm-5.2"
+}

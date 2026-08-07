@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فرأى حام أبو كنعان ⟨את⟩ عورة أبيه، وأخبر ⟨أخويه⟩ الاثنين في الخارج",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "فرأى"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبو"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كنعان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عورة"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "عورة"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "وأخبر"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "⟨أخويه⟩ الاثنين"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "إخوته"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "في الخارج"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:47.131303153Z",
+  "model": "glm-5.2"
+}

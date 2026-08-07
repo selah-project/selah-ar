@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 25:2",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "ودخلت المدينة في حصار حتى السنة الحادية عشرة للملك تصدياقياهو.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ودخلت"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "في حصار"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "الحادية"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرة"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "للملك"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "تصدياقياهو"
+    }
+  ],
+  "timestamp": "2026-08-07T02:03:29.860114770Z",
+  "model": "glm-5.2"
+}

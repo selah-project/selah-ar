@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وشجرتان زيتٌ عليها، واحدةٌ عن يمين الغُلّة وواحدةٌ عن يسارها.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "وشجرتان"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "زيت"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "عليها"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدةٌ"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "عن يمين"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "الغُلّة"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "وواحدةٌ"
+    },
+    {
+      "surface": "על",
+      "gloss": "عن"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "يسارها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:35:36.798859346Z",
+  "model": "glm-5.2"
+}

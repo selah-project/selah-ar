@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 112,
+  "translation": "هلّلوا ياه! طوبى ⟨لـ⟩ رجلٍ يخاف ⟨את⟩ يهوه، في وصاياه يشتهي جدًّا",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "هلّلوا"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "طوبى"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "يخاف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "في وصاياه"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "يشتهي"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:29.587874546Z",
+  "model": "glm-5.2"
+}

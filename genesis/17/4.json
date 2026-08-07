@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "أنا، ها بريتي (عهدي) معك، فتكونُ أبوًا لجمهورٍ من الأمم.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "بريتي"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "فتكونُ"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "أبوًا"
+    },
+    {
+      "surface": "המון",
+      "gloss": "لجمهورٍ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "من الأمم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:55.334452574Z",
+  "model": "glm-5.2"
+}

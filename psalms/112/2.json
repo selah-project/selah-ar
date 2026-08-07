@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 112,
+  "translation": "جبّارًا في الأرض يكون نسله، جيلَ المستقيمين يُبارَك",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "جبّارًا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "نسله"
+    },
+    {
+      "surface": "דור",
+      "gloss": "جيل"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "المستقيمين"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "يُبارَك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:29.588281593Z",
+  "model": "glm-5.2"
+}

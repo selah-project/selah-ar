@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "malachi 3:22",
+  "book": "malachi",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "اذكروا توراة موشيه عبدي التي أوصيته بها في حوريب على كل يسرايل: فرائض وأحكامًا.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "اذكروا"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "توراة"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عبدي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "أوصيته"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "بها (التوراة)"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "في حوريب"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "فرائض"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "وأحكامًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:39:50.659800416Z",
+  "model": "glm-5.2"
+}

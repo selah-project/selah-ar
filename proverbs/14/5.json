@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "شاهدُ أمانةٍ لا يكذب، ⟨و⟩نافثُ الأكاذيب شاهدُ زيفٍ.",
+  "tokens": [
+    {
+      "surface": "עֵ֣ד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "אֱ֭מוּנִים",
+      "gloss": "أمانة"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יְכַזֵּ֑ב",
+      "gloss": "يكذب"
+    },
+    {
+      "surface": "וְיָפִ֥יחַ",
+      "gloss": "⟨و⟩نافث"
+    },
+    {
+      "surface": "כְּזָבִ֗ים",
+      "gloss": "أكاذيب"
+    },
+    {
+      "surface": "עֵ֣ד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "שָֽׁקֶר",
+      "gloss": "زيف"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:40.073493030Z",
+  "model": "glm-5.2"
+}

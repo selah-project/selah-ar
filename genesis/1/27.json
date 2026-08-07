@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وخلق إلوهيم ⟨את⟩ آدم في صورته، في صورة إلوهيم خلقه، ذكرًا وأنثى خلق ⟨את⟩هم",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "وخلق"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آدم"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "في صورته"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "في صورة"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "خلق"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "ه"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ذكرًا"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "وأنثى"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "خلق"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩هم",
+      "marks": "هم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:27.192079038Z",
+  "model": "glm-5.2"
+}

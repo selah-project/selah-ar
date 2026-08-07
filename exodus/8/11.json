@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "فرأَى فرعو أَنّه صار الرّفاء، فثقّل ⟨את⟩ قلبه، ولم يسمع إليهم، كما تكلّم يهوه.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "فرأَى"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أَنّ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "صار"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "الرّفاء"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "فثقّل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قلبه"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "قلبه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "يسمع"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "إليهم"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:04.444788526Z",
+  "model": "glm-5.2"
+}

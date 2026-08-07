@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 8:19",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "و⟨قال⟩: «ها أنا أُعلِمُكَ ⟨את⟩ ما سيكونُ في آخرِ الغضبِ، لأنّه لميعادٍ نهاية».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و⟨قال⟩"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ها أنا"
+    },
+    {
+      "surface": "מודיעך",
+      "gloss": "أُعلِمُكَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ما"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "سيكونُ"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "في آخرِ"
+    },
+    {
+      "surface": "הזעם",
+      "gloss": "الغضبِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "لميعادٍ"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "نهاية"
+    }
+  ],
+  "timestamp": "2026-08-07T08:21:24.777836511Z",
+  "model": "glm-5.2"
+}

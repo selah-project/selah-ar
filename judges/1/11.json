@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وسار من هناك إلى ساكني دَبير، واسمُ دَبير سابقًا قريات سِفْر.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "وسار"
+    },
+    {
+      "surface": "משם",
+      "gloss": "من هناك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ساكني"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "دَبير"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "واسمُ"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "دَبير"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "سابقًا"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قريات"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سِفْر"
+    }
+  ],
+  "timestamp": "2026-08-07T01:12:44.757042873Z",
+  "model": "glm-5.2"
+}

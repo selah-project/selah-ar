@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "و⟨את⟩ أوفير و⟨את⟩ حَويلاه و⟨את⟩ يوفاف؛ كلّ هؤلاء بَنو يقطان",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أوفير"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "أوفير"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "حَويلاه"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "حَويلاه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "يوفاف"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "يوفاف"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنو"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "يقطان"
+    }
+  ],
+  "timestamp": "2026-08-07T05:09:25.663874063Z",
+  "model": "glm-5.2"
+}

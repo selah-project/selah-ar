@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 6:27",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فقال: «لا يُنجّيكِ يهوه، فمِن أين أُنجّيكِ؟ مِن البَيْدَر أم من المعصرة؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יושעך",
+      "gloss": "يُنجّيكِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "من أين"
+    },
+    {
+      "surface": "אושיעך",
+      "gloss": "أُنجّيكِ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "البَيْدَر"
+    },
+    {
+      "surface": "או",
+      "gloss": "أم"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "היקב",
+      "gloss": "المعصرة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:54:14.542728416Z",
+  "model": "glm-5.2"
+}

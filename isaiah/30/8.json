@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "الآن اِذهبْ اكتُبْها على لوحٍ معهم، وعلى سِفرٍ نقشها، ولتكنْ لليوم الأخير للأبد إلى الدهر.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "اِذهبْ"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "اكتُبْها"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "لوح"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "معهم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سِفر"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "نقش"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ولتكنْ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "لليوم"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "الأخير"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "للأبد"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "الدهر"
+    }
+  ],
+  "timestamp": "2026-08-07T02:14:03.363020146Z",
+  "model": "glm-5.2"
+}

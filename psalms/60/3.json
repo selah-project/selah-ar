@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 60,
+  "translation": "إلوهيم، رَفَضتَنا، صدَعتَنا، غَضِبتَ — ⟨أعدنا⟩!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "رَفَضتَنا"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "صدَعتَنا"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "غَضِبتَ"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "⟨أعدنا⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:24.024363151Z",
+  "model": "glm-5.2"
+}

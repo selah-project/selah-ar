@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 26:2",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "وتراءى يهوه ⟨له⟩، وقال: لا تنزل مصرايم! اسكن في الأرض التي أقول ⟨ها⟩ لك.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "وتراءى"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨له⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "تنزل"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "اسكن"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "أقول"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "لك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:42:50.934015291Z",
+  "model": "glm-5.2"
+}

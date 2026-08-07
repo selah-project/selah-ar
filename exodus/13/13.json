@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 13:13",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وكل فاتح رحم حمار تفديه ⟨بِشاة⟩، وإن لا تفديه فتُرْقِبَنَّه، وكل بكر إنسانٍ في بنيك تفديه.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "فاتح رحم"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "حمار"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "تفديه"
+    },
+    {
+      "surface": "בשה",
+      "gloss": "بشاة"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "تفديه"
+    },
+    {
+      "surface": "וערפתו",
+      "gloss": "فترقبنه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "بكر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "בבניך",
+      "gloss": "في بنيك"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "تفديه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:04:00.010809474Z",
+  "model": "glm-5.2"
+}

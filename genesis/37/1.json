@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "و⟨استقرّ⟩ يعقوف في أرض مُغترَبات أبيه، في أرض كنعان.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "و⟨استقرّ⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "مُغترَابات"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كنعان"
+    }
+  ],
+  "timestamp": "2026-08-06T23:48:42.915633639Z",
+  "model": "glm-5.2"
+}

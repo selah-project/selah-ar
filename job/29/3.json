@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 29:3",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "حين كان يُضيء سراجه على رأسي، وبنوره أمضي في الظلام،",
+  "tokens": [
+    {
+      "surface": "בהלו",
+      "gloss": "حين كان يُضيء"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "سراجه"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "على"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "رأسي"
+    },
+    {
+      "surface": "לאורו",
+      "gloss": "وبنوره"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "أمضي"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "في الظلام"
+    }
+  ],
+  "timestamp": "2026-08-07T04:39:51.309493109Z",
+  "model": "glm-5.2"
+}

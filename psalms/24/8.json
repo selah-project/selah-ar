@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "من ذا ملك الكبود؟ يهوه العزيز والجبّار، يهوه جبّار الحرب.",
+  "tokens": [
+    {
+      "surface": "מִי",
+      "gloss": "من"
+    },
+    {
+      "surface": "זֶה",
+      "gloss": "ذا"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "הַכָּבוֹד",
+      "gloss": "الكبود"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עִזּוּז",
+      "gloss": "العزيز"
+    },
+    {
+      "surface": "וְגִבּוֹר",
+      "gloss": "والجبّار"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "גִּבּוֹר",
+      "gloss": "جبّار"
+    },
+    {
+      "surface": "מִלְחָמָה",
+      "gloss": "الحرب"
+    }
+  ],
+  "timestamp": "2026-08-07T03:45:54.403130700Z",
+  "model": "glm-5.2"
+}

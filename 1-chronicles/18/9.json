@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وسمع توعو ملك حماة أن دافيد ضرب ⟨את⟩ كل جيش هددعزر ملك صوبه.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "وسمع"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "توعو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حماة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ضرب"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "دافيد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "جيش"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "هددعزر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "صوبه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:54.715959336Z",
+  "model": "glm-5.2"
+}

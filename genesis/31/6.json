@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "وأنتنّ تعلمنّ أنّه بكلّ قوّتي خدمتُ ⟨את⟩ أبيكنّ.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "وأنتنّ"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "تعلمْنَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّه"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بكلّ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "قوّتي"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "خدمتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أبيكنّ"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "أبيكنّ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:05.615574486Z",
+  "model": "glm-5.2"
+}

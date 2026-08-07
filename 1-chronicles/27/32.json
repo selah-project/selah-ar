@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 27:32",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "ويهوناطان عمّ داويد مُستشار، رجلٌ فهيم وكاتب ⟨هو⟩، ويَحيعيل بن حَكموني مع بني الملك.",
+  "tokens": [
+    {
+      "surface": "ויהונתן",
+      "gloss": "ويهوناطان"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "عمّ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "مُستشار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "فهيم"
+    },
+    {
+      "surface": "וסופר",
+      "gloss": "وكاتب"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "ويَحيعيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "חכמוני",
+      "gloss": "حَكموني"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    }
+  ],
+  "timestamp": "2026-08-07T05:19:22.381122664Z",
+  "model": "glm-5.2"
+}

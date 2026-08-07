@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "و⟨أعاد⟩ ⟨את⟩ رئيس السُّقَاة إلى سُقْيِه، و⟨أعطى⟩ الكأس على كفّ فرعون.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "و⟨أعاد⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رئيس"
+    },
+    {
+      "surface": "שר",
+      "gloss": "رئيس"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "السُّقَاة"
+    },
+    {
+      "surface": "על",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "سُقْيِه"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و⟨أعطى⟩"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "الكأس"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כף",
+      "gloss": "كفّ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:46.621835601Z",
+  "model": "glm-5.2"
+}

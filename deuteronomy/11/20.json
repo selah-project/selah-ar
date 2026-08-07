@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وتكتبونها على قوائم باب بيتك وفي أبوابك",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "وتكتبونها"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "قوائم باب"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "بيتك"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "وفي أبوابك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:53:32.475314995Z",
+  "model": "glm-5.2"
+}

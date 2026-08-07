@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "يهوه عزّ ⟨لهم⟩، ومعقل خلصات ماشيحه هو.",
+  "tokens": [
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עֹֽז",
+      "gloss": "عزّ"
+    },
+    {
+      "surface": "לָ֑מוֹ",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "וּמָ֘ע֤וֹז",
+      "gloss": "ومعقل"
+    },
+    {
+      "surface": "יְשׁוּע֖וֹת",
+      "gloss": "خلصات"
+    },
+    {
+      "surface": "מְשִׁיח֣וֹ",
+      "gloss": "ماشيحه"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:10.499642856Z",
+  "model": "glm-5.2"
+}

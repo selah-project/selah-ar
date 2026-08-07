@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 41:14",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "فأرسل فَرعو، ودعا ⟨את⟩ يوصِف، وأسرعوه من البور، فحلق وبدّل ثيابه، ودخل إلى فَرعو.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فَرعو"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوصِف"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوصِف"
+    },
+    {
+      "surface": "ויריצהו",
+      "gloss": "وأسرعوه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "البُور"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "فحلق"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "وبدّل"
+    },
+    {
+      "surface": "שמלתיו",
+      "gloss": "ثيابه"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ودخل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فَرعو"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:16.745513820Z",
+  "model": "glm-5.2"
+}

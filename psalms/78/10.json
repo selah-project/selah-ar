@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "لم يحفظوا بريت إلوهيم، و⟨في⟩ توراته أبَوا أن يسيروا.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "يحفظوا"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "وفي توراته"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "أبَوا"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "أن يسيروا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:25.165982147Z",
+  "model": "glm-5.2"
+}

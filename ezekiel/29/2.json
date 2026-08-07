@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 29:2",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "يا ابنَ آدمَ، وجِّه وجهَكَ نحوَ فرعونَ مَلِكِ مصرايمَ (مصر)، وتنبَّأ عليه وعلى مصرايمَ كلِّها.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שים",
+      "gloss": "وجّه"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهك"
+    },
+    {
+      "surface": "על",
+      "gloss": "نحو"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم (مصر)"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "وتنبّأ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "كلِّها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:07:45.968171817Z",
+  "model": "glm-5.2"
+}

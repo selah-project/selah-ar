@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "ثلاث مرّات في السنة يُرى كلُّ ذكرٍ منك ⟨את⟩ وجه السيد يهوه، إلهَ يسرائيل.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ثلاث"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "مرّات"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "في السنة"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "يُرى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "ذكرٍ منك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وجه"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "السيد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلهَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:13:08.076537314Z",
+  "model": "glm-5.2"
+}

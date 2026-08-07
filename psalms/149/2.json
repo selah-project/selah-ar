@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 149,
+  "translation": "ليفرح يسرايل ⟨ب⟩صانعه، بنو صهيون ليبتهجوا ⟨ب⟩ملكهم.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ليفرح"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "⟨ب⟩صانعه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "ليبتهجوا"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "⟨ب⟩ملكهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:19:21.487873253Z",
+  "model": "glm-5.2"
+}

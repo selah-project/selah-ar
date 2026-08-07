@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "أحبّائي ورفاقي تجاه ضَرْبتي يقفون، وأقاربي من بعيد وقَفوا.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "أحبّائي"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "ورفاقي"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "تجاه"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "ضَرْبتي"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "يقفون"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "وأقاربي"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "من بعيد"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "وقَفوا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:24.168776413Z",
+  "model": "glm-5.2"
+}

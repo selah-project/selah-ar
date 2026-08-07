@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "أفرحُ أنا بِقولكَ كواجدٍ غنيمةً عظيمةً.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "أفرحُ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "על",
+      "gloss": "بـ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "قولكَ"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "كواجدٍ"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "غنيمةً"
+    },
+    {
+      "surface": "רב",
+      "gloss": "عظيمةً"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:39.415547547Z",
+  "model": "glm-5.2"
+}

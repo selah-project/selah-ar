@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "يُجازونني شَرًّا بَدَلَ خَيرٍ، فَقدًا لِـنَفْسي.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "يُجازونني"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شَرًّا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بَدَلَ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "خَيرٍ"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "فَقدًا"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "لِـنَفْسي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:13.440597288Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "فحوّل ⟨את⟩ وجهه إلى الجدار، وصلّى إلى يهوه قائلاً:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "فحوّل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وجهه"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "وجهه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "الجدار"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "وصلّى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    }
+  ],
+  "timestamp": "2026-08-07T02:01:21.366840744Z",
+  "model": "glm-5.2"
+}

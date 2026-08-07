@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "وعادت فولدت ابنًا، وسمّت ⟨את⟩ اسمه شيله؛ و⟨كان⟩ في كزيڤ حين ولدته ⟨את⟩ه.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "وعادت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "فولدت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنًا"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ودعت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسمه"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمَه"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "شيله"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "في كزيڤ"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "حين ولدته"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:31.293576737Z",
+  "model": "glm-5.2"
+}

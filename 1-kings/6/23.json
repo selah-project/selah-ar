@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 6:23",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وصنع في الديفير كروبيم من خشب الزيتون، طول كلٍّ منهما عشر أذرع.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وصنع"
+    },
+    {
+      "surface": "בדביר",
+      "gloss": "في الديفير"
+    },
+    {
+      "surface": "שני",
+      "gloss": "كروبيم اثنين"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "كروبيم"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "خشب"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "زيت"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "أذرع"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "طوله"
+    }
+  ],
+  "timestamp": "2026-08-07T01:43:42.917355835Z",
+  "model": "glm-5.2"
+}

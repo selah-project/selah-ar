@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 4:14",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فقال: وماذا يُفعَل لها؟ فقال جِيحَزي: في الحقيقة ليس لها ابن، ورجلها قد شاخ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "وماذا"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "يُفعَل"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "גיחזי",
+      "gloss": "جِيحَزي"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "في الحقيقة"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "ואישה",
+      "gloss": "ورجلها"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "قد شاخ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:53:47.387636850Z",
+  "model": "glm-5.2"
+}

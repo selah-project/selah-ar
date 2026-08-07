@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "تَأوّقُ الكَسَلانِ يُميتُه، لأنّ يَدَيْهِ أَبَتا أنْ تَعمَلا.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "تأوّق"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "الكسلان"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "يميته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "أبتا"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "يداه"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "أن يعملا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:47.138875930Z",
+  "model": "glm-5.2"
+}

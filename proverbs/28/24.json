@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "سالبُ أبيه وأمِّه وقائلٌ «لا عصيانَ» — رفيقُ الإنسانِ المُهلِك.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "سالبُ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "وأمِّه"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "وقائلٌ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "عصيانَ"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "رفيقُ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "—"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "الإنسانِ"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "المُهلِك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:55.740585629Z",
+  "model": "glm-5.2"
+}

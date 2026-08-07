@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "في كل وقت يُحِبّ الصديق، والأخّ يُولَد للشدّة.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "في كلّ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "يُحِبّ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "الصديق"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "والأخّ"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "للشدّة"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "يُولَد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:28.232673183Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وإن كان قُربانه من الماعز، ويُقرِّبه أمام يهوه،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "עז",
+      "gloss": "من الماعز"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "قُربانه"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "ويُقرِّبه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:41.395442048Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 2:4",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "إنِ التمستَها كالفِضّة، وكنُقُودٍ مَخفيّة بحثتَ عنها،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إنِ"
+    },
+    {
+      "surface": "תבקשנה",
+      "gloss": "التمستَها"
+    },
+    {
+      "surface": "ככסף",
+      "gloss": "كالفِضّة"
+    },
+    {
+      "surface": "וכמטמונים",
+      "gloss": "وكنُقُودٍ مَخفيّة"
+    },
+    {
+      "surface": "תחפשנה",
+      "gloss": "بحثتَ عنها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:06.111030222Z",
+  "model": "glm-5.2"
+}

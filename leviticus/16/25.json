@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "و⟨את⟩ شحم خطيئة الخطيئة يُدخّنها على المذبح.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "شحم"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "شحم"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "خطيئة الخطيئة"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "يُدخّن"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "على المذبح"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:22.869842553Z",
+  "model": "glm-5.2"
+}

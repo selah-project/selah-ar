@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "في مكان مقدّس القداسات تأكله، كل ذكر يأكل ⟨את⟩ه؛ مقدسًا يكون لك.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "في مقدّس"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "القداسات"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "تأكله"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ذكر"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يأكل"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "مقدس (الطعام)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدسًا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    }
+  ],
+  "timestamp": "2026-08-07T05:41:52.717232707Z",
+  "model": "glm-5.2"
+}

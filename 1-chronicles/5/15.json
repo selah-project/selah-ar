@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "أَخي بن عبديئيل بن جوني، رأسًا لبيت آبائهم.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "أَخي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "عبديئيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "جوني"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأسًا"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "لبيت"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "آبائهم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:14.507679017Z",
+  "model": "glm-5.2"
+}

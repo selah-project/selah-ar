@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "إذا ضربتَ زيتونَك فلا تُزَيِّنْ ما وراءك؛ للنزيل ولليتيم وللأرملة يكون.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "ضربتَ"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "زيتونَك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "تُزَيِّنْ"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ما وراءك"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "للنزيل"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "ولليتيم"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "وللأرملة"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:08.813947685Z",
+  "model": "glm-5.2"
+}

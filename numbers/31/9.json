@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 31:9",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "وأَسرَ بنو يسرايل ⟨את⟩ نساءَ مديان و⟨את⟩ أطفالهم، و⟨את⟩ كلَّ بهائمهم و⟨את⟩ كلَّ مواشيهم و⟨את⟩ كلَّ ثروتهم نهبوها.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "وأَسرَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نساء"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "نساء"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مديان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أطفالهم"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "أطفالهم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "بهائمهم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "מקנהם",
+      "gloss": "مواشيهم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ثروتهم"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "نهبوها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:58.160265131Z",
+  "model": "glm-5.2"
+}

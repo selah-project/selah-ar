@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 106,
+  "translation": "اذكرني يا يهوه بِرِضى شعبك، تعهّدني بِيشوعتك.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "اذكرني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "بِرِضى"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "شعبك"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "تعهّدني"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "بِيشوعتك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:28.248052321Z",
+  "model": "glm-5.2"
+}

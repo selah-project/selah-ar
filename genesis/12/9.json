@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "וְנָסַע אַבְרָם הָלוֹךְ וְנָסוֹעַ הַנֶּגְבָּה׃",
+  "tokens": [
+    {
+      "surface": "וַיִּסַּע",
+      "gloss": "וַיִּסַּע",
+      "transliteration": "wayyissa",
+      "lemma": "נסע",
+      "morph": "wayyiqtol 3ms",
+      "english_gloss": "And Abram journeyed"
+    },
+    {
+      "surface": "אַבְרָם",
+      "gloss": "אַבְרָם",
+      "transliteration": "avram",
+      "lemma": "אַבְרָם",
+      "morph": "proper name",
+      "english_gloss": "Abram"
+    },
+    {
+      "surface": "הָלוֹךְ",
+      "gloss": "הָלוֹךְ",
+      "transliteration": "halokh",
+      "lemma": "הלך",
+      "morph": "infinitive construct",
+      "english_gloss": "going on"
+    },
+    {
+      "surface": "וְנָסוֹעַ",
+      "gloss": "וְנָסוֹעַ",
+      "transliteration": "venaso'a",
+      "lemma": "נסע",
+      "morph": "infinitive construct",
+      "english_gloss": "and journeying"
+    },
+    {
+      "surface": "הַנֶּגְבָּה",
+      "gloss": "הַנֶּגְבָּה",
+      "transliteration": "hanegevah",
+      "lemma": "נגב",
+      "morph": "noun + directional he",
+      "english_gloss": "toward the Negev (south)"
+    }
+  ],
+  "timestamp": "2026-08-07T06:55:52.598659019Z",
+  "model": "glm-5.2"
+}

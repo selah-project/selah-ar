@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 68,
+  "translation": "أبٌ لليتامى، و⟨هو⟩ دايّنٌ للأرامل، إلوهيم في مسكن قدسه.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "أب"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "ليتامى"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "ودايّن"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "للأرامل"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "في مسكن"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "قدسه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:52.246197005Z",
+  "model": "glm-5.2"
+}

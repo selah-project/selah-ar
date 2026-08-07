@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 28:17",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "وفي الخامس عشر يومًا من هذا الشهر ⟨هو⟩ عِيد: سبعة أيام تُؤكَل مَصّوت.",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "وفي خمسة"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يومًا"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "من الشهر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "חג",
+      "gloss": "عِيد"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سبعة"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "مَصّوت"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "تُؤكَل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:14.459173823Z",
+  "model": "glm-5.2"
+}

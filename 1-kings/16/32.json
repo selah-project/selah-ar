@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وأقام مذبحًا للبَعَل في بيت البَعَل الذي بناه في شومرون.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "وأقام"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبحًا"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "للبَعَل"
+    },
+    {
+      "surface": "בית",
+      "gloss": "في بيت"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "البَعَل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بناه"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "في شومرون"
+    }
+  ],
+  "timestamp": "2026-08-07T01:49:39.920628021Z",
+  "model": "glm-5.2"
+}

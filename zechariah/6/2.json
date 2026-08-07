@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "في المَركَبة الأولى خيلٌ حُمر، وفي المَركَبة الثانية خيلٌ سود.",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "في المَركَبة"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "الأولى"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "خيلٌ"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "حُمر"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "وفي المَركَبة"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "الثانية"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "خيلٌ"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "سود"
+    }
+  ],
+  "timestamp": "2026-08-07T03:36:01.273521909Z",
+  "model": "glm-5.2"
+}

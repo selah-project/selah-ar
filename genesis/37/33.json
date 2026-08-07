@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 37:33",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "فعرَفها وقال: قميص ابني! حيّةٌ شرّيرةٌ أكَلَتْه. مُمَزَّقٌ مُزِّقَ يوسِف.",
+  "tokens": [
+    {
+      "surface": "ויכירה",
+      "gloss": "فعرفها"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "قميص"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ابني"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "حيّة"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شرّيرة"
+    },
+    {
+      "surface": "אכלתהו",
+      "gloss": "أكلته"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "مُمَزَّق"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "مزّق"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسِف"
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:37.960044154Z",
+  "model": "glm-5.2"
+}

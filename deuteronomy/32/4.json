@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 32:4",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "الصخرةُ، كاملٌ عملُه، لأنّ كلَّ سُبُله حقٌّ، إيلُ أمانةٍ ولا ظلمَ فيه، صِدّيقٌ ومستقيمٌ هو.",
+  "tokens": [
+    {
+      "surface": "הצור",
+      "gloss": "الصخرة"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "كامل"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "عملُه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "سُبُله"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حق"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "أمانة"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صِدّيق"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ومستقيم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T01:02:00.791274171Z",
+  "model": "glm-5.2"
+}

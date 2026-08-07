@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "لا تخَفْ حينما يُثْرِي ⟨إلوهيم⟩ رَجُلًا، حينما يُكثِرُ بهاءَ بيته؛",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "تخَفْ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "حينما"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "يُثْرِي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رَجُلًا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "حينما"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "يُكثِرُ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "بهاءَ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "بيته"
+    }
+  ],
+  "timestamp": "2026-08-07T03:51:55.738290864Z",
+  "model": "glm-5.2"
+}

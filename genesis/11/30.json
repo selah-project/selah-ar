@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨كانت⟩ ساراي عاقرًا، لا ولدَ لها.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "و⟨كانت⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ساراي"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "عاقرًا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "ولدَ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:58.334801761Z",
+  "model": "glm-5.2"
+}

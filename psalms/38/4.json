@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "لا سلامةً في جسدي من وجهِ سخطِك، لا شالوم في عظامي من وجهِ خطيئتي.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "سلامةً"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "في جسدي"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجهِ"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "سخطِك"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "في عظامي"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجهِ"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "خطيئتي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:25.247418161Z",
+  "model": "glm-5.2"
+}

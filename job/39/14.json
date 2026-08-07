@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 39:14",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "لأنّها تترك بيضها على الأرض، وعلى الغبار تُدفئه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّها"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "تترك"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "على الأرض"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "بيضها"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "الغبار"
+    },
+    {
+      "surface": "תחמם",
+      "gloss": "تُدفئه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:43:36.896607110Z",
+  "model": "glm-5.2"
+}

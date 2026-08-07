@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "بكلامٍ لا يَنفع، وبكلاماتٍ لا يُجدى فيهم؟",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "بكلامٍ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "بكلام"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "ينفع"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "وبكلامات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "يُجدى"
+    },
+    {
+      "surface": "בם",
+      "gloss": "فيهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:37:01.792587771Z",
+  "model": "glm-5.2"
+}

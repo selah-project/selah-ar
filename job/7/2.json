@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 7:2",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "كعبدٍ يَتَشوَّق ظلًّا، وكأجيرٍ ينتظر عملَه،",
+  "tokens": [
+    {
+      "surface": "כעבד",
+      "gloss": "كعبدٍ"
+    },
+    {
+      "surface": "ישאף",
+      "gloss": "يتشوَّق"
+    },
+    {
+      "surface": "צל",
+      "gloss": "ظلًّا"
+    },
+    {
+      "surface": "וכשכיר",
+      "gloss": "وكأجيرٍ"
+    },
+    {
+      "surface": "יקוה",
+      "gloss": "ينتظر"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "عملَه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:26.626876552Z",
+  "model": "glm-5.2"
+}

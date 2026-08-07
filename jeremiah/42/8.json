@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 42:8",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "فدعا يوخانان بن قرياح، وكلَّ رؤساء القوّة الذين معه، وكلَّ الشعب من الصغير إلى الكبير.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "فدعا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "يوخانان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قرياح"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "رؤساءِ"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "القوّةِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ولكلِّ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعبِ"
+    },
+    {
+      "surface": "למקטן",
+      "gloss": "من الصغير"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "الكبير"
+    }
+  ],
+  "timestamp": "2026-08-07T02:48:06.266735987Z",
+  "model": "glm-5.2"
+}

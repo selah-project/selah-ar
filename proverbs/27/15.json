@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 27:15",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "تقطيرٌ مُتتابِع في يومِ زوبعةٍ، وامرأةُ مِدِيناتٍ يتساويان",
+  "tokens": [
+    {
+      "surface": "דלף",
+      "gloss": "تقطيرٌ"
+    },
+    {
+      "surface": "טורד",
+      "gloss": "مُتتابِع"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يومِ"
+    },
+    {
+      "surface": "סגריר",
+      "gloss": "زوبعةٍ"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "وامرأةُ"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "مِدِيناتٍ"
+    },
+    {
+      "surface": "נשתוה",
+      "gloss": "يتساويان"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:45.481174696Z",
+  "model": "glm-5.2"
+}

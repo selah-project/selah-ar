@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "لأنَّه يوفيل ⟨هو⟩ — قُدسٌ تكونُ لكم. من الحقلِ تأكلون ⟨את⟩ غلّتِها.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّه"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "يوفيل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قُدس"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "الحقل"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تأكلون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غلّتِها"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "غلّتِها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:26:37.997075446Z",
+  "model": "glm-5.2"
+}

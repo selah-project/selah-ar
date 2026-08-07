@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 5:28",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وسمع يهوه ⟨את⟩ صوتَ كلامِكم حين كلّمتُموني، وقال يهوه لي: قد سمعتُ ⟨את⟩ صوتَ كلامِ هذا الشعب الذي كلّموكَ، أحسنوا كلَّ ما تكلّموا به",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "وسمع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صوت"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوتَ"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "كلامِكم"
+    },
+    {
+      "surface": "בדברכם",
+      "gloss": "حين كلّمتُموني"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إيّاي"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "سمعتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صوت"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوتَ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلامِ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "هذا الشعب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "كلّموكَ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إيّاكَ"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "أحسنوا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "تكلّموا به"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:48.077688983Z",
+  "model": "glm-5.2"
+}

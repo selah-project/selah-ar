@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "احترز ⟨لنفسك⟩ أن لا تترك ⟨את⟩ اللاوي كل أيامك على أرضك.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "احترز"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨لنفسك⟩"
+    },
+    {
+      "surface": "פן",
+      "gloss": "أن لا"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "تترك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اللاوي"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "اللاوي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "أيامك"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "أرضك"
+    }
+  ],
+  "timestamp": "2026-08-07T07:16:11.806023879Z",
+  "model": "glm-5.2"
+}

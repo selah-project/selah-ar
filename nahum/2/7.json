@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 2:7",
+  "book": "nahum",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فُتحت أبوابُ الأنهار، و⟨هيكلُ⟩ القصر ذاب.",
+  "tokens": [
+    {
+      "surface": "שערי",
+      "gloss": "أبوابُ"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "الأنهار"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "فُتحت"
+    },
+    {
+      "surface": "וההיכל",
+      "gloss": "و⟨هيكلُ⟩ القصر"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "ذاب"
+    }
+  ],
+  "timestamp": "2026-08-07T06:00:39.727446839Z",
+  "model": "glm-5.2"
+}

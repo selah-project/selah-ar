@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "بنو عَزْجاد، ألف ومئتان واثنان وعشرون.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "عَزْجاد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ومئتان"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "وعشرون"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "واثنان"
+    }
+  ],
+  "timestamp": "2026-08-07T05:00:50.047518025Z",
+  "model": "glm-5.2"
+}

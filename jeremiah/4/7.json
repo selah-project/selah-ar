@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 4:7",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "صعد أسدٌ من غيضته، ومُهلِكُ الأمم تحرّك، خرج من مكانه ليجعل أرضك خربة، مدنك تصير بلا ساكن.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "صعد"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "أسدٌ"
+    },
+    {
+      "surface": "מסבכו",
+      "gloss": "من غيضته"
+    },
+    {
+      "surface": "ומשחית",
+      "gloss": "ومُهلِكُ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "تحرّك"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "خرج"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "من مكانه"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "ليجعل"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "أرضك"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "خربةً"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "مدنك"
+    },
+    {
+      "surface": "תצינה",
+      "gloss": "تصير"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "بلا"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ساكن"
+    }
+  ],
+  "timestamp": "2026-08-07T02:29:57.894221009Z",
+  "model": "glm-5.2"
+}

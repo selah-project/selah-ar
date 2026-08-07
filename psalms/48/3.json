@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "جميلُ المرتفعِ، بهجةُ كلِّ الأرض، جبلُ صهيونَ، أطرافُ صافون، مدينةُ مَلِكٍ راب",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "جميل"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "المرتفع"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "بهجة"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "أطراف"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "صافون"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلِك"
+    },
+    {
+      "surface": "רב",
+      "gloss": "راب"
+    }
+  ],
+  "timestamp": "2026-08-07T03:51:43.136769914Z",
+  "model": "glm-5.2"
+}

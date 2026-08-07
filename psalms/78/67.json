@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "ورفضَ خيمةَ يوسيف، وفي سبطِ أفرايم لم يَختر.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "ورفضَ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خيمةَ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسيف"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "وفي سبطِ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "أفرايم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "يَختر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:01:00.162183399Z",
+  "model": "glm-5.2"
+}

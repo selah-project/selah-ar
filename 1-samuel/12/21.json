@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 12:21",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "و⟨لا⟩ تَزولوا، لأنَّ وراءَ التوْهو الذي لا يَنفع ولا يُنقذ، لأنَّ تُوهو هُم.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و⟨لا⟩"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "تَزولوا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وراءَ"
+    },
+    {
+      "surface": "התהו",
+      "gloss": "التَّوْهو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "يَنفع"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "يُنقذ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "تُوهو"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هُم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:23:09.828390300Z",
+  "model": "glm-5.2"
+}

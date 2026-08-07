@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 19:4",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وسمعوا به جويّم، في شُحتام أُمسك، وأتوْه في حَخيم إلى أرض مصرايم",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "وسمعوا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "جويّم"
+    },
+    {
+      "surface": "בשחתם",
+      "gloss": "في شُحتام"
+    },
+    {
+      "surface": "נתפש",
+      "gloss": "أُمسك"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "وأتوْه"
+    },
+    {
+      "surface": "בחחים",
+      "gloss": "في حَخيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:02:21.031912212Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 27:6",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "فقالت رِفْقَة ليعقوف ابنها قائلةً: ها أنا قد سمعتُ ⟨את⟩ أباكَ يكلّمُ عيسو أخاكَ قائلاً:",
+  "tokens": [
+    {
+      "surface": "ורבקה",
+      "gloss": "ورِفْقَة"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "قالت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ابنها"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلةً"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "سمعتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أباك"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أباك"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "يكلّمُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ـ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "أخاك"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    }
+  ],
+  "timestamp": "2026-08-06T23:45:45.950479938Z",
+  "model": "glm-5.2"
+}

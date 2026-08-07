@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 36:7",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "لِذلك هكذا قال أدوناي يهوه: أنا رفعتُ ⟨את⟩ يدي — إنْ لم يكن: الأممُ الذين حولكم هم عارَهم سيحملون.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "رفعتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يدي"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "يدي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إنْ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "حولكم"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "من"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    },
+    {
+      "surface": "כלמתם",
+      "gloss": "عارَهم"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "سيحملون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:10:27.132070124Z",
+  "model": "glm-5.2"
+}

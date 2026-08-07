@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 32:3",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "هكذا قال أدوناي يهوه: وأبسط عليك ⟨את⟩ شباكي في جماعة شعوب كثيرين، فيصعدونك في شبكتي.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ופרשתי",
+      "gloss": "وأبسط"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "عليك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شباكي"
+    },
+    {
+      "surface": "רשתי",
+      "gloss": "شباكي"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "في جماعة"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "شعوب"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرين"
+    },
+    {
+      "surface": "והעלוך",
+      "gloss": "فيصعدونك"
+    },
+    {
+      "surface": "בחרמי",
+      "gloss": "في شبكتي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:09:42.313177452Z",
+  "model": "glm-5.2"
+}

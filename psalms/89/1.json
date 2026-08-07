@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "مَسْكيلُ لإيتان هَأزْراحي",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "مَسْكيل"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "لإيتان"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "هَأزْراحي"
+    }
+  ],
+  "timestamp": "2026-08-07T06:05:26.482389822Z",
+  "model": "glm-5.2"
+}

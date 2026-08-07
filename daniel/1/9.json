@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فأعطى إلوهيم ⟨את⟩ دانيال لِحِسِدٍ ولرحَماتٍ أمام رئيس الخصيان.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "فأعطى"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دانيال"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانيال"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "لِحِسِدٍ"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "ولرحَماتٍ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "שר",
+      "gloss": "رئيس"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "الخصيان"
+    }
+  ],
+  "timestamp": "2026-08-07T06:11:50.810553046Z",
+  "model": "glm-5.2"
+}

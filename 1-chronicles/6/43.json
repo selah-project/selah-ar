@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "و⟨את⟩ خيلز و⟨את⟩ مراعيها، ⟨את⟩ دبير و⟨את⟩ مراعيها",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "خيلز"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "خيلز"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مراعيها"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مراعيها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دبير"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "دبير"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مراعيها"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مراعيها"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:45.500753506Z",
+  "model": "glm-5.2"
+}

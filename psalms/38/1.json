@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "مَزْمور لِدافيد، لإِذكارٍ",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مَزْمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِدافيد"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "لإِذكارٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:25.247071763Z",
+  "model": "glm-5.2"
+}

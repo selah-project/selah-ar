@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 62,
+  "translation": "إلى متى تهجمون على رجلٍ واحد؟ تقتلونه كلكم كجدارٍ مائل، كسياجٍ مدفوع؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "متى"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "تهجمون"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلٍ"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "تقتلونه"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "كلكم"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "كجدارٍ"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "مائل"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "كسياجٍ"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "مدفوع"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:00.673183519Z",
+  "model": "glm-5.2"
+}

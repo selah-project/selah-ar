@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 5:4",
+  "book": "ezra",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "حينئذ هكذا أيضًا قلنا لهم: ما أسماء الرجال الذين يبنون هذا البناء؟",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "حينئذ"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "قلنا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אנון",
+      "gloss": "هي"
+    },
+    {
+      "surface": "שמהת",
+      "gloss": "أسماء"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "الرجال"
+    },
+    {
+      "surface": "די",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "בנינא",
+      "gloss": "البناء"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "يبّنون"
+    }
+  ],
+  "timestamp": "2026-08-07T05:02:49.181470894Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 28:19",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "ودعا ⟨את⟩ اسم ذلك المكان بيت-إيل، لكن لوز كان اسم المدينة أوّلاً.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "المكان"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "لكن"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "لوز"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "לראשנה",
+      "gloss": "أوّلاً"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:16.241772394Z",
+  "model": "glm-5.2"
+}

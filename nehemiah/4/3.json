@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 4:3",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فصلّينا إلى إلوهيم وأقمنا حِرسًا عليهم نهارًا وليلًا من وجههم.",
+  "tokens": [
+    {
+      "surface": "ונתפלל",
+      "gloss": "فصلّينا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ונעמיד",
+      "gloss": "وأقمنا"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "حِرسًا"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "نهارًا"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "وليلًا"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "من وجههم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:05:18.955289983Z",
+  "model": "glm-5.2"
+}

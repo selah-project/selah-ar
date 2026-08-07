@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وأمّا إلى قايين وإلى تقدمته فلم يَنظُر، فاحتدم قايين جدًّا وسقطتْ وجوهُه.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "وأمّا إلى"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قايين"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "تقدمته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "يَنظُر"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "فاحتدم"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "قايين"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "وسقطت"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "وجوهُه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:25.152199080Z",
+  "model": "glm-5.2"
+}

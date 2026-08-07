@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 96,
+  "translation": "رنّموا ليهوه رنّيمةً جديدة، رنّموا ليهوه يا كلَّ الأرض",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "رنّموا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "رنّيمةً"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "جديدة"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "رنّموا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "يا كلَّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:47.211058323Z",
+  "model": "glm-5.2"
+}

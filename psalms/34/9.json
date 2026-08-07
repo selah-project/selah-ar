@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "ذوقوا ⟨وا⟩انظروا لأنّ طيّبًا ⟨هو⟩ يهوه، طُوبى للرجل ⟨الذي⟩ يلجأ إليه.",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "ذوقوا"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "وانظروا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيّبًا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "طُوبى"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "للرجل"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "يلجأ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "إليه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:16.291186083Z",
+  "model": "glm-5.2"
+}

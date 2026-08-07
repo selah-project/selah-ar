@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 21:11",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "مَسّا دومة. إليَّ ينادي من سَعير: «يا حارس، كم من الليل؟ يا حارس، كم من الليل؟»",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "مَسّا"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "دومة"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليَّ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ينادي"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "من سَعير"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "يا حارس"
+    },
+    {
+      "surface": "מה",
+      "gloss": "كم"
+    },
+    {
+      "surface": "מלילה",
+      "gloss": "من الليل"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "يا حارس"
+    },
+    {
+      "surface": "מה",
+      "gloss": "كم"
+    },
+    {
+      "surface": "מליל",
+      "gloss": "من الليل"
+    }
+  ],
+  "timestamp": "2026-08-07T02:08:34.783575809Z",
+  "model": "glm-5.2"
+}

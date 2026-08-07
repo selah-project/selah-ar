@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 23:2",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "وماتت سارة في قريات أربع هي حفرُون في أرض كنعان، وجاء أفراهام لندب سارة ولندبكيتها.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "وماتت"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارة"
+    },
+    {
+      "surface": "בקרית",
+      "gloss": "في قريات"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "أربع"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حفرُون"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كنعان"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "לספד",
+      "gloss": "لندب"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "سارة"
+    },
+    {
+      "surface": "ולבכתה",
+      "gloss": "ولندبكيتها"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:47.113635490Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 40:16",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "فقال جدَلْياهو بن أخيقام ليُوخانان بن قارِيَح: لا تفعل ⟨את⟩ الأمرَ هذا، لأنّه كذبٌ أنت تتكلّم به على يِشماعيل",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "جدَلْياهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "أخيقام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "يُوخانان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قارِيَح"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "تفعل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأمرَ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمرَ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "كذبٌ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تتكلّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "على\/بشأن"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "يِشماعيل"
+    }
+  ],
+  "timestamp": "2026-08-07T02:47:05.687014123Z",
+  "model": "glm-5.2"
+}

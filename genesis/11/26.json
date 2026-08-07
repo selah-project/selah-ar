@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨عاش⟩ تارَح سبعين سنة، و⟨وَلَد⟩ ⟨את⟩ أفرام ⟨את⟩ ناحور و⟨את⟩ هاران.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و⟨عاش⟩"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تارَح"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "سبعين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و⟨وَلَد⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أفرام"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "أفرام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناحور"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحور"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "هاران"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "هاران"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:01.041295645Z",
+  "model": "glm-5.2"
+}

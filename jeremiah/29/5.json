@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "ابنوا بيوتًا و⟨اسكنوا⟩، واغرسوا جنّاتٍ وكلوا ⟨את⟩ ثمرها،",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "ابنوا"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "بيوتًا"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "واسكنوا"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "واغرسوا"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "جنّاتٍ"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "وكلوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ثمرها"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "ثمرها"
+    }
+  ],
+  "timestamp": "2026-08-07T02:41:31.314753464Z",
+  "model": "glm-5.2"
+}

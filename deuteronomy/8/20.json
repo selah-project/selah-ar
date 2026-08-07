@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "كالشعوب الذين يُهلِكُ يهوه من أمامكم كذلك تُهلَكون، على ⟨أنّكم⟩ لا تسمعون في صوت يهوه إلوهيمكم.",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "كالشعوب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "يُهلِكُ"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "من أمامكم"
+    },
+    {
+      "surface": "כן",
+      "gloss": "كذلك"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "تُهلَكون"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "على"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "تسمعون"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "في صوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلوهيمكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:54:42.995878884Z",
+  "model": "glm-5.2"
+}

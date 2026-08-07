@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 16:23",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "قلبُ الحكيم يُفهِّمُ فمَه، وعلى شفتيه يَزيدُ تلقّفًا.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "الحكيم"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "يُفهِّم"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "فمه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "شفتيه"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "يَزيد"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "تلقّفًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:16.520233363Z",
+  "model": "glm-5.2"
+}

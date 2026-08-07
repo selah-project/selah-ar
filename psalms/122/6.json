@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 122,
+  "translation": "اسألوا شالوم يروشالايم، يطمئنّ ⟨الذين⟩ يحبّونك.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "اسألوا"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "يطمئنّ"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "⟨الذين⟩ يحبّونك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:15:22.964760416Z",
+  "model": "glm-5.2"
+}

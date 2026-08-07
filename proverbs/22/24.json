@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "لا تعاشِر ⟨את⟩ صاحبِ الغضب، ومع رجُل الحَمَم لا تأتِ.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תִּ֭תְרַע",
+      "gloss": "تعاشِر"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "صاحبِ الغضب"
+    },
+    {
+      "surface": "בַּ֣עַל",
+      "gloss": "صاحبِ"
+    },
+    {
+      "surface": "אָ֑ף",
+      "gloss": "الغضب"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "رجُل"
+    },
+    {
+      "surface": "חֵ֝מוֹת",
+      "gloss": "الحَمَم"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תָבֽוֹא",
+      "gloss": "تأتِ"
+    }
+  ],
+  "timestamp": "2026-08-07T06:08:49.264829972Z",
+  "model": "glm-5.2"
+}

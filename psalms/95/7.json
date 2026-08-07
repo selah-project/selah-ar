@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 95,
+  "translation": "لأنه هو إلوهيم ونحن شعب مرعاه وقطيع يده. اليوم، إن في صوته تسمعون،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ونحن"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "مرعاه"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "وقطيع"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "في صوته"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "تسمعون"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:03.731872685Z",
+  "model": "glm-5.2"
+}

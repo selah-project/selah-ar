@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "لا يُجوِّع يهوه نَفْسَ الصِّدِّيق، و⟨هو⟩ يدفع هوى الرَّجاسين.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "يُجوِّع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْس"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "الصِّدِّيق"
+    },
+    {
+      "surface": "והות",
+      "gloss": "ويدفع هوى"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الرَّجاسين"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-07T04:23:47.669665894Z",
+  "model": "glm-5.2"
+}

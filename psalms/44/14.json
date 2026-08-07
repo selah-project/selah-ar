@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 44:14",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "تجعلنا عارًا لجيراننا، هزءًا وسخرية للمحيطين بنا.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "تجعلنا"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "عارًا"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "لجيراننا"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "هزءًا"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "وسخرية"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "للمحيطين بنا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:26.672889827Z",
+  "model": "glm-5.2"
+}

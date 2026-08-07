@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "اطمئنّوا بيهوه إلى الأبد، لأن في ياه يهوه صخر عولاميم.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "اطمئنّوا"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "بيهوه"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עד",
+      "gloss": "الأبد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "في ياه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صخر"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "عولاميم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:11:41.211463583Z",
+  "model": "glm-5.2"
+}

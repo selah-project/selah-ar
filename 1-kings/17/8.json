@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "و⟨كانت⟩ كلمة يهوه إليه قائلة:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كانت⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:49:25.278037284Z",
+  "model": "glm-5.2"
+}

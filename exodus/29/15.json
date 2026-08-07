@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "و⟨את⟩ الكبشَ الواحدَ تأخذ، ويَسْنِدُ أهارونُ وبَنوهُ ⟨את⟩ أَيدِيَهم على رأسِ الكبش.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "الكبش"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "الكبش"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "الواحد"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "تأخذ"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "ويسند"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "وبنوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أيديهم"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "أيديهم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأس"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "الكبش"
+    }
+  ],
+  "timestamp": "2026-08-07T08:32:55.494214441Z",
+  "model": "glm-5.2"
+}

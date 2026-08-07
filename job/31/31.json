@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 31:31",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "ألم يقُلْ رجالُ خيمتي: «مَنْ يعطينا من لحمه؟ لم نشبع!» —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "أ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "يقُلْ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "رجالُ"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "خيمتي"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَنْ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "يعطينا"
+    },
+    {
+      "surface": "מבשרו",
+      "gloss": "من لحمه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "نشبع"
+    }
+  ],
+  "timestamp": "2026-08-07T04:40:51.873096944Z",
+  "model": "glm-5.2"
+}

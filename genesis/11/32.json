@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨كانت⟩ أيّامُ تراخ خمسَ سنين ومئتَي سنة، فمات تراخ في حاران.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و⟨كانت⟩"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّامُ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تراخ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "خمسَ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنين"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ومئتَي"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "فمات"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تراخ"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "في حاران"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:58.335161946Z",
+  "model": "glm-5.2"
+}

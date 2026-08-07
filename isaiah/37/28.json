@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "وأنا عالِمٌ جلوسك وخروجك ودخولك، و⟨את⟩ هيجانك عليّ.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "جلوسك"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "وخروجك"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "ودخولك"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "وأنا عالِمٌ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "هيجانك"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "هيجانك"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "عليّ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:16:36.034404797Z",
+  "model": "glm-5.2"
+}

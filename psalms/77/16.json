@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 77,
+  "translation": "غُويّلتَ بذراعٍ شعبَك، بَنِي يعقوف ويوسِف. سِلاه.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "غُويّلتَ"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "بذراع"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "شعبَك"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنِي"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ويوسِف"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:52.791480445Z",
+  "model": "glm-5.2"
+}

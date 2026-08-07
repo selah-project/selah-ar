@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "لا يَمِلْ قلبُك إلى طرقِها، لا تَضِلّ في سُبُلِها.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "يَمِلْ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "طرقِها"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "قلبُك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "تَضِلّ"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "في سُبُلِها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:47.318508305Z",
+  "model": "glm-5.2"
+}

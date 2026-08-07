@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 72,
+  "translation": "أمامه يركع سكّانُ البريّة، وأعداؤه يلعقون الغبار.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "أمامه"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "يركع"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "سكّانُ البريّة"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "وأعداؤه"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "الغبار"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "يلعقون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:58:23.183419614Z",
+  "model": "glm-5.2"
+}

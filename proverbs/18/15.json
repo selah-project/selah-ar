@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 18:15",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "قلبُ فهيمٍ يقتني معرفةً، وأذنُ حكماءَ تطلب معرفة",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "فهيم"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "يقتني"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "معرفة"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "وأذن"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "حكماء"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "تطلب"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "معرفة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:58.842263593Z",
+  "model": "glm-5.2"
+}

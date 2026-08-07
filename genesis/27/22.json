@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 27:22",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "فاقترب يعقوف إلى يِتصاق أبيه، فتلمّسه، وقال: «الصوتُ صوتُ يعقوف، لكنّ اليدينِ يدا عيساو.»",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "فاقترب"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يِتصاق"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "וימשהו",
+      "gloss": "فتلمّسه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "الصوت"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "והידים",
+      "gloss": "لكنّ اليدين"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "يدا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيساو"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:15.928428643Z",
+  "model": "glm-5.2"
+}

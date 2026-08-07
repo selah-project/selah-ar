@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 13:15",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فتحقِّقْ وفتِّشْ واسألْ جيِّداً، وإذا فإمِتْ ثابتٌ ⟨هو⟩ الأمرُ، وقعَتِ الرجسُ هذه في وسطك،",
+  "tokens": [
+    {
+      "surface": "ודרשת",
+      "gloss": "فتحقِّقْ"
+    },
+    {
+      "surface": "וחקרת",
+      "gloss": "فتِّشْ"
+    },
+    {
+      "surface": "ושאלת",
+      "gloss": "واسألْ"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "جيِّداً"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "فإمِتْ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ثابتٌ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمرُ"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "وقعَتْ"
+    },
+    {
+      "surface": "התועבה",
+      "gloss": "الرجسُ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "في وسطك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:52.901319602Z",
+  "model": "glm-5.2"
+}

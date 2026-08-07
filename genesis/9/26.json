@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "و⟨قال⟩: «مباركٌ يهوه إلهُ شِيم، وليكن كَناعان عبدًا لهم.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و⟨قال⟩"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "مبارك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إله"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شِيم"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وليكن"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كَناعان"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عبد"
+    },
+    {
+      "surface": "למו",
+      "gloss": "لهم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:38.175286218Z",
+  "model": "glm-5.2"
+}

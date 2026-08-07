@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "فمي ينطقُ حِكَمًا، وهَجْسُ قلبي فهومٌ.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "فمي"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ينطقُ"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "حِكَمًا"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "وهجسُ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "فهومٌ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:52:03.850192249Z",
+  "model": "glm-5.2"
+}

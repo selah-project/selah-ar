@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 10:4",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "بفضّة وبذهب يُجمِّلونه، بمسامير وبمعاول يُثبِّتونه فلا يتزعزع",
+  "tokens": [
+    {
+      "surface": "בכסף",
+      "gloss": "بفضّة"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "وبذهب"
+    },
+    {
+      "surface": "ייפהו",
+      "gloss": "يُجمِّلونه"
+    },
+    {
+      "surface": "במסמרות",
+      "gloss": "بمسامير"
+    },
+    {
+      "surface": "ובמקבות",
+      "gloss": "وبمعاول"
+    },
+    {
+      "surface": "יחזקום",
+      "gloss": "يُثبِّتونه"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "يتزعزع"
+    }
+  ],
+  "timestamp": "2026-08-07T02:33:52.446027258Z",
+  "model": "glm-5.2"
+}

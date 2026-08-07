@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 11:23",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "لأنّ وصيّة الملك كانت عليهم، وأمانة على المُرنّمين — أمرُ يومٍ بيومه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "وصيّة"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "ואמנה",
+      "gloss": "وأمانة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "المُرنّمين"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "أمرُ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يومٍ"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "بيومه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:08:41.492295646Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 91,
+  "translation": "برِيشِه يُظَلِّلُكَ، وتحت أجنحته تأوي، ترسٌ ⟨و⟩مِجنَدٌ إمِتُه.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "برِيشِه"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "يُظَلِّلُكَ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "إيّاك"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "وتحت"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "أجنحته"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "تأوي"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ترسٌ"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "⟨و⟩مِجنَدٌ"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "إمِتُه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:33.098535852Z",
+  "model": "glm-5.2"
+}

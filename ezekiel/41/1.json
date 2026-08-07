@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "وأدخلني إلى الهيكل وقاس ⟨את⟩ العوارض، ستّ أذرع عرضًا من هنا، وستّ أذرع عرضًا من هناك، ⟨وهو⟩ عرض الخيمة",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "وأدخلني"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "الهيكل"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "وقاس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "العوارض"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "العوارض"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ستّ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "أذرع"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "عرضًا"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "من هنا"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "وستّ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "أذرع"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "عرضًا"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "من هناك"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "عرض"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "الخيمة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:16:00.208957915Z",
+  "model": "glm-5.2"
+}

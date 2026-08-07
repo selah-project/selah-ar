@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 21:8",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "«كفّر لشعبك إسرائيل الذي فديتَ، يا يهوه، ولا تَدَع دمَ بريءٍ في وسط شعبك إسرائيل، فيُكفَّر عنهم الدم».",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "كفّر"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "لشعبك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "فديتَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "تَدَع"
+    },
+    {
+      "surface": "דם",
+      "gloss": "دم"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بريء"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "شعبك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "ונכפר",
+      "gloss": "فيُكفَّر"
+    },
+    {
+      "surface": "להם",
+      "gloss": "عنهم"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "الدم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:47.667503498Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 18:14",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وإذا ولد ابنًا ورأى ⟨את⟩ كل خطايا أبيه التي فعلها، فرأى ولم يفعل مثلها،",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنًا"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ورأى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل خطايا أبيه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "خطايا"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعلها"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "فرأى"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يفعل"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "مثلها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:01:16.976581592Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "و⟨تحفظ⟩ ⟨את⟩ وصايا يهوه إلوهيمك، للسير في دروبه ولمهابته إيّاه.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "و⟨تحفظ⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وصايا"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "وصايا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "للسير"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "في دروبه"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "ولمهابته"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "إيّاه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:54:16.464873170Z",
+  "model": "glm-5.2"
+}

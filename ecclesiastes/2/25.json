@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "لأنّه مَنْ يأكل ومَنْ يَنْهَمُ بغيرٍ منّي؟",
+  "tokens": [
+    {
+      "surface": "כִּ֣י",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "מִ֥י",
+      "gloss": "مَنْ"
+    },
+    {
+      "surface": "יֹאכַ֛ל",
+      "gloss": "يأكل"
+    },
+    {
+      "surface": "וּמִ֥י",
+      "gloss": "ومَنْ"
+    },
+    {
+      "surface": "יָח֖וּשׁ",
+      "gloss": "يَنْهَمُ"
+    },
+    {
+      "surface": "ח֥וּץ",
+      "gloss": "بغيرٍ"
+    },
+    {
+      "surface": "מִמֶּֽנִּי",
+      "gloss": "منّي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:50:31.083881238Z",
+  "model": "glm-5.2"
+}

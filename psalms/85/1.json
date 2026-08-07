@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 85,
+  "translation": "للمُنْشِد. لِبَنِي قورَح. مِزمور",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "للمُنْشِد"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لبني"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورَح"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مِزمور"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:37.359363654Z",
+  "model": "glm-5.2"
+}

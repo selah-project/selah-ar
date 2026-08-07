@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 22:24",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "ومرضوضة وكسيرة ومقلوعة ومقطوعة لا تقرّبوا ليهوه، وفي أرضكم لا تفعلوا.",
+  "tokens": [
+    {
+      "surface": "ומעוך",
+      "gloss": "ومرضوضة"
+    },
+    {
+      "surface": "וכתות",
+      "gloss": "وكسيرة"
+    },
+    {
+      "surface": "ונתוק",
+      "gloss": "ومقلوعة"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "ومقطوعة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "تقرّبوا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "ובארצכם",
+      "gloss": "وفي أرضكم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "تفعلوا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:01.669706701Z",
+  "model": "glm-5.2"
+}

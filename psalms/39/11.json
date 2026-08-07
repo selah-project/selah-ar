@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "أَبْعِد عنّي ضربتك؛ من منازعة يدك أنا فَنِيتُ.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "أَبْعِد"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "عنّي"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "ضربتك"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "من منازعة"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدك"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "فَنِيتُ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:12.114540880Z",
+  "model": "glm-5.2"
+}

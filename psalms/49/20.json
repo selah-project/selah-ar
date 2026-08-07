@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "يأتي إلى دُور آبائه، إلى الأبد لا يُبصرون نورًا.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "يأتي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "דור",
+      "gloss": "دُور"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "آبائه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "الأبد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "يُبصرون"
+    },
+    {
+      "surface": "אור",
+      "gloss": "نورًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:51:55.738722087Z",
+  "model": "glm-5.2"
+}

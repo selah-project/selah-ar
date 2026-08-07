@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 75,
+  "translation": "لا ترفعوا إلى المرتفاع قرنَكم، تتكلّمون بعاتقٍ في الأعناق.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ترفعوا"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "إلى المرتفاع"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "قرنَكم"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "تتكلّمون"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "بعاتقٍ"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "صلابةٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:36.210658264Z",
+  "model": "glm-5.2"
+}

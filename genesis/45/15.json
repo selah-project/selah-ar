@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 45:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "وقبّل كلّ إخوته وبكى عليهم، وبعد ذلك تكلّم إخوته معه.",
+  "tokens": [
+    {
+      "surface": "וינשק",
+      "gloss": "وقبّل"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "إخوته"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "وبكى"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "وبعد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "إخوته"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:57:13.921511859Z",
+  "model": "glm-5.2"
+}

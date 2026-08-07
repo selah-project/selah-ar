@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "فذهب أفرام كما كلّمه يهوه، وذهب معه لوط. وأفرامُ ابنُ خمسٍ وسبعين سنة في خروجه من حاران.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "فذهب"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "أفرامُ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلّمَ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إيّاه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "وذهب"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوطٌ"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "وأفرامُ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنُ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "خمسٍ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "وسنوات"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "وسبعين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنةً"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "في خروجه"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "من حارانَ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:44.053072411Z",
+  "model": "glm-5.2"
+}

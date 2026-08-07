@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "وأخذوا ⟨את⟩ كلَّ الغنيمة و⟨את⟩ كلَّ السبيَّ، من الناس ومن البهائم.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "وأخذوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "الغنيمة"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "السبيَّ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "من الناس"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ومن البهائم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:58.160559447Z",
+  "model": "glm-5.2"
+}

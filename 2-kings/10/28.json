@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فأباد ييهو ⟨את⟩ البَعل من إسرايل",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "فأباد"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ييهو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "البَعل"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "البَعل"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "من إسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:56:29.454421046Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 53,
+  "translation": "إلوهيم من السماوات أطلّ على بني البشر لِيرى هل فيهم فاهم، طالبٌ ⟨את⟩ إلوهيم.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "من السماوات"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "أطلّ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "البشر"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "لِيرى"
+    },
+    {
+      "surface": "היש",
+      "gloss": "هل فيهم"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "فاهم"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "طالب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "إلوهيم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:29.787118763Z",
+  "model": "glm-5.2"
+}

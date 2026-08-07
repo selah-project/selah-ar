@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "وإن لا تسمعون إلينا لِتُخْتَنوا، فنأخذ ⟨את⟩ ابنتنا ونذهب.»",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "تسمعون"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "إلينا"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "لِتُخْتَنوا"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "فنأخذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابنتنا"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "ابنتنا"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "ونذهب"
+    }
+  ],
+  "timestamp": "2026-08-06T23:48:07.729439153Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 26:22",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "ولجانبَيِ ⟨المِشكان⟩ غربًا تصنع ستّة ألواح.",
+  "tokens": [
+    {
+      "surface": "ולירכתי",
+      "gloss": "ولجانبَي"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "المِشكان"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "غربًا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تصنع"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ستّة"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "ألواح"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:57.435183507Z",
+  "model": "glm-5.2"
+}

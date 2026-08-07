@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 122,
+  "translation": "שיר המעלות لِדاوِد: فَرِحتُ حين قالوا لي: «بيتَ يهوه نذهبُ»",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "שיר"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "המעלות"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِداوِد"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "فَرِحتُ"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "حين قالوا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيتَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "نذهبُ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:12:03.134660922Z",
+  "model": "glm-5.2"
+}

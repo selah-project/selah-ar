@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "لأنّ من يُختار إلى كلّ الأحياء له ثقة، لأنّ الكلب الحيّ خيرٌ من الأسد الميّت.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "מִי֙",
+      "gloss": "من"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "يُختار"
+    },
+    {
+      "surface": "אֶ֥ל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הַחַיִּ֖ים",
+      "gloss": "الأحياء"
+    },
+    {
+      "surface": "יֵ֣שׁ",
+      "gloss": "له"
+    },
+    {
+      "surface": "בִּטָּח֑וֹן",
+      "gloss": "ثقة"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "לְכֶ֤לֶב",
+      "gloss": "لكلب"
+    },
+    {
+      "surface": "חַי֙",
+      "gloss": "حيّ"
+    },
+    {
+      "surface": "ה֣וּא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ט֔וֹב",
+      "gloss": "خيرٌ"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הָאַרְיֵ֖ה",
+      "gloss": "الأسد"
+    },
+    {
+      "surface": "הַמֵּֽת",
+      "gloss": "الميّت"
+    }
+  ],
+  "timestamp": "2026-08-07T04:53:05.516974246Z",
+  "model": "glm-5.2"
+}

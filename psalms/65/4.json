@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 65,
+  "translation": "أمورُ آثامٍ غَلَبَتْني؛ مَعاصينا أنتَ تُكَفِّرُها.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "أمورُ"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "آثامٍ"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "غَلَبَتْ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ني"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "مَعاصينا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "تُكَفِّرُها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:54.138654501Z",
+  "model": "glm-5.2"
+}

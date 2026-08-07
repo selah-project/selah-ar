@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 10:15",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "كذلك يُفعَل بكم، يا بيت-إيل، من وجه شرِّ شركم. في الفجر يُستأصل، يُستأصل ملكُ إسرايل.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "كذلك"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "يُفعَل"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بكم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "يا بيت-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجه"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "شرِّ"
+    },
+    {
+      "surface": "רעתכם",
+      "gloss": "شركم"
+    },
+    {
+      "surface": "בשחר",
+      "gloss": "في الفجر"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "يُستأصل"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "يُستأصل"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملكُ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:21:56.367799843Z",
+  "model": "glm-5.2"
+}

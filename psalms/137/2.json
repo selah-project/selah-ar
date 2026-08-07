@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 137,
+  "translation": "على الصفصاف في وسطها علّقنا كنّوروتينا.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "الصفصاف"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "في وسطها"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "علّقنا"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "كنّوروتينا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:17:43.729077793Z",
+  "model": "glm-5.2"
+}

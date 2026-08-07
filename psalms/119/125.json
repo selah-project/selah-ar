@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "عبدُك أنا، فهَّمني، فأعرف شهاداتك.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "عبدُك"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "فهَّمني"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "فأعرف"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "شهاداتك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:33.770843255Z",
+  "model": "glm-5.2"
+}

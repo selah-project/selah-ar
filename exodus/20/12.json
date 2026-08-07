@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "أَكرِمْ ⟨את⟩ أباكَ و⟨את⟩ أمَّكَ، لكي تطولَ أيّامُكَ على الأرضِ التي يهوه إلوهيمُكَ يعطيكَ.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "أَكرِمْ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أباكَ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أباكَ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أمَّكَ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "أمَّكَ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "تطولَ"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "أيّامُكَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "الأرضِ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمُكَ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "يعطيكَ"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:57.458275184Z",
+  "model": "glm-5.2"
+}

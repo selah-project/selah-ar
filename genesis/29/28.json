@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 29:28",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "ففعل يعقوف هكذا وأتمَّ أُسبوع هذه، فأعطاه ⟨את⟩ راخيل ابنته لِزَوجة.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ففعل"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "وأتمَّ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "أُسبوع"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "فأعطاه"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "راخيل"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راخيل"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ابنته"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زَوجة"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:54.022828677Z",
+  "model": "glm-5.2"
+}

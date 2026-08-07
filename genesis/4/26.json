@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 4:26",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "ولِشيت أيضًا هو وُلد له ابن، فدعا ⟨את⟩ اسمه أنوش. حينئذٍ ابتُدئ ⟨بـ⟩ الدعاء باسم يهوه.",
+  "tokens": [
+    {
+      "surface": "ולשת",
+      "gloss": "ولِشيت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "وُلد له"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "فدعا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسمه"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمه"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "أنوش"
+    },
+    {
+      "surface": "אז",
+      "gloss": "حينئذٍ"
+    },
+    {
+      "surface": "הוחל",
+      "gloss": "ابتُدئ"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "الدعاء"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "باسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:34:56.629994550Z",
+  "model": "glm-5.2"
+}

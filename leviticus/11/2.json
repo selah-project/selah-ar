@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "«كلِّموا بني يسرائيل قائلين: هذه ⟨هي⟩ الحيوان الذي تأكلونه من كل البهيمة التي على الأرض:",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "كلِّموا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "الحياة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تأكلونه"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كل"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "البهيمة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:15.672789330Z",
+  "model": "glm-5.2"
+}

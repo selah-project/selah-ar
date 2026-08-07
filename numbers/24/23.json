@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 24:23",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "ورفع مَشَله وقال: ويلٌ! من يحيا حين يَضَعُ إيل ⟨هذا⟩؟",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ورفع"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "مَشَله"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ويل"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "يحيا"
+    },
+    {
+      "surface": "משמו",
+      "gloss": "حين يَضَع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:39:09.861069245Z",
+  "model": "glm-5.2"
+}

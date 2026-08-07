@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "لا تَرْشَعْ كثيرًا، ولا تَكُنْ سِكْل، لِمَاذَا تموت لا في وقتك؟",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "ترشع"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "كثيرًا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "⟨تكن⟩"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "سِكْل"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "تموت"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "لا في"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "وقتك"
+    }
+  ],
+  "timestamp": "2026-08-07T08:20:13.351437022Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "والآن إليكم هذه الوصية، أيها الكوهين",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "إليكم"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "هذه الوصية"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكوهين"
+    }
+  ],
+  "timestamp": "2026-08-07T03:39:00.491808456Z",
+  "model": "glm-5.2"
+}

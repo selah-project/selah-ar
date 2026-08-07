@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 142,
+  "translation": "تأمَّلْ يميناً وانظر، فلا ⟨لي⟩ من يعرفني؛ هلك الملجأ منّي، لا أحد يطلب ⟨لـ⟩ نَفْسي.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "تأمَّلْ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "يميناً"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "وانظر"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨لي⟩"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "من يعرفني"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "هلك"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "الملجأ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "منّي"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا أحد"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "يطلب"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "لـ نَفْسي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:27.310810685Z",
+  "model": "glm-5.2"
+}

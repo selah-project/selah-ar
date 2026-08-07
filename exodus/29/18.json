@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 29:18",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وتُوقِد ⟨את⟩ كل الكبش على المذبح، عولاه ⟨هو⟩ ليهوه، رائحة نِيحُواح، إيشاه ليهوه ⟨هو⟩.",
+  "tokens": [
+    {
+      "surface": "והקטרת",
+      "gloss": "وتُوقِد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل الكبش"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "الكبش"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "على المذبح"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "عولاه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "رائحة"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "نِيحُواح"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "إيشاه"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T00:10:30.304032635Z",
+  "model": "glm-5.2"
+}

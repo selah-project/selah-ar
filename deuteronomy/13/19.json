@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 13:19",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "إذا تسمع لصوت يهوه إلهِك، لحراسة ⟨את⟩ كلِّ وصاياه التي أنا أوصيك بها اليوم، لفعلِ المستقيم في عينَي يهوه إلهِك.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "تسمع"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "لصوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلهِك"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "لحراسة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "وصاياه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "أوصيك"
+    },
+    {
+      "surface": "היום",
+      "gloss": "بها اليوم"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "لفعلِ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "المستقيم"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عينَي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلهِك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:49.007890055Z",
+  "model": "glm-5.2"
+}

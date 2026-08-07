@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فجاءت إليه إيزَفَل امرأته، وكلّمته: «ما هذا؟ روَحُك سَلِسةٌ وأنت لا تأكل خبزًا!»",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "فجاءت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "إيزَفَل"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "امرأته"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "وكلّمته"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "روَحُك"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "سَلِسة"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "وأنت"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "تأكل"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:51:50.533024877Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "بهذا يأتي أهارون إلى القدس: بثور ابن بقر لذبيحة خطيئة وكبش لعولاه.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "بهذا"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "يأتي"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "القدس"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "بثور"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "بقر"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "لذبيحة خطيئة"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "وكبش"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "لعولاه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:08.671418544Z",
+  "model": "glm-5.2"
+}

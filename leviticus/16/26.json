@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 16:26",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "والذي يُطلِق ⟨את⟩ التيس إلى عزازيل يغسل ثيابه ويرحّض ⟨את⟩ جسده في الماء، وبعد ذلك يأتي إلى المحلّة.",
+  "tokens": [
+    {
+      "surface": "והמשלח",
+      "gloss": "والذي يُطلِق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "التيس"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "التيس"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "إلى عزازيل"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "يغسل"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ثيابه"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ويرحّض"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جسده"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "جسده"
+    },
+    {
+      "surface": "במים",
+      "gloss": "في الماء"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "وبعد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "يأتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "المحلّة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:22.870716453Z",
+  "model": "glm-5.2"
+}

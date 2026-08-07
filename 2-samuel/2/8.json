@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 2:8",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وأفنير بن نير، رئيس جيش شاؤول، أخذ ⟨את⟩ إيش-بوشت بن شاؤول، وأعبَره ←إلى مَحَنايم.",
+  "tokens": [
+    {
+      "surface": "ואבנר",
+      "gloss": "وأفنير"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נר",
+      "gloss": "نير"
+    },
+    {
+      "surface": "שר",
+      "gloss": "رئيس"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "جيش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "لشاؤول"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "أخذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "إيش-بوشت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "إيش"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "-بوشت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "وأعبَره"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "مَحَنايم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:32:09.709585198Z",
+  "model": "glm-5.2"
+}

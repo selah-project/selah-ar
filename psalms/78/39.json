@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "فذكر أنّهم بشر لحم، روَحٌ تمضي ولا تعود.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "فذكر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بشر لحم"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روَح"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "تمضي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "تعود"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:46.655814693Z",
+  "model": "glm-5.2"
+}

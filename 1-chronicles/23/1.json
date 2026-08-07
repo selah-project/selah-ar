@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "وَدَاوِدُ شَاخَ وَشَبِعَ أَيَّامًا، وَمَلَّكَ ⟨את⟩ شْلُومُو بْنَهُ عَلَى يِسْرَائِيل.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "وداود"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "شاخ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "وشبع"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيامًا"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "وملَّك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شلومو"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شْلُومُو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بْنَهُ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسْرَائِيل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:18:11.186057655Z",
+  "model": "glm-5.2"
+}

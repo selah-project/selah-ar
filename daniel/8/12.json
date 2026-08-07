@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 8:12",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وصباء تُسلَّم على التاميد في فشع، وتُطْرح إمِت أرضًا، وتعمَل وتُفلِح",
+  "tokens": [
+    {
+      "surface": "וצבא",
+      "gloss": "وصباء"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "تُسلَّم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "التاميد"
+    },
+    {
+      "surface": "בפשע",
+      "gloss": "في فشع"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "وتُطْرح"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "إمِت"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "أرضًا"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "وتعمَل"
+    },
+    {
+      "surface": "והצליחה",
+      "gloss": "وتُفلِح"
+    }
+  ],
+  "timestamp": "2026-08-07T04:58:22.169405575Z",
+  "model": "glm-5.2"
+}

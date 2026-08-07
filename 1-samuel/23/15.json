@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "ورأى داؤد أنّ شاؤول خرج يطلب ⟨את⟩ نَفسه، و⟨كان⟩ داؤد في برّيّة زيف في حورشة.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ورأى"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داؤد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "خرج"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ليطلب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نَفسه"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نَفسه"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "وداؤد"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في برّيّة"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "زيف"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "في حورشة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:28:49.642015650Z",
+  "model": "glm-5.2"
+}

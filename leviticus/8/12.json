@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وصبّ من زيت المسحة على رأس أهارون، ومسحه لتقديسه.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "وصبّ"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "من زيت"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "المسحة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأس"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "ومسحه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "أهارون"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "لتقديسه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:10.635147624Z",
+  "model": "glm-5.2"
+}

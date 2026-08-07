@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "لا تُزِحْ غُبُولَ عُلام، و⟨في⟩ شْدِيِ يتوميم لا تأتِ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "تُزِحْ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "غُبُول"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "عُلام"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "و⟨في⟩ شْدِيِ"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "يتوميم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "تأتِ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:14:31.448474374Z",
+  "model": "glm-5.2"
+}

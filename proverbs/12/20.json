@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 12:20",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "غشٌّ في قلبِ مُخطِّطي الشَّرّ، و⟨أمّا⟩ لمُشيرِي شالوم ففرح.",
+  "tokens": [
+    {
+      "surface": "מרמה",
+      "gloss": "غشٌّ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "في قلبِ"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "مُخطِّطي"
+    },
+    {
+      "surface": "רע",
+      "gloss": "الشَّرّ"
+    },
+    {
+      "surface": "וליעצי",
+      "gloss": "و⟨أمّا⟩ لمُشيرِي"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ففرح"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:09.258290262Z",
+  "model": "glm-5.2"
+}

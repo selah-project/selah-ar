@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 13:11",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وقدّمت إليه ليأكل، فأمسكها وقال لها: «تعالي اضطجعي معي يا أختي».",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "وقدّمت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ليأكل"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "فأمسك"
+    },
+    {
+      "surface": "בה",
+      "gloss": "بها"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "בואי",
+      "gloss": "تعالي"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "اضطجعي"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "معي"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "يا أختي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:35:10.922952880Z",
+  "model": "glm-5.2"
+}

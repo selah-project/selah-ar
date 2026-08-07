@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 9:15",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "لِتُنادي عابري الطريق، الذين يُقوّمون سُبُلهم،",
+  "tokens": [
+    {
+      "surface": "לקרא",
+      "gloss": "لتنادي"
+    },
+    {
+      "surface": "לעברי",
+      "gloss": "عابري"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "الطريق"
+    },
+    {
+      "surface": "המישרים",
+      "gloss": "الذين يقوّمون"
+    },
+    {
+      "surface": "ארחותם",
+      "gloss": "سبلهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:23:14.087852588Z",
+  "model": "glm-5.2"
+}

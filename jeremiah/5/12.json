@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 5:12",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "كذَّبوا يهوه وقالوا «ليس هو، ولا تأتي علينا رَاعة، وسيفٌ وجوعٌ لا نرى».",
+  "tokens": [
+    {
+      "surface": "כחשו",
+      "gloss": "كذَّبوا"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقالوا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "تأتي"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "علينا"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "رَاعة"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "وسيف"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "وجوع"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "نرى"
+    }
+  ],
+  "timestamp": "2026-08-07T02:30:34.000801305Z",
+  "model": "glm-5.2"
+}

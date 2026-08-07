@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "و⟨את⟩ هَنَگِيف، و⟨את⟩ هَكِيكار، بِقْعَت يْريحو، مَدينَة هَتَمريم، إِلى صُوعَر.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "هَنَگِيف"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "هَنَگِيف"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "هَكِيكار"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "هَكِيكار"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "بِقْعَت"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "يْريحو"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مَدينَة"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "هَتَمريم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إِلى"
+    },
+    {
+      "surface": "צער",
+      "gloss": "صُوعَر"
+    }
+  ],
+  "timestamp": "2026-08-07T01:02:34.483498940Z",
+  "model": "glm-5.2"
+}

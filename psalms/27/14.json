@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "انتظِرْ إلى يهوه: تشدّدْ، و⟨ليتشجّعْ⟩ قلبُك، وانتظِرْ إلى يهوه.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "انتظِرْ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "تشدّدْ"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "و⟨ليتشجّعْ⟩"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "قلبُك"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "وانتظِرْ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T06:04:13.340519105Z",
+  "model": "glm-5.2"
+}

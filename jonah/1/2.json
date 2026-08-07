@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "«قُم، اذهب إلى نينوى المدينة الكبيرة، ونادِ عليها، لأنّ شرّهم قد صعد أمامي.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "قُم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اذهب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نينوى"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "الكبيرة"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "ونادِ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "عليها"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "صعد"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "شرّهم"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمامي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:28:38.847714222Z",
+  "model": "glm-5.2"
+}

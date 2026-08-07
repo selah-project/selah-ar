@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "أيضًا أنا بكرًا أجعله، عِليونًا لملوك أرض.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "بكرًا"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "أجعله"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عِليونًا"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "لملوك"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:05.778875319Z",
+  "model": "glm-5.2"
+}

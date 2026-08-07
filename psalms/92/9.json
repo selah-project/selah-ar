@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 92,
+  "translation": "وأمّا أنت فعالٍ إلى الأبد، ياهوه",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "وأمّا أنت"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "فعالٍ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:42.951980659Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "ولروَحِ حُكمٍ للجالس على الحُكم، وللبأس رادّي الحرب إلى البوّابة",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "ولروَح"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حُكم"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "للجالس"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "الحُكم"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "وللبأس"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "رادّي"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "الحرب"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "إلى البوّابة"
+    }
+  ],
+  "timestamp": "2026-08-07T02:12:13.326531221Z",
+  "model": "glm-5.2"
+}

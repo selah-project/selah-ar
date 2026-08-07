@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 11:10",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "لأنّ الأرض التي أنت داخل إليها لتمتلكها ليست كأرض مصرايم التي خرجتم منها، حيث تزرع ⟨את⟩ زرعك وتَسقيه برجلك كبستان البقول.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "בא",
+      "gloss": "داخل"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "إليها"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "لتمتلكها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليست"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "كأرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "خرجتم"
+    },
+    {
+      "surface": "משם",
+      "gloss": "منها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "حيث"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "تزرع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زرعك"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "زرعك"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "وتَسقيه"
+    },
+    {
+      "surface": "ברגלך",
+      "gloss": "برجلك"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "كبستان"
+    },
+    {
+      "surface": "הירק",
+      "gloss": "البقول"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:27.542301813Z",
+  "model": "glm-5.2"
+}

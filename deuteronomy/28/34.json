@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "«وَتَكُونُ مَسْلُوبَ العَقْلِ مِنْ مَنْظَرِ عَيْنَيْكَ ٱلَّذِي تَرَاهُ».",
+  "tokens": [
+    {
+      "surface": "וְהָיִ֖יתָ",
+      "gloss": "وَتَكُونُ",
+      "grammar": "Vb Qal Pf 2ms + waw (consecutive\/coord.)",
+      "lemma": "הָיָה",
+      "strong": "H1961",
+      "morph": "HCqwA2ms"
+    },
+    {
+      "surface": "מְשֻׁגָּ֑ע",
+      "gloss": "مَسْلُوبَ العَقْلِ",
+      "grammar": "Adj Pual Ptsg masc sg (passive participle used predicatively)",
+      "lemma": "שָׁגַע",
+      "strong": "H7696",
+      "morph": "HAamsa"
+    },
+    {
+      "surface": "מִמַּרְאֵ֥ה",
+      "gloss": "مِنْ مَنْظَرِ",
+      "grammar": "Prep מִן + Noun masc sg cstr",
+      "lemma": "מַרְאֶה",
+      "strong": "H4758",
+      "morph": "HR\/Ncmsc"
+    },
+    {
+      "surface": "עֵינֶ֖יךָ",
+      "gloss": "عَيْنَيْكَ",
+      "grammar": "Noun common dual + 2ms pronominal suffix",
+      "lemma": "עַיִן",
+      "strong": "H5869",
+      "morph": "HNcmdc\/S-Pp2ms"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "ٱلَّذِي",
+      "grammar": "Relative pronoun",
+      "lemma": "אֲשֶׁר",
+      "strong": "H0834",
+      "morph": "HTr"
+    },
+    {
+      "surface": "תִּרְאֶֽה",
+      "gloss": "تَرَاهُ",
+      "grammar": "Vb Qal Impf 2ms",
+      "lemma": "רָאָה",
+      "strong": "H7200",
+      "morph": "HVqi2ms"
+    }
+  ],
+  "timestamp": "2026-08-07T07:18:55.547303962Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وقرأ صفنيا الكاهن ⟨את⟩ الكتاب هذا في أذني يرمياو النافي (الناطق)،",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "وقرأ"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "صفنيا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكاهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الكتاب"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "الكتاب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "في أذني"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرمياو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "النافي (الناطق)"
+    }
+  ],
+  "timestamp": "2026-08-07T02:41:49.002694405Z",
+  "model": "glm-5.2"
+}

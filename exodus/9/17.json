@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 9:17",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "ما زلتَ تَستعلي على شعبي، لِئلّا تُطلِقَهم.",
+  "tokens": [
+    {
+      "surface": "עודך",
+      "gloss": "ما زلتَ"
+    },
+    {
+      "surface": "מסתולל",
+      "gloss": "تَستعلي"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "على شعبي"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "لِئلّا"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "تُطلِقَهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:53.932387829Z",
+  "model": "glm-5.2"
+}

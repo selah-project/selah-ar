@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "ومصرايم بطلٌ وفراغٌ يعينون، لذلك دعوتُ لهذه: رَهَبُ هم ⟨في⟩ الجلوس.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "ومصرايم"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "بطل"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "وفراغ"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "يعينون"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "دعوتُ"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "لهذه"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "رَهَب"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "الجلوس"
+    }
+  ],
+  "timestamp": "2026-08-07T02:14:03.362935071Z",
+  "model": "glm-5.2"
+}

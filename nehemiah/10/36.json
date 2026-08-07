@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 10:36",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "ولإحضار ⟨את⟩ بواكير أرضنا وبواكير كل ثمر كل شجرة، سنة بسنة، إلى بيت يهوه.",
+  "tokens": [
+    {
+      "surface": "ולהביא",
+      "gloss": "ولإحضار"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بواكير أرضنا"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "بواكير"
+    },
+    {
+      "surface": "אדמתנו",
+      "gloss": "أرضنا"
+    },
+    {
+      "surface": "ובכורי",
+      "gloss": "وبواكير"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ثمر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "شجرة"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "بسنة"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "إلى بيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:08:05.258306506Z",
+  "model": "glm-5.2"
+}

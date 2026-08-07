@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "إذا جاع مبغضك فأطعمه خبزًا، وإذا عطش فاسقه ماءً.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "جاع"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "مبغضك"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "فأطعمه"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "عطش"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "فاسقه"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماءً"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:59.518566319Z",
+  "model": "glm-5.2"
+}

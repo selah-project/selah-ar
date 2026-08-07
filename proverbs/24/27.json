@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 24:27",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "هَيِّئ عملَك في الخارج، و⟨جهِّز⟩ه لك في الحقل، وبعدها تبني بيتَك.",
+  "tokens": [
+    {
+      "surface": "הכן",
+      "gloss": "هيّئ"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "في الخارج"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "عملك"
+    },
+    {
+      "surface": "ועתדה",
+      "gloss": "و⟨جهِّز⟩"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "في الحقل"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بعدها"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "تبني"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "بيتك"
+    }
+  ],
+  "timestamp": "2026-08-07T06:08:57.781374949Z",
+  "model": "glm-5.2"
+}

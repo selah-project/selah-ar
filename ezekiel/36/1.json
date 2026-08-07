@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 36:1",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "وأنت يا ابن آدم تنبّأ لجبال يسرائيل وتقول: جبال يسرائيل، اسمعوا كلمة يهوه.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "وأنت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "يا ابن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "تنبّأ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "جبال"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "وتقول"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "جبال"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "اسمعوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:10:20.664174336Z",
+  "model": "glm-5.2"
+}

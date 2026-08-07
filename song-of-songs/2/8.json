@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "صوتُ حبيبي، هوذا هذا آتٍ يُطَوْقِدُ على الجبال يَقْفِزُ على التلال",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "صوتُ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "حبيبي"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آتٍ"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "يُطَوْقِدُ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "الجبال"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "يَقْفِزُ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "التلال"
+    }
+  ],
+  "timestamp": "2026-08-07T04:45:25.082889302Z",
+  "model": "glm-5.2"
+}

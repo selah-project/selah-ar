@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 37:4",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "وقال لي: تنبّأ على هذه العظام، وقل لها: أيتُها العظام اليابسة، اسمعوا كلمةَ يهوه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "تنبّأ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "העצמות",
+      "gloss": "هذه العظام"
+    },
+    {
+      "surface": "האלה",
+      "gloss": ""
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "وقل"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "لها"
+    },
+    {
+      "surface": "העצמות",
+      "gloss": "أيتُها العظام"
+    },
+    {
+      "surface": "היבשות",
+      "gloss": "اليابسة"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "اسمعوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمةَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:11:16.842405730Z",
+  "model": "glm-5.2"
+}

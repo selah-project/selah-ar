@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "فأوهَن يهوشُع ⟨את⟩ عماليك و⟨את⟩ شعبه بفم السيف.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "فأوهَن"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشُع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عماليك"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عماليك"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "شعبه"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبه"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "بفم"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "السيف"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:06.742838489Z",
+  "model": "glm-5.2"
+}

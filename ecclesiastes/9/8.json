@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "في كلِّ وقتٍ لِتكن ثيابُك بيضاء، وزيتٌ على رأسك لا يَنقُط.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "في كلِّ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقتٍ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "لِتكن"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "ثيابُك"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "بيضاء"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "وزيتٌ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "رأسك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "يَنقُط"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:51.299947957Z",
+  "model": "glm-5.2"
+}

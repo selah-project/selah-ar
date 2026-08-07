@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "صُرَّ الشهادةَ، اختمِ التوراةَ بين مُتعلِّميَّ.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "صُرَّ"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "الشهادةَ"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "اختمِ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "التوراةَ"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "بين مُتعلِّميَّ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:04:49.377856420Z",
+  "model": "glm-5.2"
+}

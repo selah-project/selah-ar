@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 60,
+  "translation": "لإمام ⟨الجوقة⟩ على «شوشان عِدوت» مِكتام لِداوِد لِلتعليم",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لإمام"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "«شوشان"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "عِدوت»"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "مِكتام"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِداوِد"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "لِلتعليم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:24.024001953Z",
+  "model": "glm-5.2"
+}

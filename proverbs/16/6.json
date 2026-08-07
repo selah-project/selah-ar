@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 16:6",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "بحِسِدٍ وإِمِتٍ يُكَفَّرُ إثمٌ، وبخوف يهوه يَنصرف ⟨المرءُ⟩ عن شرٍّ.",
+  "tokens": [
+    {
+      "surface": "בחסד",
+      "gloss": "بحِسِدٍ"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "وإِمِتٍ"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "يُكَفَّرُ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "إثمٌ"
+    },
+    {
+      "surface": "וביראת",
+      "gloss": "وبخوف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "סור",
+      "gloss": "ينصرف"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "عن شرٍّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:48.305960499Z",
+  "model": "glm-5.2"
+}

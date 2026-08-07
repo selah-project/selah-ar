@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وقتٌ للولادة، ووقتٌ للموت؛ وقتٌ للغرس، ووقتٌ لاقتلاعِ المغروس.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "للولادة"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ووقت"
+    },
+    {
+      "surface": "למות",
+      "gloss": "للموت"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "للغرس"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ووقت"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "لاقتلاع"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "المغروس"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:20.702142277Z",
+  "model": "glm-5.2"
+}

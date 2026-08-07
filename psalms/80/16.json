@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 80,
+  "translation": "والساقُ التي غرستها يمينُك، وعلى الابن الذي اخترتَه لك.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "والساقُ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "غرستها"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "يمينُك"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "בן",
+      "gloss": "الابن"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "اخترتَه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:01:37.299217377Z",
+  "model": "glm-5.2"
+}

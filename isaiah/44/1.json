@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "والآن اسمعْ يا يعقوف عبدي وإسرايل ⟨الذي⟩ اخترتُه،",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "اسمعْ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يا يعقوف"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عبدي"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "وإسرايل"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "اخترتُ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:19:32.782022068Z",
+  "model": "glm-5.2"
+}

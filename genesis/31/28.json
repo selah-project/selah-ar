@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 31:28",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "ولم تدعني أُقبّل بنيّ وبناتي؟ الآن حمُقتَ فِعْلَك.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "נטשתני",
+      "gloss": "دع"
+    },
+    {
+      "surface": "לנשק",
+      "gloss": "أُقبّل"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بنيّ"
+    },
+    {
+      "surface": "ולבנתי",
+      "gloss": "وبناتي"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "הסכלת",
+      "gloss": "حمُقتَ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "فِعْلَك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:05.079469454Z",
+  "model": "glm-5.2"
+}

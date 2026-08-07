@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وتضع العمامة على رأسه، وتجعل ⟨את⟩ إكليل القداسة على العمامة.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "وتضع"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "العمامة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "رأسه"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "وتجعل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "إكليل القداسة"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "إكليل"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "القداسة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "العمامة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:05.079788326Z",
+  "model": "glm-5.2"
+}

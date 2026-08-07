@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 109,
+  "translation": "لأنّه يقف عن يمين البائس، لينقذه من قضات نَفْسه",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "يقف"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "عن يمين"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "البائس"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "لينقذه"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "من قضات"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نَفْسه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:22.625177925Z",
+  "model": "glm-5.2"
+}

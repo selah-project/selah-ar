@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "وَصِرْتُ كَرَجُلٍ لا يَسْمَع، وَليسَ في فِيهِ تَوْبيخات",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "وَصِرْتُ"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "كَرَجُلٍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨الذي⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "يَسْمَع"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "وَليسَ"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "في فِيهِ"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "تَوْبيخات"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:30.258712882Z",
+  "model": "glm-5.2"
+}

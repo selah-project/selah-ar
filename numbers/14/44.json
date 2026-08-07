@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 14:44",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وعاندوا الصعود إلى رأس الجبل، و⟨أمّا⟩ تابوت بريت يهوه وموشيه فلم يبرحا من وسط المحلّة.",
+  "tokens": [
+    {
+      "surface": "ויעפלו",
+      "gloss": "وعاندوا"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "الصعود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأس"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "الجبل"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "وتابوت"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "وموشيه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "משו",
+      "gloss": "يبرحا"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "من وسط"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "المحلّة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:35:51.919531421Z",
+  "model": "glm-5.2"
+}

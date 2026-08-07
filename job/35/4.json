@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "أنا أردّ إليك كلامًا و⟨את⟩ أصحابك معك.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "أردّ إليك"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "كلامًا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "أصحابك"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "أصحابك"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:42:25.841252875Z",
+  "model": "glm-5.2"
+}

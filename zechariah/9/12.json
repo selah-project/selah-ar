@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 9:12",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "ارجعنَّ إلى الحصن، يا أسيرات الرجاء؛ أيضًا اليوم أُعلن أنّي أردّ لَكِ ضِعفًا.",
+  "tokens": [
+    {
+      "surface": "שובו",
+      "gloss": "ارجعنَّ"
+    },
+    {
+      "surface": "לבצרון",
+      "gloss": "إلى الحصن"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "يا أسيرات"
+    },
+    {
+      "surface": "התקוה",
+      "gloss": "الرجاء"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "أُعلن"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ضِعفًا"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "أنّي أردّ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لَكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:37:10.280010786Z",
+  "model": "glm-5.2"
+}

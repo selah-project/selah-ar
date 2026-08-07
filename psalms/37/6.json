@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "فيُخرج كالنّور صِدِقك، وقضاؤك كالظّهيرة",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "فيُخرج"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "كالنّور"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "صِدِقك"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "وقضاؤك"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "كالظّهيرة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:40.837421807Z",
+  "model": "glm-5.2"
+}

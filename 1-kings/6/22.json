@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 6:22",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "و⟨את⟩ كلّ البيت غطّى ذهبًا، حتّى تمام كلّ البيت؛ وكلّ المذبح الذي للديفير غطّاه ذهبًا.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ البيت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "غطّى"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهبًا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتّى"
+    },
+    {
+      "surface": "תם",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "للديفير"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "غطّى"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهبًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:43:42.917225520Z",
+  "model": "glm-5.2"
+}

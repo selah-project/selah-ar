@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 102,
+  "translation": "وأمّا أنت يا يهوه، فللأبد تجلس، وذكرُكَ لجيلٍ فجيل.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "وأمّا أنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "للأبد"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "تجلس"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "وذكرُكَ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "لجيل"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "فجيل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:55.625100976Z",
+  "model": "glm-5.2"
+}

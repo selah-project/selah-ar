@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "اسمعي أيتها السماوات وأصغي أيتها الأرض لأن يهوه تكلّم: بنين ربّيت ورفعتُ و⟨هم⟩ عصوا فيّ",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "اسمعي"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "وأصغي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بنين"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "ربّيت"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "ورفعتُ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "و⟨هم⟩"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "عصوا"
+    },
+    {
+      "surface": "בי",
+      "gloss": "فيّ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:04:19.268412414Z",
+  "model": "glm-5.2"
+}

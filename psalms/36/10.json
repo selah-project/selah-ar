@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "لأنَّ معكَ مَنْبَعَ حياةٍ، بنورِكَ نُشاهِدُ نورًا",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معكَ"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "مَنْبَع"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حياة"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "بنورِكَ"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "نُشاهِدُ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "نورًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:25.430840559Z",
+  "model": "glm-5.2"
+}

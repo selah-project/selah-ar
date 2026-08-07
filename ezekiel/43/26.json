@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 43:26",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 43,
+  "translation": "سبعةَ أيامٍ يكفّرون ⟨عن⟩ المذبح، فيطهّرونه، ويملؤون يده.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "سبعةَ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيامٍ"
+    },
+    {
+      "surface": "יכפרו",
+      "gloss": "يكفّرون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المذبح"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "فيطهّرون"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "إياه"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ويملؤون"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    }
+  ],
+  "timestamp": "2026-08-07T03:17:18.420359373Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وأخذ دواف أيضًا نساءً في يروشالايم، ووُلد ⟨لـ⟩دواف أيضًا بنون وبنات.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "دواف"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "نساءً"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "في يروشالايم"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ووُلد"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "دواف"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بنون"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "وبنات"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:34.431247340Z",
+  "model": "glm-5.2"
+}

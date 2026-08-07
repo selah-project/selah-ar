@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 45:21",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "في الأوّل، في أربعة عشر يومًا للشهر، يكون لكم الفصح، عيدُ أسابيع أيام، مَصّات تُؤكَل.",
+  "tokens": [
+    {
+      "surface": "בראשון",
+      "gloss": "في الأوّل"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "في أربعة"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يومًا"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "للشهر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "الفصح"
+    },
+    {
+      "surface": "חג",
+      "gloss": "عيد"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "أسابيع"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "مَصّات"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "تُؤكَل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:18:20.914956280Z",
+  "model": "glm-5.2"
+}

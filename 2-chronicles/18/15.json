@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 18:15",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فقال له الملك: «إلى كم مرّة أنا أُستحلِفُك أن لا تكلّمني إلا إمِتًا باسم يهوه!»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "كم"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "مرّة"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "משביעך",
+      "gloss": "أُستحلِفُك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "أن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "تكلّمني"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إلَيّ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "إلا"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "إمِتًا"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "باسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:26:59.234937509Z",
+  "model": "glm-5.2"
+}

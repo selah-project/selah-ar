@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "ويُسلِم ⟨את⟩ يسرايل بسبب خطايا يربعام الذي أخطأ والذي أخطأ ⟨את⟩ يسرايل.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ويُسلِم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرايل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "بسبب"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "خطايا"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "يربعام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "أخطأ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "والذي"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "أخطأ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرايل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:49:11.883253246Z",
+  "model": "glm-5.2"
+}

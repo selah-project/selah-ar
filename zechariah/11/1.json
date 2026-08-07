@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "افتحي يا لڤانون أبوابكِ، فلتأكل نارًا ⟨في⟩ أرزاتكِ.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "افتحي"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "يا لڤانون"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "أبوابكِ"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "فلتأكل"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نارًا"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "⟨في⟩ أرزاتكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:37:51.189313897Z",
+  "model": "glm-5.2"
+}

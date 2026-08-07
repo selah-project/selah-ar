@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 14:6",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "فحلّت عليه روَح يهوه، فشقّه كما يُشَقّ الجِدي، وليس في يده شيءٌ، ولم يُخبر أباه ولا أمّه ⟨את⟩ ما فعله.",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "فحلّت"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روَح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וישסעהו",
+      "gloss": "فشقّه"
+    },
+    {
+      "surface": "כשסע",
+      "gloss": "كما يُشَقّ"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "الجِدي"
+    },
+    {
+      "surface": "ומאומה",
+      "gloss": "شيء"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "في يده"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "يُخبر"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "أباه"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ولا أمّه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ما فعله"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعله"
+    }
+  ],
+  "timestamp": "2026-08-07T01:19:47.855623136Z",
+  "model": "glm-5.2"
+}

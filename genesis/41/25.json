@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "وقال يوسِف لِفِرعون: حُلمُ فِرعون واحدٌ هو. ⟨את⟩ الذي يصنعه إلوهيم أخبره لِفِرعون.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسِف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لِـ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فِرعون"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "حُلمُ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فِرعون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدٌ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الذي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "يصنعه"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "أخبره"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "لِفِرعون"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:07.358436222Z",
+  "model": "glm-5.2"
+}

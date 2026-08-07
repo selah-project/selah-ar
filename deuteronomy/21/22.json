@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وإذا كان في رجل ذنب حقّه الموت فقُتل، وعلَّقته ⟨את⟩ على خشبة،",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "في رجل"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ذنب"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حقّه"
+    },
+    {
+      "surface": "מות",
+      "gloss": "الموت"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "فقُتل"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "وعلَّقته"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "على خشبة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "خشبة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:25.370658001Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 5:8",
+  "book": "micah",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "ترتفع يدُك على خصومك، وكلُّ أعدائك يُستأصلون.",
+  "tokens": [
+    {
+      "surface": "תרם",
+      "gloss": "ترتفع"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدُك"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "خصومك"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلُّ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "أعدائك"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "يُستأصلون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:29:49.632672791Z",
+  "model": "glm-5.2"
+}

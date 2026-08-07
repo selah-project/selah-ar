@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 8:19",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "ولم يُرِدْ يهوه أن يُهلِكَ ⟨את⟩ يهودا، من أجل داود عبده، كما قال له، أن يُعطيَه نيراً لبنيه كلّ الأيام.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "يُرِدْ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "أن يُهلِكَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهودا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "למען",
+      "gloss": "من أجل"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "عبده"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "أن يُعطيَه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "نيراً"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "لبنيه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "الأيام"
+    }
+  ],
+  "timestamp": "2026-08-07T01:55:44.201843936Z",
+  "model": "glm-5.2"
+}

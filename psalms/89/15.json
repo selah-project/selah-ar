@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "صِدِق ومشبّات ⟨هما⟩ أساسُ كرسيّك؛ حِسِد وإمِت يتقدّمان وجهك",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "صِدِق"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ومشبّات"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "أساس"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "كرسيّك"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حِسِد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "وإمِت"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "يتقدّمان"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:06.752854960Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 106,
+  "translation": "وغطّت المياه مُضايقيهم، واحد منهم لم يُتبقَّ.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "وغطّت"
+    },
+    {
+      "surface": "מים",
+      "gloss": "المياه"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "مُضايقيهم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "منهم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "يُتبقَّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:14.680284365Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "ليس كذلك عبدي موشيه في كل بيتي هو الأمين",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "كذلك"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عبدي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كل"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "بيتي"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "الأمين"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T00:35:09.427017364Z",
+  "model": "glm-5.2"
+}

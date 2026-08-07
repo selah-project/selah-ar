@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وتُدخل ⟨את⟩ العصيّ في الحلقات على جوانب التابوت لحمل ⟨את⟩ التابوت بها.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "وتُدخل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "العصيّ"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "العصيّ"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "في الحلقات"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "جوانب"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "التابوت"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "لحمل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "التّابوت"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "التابوت"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "بها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:21.088046303Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 39:30",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "وفراخه يَعْلَعون دمًا، وحيثما ⟨كان⟩ القتلى فهو هناك.",
+  "tokens": [
+    {
+      "surface": "ואפרחו",
+      "gloss": "وفراخه"
+    },
+    {
+      "surface": "יעלעו",
+      "gloss": "يعلعون"
+    },
+    {
+      "surface": "דם",
+      "gloss": "دمًا"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "وحيثما"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "القتلى"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T08:18:22.663034378Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "لا تكونوا كفرس كالحمار لا فهمَ له:\nبلجامٍ ولجامٍ زينتُهُ لكبحهِ،\nغيرَ قريبٍ منك.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "تكونوا"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "كفرس"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "كالحمار"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "فهمَ"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "بلجامٍ"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "ولجامٍ"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "زينتُهُ"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "لكبحهِ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "غيرَ"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "قريبٍ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "منك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:14.684531584Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 4:4",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وهافِل قدّم هو أيضًا من أبكار ضأنه ومن شحمها. فنظر يهوه إلى هافِل وإلى تقدمته.",
+  "tokens": [
+    {
+      "surface": "והבל",
+      "gloss": "وهافِل"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "قدّم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "מבכרות",
+      "gloss": "من أبكار"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "ضأنه"
+    },
+    {
+      "surface": "ומחלבהן",
+      "gloss": "ومن شحمها"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "فنظر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هافِل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "تقدمته"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:41.669211249Z",
+  "model": "glm-5.2"
+}

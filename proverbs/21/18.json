@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 21:18",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "كفّارةً ⟨للصدّيق⟩ يكونُ الشرّير، وبدلَ المستقيمين الغادر.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "كفّارة"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "للصدّيق"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "الشرّير"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "وبدل"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "المستقيمين"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "الغادر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:56.299405208Z",
+  "model": "glm-5.2"
+}

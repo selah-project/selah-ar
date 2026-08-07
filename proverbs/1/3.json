@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 1:3",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "لِتَلَقِّي موصرِ هَسكِلٍ: صِدِقًا ومشپاطًا وميشاريم",
+  "tokens": [
+    {
+      "surface": "לקחת",
+      "gloss": "لِتَلَقِّي"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "موصرِ"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "هَسكِلٍ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "صِدِقًا"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ومشپاطًا"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "وميشاريم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:19:45.463703542Z",
+  "model": "glm-5.2"
+}

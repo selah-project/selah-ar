@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "حَمْلُ كلمةِ يهوه إلى يسرايل بيدِ ملاخي.",
+  "tokens": [
+    {
+      "surface": "מַשָּׂ֥א",
+      "gloss": "حِمل"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "كلمةِ"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "בְּיַ֖ד",
+      "gloss": "بيدِ"
+    },
+    {
+      "surface": "מַלְאָכִֽי",
+      "gloss": "ملاخي"
+    }
+  ],
+  "timestamp": "2026-08-07T06:01:52.801163075Z",
+  "model": "glm-5.2"
+}

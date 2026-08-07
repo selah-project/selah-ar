@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وكفّر عن ⟨את⟩ مقدّس القدس، وعن ⟨את⟩ خيمة موعد، وعن ⟨את⟩ المذبح يكفّر؛ وعن الكهنة وعن كلّ شعب القهالة يكفّر.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "وكفّر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مقدّس القدس"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "مقدّس"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "القدس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "وعن ⟨את⟩"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "موعد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "وعن ⟨את⟩"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "يكفّر"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكهنة"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "القهالة"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "يكفّر"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:07.605872813Z",
+  "model": "glm-5.2"
+}

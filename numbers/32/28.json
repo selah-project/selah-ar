@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 32:28",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "فأوصى موشيه بشأنهم ⟨את⟩ ألعازار الكوهين و⟨את⟩ يهوشوع بن نون و⟨את⟩ رؤوس آباء أسباط بني يسرائيل.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "فأوصى"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بشأنهم"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ألعازار"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ألعازار"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "يهوشوع"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشوع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "رؤوس"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "رؤوس"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "آباء"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "أسباط"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:24.537842737Z",
+  "model": "glm-5.2"
+}

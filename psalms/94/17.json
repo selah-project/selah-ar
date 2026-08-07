@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 94,
+  "translation": "لولا يهوه ⟨كان⟩ عَوْنًا لي، لَكادَت نَفسي تسكنُ السكوتَ.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "لولا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "عَوْن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "لكادت"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "تسكن"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "السكوت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نفسي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:47.149048814Z",
+  "model": "glm-5.2"
+}

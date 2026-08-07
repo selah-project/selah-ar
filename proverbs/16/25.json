@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "يوجد طريقٌ مستقيمٌ أمام الإنسان، وعاقبتهُ طرقُ موت.",
+  "tokens": [
+    {
+      "surface": "יֵשׁ",
+      "gloss": "يوجد"
+    },
+    {
+      "surface": "דֶּרֶךְ",
+      "gloss": "طريق"
+    },
+    {
+      "surface": "יָשָׁר",
+      "gloss": "مستقيم"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "וְאַחֲרִיתָהּ",
+      "gloss": "وعاقبته"
+    },
+    {
+      "surface": "דַּרְכֵי",
+      "gloss": "طرق"
+    },
+    {
+      "surface": "מָוֶת",
+      "gloss": "موت"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:22.732411583Z",
+  "model": "glm-5.2"
+}

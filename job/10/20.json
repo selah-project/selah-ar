@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "أليست أيّامي قليلة؟ كُفّ ⟨عنّي⟩، وأُبَلِّغُ قليلاً.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "أليست"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "قليلة"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّامي"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "كُفّ"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "⟨ضع⟩"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "عنّي"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "وأُبَلِّغُ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "قليلاً"
+    }
+  ],
+  "timestamp": "2026-08-07T06:09:07.562698229Z",
+  "model": "glm-5.2"
+}

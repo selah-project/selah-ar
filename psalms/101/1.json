@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 101,
+  "translation": "لِداؤد مزمور. حِسِدًا ومشباط أُغنّي، لكَ يا يهوه أُعزِف.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "لِداؤد"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حِسِدًا"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ومشباط"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "أُغنّي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "أُعزِف"
+    }
+  ],
+  "timestamp": "2026-08-07T04:06:05.438483864Z",
+  "model": "glm-5.2"
+}

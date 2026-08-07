@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 41:50",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "وليوسف وُلد ابنان قبل أن تأتي سنة الجوع، اللذان ولدتهما له أَسْنات بنت فُوتي فِرع كاهن أُون.",
+  "tokens": [
+    {
+      "surface": "וליוסף",
+      "gloss": "وليوسف"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "وُلد"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ابنان"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ابنان"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "قبل"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "أن تأتي"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "الجوع"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اللذان"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ولدتهما"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "أَسْنات"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "فُوتي"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "فِرع"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "كاهن"
+    },
+    {
+      "surface": "און",
+      "gloss": "أُون"
+    }
+  ],
+  "timestamp": "2026-08-06T23:52:20.657807612Z",
+  "model": "glm-5.2"
+}

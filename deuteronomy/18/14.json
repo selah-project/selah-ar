@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 18:14",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "لأنّ هؤلاء الأمم الذين أنت ترثهم، ⟨إلى⟩ متَعاملين مع الغمام و⟨إلى⟩ قاسمين يصغون؛ أمّا أنت فلا هكذا أعطاك يهوه إلهيم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "هؤلاء الأمم"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "ترث"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاهم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨إلى⟩"
+    },
+    {
+      "surface": "מעננים",
+      "gloss": "متَعاملين مع الغمام"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و⟨إلى⟩"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "قاسمين"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "يصغون"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "وأمّا أنت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطى"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:05.219592642Z",
+  "model": "glm-5.2"
+}

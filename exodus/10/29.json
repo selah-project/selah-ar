@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 10:29",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وقال موشيه: «هكذا ⟨أنت⟩ قد تكلّمت. لا أعود أرى وجهك بعد.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "تكلّمت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "أعود"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "أرى"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:01:36.033737202Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وعَلِنَ كِبْرُ إسرايل في وجهه، ولم يرجعوا إلى يهوه إلوهيمهم، ولم يطلبوه في كلّ هذا.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "وعَلِنَ"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "كِبْر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرايل"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "في وجهه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "يرجعوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "إلوهيمهم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "يطلبوه"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلّ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:21:33.835105975Z",
+  "model": "glm-5.2"
+}

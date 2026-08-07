@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "isaiah 37:35",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "وأُجُنّ على هذه المدينة لأنجُدِها، من أجل أنا، ومن أجل دافيد عبدي.",
+  "tokens": [
+    {
+      "surface": "וגנותי",
+      "gloss": "وأُجُنّ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "להושיעה",
+      "gloss": "لأنجُدِها"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "من أجل أنا"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ومن أجل"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "دافيد"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عبدي"
+    }
+  ],
+  "timestamp": "2026-08-07T02:16:42.849071967Z",
+  "model": "glm-5.2"
+}

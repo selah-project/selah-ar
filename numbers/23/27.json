@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 23:27",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "فقال بلق لبيلعم: تعالَ الآن، آخذك إلى مكان آخر. ربّما يُستقيم في عيني إلوهيم، فتطعنه لي من هناك.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بلق"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بيلعم"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "تعالَ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "אקחך",
+      "gloss": "آخذك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "مكان"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "آخر"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ربّما"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "يُستقيم"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عيني"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "וקבתו",
+      "gloss": "فتطعنه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "משם",
+      "gloss": "من هناك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:40:04.996631388Z",
+  "model": "glm-5.2"
+}

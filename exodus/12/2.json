@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "«الشهر ⟨هذا⟩ لكم رأسُ الشهور، أولُ ⟨هو⟩ لكم لأشهر السنة.»",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "الشهر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأس"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "الشهور"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "أول"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "لأشهر"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "السنة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:31.457198641Z",
+  "model": "glm-5.2"
+}

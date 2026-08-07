@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 21:30",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "ولم يستطع داود أن يذهب أمامها للسؤال إلوهيم، لأنّه ⟨كان⟩ مرعوبًا من وجه سيف ملاك يهوه.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "يستطع"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "أن يذهب"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمامها"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "للسؤال"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "مرعوبًا"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجه"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "سيف"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ملاك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:17:12.414450170Z",
+  "model": "glm-5.2"
+}

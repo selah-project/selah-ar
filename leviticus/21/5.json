@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "لا يَحْلِقُوا حَلْقًا في رؤوسهم، وطَرَف لحاهم لا يحلقونه، وفي أجسادهم لا يخدشون خدشًا.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "يَحْلِقُوا"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "حَلْقًا"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "في رؤوسهم"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "وطَرَف"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "لحاهم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "يحلقونه"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "وفي أجسادهم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "يخدشون"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "خدشًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:22.707691860Z",
+  "model": "glm-5.2"
+}

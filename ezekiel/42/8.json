@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 42:8",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "لأنّ طول اللِشاكوت التي للدار الخارجية خمسون ذراعًا، وها أمام وجه الهَيكَل مئة ذراع.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "طول"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "اللِشاكوت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "للدار"
+    },
+    {
+      "surface": "החצונה",
+      "gloss": "الخارجية"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "خمسون"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ذراعًا"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وها"
+    },
+    {
+      "surface": "על",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "الهَيكَل"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ذراع"
+    }
+  ],
+  "timestamp": "2026-08-07T03:16:04.198045196Z",
+  "model": "glm-5.2"
+}

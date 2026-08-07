@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "لا تفعلون ككل ما نحن فاعلون هنا اليوم، كلُّ واحدٍ كلَّ المستقيم في عينيه.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "تفعلون"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ككل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "نحن"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "فاعلون"
+    },
+    {
+      "surface": "פה",
+      "gloss": "هنا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كلُّ واحدٍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "المستقيم"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "في عينيه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:22.622672519Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "ومن نصف بني يسرايل الذي نصَفَه موشيه من الرجال الجيوش",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "ومن نصف"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "نصَفَه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "الرجال"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "الجيوش"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:22.988532316Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 7:10",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "ويوفي لمبغضيه إلى وجهه لإهلاكه؛ لا يُماطل لمبغضه — إلى وجهه يوفي له",
+  "tokens": [
+    {
+      "surface": "ומשלם",
+      "gloss": "ويوفي"
+    },
+    {
+      "surface": "לשנאיו",
+      "gloss": "لمبغضيه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "وجهه"
+    },
+    {
+      "surface": "להאבידו",
+      "gloss": "لإهلاكه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יאחר",
+      "gloss": "يُماطل"
+    },
+    {
+      "surface": "לשנאו",
+      "gloss": "لمبغضه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "وجهه"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "يوفي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T00:53:47.532049791Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 5:20",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وأنتِ إن زيغتِ تحت زوجكِ، وإن تنجّستِ وأعطى رجلٌ فيكِ ⟨את⟩ مضاجعته من دون زوجكِ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "وأنتِ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إن"
+    },
+    {
+      "surface": "שטית",
+      "gloss": "زيغتِ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "زوجكِ"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "נטמאת",
+      "gloss": "تنجّستِ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "وأعطى"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلٌ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "فيكِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مضاجعته"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "مضاجعته"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "من دون"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "زوجكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:29:35.156172599Z",
+  "model": "glm-5.2"
+}

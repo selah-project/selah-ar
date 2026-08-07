@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 32:36",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "و⟨את⟩ بَيت نِمراه و⟨את⟩ بَيت هاران، مُدُنًا مُحَصَّنَة وحَظائرَ للضأن.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بيت نمراه"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "נמרה",
+      "gloss": "نِمراه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بيت هاران"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "هاران"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "حصن"
+    },
+    {
+      "surface": "וגדרת",
+      "gloss": "وحظائر"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ضأن"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:23.903979066Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "كل الشعب الباقي من الحِثّيّ والأموري والفرزيّ والحِوّيّ واليَڤوسيّ الذين ليس من يسرايل هم،",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "الباقي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "الحِثّيّ"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "والأموري"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "والفرزيّ"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "والحِوّيّ"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "واليَڤوسيّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "من يسرايل"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:25:30.895028512Z",
+  "model": "glm-5.2"
+}

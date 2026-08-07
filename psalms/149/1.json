@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 149,
+  "translation": "هلّلوا ياه، رنّموا ليهوه ترنيمةً جديدة، ثناؤه في جماعة الحِسِيدين.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "هلّلوا"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "رنّموا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ترنيمة"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "جديدة"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ثناؤه"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "في جماعة"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "الحِسِيدين"
+    }
+  ],
+  "timestamp": "2026-08-07T04:19:21.487610018Z",
+  "model": "glm-5.2"
+}

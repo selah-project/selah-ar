@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 3:16",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "للمرأة قال: تكثيرًا أُكثر وجعك وحملَكِ. بوجع تلدين بنين، وإلى رجلِكِ تكونُ اشتياقُكِ، وهو يسودُ فيكِ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "المرأة"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "تكثيرًا"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "أُكثر"
+    },
+    {
+      "surface": "עצבונך",
+      "gloss": "وجعك"
+    },
+    {
+      "surface": "והרנך",
+      "gloss": "وحملك"
+    },
+    {
+      "surface": "בעצב",
+      "gloss": "بوجع"
+    },
+    {
+      "surface": "תלדי",
+      "gloss": "تلدين"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بنين"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "رجلِك"
+    },
+    {
+      "surface": "תשוקתך",
+      "gloss": "اشتياقك"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "يسود"
+    },
+    {
+      "surface": "בך",
+      "gloss": "فيكِ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:20.594518751Z",
+  "model": "glm-5.2"
+}

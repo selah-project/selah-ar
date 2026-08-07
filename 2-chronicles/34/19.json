@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "و⟨كان⟩ عند سماع الملك ⟨את⟩ كلمات التوراة أنّه مزّق ⟨את⟩ ثيابه.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "عند سماع"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلمات"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلمات"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "التوراة"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "مزّق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ثيابه"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ثيابه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:32:48.270507773Z",
+  "model": "glm-5.2"
+}

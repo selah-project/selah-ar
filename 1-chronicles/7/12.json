@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وشُفّيم وحُفّيم، بنو عِير؛ حُشيم، بنو آخِر.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "وشُفّيم"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "وحُفّيم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "عِير"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "حُشيم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "آخِر"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:53.401789872Z",
+  "model": "glm-5.2"
+}

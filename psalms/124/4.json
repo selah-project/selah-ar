@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 124,
+  "translation": "إذًا المياه غمرتنا، عبر السيل على نَفْسِنا،",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "إذًا"
+    },
+    {
+      "surface": "המים",
+      "gloss": "المياه"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "غمرتنا"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "عبر السيل"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عبر"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "نَفْسِنا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:15:47.075761488Z",
+  "model": "glm-5.2"
+}

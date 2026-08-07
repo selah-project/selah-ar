@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 127,
+  "translation": "هوذا ميراث يهوه بنون، وأجرةٌ ثمرة البطن.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ميراث"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بنون"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "وأجرة"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ثمرة"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "البطن"
+    }
+  ],
+  "timestamp": "2026-08-07T04:15:38.127675184Z",
+  "model": "glm-5.2"
+}

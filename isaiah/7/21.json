@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 7:21",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "و⟨يكون⟩ في اليوم ذاك يُحيي رجلٌ عِجلَةَ بقرٍ واثنينِ من الضأن،",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و⟨يكون⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في اليوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذاك"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "يُحيي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلٌ"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "عِجلَةَ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "بقرٍ"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "واثنينِ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "من الضأن"
+    }
+  ],
+  "timestamp": "2026-08-07T07:36:36.440789204Z",
+  "model": "glm-5.2"
+}

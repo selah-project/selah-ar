@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "فحمي غضبُ يعقوف على راحيل، وقال: أترى مكانَ إلوهيم أنا، أنا الذي منع عنكِ ثَمَر البطن؟",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "فحمي"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غضبُ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "على راحيل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "أترى مكانَ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "منع"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "عنكِ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ثَمَر"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "البطن"
+    }
+  ],
+  "timestamp": "2026-08-06T23:45:19.866058674Z",
+  "model": "glm-5.2"
+}

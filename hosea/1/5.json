@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ويكون في ذلك اليوم أنّي أكسر ⟨את⟩ قوس يسرايل في وادي يزرعئيل.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ويكون"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "أكسر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوس"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "قوس"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "في وادي"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "يزرعئيل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:19:42.583867132Z",
+  "model": "glm-5.2"
+}

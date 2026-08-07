@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 10:11",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وقال يهوه لي: قُمِ ارتحل أمام الشعب، فيدخلوا ويرثوا ⟨את⟩ الأرض التي أقسمتُ لآبائهم أن أُعطيَها لهم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "קום",
+      "gloss": "قُم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ارتحل"
+    },
+    {
+      "surface": "למסע",
+      "gloss": "للارتحال"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "فيدخلوا"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "ويرثوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "أقسمتُ"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "لآبائهم"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "أن أُعطي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:54:52.318528424Z",
+  "model": "glm-5.2"
+}

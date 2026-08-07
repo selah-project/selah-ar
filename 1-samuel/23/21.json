@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 23:21",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "وقال شاؤول: مباركون أنتم ليهوه، لأنّكم ⟨رحمتموني⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "ברוכים",
+      "gloss": "مباركون"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "חמלתם",
+      "gloss": "شفقتُم"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عليّ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:28:39.378023745Z",
+  "model": "glm-5.2"
+}

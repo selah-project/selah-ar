@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وبنى المدينة من حولٍ، من المِلّو وحول المحيط، ويوآب أحيى ⟨את⟩ بقيّة المدينة.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "وبنى"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "من حول"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "المِلّو"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وحوْل"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "المحيط"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "ويوآب"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "أحيى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بقيّة"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "بقيّة"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:14:05.327725606Z",
+  "model": "glm-5.2"
+}

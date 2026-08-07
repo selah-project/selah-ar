@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وضربوا ⟨את⟩ كلّ النَّفْس التي فيها بفم السيف حرّمًا، لم يُترَك كلّ نَسامة، و⟨את⟩ حاصور أحرقه بالنار.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "وضربوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ النَّفْس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "النَّفْس"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "بفم"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "السيف"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "حرّمًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "يُترَك"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "نَسامة"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "حاصور"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "حاصور"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "أحرقه"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بالنار"
+    }
+  ],
+  "timestamp": "2026-08-07T05:44:20.957808456Z",
+  "model": "glm-5.2"
+}

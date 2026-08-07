@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 1:9",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ألم أوصِكَ: تشدّد وتَشجّع! لا ترعَب ولا ترتعب، لأنّ معك يهوه إلوهيمك في كلّ ما تسلكه.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ألم"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "أوصِكَ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "تشدّد"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "وتشجّع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "ترعَب"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ترتعب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "تسلكه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:02:52.786815029Z",
+  "model": "glm-5.2"
+}

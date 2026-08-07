@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 28:6",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "لذلك هكذا قال أدوناي يهوه: من أجل أنّك جعلتَ ⟨את⟩ قلبك كقلب إلوهيم،",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יען",
+      "gloss": "من أجل أنّ"
+    },
+    {
+      "surface": "תתך",
+      "gloss": "جعلتَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قلبك"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "قلبك"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "كقلب"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:06:22.928945389Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "فيأخذُ أبو الناعرةِ وأمّها، ويُخرجانِ ⟨את⟩ بُتوليِ الناعرةِ إلى شيوخِ المدينةِ البابَةِ،",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "فيأخذُ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبو"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "الناعرةِ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "وأمّها"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "ويُخرجانِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بُتولي"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "بُتوليِ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "الناعرةِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "شيوخِ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينةِ"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "البابَةِ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:58:12.518437663Z",
+  "model": "glm-5.2"
+}

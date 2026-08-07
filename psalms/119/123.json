@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "عيناي فَنِيَتا ⟨منتظرتين⟩ خلاصَك، ⟨و⟩لكلمة صِدْقِك.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "عيناي"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "فَنِيَتا"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "خلاصَك"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "⟨و⟩لكلمة"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "صِدْقِك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:57.117293275Z",
+  "model": "glm-5.2"
+}

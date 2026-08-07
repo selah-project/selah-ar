@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "فقال له الملك: «اذهب بِشالوم»، فقام وذهب إلى حَبرونا",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اذهب"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "بِشالوم"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "فقام"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "وذهب"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "إلى حَبرونا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:36:05.030507804Z",
+  "model": "glm-5.2"
+}

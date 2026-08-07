@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وارتحلوا من سكّوت ونزلوا في إيتام، عند طرف البرّية.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "وارتحلوا"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "من سكّوت"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ونزلوا"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "في إيتام"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "عند طرف"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "البرّية"
+    }
+  ],
+  "timestamp": "2026-08-07T00:03:43.723083914Z",
+  "model": "glm-5.2"
+}

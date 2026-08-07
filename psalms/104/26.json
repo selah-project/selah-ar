@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 104:26",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 104,
+  "translation": "هناك سفنٌ تَمشي، لِويَتانَ هذا صُغْتَهُ لِيَلْعَب فيه.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "سفن"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "تمشي"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "لِويَتان"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "יצרת",
+      "gloss": "صُغْتَهُ"
+    },
+    {
+      "surface": "לשחק",
+      "gloss": "ليَلْعَب"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:06:40.869581729Z",
+  "model": "glm-5.2"
+}

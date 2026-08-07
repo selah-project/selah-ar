@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 11:12",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وَأرسل يِفْتاح رسلاً إلى ملك بني عمّون يقول: «ما لي وَلك، لأنّك جئت إليّ لمحاربة في أرضي؟»",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "وَأرسل"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "يِفْتاح"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "رسلاً"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمّون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "يقول"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "وَلك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "באת",
+      "gloss": "جئت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "لمحاربة"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "في أرضي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:16:55.437135489Z",
+  "model": "glm-5.2"
+}

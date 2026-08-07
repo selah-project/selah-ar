@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 9:2",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "ولبيت شاؤول عبدٌ اسمه صيبّا، فدعوه إلى داوود، فقال له الملك: «هل أنت صيبّا؟» فقال: «عبدك».",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "ولبيت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عبدٌ"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "اسمه"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "صيبّا"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "فدعوه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "هل أنت"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "صيبّا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:34:09.181607900Z",
+  "model": "glm-5.2"
+}

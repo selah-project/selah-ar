@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 33:18",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "برجوع صِدّيق عن صِدْقِته وعمله عَوَل، يموت بها",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "برجوع"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صِدّيق"
+    },
+    {
+      "surface": "מצדקתו",
+      "gloss": "عن صِدْقِته"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "وعمله"
+    },
+    {
+      "surface": "עול",
+      "gloss": "عَوَل"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "يموت"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "بها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:08:38.388265457Z",
+  "model": "glm-5.2"
+}

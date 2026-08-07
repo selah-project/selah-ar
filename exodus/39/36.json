@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "⟨את⟩ المائدة، ⟨את⟩ كلّ أوانيها، و⟨את⟩ خبز الوجوه.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المائدة"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "المائدة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ أوانيها"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "أوانيها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "خبز الوجوه"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبز"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "الوجوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:38.023918090Z",
+  "model": "glm-5.2"
+}

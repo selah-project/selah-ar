@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "والآن ها أدونياه مَلَك، والآن يا سيّدي الملك لا تعلم.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "أدونياه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلَك"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سيّدي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "تعلم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:41:35.135455812Z",
+  "model": "glm-5.2"
+}

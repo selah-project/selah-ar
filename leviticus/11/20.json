@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "كلُّ شِرتس الطّيرِ، السالكِ على أربعةٍ، شِكتسٍ هو لكم",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "شِرتس"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "الطّير"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "السالك"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "أربعة"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "شِكتس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:04.754729450Z",
+  "model": "glm-5.2"
+}

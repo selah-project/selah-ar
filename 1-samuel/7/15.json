@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وشَفَت شموئيل ⟨את⟩ يسرايل كلّ أيّام حياته.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "وشَفَت"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرايل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "حياته"
+    }
+  ],
+  "timestamp": "2026-08-07T07:23:36.925036537Z",
+  "model": "glm-5.2"
+}

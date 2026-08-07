@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "الذي حارب به أبي عنكم، و⟨ألقى⟩ ⟨את⟩ نَفسه قدّامًا، فأنقذكم من يد مِديان،",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "حارب"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "عنكم"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "و⟨ألقى⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نَفسه"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نَفسه"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "قدّامًا"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "فأنقذ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "كم"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يد"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مِديان"
+    }
+  ],
+  "timestamp": "2026-08-07T01:16:29.310215508Z",
+  "model": "glm-5.2"
+}

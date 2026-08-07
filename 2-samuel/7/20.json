@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وماذا يزيد داوِد أيضًا ⟨ليتكلَّم⟩ إليك؟ وأنت عرفت ⟨את⟩ عبدك يا أدوناي يهوه.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "وماذا"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "يزيد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "⟨ليتكلَّم⟩"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "وأنت"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "عرفت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عبدك"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدك"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:10.039151569Z",
+  "model": "glm-5.2"
+}

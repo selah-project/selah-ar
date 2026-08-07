@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فكلّمهم: ما صفة الرجل الذي صعد لاستقبالكم وكلّمكم ⟨את⟩ هذه الكلمات؟",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "فكلّم"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "صفة"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "صعد"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "لاستقبالكم"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "وكلّم"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "كم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هذهالكلمات"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "الكلمات"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:52:43.015252287Z",
+  "model": "glm-5.2"
+}

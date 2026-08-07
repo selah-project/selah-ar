@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "هو بنى ⟨את⟩ أيلوت وردَّها ليهودا بعد اضطجاع الملك مع آبائه.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بنى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أيلوت"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "أيلوت"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "وردَّها"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ليهودا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "اضطجاع"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "آبائه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:30:14.242316560Z",
+  "model": "glm-5.2"
+}

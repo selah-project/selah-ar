@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وأحببتَ ⟨את⟩ يهوه إلوهيمك بكلِّ قلبك وبكلِّ نَفسك وبكلِّ مَودَّتك.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "وأحببتَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بكلِّ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "قلبك"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "وبكلِّ"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "نَفسك"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "وبكلِّ"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "مَودَّتك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:13.478724395Z",
+  "model": "glm-5.2"
+}

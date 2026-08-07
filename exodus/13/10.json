@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وتحفظ ⟨את⟩ الفريضة هذه لميعادها، من أيّامٍ أيامًا.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "وتحفظ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الفريضة"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "الفريضة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "لميعادها"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "من أيّامٍ"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "أيامًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:04:21.838075919Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 11:13",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "إن أنت هيّأت قلبك، وبسطت نحوه كفّيك،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "هيّأت"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "قلبك"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "وبسطت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "نحوه"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "كفّيك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:34:22.421983613Z",
+  "model": "glm-5.2"
+}

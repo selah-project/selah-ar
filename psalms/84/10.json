@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 84,
+  "translation": "مجنّنا، انظر يا إلوهيم، وانظر إلى وجه ماشيحك",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "مجنّنا"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "انظر"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "يا إلوهيم"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "وانظر إلى"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "ماشيحك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:27.510534076Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 6:23",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وكل خطيئة التي يُؤتى من دمها إلى خيمة الموعد للتكفير في القدس لا تُؤكَل؛ بالنار تُحرَق.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "خطيئة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "يُؤتى"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "من دمها"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "للتكفير"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "في القدس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "تُؤكَل"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بالنار"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "تُحرَق"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:30.189286070Z",
+  "model": "glm-5.2"
+}

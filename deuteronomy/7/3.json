@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "ولا تُصاهِرْ فيهم: ابنتكَ لا تُعطِ ⟨ل⟩ابنه، وابنته لا تأخُذْ ⟨ل⟩ابنكَ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "تُصاهِرْ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "فيهم"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "ابنتكَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "تُعطِ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "⟨ل⟩ابنه"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "وابنته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "تأخُذْ"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "⟨ل⟩ابنكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T05:42:42.414311048Z",
+  "model": "glm-5.2"
+}

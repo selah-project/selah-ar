@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 12:19",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "شَفَةُ إِمِتْ تَثبتُ إلى الأبد، و⟨أمّا⟩ لسانُ الكذب فإلى طَرفةِ عين.",
+  "tokens": [
+    {
+      "surface": "שפת",
+      "gloss": "شَفَةُ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "إِمِتْ"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "تَثبتُ"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و⟨أمّا⟩"
+    },
+    {
+      "surface": "ארגיעה",
+      "gloss": "فإلى طَرفةِ عين"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "لسانُ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "الكذب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:09.258192190Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 104,
+  "translation": "من زجرك ⟨هي⟩ تفرّ، من صوت رعدك ⟨هي⟩ تُسرع هربًا.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "زجرك"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "تفرّ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "رعدك"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "تُسرع هربًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:06:31.081631874Z",
+  "model": "glm-5.2"
+}

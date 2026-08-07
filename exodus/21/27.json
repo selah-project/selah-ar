@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 21:27",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وإذا أسقط سنّ عبده أو سنّ أمَته، حرًّا يُطلقه مقابل سنّه.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "שן",
+      "gloss": "سنّ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "عبده"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "שן",
+      "gloss": "سنّ"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "أمَته"
+    },
+    {
+      "surface": "יפיל",
+      "gloss": "أسقط"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "حرًّا"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "يُطلقه"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "مقابل"
+    },
+    {
+      "surface": "שנו",
+      "gloss": "سنّه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:02.109784633Z",
+  "model": "glm-5.2"
+}

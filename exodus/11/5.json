@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 11:5",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "ويموت كل بكر في أرض مصرايم، من بكر فرعون الجالس على كرسيّه، حتى بكر الأَمَةِ التي خلف الرحى، وكل بكر بهيمة.",
+  "tokens": [
+    {
+      "surface": "ומת",
+      "gloss": "ويموت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "بكر"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "מבכור",
+      "gloss": "من بكر"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "الجالس"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "كرسيّه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "بكر"
+    },
+    {
+      "surface": "השפחה",
+      "gloss": "الأَمَة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "خلف"
+    },
+    {
+      "surface": "הרחים",
+      "gloss": "الرحى"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "بكر"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "بهيمة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:28.583648954Z",
+  "model": "glm-5.2"
+}

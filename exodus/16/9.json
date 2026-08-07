@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 16:9",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وقال موشهيه لءهرون: قل لكل جماعة بني يسرائيل: تقدّموا أمام يهوه، لأنه سمع ⟨את⟩ تذمّركم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ءهرون"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعة"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "تقدّموا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سمع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تذمّركم"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "تذمّركم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:08.439253676Z",
+  "model": "glm-5.2"
+}

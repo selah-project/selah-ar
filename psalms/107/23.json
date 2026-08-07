@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 107,
+  "translation": "النّازلون البحرَ بسفنٍ، صانعو عملٍ في مياهٍ كثيرة",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "النّازلون"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "بسفن"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "صانعو"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "במים",
+      "gloss": "في مياه"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:31.733270403Z",
+  "model": "glm-5.2"
+}

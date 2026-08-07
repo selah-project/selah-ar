@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "فنهض عبيده وتآمروا مؤامرة وضربوا ⟨את⟩ يوأش في بيت مِلُّو الهابط سِلا",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "فنهض"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "عبيده"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "وتآمروا"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "مؤامرة"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "وضربوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوأش"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "يوأش"
+    },
+    {
+      "surface": "בית",
+      "gloss": "في بيت"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "مِلُّو"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "الهابط"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "سِلا"
+    }
+  ],
+  "timestamp": "2026-08-07T06:37:26.445532288Z",
+  "model": "glm-5.2"
+}

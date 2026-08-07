@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 66,
+  "translation": "لأنّه بنارٍ يهوه يُدين، وبسيفِه ⟨مع⟩ كلِّ بشر، وتكاثر قتلى يهوه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بنارٍ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "يُدين"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "وبسيفِه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلِّ بشر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بشر"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "وتكاثر"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "قتلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:27:10.710849415Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 98,
+  "translation": "عرّف يهوه خلاصَه. أمام عيون الأُمم كشف صِدقَه.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "عرّف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "خلاصَه"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "أمام عيون"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "الأُمم"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "كشف"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "صِدقَه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:41.925580876Z",
+  "model": "glm-5.2"
+}

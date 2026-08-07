@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "لإمام ⟨المنشدين⟩، لبني قورح، تعليمٌ",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لإمام المنشدين"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لبني"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "تعليم"
+    }
+  ],
+  "timestamp": "2026-08-07T06:04:07.361839694Z",
+  "model": "glm-5.2"
+}

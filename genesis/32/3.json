@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 32:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "وقال يعقوف حين رآهم: «مخيَّمةُ إلوهيم هذه!» ودعا اسم ⟨المكان⟩ ذلك مَخَنايم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "حين"
+    },
+    {
+      "surface": "ראם",
+      "gloss": "رآهم"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "مخيَّمة"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨المكان⟩"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "مَخَنايم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:23.181135656Z",
+  "model": "glm-5.2"
+}

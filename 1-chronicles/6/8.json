@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "إلقاناه ابنه، و⟨أبياساف⟩ ابنه، و⟨أسِّير⟩ ابنه.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "إلقاناه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "و⟨أبياساف⟩"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "و⟨أسِّير⟩"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:14.819253329Z",
+  "model": "glm-5.2"
+}

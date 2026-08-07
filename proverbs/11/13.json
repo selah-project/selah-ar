@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "ساعٍ بالنميمة يكشف السود (المشورة المخفيّة)، ومؤمن الروَح يغطّي أمرًا.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ساعٍ"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "بالنميمة"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "يكشف"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "السود"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "ومؤمن"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "الروَح"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "يغطّي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "أمرًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:24:48.177216408Z",
+  "model": "glm-5.2"
+}

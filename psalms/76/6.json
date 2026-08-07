@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 76,
+  "translation": "سُلِبَ أَبيرو القلبِ، غفا نومُهم، ولم يجدوا كلُّ رجالِ الخيلِ أيديهِم.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "سُلِبَ"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "أَبيرو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "القلبِ"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "غفا"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "نومُهم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "وجدوا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "رجالِ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "الخيلِ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "أيديهِم"
+    }
+  ],
+  "timestamp": "2026-08-07T06:05:33.441647639Z",
+  "model": "glm-5.2"
+}

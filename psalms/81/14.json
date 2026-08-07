@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 81,
+  "translation": "ليتَ شعبي سامعًا لي، إسرائيلُ في طُرُقي يسلُكون!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "ليتَ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "شعبي"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سامعًا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيلُ"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "في طُرُقي"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "يسلُكون"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:00.181447413Z",
+  "model": "glm-5.2"
+}

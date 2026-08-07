@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 32:7",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "ولماذا تُثبِّطون ⟨את⟩ قلب بني يسرائيل عن العبور إلى الأرض التي أعطاها لهم يهوه؟",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "ولماذا"
+    },
+    {
+      "surface": "תנואון",
+      "gloss": "تُثبِّطون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قلب"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "عن العبور"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطاها"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:52.426377098Z",
+  "model": "glm-5.2"
+}

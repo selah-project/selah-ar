@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "2-samuel 22:50",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "لذلك أحمدُكَ يا يهوه بين الأمم، ولاسمِكَ أُطَرِّبُ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "أحمدُكَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "بين الأمم"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "ولاسمِكَ"
+    },
+    {
+      "surface": "אזמר",
+      "gloss": "أُطَرِّبُ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:40:37.538864766Z",
+  "model": "glm-5.2"
+}

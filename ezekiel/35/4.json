@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 35:4",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "مدنُك خِرَبًا أجعل، وأنتَ دمارًا ⟨تكون⟩، وعَرَفتَ أنّي أنا يهوه.",
+  "tokens": [
+    {
+      "surface": "עריך",
+      "gloss": "مدنُك"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "خِرَبًا"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "أجعل"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "وأنتَ"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "دمارًا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨تكون⟩"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "وعَرَفتَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T06:00:14.711876786Z",
+  "model": "glm-5.2"
+}

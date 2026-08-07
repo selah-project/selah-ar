@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 20:7",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "إن قال هكذا: «طيب» — شالوم لعبدك. وإن اشتدّ غضبه فاعلم أن الشرّ قد تكمّل من عنده.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيب"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "لعبدك"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "اشتدّ"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "غضبه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨له⟩"
+    },
+    {
+      "surface": "דע",
+      "gloss": "فاعلم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أن"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "قد تكمّل"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "من عنده"
+    }
+  ],
+  "timestamp": "2026-08-07T01:27:52.233868485Z",
+  "model": "glm-5.2"
+}

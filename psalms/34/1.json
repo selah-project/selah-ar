@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "لِداوَد، عند تغييره ⟨את⟩ سلوكه أمام أبيمالِك، فطرده فذهب",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "لِداوَد"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "عند تغييره"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سلوكه"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "سلوكه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "أبيمالِك"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "فطرده"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "فذهب"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:23.131253900Z",
+  "model": "glm-5.2"
+}

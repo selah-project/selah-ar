@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 50:18",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "وذهب أيضًا إخوته وسقطوا أمامه وقالوا: «ها نحن لك عبيد.»",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "وذهب"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "إخوته"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "وسقطوا"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمامه"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقالوا"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "ها نحن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "عبيد"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:24.125659419Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "لا يأخذ رحًى ورُكَيبًا رهنًا، لأنَّها نَفْسٌ هو يرهنها.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "ياخذ رهنًا"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "رحًى"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ورُكَيبًا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "يرهنها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:58:42.149577173Z",
+  "model": "glm-5.2"
+}

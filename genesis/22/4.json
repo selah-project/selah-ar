@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "في اليوم الثالث رفع أفراهام ⟨את⟩ عينيه فأبصر ⟨את⟩ المكان من بعيد.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "في اليوم"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "الثالث"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "رفع"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عينيه"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "عينيه"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "فأبصر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المكان"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "المكان"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "من بعيد"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:17.068550200Z",
+  "model": "glm-5.2"
+}

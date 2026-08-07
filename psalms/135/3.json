@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 135,
+  "translation": "هلّلوا ياه، لأنّ يهوه طيّب، رنّموا لاسمِه، لأنّه نديمٌ",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "هلّلوا"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيّب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "رنّموا"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "لاسمِه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "نديمٌ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:16:23.976156703Z",
+  "model": "glm-5.2"
+}

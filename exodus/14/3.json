@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "فيقول فرعونُ عن بَنِي يِسرائيل: هم حائرون في الأرض، أغلق عليهم البرّيّة.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "فيقول"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "عن بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "حائرون"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "أغلق"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "البرّيّة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:04:05.673904252Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 73,
+  "translation": "وأنا بَهيميٌّ ولا أعرف، كَبَهيمٍ ⟨كُنتُ⟩ معك",
+  "tokens": [
+    {
+      "surface": "וַאֲנִי",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "בַ֭עַר",
+      "gloss": "بَهيميٌّ"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "אֵדָ֑ע",
+      "gloss": "أعرف"
+    },
+    {
+      "surface": "בְּהֵמ֗וֹת",
+      "gloss": "كَبَهيمٍ"
+    },
+    {
+      "surface": "הָיִ֥יתִי",
+      "gloss": "⟨كُنتُ⟩"
+    },
+    {
+      "surface": "עִמָּֽךְ",
+      "gloss": "معك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:15.274208394Z",
+  "model": "glm-5.2"
+}

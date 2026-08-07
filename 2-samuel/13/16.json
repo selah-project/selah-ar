@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 13:16",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فقالت له: لا، بسبب هذا الشرّ العظيم، أن تُبعدني بعد الذي فعلت ⟨معي⟩! فلم يَشَأ أن يسمع لها.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אודת",
+      "gloss": "بسبب"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "العظيم"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "מאחרת",
+      "gloss": "أن تُبعدني"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "الذي فعلت"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "⟨معي⟩"
+    },
+    {
+      "surface": "לשלחני",
+      "gloss": "أن تُبعدني"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "يَشَأ"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "أن يسمع"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:35:31.940160320Z",
+  "model": "glm-5.2"
+}

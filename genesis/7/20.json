@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "خمس عشرة ذراعًا من فوق تغلبّت المياه، فتغطّت الجبال.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "خمس"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرة"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ذراعًا"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "من فوق"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "تغلبّت"
+    },
+    {
+      "surface": "המים",
+      "gloss": "المياه"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "فتغطّت"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "الجبال"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:57.510786254Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 147,
+  "translation": "يُلقي جليدَه كفتاتٍ، أمام برده مَنْ يقف؟",
+  "tokens": [
+    {
+      "surface": "מַשְׁלִ֣יךְ",
+      "gloss": "يُلقي"
+    },
+    {
+      "surface": "קַֽרְח֣וֹ",
+      "gloss": "جليدَه"
+    },
+    {
+      "surface": "כְפִתִּ֑ים",
+      "gloss": "كفتاتٍ"
+    },
+    {
+      "surface": "לִפְנֵ֥י",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "קָ֝רָת֗וֹ",
+      "gloss": "برده"
+    },
+    {
+      "surface": "מִ֣י",
+      "gloss": "مَنْ"
+    },
+    {
+      "surface": "יַעֲמֹֽד",
+      "gloss": "يقف"
+    }
+  ],
+  "timestamp": "2026-08-07T04:19:19.317055433Z",
+  "model": "glm-5.2"
+}

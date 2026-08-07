@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 2:9",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فدخلتُ إلى فحواتِ عبرَ النهر، وأعطيتُهم ⟨את⟩ رسائلَ الملك. والملكُ أرسلَ معي رؤساءَ قوّةٍ وفرسانًا.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "فدخلتُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פחוות",
+      "gloss": "فحوات"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عبرَ"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "النهر"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "وأعطيتُ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رسائل"
+    },
+    {
+      "surface": "אגרות",
+      "gloss": "رسائلَ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "وأرسلَ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "معي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "رؤساءَ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "قوّةٍ"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "وفرسانًا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:04:40.147673197Z",
+  "model": "glm-5.2"
+}

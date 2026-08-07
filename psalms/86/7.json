@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 86,
+  "translation": "في يوم ضيقي أدعوك، لأنّك تُجيبني.",
+  "tokens": [
+    {
+      "surface": "בְּי֣וֹם",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "צָרָתִ֥י",
+      "gloss": "ضيقي"
+    },
+    {
+      "surface": "אֶקְרָאֶ֗ךָּ",
+      "gloss": "أدعوك"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "لأنّك"
+    },
+    {
+      "surface": "תַעֲנֵֽנִי",
+      "gloss": "تُجيبني"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:28.852893539Z",
+  "model": "glm-5.2"
+}

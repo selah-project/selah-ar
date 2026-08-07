@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 64:3",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 64,
+  "translation": "ومنذ القدم لم يسمعوا، لا أصغَوا، عينٌ لم تَرَ إلوهيم غيرَك يعمل لمن ينتظره.",
+  "tokens": [
+    {
+      "surface": "ומעולם",
+      "gloss": "ومنذ القدم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "يسمعوا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "أصغَوا"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "تَرَ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "غيرك"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يعمل"
+    },
+    {
+      "surface": "למחכה",
+      "gloss": "لمنتظِره"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T02:24:19.807463821Z",
+  "model": "glm-5.2"
+}

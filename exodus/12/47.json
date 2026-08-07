@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "كل جماعة إسراائيل تصنع ⟨את⟩ه.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعة"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسراائيل"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "تصنع"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "الفِصح"
+    }
+  ],
+  "timestamp": "2026-08-07T00:05:29.454744267Z",
+  "model": "glm-5.2"
+}

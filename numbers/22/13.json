@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 22:13",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "فقام بلعام في الصباح وقال لِأمراءِ بالاق: امضوا إلى أرضكم، لأنّ يهوه قد أبى أن يَدَعَني أن أمضي معكم.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "فقام"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بلعام"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "في الصباح"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لِـ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "أمراءِ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "امضوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "أرضكم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "أبى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לתתי",
+      "gloss": "أن يَدَعَني"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "أن أمضي"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "معكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:38:49.463223033Z",
+  "model": "glm-5.2"
+}

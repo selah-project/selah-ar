@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "نهايةَ الأمرِ، الكلَّ ⟨قد⟩ سُمِع: ⟨את⟩ إلوهيمَ اتَّقِ، و⟨את⟩ وصاياه احفَظ، لأن هذا كلَّ الإنسانِ.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "نهايةَ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "الأمرِ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "الكلَّ"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "سُمِع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "إلوهيم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيمَ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "اتَّقِ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "وصاياه"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "وصاياه"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "احفَظ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسانِ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:53:07.119788284Z",
+  "model": "glm-5.2"
+}

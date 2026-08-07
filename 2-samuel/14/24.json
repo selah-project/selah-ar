@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 14:24",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وقال الملك: «ليَعُدْ إلى بيته، ووجهي لا يرى». فعاد أفعشالوم إلى بيته، ووجه الملك لم يَرَه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "ليَعُدْ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "بيته"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ووجهي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "يرى"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "فعاد"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "أفعشالوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "بيته"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ووجه"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "يَرَه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:36:39.173401849Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "وقاس ⟨את⟩ رواقِ الباب من جهة البيت قصبةً واحدة.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "وقاس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رواق"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "رواق"
+    },
+    {
+      "surface": "השער",
+      "gloss": "الباب"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "من جهة البيت"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "قصبة"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:15:15.048086563Z",
+  "model": "glm-5.2"
+}

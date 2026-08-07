@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "أليس ⟨لأإينوش⟩ على الأرض صَبَا، وكأيّام أجير أيّامه؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "أليس"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "صَبَا"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "لأإينوش"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "وكأيّام"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "أجير"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "أيّامه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:26.626684486Z",
+  "model": "glm-5.2"
+}

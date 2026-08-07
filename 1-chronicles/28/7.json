@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 28:7",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "وثبّتُّ ⟨את⟩ ملكوته إلى الأبد، إنْ تشدّد لعمل وصاياي وأحكامي كاليوم هذا.",
+  "tokens": [
+    {
+      "surface": "והכינותי",
+      "gloss": "وثبّتُّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ملكوته"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ملكوته"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "الأبد"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "تشدّد"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "لعمل"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "وصاياي"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "وأحكامي"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "كاليوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:19:57.843514692Z",
+  "model": "glm-5.2"
+}

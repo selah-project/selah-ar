@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 4:17",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فحبلت المرأة وولدت ابنًا ⟨في⟩ الميعاد هذا كوقت حيّ الذي تكلّم إليها به إليشع",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "فحبلت"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "المرأة"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "وولدت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنًا"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "للميعاد"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "كوقت"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "حيّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "إليها"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "إليشع"
+    }
+  ],
+  "timestamp": "2026-08-07T01:53:45.799873114Z",
+  "model": "glm-5.2"
+}

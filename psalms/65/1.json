@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 65,
+  "translation": "لِقائدِ ⟨الغناء⟩ مِزْمور لِداوِد، شير.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لِقائدِ ⟨الغناء⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مِزْمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِداوِد"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "شير"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:54.138257893Z",
+  "model": "glm-5.2"
+}

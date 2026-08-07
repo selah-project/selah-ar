@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "يُجيبكَ يهوه في يومِ ضيق، يَرفعكَ اسمُ إلوهيمِ يعقوف.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "يُجيبكَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يومِ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ضيق"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "يَرفعكَ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسمُ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيمِ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:28.741298017Z",
+  "model": "glm-5.2"
+}

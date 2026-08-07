@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 19:6",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "ويأخذُ الكوهينُ خشبَ أرزٍ وأزوبًا وتولَعَتَ شَنِي، ويُلقيها وسطَ حَرقِ البقرة.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ويأخذُ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهينُ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "خشبَ"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "أرزٍ"
+    },
+    {
+      "surface": "ואזוב",
+      "gloss": "وأزوبًا"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "وشَنِي"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "تولَعَتَ"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "ويُلقيها"
+    },
+    {
+      "surface": "אל",
+      "gloss": "في"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "وسطَ"
+    },
+    {
+      "surface": "שרפת",
+      "gloss": "حَرقِ"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "البقرة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:38:03.919201061Z",
+  "model": "glm-5.2"
+}

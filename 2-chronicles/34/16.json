@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 34:16",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "فأدخل شافان ⟨את⟩ السِّفْر إلى الملك، وردّ أيضًا ⟨إلى⟩ ⟨את⟩ الملك كلامًا قائلًا: كلُّ ما وُضع في يد عبيدك هم فاعلون.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "فأدخل"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "شافان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "السِّفْر"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "السِّفْر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "وردّ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الملك"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلامًا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "وُضع"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "في يد"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "عبيدك"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "فاعلون"
+    }
+  ],
+  "timestamp": "2026-08-07T08:30:44.795596765Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "لكي أُمسك ⟨את⟩ بيت يسرايل في قلبهم، الذين اغتربوا عنّي بغلوليهم كلّهم.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "أُمسك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "في قلبهم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "اغتربوا"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "عنّي"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "بغلوليهم"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "كلّهم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:59:27.241745853Z",
+  "model": "glm-5.2"
+}

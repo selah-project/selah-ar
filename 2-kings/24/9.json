@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 24:9",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "وفعل الشرّ في عينيْ يهوه ككلّ ما فعله أبوه.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وفعل"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عينيْ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ككلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعله"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبوه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:02:59.885931409Z",
+  "model": "glm-5.2"
+}

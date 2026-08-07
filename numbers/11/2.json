@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "فصرخ الشعب إلى موشيه، وصلّى موشيه إلى يهوه، فخمدت النار.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "فصرخ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "وصلّى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "فخمدت"
+    },
+    {
+      "surface": "האש",
+      "gloss": "النار"
+    }
+  ],
+  "timestamp": "2026-08-07T00:32:05.898788048Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فقالوا: نُنادي الفتاةَ ونسأل ⟨את⟩ فا⟨ها⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقالوا"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "نُنادي"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "للفتاة"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "ونسأل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ف它们"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "فاها"
+    }
+  ],
+  "timestamp": "2026-08-06T23:42:35.173255118Z",
+  "model": "glm-5.2"
+}

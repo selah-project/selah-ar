@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "لَغِبْتُ من تنهيدتي، أُسبِحُ فراشي كلَّ ليل، بدمعي أُذيبُ سريري.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "لَغِبْتُ"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "من تنهيدتي"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "أُسبِحُ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ليل"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "فراشي"
+    },
+    {
+      "surface": "בדמעتي",
+      "gloss": "بدمعي"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "سريري"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "أُذيبُ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:40:24.390994676Z",
+  "model": "glm-5.2"
+}

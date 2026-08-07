@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "و⟨كان⟩ المطر على الأرض أربعين يوماً وأربعين ليلة.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "المطر"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "أربعين"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوماً"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "وأربعين"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ليلة"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:48.387214033Z",
+  "model": "glm-5.2"
+}

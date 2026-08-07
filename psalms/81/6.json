@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 81,
+  "translation": "شهادةً في يهوسيف جعلها، عند خروجه على أرض مصرايم، لسانًا لا عرفته أسمعه.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "شهادة"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "في يهوسيف"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "جعلها"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "عند خروجه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "لسانًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "عرفته"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "أسمعه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:09.948881159Z",
+  "model": "glm-5.2"
+}

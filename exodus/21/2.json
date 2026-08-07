@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "إِذا اشتريت عبدًا عبريًّا، ستّ سنين يخدم، وفي السابعة يخرج حُرًّا مجّانًا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "إِذا"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "اشتريت"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عبدًا"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "عبريًّا"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ستّ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنين"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "يخدم"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "وفي السابعة"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "يخرج"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "حُرًّا"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "مجّانًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:51.359499817Z",
+  "model": "glm-5.2"
+}

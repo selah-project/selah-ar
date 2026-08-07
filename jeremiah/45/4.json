@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 45:4",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "هكذا تقول ⟨له⟩: هكذا قال يهوه: ها ما بنيتُه أنا هادِمٌ، و⟨את⟩ ما غرستُه أنا أقتلعُه، و⟨את⟩ كلَّ الأرض كلُّها.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "تقول"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨له⟩"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "بنيتُه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "هادِمٌ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "ما غرستُه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "غرستُه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "נתש",
+      "gloss": "أقتلعُه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلَّ الأرض"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "היא",
+      "gloss": "كلُّها"
+    }
+  ],
+  "timestamp": "2026-08-07T02:48:10.028366727Z",
+  "model": "glm-5.2"
+}

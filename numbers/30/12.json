@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 30:12",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وسمع زوجها وأَصمَّ تجاهها، لم يُعرقلها، فقامت كل نذورها وكل قيد الذي ربطته على نفسها يقوم.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "وسمع"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "زوجها"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "وأصمَّ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "تجاهها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "يُعرقلها"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ضرف مباشر لها"
+    },
+    {
+      "surface": "וקמו",
+      "gloss": "فقامت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "نذورها"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "قيد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ربطته"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "نفسها"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "يقوم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:31.218959719Z",
+  "model": "glm-5.2"
+}

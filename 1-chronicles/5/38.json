@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وأخيتوف وَلَّدَ ⟨את⟩ صادوق، وصادوق وَلَّدَ ⟨את⟩ شَلّوم.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "وأخيتوف"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وَلَّدَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صادوق"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "صادوق"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "وصادوق"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وَلَّدَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شَلّوم"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شَلّوم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:42.283872211Z",
+  "model": "glm-5.2"
+}

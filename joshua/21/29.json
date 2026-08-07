@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 21:29",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "⟨את⟩ يرموت و⟨את⟩ مراعيها، ⟨את⟩ عين جنّيم و⟨את⟩ مراعيها؛ مدن أربع.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يرموت"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "يرموت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مراعيها"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مراعيها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عين جنّيم"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عين"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "جنّيم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مراعيها"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مراعيها"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "أربع"
+    }
+  ],
+  "timestamp": "2026-08-07T01:11:14.227954192Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "ماذا أَلعَن — ولم يلعن إيل؟ وماذا أغضب — ولم يغضب يهوه؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "أَلعَن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "يلعن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "وماذا"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "أغضب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "يغضب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:41:28.483462303Z",
+  "model": "glm-5.2"
+}

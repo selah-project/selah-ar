@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 11:35",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وآخذُ المُلك من يد ابنه وأُعطيه إيّاك، ⟨את⟩ عشرة الأسباط.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "وآخذُ"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "المُلك"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يد"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "وأُعطيه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "إيّاك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عشرة الأسباط"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "عشرة"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "الأسباط"
+    }
+  ],
+  "timestamp": "2026-08-07T01:47:13.210247248Z",
+  "model": "glm-5.2"
+}

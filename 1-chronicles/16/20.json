@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وساحوا من أمّة إلى أمّة، ومن مملَكة إلى شعب آخَر.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "وساحوا\/تنقّلوا"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "من أمّة"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "أمّة"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "ومن مملَكة"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "آخَر"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:00.303124203Z",
+  "model": "glm-5.2"
+}

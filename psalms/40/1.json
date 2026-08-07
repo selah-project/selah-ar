@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "لإمام ⟨الفرقة⟩ لداوِد مزمور",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لإمام"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لداوِد"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:42.028102642Z",
+  "model": "glm-5.2"
+}

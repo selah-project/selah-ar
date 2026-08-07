@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 25:34",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وحقلُ مشرافِ مدنِهم لا يُباع، لأنّه مُمتَلَكُ عولامٍ ⟨هو⟩ لهم.",
+  "tokens": [
+    {
+      "surface": "ושדה",
+      "gloss": "وحقلُ"
+    },
+    {
+      "surface": "מגרש",
+      "gloss": "مشرافِ"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "مدنِهم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "يُباع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "مُمتَلَكُ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "عولامٍ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:59.101152803Z",
+  "model": "glm-5.2"
+}

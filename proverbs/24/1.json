@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "لا تَحْسُد أهلَ الرّأْعَة، ولا تتشهَّ ⟨أن⟩ تكون معهم.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "تحسد"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "أهلَ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "الرّأْعَة"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "تتشهَّ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "أن تكون"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "معهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:01.131587865Z",
+  "model": "glm-5.2"
+}

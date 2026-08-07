@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 77,
+  "translation": "لإمامِ ⟨الغناء⟩ على يَدوتون، لأَساف مِزمور",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لإمامِ ⟨الغناء⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "يَدوتون"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "لأَساف"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مِزمور"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:15.978035898Z",
+  "model": "glm-5.2"
+}

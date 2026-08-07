@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وقضى ⟨את⟩ يسرايل ثلاثًا وعشرين سنة، فمات ودُفن في شامير.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "وقضى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرايل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "عشرين"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "وثلاث"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "فمات"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ودُفن"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "في شامير"
+    }
+  ],
+  "timestamp": "2026-08-07T01:16:10.825945481Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 49:33",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "و⟨أتمَّ⟩ يعقوف وصيَّةَ ⟨את⟩ بنيه، وجمع رِجليه إلى السرير، فارتحل، وجُمع إلى قومه.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "و⟨أتمَّ⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "לצות",
+      "gloss": "وصيَّةَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بنيه"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "بنيه"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "وجمع"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "رِجليه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "السرير"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "فارتحل"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "وجُمع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "قومه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:58:53.413548367Z",
+  "model": "glm-5.2"
+}

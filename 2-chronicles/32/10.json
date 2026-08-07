@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 32:10",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "«كذا قال سَنحَريف ملك أَشّور: على ما تتوكّلون، وتمكثون في الحصار في يروشالايم؟",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "كذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "سَنحَريف"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "أَشّور"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "تتوكّلون"
+    },
+    {
+      "surface": "וישבים",
+      "gloss": "وتمكثون"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "في الحصار"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "في يروشالايم"
+    }
+  ],
+  "timestamp": "2026-08-07T06:15:10.498097913Z",
+  "model": "glm-5.2"
+}

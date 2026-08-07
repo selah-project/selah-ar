@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "و⟨كان⟩ بعد موت أفراهام، فبارك إلوهيم ⟨את⟩ يصحاق ابنه. وسكن يصحاق مع بئر لَحَيْ رُؤيي.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "فبارك"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يصحاق"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يصحاق"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "وسكن"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يصحاق"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "لَحَيْ"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "رُؤيي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:43:10.419285235Z",
+  "model": "glm-5.2"
+}

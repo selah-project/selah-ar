@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "فرأى عيسو أنّ بنات كنعان شرٌّ في عينيْ يتسحاق أبيه.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "فرأى"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "شرٌّ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "بنات"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كنعان"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عينيْ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يتسحاق"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:37.490578308Z",
+  "model": "glm-5.2"
+}

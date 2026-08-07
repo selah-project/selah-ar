@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وامتلأت أرضه فضّةً وذهبًا ولا حدّ لخزائنه، وامتلأت أرضه خيلًا ولا حدّ لمركباته",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "وامتلأت"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "أرضه"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضّةً"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "وذهبًا"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "حدّ"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "لخزائنه"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "وامتلأت"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "أرضه"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "خيلًا"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "حدّ"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "لمركباته"
+    }
+  ],
+  "timestamp": "2026-08-07T02:03:32.983857236Z",
+  "model": "glm-5.2"
+}

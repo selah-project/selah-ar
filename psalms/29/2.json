@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "أعطوا ليهوه كبد اسمه، اسجدوا ليهوه في هَدرات قُدش",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "أعطوا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "لِيَهْوَه"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "كَبُود"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمِه"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "اسجدوا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "لِيَهْوَه"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "في هدرات"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قُدُش"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:29.517174300Z",
+  "model": "glm-5.2"
+}

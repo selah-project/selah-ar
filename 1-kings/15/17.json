@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 15:17",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "فصعد بعشا ملك يسرايل على يهودا وبنى ⟨את⟩ الرامة لئلّا يعطي خارجًا وداخلًا لأسا ملك يهودا",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "فصعد"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بعشا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "وبنى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الرامة"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "الرامة"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "لئلّا"
+    },
+    {
+      "surface": "תת",
+      "gloss": "يعطي"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "خارجًا"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "وداخلًا"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "لأسا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:49:44.957361824Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 1:4",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ويسند يده على رأس العولاه، فَيُقبَل له للتكفير عنه.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ويسند"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأس"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "العولاه"
+    },
+    {
+      "surface": "ונרצה",
+      "gloss": "فيُقبَل"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "للتكفير"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عنه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:02.228901144Z",
+  "model": "glm-5.2"
+}

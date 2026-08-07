@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "فقال لي ملاكُ إلوهيم في الحُلمِ: «يعقوف!» فقلتُ: «هنائي.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ملاكُ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "في الحُلمِ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "فقلتُ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "هنائي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:08.733156239Z",
+  "model": "glm-5.2"
+}

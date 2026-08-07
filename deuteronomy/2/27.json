@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "«أعبرُ في أرضِكَ في الطريقِ، في الطريقِ أمشي، لا أميلُ يمينًا ولا يسارًا.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "أعبرُ"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "في أرضِكَ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "في الطريقِ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "في الطريقِ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "أمشي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "أميلُ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "يمينًا"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ولا يسارًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:48:04.759279277Z",
+  "model": "glm-5.2"
+}

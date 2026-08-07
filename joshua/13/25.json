@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 13:25",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "و⟨كان⟩ لهم الحدّ: ياعزير وكلّ مدن الجلعاد، ونصف أرض بني عمون، إلى عروعر التي ⟨هي⟩ أمام ربّة.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "الحدّ"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "ياعزير"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "الجلعاد"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ونصف"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ערוער",
+      "gloss": "عروعر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "על",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ربّة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:06:59.476885889Z",
+  "model": "glm-5.2"
+}

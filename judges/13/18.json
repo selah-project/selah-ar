@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 13:18",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فقال له ملاك يهوه: «لماذا هذا تسأل عن اسمي؟ وهو عَجيب.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ملاك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "تسأل"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "عن اسمي"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "פלאי",
+      "gloss": "عَجيب"
+    }
+  ],
+  "timestamp": "2026-08-07T01:17:07.028589462Z",
+  "model": "glm-5.2"
+}

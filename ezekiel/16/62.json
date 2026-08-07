@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "ezekiel 16:62",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وأُقِيمُ أنا ⟨את⟩ بريتي مَعَك، فتَعْلَمِينَ أنّي أنا يهوه.",
+  "tokens": [
+    {
+      "surface": "והקימותי",
+      "gloss": "وأُقِيمُ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بريتي"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "بريتي"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "مَعَك"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "فتَعْلَمِينَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:00:38.230450673Z",
+  "model": "glm-5.2"
+}

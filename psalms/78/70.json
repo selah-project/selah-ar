@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 78:70",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "و⟨اختار⟩ في دافيد عبده، و⟨أخذه⟩ من حظائر القطعان.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "و⟨اختار⟩"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "في دافيد"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "عبده"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "و⟨أخذه⟩"
+    },
+    {
+      "surface": "ממכלאת",
+      "gloss": "من حظائر"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "القطعان"
+    }
+  ],
+  "timestamp": "2026-08-07T04:01:07.542572427Z",
+  "model": "glm-5.2"
+}

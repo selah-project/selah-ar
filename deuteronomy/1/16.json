@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وأوصيتُ ⟨את⟩ قضاتكم في ذلك الوقت قائلًا: «أصغوا بين إخوتكم، واقضوا بالصِّدِق بين المرء وأخيه، وبين النزيل ⟨له⟩».",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "وأوصيتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قضاتكم"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "قضاتكم"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "في وقت"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "أصغوا"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "إخوتكم"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "واقضوا"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "بالصِّدِق"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "איש",
+      "gloss": "المرء"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "أخيه"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "النزيل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:48:07.086239620Z",
+  "model": "glm-5.2"
+}

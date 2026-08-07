@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فقال يهوه للشيطان: هوذا هو في يدك، لكن احفظ ⟨את⟩ نَفسه فقط.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "الشيطان"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "هوذا هو"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "في يدك"
+    },
+    {
+      "surface": "אך",
+      "gloss": "لكن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نفسه"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نفسه"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "احفظ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:31:56.554546895Z",
+  "model": "glm-5.2"
+}

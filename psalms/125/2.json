@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 125,
+  "translation": "يروشالايم — جبالٌ حولها، ويهوه حول شعبه، من الآن وإلى الأبد",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "جبال"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "حول"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨لـ⟩ها"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "وـيهوه"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "حول"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "لـشعبه"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "من الآن"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:15:37.776254239Z",
+  "model": "glm-5.2"
+}

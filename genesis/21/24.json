@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فَقَالَ أَفْرَاهَامُ: «أَنَا أَسْتَحْلِفُ.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "أستحلف"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:17.001231408Z",
+  "model": "glm-5.2"
+}

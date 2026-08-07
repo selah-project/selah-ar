@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "أنقذْ نفسَك كالظبي من اليد، وكالعصفور من يد الصيّاد.",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "أنقذْ"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "كالظبي"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من اليد"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "وكالعصفور"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يد"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "الصيّاد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:24:23.349739807Z",
+  "model": "glm-5.2"
+}

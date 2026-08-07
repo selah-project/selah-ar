@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 21:19",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "إن قام وتمشّى في الخارج على عكّازه، يُبرَّأ الضارب؛ فقط ⟨يدفع⟩ تعطيله ويُشفى شفاءً.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "قام"
+    },
+    {
+      "surface": "והתהלך",
+      "gloss": "وتمشّى"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "في الخارج"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "משענתו",
+      "gloss": "عكّازه"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "يُبرَّأ"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "الضارب"
+    },
+    {
+      "surface": "רק",
+      "gloss": "فقط"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "تعطيله"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "⟨يدفع⟩"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "ويُشفى"
+    },
+    {
+      "surface": "ירפא",
+      "gloss": "شفاءً"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:34.580777315Z",
+  "model": "glm-5.2"
+}

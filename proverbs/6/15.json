@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 6:15",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "لذلك بغتةً يأتي بَواؤه، لحظةً يُحطَّم ولا ⟨من⟩ شفاء.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "بغتةً"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "يأتي"
+    },
+    {
+      "surface": "אידו",
+      "gloss": "بَواؤه"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "لحظةً"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "يُحطَّم"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "⟨من⟩ شفاء"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:36.323217865Z",
+  "model": "glm-5.2"
+}

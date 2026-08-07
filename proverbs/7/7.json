@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 7:7",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "فرأيتُ في البُلهاء، ميّزتُ بين البنين، فتىً يعوزُه قلب",
+  "tokens": [
+    {
+      "surface": "וָאֵרֶא",
+      "gloss": "فرأيتُ"
+    },
+    {
+      "surface": "בַפְּתָאיִם",
+      "gloss": "في البُلهاء"
+    },
+    {
+      "surface": "אָבִינָה",
+      "gloss": "ميّزتُ"
+    },
+    {
+      "surface": "בַבָּנִים",
+      "gloss": "بين البنين"
+    },
+    {
+      "surface": "נַעַר",
+      "gloss": "فتىً"
+    },
+    {
+      "surface": "חֲסַר",
+      "gloss": "يعوزُه"
+    },
+    {
+      "surface": "לֵב",
+      "gloss": "قلب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:59.575167440Z",
+  "model": "glm-5.2"
+}

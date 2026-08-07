@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "طوبى لِمَن يُحسِن إلَى المسكين، في يومِ الشَّرّ يُنقِذُه يهوه.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "طوبى"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "يُحسِن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلَى"
+    },
+    {
+      "surface": "דל",
+      "gloss": "المسكين"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "الشَّرّ"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "يُنقِذُه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:51.438851920Z",
+  "model": "glm-5.2"
+}

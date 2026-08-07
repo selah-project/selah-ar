@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "أرملةً ومُطلَقةً ومُدنَّسةً زانيةً ⟨את⟩ هذه لا يأخذ، بل بتولاً من شعبه يأخذ امرأةً.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "أرملةً"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "ومُطلَقةً"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "ومُدنَّسةً"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "زانيةً"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هذه"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "يأخذ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨إلا⟩"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "بتولاً"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "من شعبه"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "يأخذ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأةً"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:25.514436794Z",
+  "model": "glm-5.2"
+}

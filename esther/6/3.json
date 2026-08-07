@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 6:3",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فقال الملك: ماذا صُنع من تكريمٍ وعظمةٍ لموردخاي على هذا؟ فقال غِلمان الملك خُدَّامه: لم يُصنع معه شيءٌ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "صُنع"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "من تكريم"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "وعظمة"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "لموردخاي"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "غِلمان"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "خُدَّامه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "يُصنع"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شيء"
+    }
+  ],
+  "timestamp": "2026-08-07T04:54:43.160692241Z",
+  "model": "glm-5.2"
+}

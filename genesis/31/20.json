@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "وخدع يعقوف ⟨את⟩ قلبَ لابان الأراميّ، على أن لم يُخبره أنّه هارب.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "وخدع"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قلبَ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلبَ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "الأراميّ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "أن"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "يُخبره"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ضمير متصل⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "هارب"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:45.947516575Z",
+  "model": "glm-5.2"
+}

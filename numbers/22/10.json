@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 22:10",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "فقال بلعام لإلوهيم: بلق بن صفور ملك موآب أرسل إليّ",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بلعام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بلق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "صفور"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "أرسل"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:38:44.552298486Z",
+  "model": "glm-5.2"
+}

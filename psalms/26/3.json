@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "لأنّ حِسِدَك أمام عينيّ، وسلكتُ في إمِتِك.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حِسِدَك"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "عينيّ"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "وسلكتُ"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "في إمِتِك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:47.492112302Z",
+  "model": "glm-5.2"
+}

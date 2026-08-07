@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 147,
+  "translation": "الشافي لمنكسري القلب، ومُضمِّدٌ جراحَهم",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "الشافي"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "لمنكسري"
+    },
+    {
+      "surface": "לב",
+      "gloss": "القلب"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "ومُضمِّدٌ"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "جراحَهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:19:12.290299117Z",
+  "model": "glm-5.2"
+}

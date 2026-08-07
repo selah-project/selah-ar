@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وتضرّع يهوآحاز ⟨أمام⟩ وجه يهوه، فسمع له يهوه، لأنه رأى ⟨את⟩ ضيق إسرائيل، لأن ملك أرام ضايقهم.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "وتضرّع"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "يهوآحاز"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وجه"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "فسمع"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "رأى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ضيق"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ضيق"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ضايق"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩هم",
+      "marks": "هم"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "أرام"
+    }
+  ],
+  "timestamp": "2026-08-07T05:50:36.043893834Z",
+  "model": "glm-5.2"
+}

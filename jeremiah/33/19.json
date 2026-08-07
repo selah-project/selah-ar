@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 33:19",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "و⟨كان⟩ كلمةُ يهوه إلى يِرميا هو قائلاً:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمةُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يِرميا هو"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "قائلاً"
+    }
+  ],
+  "timestamp": "2026-08-07T05:55:12.748810688Z",
+  "model": "glm-5.2"
+}

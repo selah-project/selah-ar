@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وقال له: «هكذا قال يِفتاح: لم يأخذ يسرايل ⟨את⟩ أرض موآب ولا ⟨את⟩ أرض بني عمّون.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "يِفتاح"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "يأخذ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أرض"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ولا ⟨את⟩",
+      "marks": "أرض"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمّون"
+    }
+  ],
+  "timestamp": "2026-08-07T01:16:57.978785684Z",
+  "model": "glm-5.2"
+}

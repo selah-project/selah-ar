@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 5:14",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "و⟨تلك⟩ الثروة هلكت في شغلٍ سيّئ، ووَلَدَ ابنًا وليس في يده شيء.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "و⟨هلكت⟩"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "الثروة"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "تلك"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "في شغلٍ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "سيّئ،"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "ووَلَدَ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنًا"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "وليس"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "في يده"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "شيء."
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:03.474771969Z",
+  "model": "glm-5.2"
+}

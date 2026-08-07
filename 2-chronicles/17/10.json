@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 17:10",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "فكان خوف يهوه على جميع ممالك الأراضي التي في محيط يهودا، فلم يحاربوا مع يهوشافاط.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "فكان"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "خوف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميع"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ممالك"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "الأراضي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "في محيط"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "يحاربوا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "يهوشافاط"
+    }
+  ],
+  "timestamp": "2026-08-07T05:26:19.756172826Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "يدًا ليدٍ لا يُبرَّأ الشرّير، وذرّيّة الصدّيقين تنجو.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "يدًا"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ليدٍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "يُبرَّأ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "الشرّير"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "وذرّيّة"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "الصدّيقين"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "تنجو"
+    }
+  ],
+  "timestamp": "2026-08-07T04:24:42.643903855Z",
+  "model": "glm-5.2"
+}

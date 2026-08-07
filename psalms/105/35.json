@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 105,
+  "translation": "و⟨أكل⟩ كلَّ عشبٍ في أرضهم، و⟨أكل⟩ ثمرَ تربتهم.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "و⟨أكل⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "عشبٍ"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "في أرضهم"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "و⟨أكل⟩"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ثمرَ"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "تربتهم"
+    }
+  ],
+  "timestamp": "2026-08-07T06:05:52.258276180Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "من تلك الأرض خرج أشّور، وبنى ⟨את⟩ نينوى و⟨את⟩ رَحوبوت عير و⟨את⟩ كَلَح.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "تلك"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "خرج"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "أشّور"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "وبنى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نينوى"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نينوى"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "رَحوبوت عير"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "رَحوبوت"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "عير"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كَلَح"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "كَلَح"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:42.556038073Z",
+  "model": "glm-5.2"
+}

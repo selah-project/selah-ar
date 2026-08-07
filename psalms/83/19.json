@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 83,
+  "translation": "وليعلموا أنّك أنت — اسمك يهوه — وحدك ⟨إلوهيم⟩ عليون على كل الأرض",
+  "tokens": [
+    {
+      "surface": "וְיֵדְעוּ",
+      "gloss": "وليعلموا"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "שִׁמְךָ",
+      "gloss": "اسمك"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לְבַדֶּךָ",
+      "gloss": "وحدك"
+    },
+    {
+      "surface": "עֶלְיוֹן",
+      "gloss": "عليون"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "على"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T04:01:30.803434680Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 1:18",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وهم لدمائِهم يَكْمُنون، يَتَخَفَّون لنفوسِهم.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "وهم"
+    },
+    {
+      "surface": "לדמם",
+      "gloss": "لدمائِهم"
+    },
+    {
+      "surface": "יארבו",
+      "gloss": "يَكْمُنون"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "يَتَخَفَّون"
+    },
+    {
+      "surface": "לנפשתם",
+      "gloss": "لنفوسِهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:19:37.760911105Z",
+  "model": "glm-5.2"
+}

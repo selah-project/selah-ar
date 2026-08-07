@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "2-kings 4:44",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فوضَعَ أمامَهم فأكلوا وفاضَ ⟨منه⟩ كما قال يهوه.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "فوضَعَ"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "أمامَهم"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "فأكلوا"
+    },
+    {
+      "surface": "ויותרו",
+      "gloss": "وفاضَ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "كما قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T07:33:52.688002172Z",
+  "model": "glm-5.2"
+}

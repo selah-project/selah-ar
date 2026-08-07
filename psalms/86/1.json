@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 86,
+  "translation": "صلاةٌ لِدافيد. أَمِلْ أُذُنَكَ يا يهوه، أَجِبْني، لأنّي عانٍ وفتيرٌ أنا",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "صلاة"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِدافيد"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "أَمِلْ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "أُذُنَكَ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "أَجِبْني"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "עני",
+      "gloss": "عانٍ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "وفتير"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:49.385314793Z",
+  "model": "glm-5.2"
+}

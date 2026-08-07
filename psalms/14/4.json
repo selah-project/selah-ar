@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "ألا يَعرفون كل فَعَلة الإثم، آكلي شعبي أكلوا خبزًا، يهوه لم يدعوه؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ألا"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "يَعرفون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "فَعَلة"
+    },
+    {
+      "surface": "און",
+      "gloss": "الإثم"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "آكلي"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "شعبي"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "أكلوا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "يدعوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:43:13.127600801Z",
+  "model": "glm-5.2"
+}

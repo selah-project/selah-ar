@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وقال يهوه لموشيه: «اذهب إلى الشعب وقدِّسهم اليوم وغدًا، وليغسلوا ثيابهم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اذهب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "وقدِّسهم"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "وغدًا"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "وليغسلوا"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "ثيابهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:38.729429555Z",
+  "model": "glm-5.2"
+}

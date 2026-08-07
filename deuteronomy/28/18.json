@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 28:18",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "ملعونٌ ثمرُ بطنِك وثمرُ أرضِك، وسَلَيلُ بقرك وعِشارُ ضأنِك",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملعون"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ثمر"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "بطنِك"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "وثمر"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "أرضِك"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "سَلَيل"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "بقرك"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "وعِشار"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "ضأنِك"
+    }
+  ],
+  "timestamp": "2026-08-07T05:42:43.104147849Z",
+  "model": "glm-5.2"
+}

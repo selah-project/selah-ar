@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "مُحِبُّ التأديب يُحِبُّ المعرفة، ومُبغِضُ التوبيخ ⟨هو⟩ بهيميّ.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "مُحِبُّ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "التأديب"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "يُحِبُّ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "المعرفة"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "ومُبغِضُ"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "التوبيخ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "بهيميّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:24.116854845Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 33:11",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": " «خذْ أرجوكَ ⟨את⟩ بركتي التي أُحضرتْ لكَ، لأنّ إلوهيم أنعمَ عليّ ولأنّ لي كلَّ شيء.» فألحَّ عليهِ فأخذَ.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "خذْ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "أرجوكَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بركتي"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "بركتي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "أُحضرتْ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "أنعمَ عليّ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ولأنّ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "يوجد"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ شيء"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "فألحَّ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "عليهِ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "فأخذَ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:33.490827268Z",
+  "model": "glm-5.2"
+}

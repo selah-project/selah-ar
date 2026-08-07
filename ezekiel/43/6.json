@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 43:6",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 43,
+  "translation": "وسمعتُ ⟨صوتًا⟩ يكلّمني من البيت، وكان رجلٌ واقفًا بجانبي.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "وسمعتُ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "يكلّمني"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "من البيت"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ورجلًا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "واقفًا"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "بجانبي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:16:46.649103744Z",
+  "model": "glm-5.2"
+}

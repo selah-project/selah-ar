@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "من الخمر والمُسكر يتفرّد؛ خلُّ الخمر وخلُّ المُسكر لا يشرب، وكلَّ نقيع عنبٍ لا يشرب، وعنبًا طريًا ويابسًا لا يأكل.",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "من الخمر"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "والمُسكر"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "يتفرّد"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "خلُّ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "الخمر"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "وخلُّ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "المُسكر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "يشرب"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلَّ"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "نقيع"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "عنبٍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "يشرب"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "وعنبًا"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "طريًا"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "ويابسًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يأكل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:30:29.650393392Z",
+  "model": "glm-5.2"
+}

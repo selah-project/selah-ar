@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 7:28",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وهذه صنعةُ القاعدةِ: لها إطاراتٌ، وإطاراتٌ بين المتاريس",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "وهذه"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "صنعةُ"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "القاعدةِ"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "إطاراتٌ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لها"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "وإطاراتٌ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "השלבים",
+      "gloss": "المتاريس"
+    }
+  ],
+  "timestamp": "2026-08-07T01:44:52.547965127Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "أَصْغِيَا أيتها السماواتُ فأُكلِّمَ، ولتسمعِ الأرضُ أقوالَ فمي.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "أصغيا"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "فأُكلِّم"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "ولتسمع"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "أقوال"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فمي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:02:00.790828790Z",
+  "model": "glm-5.2"
+}

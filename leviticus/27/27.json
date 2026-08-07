@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 27:27",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وإن كان في البهيمة النجسة فيُفدى بتقويمك ويُضاف خُمُسه عليه، وإن لم يُفدَ فيُباع بتقويمك.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "في البهيمة"
+    },
+    {
+      "surface": "הטמאה",
+      "gloss": "النجسة"
+    },
+    {
+      "surface": "ופדה",
+      "gloss": "فيُفدى"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "بتقويمك"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ويُضاف"
+    },
+    {
+      "surface": "חמשתו",
+      "gloss": "خُمُسه"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "يُفدَ"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "فيُباع"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "بتقويمك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:44.880907742Z",
+  "model": "glm-5.2"
+}

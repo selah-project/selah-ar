@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 29:14",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "فإنّ ⟨את⟩ الذين هم ههنا معنا واقفين اليوم أمام يهوه إلوهيم، و⟨את⟩ الذين ليسوا ههنا معنا اليوم —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "فإنّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الذين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "هم"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ههنا"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "معنا"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "واقفين"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الذين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ليسوا"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ههنا"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "معنا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:33.342625072Z",
+  "model": "glm-5.2"
+}

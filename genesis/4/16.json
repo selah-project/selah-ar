@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وخرج قايين من أمام يهوه، وسكن في أرض نود شرقي عدن.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قايين"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "من أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "وسكن"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "نود"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "شرقي"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "عدن"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:00.435757711Z",
+  "model": "glm-5.2"
+}

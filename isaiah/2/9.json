@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "و⟨انحنى⟩ الإنسان و⟨اتضع⟩ الرجل، فلا ترفع ⟨لهم⟩",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "و⟨انحنى⟩"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "و⟨اتضع⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ترفع"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨لهم⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T02:03:27.938436661Z",
+  "model": "glm-5.2"
+}

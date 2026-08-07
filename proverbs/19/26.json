@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "مُخرِّبٌ أبًا، مُشَرِّدٌ أمًّا، ⟨هو⟩ ابنٌ مُخزٍ ومُعيِّر.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "مخرّب"
+    },
+    {
+      "surface": "אב",
+      "gloss": "أبًا"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "مشرّد"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أمًّا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "مُخزٍ"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "ومُعير"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:14.535754735Z",
+  "model": "glm-5.2"
+}

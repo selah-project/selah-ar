@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 3:11",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "يورام بْنُه، أَحَزياوُ بْنُه، يُوآش بْنُه.",
+  "tokens": [
+    {
+      "surface": "יורם",
+      "gloss": "يورام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بْنُه"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "أَحَزياوُ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بْنُه"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "يُوآش"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بْنُه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:18.830608578Z",
+  "model": "glm-5.2"
+}

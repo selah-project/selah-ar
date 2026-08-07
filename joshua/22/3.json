@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 22:3",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "«لم تتركوا إخوتكم هذه الأيّام الكثيرة إلى هذا اليوم، وحفظتم ⟨את⟩ حراسة وصيّة يهوه إلهكم.»",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "تتركوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "إخوتكم"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "إخوتكم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "الأيّام"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "الكثيرة"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "היום",
+      "gloss": "هذا اليوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "وحفظتم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حراسة"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "حراسة"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "وصيّة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلهكم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:11:28.431498515Z",
+  "model": "glm-5.2"
+}

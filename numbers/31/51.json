@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 31:51",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "فأخذ موشيه وإلعازار الكوهين ⟨את⟩ الذهب منهم، كلّ آنية صنعة.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "فأخذ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "وإلعازار"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الذهب"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "الذهب"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "منهم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "آنية"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "صنعة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:42:00.887777278Z",
+  "model": "glm-5.2"
+}

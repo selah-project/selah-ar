@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 25:32",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "ومدنُ اللاويّين — بيوتُ مدنِ مُمتلكاتهم — فداءُ الدهر ⟨يكون⟩ لاللاويّين.",
+  "tokens": [
+    {
+      "surface": "וערי",
+      "gloss": "ومدن"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "اللاويّين"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "بيوت"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "مُمتلكاتهم"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "فداء"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "الدهر"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨يكون⟩"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "لاللاويّين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:57.336246210Z",
+  "model": "glm-5.2"
+}

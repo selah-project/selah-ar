@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 136,
+  "translation": "لِباسطٍ الأرض على المياه، لأنّ إلى الأبد حِسِدُه.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "لِباسطٍ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המים",
+      "gloss": "المياه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حِسِدُه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:17:35.071169554Z",
+  "model": "glm-5.2"
+}

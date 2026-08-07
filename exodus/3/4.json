@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "ورأى يهوه أنّه مال لِيَرى، فناداه إلوهيم من وسط العليقة، وقال: «موشيه، موشيه!» فقال: «هأنذا».",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ورأى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "סר",
+      "gloss": "مال"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "لِيَرى"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "فنادى"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "من وسط"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "العليقة"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "هأنذا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:36:09.747174026Z",
+  "model": "glm-5.2"
+}

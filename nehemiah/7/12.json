@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 7:12",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "بَنُو عيلام: ألفٌ ومِئتان وأربعةٌ وخمسون.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عيلام"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ومئتان"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "وخمسون"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "وأربعة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:05:46.119863379Z",
+  "model": "glm-5.2"
+}

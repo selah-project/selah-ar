@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "يهوه يَدعَمُه على فراشِ الضَّعف، كلَّ مَضجَعِه قَلَبتَه في مرَضِه.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "يَدعَمُه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "فراش"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "الضَّعف"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "مَضجَعِه"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "قَلَبتَه"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "في مرَضِه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:51.439088312Z",
+  "model": "glm-5.2"
+}

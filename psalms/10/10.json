@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "يطأطئ ⟨ليسقط⟩، فيسقط بعزائمه البائسون",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "يطأطئ"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "⟨ليسقط⟩"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "فيسقط"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "بعزائمه"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "البائسون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:42:10.709151510Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "⟨إذا⟩ كانت الأسساتُ تُهدَم، فماذا يصنع الصِدّيق؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨إذا⟩"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "الأسساتُ"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "تُهدَم"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "الصِدّيق"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "يصنع"
+    }
+  ],
+  "timestamp": "2026-08-07T03:43:32.293679866Z",
+  "model": "glm-5.2"
+}

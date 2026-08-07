@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "فأرسل يهوه ⟨את⟩ ناتان إلى داوود، فجاء إليه وقال له: «رجلان كانا في مدينة واحدة، واحد غنيّ وواحد فقير».",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناتان"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "فجاء"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "שני",
+      "gloss": "رجلان"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": ""
+    },
+    {
+      "surface": "היו",
+      "gloss": "كانا"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "في مدينة"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "واحدة"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "غنيّ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "وواحد"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "فقير"
+    }
+  ],
+  "timestamp": "2026-08-07T05:47:22.746182588Z",
+  "model": "glm-5.2"
+}

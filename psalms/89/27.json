@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "هو يدعوني: «أبي أنت، إيلي وَصخرة خلاصي.»",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "يدعوني"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إيلي"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "وَصخرة"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "خلاصي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:05.778773680Z",
+  "model": "glm-5.2"
+}

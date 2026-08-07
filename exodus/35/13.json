@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "⟨את⟩ الـمائدة و⟨את⟩ عصيّها و⟨את⟩ كلّ آنيتها و⟨את⟩ خبز الوجه",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الـمائدة"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "الـمائدة"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "عصيّها"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "عصيّه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ آنيته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "آنيتِه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "خبز الوجه"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبز"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "الوجه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:13:25.547958059Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "وَماتَ حَنَنْيا النّافي في السنة تلك في الشهر السابع",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ومات"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "حنَنْيا"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "النّافي"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "في السنة"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "تلك"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "في الشهر"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "السابع"
+    }
+  ],
+  "timestamp": "2026-08-07T02:40:58.677333509Z",
+  "model": "glm-5.2"
+}

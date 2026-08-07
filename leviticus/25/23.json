@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 25:23",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "والأرض لا تُباع لِلِانقطاع، لأنّ لي الأرض، لأنّكم غرباء ومُقيمون أنتم معي.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "والأرض"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "تُباع"
+    },
+    {
+      "surface": "לצמתת",
+      "gloss": "لِلِانقطاع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "غرباء"
+    },
+    {
+      "surface": "ותושבים",
+      "gloss": "ومُقيمون"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "معي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:53.375330953Z",
+  "model": "glm-5.2"
+}

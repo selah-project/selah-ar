@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وإلى فتحة خيمة الموعد لا يُقَدِّمُهُ ليُعْمَلَهُ ليهوه، فيُقْطَعَ الرجلُ ذاكُم مِن شعبه.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "فتحة"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "يُقَدِّمُهُ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ليُعْمَلَ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "لِـ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "فـيُقْطَعَ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذاكُم"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "مِن شعبه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:10.935333829Z",
+  "model": "glm-5.2"
+}

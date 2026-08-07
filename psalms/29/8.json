@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "صوتُ يهوه يُلوِي البرِّيّة، يُلوِي يهوه برِّيّة قادِش",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "صوتُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "يُلوِي"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "البرِّيّة"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "يُلوِي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "برِّيّة"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادِش"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:28.023944073Z",
+  "model": "glm-5.2"
+}

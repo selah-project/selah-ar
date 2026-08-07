@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 25:23",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وتصنع مائدة من خشب الشِطّة: ذراعان طولها، وذراع عرضها، وذراع ونصف ارتفاعها.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "وتصنع"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "مائدة"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "خشب"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "الشِطّة"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "ذراعان"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "طولها"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "وذراع"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "عرضها"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "وذراع"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ونصف"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ارتفاعها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:41.588889462Z",
+  "model": "glm-5.2"
+}

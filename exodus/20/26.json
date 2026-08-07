@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "ولا تصعد بدرجات على مذبحي، كي لا تُكشَف عورتُك عليه.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "تصعد"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "بدرجات"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "مذبحي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "تُكشَف"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "عورتُك"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:55.861688923Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 7:9",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "و⟨كان⟩ في الليل ذلك، فقال له يهوه: قُمِ انزل إلى المَحلَّة، لأنّي ⟨قد⟩ دفعته بيدك.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "في الليل"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "קום",
+      "gloss": "قُم"
+    },
+    {
+      "surface": "רד",
+      "gloss": "انزل"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "إلى المحلَّة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "دفعته"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "بيدك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:14:56.297826484Z",
+  "model": "glm-5.2"
+}

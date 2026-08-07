@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 21:10",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فإنّي وجّهت وجهي على المدينة هذه للشرّ لا للخير، نئم يهوه؛ بيد ملك بافِل تُسلَّم، فيحرَقها بالنار.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "فإنّي"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "وجّهت"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهي"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "على المدينة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "للشرّ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "للخير"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نئم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بيد"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافِل"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "تُسلَّم"
+    },
+    {
+      "surface": "ושרפה",
+      "gloss": "فيحرَقها"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بالنار"
+    }
+  ],
+  "timestamp": "2026-08-07T02:37:19.156112955Z",
+  "model": "glm-5.2"
+}

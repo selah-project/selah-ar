@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 2:14",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "الذين يفرحون لفعل الشرّ، يَبْتَهِجون بانقلابات الشرّ.",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "الذين يفرحون"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "لفعل"
+    },
+    {
+      "surface": "רע",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "يَبْتَهِجون"
+    },
+    {
+      "surface": "בתהפכות",
+      "gloss": "بانقلابات"
+    },
+    {
+      "surface": "רע",
+      "gloss": "الشرّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:21:23.842941066Z",
+  "model": "glm-5.2"
+}

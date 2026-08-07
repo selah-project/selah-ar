@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 57,
+  "translation": "أنا أُخبر بصداقتك، و⟨את⟩ أعمالك — لا تنفعك.",
+  "tokens": [
+    {
+      "surface": "אֲנִי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אַגִּיד",
+      "gloss": "أُخبر"
+    },
+    {
+      "surface": "צִדְקָתֵךְ",
+      "gloss": "بصداقتك"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "أعمالك"
+    },
+    {
+      "surface": "מַעֲשַׂיִךְ",
+      "gloss": "أعمالك"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יוֹעִילוּךְ",
+      "gloss": "تنفعك"
+    }
+  ],
+  "timestamp": "2026-08-07T02:23:28.612244299Z",
+  "model": "glm-5.2"
+}

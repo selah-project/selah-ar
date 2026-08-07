@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "إلى متى، يهوه، تستتِر إلى الأبد؟ يشتعل كالنار غضبُك؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מה",
+      "gloss": "متى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "تستتِر"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "يشتعل"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "كالـ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نار"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "غضبُك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:18.617037676Z",
+  "model": "glm-5.2"
+}

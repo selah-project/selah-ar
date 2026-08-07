@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 22:19",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "و⟨את⟩ نوف مدينةَ الكهنة ضرب بحدّ السّيف، من رجلٍ إلى امرأة، من طفلٍ إلى رضيع، وثورٌ وحمارٌ وضأنٌ بحدّ السّيف.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "نوف"
+    },
+    {
+      "surface": "נב",
+      "gloss": "نوف"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكهنة"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ضرب"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "بحدّ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "السّيف"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "من رجل"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "מעולל",
+      "gloss": "من طفل"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "رضيع"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "وثور"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "وحمار"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "وضأن"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "بحدّ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "السّيف"
+    }
+  ],
+  "timestamp": "2026-08-07T01:29:04.452048448Z",
+  "model": "glm-5.2"
+}

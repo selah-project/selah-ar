@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "إنسانٌ مُثقَلٌ بدم نَفْس إلى البئر يهرب، لا يُؤازِروه",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "مُثقَل"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "بدم"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْس"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בור",
+      "gloss": "البئر"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "يهرب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "يُؤازِروه"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:55.610857201Z",
+  "model": "glm-5.2"
+}

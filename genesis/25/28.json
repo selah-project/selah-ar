@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وأحبَّ يتصحاق ⟨את⟩ عيساو لأنّ الصيدَ في فمه، ورفقة تحبّ ⟨את⟩ يعقوف.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "وأحبَّ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يتصحاق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عيساو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيساو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "الصيدَ"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "في فمه"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "ورفقة"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "تحبّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يعقوف"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    }
+  ],
+  "timestamp": "2026-08-06T23:42:37.855127283Z",
+  "model": "glm-5.2"
+}

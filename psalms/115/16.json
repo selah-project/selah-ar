@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 115,
+  "translation": "السماواتُ سماواتٌ لِيهوه، أمّا الأرضُ فقد أعطاها لبَني آدم.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "سماوات"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "لِيهوه"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "أمّا الأرض"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "فقد أعطى"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لبَني"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:56.786114825Z",
+  "model": "glm-5.2"
+}

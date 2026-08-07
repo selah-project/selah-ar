@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 2:20",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "«أرضُ رفائيم تُحسَب هي أيضًا؛ رفائيمٌ سكنوا فيها سابقًا، والعَمّونيّون يسمّونهم زمزوميم.»",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "أرضُ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفائيم"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "تُحسَب"
+    },
+    {
+      "surface": "אף",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفائيمٌ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "سكنوا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "سابقًا"
+    },
+    {
+      "surface": "והעמנים",
+      "gloss": "والعَمّونيّون"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "يسمّونهم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "זמזמים",
+      "gloss": "زمزوميم.»"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:35.399388922Z",
+  "model": "glm-5.2"
+}

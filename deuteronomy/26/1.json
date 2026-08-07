@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 26:1",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "«و⟨كان⟩ متى جئتَ إلى الأرض التي يهوه إلوهيمك يعطيها لك نَحَلًا، وورثتَها وسكنتَ فيها،",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "متى"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "جئتَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "يعطيها"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "نَحَلًا"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "وورثتَها"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "وسكنتَ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:23.174241558Z",
+  "model": "glm-5.2"
+}

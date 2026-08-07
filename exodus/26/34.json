@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "وتضع ⟨את⟩ الكبّورِت على تابوت الشهادة في قدس القاداشيم.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "وتضع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الكبّورِت"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "الكبّورِت"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "الشهادة"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "في قدس"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "القاداشيم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:25.268918519Z",
+  "model": "glm-5.2"
+}

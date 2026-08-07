@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "شبّاتُ إسباتٍ ⟨هي⟩ لكم، وقد أذللتم ⟨את⟩ نُفوسكم — فرضةَ أبدٍ.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "شبّات"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "إسبات"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨هي⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "وقد أذللتم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نُفوسكم"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "نُفوسكم"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "فرضة"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "أبد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:43.475415215Z",
+  "model": "glm-5.2"
+}

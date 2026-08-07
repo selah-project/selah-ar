@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "«رَأْيَكَ: قد دعوتُ بالاسم بِتْسالئيل بن أوري بن حور لسبط يهودا",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "رَأْيَكَ"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "قد دعوتُ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "بالاسم"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "بِتْسالئيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "أوري"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حور"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "لسبط"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:09:29.708497710Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 37:7",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "هأنذا أجعل فيه روَحًا (نفَسًا)، فيسمع خبرًا ويرجع إلى أرضه، وأُسقطه بالسيف في أرضه.»",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "هأنذا"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "أجعلُ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روَحًا"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "فيسمع"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "خبرًا"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ويرجع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "أرضه"
+    },
+    {
+      "surface": "והפלתיו",
+      "gloss": "وأُسقطه"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "بالسيف"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "في أرضه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:16:33.217268875Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "لأنه بهَفَر جاء، وفي الظلمة يمضي، وفي الظلمة يُغطَّى اسمه.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "בַּהֶבֶל",
+      "gloss": "بهَفَر"
+    },
+    {
+      "surface": "בָּא",
+      "gloss": "جاء"
+    },
+    {
+      "surface": "וּבַחֹשֶׁךְ",
+      "gloss": "وفي الظلمة"
+    },
+    {
+      "surface": "יֵלֵךְ",
+      "gloss": "يمضي"
+    },
+    {
+      "surface": "וּבַחֹשֶׁךְ",
+      "gloss": "وفي الظلمة"
+    },
+    {
+      "surface": "שְׁמוֹ",
+      "gloss": "اسمه"
+    },
+    {
+      "surface": "יְכֻסֶּה",
+      "gloss": "يُغطَّى"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:46.181864144Z",
+  "model": "glm-5.2"
+}

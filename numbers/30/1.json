@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 30:1",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وكلّم موشيه أبناء يسرائيل: حسب كلِّ ما أوصى به يهوه ⟨את⟩ موشيه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وكلّم"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "أبناء"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "حسب كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:27.832787157Z",
+  "model": "glm-5.2"
+}

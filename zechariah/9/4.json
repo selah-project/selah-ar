@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 9:4",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "هوذا أدوناي يُخرجها فيكون ضربُ قوّتها في البحر، وهي بالنار تُؤكَل.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יורשנה",
+      "gloss": "يُخرجها"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "فيضربُ"
+    },
+    {
+      "surface": "בים",
+      "gloss": "في البحر"
+    },
+    {
+      "surface": "חילה",
+      "gloss": "قوّتها"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "وهي"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بالنار"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "تُؤكَل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:36:31.951388924Z",
+  "model": "glm-5.2"
+}

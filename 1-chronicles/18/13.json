@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 18:13",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "ووضع في أدوم حُراسًا، وكان كل أدوم عبيدًا لداويد، ونجّى يهوه ⟨את⟩ داويد في كل ما سار.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ووضع"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "في أدوم"
+    },
+    {
+      "surface": "נציבים",
+      "gloss": "حُراسًا"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "وكانوا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "أدوم"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "عبيدًا"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "لداويد"
+    },
+    {
+      "surface": "ויושע",
+      "gloss": "ونجّى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داويد"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "سار"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:58.668833115Z",
+  "model": "glm-5.2"
+}

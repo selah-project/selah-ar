@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وخاف شاؤول من وجه دافود، لأن يهوه ⟨كان⟩ معه، ومن عند شاؤول مال.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "وخاف"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "من وجه"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "دافود"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨كان⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "ومن عند"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "סר",
+      "gloss": "مال"
+    }
+  ],
+  "timestamp": "2026-08-07T01:26:57.609255871Z",
+  "model": "glm-5.2"
+}

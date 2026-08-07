@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 106:18",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 106,
+  "translation": "واتقدت نارٌ في جماعتهم، لَهيبٌ أضرم الأشرار.",
+  "tokens": [
+    {
+      "surface": "ותבער",
+      "gloss": "واتقدت"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نار"
+    },
+    {
+      "surface": "בעדתם",
+      "gloss": "في جماعتهم"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "لَهيب"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "أضرم"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الأشرار"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:11.728141873Z",
+  "model": "glm-5.2"
+}

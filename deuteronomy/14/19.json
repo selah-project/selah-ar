@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وكلّ شِرص الطير ⟨هو⟩ نجسٌ لكم، لا يُؤكَل",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "شِرص"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "الطير"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "يُؤكَل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:26.343514754Z",
+  "model": "glm-5.2"
+}

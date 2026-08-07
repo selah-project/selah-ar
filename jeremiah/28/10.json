@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "فأخذ حَنانيا النافي ⟨את⟩ الموتاة من على عنق يِرميا النافي وكسرها.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "فأخذ"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "حَنانيا"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "النافي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الموتاة"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "الموتاة"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "من على"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "عنق"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "يِرميا"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "النافي"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "وكسرها"
+    }
+  ],
+  "timestamp": "2026-08-07T02:41:20.168606315Z",
+  "model": "glm-5.2"
+}

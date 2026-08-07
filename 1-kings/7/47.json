@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-kings 7:47",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وترك شلومو ⟨ألا⟩ يُوزَن جميع الآنية من كثرةٍ جداً جداً؛ لم يُفحص وزن النُحاس.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "وترك"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨ألا⟩",
+      "marks": "جميع"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميع"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "الآنية"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "من كثرة"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جداً"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جداً"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "נחקר",
+      "gloss": "يُفحص"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "وزن"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "النُحاس"
+    }
+  ],
+  "timestamp": "2026-08-07T01:44:17.201293488Z",
+  "model": "glm-5.2"
+}

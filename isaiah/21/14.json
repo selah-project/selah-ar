@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 21:14",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "لملاقاة العطشان أتوا بماء. سكّان أرض تيما بخبزهم استبقوا الهاربَ.",
+  "tokens": [
+    {
+      "surface": "לקראת",
+      "gloss": "لملاقاة"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "العطشان"
+    },
+    {
+      "surface": "התיו",
+      "gloss": "أتوا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "بماء"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "سكّان"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "تيما"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "بخبزهم"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "استبقوا"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "الهاربَ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:09:09.249358515Z",
+  "model": "glm-5.2"
+}

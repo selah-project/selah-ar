@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 29:3",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "هو في السنة الأولى لملكه في الشهر الأول فتح ⟨את⟩ أبواب بيت يهوه وقوّى⟨هم⟩.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "في السنة"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "الأولى"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "لملكه"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "في الشهر"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "الأول"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "فتح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أبواب"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "أبواب"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "وقوّى⟨هم⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T05:30:32.220559722Z",
+  "model": "glm-5.2"
+}

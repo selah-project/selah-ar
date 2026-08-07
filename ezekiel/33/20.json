@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "وقلتم «لا يُوَزَّن طريق أدوناي» كل واحدٍ كطرقه أدين ⟨את⟩كم يا بيت يسرايل",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "وقلتم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "يُوَزَّن"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "طريق"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كل واحدٍ"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "كطرقه"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "أدين"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاكم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "يا بيت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:08:38.389681372Z",
+  "model": "glm-5.2"
+}

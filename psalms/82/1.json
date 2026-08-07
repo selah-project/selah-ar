@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 82,
+  "translation": "مزمورٌ لِأَساف. إلوهيم ⟨يقف⟩ في مجلسِ إيل، في وسطِ إلوهيم ⟨هو⟩ يقضي.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "لأساف"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "يقف"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "في مجلس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "يقضي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:01:19.625654687Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 14:20",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "فقال يهوه: غفرتُ ككلامِكَ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "סלחתי",
+      "gloss": "غفرتُ"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ككلامك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:35:40.801474348Z",
+  "model": "glm-5.2"
+}

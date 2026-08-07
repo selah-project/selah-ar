@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 74,
+  "translation": "أنتَ شققتَ ينبوعًا ⟨و⟩نهرًا، أنتَ أبسلتَ أنهارًا دائمةً.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "شققتَ"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "ينبوع"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "ونهر"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "أبسلتَ"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "أنهار"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "دائمة"
+    }
+  ],
+  "timestamp": "2026-08-07T06:05:34.872948760Z",
+  "model": "glm-5.2"
+}

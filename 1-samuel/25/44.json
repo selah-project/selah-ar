@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 25:44",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وأمّا شاؤول فقد أعطى ⟨את⟩ ميخال ابنته امرأة داود لفلطي بن لايش الذي من جلّيم.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "وشاؤول"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ميخال"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "ميخال"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ابنته"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "לפלטי",
+      "gloss": "لفلطي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "ליש",
+      "gloss": "لايش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "מגלים",
+      "gloss": "من جلّيم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:29:57.409396508Z",
+  "model": "glm-5.2"
+}

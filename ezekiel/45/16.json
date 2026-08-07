@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 45:16",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "كلّ شعب الأرض يكونون ⟨إلى⟩ هذه التَّرفَمة للنَّسيئ في يِسرائيل.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "يكونون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨إلى⟩"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "التَّرفَمة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "للنَّسيئ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "في يِسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:17:41.642685406Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "ومُجذّفٌ أبوه ⟨وأمّه⟩ موتًا يُماتُ",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "ومُجذّفٌ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبوه"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "⟨وأمّه⟩"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موتًا"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "يُماتُ"
+    }
+  ],
+  "timestamp": "2026-08-07T07:02:11.577201428Z",
+  "model": "glm-5.2"
+}

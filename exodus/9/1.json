@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 9:1",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وقال يهوه لموشيه: اذهب إلى فرعون وكلّمه: هكذا قال يهوه إله العِبريّين: أطلق ⟨את⟩ شعبي فيعبدوني.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "בא",
+      "gloss": "اذهب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "وكلّم"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إيّاه"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إله"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "العِبريّين"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "أطلق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شعبي"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "شعبي"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "فيعبدوني"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:44.707669419Z",
+  "model": "glm-5.2"
+}

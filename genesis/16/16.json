@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وأفرام ابن ستّ وثمانين سنة حين ولدت هاغر ⟨את⟩ يِشماعيل لأفرام.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "وأفرام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ثمانين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "وستّ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنوات"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "حين ولدت"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "هاغر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يِشماعيل"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "يِشماعيل"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "لأفرام"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:53.462170396Z",
+  "model": "glm-5.2"
+}

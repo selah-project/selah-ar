@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 18:16",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "ككلّ ما سألت من عند يهوه إلهيم في حوريف في يوم الجمع قائلين: لا أعود أسمع ⟨את⟩ صوت يهوه إلهي، و⟨את⟩ هذه النار العظيمة، لا أرى أيضًا لئلا أموت.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "ككلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "سألت"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "من عند"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلهيم"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "في حوريف"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "الجمع"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "أعود"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "أسمع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صوت"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلهي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "النار"
+    },
+    {
+      "surface": "האש",
+      "gloss": "النار"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "العظيمة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "أرى"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و⟨لا⟩"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "أموت"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:05.219818895Z",
+  "model": "glm-5.2"
+}

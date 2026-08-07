@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 4:13",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "تمسّكْ بِالموسار لا ⟨تُرْخِهِ⟩، احرسها لأنها حياتُك.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "تمسّكْ"
+    },
+    {
+      "surface": "במוסר",
+      "gloss": "بِالموسار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "⟨تُرْخِهِ⟩"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "احرسها"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "حياتُك"
+    }
+  ],
+  "timestamp": "2026-08-07T06:07:56.656747944Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "فقال لهم: «لا، بل ⟨إنّكم⟩ جئتم لِتَرَوْا عورة الأرض».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بل"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "عورة"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "جئتم"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "لِتَرَوْا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:39.439325641Z",
+  "model": "glm-5.2"
+}

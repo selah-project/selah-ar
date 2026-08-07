@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨את⟩ آياتِهِ و⟨את⟩ أعمالَهُ التي صنعها في وسطِ مصرايم لفرعون مَلِكِ مصرايم ولكلِّ أرضِهِ،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "آياتِهِ"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "آياتِهِ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أعمالَهُ"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "أعمالَهُ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنعها"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "في وسطِ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "لفرعون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلِكِ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ولكلِّ"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "أرضِهِ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:54:04.229657485Z",
+  "model": "glm-5.2"
+}

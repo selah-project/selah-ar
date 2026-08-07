@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "نهارًا يوصي يهوه حِسِدَه، وفي الليل ⟨تكون⟩ شيرَه معي، صلاةً لإيل حياتي.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "نهارًا"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "يوصي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حِسِدَه"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "وفي الليل"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "شيرَه"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "معي"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "صلاةً"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "لإيل"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "حياتي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:55.727565483Z",
+  "model": "glm-5.2"
+}

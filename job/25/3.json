@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 25:3",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "هل لِجُنودهِ عددٌ؟ وعلى مَن لا يقوم نوره؟",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "هل"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "عدد"
+    },
+    {
+      "surface": "לגדודיו",
+      "gloss": "لجنوده"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "يقوم"
+    },
+    {
+      "surface": "אורהו",
+      "gloss": "نوره"
+    }
+  ],
+  "timestamp": "2026-08-07T04:39:33.203564029Z",
+  "model": "glm-5.2"
+}

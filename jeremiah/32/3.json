@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 32:3",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "إذ حبسه صدقياوه ملك يهودا قائلاً: لماذا أنت تنبّأ قائلاً: كذا قال يهوه: ها أنا أعطي ⟨את⟩ المدينة هذه ليد ملك بافل، فيأسرها.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "إذ"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "حبسه"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صدقياوه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "נבא",
+      "gloss": "تنبّأ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "כה",
+      "gloss": "كذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ها أنا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المدينة"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ليد"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافل"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "فيأسرها"
+    }
+  ],
+  "timestamp": "2026-08-07T02:43:06.711839792Z",
+  "model": "glm-5.2"
+}

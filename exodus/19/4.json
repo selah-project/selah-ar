@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "أنتم رأيتم ما فعلتُهُ بِمِصرايم، وحملتُّكم على أجنحة نُسور وأتيتُ بكم إليّ.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "رأيتم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "فعلتُهُ"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "بِمِصرايم"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "وحملتُّكم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاكم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "أجنحة"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "نُسور"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "وأتيتُ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "بكم"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:33.023574802Z",
+  "model": "glm-5.2"
+}

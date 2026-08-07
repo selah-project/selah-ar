@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 34:15",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "أنا أرعى قطيعي، وأنا أُربِضُهم — نَأمُ أدوناي يهوه.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "أرعى"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "قطيعي"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "ארביצם",
+      "gloss": "أُربِضُهم"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نَأمُ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:09:28.635189278Z",
+  "model": "glm-5.2"
+}

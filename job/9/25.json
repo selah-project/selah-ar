@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 9:25",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وأيّامي أَخَفُّ مِنْ ⟨ال⟩عدّاء، هربتْ، لم تَرَ خيرًا.",
+  "tokens": [
+    {
+      "surface": "וימי",
+      "gloss": "وأيّامي"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "أَخَفُّ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "مِنْ"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "⟨ال⟩عدّاء"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "هربتْ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "تَرَ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "خيرًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:34:07.340738941Z",
+  "model": "glm-5.2"
+}

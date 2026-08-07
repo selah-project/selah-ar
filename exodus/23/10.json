@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "وَسِتَّ سِنِين تَزْرَع ⟨את⟩ أَرْضَك، وَتَجْمَع ⟨את⟩ غَلَّتِها.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "وستّ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنين"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "تزرع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أرضك"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "أرضك"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "وتجمع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غلّتها"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "غلّتها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:17.392093123Z",
+  "model": "glm-5.2"
+}

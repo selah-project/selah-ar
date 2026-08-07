@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "فتأكل وتشبع وتبارك ⟨את⟩ يهوه إلهَك على الأرض الجيّدة التي أعطاك.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "فتأكل"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "وتشبع"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "وتبارك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلهك"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "الجيّدة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطى"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:53:58.121229418Z",
+  "model": "glm-5.2"
+}

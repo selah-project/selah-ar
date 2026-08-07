@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "ولأبناء قهات لم يُعطَ، لأنّ عبادة القدس عليها، على الكتف يحملونها.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ولأبناء"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قهات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطى"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "عبادة"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "القدس"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "عليها"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "على الكتف"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "يحملونها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:30:16.598302835Z",
+  "model": "glm-5.2"
+}

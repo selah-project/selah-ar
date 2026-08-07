@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 5:13",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "الفتيانُ رحى حملوا، والصبيانُ تحتَ الخشبِ تعثّروا.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "الفتيان"
+    },
+    {
+      "surface": "טחון",
+      "gloss": "رحى"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "حملوا"
+    },
+    {
+      "surface": "ונערים",
+      "gloss": "والصبيان"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "تحتَ الخشب"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "تعثّروا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:50:27.120672666Z",
+  "model": "glm-5.2"
+}

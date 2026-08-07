@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 69,
+  "translation": "لا يخزَ بي منتظروك يا أدوناي يهوه صباؤوت، لا يُهلَك بي طالبوك يا إلوهيم إسرايل.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "يخزَ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "بي"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "منتظروك"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "يا أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤوت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "يُهلَك"
+    },
+    {
+      "surface": "בי",
+      "gloss": "بي"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "طالبوك"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "يا إلوهيم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:58:22.339688438Z",
+  "model": "glm-5.2"
+}

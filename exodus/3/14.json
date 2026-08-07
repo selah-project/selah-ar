@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 3:14",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فقال إلوهيم لموشيه: «أهيِه الذي أهيِه». وقال: «هكذا تقول لبني يسرائيل: أهيِه أرسلني إليكم».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "أهيِه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "أهيِه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "تقول"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لبني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "أهيِه"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "أرسلني"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "إليكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:01:27.297450781Z",
+  "model": "glm-5.2"
+}

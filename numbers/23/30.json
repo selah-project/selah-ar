@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "ففعل بالاَق كما قال بِلْعام، وأصعد ثورًا وكبشًا ⟨على⟩ المذبح.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ففعل"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاَق"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلْعام"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "وأصعد"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ثور"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "وكبش"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "⟨على⟩ المذبح"
+    }
+  ],
+  "timestamp": "2026-08-07T00:39:10.392345707Z",
+  "model": "glm-5.2"
+}

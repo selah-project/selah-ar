@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وأمّا أنا فدودةٌ لا إنسان، عارُ البشر ومحتَقَرُ الشعب.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "وأمّا أنا"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "دودة"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "عار"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "البشر"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "ومحتَقَر"
+    },
+    {
+      "surface": "עם",
+      "gloss": "الشعب"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:49.963401103Z",
+  "model": "glm-5.2"
+}

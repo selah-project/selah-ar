@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وانضمَّ موشيه إلى المحلّة، هو وشيوخ يسرائيل.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "وانضمَّ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "المحلّة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "وشيوخ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:35:47.520053747Z",
+  "model": "glm-5.2"
+}

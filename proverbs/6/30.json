@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "لا يَحتقرون السارقَ إذا سرق لِيُشبع نَفسَه حين يجوع",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יָב֣וּזוּ",
+      "gloss": "يحتقرون"
+    },
+    {
+      "surface": "לַ֭גַּנָּב",
+      "gloss": "السارق"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יִגְנ֑וֹב",
+      "gloss": "يسرق"
+    },
+    {
+      "surface": "לְמַלֵּ֥א",
+      "gloss": "ليُشبع"
+    },
+    {
+      "surface": "נַ֝פְשׁ֗וֹ",
+      "gloss": "نفسه"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "حين"
+    },
+    {
+      "surface": "יִרְעָֽב",
+      "gloss": "يجوع"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:52.579518953Z",
+  "model": "glm-5.2"
+}

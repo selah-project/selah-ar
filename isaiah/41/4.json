@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "مَن فعَل وصنَع، يدعو الأجيالَ من الرأس؟ أنا يهوه أوَّلٌ، و⟨את⟩ الآخِرين أنا هو.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "فعَل"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "وصنَع"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "يدعو"
+    },
+    {
+      "surface": "הדורות",
+      "gloss": "الأجيالَ"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "من الرأس"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "أوَّلٌ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الآخِرين"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "الآخِرين"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T02:19:00.064369223Z",
+  "model": "glm-5.2"
+}

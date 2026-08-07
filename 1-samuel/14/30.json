@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 14:30",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "فكم بالحري لو أكل الشعب اليوم من سَلَب أعدائه الذي وجده! فإنّه الآن لم تَعظُم ⟨من⟩ الضربة في الفلشتيم.»",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "فكم بالحري"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לוא",
+      "gloss": "لو"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "أكل"
+    },
+    {
+      "surface": "אכל",
+      "gloss": ""
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "משלל",
+      "gloss": "من سَلَب"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "أعدائه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "وجده"
+    },
+    {
+      "surface": "כי",
+      "gloss": "فإنّه"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "تَعظُم"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "الضربة"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "في الفلشتيم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:25:10.127251858Z",
+  "model": "glm-5.2"
+}

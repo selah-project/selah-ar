@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "مباركٌ يهوه، لأنّه أبدعَ حِسِدَهُ لي في مدينةٍ محاصَرة.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "مباركٌ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "أبدعَ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حِسِدَه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "في مدينةٍ"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "محاصَرة"
+    }
+  ],
+  "timestamp": "2026-08-07T08:03:51.856620843Z",
+  "model": "glm-5.2"
+}

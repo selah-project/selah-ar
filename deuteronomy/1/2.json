@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "أحدَ عشرَ يومًا من حوريف، طريقَ جبل سعير، إلى قادِش بارنيع.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "أحدَ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشرَ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يومًا"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "من حوريف"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "طريقَ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سعير"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادِش"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "بارنيع"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:45.573019320Z",
+  "model": "glm-5.2"
+}

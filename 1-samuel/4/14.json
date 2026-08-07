@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وسمع عيلي ⟨את⟩ صوت الصراخ، وقال: ما ⟨هذا⟩ صوت هذا الضجيج؟ والرجل أسرع وجاء وأخبر عيلي.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "وسمع"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عيلي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صوت"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "الصراخ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "الضجيج"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "والرجل"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "أسرع"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "وأخبر"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "عيلي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:22:23.443149930Z",
+  "model": "glm-5.2"
+}

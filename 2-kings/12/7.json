@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وفي السنة العشرين والثالثة للملك يهوآش لم يُقوّ الكهنة ⟨את⟩ خراب البيت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وفي"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "السنة"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "العشرين"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "والثالثة"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "למלך",
+      "gloss": "للملك"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "يهوآش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "يُقوّ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكهنة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خراب"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "خراب"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    }
+  ],
+  "timestamp": "2026-08-07T01:58:07.369402346Z",
+  "model": "glm-5.2"
+}

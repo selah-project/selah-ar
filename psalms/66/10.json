@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 66,
+  "translation": "لأنّك ⟨يا⟩ إلوهيم اختبرتنا، صهّرتنا كصهارة الفضّة.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّك"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "اختبرتنا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "صهّرتنا"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "كصهارة"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "الفضّة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:25.513881621Z",
+  "model": "glm-5.2"
+}

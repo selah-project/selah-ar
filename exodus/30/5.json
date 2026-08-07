@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وتصنع ⟨את⟩ العصي خشبَ شِطّيم، وتُغشّيها ⟨אתها⟩ ذهبًا.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "وتصنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "العصي"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "العصي"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "خشبَ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شِطّيم"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "وتُغشّيها"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתها⟩",
+      "marks": "ذهبًا"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهبًا"
+    }
+  ],
+  "timestamp": "2026-08-07T07:03:33.659606067Z",
+  "model": "glm-5.2"
+}

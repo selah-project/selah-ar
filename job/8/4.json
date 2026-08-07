@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "إن أبناءك أخطأوا إليه، فأرسلهم في يدِ فِشعهم.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "أبناءك"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "أخطأوا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "فأرسلهم"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "في يدِ"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "فِشعهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:25.466037794Z",
+  "model": "glm-5.2"
+}

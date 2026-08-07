@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 9:2",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فأخبرها شلومو ⟨את⟩ كلَّ كلماتها، ولم يَخْتَفِ كلامٌ من شلومو لم يُخبرها به.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "فأخبر"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "كلماتها"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "يَخْتَفِ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلامٌ"
+    },
+    {
+      "surface": "משלמה",
+      "gloss": "من شلومو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "يُخبر"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ها"
+    }
+  ],
+  "timestamp": "2026-08-07T05:25:12.610113115Z",
+  "model": "glm-5.2"
+}

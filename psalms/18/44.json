@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 18:44",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "تُنقذني من خصومات شعب، تجعلني رأساً للأمم، شعباً لم أعرفه يخدمني.",
+  "tokens": [
+    {
+      "surface": "תפלטני",
+      "gloss": "تُنقذني"
+    },
+    {
+      "surface": "מריבי",
+      "gloss": "من خصومات"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "تجعلني"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "رأساً"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "للأمم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعباً"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "أعرفه"
+    },
+    {
+      "surface": "יעבדוני",
+      "gloss": "يخدمني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:39.113086263Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 117,
+  "translation": "هَلِّلوا ⟨את⟩ يهوه يا جميعَ الأمم، سبِّحوه يا جميعَ الشعوب.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "هَلِّلوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميع"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "سبِّحوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميع"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "الشعوب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:56.194976964Z",
+  "model": "glm-5.2"
+}

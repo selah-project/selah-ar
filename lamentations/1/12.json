@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 1:12",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "أليس إليكم هذا، كلَّ عابري سبيل؟ انظروا وروا هل يوجد ألمٌ كألمي الذي فُعِل بي، الذي أنزلَه يهوه في يوم حنق غضبه.",
+  "tokens": [
+    {
+      "surface": "לוא",
+      "gloss": "أليس"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "إليكم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "عابري"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "سبيل"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "انظروا"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "وروا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "هل"
+    },
+    {
+      "surface": "יש",
+      "gloss": "يوجد"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "ألمٌ"
+    },
+    {
+      "surface": "כמכאבי",
+      "gloss": "كألمي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עולל",
+      "gloss": "فُعِل"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "أنزلَه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "حنق"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "غضبه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:49:31.841570689Z",
+  "model": "glm-5.2"
+}

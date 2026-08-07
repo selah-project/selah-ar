@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 20:17",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "ورجلٌ ⟨الذي⟩ يأخذ ⟨את⟩ أخته بنتَ أبيه أو بنتَ أمّه ويرى ⟨את⟩ عورتها وهي ترى ⟨את⟩ عورته، حِسِدٌ هو، فيُقطَعان أمام أعين بني شعبهم؛ عورةَ أخته كشف، ذنبه يحمل.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ورجلٌ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "يأخذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أخته"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "أخته"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنتَ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنتَ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "أمّه"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ويرى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عورتها"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "عورتها"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "وهي"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ترى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عورته"
+    },
+    {
+      "surface": "ערותו",
+      "gloss": "عورته"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حِسِد"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "فيُقطَعان"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "أمام أعين"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "شعبهم"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "عورةَ"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "أخته"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "كشف"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ذنبه"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "يحمل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:18.864199478Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وإن لم يغسِل ولم يغتسل جسدُه، فقد حمل إثمَه.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "يغسِل"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "جسدُه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "يغتسل"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "فقد حمل"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "إثمَه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:59.189707946Z",
+  "model": "glm-5.2"
+}

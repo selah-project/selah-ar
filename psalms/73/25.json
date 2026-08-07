@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 73,
+  "translation": "مَنْ لي في السماوات؟ ومعك لا اشتهيت ⟨شيئًا⟩ في الأرض.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "مَنْ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "في السماوات"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ومعك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "اشتهيت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:11.623544875Z",
+  "model": "glm-5.2"
+}

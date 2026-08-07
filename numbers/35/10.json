@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "«كلّم بَنِي يِسرائيل وقُلْ لهم: حينما تعبرون ⟨את⟩ نهر الأردن إلى أرضِ كَنعان،",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "كلّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "وقُلْ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "حينما"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "تعبرون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نهر الأردن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "الأردن"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "إلى أرضِ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كَنعان"
+    }
+  ],
+  "timestamp": "2026-08-07T00:45:11.047690393Z",
+  "model": "glm-5.2"
+}

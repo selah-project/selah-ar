@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 117,
+  "translation": "لأنّ حِسِدَهُ قد غَلَبَ علينا، و⟨⟩ إمِتَ يهوه إلى الأبد. هَلِّلوا ياه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "غَلَبَ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "علينا"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حِسِدَهُ"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "وإمِتَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "هَلِّلوا"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:56.195259678Z",
+  "model": "glm-5.2"
+}

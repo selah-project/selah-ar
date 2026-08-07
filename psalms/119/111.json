@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "ورثتُ شهاداتك إلى الأبد، لأنها هي بهجة قلبي.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "ورثتُ"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "شهاداتك"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنها"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "بهجة"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:57.098738705Z",
+  "model": "glm-5.2"
+}

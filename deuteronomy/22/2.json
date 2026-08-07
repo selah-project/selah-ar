@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 22:2",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وإذا لم ⟨يكن⟩ أخوك قريبًا إليك ولم تعرفه، فاجمعه إلى وسط بيتك، و⟨يكن⟩ معك حتى يطلب أخوك ⟨את⟩ه، فتُرجعه إليه.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "قريبًا"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "أخوك"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "ידעתו",
+      "gloss": "تعرفه"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "فاجمعه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "وسط"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "بيتك"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و⟨يكن⟩"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "يطلب"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "أخوك"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ه"
+    },
+    {
+      "surface": "והשבתו",
+      "gloss": "فتُرجعه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "إليه"
+    }
+  ],
+  "timestamp": "2026-08-07T07:18:05.796146478Z",
+  "model": "glm-5.2"
+}

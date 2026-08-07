@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "في كل الأرض خرج خيطُهم، وإلى أقصى المسكونة كلامُهم. للشمس وضع خيمة فيهم.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "في كلّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "خرج"
+    },
+    {
+      "surface": "קום",
+      "gloss": "خيطُهم"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "وإلى أقصى"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "المسكونة"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "كلامُهم"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "للشمس"
+    },
+    {
+      "surface": "שם",
+      "gloss": "وضع"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "فيهم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:17.095678028Z",
+  "model": "glm-5.2"
+}

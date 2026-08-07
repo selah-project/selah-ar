@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 4:16",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "لا نهايةَ لكلِّ الشعب، لكلِّ الذين كانوا قبلهم. أيضًا الآخرون لا يفرحون به. لأنّ هذا أيضًا هَباءٌ ورعيُّ روَح.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "نهايةَ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لـكلِّ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لـكلِّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كانوا"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "قبلهم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "האחרונים",
+      "gloss": "الآخرون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "يفرحون"
+    },
+    {
+      "surface": "בו",
+      "gloss": "به"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هذا أيضًا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هَباءٌ"
+    },
+    {
+      "surface": "ורעיון",
+      "gloss": "ورعيُّ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روَح"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:27.633363503Z",
+  "model": "glm-5.2"
+}

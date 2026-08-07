@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وأيضًا ⟨את⟩ ابن الأمة لأُمّةٍ أجعله، لأنه زرعك.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابن الأمة"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "الأمة"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "لأُمّةٍ"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "أجعله"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "زرعك"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:45.866272077Z",
+  "model": "glm-5.2"
+}

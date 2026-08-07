@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "فذهب عمشا ليجمع ⟨את⟩ يهودا، وتأخّر عن الموعد الذي حدّده له.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "فذهب"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "عمشا"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "ليجمع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهودا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "وتأخّر"
+    },
+    {
+      "surface": "מן",
+      "gloss": "عن"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "الموعد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "حدّده له"
+    }
+  ],
+  "timestamp": "2026-08-07T01:39:59.401652736Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فذهبتُ ودفنتُه في فَرات، كما أمر يهوه ⟨إيّاي⟩.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "فذهبتُ"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "وخبّأته\/ودفنتُه"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "في فَرات"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أمر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاي"
+    }
+  ],
+  "timestamp": "2026-08-07T02:35:18.667478670Z",
+  "model": "glm-5.2"
+}

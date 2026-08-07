@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 1:12",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فقال يهوه لِهَشَّاطان: «ها كلُّ ما له في يدِك، لكن إيّاه فقط لا تُرسل يدَك عليه». فخرج هَشَّاطان من أمام وجه يهوه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لِـ"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "هَشَّاطان"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "في يدِك"
+    },
+    {
+      "surface": "רק",
+      "gloss": "لكن"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إيّاه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "تُرسل"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدَك"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "فخرج"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "هَشَّاطان"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "من أمام"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T08:16:57.872009444Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "و⟨كانت⟩ أوّلَ مملكته بافلَ وأرَكَ وأكّادَ وكَلنِه، في أرض شنعار.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "و⟨كانت⟩"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "أوّل"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "مملكته"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافل"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "وأرَكَ"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "وأكّادَ"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "وكَلنِه"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "شنعار"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:42.555892118Z",
+  "model": "glm-5.2"
+}

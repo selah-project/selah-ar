@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 2:14",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "واسم النهر الثالث حِدّيقَل، هو السائر أمام أَشُّور. ونهر الرابع هو فِرات",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "واسم"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "النهر"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "الثالث"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "حِدّيقَل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "السائر"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "أَشُّور"
+    },
+    {
+      "surface": "והנהר",
+      "gloss": "والنهر"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "الرابع"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "فِرات"
+    }
+  ],
+  "timestamp": "2026-08-06T23:36:57.102522128Z",
+  "model": "glm-5.2"
+}

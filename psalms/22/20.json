@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وأمّا أنت يا يهوه فلا تتباعد، يا قوّتي إلى نُصري أسرِع.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "وأمّا أنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "تتباعد"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "يا قوّتي"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "إلى نُصري"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "أسرِع"
+    }
+  ],
+  "timestamp": "2026-08-07T03:45:02.593590985Z",
+  "model": "glm-5.2"
+}

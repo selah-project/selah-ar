@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 12:19",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "فرأى داود أنّ عبيده يتل مَسون، ففهم داود أنّ الطفل مات. فقال داود لعبيده: «هل مات الطفل؟» فقالوا: «مات.»",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "فرأى"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "عبيده"
+    },
+    {
+      "surface": "מתלחשים",
+      "gloss": "يتلَمَسون"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ففهم"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مات"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "الطفل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "عبيده"
+    },
+    {
+      "surface": "המת",
+      "gloss": "هل مات"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "الطفل"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقالوا"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مات"
+    }
+  ],
+  "timestamp": "2026-08-07T01:35:04.809403223Z",
+  "model": "glm-5.2"
+}

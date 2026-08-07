@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "للمُنْشِد على ذواتِ الأوتار، مَزْمور لِداؤد",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "للمُنْشِد"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "على ذواتِ الأوتار"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مَزْمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِداؤد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:40:33.422998590Z",
+  "model": "glm-5.2"
+}

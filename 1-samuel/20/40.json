@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "وأعطى يهوناتان ⟨את⟩ عدَّته للغلام الذي له، وقال له: «اذهب، أحضر ⟨إلى⟩ المدينة.»",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "وأعطى"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يهوناتان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عدَّته"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "عدَّته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "الغلام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اذهب"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "أحضر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:28:07.627484085Z",
+  "model": "glm-5.2"
+}

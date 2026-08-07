@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "فقال يهوه له: اذهب رُدّ على طريقك صوب بريّة دمشق، وادخل ومسح ⟨את⟩ حزائيل ملكًا على آرام.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اذهب"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "رُدّ"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "على طريقك"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "صوب بريّة"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "دمشق"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "وادخل"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ومسح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حزائيل"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "حزائيل"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ملكًا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "آرام"
+    }
+  ],
+  "timestamp": "2026-08-07T01:51:17.278946237Z",
+  "model": "glm-5.2"
+}

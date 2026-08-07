@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 10:1",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "«في ذلك الوقت» قال يهوه لي: انحت لك لوحين من حجارة كالأوّلين، واصعد إليّ الجبل، فتصنع لك تابوتًا من خشب.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "في وقت"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "انحت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "שני",
+      "gloss": "اثنين"
+    },
+    {
+      "surface": "לוחת",
+      "gloss": "لوحَين"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "من حجارة"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "كالأوّلين"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "واصعد"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "الجبلَ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "فتصنع"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوتًا"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "من خشب"
+    }
+  ],
+  "timestamp": "2026-08-07T05:43:42.479770061Z",
+  "model": "glm-5.2"
+}

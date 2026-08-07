@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 44:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "فقال لهم يوسف: «ما هذا الفعل الذي فعلتموه؟ أما تعلمون أنّ رجلاً مثلني يتعرّف ⟨بالعرافة⟩؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "الفعل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "فعلتموه"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "أما"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "تعلمون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "يتعرّف"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "⟨بالعرافة⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلاً"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "مثل"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "مثلي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:55.082631042Z",
+  "model": "glm-5.2"
+}

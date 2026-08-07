@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 10:31",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فمُ الصدّيق يُنبت حكمة، ولسان المقلوبات يُقطع.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "فمُ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "الصدّيق"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "يُنبت"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حكمة"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "ولسانُ"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "المقلوبات"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "يُقطع"
+    }
+  ],
+  "timestamp": "2026-08-07T04:24:41.438446780Z",
+  "model": "glm-5.2"
+}

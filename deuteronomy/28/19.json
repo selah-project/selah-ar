@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "ملعونٌ أنتَ في دخولك، وملعونٌ أنتَ في خروجك.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملعونٌ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "في دخولك"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "و⟨ملعونٌ⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "في خروجك"
+    }
+  ],
+  "timestamp": "2026-08-07T05:43:27.919551548Z",
+  "model": "glm-5.2"
+}

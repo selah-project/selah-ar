@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 14:17",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وخرج اسم داوديد في كل الأراضي، ويعطي يهوه ⟨את⟩ فزعه على كل الأمم.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوديد"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كل"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "الأراضي"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ويهوه"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "يعطي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فزعه"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "فزعه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "الأمم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:14:45.895146202Z",
+  "model": "glm-5.2"
+}

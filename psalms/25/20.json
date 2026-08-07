@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "احفظْ نَفْسي وأنقذني، لا أخجلْ، فإنّي احتميتُ بك.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "احفظ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفْسي"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "وأنقذني"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "أخجلْ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "فإنّي"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "احتميتُ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "بك"
+    }
+  ],
+  "timestamp": "2026-08-07T06:02:05.431875029Z",
+  "model": "glm-5.2"
+}

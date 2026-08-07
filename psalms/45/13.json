@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "وبنتُ صور ⟨بِ⟩ تَقدمةٍ وجهَكِ يَتوسَّلون إليهِ، أغنياءُ الشعبِ",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "وبنتُ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صور"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "⟨بِ⟩ تَقدمةٍ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهَكِ"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "يَتوسَّلون"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "أغنياءُ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "الشعبِ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:52:09.545822086Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nahum 3:12",
+  "book": "nahum",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "كلُّ حصونكِ تينٌ مع الباكورات، إذا هُزُّوا وقعوا في فم الآكل.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "מבצריך",
+      "gloss": "حصونكِ"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "تينٌ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "בכורים",
+      "gloss": "الباكورات"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "هُزُّوا"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "وقعوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "في"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فم"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "الآكل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:30:53.180838557Z",
+  "model": "glm-5.2"
+}

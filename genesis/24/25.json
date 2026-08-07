@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 24:25",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فقالتْ له: أيضًا تبنٌ، أيضًا علفٌ كثيرٌ عندنا، أيضًا مكانٌ ⟨لأنْ نَبيتَ فيه⟩.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالتْ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "تبنٌ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "علفٌ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "كثيرٌ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "عندنا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "مكانٌ"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "لأنْ نَبيتَ فيه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:42:50.015917229Z",
+  "model": "glm-5.2"
+}

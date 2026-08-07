@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 59,
+  "translation": "ويعودون عند المساءِ، يئِنُّون كالكلب، ويطوفون المدينة.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "ويعودون"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "عند المساء"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "يئنون"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "كالكلب"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "ويطوفون"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "المدينة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:10.504337453Z",
+  "model": "glm-5.2"
+}

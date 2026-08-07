@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "يهوه من السماوات أشرف على بني الإنسان لِيَرَى هل من مَسكيل، طالبًا ⟨את⟩ إلوهيم.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "من السماوات"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "أشرف"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "لِيَرَى"
+    },
+    {
+      "surface": "היש",
+      "gloss": "هل من"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "مَسكيل"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "طالبًا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "إلوهيم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:43:13.127400189Z",
+  "model": "glm-5.2"
+}

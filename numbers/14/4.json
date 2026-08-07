@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 14:4",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وقال رجلٌ لأخيه: «نعيِّن رئيسًا ونرجع إلى مصرايم».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "أخيه"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "نعيِّن"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رئيسًا"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "ونرجع"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "إلى مصرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:35:18.641460668Z",
+  "model": "glm-5.2"
+}

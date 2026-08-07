@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 14:6",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "ويهوشُع بن نون وكالِف بن يَفُنّة، ⟨هم⟩ من المتجوّلين في ⟨את⟩ الأرض، مزّقوا ثيابهم.",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "ويهوشُع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    },
+    {
+      "surface": "וכלב",
+      "gloss": "وكالِف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "يَفُنّة"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "المتجوّلين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "مزّقوا"
+    },
+    {
+      "surface": "בגדיהם",
+      "gloss": "ثيابهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:35:33.161318860Z",
+  "model": "glm-5.2"
+}

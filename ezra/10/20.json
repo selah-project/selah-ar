@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "ومن بني إيمّير: حَنانِي وزَبَديا.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "ومن بني"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "إيمّير"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "حَنانِي"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "وزَبَديا"
+    }
+  ],
+  "timestamp": "2026-08-07T06:12:50.238497949Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وتُصفِّح ⟨את⟩ه ذهبًا طاهرًا، وتصنع له إكليل ذهب حواليه.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "وتُصفِّح"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "المائدة"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهبًا"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "طاهرًا"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "وتصنع"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "זר",
+      "gloss": "إكليل"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهب"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "حواليه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:41.590212020Z",
+  "model": "glm-5.2"
+}

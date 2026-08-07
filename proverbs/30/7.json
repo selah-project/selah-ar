@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "اثنتين سألتُكَ، لا تمنعها عنّي قبل أن أموت",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "اثنتين"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "سألتُ"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "منك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "تمنع"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "عنّي"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "قبل"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "أن أموت"
+    }
+  ],
+  "timestamp": "2026-08-07T06:08:51.177513760Z",
+  "model": "glm-5.2"
+}

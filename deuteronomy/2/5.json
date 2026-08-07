@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 2:5",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "لا تستفزّوهم لأنّه لا أُعطي لكم من أرضهم ⟨حتى⟩ مدركَ كفّ قدمٍ لأنّه مُمتلكًا لعيسو أعطيتُ ⟨את⟩ جبل سعير",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תתגרו",
+      "gloss": "تستفزّوا"
+    },
+    {
+      "surface": "בם",
+      "gloss": "فيهم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "أُعطي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "מארצם",
+      "gloss": "من أرضهم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "مدركَ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "كفّ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "قدم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "مُمتلكًا"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "لعيسو"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "أعطيتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جبل سعير"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سعير"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:53.036971143Z",
+  "model": "glm-5.2"
+}

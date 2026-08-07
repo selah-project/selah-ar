@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "⟨את⟩ أوتاد المِشكان و⟨את⟩ أوتاد الدار و⟨את⟩ حِبالهم،",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أوتاد"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "أوتاد"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "المِشكان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أوتاد"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "أوتاد"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "الدار"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "حبالهم"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "حِبالهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:13:19.203102766Z",
+  "model": "glm-5.2"
+}

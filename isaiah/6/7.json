@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "ومسّ ⟨على⟩ فمي وقال: ها هذه قد مسّت ⟨على⟩ شفتيك، فزال إثمُك وستُكفَّر خطيّتُك.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "ومسّ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فمي"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "مسّت"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "شفتيك"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "فزال"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "إثمك"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "وخطيّتك"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "ستُكفَّر"
+    }
+  ],
+  "timestamp": "2026-08-07T02:06:17.474142303Z",
+  "model": "glm-5.2"
+}

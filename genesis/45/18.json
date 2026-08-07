@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "وخذوا ⟨את⟩ أباكم و⟨את⟩ بيوتكم وأتوا إليّ، فأعطيكم ⟨את⟩ خيرِ أرض مصرايم، وتأكلون ⟨את⟩ دسم الأرض.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "وخذوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أباكم"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "أباكم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بيوتكم"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "بيوتكم"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "وأتوا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "فأعطيكم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خير"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خير"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "وتأكلون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دسم"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "دسم"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-06T23:57:12.965147629Z",
+  "model": "glm-5.2"
+}

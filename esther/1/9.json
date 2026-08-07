@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 1:9",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "أيضًا وَشتي الملكة صنعت مَشتى نساءٍ في بيت المُلك الذي للملك أَحَشويروش.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "وَشتي"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "الملكة"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "صنعت"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "مَشتى"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "نساءٍ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "في بيت"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "المُلك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "للملك"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "أَحَشويروش"
+    }
+  ],
+  "timestamp": "2026-08-07T04:53:58.427211774Z",
+  "model": "glm-5.2"
+}

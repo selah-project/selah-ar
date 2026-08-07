@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 34:6",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "«على حكمي أُعدُّ كاذبًا، سهمي مميتٌ بلا ذنب».",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "حكمي"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "أُعدُّ كاذبًا"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "مميتٌ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "سهمي"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بلا"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ذنب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:42:06.761034404Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 4:16",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وهو يتكلّمُ لك ⟨إلى⟩ الشعب، ويكونُ هو يكونُ لك لفمًا، وأنت تكونُ له لإلوهيم.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "ويتكلّمُ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨إلى⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ويكونُ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكونُ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "لفمًا"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "وأنت"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تكونُ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "لإلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:27.262208799Z",
+  "model": "glm-5.2"
+}

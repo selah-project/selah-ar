@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "«ابنَ آدم، امرأتانِ ابنتا أمٍّ واحدةٍ ⟨هما⟩.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ابنَ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "اثنتانِ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "امرأتانِ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ابنتا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أمٍّ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "واحدةٍ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨هما⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T03:04:46.403562234Z",
+  "model": "glm-5.2"
+}

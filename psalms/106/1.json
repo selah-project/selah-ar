@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 106,
+  "translation": "هلّلوا ياه، احمدوا يهوه لأنّه صالح، لأنّ إلى الأبد حِسِده.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "هلّلوا"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "احمدوا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "صالح"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حِسِده"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:28.247389242Z",
+  "model": "glm-5.2"
+}

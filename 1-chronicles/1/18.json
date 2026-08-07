@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وَأَرَفْكَشَاد وَلَدَ ⟨את⟩ شَلَح، وَشَلَح وَلَدَ ⟨את⟩ عِيبِر.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "وَأَرَفْكَشَاد"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "وَلَدَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شَلَح"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شَلَح"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "وَشَلَح"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "وَلَدَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عِيبِر"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِيبِر"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:04.321145927Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "مَنْ لا يَعْرِفُ في كلِّ هذه أنَّ يدَ يهوه صنعتْ هذا؟",
+  "tokens": [
+    {
+      "surface": "מִי",
+      "gloss": "مَنْ"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יָדַע",
+      "gloss": "يَعْرِفُ"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "في كلِّ"
+    },
+    {
+      "surface": "אֵלֶּה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "أنَّ"
+    },
+    {
+      "surface": "יַד",
+      "gloss": "يدَ"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עָשְׂתָה",
+      "gloss": "صنعتْ"
+    },
+    {
+      "surface": "זֹאת",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:34:30.486079211Z",
+  "model": "glm-5.2"
+}

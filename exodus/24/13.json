@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 24:13",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فقام موشيه ويلهوشوع مَشْرتُه، وصعد موشيه إلى جبل إلوهيم.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "فقام"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "ويلهوشوع"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "مَشْرته"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "وصعد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:00.781196378Z",
+  "model": "glm-5.2"
+}

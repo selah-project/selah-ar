@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "ملكًا في جماله تتأمّل ⟨الـ⟩عينان، تريان أرضبعيدة.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ملكًا"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "في جماله"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "تتأمّل"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "عيناك"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "تريان"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "بعيدة"
+    }
+  ],
+  "timestamp": "2026-08-07T02:14:34.765688538Z",
+  "model": "glm-5.2"
+}

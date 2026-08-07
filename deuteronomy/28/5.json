@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "مباركٌ سلّكُك ومعجَنُك.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "مباركٌ"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "سلّكُك"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "ومعجَنُك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:13.092470252Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "لا يُؤذُون ولا يُهلِكون في كلّ جبل قدسي، لأنّ الأرض تمتلئ مَعرِفةً ⟨بـ⟩يهوه، كالمياه للبحر ⟨التي⟩ تغطّيه.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "يؤذون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "يهلكون"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلّ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبل"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "قدسي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "امتلأت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "معرفة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "كالمياه"
+    },
+    {
+      "surface": "לים",
+      "gloss": "للبحر"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "غاطّة"
+    }
+  ],
+  "timestamp": "2026-08-07T02:06:40.305098989Z",
+  "model": "glm-5.2"
+}

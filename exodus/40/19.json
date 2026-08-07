@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 40:19",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "وبسط ⟨את⟩ الخيمة على المِشكان ووضع ⟨את⟩ غطاء الخيمة عليها من فوق، كما أوصى يهوه ⟨את⟩ موشيه.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "وبسط"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الخيمة"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "الخيمة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "المِشكان"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ووضع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غطاء"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "غطاء"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "الخيمة"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليها"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "من فوق"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:21.668864310Z",
+  "model": "glm-5.2"
+}

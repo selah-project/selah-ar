@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "فأرسل شلومو إلى حيرام قائلًا:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "حيرام"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:43:58.204403323Z",
+  "model": "glm-5.2"
+}

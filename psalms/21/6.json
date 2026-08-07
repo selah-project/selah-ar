@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "عظيمٌ مجده بخلاصك؛ هَيلًا وبهاءً تُسوّي ⟨عليه⟩.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "عظيم"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "مجده"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "بخلاصك"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "هَيل"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "وبهاء"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "تُسوّي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:45.525851228Z",
+  "model": "glm-5.2"
+}

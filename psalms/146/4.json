@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 146,
+  "translation": "يخرج روَحه، يعود إلى أرضه؛ في ذلك اليوم تبيد مشاوراته.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "يخرج"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "روَحه"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "يعود"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "إلى أرضه"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "تبيد"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "مشاوراته"
+    }
+  ],
+  "timestamp": "2026-08-07T04:21:03.454560739Z",
+  "model": "glm-5.2"
+}

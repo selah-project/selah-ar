@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "صداقتُك كجبال إيل، أحكامُك تَهْومٌ عظيمة، إنسٌ وبهيمة تُخلّص يهوه.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "صداقتُك"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "كجبال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "أحكامُك"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "تَهْومٌ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "عظيمة"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "إنسٌ"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "وبهيمة"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "تُخلّص"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:43.572097387Z",
+  "model": "glm-5.2"
+}

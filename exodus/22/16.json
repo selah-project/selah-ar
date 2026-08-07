@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "إن أبى يأبى أبوها أن يُعطيها له، فضّةً يَزِنُ كَمَهْرِ البَتولاتِ",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "أبى"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "يأبى"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "أبوها"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "أن يُعطيها"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضّة"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "يَزِنُ"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "كَمَهرِ"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "البَتولات"
+    }
+  ],
+  "timestamp": "2026-08-07T05:37:57.441035039Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 22:27",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "و⟨إلى⟩ الأرض التي هم يرفعون ⟨את⟩ نَفْسهم للرجوع إليها، إلى هناك لا يرجعون.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و⟨إلى⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "מנשאים",
+      "gloss": "يرفعون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نَفْسهم"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "نَفْسهم"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "للرجوع"
+    },
+    {
+      "surface": "שם",
+      "gloss": "إليها"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "إلى هناك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "يرجعون"
+    }
+  ],
+  "timestamp": "2026-08-07T02:38:25.630344808Z",
+  "model": "glm-5.2"
+}

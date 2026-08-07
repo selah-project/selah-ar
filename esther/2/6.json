@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 2:6",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "الذي سُبي من يروشالايم مع السبي الذي سُبي مع يكنيا ملك يهودا، الذي سباه نبوخدنئَصَّر ملك بافل.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "سُبي"
+    },
+    {
+      "surface": "מירושלים",
+      "gloss": "من يروشالايم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "السبي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "הגלתה",
+      "gloss": "سُبي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "يكنيا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "سباه"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "نبوخدنئَصَّر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:54:28.125410024Z",
+  "model": "glm-5.2"
+}

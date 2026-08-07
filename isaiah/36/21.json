@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 36:21",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "فَسَكَتوا ولم يُجيبوه ⟨את⟩ كلمةً، لأنّها مِنْ أمر الملك: «لا تُجيبوه».",
+  "tokens": [
+    {
+      "surface": "ויחרישו",
+      "gloss": "فَسَكَتوا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "يُجيبوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "كلمةً"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمةً"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّها"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "مِنْ أمر"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨هي⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "تُجيبوه"
+    }
+  ],
+  "timestamp": "2026-08-07T06:37:43.069337786Z",
+  "model": "glm-5.2"
+}

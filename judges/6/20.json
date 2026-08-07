@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وقال له ملاك إلوهيم: «خذ ⟨את⟩ اللحم و⟨את⟩ الفطير، وضع على الصخرة هذه، و⟨את⟩ المرق اسكبه.» ففعل كذلك.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ملاك"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "קח",
+      "gloss": "خذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اللحم"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "اللحم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الفطير"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "الفطير"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "وضع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "على"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "الصخرة"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "المرق"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "المرق"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "اسكبه"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ففعل"
+    },
+    {
+      "surface": "כן",
+      "gloss": "كذلك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:14:35.356663399Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 20:24",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "مِن يهوه خطواتُ الجَبَار؛ والإنسان، كيف يَفهَمُ طريقه؟",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "مِن يهوه"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "خطوات"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "الجَبَار"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "والإنسان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "كيف"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "يَفهَم"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "طريقه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:10.363110778Z",
+  "model": "glm-5.2"
+}

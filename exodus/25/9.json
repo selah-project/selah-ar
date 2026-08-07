@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "كَكُلِّ ما أنا أُريكَ، ⟨את⟩ نموذج المِشكان و⟨את⟩ نموذج كلّ آنيته، فهكذا تصنعون.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "كَكُلِّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "أُريكَ"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "إيّاك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نموذج"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "نموذج"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "المِشكان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "نموذج"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "نموذج"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "آنيته"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "فهكذا"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "تصنعون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:58.603705510Z",
+  "model": "glm-5.2"
+}

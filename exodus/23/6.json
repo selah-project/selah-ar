@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "لا تَمِلْ حقَّ فقيرك في خصومته",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "تَمِلْ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حقَّ"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "فقيرك"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "في خصومته"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:13.960122191Z",
+  "model": "glm-5.2"
+}

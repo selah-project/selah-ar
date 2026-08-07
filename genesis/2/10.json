@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "ونهرٌ يخرجُ من عِدن لِسَقيِّ ⟨את⟩ الجنّة، ومن هناك يتفرّع ويصير أربعة رؤوس.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "ونهرٌ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "يخرجُ"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "من عِدن"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "لِسَقيِّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الجنّة"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "الجنّة"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ومن هناك"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "يتفرّع"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ويصير"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "أربعة"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "رؤوس"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:44.147245593Z",
+  "model": "glm-5.2"
+}

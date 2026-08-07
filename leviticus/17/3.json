@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "أيّ رجل من بيت يسرايل يذبح ثورًا أو خروفًا أو معزى في المحلّة، أو يذبح خارج المحلّة،",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "أيّ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "من بيت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "يذبح"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ثور"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "خروف"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "עז",
+      "gloss": "معزى"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "في المحلّة"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "يذبح"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "خارج"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "للمحلّة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:03.893146547Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 55:23",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 55,
+  "translation": "ألقِ على يهوه ما أُلقِيَ إليك، وهو يعولك؛ لا يدع إلى الأبد تطاول الصدّيق.",
+  "tokens": [
+    {
+      "surface": "השלך",
+      "gloss": "ألقِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יהבך",
+      "gloss": "ما أُلقِيَ إليك"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "יכלכלך",
+      "gloss": "يعولك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "يدع"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "تطاول"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "الصدّيق"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:02.373164730Z",
+  "model": "glm-5.2"
+}

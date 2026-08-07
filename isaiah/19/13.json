@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "حمُقَ رؤساءُ صوعن، ضُلِّلَ رؤساءُ نُوف، أضلُّوا ⟨את⟩ مصرايم، رُكنُ أسباطِها.",
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "حمُقَ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "رؤساءُ"
+    },
+    {
+      "surface": "צען",
+      "gloss": "صوعن"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ضُلِّلَ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "رؤساءُ"
+    },
+    {
+      "surface": "נף",
+      "gloss": "نُوف"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "أضلُّوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مصرايم"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "رُكنُ"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "أسباطِها"
+    }
+  ],
+  "timestamp": "2026-08-07T02:09:29.919756732Z",
+  "model": "glm-5.2"
+}

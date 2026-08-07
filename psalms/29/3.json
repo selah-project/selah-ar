@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "صوت يهوه على المياه. إيل الكبد أرعَم. يهوه على مياه ربيم",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "صوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يَهْوَه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המים",
+      "gloss": "المياه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إِيل"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "الكَبُود"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "أرعَم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يَهْوَه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "מים",
+      "gloss": "مياه"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "رَبِيم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:29.517285648Z",
+  "model": "glm-5.2"
+}

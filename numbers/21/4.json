@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 21:4",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وارتحلوا من هور الجبل طريق بحر سوف لِيَطوفوا ⟨أرض⟩ ⟨את⟩ أرض أدوم. وضاقت نَفْس الشعب في الطريق.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "وارتحلوا"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "من هور"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "الجبل"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "طريق"
+    },
+    {
+      "surface": "ים",
+      "gloss": "بحر"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سوف"
+    },
+    {
+      "surface": "לסבב",
+      "gloss": "ليطوفوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أرض"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "أدوم"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "وضاقت"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْس"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "في الطريق"
+    }
+  ],
+  "timestamp": "2026-08-07T00:38:35.218613674Z",
+  "model": "glm-5.2"
+}

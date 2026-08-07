@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 6:22",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "إذا أخطأ رجلٌ لقريبه وحلّ ⟨عليه⟩ حلفٌ ليستحلفه، وجاء الحلف أمام مذبحك في هذا البيت،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "أخطأ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "لقريبه"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "وحلّ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "حلف"
+    },
+    {
+      "surface": "להאלתו",
+      "gloss": "ليستحلفه"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "الحلف"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "مذبحك"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في بيت"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:21:50.098385005Z",
+  "model": "glm-5.2"
+}

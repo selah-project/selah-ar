@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 7:15",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "ويُزيل يهوه عنك كل مرض، وكل أوجاع مصرايم (مصر) الشريرة التي عرفتها، لا يضعها عليك، بل يجعلها في كل مبغضيك.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "ويُزيل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "عنك"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "مرض"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "מדוי",
+      "gloss": "أوجاع"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "الشريرة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "عرفتها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישימם",
+      "gloss": "يضعها"
+    },
+    {
+      "surface": "בך",
+      "gloss": "عليك"
+    },
+    {
+      "surface": "ונתנם",
+      "gloss": "بل يجعلها"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كل"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "مبغضيك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:54:24.381179179Z",
+  "model": "glm-5.2"
+}

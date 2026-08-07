@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 22:16",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "و⟨تتدنّس⟩ بنفسك أمام أعين الأمم، وتعرفين أنّي أنا يهوه.",
+  "tokens": [
+    {
+      "surface": "ונחלת",
+      "gloss": "و⟨تتدنّس⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "بنفسك"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "أمام أعين"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "وتعرفين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:03:31.448081728Z",
+  "model": "glm-5.2"
+}

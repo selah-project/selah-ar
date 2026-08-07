@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "احفظ ⟨את⟩ شهر الأبيب، واصنع فِسح ليهوه إلوهيمك، لأنَّ في شهر الأبيب أخرجك يهوه إلوهيمك من مصرايم ليلًا.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "احفظ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شهر"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "الأبيب"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "واصنع"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "فِسح"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "في شهر"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "الأبيب"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "أخرجك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "من مصرايم"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ليلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:56:24.583381055Z",
+  "model": "glm-5.2"
+}

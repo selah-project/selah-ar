@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 41:21",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "ودخلن إلى داخلها ولم يُعلَم أنها جاءت إلى داخلها، ومنظرُها رديء كما في البداية، فاستيقظت.",
+  "tokens": [
+    {
+      "surface": "ותבאנה",
+      "gloss": "ودخلن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "קרבנה",
+      "gloss": "داخلها"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "يُعلَم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنها"
+    },
+    {
+      "surface": "באו",
+      "gloss": "جاءت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "קרבנה",
+      "gloss": "داخلها"
+    },
+    {
+      "surface": "ומראיהן",
+      "gloss": "ومنظرُها"
+    },
+    {
+      "surface": "רע",
+      "gloss": "رديء"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "في البداية"
+    },
+    {
+      "surface": "ואיקץ",
+      "gloss": "فاستيقظت"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:24.477046411Z",
+  "model": "glm-5.2"
+}

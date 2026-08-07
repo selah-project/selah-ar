@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 32:20",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "فقال لهم موشيه: إن تفعلوا ⟨את⟩ الأمرَ هذا، إن تتجلّدوا أمام يهوه للحرب",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "تفعلوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأمر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "תחלצו",
+      "gloss": "تتجلّدوا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "للحرب"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:06.008222485Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "خبزًا لم تأكلوا، وخمرًا ومُسكِرًا لم تشربوا، لِكي تعلموا أنّي أنا يهوه إلوهيمكم.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "تأكلوا"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ومُسكِرًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "تشربوا"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "تعلموا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلوهيمكم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:24.226703090Z",
+  "model": "glm-5.2"
+}

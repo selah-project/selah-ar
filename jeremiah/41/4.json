@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "و⟨كان⟩ في اليوم الثاني لقتل ⟨את⟩ غَدَلْياوهو، ورجلٌ لم يعلم،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في اليوم"
+    },
+    {
+      "surface": "השני",
+      "gloss": "الثاني"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "لقتل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غَدَلْياوهو"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "غَدَلْياوهو"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ورجل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "يعلم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:47:52.945636710Z",
+  "model": "glm-5.2"
+}

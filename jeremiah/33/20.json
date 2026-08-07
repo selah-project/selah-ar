@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "هكذا قال يهوه: إذا أبطلتم ⟨את⟩ بريتي النهاريّة و⟨את⟩ بريتي الليليّة، فلا يكون نهارٌ وليلٌ في وقتهما،",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "أبطلتم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بريتي"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "بريتي"
+    },
+    {
+      "surface": "היום",
+      "gloss": "النهاريّة"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بريتي"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "بريتي"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "الليليّة"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "היות",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "نهارٌ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "وليلٌ"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "في وقتهما"
+    }
+  ],
+  "timestamp": "2026-08-07T05:55:12.749022734Z",
+  "model": "glm-5.2"
+}

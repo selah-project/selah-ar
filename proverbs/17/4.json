@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "مُسيءٌ يُصغي إلى شفةِ أَوَن، وكاذبٌ يُنصِت إلى لسانِ هَوَت.",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "مُسيءٌ"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "يُصغي"
+    },
+    {
+      "surface": "על",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "شفةِ"
+    },
+    {
+      "surface": "און",
+      "gloss": "أَوَن"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "وكاذبٌ"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "يُنصِت"
+    },
+    {
+      "surface": "על",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "لسانِ"
+    },
+    {
+      "surface": "הות",
+      "gloss": "هَوَت"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:41.978949437Z",
+  "model": "glm-5.2"
+}

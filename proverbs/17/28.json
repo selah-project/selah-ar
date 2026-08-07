@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 17:28",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "حتى الأوِيل إذا أخرس يُحسب حكيمًا، مُطبِقٌ شفتيه ذو فَطنة.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "الأوِيل"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "إذا أخرس"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حكيمًا"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "يُحسب"
+    },
+    {
+      "surface": "אטם",
+      "gloss": "مُطبِقٌ"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "شفتيه"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "ذو فَطنة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:46.638044901Z",
+  "model": "glm-5.2"
+}

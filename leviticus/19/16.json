@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "لا تَمْشِ ساعيًا بالوشاية في شعبك. لا تقف على دَمِ قريبك. أنا يهوه.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תֵלֵ֤ךְ",
+      "gloss": "تَمْشِ"
+    },
+    {
+      "surface": "רָכִיל֙",
+      "gloss": "ساعيًا بالوشاية"
+    },
+    {
+      "surface": "בְּעַמֶּ֔יךָ",
+      "gloss": "في شعبك"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תַעֲמֹ֖ד",
+      "gloss": "تقف"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "على"
+    },
+    {
+      "surface": "דַּ֣ם",
+      "gloss": "دَمِ"
+    },
+    {
+      "surface": "רֵעֶ֑ךָ",
+      "gloss": "قريبك"
+    },
+    {
+      "surface": "אֲנִ֖י",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:12.058280511Z",
+  "model": "glm-5.2"
+}

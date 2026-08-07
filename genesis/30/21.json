@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وبعد ذلك ولدت بنتًا، ودعت ⟨את⟩ اسمها ديناه.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "وبعد ذلك"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ولدت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنتًا"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ودعت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسمها"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اسمها"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "ديناه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:35:02.239416004Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 15:26",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "رِجسٌ لدى يهوه أفكارُ الشّرّ، وأقوالُ النّعمةُ طاهرة.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "رِجس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "أفكار"
+    },
+    {
+      "surface": "רע",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "וטהרים",
+      "gloss": "طاهرة"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "أقوال"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "النعمة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:36.669607833Z",
+  "model": "glm-5.2"
+}

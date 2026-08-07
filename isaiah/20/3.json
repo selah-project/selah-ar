@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 20:3",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "وقال يهوه: كما مشى عبدي يشعيايهو عاريًا وحافيًا، ثلاثَ سنينٍ آيةً ومعجزةً على مصرايم وعلى كوش،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "مشى"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عبدي"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "يشعيايهو"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "عاريًا"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "وحافيًا"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ثلاث"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنين"
+    },
+    {
+      "surface": "אות",
+      "gloss": "آية"
+    },
+    {
+      "surface": "ומופת",
+      "gloss": "ومعجزة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "كوش"
+    }
+  ],
+  "timestamp": "2026-08-07T02:10:08.703239447Z",
+  "model": "glm-5.2"
+}

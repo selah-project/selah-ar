@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "لأنَّهم بلا سببٍ أخفوا لي حفرةً، شبكتَهم؛ بلا سببٍ حفروا لنَفسي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّهم"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بلا سببٍ"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "أخفوا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "حفرةً"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "شبكتَهم"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بلا سببٍ"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "حفروا"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "لنَفسي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:04.759073363Z",
+  "model": "glm-5.2"
+}

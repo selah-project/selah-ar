@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "لا تَكُن صِدّيقاً كَثيراً، ولا تَتَحَكَّم يَزيدُ، لِماذا تُدمَّر؟",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תְּהִי",
+      "gloss": "تَكُن"
+    },
+    {
+      "surface": "צַדִּיק",
+      "gloss": "صِدّيقاً"
+    },
+    {
+      "surface": "הַרְבֵּה",
+      "gloss": "كَثيراً"
+    },
+    {
+      "surface": "וְאַל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תִּתְחַכַּם",
+      "gloss": "تَتَحَكَّم"
+    },
+    {
+      "surface": "יוֹתֵר",
+      "gloss": "يَزيدُ"
+    },
+    {
+      "surface": "לָמָּה",
+      "gloss": "لِماذا"
+    },
+    {
+      "surface": "תִּשּׁוֹמֵֽם",
+      "gloss": "تُدمَّر"
+    }
+  ],
+  "timestamp": "2026-08-07T08:20:15.832480465Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وقال يهوه: «مَن يُغوي ⟨את⟩ آحاب فيصعد فيسقط في راموت جلعاد؟». فكان هذا يقول هكذا وذاك يقول هكذا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "يُغوي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آحاب"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "آحاب"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "فيصعد"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ويسقط"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "في راموت"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "جلعاد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "وذاك"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "يقول"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "هكذا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:52:51.022960276Z",
+  "model": "glm-5.2"
+}

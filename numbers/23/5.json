@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "فوضع يهوه كلمةً في فم بيلعام، وقال: ارجع إلى بالاق وهكذا تتكلّم.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "فوضع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمةً"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "في فم"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بيلعام"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ارجع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "وهكذا"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "تتكلّم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:41:28.482932497Z",
+  "model": "glm-5.2"
+}

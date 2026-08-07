@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "كلّ واحدٍ أمّه وأباه تَرهبون، و⟨את⟩ شوَّاتاي تحفظون. أنا يهوه إلوهيمكم.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "كلّ واحدٍ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "أمّه"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "وأباه"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "تَرهبون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شوَّاتاي"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "شوَّاتاي"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "تحفظون"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلوهيمكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:32.609864879Z",
+  "model": "glm-5.2"
+}

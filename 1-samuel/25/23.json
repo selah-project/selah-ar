@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 25:23",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "فرأت أبيجايل ⟨את⟩ داود فأسرعت ونزلت عن الحمار ووقعت أمام داود على وجهها وسجدت أرضًا.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "فرأت"
+    },
+    {
+      "surface": "אביגיל",
+      "gloss": "أبيجايل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داود"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "فأسرعت"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "ونزلت"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "عن"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "الحمار"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "ووقعت"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "وجهها"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "وسجدت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرضًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:29:35.819882004Z",
+  "model": "glm-5.2"
+}

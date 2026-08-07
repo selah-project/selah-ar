@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "يصرخون ولا مُنقِذ، إلى يهوه فلا يستجيب لهم.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "يصرخون"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "مُنقِذ"
+    },
+    {
+      "surface": "על",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "يستجيب لهم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:39.112851594Z",
+  "model": "glm-5.2"
+}

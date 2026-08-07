@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "و⟨كلّم⟩ ملاك يهوه إلياهو: «انزل معه، لا تخف من وجهه». ف⟨قام⟩ و⟨نزل⟩ معه إلى الملك.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و⟨كلّم⟩"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ملاك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "إلياهو"
+    },
+    {
+      "surface": "רד",
+      "gloss": "انزل"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "تخف"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "من وجهه"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ف⟨قام⟩"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "و⟨نزل⟩"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:52:56.030449048Z",
+  "model": "glm-5.2"
+}

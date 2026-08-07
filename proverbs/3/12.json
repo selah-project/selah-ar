@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "لأنَّ ⟨את⟩ الذي يحبُّه يهوه يُوَبِّخه، وكأبٍ ⟨את⟩ ابنٍ يَرتَضيه.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "אֶ֥ת",
+      "gloss": "⟨את⟩",
+      "marks": "الذي"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יֶאֱהַ֣ב",
+      "gloss": "يحبّ"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יוֹכִ֑יחַ",
+      "gloss": "يوبّخ"
+    },
+    {
+      "surface": "וּ֝כְאָ֗ב",
+      "gloss": "وكأب"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ابن"
+    },
+    {
+      "surface": "בֵּ֥ן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "יִרְצֶֽה",
+      "gloss": "يرتضي"
+    }
+  ],
+  "timestamp": "2026-08-07T08:13:27.137900015Z",
+  "model": "glm-5.2"
+}

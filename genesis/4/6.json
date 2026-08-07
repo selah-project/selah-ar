@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وقال يهوه لقايين: لِمَ احتدمتَ ولِمَ سقطت وجوهُك؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لقايين"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قايين"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لِمَ"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "احتدمتَ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨أنت⟩"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ولِمَ"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "سقطت"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجوهُك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:25.152393230Z",
+  "model": "glm-5.2"
+}

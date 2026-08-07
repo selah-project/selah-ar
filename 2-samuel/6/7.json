@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 6:7",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فاحتدَم غضب يهوه على عوزّا، فضربه إلوهيم هناك على الخطإ، فمات هناك مع صندوق إلوهيم.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "فاحتدم"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בעזה",
+      "gloss": "على عوزّا"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "فضربه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "השל",
+      "gloss": "الخطإ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "فمات"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:14.631995095Z",
+  "model": "glm-5.2"
+}

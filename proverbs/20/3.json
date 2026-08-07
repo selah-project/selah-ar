@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "كرامةٌ للرجلِ الكفُّ عن الخصام، وكلُّ جاهلٍ يُعاند.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "كرامة"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "للرجل"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "الكفّ"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "عن الخصام"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "جاهل"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "يُعاند"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:52.084297633Z",
+  "model": "glm-5.2"
+}

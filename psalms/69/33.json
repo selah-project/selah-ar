@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 69,
+  "translation": "رأى المتواضعون ففرحوا، طالبو إلوهيم ⟨يحيا⟩ قلبُكم",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "رأى"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "المتواضعون"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ففرحوا"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "طالبو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "⟨يحيا⟩"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "قلبُكم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:16.863556602Z",
+  "model": "glm-5.2"
+}

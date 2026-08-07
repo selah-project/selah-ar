@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "فكم بالأحرى الإنسانُ، دُودةٌ، وابنُ آدمَ، ⟨هو⟩ رِيع!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "كم بالأحرى"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "الإنسانُ"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "دُودةٌ"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "وابنُ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمَ"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "رِيع"
+    }
+  ],
+  "timestamp": "2026-08-07T04:39:11.948261297Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "وصنع ⟨את⟩ الألواح للمِشكان من خشب الشِّيطيم قائمة.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وصنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الألواح"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "الألواح"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "للمِشكان"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "من خشب"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "الشِّيطيم"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "قائمة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:14:13.494528468Z",
+  "model": "glm-5.2"
+}

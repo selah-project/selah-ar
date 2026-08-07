@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "ذبيحة إثم هو؛ قد أثم حقًّا أمام يهوه.",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "ذبيحة إثم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "أثم"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "حقًّا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "أمام يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:44.601752918Z",
+  "model": "glm-5.2"
+}

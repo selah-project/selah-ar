@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "وكلَّم يهوه يهوشُعَ لِيَقُول:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وكلَّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشُع"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "لِيَقُول"
+    }
+  ],
+  "timestamp": "2026-08-07T01:11:09.843797355Z",
+  "model": "glm-5.2"
+}

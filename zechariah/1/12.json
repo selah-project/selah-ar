@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 1:12",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فأجاب ملاك يهوه وقال: يا يهوه صَباؤوت، حتى متى أنت لا ترحم ⟨את⟩ يروشالايم و⟨את⟩ مدن يهودا التي غِضتَ عليها هذه سبعين سنة؟",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "فأجاب"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ملاكُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صَباؤوت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "متى"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "ترحم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يروشالايم"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مدن"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "مدنَ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "זעמתה",
+      "gloss": "غِضتَ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "عليها"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "هذه سبعين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:34:28.696618657Z",
+  "model": "glm-5.2"
+}

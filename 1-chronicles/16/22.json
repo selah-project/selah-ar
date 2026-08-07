@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 16:22",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "لا تمسّوا ماشيحاي، وبأنبيائي لا تُسِيئوا.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "تمسّوا"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "ماشيحاي"
+    },
+    {
+      "surface": "ובנביאי",
+      "gloss": "وبأنبيائي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "تُسِيئوا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:26.351193322Z",
+  "model": "glm-5.2"
+}

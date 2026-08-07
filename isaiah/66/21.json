@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 66:21",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 66,
+  "translation": "ومنهم أيضًا آخذُ للكوهنينِ ولاللوّيّين، يقولُ يهوه.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ومنهم أيضًا"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "منهم"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "آخذُ"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "للكوهنينِ"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "للوّيّين"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "يقولُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:27:18.759685097Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "اتّقوا ⟨את⟩ يهوه يا قدسيه، لأنّه ليس نقص ⟨لـ⟩ متّقيه.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "اتّقوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "يا قدسيه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "نقص"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "لـمتّقيه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:16.291490879Z",
+  "model": "glm-5.2"
+}

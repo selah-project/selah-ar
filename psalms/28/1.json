@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "لدوّد. إليك يهوه أصرخ، صخرتي، لا تصمت عنّي، لئلاّ تَهْمُشَ عنّي فأُشبِه الهابطين إلى الجبّ.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "لدوّد"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "أصرخ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "صخرتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "تصمت"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "عنّي"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلاّ"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "تَهْمُشَ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "عنّي"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "فأُشبِه"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "الهابطين"
+    },
+    {
+      "surface": "בור",
+      "gloss": "إلى الجبّ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:08.322605971Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فأخذ يثرو حمو موشيه ⟨את⟩ تصفّورة امرأة موشيه بعد تسريحها.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "فأخذ"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "يثرو"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "حمو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تصفّورة"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "تصفّورة"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "تسريحها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:08.102591676Z",
+  "model": "glm-5.2"
+}

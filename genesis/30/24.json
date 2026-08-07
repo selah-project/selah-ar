@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "ودعت ⟨את⟩ اسمه يوصيف قائلةً: «يضيف يهوه لي ابنًا آخر.»",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "ودعت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسمه"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمه"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوصيف"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلةً"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "يضيف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنًا"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "آخر"
+    }
+  ],
+  "timestamp": "2026-08-07T05:35:04.166724456Z",
+  "model": "glm-5.2"
+}

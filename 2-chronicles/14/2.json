@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وأزال ⟨את⟩ مذابح الغريب والمرتفعات، وكسر ⟨את⟩ المنصّبات، وقطع ⟨את⟩ الأشيريم",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "وأزال"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مذابح"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "مذابح"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "الغريب"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "والمرتفعات"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "وكسر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المنصّبات"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "المنصّبات"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "وقطع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأشيريم"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "الأشيريم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:26:27.111476893Z",
+  "model": "glm-5.2"
+}

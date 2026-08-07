@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وأراني يهوه أربعة صنّاعين.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "وأراني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "أربعة"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "صنّاعين"
+    }
+  ],
+  "timestamp": "2026-08-07T03:35:28.520624411Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 7:2",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وأُخبر بيت داود قائلين: حلّ أرام على أفرايم، فاضطرب قلبه وقلب شعبه كاضطراب عِيدان الوعر من وجه روَح.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "وأُخبر"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "נחה",
+      "gloss": "حلّ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "أرام"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "أفرايم"
+    },
+    {
+      "surface": "וינע",
+      "gloss": "فاضطرب"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "قلبه"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "وقلب"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبه"
+    },
+    {
+      "surface": "כנוע",
+      "gloss": "كاضطراب"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "عِيدان"
+    },
+    {
+      "surface": "יער",
+      "gloss": "الوعر"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجه"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روَح"
+    }
+  ],
+  "timestamp": "2026-08-07T02:06:07.059490085Z",
+  "model": "glm-5.2"
+}

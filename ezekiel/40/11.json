@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "و⟨قاس⟩ ⟨את⟩ عرضَ فتحةِ البوّابةِ: عشرَ أَمّاتٍ؛ وطولُ البوّابةِ: ثلاثَ عشرةَ أَمّةً.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "و⟨قاس⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عرض"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "عرض"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "فتحة"
+    },
+    {
+      "surface": "השער",
+      "gloss": "البوّابة"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "أَمّات"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "طول"
+    },
+    {
+      "surface": "השער",
+      "gloss": "البوّابة"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ثلاث"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرة"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "أَمّات"
+    }
+  ],
+  "timestamp": "2026-08-07T06:00:38.084802960Z",
+  "model": "glm-5.2"
+}

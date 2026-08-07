@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 12:23",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "لأنه في وقت يومٍ بيومٍ كانوا يأتون إلى داود لإعانته، حتّى صار ⟨لهم⟩ مَحَلّه عظيم كمَحَلّه إلوهيم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "في وقت"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "بيوم"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "يأتون"
+    },
+    {
+      "surface": "על",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "לעזרו",
+      "gloss": "لإعانته"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتّى"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "لمَحَلّه"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيم"
+    },
+    {
+      "surface": "כמחנה",
+      "gloss": "كمَحَلّه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:04.517082853Z",
+  "model": "glm-5.2"
+}

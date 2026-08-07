@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 10:24",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "أدِّبني، يهوه، لكن بالحقّ، لا بغضبك، لئلا تُقَلِّلَني.",
+  "tokens": [
+    {
+      "surface": "יסרני",
+      "gloss": "أدِّبني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אך",
+      "gloss": "لكن"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "بالحقّ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "بغضبك"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلا"
+    },
+    {
+      "surface": "תמעטני",
+      "gloss": "تُقَلِّلَني"
+    }
+  ],
+  "timestamp": "2026-08-07T05:54:26.078079158Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 11:1",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨كان⟩ عند سماع يابين ملك حاصور أنّه أرسل إلى يوباب ملك مادون، وإلى ملك شمرُون، وإلى ملك أكشاف،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "عند سماع"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "يابين"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "حاصور"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "أرسل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "يوباب"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "مادون"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شمرُون"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "أكشاف"
+    }
+  ],
+  "timestamp": "2026-08-07T01:06:56.647209975Z",
+  "model": "glm-5.2"
+}

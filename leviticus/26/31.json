@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "وأجعل ⟨את⟩ مدنكم خرابًا، وأُقفر ⟨את⟩ مقدِساتكم، ولا أَستنشق رائحة راحتكم.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "وأجعل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مدنكم"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "مدنكم"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "خرابًا"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "وأُقفر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مقدِساتكم"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "مقدِساتكم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "أَستنشق"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "رائحة"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "راحتكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:17.985729326Z",
+  "model": "glm-5.2"
+}

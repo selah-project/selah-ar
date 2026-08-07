@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "ورجلٌ يأخذ ⟨את⟩ امرأةً و⟨את⟩ أمَّها، ⟨إنه⟩ فحشاءُ ⟨هو⟩؛ بالنار يحرقونه ⟨את⟩ه و⟨את⟩هنّ، فلا تكون فحشاءُ في وسطكم",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ورجل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "يأخذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "امرأة"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أمها"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "أمها"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "فحشاء"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بالنار"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "يحرقون"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "الرجل"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "و⟨את⟩هنّ",
+      "marks": "المرأة وأمها"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "فحشاء"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "في وسطكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:29.904028581Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 116,
+  "translation": "ثمينٌ في عينَي يهوه موتُ أصدقائهِ.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "ثمينٌ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عينَي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "موتُ"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "أصدقائهِ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:24.741564659Z",
+  "model": "glm-5.2"
+}

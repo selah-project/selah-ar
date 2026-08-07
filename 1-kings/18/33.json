@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "ورتَّب ⟨את⟩ الأخشاب، وقطَّع ⟨את⟩ الثور، ووضعه على الأخشاب.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "ورتَّب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأخشاب"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "الأخشاب"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "وقطَّع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الثور"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "الثور"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ووضع"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "الأخشاب"
+    }
+  ],
+  "timestamp": "2026-08-07T01:50:41.997960240Z",
+  "model": "glm-5.2"
+}

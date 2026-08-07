@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 16:24",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "ويغسل ⟨⟨את⟩ جسده بالماء في مكان مقدس ويلبس ⟨⟨את⟩ ثيابه ويخرج فيصنع ⟨⟨את⟩ عولاته و⟨⟨את⟩ عولة الشعب، فيكفّر عنه وعن الشعب.",
+  "tokens": [
+    {
+      "surface": "ורחץ",
+      "gloss": "ويغسل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جسده"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "جسده"
+    },
+    {
+      "surface": "במים",
+      "gloss": "بالماء"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "في مكان"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "ويلبس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ثيابه"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ثيابه"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ويخرج"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "فيصنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عولاته"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "عولاته"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "عولة"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "عولة"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "فيكفّر"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "عنه"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "وعن"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:45.337641648Z",
+  "model": "glm-5.2"
+}

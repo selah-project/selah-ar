@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 86,
+  "translation": "وأمّا أنت يا أدوناي فإيلٌ رحومٌ وحنون، بطيءُ الغضب وعظيمُ الحِسِد والإمِت.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "وأمّا أنت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "يا أدوناي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "رحوم"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "وحنون"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "بطيءُ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "الغضب"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "وعظيمُ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "الحِسِد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "والإمِت"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:25.613464724Z",
+  "model": "glm-5.2"
+}

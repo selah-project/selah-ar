@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فأجبتموني ⟨את⟩ وقلتم: صالحٌ ⟨هو⟩ الأمرُ الذي تكلّمتَ به ⟨لنفعله⟩.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "فأجبتم"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاي"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "وقلتم"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "صالح"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "تكلّمتَ به"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "لنفعله"
+    }
+  ],
+  "timestamp": "2026-08-07T00:48:07.086058054Z",
+  "model": "glm-5.2"
+}

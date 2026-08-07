@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "ولم يعطِكم يهوه قلبًا للمعرفة ولا عيونًا للرؤية ولا آذانًا للسمع، إلى هذا اليوم.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "يعطِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "كم"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلبًا"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "للمعرفة"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "وعيونًا"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "للرؤية"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "وآذانًا"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "للسمع"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "היום",
+      "gloss": "هذا اليوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:07.939384979Z",
+  "model": "glm-5.2"
+}

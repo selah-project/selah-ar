@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وجلود كباش مُحمَرّة، وجلود تَحَاشيم، وخشب شِطّيم.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "وجلود"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "كباش"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "مُحمَرّة"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "وجلود"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "تَحَاشيم"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "وخشب"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شِطّيم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:38.047359007Z",
+  "model": "glm-5.2"
+}

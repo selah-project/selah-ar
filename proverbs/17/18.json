@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "إنسانٌ ناقصُ القلب يصفقُ كفًّا، ضامنٌ ضمانًا أمام صاحبه.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ناقص"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "يصفق"
+    },
+    {
+      "surface": "כף",
+      "gloss": "كفّ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ضامن"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "ضمانًا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "صاحبه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:28.232828727Z",
+  "model": "glm-5.2"
+}

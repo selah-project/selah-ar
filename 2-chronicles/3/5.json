@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "و⟨את⟩ البيت الكبير كساه خشب بروشيم، وكساه ذهبًا جيّدًا، وأصعد عليه تشكيلات نخيل وسلاسل.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "البيت"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "الكبير"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "كسا"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "خشب"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "بروشيم"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "وكساه"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهبًا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "جيّدًا"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "وأصعد"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "تشكيلات نخيل"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "وسلاسل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:20:49.664373753Z",
+  "model": "glm-5.2"
+}

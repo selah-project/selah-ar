@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 55,
+  "translation": "أمّا أنا فإلى إلوهيم أصرخ، ویهوه يُخلّصني.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "أمّا أنا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "أصرخ"
+    },
+    {
+      "surface": "והוה",
+      "gloss": "ويهوه"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "يُخلّصني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:15.896605598Z",
+  "model": "glm-5.2"
+}

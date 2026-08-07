@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 32:9",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "فصعدوا حتى نَهَل أَشكول ورأوا ⟨את⟩ الأرض، وأثبطوا ⟨את⟩ قلب بني يسرائيل، عن ⟨دخول⟩ الأرض التي أعطاهم يهوه",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "فصعدوا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "نَهَل"
+    },
+    {
+      "surface": "אשכול",
+      "gloss": "أَشكول"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ورأوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ויניאו",
+      "gloss": "وأثبطوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قلب"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "عن"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨دخول⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطى"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:02.791844599Z",
+  "model": "glm-5.2"
+}

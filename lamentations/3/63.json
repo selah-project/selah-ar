@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "lamentations 3:63",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "جلوسَهم وقيامَهم، تأمَّلْ، أنا صارَ لهم أُغنيتَهم.",
+  "tokens": [
+    {
+      "surface": "שִׁבְתָּ֤ם",
+      "gloss": "جلوسَهم"
+    },
+    {
+      "surface": "וְקִֽימָתָם֙",
+      "gloss": "وقيامَهم"
+    },
+    {
+      "surface": "הַבִּ֔יטָה",
+      "gloss": "تأمَّلْ"
+    },
+    {
+      "surface": "אֲנִ֖י",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מַנְגִּינָתָֽם",
+      "gloss": "صارَ لهم أُغنيتَهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:49:06.855823217Z",
+  "model": "glm-5.2"
+}

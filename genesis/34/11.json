@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 34:11",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "وقال شَكَم لأبيها ولإخوتِها: أَجِدْ حِظوَةً في أعينِكم، وما تقولون ⟨هو⟩ إليّ أُعطيه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شَكَم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "أبيها"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولـ"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "إخوتِها"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "أَجِدْ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "حِظوَة"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "في أعينِكم"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "وما"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "تقولون"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "أُعطيه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:30.533957630Z",
+  "model": "glm-5.2"
+}

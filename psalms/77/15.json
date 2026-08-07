@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 77,
+  "translation": "أنت ⟨هو⟩ الإله، فاعلَ عجب. أَعلنتَ في الشعوب عزّتك.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "האל",
+      "gloss": "الإله"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فاعل"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "عجب"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "أَعلنتَ"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "في الشعوب"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "عزّتك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:52.791393945Z",
+  "model": "glm-5.2"
+}

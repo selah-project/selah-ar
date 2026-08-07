@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "ولُذتُ أنا في اليأس على قلبي، بسبب كلِّ التعب الذي تعبتُه تحت الشمس.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "ولُذتُ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "في اليأس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قلبي"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "על",
+      "gloss": "بسبب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "التعب"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "الذي تعبتُه"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "الشمس"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:14.810461814Z",
+  "model": "glm-5.2"
+}

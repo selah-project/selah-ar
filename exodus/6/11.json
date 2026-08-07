@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "«ادخُل، كلِّم فرعون ملك مصرايم، فيُطلِق ⟨את⟩ بني يسرايم من أرضه».",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "ادخُل"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلِّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "فيُطلِق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بني يسرايم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايم"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "من أرضه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:50.040708697Z",
+  "model": "glm-5.2"
+}

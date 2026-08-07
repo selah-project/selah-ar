@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "ها يحبس المياه فتجفّ، ⟨و⟩يُرسلها فتقلبُ الأرض.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ها"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "يحبس"
+    },
+    {
+      "surface": "במים",
+      "gloss": "المياه"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "فتجفّ"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "يُرسلها"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "فتقلبُ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T04:34:36.512735151Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وعدَّ داودُ ⟨את⟩ الشعبَ الذي معه، وجعل عليهم رؤساءَ ألوفٍ ورؤساءَ مئات.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "وعدَّ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داودُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعبَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "وجعل"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "رؤساءَ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ألوفٍ"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ورؤساءَ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئات"
+    }
+  ],
+  "timestamp": "2026-08-07T01:37:39.609498673Z",
+  "model": "glm-5.2"
+}

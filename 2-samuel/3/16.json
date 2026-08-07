@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 3:16",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وماتَّبعها رجلُها ذهابًا وبكاءً وراءها حتى بخوريم. فقالَ له أبنير: اذهب رُدَّ. فرجعَ",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "وماتَّبعها"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "معها"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "رجلها"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ذهابًا"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "وبكاءً"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "وراءها"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "בחרים",
+      "gloss": "بخوريم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "أبنير"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اذهب"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "رُدَّ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "فرجع"
+    }
+  ],
+  "timestamp": "2026-08-07T01:32:25.381803629Z",
+  "model": "glm-5.2"
+}

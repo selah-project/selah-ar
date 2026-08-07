@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "يهوه شاءَ من أجل صِدِقه، يُعظِّمُ توراةً ويُمجِّدُها",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "شاءَ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "من أجل"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "صِدِقه"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "يُعظِّمُ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "توراةً"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "ويُمجِّدُها"
+    }
+  ],
+  "timestamp": "2026-08-07T02:17:50.313789358Z",
+  "model": "glm-5.2"
+}

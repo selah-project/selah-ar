@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 11:8",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "ويلعب الرضيع على حفرة الأفعى، وعلى مكمنِ الأُفْعُوان يَدُّ المُفْطَمُ يدَه.",
+  "tokens": [
+    {
+      "surface": "ושעשע",
+      "gloss": "ويلعب"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "الرضيع"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "חר",
+      "gloss": "حفرة"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "الأفعى"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "מאורת",
+      "gloss": "مكمنِ"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "الأُفْعُوان"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "المُفْطَمُ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يدَّ"
+    },
+    {
+      "surface": "הדה",
+      "gloss": "يدَه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:52:34.837368760Z",
+  "model": "glm-5.2"
+}

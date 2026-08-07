@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فقال حَتَن موشيه له: «لا ←طيّبٌ الأمرُ الذي أنت فعله.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "حَتَن"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيّبٌ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمرُ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "تفعله"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:28.724489787Z",
+  "model": "glm-5.2"
+}

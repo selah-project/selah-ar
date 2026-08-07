@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "فأجاب يوصِف ⟨את⟩ فَرعو قائلاً: «لا عليّ. إلوهيم يجيب ⟨את⟩ شالوم فَرعو».",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "فأجاب"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوصِف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فَرعو"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فَرعو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "لا عليّ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "يجيب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شالوم"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فَرعو"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:16.745807695Z",
+  "model": "glm-5.2"
+}

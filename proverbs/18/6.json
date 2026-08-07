@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 18:6",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "شفتا كسيلٍ تدخلان في ريب، وفمه إلى مَهْلُماتٍ يصرخ.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "شفتا"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "كسيل"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "تدخلان"
+    },
+    {
+      "surface": "בריב",
+      "gloss": "في ريب"
+    },
+    {
+      "surface": "ופיו",
+      "gloss": "وفمه"
+    },
+    {
+      "surface": "למהלמות",
+      "gloss": "إلى مَهْلُمات"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "يصرخ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:46.040809138Z",
+  "model": "glm-5.2"
+}

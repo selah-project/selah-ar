@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "وأحبَّ يِسرائيل ⟨את⟩ يوسف من كلّ بنيه لأنّه ابن شَيخوخةٍ ⟨هو⟩ له، فصنع له كُتُنَّتْ فعّيم.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "ويِسرائيل"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "أحبَّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوسف"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كلّ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "بنيه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "شَيخوخة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "فصنع"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "كُتُنَّتْ"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "فعّيم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:48:42.915957783Z",
+  "model": "glm-5.2"
+}

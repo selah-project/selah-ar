@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "فسَمِع شاؤول لصوت يهوناتان، وحلَف شاؤول: «حيّ هو يهوه، لا يُقتل».",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "فسَمِع"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "لصوت"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يهوناتان"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "وحلَف"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "חי",
+      "gloss": "حيّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "يُقتل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:27:27.848527433Z",
+  "model": "glm-5.2"
+}

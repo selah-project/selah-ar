@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "ووجد غوئيل الدم ⟨את⟩ه خارج حدود مدينة ملجئه، وقتل غوئيل الدم ⟨את⟩ القاتل، فلا دمَ عليه.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "ووجد"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "غوئيل"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "غوئيل"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "الدم"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "خارج"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "للحدود"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "ملجئه"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "وقتل"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "غوئيل"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "الدم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "القاتل"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "القاتل"
+    },
+    {
+      "surface": "אין",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "דם",
+      "gloss": "دمَ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:45:36.346614721Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 18:28",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فرأى شاؤول وعلم أن يهوه مع داود، وأن ميخال بنت شاؤول كانت تحبّه.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "فرأى"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "وعلم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ומיכל",
+      "gloss": "وأنّ ميخال"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "אהבתהו",
+      "gloss": "كانت تحبّه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:27:04.561812528Z",
+  "model": "glm-5.2"
+}

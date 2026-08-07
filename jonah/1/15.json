@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فرفعوا ⟨את⟩ يوناه وطَرحوه إلى البحر، فوقام البحر عن غيظه.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "فرفعوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوناه"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "يوناه"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "وطَرحوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "فقام"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "عن غيظه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:28:58.634339584Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "يرفع ⟨صوته⟩ في ذلك اليوم قائلًا: لا أكون مُجبِّرًا، وفي بيتي لا خبز ولا ثوب؛ لا تجعلوني قائدًا لشعب.»",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "يرفع"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "أكون"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "مُجبِّرًا"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "وفي بيتي"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبز"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "ثوب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "تجعلوني"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "قائدًا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لشعب"
+    }
+  ],
+  "timestamp": "2026-08-07T02:04:10.629752201Z",
+  "model": "glm-5.2"
+}

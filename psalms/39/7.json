@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "إنّما في ظِلٍّ يتردّد الإنسان. إنّما هَبَلًا يضجّون. يُكدّس ولا يعلم من يجمعها.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "في ظِلٍّ"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "يتردّد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "אך",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هَبَلًا"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "يضجّون"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "يُكدّس"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "يعلم"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "يجمعها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:43.351531434Z",
+  "model": "glm-5.2"
+}

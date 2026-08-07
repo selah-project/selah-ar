@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 40:37",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "وإذا لم يَصعَدِ السحاب، فلا يَرحَلون حتى يوم صعودِه.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "يَصعَد"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "السحاب"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "يَرحَلون"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "העלתו",
+      "gloss": "صعودِه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:28.124443938Z",
+  "model": "glm-5.2"
+}

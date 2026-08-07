@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "فجاء عبيدُ الملكِ حزقيا، إلى أشعيا،",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "فجاء"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عبيدُ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملكِ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حزقيا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "أشعيا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:16:33.216969682Z",
+  "model": "glm-5.2"
+}

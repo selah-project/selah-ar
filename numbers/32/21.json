@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 32:21",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "وعبر كلّ متجرّدٍ منكم ⟨את⟩ الياردن أمام يهوه، حتى يُخرج ⟨את⟩ أعدائه من أمامه،",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "وعبر"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لَكُم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "متجرّدٍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الياردن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "الياردن"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "يُخرج"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أعدائه"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "أعداءَه"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "من أمامِه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:04.461167582Z",
+  "model": "glm-5.2"
+}

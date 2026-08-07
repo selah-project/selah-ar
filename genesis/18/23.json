@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فتقدّمَ أفراهامُ وقالَ: «أحقًّا تمحو الصِّدِّيقَ مع الرّاشع؟»",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "فتقدّمَ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهامُ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "قالَ"
+    },
+    {
+      "surface": "האף",
+      "gloss": "أحقًّا"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "تمحو"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "الصِّدِّيقَ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "الرّاشع؟"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:01.039503139Z",
+  "model": "glm-5.2"
+}

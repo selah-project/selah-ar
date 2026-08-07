@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 1:8",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وقال شلوموه لإلوهيم: «أنت صنعت مع داود أبي حِسِدًا عظيمًا، وملّكتني مكانه.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموه"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "لإلوهيم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "صنعت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حِسِدًا"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيمًا"
+    },
+    {
+      "surface": "והמלכתני",
+      "gloss": "وملّكتني"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "مكانه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:19:40.593520155Z",
+  "model": "glm-5.2"
+}

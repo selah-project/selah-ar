@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 26:53",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "لهؤلاء تُقسَم الأرضُ مُيراثًا على عددِ الأسماءِ.",
+  "tokens": [
+    {
+      "surface": "לאלה",
+      "gloss": "لهؤلاء"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "تُقسَم"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "مُيراثًا"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "على عدد"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "الأسماء"
+    }
+  ],
+  "timestamp": "2026-08-07T05:42:13.974963565Z",
+  "model": "glm-5.2"
+}

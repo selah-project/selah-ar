@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "فقالَ ناتانُ للملكِ: «كلُّ ما في قلبكَ اذهبِ افعلْ، لأنَّ يهوه معك.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقالَ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتانُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لِـ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملكِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "في قلبكَ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اذهبْ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "افعلْ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:32.180298866Z",
+  "model": "glm-5.2"
+}

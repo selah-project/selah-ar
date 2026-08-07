@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "روَح يهوه تكلّم بي، وكلمته على لساني.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "روَح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "בי",
+      "gloss": "بي"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "وكلمته"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "لساني"
+    }
+  ],
+  "timestamp": "2026-08-07T01:41:06.693183435Z",
+  "model": "glm-5.2"
+}

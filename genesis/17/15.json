@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وقال إلوهيم لأفراهام: «ساراي امرأتُك لا تُسمِّ ⟨את⟩ اسمَها ساراي، لأنَّ ساراه اسمُها.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ساراي"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "امرأتُك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "تُسمِّي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسمَها"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اسمَها"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ساراي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ساراه"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اسمُها"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:04.602355839Z",
+  "model": "glm-5.2"
+}

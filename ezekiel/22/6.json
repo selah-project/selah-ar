@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 22:6",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "هوذا نَسَبات يسرايل، كلٌّ بحسب ذراعه، صاروا فيكِ لأجل سَفْك دم.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "نَسَبات"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كلٌّ"
+    },
+    {
+      "surface": "לזרעו",
+      "gloss": "بحسب ذراعه"
+    },
+    {
+      "surface": "היו",
+      "gloss": "صاروا"
+    },
+    {
+      "surface": "בך",
+      "gloss": "فيكِ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لأجل"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "سَفْك"
+    },
+    {
+      "surface": "דם",
+      "gloss": "دم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:02:48.576136051Z",
+  "model": "glm-5.2"
+}

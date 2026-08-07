@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 107:43",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 107,
+  "translation": "من حكيمٌ ليحفظْ هذه؟ وليتأمّلوا حِسِدي يهوه.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حكيمٌ"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "ليحفظْ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ויתבוננו",
+      "gloss": "وليتأمّلوا"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "حِسِدي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:49.145642461Z",
+  "model": "glm-5.2"
+}

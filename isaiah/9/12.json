@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "والشعبُ لم يَرْجِع إلى من يضربُه، و⟨את⟩ يهوه صَبايوت لم يطلُبوا.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "والشعبُ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "שב",
+      "gloss": "يَرْجِع"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "من يضربُه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "يهوه صَبايوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صَبايوت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "يطلُبوا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:06:30.525986484Z",
+  "model": "glm-5.2"
+}

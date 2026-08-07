@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 21:11",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "هو أيضًا صنع مرتفعات في جبال يهودا، وزَوَّجَ ⟨את⟩ سكان يروشالايم وأضلّ ⟨את⟩ يهودا.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنع"
+    },
+    {
+      "surface": "במות",
+      "gloss": "مرتفعات"
+    },
+    {
+      "surface": "בהרי",
+      "gloss": "في جبال"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "ויזן",
+      "gloss": "وزَوَّجَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سكان يروشالايم"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "سكان"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    },
+    {
+      "surface": "וידח",
+      "gloss": "وأضلّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهودا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:27:48.353254654Z",
+  "model": "glm-5.2"
+}

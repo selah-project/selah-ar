@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 5:26",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "هذا تفسيرُ الكلمة: مِنِي — عدَّ إلوهيم مَلكوتك وأنهاه",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "تفسير"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "الكلمة"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "مِنِي"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "عدَّ"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "مَلكوتك"
+    },
+    {
+      "surface": "והשלמה",
+      "gloss": "وأنهاه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:56:26.987575662Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "وأخذ سِفْر البريت وقرأ في مسامع الشعب، فقالوا: «كلُّ ما تكلَّم به يهوه نفعل ونسمع».",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سفر"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "البريت"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "وقرأ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "في مسامع"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقالوا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلَّم به"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "نفعل"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "ونسمع"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:02.769986563Z",
+  "model": "glm-5.2"
+}

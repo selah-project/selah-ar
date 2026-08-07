@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "لا تَكرَه أَدوميًّا، لأنه أخوك. لا تَكرَه مِصريًّا، لأنّك كنتَ مُقيماً غريباً في أرضه.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "تَكرَه"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "أَدوميًّا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "أخوك"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "تَكرَه"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "مِصريًّا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّك"
+    },
+    {
+      "surface": "גר",
+      "gloss": "مُقيماً غريباً"
+    },
+    {
+      "surface": "היית",
+      "gloss": "كنتَ"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "في أرضِه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:58:19.968391288Z",
+  "model": "glm-5.2"
+}

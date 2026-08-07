@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وصارَ له هكذا، فداسَه الشَّعبُ ⟨את⟩ في البابِ ومات.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وصارَ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "فداسَ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "الضابط"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشَّعبُ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "في الباب"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ومات"
+    }
+  ],
+  "timestamp": "2026-08-07T01:55:55.523003950Z",
+  "model": "glm-5.2"
+}

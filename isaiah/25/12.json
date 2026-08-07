@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وقلعةَ شمامخ أسوارِكَ يُخفضُ ويضعُ ويُوصلُ إلى الأرضِ حتى التراب.",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "وقلعةَ"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "شمامخ"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "أسوارِكَ"
+    },
+    {
+      "surface": "השח",
+      "gloss": "يُخفضُ"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "ويضعُ"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "ويُوصلُ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "إلى أرضِ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ترابٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:10:55.906227092Z",
+  "model": "glm-5.2"
+}

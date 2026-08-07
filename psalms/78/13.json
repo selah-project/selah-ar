@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "شقّ البحر وأعبَرَهم، وأوقفَ المياه كنَدّ",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "شقّ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "وأعبَرَهم"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "وأوقفَ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "المياه"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "كـ"
+    },
+    {
+      "surface": "נד",
+      "gloss": "نَدّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:23.356109016Z",
+  "model": "glm-5.2"
+}

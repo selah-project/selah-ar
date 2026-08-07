@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "ورفعت كل الجماعة صوتها، فبكى الشعب في الليل ذلك.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "ورفعت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "الجماعة"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "وأعطوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صوتهم"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "صوتهم"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "فبكى"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "في الليل"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:35:18.641065796Z",
+  "model": "glm-5.2"
+}

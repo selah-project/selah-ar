@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 10:16",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فقال شاؤول لعمّه: أخبرنا صراحةً أن الأتن وُجدت. وأمّا ⟨את⟩ أمر المُلك فلم يخبره إيّاه الذي كلّم به شموئيل.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "عمّه"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "أخبر"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "صراحةً"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "نا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "وُجدت"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "الأتن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "أمر المُلك"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "أمر"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "المُلك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "يخبر"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "كلّم"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:23:55.381880437Z",
+  "model": "glm-5.2"
+}

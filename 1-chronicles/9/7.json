@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "ومن بني بنيامين: سلّو بن مشلّم بن هودَويا بن هَسّنُؤاه.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنيامين"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "سلّو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مشلّم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "هودَويا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "هَسّنُؤاه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:13:31.474771387Z",
+  "model": "glm-5.2"
+}

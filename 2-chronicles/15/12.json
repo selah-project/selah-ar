@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "ودخلوا في بريتٍ للسؤال ⟨את⟩ يهوه إله آبائهم بكلِّقلبهم وبكلِّ نَفْسهم.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ودخلوا"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "في بريت"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "للسؤال"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إله"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "آبائهم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بكلّ"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "قلبهم"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "وبكلّ"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "نَفْسهم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:25:53.061222726Z",
+  "model": "glm-5.2"
+}

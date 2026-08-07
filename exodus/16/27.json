@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 16:27",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "و⟨كان⟩ في اليوم السابع أنّ أناسًا من الشعب خرجوا ليلتقطوا، فلم يجدوا.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في اليوم"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "السابع"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "خرجوا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "ليلتقطوا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "يجدوا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:05:49.668170106Z",
+  "model": "glm-5.2"
+}

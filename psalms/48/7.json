@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "رعدةٌ أمسكت بهم هناك، مَخَاضٌ كالوالِدة",
+  "tokens": [
+    {
+      "surface": "רְ֭עָדָה",
+      "gloss": "رعدةٌ"
+    },
+    {
+      "surface": "אֲחָזָ֣תַם",
+      "gloss": "أمسكت بهم"
+    },
+    {
+      "surface": "שָׁ֑ם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "חִ֝֗יל",
+      "gloss": "مَخَاضٌ"
+    },
+    {
+      "surface": "כַּיּוֹלֵֽדָה",
+      "gloss": "كالوالِدة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:51:33.590749016Z",
+  "model": "glm-5.2"
+}

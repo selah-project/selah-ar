@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 142,
+  "translation": "صرختُ إليكَ يا يهوه، قلتُ: أنتَ ملجأي، حظّي في أرضِ الأحياء.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "صرختُ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليكَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "قلتُ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ملجأي"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "حظّي"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرضِ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "الأحياء"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:27.311018592Z",
+  "model": "glm-5.2"
+}

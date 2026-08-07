@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "لكن في هذا الأمر أنتم لستم بمؤمنين بييهوه إلوهيمكم.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "لكن في الأمر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "أنتم لستم"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "بمؤمنين"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "بييهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلوهيمكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:44.239998862Z",
+  "model": "glm-5.2"
+}

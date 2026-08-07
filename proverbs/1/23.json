@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ارجعوا إلى توبيخي؛ ها أُفيض لكم روَحي، أُعلّمكم أقوالي ⟨معكم⟩.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "ارجعوا"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "إلى توبيخي"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "أُفيض"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "روَحي"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "أُعلّم"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "أقوالي"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاكم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:19:46.287312463Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "يهوه إلوهيمكم السائر أمامكم هو يحارب عنكم، حسب كل ما فعل معكم في مصرايم أمام أعينكم.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلوهيمكم"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "السائر"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "أمامكم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "يحارب"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "عنكم"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "حسب كل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعل"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "معكم"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "في مصرايم"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "أمام أعينكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:44.239753802Z",
+  "model": "glm-5.2"
+}

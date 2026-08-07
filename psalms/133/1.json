@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 133,
+  "translation": "שִׁיר הַמַּעֲלוֹת לְדָוִד: הִנֵּה מַה טּוֹב וּמַה נָעִים שֶׁבֶת אַחִים גַּם יָחַד.",
+  "tokens": [
+    {
+      "surface": "שִׁ֥יר",
+      "gloss": "שִׁ֥יר",
+      "transliteration": "shir",
+      "grammar": "noun common singular construct",
+      "lemma": "שִׁיר",
+      "strongs": "H7892",
+      "morphparse": "Ncmsc",
+      "meaning": "a song; abstractly, singing"
+    },
+    {
+      "surface": "הַֽמַּעֲל֗וֹת",
+      "gloss": "הַֽמַּעֲל֗וֹת",
+      "transliteration": "hama'alot",
+      "grammar": "article + noun common feminine plural",
+      "lemma": "מַעֲלָה",
+      "strongs": "H4609",
+      "morphparse": "Ncfpa",
+      "meaning": "ascents, steps"
+    },
+    {
+      "surface": "לְדָ֫וִ֥ד",
+      "gloss": "לְדָ֫וִ֥ד",
+      "transliteration": "ledavid",
+      "grammar": "preposition ל + proper name masculine singular",
+      "lemma": "דָּוִד",
+      "strongs": "H1732",
+      "morphparse": "Np",
+      "meaning": "David"
+    },
+    {
+      "surface": "הִנֵּ֣ה",
+      "gloss": "הִנֵּ֣ה",
+      "transliteration": "hineh",
+      "grammar": "interjection \/ particle of presentation",
+      "lemma": "הִנֵּה",
+      "strongs": "H2009",
+      "morphparse": "Tn",
+      "meaning": "lo! behold!"
+    },
+    {
+      "surface": "מַ֭ה",
+      "gloss": "מַ֭ה",
+      "transliteration": "mah",
+      "grammar": "interrogative\/exclamatory particle",
+      "lemma": "מָה",
+      "strongs": "H4100",
+      "morphparse": "Ti",
+      "meaning": "what! how!"
+    },
+    {
+      "surface": "טּ֭וֹב",
+      "gloss": "טּ֭וֹב",
+      "transliteration": "tov",
+      "grammar": "adjective masculine singular",
+      "lemma": "טוֹב",
+      "strongs": "H2896",
+      "morphparse": "Aamsa",
+      "meaning": "good"
+    },
+    {
+      "surface": "וּמַה",
+      "gloss": "וּמַה",
+      "transliteration": "umah",
+      "grammar": "conjunction ו + exclamatory particle",
+      "lemma": "מָה",
+      "strongs": "H4100",
+      "morphparse": "c:Ti",
+      "meaning": "and how!"
+    },
+    {
+      "surface": "נָּעִ֑ים",
+      "gloss": "נָּעִ֑ים",
+      "transliteration": "na'im",
+      "grammar": "adjective masculine singular",
+      "lemma": "נָעִים",
+      "strongs": "H5273",
+      "morphparse": "Aamsa",
+      "meaning": "pleasant, delightful"
+    },
+    {
+      "surface": "שֶׁ֖בֶת",
+      "gloss": "שֶׁ֖בֶת",
+      "transliteration": "shevet",
+      "grammar": "noun common feminine singular construct",
+      "lemma": "יָשַׁב",
+      "strongs": "H3427",
+      "morphparse": "Vqc:R",
+      "meaning": "dwelling, sitting (infinitive construct)"
+    },
+    {
+      "surface": "אַחִ֣ים",
+      "gloss": "אַחִ֣ים",
+      "transliteration": "achim",
+      "grammar": "noun common masculine plural",
+      "lemma": "אָח",
+      "strongs": "H251",
+      "morphparse": "Ncmpa",
+      "meaning": "brothers"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "גַּם",
+      "transliteration": "gam",
+      "grammar": "adverb \/ conjunction",
+      "lemma": "גַּם",
+      "strongs": "H1571",
+      "morphparse": "D",
+      "meaning": "also, even"
+    },
+    {
+      "surface": "יָֽחַד",
+      "gloss": "יָֽחַד",
+      "transliteration": "yachad",
+      "grammar": "adverb",
+      "lemma": "יַחַד",
+      "strongs": "H3162",
+      "morphparse": "D",
+      "meaning": "together, in unity"
+    }
+  ],
+  "timestamp": "2026-08-07T08:12:59.250758677Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 1:20",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وأعطوا لكالب ⟨את⟩ حبرون كما تكلّم موشيه، فطرد من هناك ⟨את⟩ ثلاثة من بني عناق.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "وأعطوا"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "لكالب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حبرون"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حبرون"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ויורש",
+      "gloss": "فطرد"
+    },
+    {
+      "surface": "משם",
+      "gloss": "من هناك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ثلاثة"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ثلاثة"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "عناق"
+    }
+  ],
+  "timestamp": "2026-08-07T01:13:04.326095048Z",
+  "model": "glm-5.2"
+}

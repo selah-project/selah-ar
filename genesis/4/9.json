@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وقال يهوه لقاين: أين هابِل أخوك؟ فقال: لا أعرف. هل أنا حارسٌ لأخي؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قاين"
+    },
+    {
+      "surface": "אי",
+      "gloss": "أين"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هابِل"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "أخوك"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "أعرف"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "حارس"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "لأخي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:01.869672353Z",
+  "model": "glm-5.2"
+}

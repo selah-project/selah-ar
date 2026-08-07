@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "شاهِدُ الأكاذيبِ يَهلِك، ورَجُلُ السَّمْعِ يَتكلَّمُ للأَبَد.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "الأكاذيب"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "يهلك"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ورجل"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "السمع"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "للأبد"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "يتكلّم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:47.139389566Z",
+  "model": "glm-5.2"
+}

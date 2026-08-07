@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "بل إلى أرضي وإلى مَوْلِدَتي تَذهَبُ، وتأخذُ امرأةً لابني، لِيِصْحاق.»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "بل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "أرضي"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "مولدتي"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "تذهب"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "وتأخذ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لابني"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ليصحاق"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:35.394510460Z",
+  "model": "glm-5.2"
+}

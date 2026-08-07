@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 36:14",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "«هكذا قال الملك: لا يُضلِّلَنّكم حزقيا، لأنّه لا يقدر أن يُنقذكم.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "يُضلِّلَنّ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "كم"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حزقيا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "يقدر"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "أن يُنقذ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "كم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:16:32.582442707Z",
+  "model": "glm-5.2"
+}

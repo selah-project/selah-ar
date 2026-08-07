@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 28:32",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "«بنوك وبناتُك مُعطَوْن لشعبٍ آخر، وعيناك تنظران وتذوبان إليهم كل اليوم، ولا في مقدرة يدك شيئًا.»",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "بنوك"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "وبناتُك"
+    },
+    {
+      "surface": "נתנים",
+      "gloss": "مُعطَوْن"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "لشعبٍ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "آخر"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "وعيناك"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "تنظران"
+    },
+    {
+      "surface": "וכלות",
+      "gloss": "وتذوبان"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "إليهم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "في مقدرة"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:16.845703184Z",
+  "model": "glm-5.2"
+}

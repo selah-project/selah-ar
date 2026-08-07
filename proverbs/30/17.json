@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 30:17",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "عينٌ تَسخرُ من أبٍ وتحتقرُ طاعةَ أمّ، ينقُرُها غربانُ الوادي، ويلتهمُها أبناءُ النَّسر.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "عين"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "تسخر من"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "لأب"
+    },
+    {
+      "surface": "ותבוז",
+      "gloss": "وتحتقر"
+    },
+    {
+      "surface": "ליקהת",
+      "gloss": "طاعة"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أمّ"
+    },
+    {
+      "surface": "יקרוה",
+      "gloss": "ينقرونها"
+    },
+    {
+      "surface": "ערבי",
+      "gloss": "غربان"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "وادٍ"
+    },
+    {
+      "surface": "ויאכלוה",
+      "gloss": "ويلتهمونها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "أبناء"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "نسر"
+    }
+  ],
+  "timestamp": "2026-08-07T06:09:07.528125880Z",
+  "model": "glm-5.2"
+}

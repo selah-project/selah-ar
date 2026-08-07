@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وجيشُه ومعدودوه أربعةً وسبعين ألفًا وستَّ مئة.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "وجيشُه"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ومعدودوه"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "أربعةً"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "وسبعين"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفًا"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "وستَّ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:10.040379446Z",
+  "model": "glm-5.2"
+}

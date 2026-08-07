@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وكل تقدمة كوهين بالكامل ⟨تكون⟩: لا تُؤكَل.",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "מִנְחַ֥ת",
+      "gloss": "تقدمة"
+    },
+    {
+      "surface": "כֹּהֵ֛ן",
+      "gloss": "كوهين"
+    },
+    {
+      "surface": "כָּלִ֥יל",
+      "gloss": "بالكامل"
+    },
+    {
+      "surface": "תִּהְיֶ֖ה",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תֵאָכֵֽל",
+      "gloss": "تُؤكَل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:31.881523038Z",
+  "model": "glm-5.2"
+}

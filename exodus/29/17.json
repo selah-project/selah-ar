@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "و⟨את⟩ الكبش تُقطّع إلى قطعه، وتغسل أحشاءه وأكارعه، وتضع ⟨ها⟩ على قطعه وعلى رأسه.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الكبش"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "الكبش"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "تُقطّع"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "إلى قطعه"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "وتغسل"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "أحشاءه"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "وأكارعه"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "وتضع"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "قطعه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "رأسه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:10:30.302165311Z",
+  "model": "glm-5.2"
+}

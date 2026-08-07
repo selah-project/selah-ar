@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 10:13",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "و⟨أجابهم⟩ الملك قساوةً، وترك الملك رحبعام ⟨את⟩ مشورة الشيوخ.",
+  "tokens": [
+    {
+      "surface": "ויענם",
+      "gloss": "و⟨أجابهم⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "قساوةً"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "وترك"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رحبعام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مشورة"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "مشورة"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "الشيوخ"
+    }
+  ],
+  "timestamp": "2026-08-07T05:25:02.533883361Z",
+  "model": "glm-5.2"
+}

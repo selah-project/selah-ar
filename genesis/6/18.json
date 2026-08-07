@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 6:18",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وأُقيمُ ⟨את⟩ بريتي معك، فتأتي أنتَ وبنوك وامرأتك ونساءُ بنيك معك إلى التابوت.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "وأُقيمُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بريتي"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "بريتي"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "فتأتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "التابوت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "وبنوك"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "وامرأتك"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ونساءُ"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "بنيك"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "معك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:33.242601456Z",
+  "model": "glm-5.2"
+}

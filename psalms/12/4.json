@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "ليقطعْ يهوه كلَّ شِفاهٍ مَلْساء، لسانًا يتكلّم ⟨ب⟩مَعاظمَ،",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "ليقطعْ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "شِفاهٍ"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "مَلْساء"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "لسانًا"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "يتكلّم"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "بمَعاظمَ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:42:14.551181389Z",
+  "model": "glm-5.2"
+}

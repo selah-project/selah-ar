@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وأنت تعود وتسمع لصوت يهوه، وتعمل ⟨את⟩ كلّ وصاياه التي أنا أوصيك بها اليوم.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "وأنت"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "تعود"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "وتسمع"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "لصوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "وتعمل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ وصاياه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "وصاياه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "أوصيك بها"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:39.926197837Z",
+  "model": "glm-5.2"
+}

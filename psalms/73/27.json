@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 73:27",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 73,
+  "translation": "لأنّه هاؤلاء المبتعدين عنك يَهلِكون؛ أبَدتَ كلَّ زانيةٍ عنك.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هاؤلاء"
+    },
+    {
+      "surface": "רחקיך",
+      "gloss": "المبتعدين عنك"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "يَهلِكون"
+    },
+    {
+      "surface": "הצמתה",
+      "gloss": "أبَدتَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "زانيةٍ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "عنك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:11.624041247Z",
+  "model": "glm-5.2"
+}

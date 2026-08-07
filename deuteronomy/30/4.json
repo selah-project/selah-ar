@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 30:4",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "«إن كان المنفيّ منك في طرف السماوات، فمن هناك يجمعك يهوه إلوهيمك، ومن هناك يأخذك،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "נדחך",
+      "gloss": "المنفيّ منك"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "في طرف"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "משם",
+      "gloss": "فمن هناك"
+    },
+    {
+      "surface": "יקבצך",
+      "gloss": "يجمعك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ومن هناك"
+    },
+    {
+      "surface": "יקחך",
+      "gloss": "يأخذك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:51.363712258Z",
+  "model": "glm-5.2"
+}

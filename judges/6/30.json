@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 6:30",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فقال رجال المدينة إلى يوآش: أخرج ⟨את⟩ ابنك وليمُت، لأنه هدم ⟨את⟩ مذبح البعل، ولأنه قطع الأشيرة التي عليه.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "يوآش"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "أخرج"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابنك"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ابنك"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "وليمُت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "هدم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مذبح البعل"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "البعل"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ولأنه"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "قطع"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "الأشيرة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:14:54.870065744Z",
+  "model": "glm-5.2"
+}

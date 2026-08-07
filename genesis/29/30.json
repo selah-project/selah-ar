@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "فدخل أيضًا إلى راحيل، وأحبَّ أيضًا ⟨את⟩ راحيل أكثرَ من لِيْئةَ، فخدَم معه أيضًا سبعَ سنينٍ أُخَر.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "فدخل"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحيل"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "وأحبَّ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "راحيل"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحيل"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "أكثرَ من"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "فخدَم"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "أيضًا\/بعد"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبع"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنين"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "أُخَر"
+    }
+  ],
+  "timestamp": "2026-08-06T23:45:09.373756087Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "التدبيرُ يحرسك، التَّبُّونةُ يحفظُك،",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "التدبيرُ"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "يحرسك"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "⟨عليك⟩"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "التَّبُّونةُ"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "يحفظُك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:21:23.200256562Z",
+  "model": "glm-5.2"
+}

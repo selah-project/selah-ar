@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 27:28",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وليُعطك إلوهيم من طلّ السماوات ومن شحميات الأرض، ووفرة حنطة ومستَ",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "وليُعط"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ك"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "من طلّ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "ומשמני",
+      "gloss": "ومن شحميات"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ووفرة"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "حنطة"
+    },
+    {
+      "surface": "ותירש",
+      "gloss": "ومستَ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:13.424916729Z",
+  "model": "glm-5.2"
+}

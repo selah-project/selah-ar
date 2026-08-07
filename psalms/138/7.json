@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 138,
+  "translation": "إن سِرتُ في وسط الضيق، تُحييني؛ على غضب أعدائي تبسط يدك، ويمينك تُخلّصني.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "سِرتُ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "الضيق"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "تُحييني"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "أعدائي"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "تبسط"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدك"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "وتُخلّصني"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ويمينك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:17:51.951070868Z",
+  "model": "glm-5.2"
+}

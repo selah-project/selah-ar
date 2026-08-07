@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 43:28",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 43,
+  "translation": "فقالوا: «شالوم لعبدك أبيك، هو بعدُ حيّ.» وانحنوا وسجدوا.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقالوا"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "لعبدك"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "أبينا"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "هو بعدُ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "حيّ"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "وانحنوا"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "وسجدوا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:52:15.001577796Z",
+  "model": "glm-5.2"
+}

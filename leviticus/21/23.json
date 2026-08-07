@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "لكن إلى الفاروخِت لا يدخل، وإلى المذبح لا يقترب، لأنّ عيبًا فيه؛ فلا يُدنِّس ⟨את⟩ مقدّساتي، لأنّي أنا يهوه مُقدِّسهم.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "لكن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "الفاروخِت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "يدخل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "يقترب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "عيب"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "يُدنِّس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مقدّساتي"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "مقدّساتي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "مُقدِّسهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:52.446586686Z",
+  "model": "glm-5.2"
+}

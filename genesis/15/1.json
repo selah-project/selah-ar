@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 15:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "بعد هذه الأمور كان كلمة يهوه إلى أفراهام في رؤيا قائلاً: لا تخف أفراهام، أنا مجنّ لك، أجرتك يُكثِرُ جدًا.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "هذه الأمور"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "במחזה",
+      "gloss": "في رؤيا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "خف"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "مجنّ"
+    },
+    {
+      "surface": "لך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "أجرتك"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "يُكثِرُ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:33.887277113Z",
+  "model": "glm-5.2"
+}

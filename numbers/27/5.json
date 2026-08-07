@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "فقرّب موشيه ⟨את⟩ دعواهن أمام يهوه",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "فقرّب"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دعواهن"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "دعواهن"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T08:33:46.567435161Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 20:6",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "كثرَةُ النّاسِ تُنادي كلُّ واحدٍ بحِسِدِه، ورجلَ أَماناتٍ من يَجِد؟",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "كثرَة"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "النّاس"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "تُنادي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كلُّ واحد"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "بحِسِدِه"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ورجل"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "أَمانات"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "يَجِد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:29.587460449Z",
+  "model": "glm-5.2"
+}

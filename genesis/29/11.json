@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وقبّل يعقوف راحيل ورفع ⟨את⟩ صوته وبكى.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "وقبّل"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "راحيل"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ورفع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صوته"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "صوته"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "وبكى"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:34.921569841Z",
+  "model": "glm-5.2"
+}

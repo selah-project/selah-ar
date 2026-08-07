@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 30:2",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وتشاور الملك ورؤساؤه وكل الجماعة في يروشالايم لِعمل الفصح في الشهر الثاني.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "وتشاور"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "ورؤساؤه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "الجماعة"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "في يروشالايم"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "لِعمل"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "الفصح"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "في الشهر"
+    },
+    {
+      "surface": "השני",
+      "gloss": "الثاني"
+    }
+  ],
+  "timestamp": "2026-08-07T05:30:49.896666615Z",
+  "model": "glm-5.2"
+}

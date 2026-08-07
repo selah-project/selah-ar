@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 21:9",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فأنت تُبيد الدم البريء من وسطك، لأنك تفعل المستقيم في عيني يهوه.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "فأنت"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "تُبيد"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "الدم"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "البريء"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "من وسطك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنك"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تفعل"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "المستقيم"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عيني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:28.859860869Z",
+  "model": "glm-5.2"
+}

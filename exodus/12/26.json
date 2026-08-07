@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "«و⟨يكون⟩ حين يقول لكم بنوكم: ما هذه العبادة لكم؟»",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و⟨يكان⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "حين"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "يقول"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "بنوكم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "العبادة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:03:43.932382011Z",
+  "model": "glm-5.2"
+}

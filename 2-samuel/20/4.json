@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "فقال الملك لعماسا: «نادِ لي ⟨את⟩ رجال يَهودا ثلاثةَ أيّام، وأنت هنا قِف.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "عماسا"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "نادِ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رجال يَهودا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يَهودا"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ثلاثة"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "وأنت"
+    },
+    {
+      "surface": "פה",
+      "gloss": "هنا"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "قِف"
+    }
+  ],
+  "timestamp": "2026-08-07T01:40:10.913200046Z",
+  "model": "glm-5.2"
+}

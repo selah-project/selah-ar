@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "وتصنع ثيابًا مقدّسة لأهارون أخيك لمجدٍ و⟨ل⟩جمال.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "وتصنع"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ثياب"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدّسة"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "لأهارون"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "أخيك"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "لمجد"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "ولجمال"
+    }
+  ],
+  "timestamp": "2026-08-07T05:37:28.547349228Z",
+  "model": "glm-5.2"
+}

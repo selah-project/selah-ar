@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وفتركوا ⟨את⟩ يهوه وعبدوا لبَعل ولعَشتاروت.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "وفتركوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "وعبدوا"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "لبَعل"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "ولعَشتاروت"
+    }
+  ],
+  "timestamp": "2026-08-07T01:12:31.424025983Z",
+  "model": "glm-5.2"
+}

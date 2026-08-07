@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "رجلُ توكيخاتٍ يُقسِي قفاه، فجأةً يُكسَر ولا ⟨من⟩ شفاءٍ.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "توكيحات"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "يُقسِي"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "قفا"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "فجأة"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "يُكسَر"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "شفاء"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:11.496338001Z",
+  "model": "glm-5.2"
+}

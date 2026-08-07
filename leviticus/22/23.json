@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وثور وشاة زائدَ الأعضاء أو ناقصَها، نَدَبةً تعملون ⟨את⟩ه، ولنذر لا يُرضى.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "وثور"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "وشاة"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "زائد الأعضاء"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "أو ناقصها"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "نَدَبة"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تعملون"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ه (الحيوان)"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "ولنذر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "يُرضى"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:01.669536477Z",
+  "model": "glm-5.2"
+}

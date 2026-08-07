@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "حين صَمَتُّ، بَلِيَت عظامي بِزَئيري كلّ النهار",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "حين"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "صَمَتُّ"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "بَلِيَت"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "عظامي"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "بِزَئيري"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "النهار"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:48.095585678Z",
+  "model": "glm-5.2"
+}

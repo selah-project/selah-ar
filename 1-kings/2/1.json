@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وأَقْتربَت أيّام دافيد لِلموت، فوصّى ⟨את⟩ شلومو ابنه قائلًا:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "واقتربت"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "دافيد"
+    },
+    {
+      "surface": "למות",
+      "gloss": "للموت"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "فوصّى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شلومو"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:42:43.452428352Z",
+  "model": "glm-5.2"
+}

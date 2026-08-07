@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 7:22",
+  "book": "ezra",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "حتى فضّةٍ مئة وزنة، وحتى حنطةٍ مئة كورّ، وحتى خمرٍ مئة بثّ، وحتى زيتٍ مئة بثّ، وملحٍ بلا كتابة.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضّة"
+    },
+    {
+      "surface": "ככרין",
+      "gloss": "وزنة"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وحتى"
+    },
+    {
+      "surface": "חנטין",
+      "gloss": "حنطة"
+    },
+    {
+      "surface": "כרין",
+      "gloss": "كورّ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وحتى"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "خمر"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "بثّ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وحتى"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "بثّ"
+    },
+    {
+      "surface": "משח",
+      "gloss": "زيت"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "ומלח",
+      "gloss": "وملح"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨الذي⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "بلا"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "كتابة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:03:28.646816366Z",
+  "model": "glm-5.2"
+}

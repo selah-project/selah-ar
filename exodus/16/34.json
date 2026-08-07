@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 16:34",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "كما وصى يهوه ⟨إلى⟩ موشيه، فوضعه أهارون أمام الشهادة لِحِفْظٍ.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "وصى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨إلى⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ויניחהו",
+      "gloss": "فوضعه"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "الشهادة"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "لِحِفْظٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:05:51.017618209Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "جامعٌ كالنِّدْ مياهَ البحر، واضعٌ في خزائنَ تِهُموت",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "جامعٌ"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "كالنِّدْ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مياهَ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "واضعٌ"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "في خزائنَ"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "تِهُموت"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:16.840623009Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وداوود كان يذهب ويرجع من عند شاؤول ليرعى ⟨את⟩ قطعان أبيه في بيت لِحِم.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "وداوود"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "كان يذهب"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ويرجع"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "من عند"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "ليرعى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قطعان"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "قطعان"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لِحِم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:26:26.708407241Z",
+  "model": "glm-5.2"
+}

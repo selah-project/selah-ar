@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "وإيماني وحِسِدي معه، وباسمي تُرتفع قرنُه.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "وإيماني"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "وحِسِدي"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "وباسمي"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "تُرتفع"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "قرنُه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:05.778485786Z",
+  "model": "glm-5.2"
+}

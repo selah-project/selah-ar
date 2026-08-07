@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فساءني ذلك جدًّا، فطرحت ⟨أنا⟩ ⟨את⟩ كلّ أمتعة بيت طوبيا إلى الخارج من الغرفة.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "فساء"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ني"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "فطرحت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ أمتعة بيت طوبيا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "أمتعة"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "طوبيا"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "إلى الخارج"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "الغرفة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:08:55.674098274Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 3:2",
+  "book": "zephaniah",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "لم تسمعِ الصوتَ، لم تقبلِ التأديبَ، بيَهوه لم تتوكّلْ، إلى إلوهيمِها لم تقتربْ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "تسمعِ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "الصوتَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "تقبلِ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "التأديبَ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "بيَهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "בטחה",
+      "gloss": "تتوكّلْ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "إلوهيمِها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "تقتربْ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:33:45.871080835Z",
+  "model": "glm-5.2"
+}

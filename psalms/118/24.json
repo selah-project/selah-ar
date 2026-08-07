@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 118,
+  "translation": "هذا اليومَ صنعه يهوه، نَبتهِجْ ونفرَحْ فيه",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليومَ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "نَبتهِجْ"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "ونفرَحْ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:23.668443558Z",
+  "model": "glm-5.2"
+}

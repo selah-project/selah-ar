@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "و⟨تضع⟩ ⟨את⟩ الحوض بين خيمة الموعد والمذبح، و⟨تضع⟩ هناك ماء.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "و⟨تضع⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الحوض"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "الحوض"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "و"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "و⟨تضع⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:18.321911999Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 63:18",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 63,
+  "translation": "لمُدّةٍ قصيرة امتلكها شعب قدسك، أعداؤنا داسوا مقدسك.",
+  "tokens": [
+    {
+      "surface": "למצער",
+      "gloss": "لمُدّةٍ قصيرة"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "امتلك"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "قدسك"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "أعداؤنا"
+    },
+    {
+      "surface": "בוססו",
+      "gloss": "داسوا"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "مقدسك"
+    }
+  ],
+  "timestamp": "2026-08-07T02:25:10.138504563Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "فلا يذبحوا بعدُ ⟨את⟩ ذبائحهم للسَّعيريم الذين هم يزنون وراءهم. فريضةُ دهْرٍ تكون هذه لهم لدوروتهم.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "يذبحوا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعدُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ذبائحهم"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "ذبائحهم"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "للسَّعيريم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "يزنون"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "وراءهم"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "فريضة"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "دهْر"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "لدوروتهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:00.768163289Z",
+  "model": "glm-5.2"
+}

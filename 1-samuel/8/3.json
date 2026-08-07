@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 8:3",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "ولم يسلك بنوه في طرقه، بل مالوا وراء الطمع، وأخذوا رشوة، وأمالوا الحُكم.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "يسلك"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "بنوه"
+    },
+    {
+      "surface": "בדרכו",
+      "gloss": "في طرقه"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "بل مالوا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وراء"
+    },
+    {
+      "surface": "הבצע",
+      "gloss": "الطمع"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "وأخذوا"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "رشوة"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "وأمالوا"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "الحُكم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:22:22.602591003Z",
+  "model": "glm-5.2"
+}

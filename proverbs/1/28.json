@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "«حينئذٍ يستغيثون بي فلا أُجيب، يُبكِّرون إليَّ فلا يجدونني»،",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "حينئذٍ"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "يستغيثون بي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "أُجيب"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "يُبكِّرون إليَّ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "يجدونني"
+    }
+  ],
+  "timestamp": "2026-08-07T04:21:28.453382087Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فذهبت ⟨من عند⟩ه وأغلقت الباب خلفها وخلف بنيها، هم يقدّمون إليها وهي تَصُبّ.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "فذهبت"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "من عنده"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "وأغلقت"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "الباب"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "خلفها"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "وخلف"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "بنيها"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "يقدّمون"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "إليها"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "وهي"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "تصبّ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:54:18.984235838Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "نادوا بصومٍ وأجلَسوا ⟨את⟩ ناڤوت في رأس الشعب.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "نادوا"
+    },
+    {
+      "surface": "צום",
+      "gloss": "بصومٍ"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "وأجلَسوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناڤوت"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "ناڤوت"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "في رأس"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    }
+  ],
+  "timestamp": "2026-08-07T01:51:17.508467375Z",
+  "model": "glm-5.2"
+}

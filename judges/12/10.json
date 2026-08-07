@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "ومات إبصان ودُفن في بيت لحم.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ومات"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "إبصان"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ودُفن"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في بيت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:16:43.493522470Z",
+  "model": "glm-5.2"
+}

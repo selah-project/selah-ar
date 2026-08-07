@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "أجِبِ الجاهلَ حسبَ حماقتهِ، لئلّا يصيرَ حكيمًا في عينَي نفسهِ.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "أجب"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "الجاهل"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "حسب حماقته"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلّا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يصير"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حكيمًا"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "في عينَي نفسه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:26.517997596Z",
+  "model": "glm-5.2"
+}

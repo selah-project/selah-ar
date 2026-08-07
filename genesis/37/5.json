@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "وخلَمَ يوسف خلومًا وأخبر إخوته، وزادوا بعدُ شنآنه ⟨את⟩ه",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "وخلَمَ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "خلومًا"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "وأخبر"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "إخوته"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "وزادوا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعدُ"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "شنآنه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "هو"
+    }
+  ],
+  "timestamp": "2026-08-06T23:48:38.114448143Z",
+  "model": "glm-5.2"
+}

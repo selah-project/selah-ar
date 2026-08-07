@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 19:11",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "و⟨את⟩ بقية الشعب جعل بيد أَفْشاي أخيه، فصفّوا للقاء بني عمّون.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بقية"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "بقية"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "جعل"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بيد"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "أَفْشاي"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "أخيه"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "فصفّوا"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "للقاء"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمّون"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:38.586101443Z",
+  "model": "glm-5.2"
+}

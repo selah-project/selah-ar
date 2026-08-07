@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "لا تُجرِّبُوا ⟨את⟩ يهوه إلهَكم، كما جرَّبتُموه في ماسّة.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "تُجرِّبُوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلهَكم"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "جرَّبتُم"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "في ماسّة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:30.218840635Z",
+  "model": "glm-5.2"
+}

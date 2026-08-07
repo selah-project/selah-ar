@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وقوّى ⟨את⟩ الحصون وجعل فيهم نَگيداتٍ وخزائن طعام وزيت وخمر.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "وقوّى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الحصون"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "الحصون"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "وجعل"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "فيهم"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "نَگيداتٍ"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "وخزائن"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "طعام"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "وزيت"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "وخمر"
+    }
+  ],
+  "timestamp": "2026-08-07T05:24:16.729137490Z",
+  "model": "glm-5.2"
+}

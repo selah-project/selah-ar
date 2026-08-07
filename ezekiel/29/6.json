@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 29:6",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وعلِمَ جميعُ سكّانِ مصرايم أنّي أنا يهوه، من أجل أنّهم كانوا عكازَ قصبٍ لبيتِ يسارئيل.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "وعلِمَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميعُ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "سكّانِ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יען",
+      "gloss": "من أجل أنّ"
+    },
+    {
+      "surface": "היותם",
+      "gloss": "كانوا"
+    },
+    {
+      "surface": "משענת",
+      "gloss": "عكازَ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "قصبٍ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "لبيتِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسارئيل"
+    }
+  ],
+  "timestamp": "2026-08-07T06:00:37.369871414Z",
+  "model": "glm-5.2"
+}

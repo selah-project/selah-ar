@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 116,
+  "translation": "أحاطت بي حِبالُ موتٍ، وشدائدُ شيول وجدتني؛ ضيقًا وكربًا أجد",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "أحاطت بي"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "حِبالُ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موتٍ"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "وشدائدُ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شيول"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "وجدتني"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ضيقًا"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "وكربًا"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "أجد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:01.676409533Z",
+  "model": "glm-5.2"
+}

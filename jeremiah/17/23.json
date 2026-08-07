@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 17:23",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "فلم يسمعوا ولم يميلوا ⟨את⟩ أذنهم، وأقسوا ⟨את⟩ قفاهم، عن أن يسمعوا وعن أن يأخذوا تأديباً.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "يسمعوا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "ميلوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أذنهم"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "أذنهم"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "وأقسوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قفاهم"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "قفاهم"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "عن أن"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "يسمعوا"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "وعن أن"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "يأخذوا"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تأديباً"
+    }
+  ],
+  "timestamp": "2026-08-07T02:36:51.519982411Z",
+  "model": "glm-5.2"
+}

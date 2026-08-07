@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 39:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "ورأى سيّده أن يهوه معه، وأن كل ما هو يصنع، يهوه يُفلِحه بِيَدِه.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ورأى"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "سيّده"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "يصنع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "يُفلِح"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "بيده"
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:44.869324717Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 28:11",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "حكيمٌ في عينَيْهِ رجلٌ غنيّ، والمُعدِم ذو الفهم يَفحَصُهُ.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "حكيمٌ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "في عينَيْهِ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلٌ"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "غنيّ"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "والمُعدِم"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "ذو الفهم"
+    },
+    {
+      "surface": "יחקרנו",
+      "gloss": "يَفحَصُهُ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:53.448253046Z",
+  "model": "glm-5.2"
+}

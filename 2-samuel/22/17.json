@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 22:17",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "أرسل من المرتفعات فأخذني، انتشلني من مياهٍ كثيرة.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "أرسل"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "من المرتفعات"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "فأخذني"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "انتشلني"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "من مياه"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:40:30.681849304Z",
+  "model": "glm-5.2"
+}

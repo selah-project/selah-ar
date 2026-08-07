@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وأحاربُ أنا إيّاكم بيدٍ ممدودةٍ وذراعٍ قويّةٍ وبغضبٍ وحمّةٍ وغيظٍ عظيمٍ،",
+  "tokens": [
+    {
+      "surface": "ונלחמתי",
+      "gloss": "وأحاربُ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "إيّاكم"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بيدٍ"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ممدودةٍ"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "وذراعٍ"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "قويّةٍ"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "وبغضبٍ"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "وحمّةٍ"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "وغيظٍ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيمٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:37:54.470714321Z",
+  "model": "glm-5.2"
+}

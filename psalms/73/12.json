@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 73,
+  "translation": "هؤلاء الأشرار، دائمًا مسترخون، قد بلغوا قوّةً.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الأشرار"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "ومسترخون"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "دائمًا"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "قد بلغوا"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "قوّة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:09.372320680Z",
+  "model": "glm-5.2"
+}

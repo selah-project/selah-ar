@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "jeremiah 2:36",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "ما أفرطَ ذَهابُكِ جدًّا لتغييرِ ⟨את⟩ طريقكِ! أيضًا من مصرايم (مصر) ستخزين كما خزيتِ من أشّور.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "תזלי",
+      "gloss": "تذهبين"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    },
+    {
+      "surface": "לשנות",
+      "gloss": "لتغييرِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "طريقكِ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "طريقكِ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "من مصرايم"
+    },
+    {
+      "surface": "תבושי",
+      "gloss": "ستخزين"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "خزيتِ"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "من أشّور"
+    }
+  ],
+  "timestamp": "2026-08-07T02:27:59.346038258Z",
+  "model": "glm-5.2"
+}

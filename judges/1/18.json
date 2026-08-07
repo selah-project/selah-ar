@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وأخذ يهودا ⟨את⟩ عزّة و⟨את⟩ تخمها، و⟨את⟩ أشقلون و⟨את⟩ تخمها، و⟨את⟩ عقرون و⟨את⟩ تخمها.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عزّة"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "عزّة"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "تخمها"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "تخمها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أشقلون"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "أشقلون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "تخمها"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "تخمها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "عقرون"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "عقرون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "تخمها"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "تخمها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:13:04.325882022Z",
+  "model": "glm-5.2"
+}

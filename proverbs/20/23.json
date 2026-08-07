@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 20:23",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "رِجسٌ لِيهوه حجرٌ وحجرٌ، وموازينُ غِشٍّ ليسا طيّبين.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "رِجس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "لِيهوه"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "حجر"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "وحجر"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "وموازين"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "غِش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليسا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيّبين"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:10.363015772Z",
+  "model": "glm-5.2"
+}

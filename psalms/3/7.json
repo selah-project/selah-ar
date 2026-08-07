@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "لا أخاف من رَبَواتٍ من الشعب، الذين حولي نصبوا ⟨أنفسهم⟩ عليّ",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "أخاف"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "من رَبَوات"
+    },
+    {
+      "surface": "עם",
+      "gloss": "من الشعب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "حولي"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "نصبوا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عليّ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:40:45.272216788Z",
+  "model": "glm-5.2"
+}

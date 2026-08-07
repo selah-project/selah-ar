@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "لأنّه ليس إلى الأبد ثَراءٌ، وإن إكليلاً — إلى جيلٍ جيل.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "ثَراءٌ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "إكليلاً"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "إلى جيلٍ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "جيل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:38.299418653Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 7:11",
+  "book": "amos",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "لأنه هكذا قال عاموس: بالسيف يموت ياروفعام، ويِسراائيل نفيًا يُنفى عن أرضه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "עמוס",
+      "gloss": "عاموس"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "بالسيف"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "يموت"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ياروفعام"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ويِسراائيل"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "نفيًا"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "يُنفى"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "عن"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "أرضه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:26:10.133071416Z",
+  "model": "glm-5.2"
+}

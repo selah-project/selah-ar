@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "مِجنّي على إلوهيم، مُخْلِصُ مُستقيمي القلب.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "مِجنّي"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "مُخْلِصُ"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "مُستقيمي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "القلب"
+    }
+  ],
+  "timestamp": "2026-08-07T03:39:49.064798189Z",
+  "model": "glm-5.2"
+}

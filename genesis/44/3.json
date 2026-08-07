@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "الصباح أضاء، والرجال أُرسلوا هم وحميرهم.",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "الصباح"
+    },
+    {
+      "surface": "אור",
+      "gloss": "أضاء"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "والرجال"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "أُرسلوا"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "وحميرهم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:58.168035657Z",
+  "model": "glm-5.2"
+}

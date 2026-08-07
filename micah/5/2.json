@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 5:2",
+  "book": "micah",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "لذلك يُسلِمُهم حتّى وقت ⟨أن⟩ تلد يالدة، وبقيّة إخوته يعودون على بني يسرائيل.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "יתנם",
+      "gloss": "يُسلِمُهم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتّى"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "تلد"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "يالدة"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "وبقيّة"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "إخوته"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "يعودون"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:29:37.119123355Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "لأنّها إكليلُ حِنٍ لرأسك، وقلائد لِعُنُقك ⟨هي⟩.",
+  "tokens": [
+    {
+      "surface": "כִּ֤י",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "לִוְיַ֤ת",
+      "gloss": "إكليلُ"
+    },
+    {
+      "surface": "חֵ֓ן",
+      "gloss": "حِنٍ"
+    },
+    {
+      "surface": "הֵ֬ם",
+      "gloss": "هي"
+    },
+    {
+      "surface": "לְרֹאשֶׁ֑ךָ",
+      "gloss": "لرأسك"
+    },
+    {
+      "surface": "וַ֝עֲנָקִ֗ים",
+      "gloss": "وقلائد"
+    },
+    {
+      "surface": "לְגַרְגְּרֹתֶֽיךָ",
+      "gloss": "لِعُنُقك"
+    }
+  ],
+  "timestamp": "2026-08-07T06:07:57.774789150Z",
+  "model": "glm-5.2"
+}

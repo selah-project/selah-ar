@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezekiel 20:36",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "كما حاكمتُ آباءَكم في برِّيّة أرض مصرايم، كذلك أُحاكِمُكم، نُام أدوناي يهوه.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "נשפטתי",
+      "gloss": "حاكمتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آباءَكم"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "آباءكم"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في برِّيّة"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "כן",
+      "gloss": "كذلك"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "أُحاكِم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "معكم"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نُام"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:01:44.644225050Z",
+  "model": "glm-5.2"
+}

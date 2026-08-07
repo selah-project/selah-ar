@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "في السنة الرابعة أُسِّس بيت يهوه، في شهر زيو.",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "في السنة"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "الرابعة"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "أُسِّس"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "في شهر"
+    },
+    {
+      "surface": "זו",
+      "gloss": "زيو"
+    }
+  ],
+  "timestamp": "2026-08-07T01:43:20.764496521Z",
+  "model": "glm-5.2"
+}

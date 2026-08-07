@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 59,
+  "translation": "لا تقتلهم لئلاّ ينسى شعبي، حرِّكهم بقوّتك وأنزلهم، مجنّنا أدوناي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "تقتلهم"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلاّ"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "ينسى"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "شعبي"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "حرِّكهم"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "بقوّتك"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "وأنزلهم"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "مجنّنا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:55:59.159997951Z",
+  "model": "glm-5.2"
+}

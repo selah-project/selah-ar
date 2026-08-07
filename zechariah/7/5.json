@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 7:5",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "قُل لكلّ شعب الأرض وللكوهين ⟨قائلاً⟩: حين صُمتم ونُحتم في الخامس وفي السابع، وهذه سبعون سنة، هل صُمتم صومًا ⟨لي⟩ أنا؟",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "قُل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وللـ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "כי",
+      "gloss": "حين"
+    },
+    {
+      "surface": "צמתם",
+      "gloss": "صُمتم"
+    },
+    {
+      "surface": "וספוד",
+      "gloss": "ونُحتم"
+    },
+    {
+      "surface": "בחמישי",
+      "gloss": "في الخامس"
+    },
+    {
+      "surface": "ובשביעי",
+      "gloss": "وفي السابع"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "وهذه"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "سبعون"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "הצום",
+      "gloss": "صومًا"
+    },
+    {
+      "surface": "צמתני",
+      "gloss": "صُمتم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:35:25.820348340Z",
+  "model": "glm-5.2"
+}

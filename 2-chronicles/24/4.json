@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 24:4",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "وكان بعد ذلك، كان مع قلبِ يوآشَ أنْ يجدِّدَ ⟨את⟩ بيتَ يهوه.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "يوآش"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "أنْ يجدِّدَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:28:37.499001862Z",
+  "model": "glm-5.2"
+}

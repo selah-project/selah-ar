@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "والبيت الذي أنا أبنيه عظيم، لأن إلوهينا عظيم عن كل الآلهة.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "والبيت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "أبنيه"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيم"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلوهينا"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "عن كل"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الآلهة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:21:03.787227460Z",
+  "model": "glm-5.2"
+}

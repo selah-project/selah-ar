@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "هربَ الشرِّيرُ وليس من يطارِدُه، أمّا الصِّدّيقون فكالشَّبِل يَثِقون.",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "هرب"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "وليس"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "مُطارِد"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "الشرِّير"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "والصِّدّيقون"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "كالشَّبِل"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "يَثِق"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:01.075948283Z",
+  "model": "glm-5.2"
+}

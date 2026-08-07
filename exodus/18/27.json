@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وصرّف موشيه ⟨את⟩ حماه، فمضى ⟨لِـ⟩⟨طريقِهِ⟩ إلى أرضه.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "وصرّف"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حماه"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "حماه"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "فمضى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨لِـ⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "أرضه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:23.679558961Z",
+  "model": "glm-5.2"
+}

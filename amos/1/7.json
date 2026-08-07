@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 1:7",
+  "book": "amos",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فأُرسِلُ ناراً في سورِ عَزّة، فتأكُلُ قُصورَها.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "فأُرسِلُ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ناراً"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "في سورِ"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "عَزّة"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "فتأكُلُ"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "قُصورَها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:24:46.950651955Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وأخذ موشيه وأهارون ⟨את⟩ هؤلاء الرجال الذين سُمّوا بأسماء.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "وأهارون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هؤلاء الرجال"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "الرجال"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "سُمّوا"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "بأسماء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:52.148478467Z",
+  "model": "glm-5.2"
+}

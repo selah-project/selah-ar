@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 48:18",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "فقال يوصِيف لأبيه: «لا هكذا يا أبي، لأنّ هذا هو البكر. ضع يمينك على رأسه.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوصِيف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "يا أبي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "البكر"
+    },
+    {
+      "surface": "שים",
+      "gloss": "ضع"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "يمينك"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "رأسه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:57:46.282940362Z",
+  "model": "glm-5.2"
+}

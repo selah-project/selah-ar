@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 3:15",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فأرسلَ إيش-بوشتُ وأخذَها من عند رجلٍ من عند فلطيئيل بنِ لايش",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "إيش"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "بوشت"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "وأخذها"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "من عند"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "من عند"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "فلطيئيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "לוש",
+      "gloss": "لايش"
+    }
+  ],
+  "timestamp": "2026-08-07T01:32:25.381680849Z",
+  "model": "glm-5.2"
+}

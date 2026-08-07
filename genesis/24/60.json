@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "genesis 24:60",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "وباركوا ⟨את⟩ رِفقَة وقالوا لها: «أختَنا، أنتِ كوني لألوفٍ رَبَبَة، وليَرِثْ نسلكُم ⟨את⟩ بابَ مُبغِضيه.»",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "وباركوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رفقة"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "رفقة"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقالوا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "אחתנו",
+      "gloss": "أختنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "أنتِ",
+      "marks": "היי"
+    },
+    {
+      "surface": "היי",
+      "gloss": "كوني"
+    },
+    {
+      "surface": "לאלפי",
+      "gloss": "لألوف"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "رببة"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "وليرِثْ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "نسلك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "باب"
+    },
+    {
+      "surface": "שער",
+      "gloss": "باب"
+    },
+    {
+      "surface": "שנאיו",
+      "gloss": "مبغضيه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:42:35.173772480Z",
+  "model": "glm-5.2"
+}

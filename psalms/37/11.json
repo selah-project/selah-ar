@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "والمتواضعون يرثون أرضًا، ويتلذّذون في وفرة شالوم (سلام).",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "والمتواضعون"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "يرثون"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرضًا"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "ويتلذّذون"
+    },
+    {
+      "surface": "על",
+      "gloss": "في"
+    },
+    {
+      "surface": "רב",
+      "gloss": "وفرة"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم (سلام)"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:29.795896511Z",
+  "model": "glm-5.2"
+}

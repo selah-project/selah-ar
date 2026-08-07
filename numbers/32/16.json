@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 32:16",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "فدنوا إليه وقالوا: حظائرَ للضأن نبني هنا لمواشينا، ومدنًا لصبياننا.",
+  "tokens": [
+    {
+      "surface": "ויגשו",
+      "gloss": "فدنوا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "قالوا"
+    },
+    {
+      "surface": "גדרת",
+      "gloss": "حظائر"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "للضأن"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "نبني"
+    },
+    {
+      "surface": "למקננו",
+      "gloss": "لمواشينا"
+    },
+    {
+      "surface": "פה",
+      "gloss": "هنا"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "ومدنًا"
+    },
+    {
+      "surface": "לטפנו",
+      "gloss": "لصبياننا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:07.933306525Z",
+  "model": "glm-5.2"
+}

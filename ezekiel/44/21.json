@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "وخمرًا لا يشرب كلُّ كوهينٍ عند دخولهم إلى الدار الداخلية.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "وخمرًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "يشربون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "كوهين"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "عند دخولهم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "الدار"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "الداخلية"
+    }
+  ],
+  "timestamp": "2026-08-07T03:17:01.102486251Z",
+  "model": "glm-5.2"
+}

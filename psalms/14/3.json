@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "الكل قد مال معًا، نجِسوا؛ لا صانع خير، لا ولا واحد.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "الكل"
+    },
+    {
+      "surface": "סר",
+      "gloss": "قد مال"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "معًا"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "نجِسوا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صانع"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خير"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:43:13.127506036Z",
+  "model": "glm-5.2"
+}

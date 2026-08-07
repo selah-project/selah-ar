@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 32:31",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "ودعا يعقوف اسم المكان پَنوئيل، لأنني رأيتُ إلوهيم وجهًا إلى وجه ونجتُ نَفسي.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "المكان"
+    },
+    {
+      "surface": "פניאל",
+      "gloss": "پَنوئيل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنني"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "رأيتُ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "وجهًا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "ותנצל",
+      "gloss": "ونجتُ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفسي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:02.983535232Z",
+  "model": "glm-5.2"
+}

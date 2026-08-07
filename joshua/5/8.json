@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 5:8",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "و⟨كان⟩ لمّا أكمل كلّ الشعب ليُختنوا، جلسوا في أماكنهم في المحلّة حتى إحيائهم.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لمّا"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "أكمل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "ليُختنوا"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "جلسوا"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "في أماكنهم"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "في المحلّة"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "חיותם",
+      "gloss": "إحيائهم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:43:27.030280485Z",
+  "model": "glm-5.2"
+}

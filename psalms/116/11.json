@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 116,
+  "translation": "أنا قُلتُ في انزعاجي: كلُّ الإنسانِ كاذبٌ.",
+  "tokens": [
+    {
+      "surface": "אֲ֭נִי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אָמַ֣רְתִּי",
+      "gloss": "قلتُ"
+    },
+    {
+      "surface": "בְחָפְזִ֑י",
+      "gloss": "في انزعاجي"
+    },
+    {
+      "surface": "כָּֽל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "הָאָדָ֥ם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "כֹּזֵֽב",
+      "gloss": "كاذبٌ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:07.071221156Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 147,
+  "translation": "هلّلوا ياه، لأنّه طيبٌ أن نُزَمِّر لإلوهيمنا، لأنّه نَعْمٌ وجميلٌ تسبيحٌ",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "هلّلوا"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيبٌ"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "أن نُزَمِّر"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "لإلوهيمنا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "نَعْمٌ"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "جميلٌ"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "تسبيحٌ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:19:12.289863133Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "فأخذ حانون ⟨את⟩ عبيد داوود وحلقهم، وقطع ⟨את⟩ ثيابهم إلى النصف حتى المغير، وصرفهم.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "فأخذ"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "حانون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عبيد داوود"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عبيد"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "وحلقهم"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "وقطع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ثيابهم"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "ثيابهم"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "إلى النصف"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "المغير"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "وصرفهم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:17:14.268755347Z",
+  "model": "glm-5.2"
+}

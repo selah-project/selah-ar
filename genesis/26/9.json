@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 26:9",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "فدعا أَڤيميلك ليتسحاق وقال: «ألا إنّها امرأتك! فكيف قلت: هي أُختي؟» فقال له يتسحاق: «لأنّي قلت: لعلّي أموت على يدها».",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "فدعا"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "أَڤيميلك"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ليتسحاق"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ألا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "إنّ"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "امرأتك"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "فكيف"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "قلت"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "أُختي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يتسحاق"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "قلت"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لعلّ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "أموت"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "على يدها"
+    }
+  ],
+  "timestamp": "2026-08-06T23:43:24.303220813Z",
+  "model": "glm-5.2"
+}

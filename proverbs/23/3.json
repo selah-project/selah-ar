@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "لا تشتهِ لقُضُماتِه، فهوَ خبزُ أكاذيب.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "تشتهِ"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "لقُضُماتِه"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "فهوَ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزُ"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "أكاذيب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:30.073828490Z",
+  "model": "glm-5.2"
+}

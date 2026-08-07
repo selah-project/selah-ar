@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "ابنٌ حكيمٌ يُفرِحُ أبًا، وجاهلُ الإنسانِ يحتقرُ أمَّه.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ابنٌ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حكيمٌ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "يُفرِحُ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "أبًا"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "وجاهلُ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسانِ"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "يحتقرُ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "أمَّه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:08.576913310Z",
+  "model": "glm-5.2"
+}

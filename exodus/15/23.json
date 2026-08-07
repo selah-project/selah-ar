@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 15:23",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وجاؤوا مراثه، ولم يقدروا أن يشربوا ماء من مراة، لأنها مُرّة، لذلك دعا اسمها مراة",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "وجاؤوا"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "مراثه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "يقدروا"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "أن يشربوا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماء"
+    },
+    {
+      "surface": "ממרה",
+      "gloss": "من مراة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنها"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "مُرّة"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هي"
+    },
+    {
+      "surface": "על",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨لذلك⟩"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "دعا"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "اسمها"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "مراة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:03:13.608383321Z",
+  "model": "glm-5.2"
+}

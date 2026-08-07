@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "يهوه، برضاك أقمْتَ لِجبلي عِزًّا؛ أخفيتَ وجهَك، فكنتُ مَذعورًا.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "برضاك"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "أقمْتَ"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "لِجبلي"
+    },
+    {
+      "surface": "עז",
+      "gloss": "عِزًّا"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "أخفيتَ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهَك"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "فكنتُ"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "مَذعورًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:45.679667070Z",
+  "model": "glm-5.2"
+}

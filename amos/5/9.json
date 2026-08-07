@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 5:9",
+  "book": "amos",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "⟨الذي⟩ يُبْرِقُ الشَّدَّ على القوّة، فالشَّدُّ على الحصن يأتي",
+  "tokens": [
+    {
+      "surface": "המבליג",
+      "gloss": "يُبْرِقُ"
+    },
+    {
+      "surface": "שד",
+      "gloss": "الشَّدَّ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "עז",
+      "gloss": "القوّة"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "فالشَّدُّ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "الحصن"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "يأتي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:27:12.915068816Z",
+  "model": "glm-5.2"
+}

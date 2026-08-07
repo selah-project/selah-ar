@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "كتفان مُتَّصلان ⟨يكونان⟩ له عند طرفيه، فيُوصَل.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "كتفان"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "كتفان"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "مُتَّصلان"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨يكونان⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אל",
+      "gloss": "عند"
+    },
+    {
+      "surface": "שני",
+      "gloss": "طرفيه"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "طرفيه"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "فيُوصَل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:39.041395345Z",
+  "model": "glm-5.2"
+}

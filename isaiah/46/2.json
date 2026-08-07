@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 46:2",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 46,
+  "translation": "انحنوا، جثوا معًا، لم يقدروا أن يُنجّوا الحِمل، ونَفْسَهم ذهبت في السبي.",
+  "tokens": [
+    {
+      "surface": "קרסו",
+      "gloss": "انحنوا"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "جثوا"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "معًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "قدروا"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "أن يُنجّوا"
+    },
+    {
+      "surface": "משא",
+      "gloss": "الحِمل"
+    },
+    {
+      "surface": "ונפשם",
+      "gloss": "ونَفْسَهم"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "في السبي"
+    },
+    {
+      "surface": "הלכה",
+      "gloss": "ذهبت"
+    }
+  ],
+  "timestamp": "2026-08-07T02:19:58.241825666Z",
+  "model": "glm-5.2"
+}

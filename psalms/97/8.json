@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 97,
+  "translation": "سمعت وفرحت صهيون، وابتهجت بنات يهودا، من أجل أحكامك يهوه",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "سمعت"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "وفرحت"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "وابتهجت"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "بنات"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "למען",
+      "gloss": "من أجل"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "أحكامك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:02.978022880Z",
+  "model": "glm-5.2"
+}

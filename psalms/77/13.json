@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 77,
+  "translation": "و⟨أتأمّل⟩ في كلّ عملك، وفي أفعالك أُحدّث نفسي.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "و⟨أتأمّل⟩"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلّ"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "عملك"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "وفي أفعالك"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "أُحدّث نفسي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:52.791109748Z",
+  "model": "glm-5.2"
+}

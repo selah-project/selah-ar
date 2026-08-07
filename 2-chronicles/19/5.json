@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 19:5",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "و⟨أَقام⟩ شُوفَّارٍ في الأرض في جميع مدن يهودا المُحصَّنة، مدينةً فمدينةً.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "و⟨أَقام⟩"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "شُوفَّارٍ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في جميع"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "المُحصَّنة"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "مدينةً"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "فمدينةً"
+    }
+  ],
+  "timestamp": "2026-08-07T05:27:38.987110737Z",
+  "model": "glm-5.2"
+}

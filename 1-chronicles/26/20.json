@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 26:20",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "واللاويّون: أخيا على خزائن بيت إلوهيم، ولخزائن القدس.",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "واللاويّون"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "أخيا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "خزائن"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "ولخزائن"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "القدس"
+    }
+  ],
+  "timestamp": "2026-08-07T05:18:57.076064911Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 8:5",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وفتح عزرا السِّفر أمام عيون كلّ الشّعب، لأنّه ⟨كان⟩ فوق كلّ الشّعب، وعند فتحه وقف كلّ الشّعب.",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "وفتح"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "عزرا"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "السِّفر"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "أمام عيون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشّعب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "فوق"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشّعب"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨كان⟩"
+    },
+    {
+      "surface": "וכפתחו",
+      "gloss": "وعند فتحه"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "وقف"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشّعب"
+    }
+  ],
+  "timestamp": "2026-08-07T05:06:40.904596430Z",
+  "model": "glm-5.2"
+}

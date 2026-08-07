@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 4:2",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فقال لها أليشع: ماذا أصنعُ لكِ؟ أخبريني، ماذا لكِ في البيت؟ فقالت: ليس لجاريتك شيءٌ في البيت إلا قارورةَ دهن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "أليشع"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "أصنع"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكِ"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "أخبريني"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "יש",
+      "gloss": "يوجد"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "لكِ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في البيت"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "לשפחתך",
+      "gloss": "لجاريتك"
+    },
+    {
+      "surface": "כל",
+      "gloss": "شيء"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في البيت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إلا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إلا"
+    },
+    {
+      "surface": "אסוך",
+      "gloss": "قارورة"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "دهن"
+    }
+  ],
+  "timestamp": "2026-08-07T01:54:02.428421922Z",
+  "model": "glm-5.2"
+}

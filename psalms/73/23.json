@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 73,
+  "translation": "وأنا دائمًا معك، أَمْسَكْتَ بِيَد يَميني",
+  "tokens": [
+    {
+      "surface": "וַאֲנִ֣י",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "תָמִ֣יד",
+      "gloss": "دائمًا"
+    },
+    {
+      "surface": "עִמָּ֑ךְ",
+      "gloss": "معك"
+    },
+    {
+      "surface": "אָ֝חַ֗זְתָּ",
+      "gloss": "أَمْسَكْتَ"
+    },
+    {
+      "surface": "בְּיַד",
+      "gloss": "بِيَد"
+    },
+    {
+      "surface": "יְמִינִֽי",
+      "gloss": "يَميني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:15.274316786Z",
+  "model": "glm-5.2"
+}

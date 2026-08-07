@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "قُل لزرّوبابيل پاخات يهودا قائلاً: أنا أُزلزل ⟨את⟩ السماوات و⟨את⟩ الأرض.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "قُل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "زرّوبابيل"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "پاخات"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "أُزلزل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "السماوات"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T06:01:54.109690919Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "هأنذا صغيرًا جعلتُكَ بين الأمم، محتقرًا أنتَ جدًّا —",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "هأنذا"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "صغيرًا"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "جعلتُكَ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "بين الأمم"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "محتقرًا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:27:33.183457828Z",
+  "model": "glm-5.2"
+}

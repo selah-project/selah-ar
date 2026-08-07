@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "في ذلك الوقت أرسل الملك آحاز إلى ملوكِ أَشّور ⟨ليُعينوه⟩.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "في وقت"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "أرسل"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "آحاز"
+    },
+    {
+      "surface": "על",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ملوكِ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "أَشّور"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "ليُعينوا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T05:30:29.693749124Z",
+  "model": "glm-5.2"
+}

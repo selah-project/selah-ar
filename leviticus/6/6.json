@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "نارٌ دائمةٌ تُوقَدُ على المذبح لا تَنْطَفِئ.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "نار"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "دائمة"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "تُوقَد"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "تَنْطَفِئ"
+    }
+  ],
+  "timestamp": "2026-08-07T05:38:01.613726091Z",
+  "model": "glm-5.2"
+}

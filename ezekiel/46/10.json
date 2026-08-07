@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 46:10",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 46,
+  "translation": "والنسيء في وسطهم، عند دخولهم يدخل وعند خروجهم يخرجون.",
+  "tokens": [
+    {
+      "surface": "והנשיא",
+      "gloss": "والنسيء"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "في وسطهم"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "عند دخولهم"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "يدخل"
+    },
+    {
+      "surface": "ובצאתם",
+      "gloss": "وعند خروجهم"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "يخرجون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:16:52.755381829Z",
+  "model": "glm-5.2"
+}

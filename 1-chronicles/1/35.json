@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "بَنُو عِيسو: أَلِيفاز وَرَعُوئِيل وَيَعُوش وَيَعْلام وَقُورَح.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بَنُو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عِيسو"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "أَلِيفاز"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رَعُوئِيل"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "وَيَعُوش"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "وَيَعْلام"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "وَقُورَح"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:00.033509630Z",
+  "model": "glm-5.2"
+}

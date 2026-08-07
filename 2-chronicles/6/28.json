@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 6:28",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "جوعٌ إذا كان في الأرض، ووبأٌ إذا كان، لفحٌ ويُرقٌ، جرادٌ وقملٌ إذا كان، إذا ضيّق عليه أعداؤه في أرض أسواره، كلّ ضربة وكلّ مرض",
+  "tokens": [
+    {
+      "surface": "רעב",
+      "gloss": "جوعٌ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ووبأٌ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "שדפון",
+      "gloss": "لفحٌ"
+    },
+    {
+      "surface": "וירקון",
+      "gloss": "ويُرقٌ"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "جرادٌ"
+    },
+    {
+      "surface": "וחסיל",
+      "gloss": "وقملٌ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ضيّق"
+    },
+    {
+      "surface": "לו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "أعداؤه"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "أسواره"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ضربة"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "مرض"
+    }
+  ],
+  "timestamp": "2026-08-07T05:21:59.772515167Z",
+  "model": "glm-5.2"
+}

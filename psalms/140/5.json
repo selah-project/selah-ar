@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 140,
+  "translation": "احفظني يهوه من يدي رشع، من رجل حماصيم تحفظني، الذين فكّروا ⟨في⟩ دفع خطواتي.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "احفظني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "من يدي"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "رشع"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "من رجل"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "حماصيم"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "تحفظني"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "فكّروا"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "في دفع"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "خطواتي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:21.179397323Z",
+  "model": "glm-5.2"
+}

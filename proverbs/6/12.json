@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "إنسانُ بَلِيّاعال، رجلُ آوَن، ⟨هو⟩ يسلكُ بعِوَجِ الفم",
+  "tokens": [
+    {
+      "surface": "אָדָ֣ם",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "בְּ֭לִיַּעַל",
+      "gloss": "بَلِيّاعال"
+    },
+    {
+      "surface": "אִ֣ישׁ",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "אָ֑וֶן",
+      "gloss": "آوَن"
+    },
+    {
+      "surface": "ה֝וֹלֵ֗ךְ",
+      "gloss": "يسلك"
+    },
+    {
+      "surface": "עִקְּשׁ֥וּת",
+      "gloss": "بعِوَج"
+    },
+    {
+      "surface": "פֶּֽה",
+      "gloss": "الفم"
+    }
+  ],
+  "timestamp": "2026-08-07T08:13:25.889697116Z",
+  "model": "glm-5.2"
+}

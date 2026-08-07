@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 6:7",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "و⟨كان⟩ لما صرخ بنو يسرائيل إلى يهوه بسبب مديان،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لما"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "صرخ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بسبب"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "⟨شأن⟩"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مديان"
+    }
+  ],
+  "timestamp": "2026-08-07T01:14:03.325592791Z",
+  "model": "glm-5.2"
+}

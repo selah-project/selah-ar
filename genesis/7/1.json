@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 7:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وقال يهوه لنوح: «أدخل أنت وكلّ بيتك إلى التابوت، لأنّه إيّاك رأيتُ صِدِقًا أمامي في هذا الجيل».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "لنوح"
+    },
+    {
+      "surface": "בא",
+      "gloss": "أدخل"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "بيتك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "التابوت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "إيّاك",
+      "marks": "رأيتُ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "رأيتُ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صِدِقًا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمامي"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "في الجيل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:42.080405389Z",
+  "model": "glm-5.2"
+}

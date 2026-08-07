@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "حينئذٍ تكلّم شْلومو: «يهوه قال ⟨إنّه⟩ يسكن في العَرَفَل».",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "حينئذٍ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شْلومو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "يسكن"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "في العَرَفَل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:45:42.569971871Z",
+  "model": "glm-5.2"
+}

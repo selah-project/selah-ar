@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 26:2",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "ماذا أعنتَ ذا ⟨ال⟩لا قوّة؟ خلّصتَ ذراعًا لا عِزّ ⟨لها⟩؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "أعنتَ"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "ذا اللا"
+    },
+    {
+      "surface": "כח",
+      "gloss": "قوّة"
+    },
+    {
+      "surface": "הושעת",
+      "gloss": "خلّصتَ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ذراعًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "עז",
+      "gloss": "عِزّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:39:32.463984236Z",
+  "model": "glm-5.2"
+}

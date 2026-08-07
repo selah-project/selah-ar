@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 28:6",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "أَفضَلُ المُعوِزُ السائرُ في كَمالِهِ مِنْ مُلتَوٍ في طُرُقٍ وهو غنيٌّ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "أفضلُ"
+    },
+    {
+      "surface": "רש",
+      "gloss": "المعوزُ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "السائرُ"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "في كماله"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "من ملتوٍ"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "في طرق"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "غنيٌّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:53.209740133Z",
+  "model": "glm-5.2"
+}

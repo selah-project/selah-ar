@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 11:39",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وإذا ماتت من البهيمة التي هي لكم طعامًا، فالماسّ ⟨في⟩ جيفتها يتنجّس إلى المساء",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ماتت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "البهيمة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "طعامًا"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "فالماسّ"
+    },
+    {
+      "surface": "בנבלתה",
+      "gloss": "⟨في⟩ جيفتها"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "يتنجّس"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "المساء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:32.631505699Z",
+  "model": "glm-5.2"
+}

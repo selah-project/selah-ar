@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "حجرُ حِنٍّ هو الرشوةُ في عيني صاحبها؛ إلى كلِّ ما يلتفتُ إليه يُفلِح.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "حجر"
+    },
+    {
+      "surface": "חן",
+      "gloss": "حِنّ"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "الرشوة"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عيني"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "صاحبها"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "يلتفت إليه"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "يُفلِح"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:29.962419080Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "والثوب إذا كان فيه نَگاع صرَع، في ثوب صوف أو في ثوب كَتّان —",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "والثوب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "نَگاع"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "صرَع"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "في ثوب"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "صوف"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "في ثوب"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "كَتّان"
+    }
+  ],
+  "timestamp": "2026-08-07T00:19:29.759585863Z",
+  "model": "glm-5.2"
+}

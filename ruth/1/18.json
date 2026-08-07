@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فرأت أنّها متشدّدة هي ⟨في⟩ الذهاب معها، فكفّت عن الكلام إليها.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "فرأت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "متشدّدة"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "الذهاب"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "معها"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "فكفّت"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "عن الكلام"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "إليها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:47:59.649607068Z",
+  "model": "glm-5.2"
+}

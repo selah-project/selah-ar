@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وثَر، إذا كان فيه، في جلده، شَحين، فرُئِيَ.",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "وثَر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "في جلده"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "شَحين"
+    },
+    {
+      "surface": "ונרפא",
+      "gloss": "فرُئِيَ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:19:24.910395011Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "إلاّ لحميمه القريب إليه: لأمّه ولأبيه ولابنه ولبنته ولأخيه،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "إلاّ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨إلاّ⟩"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "لحميمه"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "القريب"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "لأمّه"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "ولأبيه"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "ولابنه"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "ولبنته"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "ولأخيه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:44.908590952Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "ورأيتم ⟨את⟩ مكرهاتهم و⟨את⟩ أصنامهم، خشبًا وحجرًا، فضّة وذهب، التي معهم،",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "ورأيتم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مكرهاتهم"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "مكرهاتهم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أصنامهم"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "أصنامهم"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "خشبًا"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "وحجرًا"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضّة"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "وذهب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "معهم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:33.342877155Z",
+  "model": "glm-5.2"
+}

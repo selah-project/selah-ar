@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وقتٌ للقَتل، ووقتٌ للشِّفاء؛ وقتٌ للهَدم، ووقتٌ للبناء.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "للقتل"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ووقت"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "للشفاء"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "للهدم"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ووقت"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "للبناء"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:20.702242613Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "فيجعلوا في إلوهيم ثقتهم، ولا ينسوا أفعال إيل، ووصاياه يحرسونها،",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "فيجعلوا"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "في إلوهيم"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "ثقتهم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "ينسوا"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "أفعال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "ووصاياه"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "يحرسونها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:27.856802775Z",
+  "model": "glm-5.2"
+}

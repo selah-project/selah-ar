@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وإن كان قُربانه من الضأن من الكِسبايم أو من المعز لِعولاه، ذكرًا تَميمًا يُقرِّبُه.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "الضأن"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "قُربانه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "الكِسبايم"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "المعز"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "لِعولاه"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ذكرًا"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "تَميمًا"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "يُقرِّبُه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:58.431203599Z",
+  "model": "glm-5.2"
+}

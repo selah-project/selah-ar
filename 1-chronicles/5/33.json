@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "مرايوت ولَد ⟨את⟩ أمراياه، وأمراياه ولَد ⟨את⟩ أخيتوف.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "مرايوت"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أمراياه"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "أمراياه"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "وأمراياه"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أخيتوف"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "أخيتوف"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:14.064916242Z",
+  "model": "glm-5.2"
+}

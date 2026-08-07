@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "قُلْ للحكمة: «أختي أنتِ»، و⟨أمّا⟩ الفَطنة فادعُها ولِيّةً",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "قُلْ"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "للحكمة"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "أختي"
+    },
+    {
+      "surface": "את",
+      "gloss": "أنتِ"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "و⟨أمّا⟩ الفَطنة"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "للفطنة"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "فادعُها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:23:30.450688058Z",
+  "model": "glm-5.2"
+}

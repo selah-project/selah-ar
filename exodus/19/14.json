@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "فنزل موشيه من الجبل إلى الشعب، وقدَّس ⟨את⟩ الشعب، فغسلوا ثيابهم.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "فنزل"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "الجبل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "وقدَّس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "فغسلوا"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "ثيابهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:35.411670590Z",
+  "model": "glm-5.2"
+}

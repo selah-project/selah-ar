@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "وكلّم يهوه منشّيه ⟨و⟩شعبه فلم يُصغوا",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(إلى)"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشّيه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "⟨و⟩(إلى)"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "يُصغوا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:31:59.673890974Z",
+  "model": "glm-5.2"
+}

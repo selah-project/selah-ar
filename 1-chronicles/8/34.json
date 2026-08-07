@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وَابنُ يِهوناتان ⟨هو⟩ مَريب بَعَل، وَمَريب بَعَل وَلَدَ ⟨את⟩ مِيخا.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "وَابن"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يِهوناتان"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "مَريب"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بَعَل"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "وَمَريب"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بَعَل"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وَلَدَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مِيخا"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "مِيخا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:13:39.852381437Z",
+  "model": "glm-5.2"
+}

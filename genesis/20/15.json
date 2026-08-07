@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 20:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "وقال أبيمالك: «ها أرضي أمامك. بما يَحسُن في عينيْك اسكن.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "أبيمالك"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "أرضي"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "أمامك"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "بما يَحسُن"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "في عينيْك"
+    },
+    {
+      "surface": "שב",
+      "gloss": "اسكن"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:24.332294463Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 25:3",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "لذلك يُكرِّمُكَ شعبٌ عزيزٌ، مدينةَ أممٍ عنيفةين يرهَبُكَ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "יכבדוך",
+      "gloss": "يُكرِّمُكَ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعبٌ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "عزيزٌ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "مدينةَ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "أممٍ"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "عُتاةٍ"
+    },
+    {
+      "surface": "ייראוך",
+      "gloss": "يرهَبُكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:11:27.189663842Z",
+  "model": "glm-5.2"
+}

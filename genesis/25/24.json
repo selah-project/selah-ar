@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 25:24",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وكمُلَتْ أيّامُها لتلِد، وإذا بتوأمينِ في بطنِها.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "وكمُلَت"
+    },
+    {
+      "surface": "ימיה",
+      "gloss": "أيامها"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "لتلد"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "תומם",
+      "gloss": "بتوأمين"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "في بطنها"
+    }
+  ],
+  "timestamp": "2026-08-06T23:42:43.151805520Z",
+  "model": "glm-5.2"
+}

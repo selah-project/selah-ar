@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 88,
+  "translation": "لتأتي صلاتي לפניך، أَمِل أذنك לרנתي",
+  "tokens": [
+    {
+      "surface": "תָּב֣וֹא",
+      "gloss": "لتأتي"
+    },
+    {
+      "surface": "לְ֭פָנֶיךָ",
+      "gloss": "לפניך"
+    },
+    {
+      "surface": "תְּפִלָּתִ֑י",
+      "gloss": "صلاتي"
+    },
+    {
+      "surface": "הַטֵּֽה",
+      "gloss": "أَمِل"
+    },
+    {
+      "surface": "אָ֝זְנְךָ֗",
+      "gloss": "أذنك"
+    },
+    {
+      "surface": "לְרִנָּתִֽי",
+      "gloss": "لרנתي"
+    }
+  ],
+  "timestamp": "2026-08-07T08:07:09.680440531Z",
+  "model": "glm-5.2"
+}

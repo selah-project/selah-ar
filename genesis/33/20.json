@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "و⟨نصب⟩ هناك مذبحًا، و⟨دعا⟩ له إيلَ إلوهيمِ يسرائِل.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "و⟨نصب⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبحًا"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و⟨دعا⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيلَ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيمِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائِل"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:48.036194324Z",
+  "model": "glm-5.2"
+}

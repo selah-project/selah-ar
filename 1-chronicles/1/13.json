@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وَكَنَعَان وَلَد ⟨את⟩ صَيْدُون بِكُورَهُ وَ⟨את⟩ حِتّ",
+  "tokens": [
+    {
+      "surface": "וּכְנַ֗עַן",
+      "gloss": "وَكَنَعَان"
+    },
+    {
+      "surface": "יָלַ֛ד",
+      "gloss": "وَلَد"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "صَيْدُون"
+    },
+    {
+      "surface": "צִיד֥וֹן",
+      "gloss": "صَيْدُون"
+    },
+    {
+      "surface": "בְּכֹר֖וֹ",
+      "gloss": "بِكُورَهُ"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "وَ⟨את⟩",
+      "marks": "حِتّ"
+    },
+    {
+      "surface": "חֵֽת",
+      "gloss": "حِتّ"
+    }
+  ],
+  "timestamp": "2026-08-07T05:09:41.417827456Z",
+  "model": "glm-5.2"
+}

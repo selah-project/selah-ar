@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "لأنَّ سِهامَك نَزَلَت فيَّ، وعليَّ نَزَلَت يدُك.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "سِهامَك"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "نَزَلَت"
+    },
+    {
+      "surface": "בי",
+      "gloss": "فيَّ"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "ونَزَلَت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عليَّ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدُك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:25.247327864Z",
+  "model": "glm-5.2"
+}

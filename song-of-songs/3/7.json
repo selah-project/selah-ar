@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 3:7",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "هوذا مَحمِلُه الذي لِشلوموه، ستّون جبّارًا حوله، من جبابرة يِسرائيل.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "مَحمِلُه"
+    },
+    {
+      "surface": "שלשלמה",
+      "gloss": "الذي لِشلوموه"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ستّون"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "جبّارًا"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "حول"
+    },
+    {
+      "surface": "לה",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "מגברי",
+      "gloss": "من جبابرة"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:45:53.934852256Z",
+  "model": "glm-5.2"
+}

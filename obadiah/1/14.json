@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "obadiah 1:14",
+  "book": "obadiah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ولا تقف ⟨على⟩ المَعبَر لِتستأصل ⟨את⟩ ناجيه، ولا تُسلم بقيّته في يوم ضيق.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "تقف"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨على⟩"
+    },
+    {
+      "surface": "הפרק",
+      "gloss": "المَعبَر"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "لِتستأصل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناجيه"
+    },
+    {
+      "surface": "פליטיו",
+      "gloss": "ناجيه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תסגר",
+      "gloss": "تُسلم"
+    },
+    {
+      "surface": "שרידיו",
+      "gloss": "بقيّته"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ضيق"
+    }
+  ],
+  "timestamp": "2026-08-07T03:27:38.861270721Z",
+  "model": "glm-5.2"
+}

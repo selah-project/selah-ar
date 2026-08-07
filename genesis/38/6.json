@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 38:6",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "وأخذ ييهودا امرأةً لعير بكره، واسمها تامار.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ييهودا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأةً"
+    },
+    {
+      "surface": "לער",
+      "gloss": "لعير"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "بكره"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "واسمها"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "تامار"
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:31.293783421Z",
+  "model": "glm-5.2"
+}

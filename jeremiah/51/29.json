@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 51:29",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 51,
+  "translation": "وارتعدتِ الأرضُ وتأوَّهت، لأنَّ مقاصدَ يهوه قد قامت على بافل، ليجعل ⟨את⟩ أرضَ بافل خرابًا بلا ساكن.",
+  "tokens": [
+    {
+      "surface": "ותרעש",
+      "gloss": "وارتعدت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "وتأوَّهت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "قامت"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافل"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "مقاصد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "ليجعل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أرض"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافل"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "خرابًا"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "بلا"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ساكن"
+    }
+  ],
+  "timestamp": "2026-08-07T02:53:15.825300367Z",
+  "model": "glm-5.2"
+}

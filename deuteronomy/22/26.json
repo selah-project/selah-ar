@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 22:26",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وأمّا الفتاة فلا تفعل ⟨بها⟩ شيئًا — ليس للفتاة خطيّة موت، لأنّه كما يقوم رجل على صاحبه ويقتله نَفْسًا، كذلك ⟨هو⟩ هذا الأمر.",
+  "tokens": [
+    {
+      "surface": "ולנער",
+      "gloss": "وأمّا الفتاة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تفعل"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شيئًا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "للفتاة"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "خطيّة"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "يقوم"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "صاحبه"
+    },
+    {
+      "surface": "ורצחו",
+      "gloss": "ويقتله"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْسًا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "كذلك"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "هذا الأمر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:43:00.200474084Z",
+  "model": "glm-5.2"
+}

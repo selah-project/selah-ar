@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 51,
+  "translation": "هو إمِتَ في الطّوايا شئتَ، وفي المُستتر حِكمةً تُعلِمني.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "هو"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "إمِتَ"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "شئتَ"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "في الطّوايا"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "وفي المُستتر"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حِكمةً"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "تُعلِمني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:53:32.197616970Z",
+  "model": "glm-5.2"
+}

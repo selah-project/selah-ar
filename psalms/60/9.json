@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 60,
+  "translation": "لِي جلعاد ولِي منشه، وأفرايم ⟨هو⟩ مَعَقّل رأسي، ويهوذا مشترعُني.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "لِي"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "جلعاد"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ولِي"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشه"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "وأفرايم"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "مَعَقّل"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "رأسي"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ويهوذا"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "مشترعُني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:55:58.333467034Z",
+  "model": "glm-5.2"
+}

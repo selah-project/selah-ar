@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 23:13",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "وفي نافي شومرون رأيتُ تفاهةً: تنبّأوا بالبَعل وأضلّوا ⟨את⟩ شعبي ⟨את⟩ يسرايل.",
+  "tokens": [
+    {
+      "surface": "ובנביאי",
+      "gloss": "وفي نافي"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شومرون"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "رأيتُ"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "تفاهة"
+    },
+    {
+      "surface": "הנבאו",
+      "gloss": "تنبّأوا"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "بال بَعل"
+    },
+    {
+      "surface": "ויתעו",
+      "gloss": "وأضلّوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شعبي"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "شعبي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرايل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T02:40:09.406975579Z",
+  "model": "glm-5.2"
+}

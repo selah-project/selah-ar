@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "واعمل بحكمتك، ولا تُنزل شيبته في شالوم شيول.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "واعمل"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "بحكمتك"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "تُنزل"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "شيبته"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "في شالوم"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "شيول"
+    }
+  ],
+  "timestamp": "2026-08-07T01:42:53.180492242Z",
+  "model": "glm-5.2"
+}

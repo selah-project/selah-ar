@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 8:9",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "ومن إحداهن خرجت قرنٌ واحدة صغيرة، فعظُمت عظيمًا نحو الجنوب ونحو المشرق ونحو أرض الصبهي",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "إحدى"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "منهن"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "خرجت"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "قرن"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "واحدة"
+    },
+    {
+      "surface": "מצעירה",
+      "gloss": "صغيرة"
+    },
+    {
+      "surface": "ותגדל",
+      "gloss": "فعظُمت"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "عظيمًا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نحو"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "الجنوب"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ونحو"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "المشرق"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ونحو"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "أرض الصبهي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:58:22.168961145Z",
+  "model": "glm-5.2"
+}

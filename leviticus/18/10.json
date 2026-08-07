@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "عورة بنت ابنك أو بنت بنتك لا تكشف عورتهنّ، لأنّهنّ عورتك.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "عورة"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ابنك"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "بنتك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "تكشف"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "عورتهنّ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "عورتك"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هنّ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:18.333548316Z",
+  "model": "glm-5.2"
+}

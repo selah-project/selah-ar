@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 7:10",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وزاد يهوه كلّامًا إلى آحاز قائلًا:",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "وزاد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلّامًا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "آحاز"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:04:45.021335856Z",
+  "model": "glm-5.2"
+}

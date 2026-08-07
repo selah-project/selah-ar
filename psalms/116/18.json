@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 116,
+  "translation": "نذوري ليهوه أُوفِّيها، أمامَ كُلِّ شعبه.",
+  "tokens": [
+    {
+      "surface": "נְדָרַי",
+      "gloss": "نذوري"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "אֲשַׁלֵּם",
+      "gloss": "أُوفِّيها"
+    },
+    {
+      "surface": "נֶגְדָּה",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "נָּא",
+      "gloss": ""
+    },
+    {
+      "surface": "לְכָל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "עַמּוֹ",
+      "gloss": "شعبه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:05.537286683Z",
+  "model": "glm-5.2"
+}

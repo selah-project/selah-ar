@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "«لأنّي أنا يهوه لم أتغيّر، وأنتم بَنو يعقوف لم تنتهوا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "أتغيّر"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "وأنتم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "تنتهوا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:39:50.176542538Z",
+  "model": "glm-5.2"
+}

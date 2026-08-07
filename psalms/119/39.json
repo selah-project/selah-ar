@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "أَعْبِرْ عاري الذي خِفتُه، لأن أحكامَك طيّبة",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "أَعْبِرْ"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "عاري"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "خِفتُه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "أحكامَك"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "طيّبة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:25.505100081Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 15:17",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وخرج الملك وكل الشعب ⟨على⟩ أقدامه، ووقفوا في بيت المِرخاق.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "برجليه"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ووقفوا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "המרחק",
+      "gloss": "المِرخاق"
+    }
+  ],
+  "timestamp": "2026-08-07T01:36:35.877454989Z",
+  "model": "glm-5.2"
+}

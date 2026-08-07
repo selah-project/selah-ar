@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "و⟨את⟩ مذبح العولاه و⟨את⟩ كلّ آنيته و⟨את⟩ الحوض و⟨את⟩ قاعدته،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مذبح"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "العولاه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "آنيته"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "الحوض"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "الحوض"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "قاعدته"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "قاعدته"
+    }
+  ],
+  "timestamp": "2026-08-07T00:09:30.147848190Z",
+  "model": "glm-5.2"
+}

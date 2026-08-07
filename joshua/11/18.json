@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "أيّامًا كثيرة صنع يَهُوشُعَع ⟨את⟩ كل هؤلاء الملوك حربًا.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "أيّامًا"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرة"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنع"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يَهُوشُعَع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل هؤلاء الملوك"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "الملوك"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "حربًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:06:40.224005896Z",
+  "model": "glm-5.2"
+}

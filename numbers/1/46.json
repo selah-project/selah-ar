@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ف⟨كان⟩ كلُّ المعدودين ستّمائة ألفٍ وثلاثة آلافٍ وخمسمائة وخمسةً وخمسين",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ف⟨كانوا⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "المعدودين"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ستّ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مائة"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "وثلاثة"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "آلاف"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "وخمس"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مائة"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "وخمسين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:29.988242693Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "habakkuk 2:8",
+  "book": "habakkuk",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "لأنّك أنت سَلَلْتَ أممًا كثيرة، يَسْلُلُكَ كلُّ بقيّة الشعوب، من دماء الإنسان وظلم أرض ومدينة وكلِّ ساكنيها.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّك"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "שלות",
+      "gloss": "سَلَلْتَ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "أممًا"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرة"
+    },
+    {
+      "surface": "ישלוך",
+      "gloss": "يَسْلُلُكَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "بقيّة"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "الشعوب"
+    },
+    {
+      "surface": "מדמי",
+      "gloss": "من"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "دماء"
+    },
+    {
+      "surface": "וחמס",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "وظلم"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ومدينة"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "وكلِّ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ساكنيها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:32:37.589619606Z",
+  "model": "glm-5.2"
+}

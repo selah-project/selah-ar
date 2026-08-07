@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "طاهرُ اليدين، وبريءُ القلب، الذي لم يَرفع لِلباطل نَفسَه، ولم يَحلِف لِلمكر.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "بريءُ"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "اليدين"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "وطاهرُ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "القلب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "يَرفع"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "لِلباطل"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفسَه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "يَحلِف"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "لِلمكر"
+    }
+  ],
+  "timestamp": "2026-08-07T03:45:51.903394412Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فقال له أفراهام: «احترز! لئلا تُعيد ⟨את⟩ ابني إلى هناك»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "احترز"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨لنفسك⟩"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلا"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "تُعيد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابني"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ابني"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "إلى هناك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:58.754694521Z",
+  "model": "glm-5.2"
+}

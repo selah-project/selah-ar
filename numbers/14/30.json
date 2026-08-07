@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 14:30",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "إن أنتم تدخلون الأرض التي رفعتُ ⟨את⟩ يدي لأسكنكم فيها — لكن كالِب ابن يَفونّيه ويهوشُع ابن نون.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "تدخلون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "رفعتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يدي"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "يدي"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "لأسكن"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "إيّاكم"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لكن"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إنْ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "كالِب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "يَفونّيه"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "ويهوشُع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:35:32.019326021Z",
+  "model": "glm-5.2"
+}

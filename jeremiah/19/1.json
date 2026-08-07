@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 19:1",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "كذا قال يهوه: اذهب ⟨و⟩اشترِ قُمْقُم خزّاف خزف، ومن شيوخ الشعب ومن شيوخ الكوهنين.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "كذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "اذهب"
+    },
+    {
+      "surface": "וקנית",
+      "gloss": "⟨و⟩اشترِ"
+    },
+    {
+      "surface": "בקבק",
+      "gloss": "قُمْقُم"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "خزّاف"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "خزف"
+    },
+    {
+      "surface": "ומזקני",
+      "gloss": "ومن شيوخ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ומזקני",
+      "gloss": "ومن شيوخ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكوهنين"
+    }
+  ],
+  "timestamp": "2026-08-07T05:54:08.943524706Z",
+  "model": "glm-5.2"
+}

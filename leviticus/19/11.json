@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "لا تسرقوا، ولا ⟨تنكروا⟩، ولا تكذبوا، الإنسانُ ⟨على⟩ قريبه.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "تسرقوا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "تنكروا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "تكذبوا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "⟨على⟩ قريبه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:38:31.205229967Z",
+  "model": "glm-5.2"
+}

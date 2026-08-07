@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 10:8",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وبنو هارون الكهنة يضربون بالأبواق، فتكون لكم فريضة دهر لأجيالكم",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "وبنو"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "هارون"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكهنة"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "يضربون"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "بالأبواق"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "فتكون"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "فريضة"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "دهر"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "لأجيالكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:31:58.426707933Z",
+  "model": "glm-5.2"
+}

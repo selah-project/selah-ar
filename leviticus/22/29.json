@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 22:29",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وإذ تَذبحون ذبيحةَ تودَةٍ لِيهوه، لِرضاكم تَذبحونها.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "وإذ"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "تَذبحون"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ذبيحةَ"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "تودَةٍ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "لِيهوه"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "لِرضاكم"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "تَذبحونها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:00.745107141Z",
+  "model": "glm-5.2"
+}

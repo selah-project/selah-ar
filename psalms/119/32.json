@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "طريقَ مِصوothek أركُض، لأنّك ⟨تُرْحِبُ⟩ قلبي.",
+  "tokens": [
+    {
+      "surface": "דֶּֽרֶךְ",
+      "gloss": "طريقَ"
+    },
+    {
+      "surface": "מִצְוֺתֶ֥יךָ",
+      "gloss": "مَصَايِفَك"
+    },
+    {
+      "surface": "אָר֑וּץ",
+      "gloss": "أَرْكُضُ"
+    },
+    {
+      "surface": "כִּ֖י",
+      "gloss": "لأنّك"
+    },
+    {
+      "surface": "תַרְחִ֣יב",
+      "gloss": "تُرْحِبُ"
+    },
+    {
+      "surface": "לִבִּֽי",
+      "gloss": "قَلْبِي"
+    }
+  ],
+  "timestamp": "2026-08-07T08:10:03.122698715Z",
+  "model": "glm-5.2"
+}

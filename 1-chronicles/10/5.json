@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فرأى حامل عُدَّته أن شاؤول قد مات، فسقط هو أيضًا على السيف ومات.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "فرأى"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "حامل"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "عُدَّته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أن"
+    },
+    {
+      "surface": "מת",
+      "gloss": "قد مات"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "فسقط"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "السيف"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ومات"
+    }
+  ],
+  "timestamp": "2026-08-07T05:14:24.470450811Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "لكادَ أَفنَوني في الأرض، واما أنا فلا تركتُ وصاياكَ.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "لكادَ"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "أَفنَوني"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "واما أنا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "تركتُ"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "وصاياكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:22.267438998Z",
+  "model": "glm-5.2"
+}

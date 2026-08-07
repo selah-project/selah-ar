@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وأيضًا على العبيد وعلى الإماء في تلك الأيّام أَسكُب ⟨את⟩ روَحي.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "العبيد"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "الإماء"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "في الأيّام"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "تلك"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "أَسكُب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "روَحي"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "روَحي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:24:20.796414343Z",
+  "model": "glm-5.2"
+}

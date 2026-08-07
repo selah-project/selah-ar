@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "السَّيرُ ⟨مع⟩ ⟨את⟩ الحكماءِ فيُحكَمُ، وراعي الجُهّالِ يُساء",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "السير"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الحكماء"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "الحكماء"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "فيُحكَم"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "وراعي"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "الجُهّال"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "يُساء"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:40.416046404Z",
+  "model": "glm-5.2"
+}

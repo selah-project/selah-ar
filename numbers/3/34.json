@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 3:34",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "ومعدودوهم بعدد كل ذكر من ابن شهرٍ فصاعدًا: ستة آلاف ومئتان.",
+  "tokens": [
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ومعدودوهم"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "بعدد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ذكر"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "من ابن"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "شهر"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "فصاعدًا"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ستة"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "آلاف"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ومئتان"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:41.554819188Z",
+  "model": "glm-5.2"
+}

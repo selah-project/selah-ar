@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 45:7",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "مُصوِّرُ النور وخالقُ الظلمة، صانعُ شالوم وخالقُ الرّاع. أنا يهوه صانعُ كلِّ هذه.",
+  "tokens": [
+    {
+      "surface": "יוצר",
+      "gloss": "مُصوِّرُ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "النور"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "وخالقُ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "الظلمة"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صانعُ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "وخالقُ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "الرّاع"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صانعُ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:20:37.437559640Z",
+  "model": "glm-5.2"
+}

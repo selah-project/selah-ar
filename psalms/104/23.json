@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 104,
+  "translation": "يخرج الإنسانُ إلى عمله، وإلى خدمته حتى المساء",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "يخرج"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "إلى عمله"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "وإلى خدمته"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "المساء"
+    }
+  ],
+  "timestamp": "2026-08-07T04:06:21.202407118Z",
+  "model": "glm-5.2"
+}

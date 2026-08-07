@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 28:3",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "وأنتم تتكلّم ⟨مع⟩ كلّ حكماء القلب الذين ملأتهم روَح حكمة، فيصنعوا ⟨את⟩ ثياب هارون لتقديسه، لكهانته لي.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "وأنت"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "تتكلّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨مع⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "חכמי",
+      "gloss": "حكماء"
+    },
+    {
+      "surface": "לב",
+      "gloss": "القلب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "מלאתיו",
+      "gloss": "ملأتهم"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روَح"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حكمة"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "فيصنعوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ثياب"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ثياب"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "هارون"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "لتقديسه"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "لكهانته"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    }
+  ],
+  "timestamp": "2026-08-07T05:37:49.262381196Z",
+  "model": "glm-5.2"
+}

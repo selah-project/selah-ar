@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 45:3",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "قلتَ: آهٍ الآن لي، لأن يهوه قد زاد حُزنًا على ألمي! لقد تعبتُ من تنهّدي، وراحةً لم أجد».",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "قلتَ"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "آهٍ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "زاد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "حُزنًا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "מכאבי",
+      "gloss": "ألمي"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "تعبتُ"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "من تنهّدي"
+    },
+    {
+      "surface": "ומנוחה",
+      "gloss": "وراحةً"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "أجد"
+    }
+  ],
+  "timestamp": "2026-08-07T02:48:10.028282891Z",
+  "model": "glm-5.2"
+}

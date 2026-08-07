@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وقال ملك يسرائيل لعبيده: هل تعلمون أن لنا راموت جلعاد، ونحن ساكتون عن أخذ ⟨את⟩ها من يد ملك أرام؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "عيده"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "هل تعلمون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أن"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "راموت"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "جلعاد"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ونحن"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "ساكتون"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "عن أخذ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "إياها"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يد"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "أرام"
+    }
+  ],
+  "timestamp": "2026-08-07T01:52:37.242463731Z",
+  "model": "glm-5.2"
+}

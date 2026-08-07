@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 13:20",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "و⟨كان› وهما جالسان عند المائدة، فكان كلمة يهوه إلى النافي الذي أرجعه.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان›"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هما"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "جالسان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "عند"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "المائدة"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "فكان"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "النافي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "أرجعه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:48:11.490559919Z",
+  "model": "glm-5.2"
+}

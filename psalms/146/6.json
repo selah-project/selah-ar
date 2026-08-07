@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 146,
+  "translation": "صانعُ السماواتِ والأرضَ، ⟨את⟩ البحرَ و⟨את⟩ كلَّ ما فيها، الحافظُ إمِت إلى الأبد",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "صانعُ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "السماواتِ"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "والأرضَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "البحر"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحرَ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ ما فيها"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "בם",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "الحافظُ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "إمِت"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:19:35.764857376Z",
+  "model": "glm-5.2"
+}

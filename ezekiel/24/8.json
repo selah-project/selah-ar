@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 24:8",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "لإصعاد الحممِ للانتقامِ انتقامًا، وضعتُ ⟨את⟩ دمها على صخرةٍ صلعاء لئلا يُغطّى.»",
+  "tokens": [
+    {
+      "surface": "להעלות",
+      "gloss": "لإصعاد"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "الحمم"
+    },
+    {
+      "surface": "לנקם",
+      "gloss": "للانتقام"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "انتقامًا"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "وضعتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دمها"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "دمها"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "צחיח",
+      "gloss": "صلعاء"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "صخرة"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "لئلا"
+    },
+    {
+      "surface": "הכסות",
+      "gloss": "يُغطّى"
+    }
+  ],
+  "timestamp": "2026-08-07T03:05:32.001745307Z",
+  "model": "glm-5.2"
+}

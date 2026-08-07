@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 26:56",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "على فمِ القرعةِ تُقسَمُ نَحَلاتُهُ، بينَ الكثيرِ ⟨والقليلِ⟩",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فم"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "القرعة"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "تُقسَم"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "نَحَلاتُه"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "רב",
+      "gloss": "كثير"
+    },
+    {
+      "surface": "למעט",
+      "gloss": "قليل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:41:58.512500746Z",
+  "model": "glm-5.2"
+}

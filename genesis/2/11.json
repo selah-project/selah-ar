@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "اسمُ الواحدِ فيشون؛ هو المُحيطُ بـ⟨את⟩ كلِّ أرضِ حَويلاه التي هناك الذَّهَبُ.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "اسمُ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "الواحدِ"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "فيشون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "المُحيطُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلِّ أرضِ حَويلاه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرضِ"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "حَويلاه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "الذَّهَبُ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:44.147354857Z",
+  "model": "glm-5.2"
+}

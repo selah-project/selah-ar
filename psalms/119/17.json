@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "أحْسِنْ إلى عبدك فأحيا وأحفظ كلمتك.",
+  "tokens": [
+    {
+      "surface": "גְּמֹ֖ל",
+      "gloss": "أحْسِنْ"
+    },
+    {
+      "surface": "עַֽל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עַבְדְּךָ֥",
+      "gloss": "عبدك"
+    },
+    {
+      "surface": "אֶֽחְיֶ֗ה",
+      "gloss": "فأحيا"
+    },
+    {
+      "surface": "וְאֶשְׁמְרָ֥ה",
+      "gloss": "وأحفظ"
+    },
+    {
+      "surface": "דְבָרֶֽךָ",
+      "gloss": "كلمتك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:35.941868900Z",
+  "model": "glm-5.2"
+}

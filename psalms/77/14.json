@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 77,
+  "translation": "إلوهيم، في قدس طريقك. من إيل عظيم كإلوهيم؟",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "في قدس"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "طريقك"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيم"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "كإلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:52.791294861Z",
+  "model": "glm-5.2"
+}

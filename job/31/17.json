@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 31:17",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "و⟨لو⟩ أكلتُ لقمتي وحدي، ولم يأكل منها يتيم،",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "و⟨لو⟩ أكلتُ"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "لقمتي"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "وحدي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "يأكل"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "يتيم"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "منها"
+    }
+  ],
+  "timestamp": "2026-08-07T06:09:44.255162733Z",
+  "model": "glm-5.2"
+}

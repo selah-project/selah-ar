@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 143,
+  "translation": "ولا تدخل فيقضاءٍ مع ⟨את⟩ عبدك، لأنه لا يتبرّر أمامك كلّ حيّ.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "تدخل"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "في قضاءٍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عبدك"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "يتبرّر"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "أمامك"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "حيّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:20.962520492Z",
+  "model": "glm-5.2"
+}

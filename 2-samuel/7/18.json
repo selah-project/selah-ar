@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 7:18",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وجاء الملك داوِد وجلس أمام يهوه، وقال: «من أنا يا أدوناي يهوه، ومن بيتي، أنك ⟨قد⟩ جئت بي إلى هنا؟»",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "وجلس"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "بيتي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "הביאתני",
+      "gloss": "جئت بي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "هنا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:10.038305524Z",
+  "model": "glm-5.2"
+}

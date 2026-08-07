@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وصنع مذبحًا نُحاسيًّا، عشرين ذراعًا طوله وعشرين ذراعًا عرضه وعشر ذراعات ارتفاعه.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وصنع"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبحًا"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "نُحاسيًّا"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "عشرين"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ذراعًا"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "طوله"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "وعشرين"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ذراعًا"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "عرضه"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "وعشر"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ذراعات"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ارتفاعه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:21:46.586899328Z",
+  "model": "glm-5.2"
+}

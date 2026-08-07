@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "وصنعوا ⟨את⟩ صفيحة تاج القدْس من ذهب طاهر، وكتبوا عليها كتابةً كنقش خاتم: «قدْس ليهوه».",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "وصنعوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صفيحة"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "صفيحة"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "القدْس"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "من ذهب"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "طاهر"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "وكتبوا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليها"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "كتابةً"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "كنقش"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "خاتم"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدْس"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:05.790286203Z",
+  "model": "glm-5.2"
+}

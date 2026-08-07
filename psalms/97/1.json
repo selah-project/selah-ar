@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 97,
+  "translation": "يهوه مَلَك، فلْتَبْتَهِج الأرض، وليَفْرَح جزائرُ كثيرة.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلَك"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "فلْتَبْتَهِج"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "وليَفْرَح"
+    },
+    {
+      "surface": "איים",
+      "gloss": "جزائر"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:58.284413118Z",
+  "model": "glm-5.2"
+}

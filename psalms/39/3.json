@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "صمتُّ صمتًا، أسكتُّ ⟨حتّى⟩ عن الخير، فأوجاعي تُثار",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "صمتُّ"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "صمتًا"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "أسكتُّ"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "عن الخير"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "فأوجاعي"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "تُثار"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:30.441230550Z",
+  "model": "glm-5.2"
+}

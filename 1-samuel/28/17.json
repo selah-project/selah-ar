@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 28:17",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "وفعل يهوه له كما تكلّم بيدي، ومزّق يهوه ⟨את⟩ المملكة من يدك وأعطاها لقريبك لداود.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وفعل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "بيدي"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ومزّق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المملكة"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "المملكة"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "من يدك"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "وأعطاها"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "لقريبك"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لداود"
+    }
+  ],
+  "timestamp": "2026-08-07T01:30:38.022234159Z",
+  "model": "glm-5.2"
+}

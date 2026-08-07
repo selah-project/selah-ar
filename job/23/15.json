@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 23:15",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "لذلك من حضرته أرتاع، أتأمّلُ وأرتجفُ منه.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "من حضرته"
+    },
+    {
+      "surface": "אבהל",
+      "gloss": "أرتاع"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "أتأمل"
+    },
+    {
+      "surface": "ואפחד",
+      "gloss": "وأرتجف"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:39:05.481834805Z",
+  "model": "glm-5.2"
+}

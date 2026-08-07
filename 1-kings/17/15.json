@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "فذهبت وصنعت ككلام ألياهو، فأكل هو وهي وبيتها أياماً.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "فذهبت"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "وصنعت"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ككلام"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ألياهو"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "فأكل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "وهي"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "وبيتها"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أياماً"
+    }
+  ],
+  "timestamp": "2026-08-07T01:49:41.099427530Z",
+  "model": "glm-5.2"
+}

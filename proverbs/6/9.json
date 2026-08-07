@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "حتى متى يا كسلان ترقد؟ متى تقوم من نومك؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "متى"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "يا كسلان"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ترقد"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "متى"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "تقوم"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "من نومك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:26.557646721Z",
+  "model": "glm-5.2"
+}

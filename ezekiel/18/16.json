@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 18:16",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "ورجلاً لم يظلم، ورهنًا لم يأخذ، وغُنيمةً لم يغنم؛ خبزَه للجائع أعطى، والعاري غطّاه بِثَوْبٍ —",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ورجلاً"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "הונה",
+      "gloss": "يظلم"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ورهنًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "يأخذ"
+    },
+    {
+      "surface": "וגזלה",
+      "gloss": "وغُنيمةً"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "גזל",
+      "gloss": "يغنم"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "خبزَه"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "للجائع"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطى"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "والعاري"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "غطّاه"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "بِثَوْبٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:01:16.976818617Z",
+  "model": "glm-5.2"
+}

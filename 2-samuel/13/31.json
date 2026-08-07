@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 13:31",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فقام الملك وشقّ ⟨את⟩ ثيابه واضطجع أرضًا، وكلّ عبيده واقفون مشقّقو الثياب.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "فقام"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "وشقّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ثيابه"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ثيابه"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "واضطجع"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "أرضًا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "عبيده"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "واقفون"
+    },
+    {
+      "surface": "קרעי",
+      "gloss": "مشقّقو"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "الثياب"
+    }
+  ],
+  "timestamp": "2026-08-07T05:48:10.589671811Z",
+  "model": "glm-5.2"
+}

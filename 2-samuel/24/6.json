@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 24:6",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "وجاؤوا إلى الجلعاد، وإلى أرض تختيم حَدشي، وجاؤوا إلى دان-يعن وحولها إلى صيدون",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "وجاؤوا"
+    },
+    {
+      "surface": "הגלעדה",
+      "gloss": "إلى الجلعاد"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "תחתים",
+      "gloss": "تختيم"
+    },
+    {
+      "surface": "חדשי",
+      "gloss": "حَدشي"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "وجاؤوا"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "إلى دان"
+    },
+    {
+      "surface": "יען",
+      "gloss": "يعن"
+    },
+    {
+      "surface": "וסביב",
+      "gloss": "وحولها"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "صيدون"
+    }
+  ],
+  "timestamp": "2026-08-07T06:36:46.633915472Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 15:11",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "هل قلّت عنك تعزياتُ إيل، وكلمةٌ ⟨تسير⟩ لُطفًا معك؟",
+  "tokens": [
+    {
+      "surface": "המעט",
+      "gloss": "هل قلّت"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "عنك"
+    },
+    {
+      "surface": "תנחמות",
+      "gloss": "تعزياتُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "وكلمةٌ"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "لُطفًا"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:36:44.807340789Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 3:5",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "كلُّ هذه المدائن ⟨كانت⟩ محصَّناتٍ بسورٍ مرتفعٍ ومصراعَين وبارٍ، عدا مدن الفَرازيّ — كثيرًا جدًا.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "المدائن"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "محصَّنات"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "بسور"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "مرتفع"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "مصراعَين"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "وبار"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "عدا"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "الفَرازيّ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "كثيرًا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:48:14.257984207Z",
+  "model": "glm-5.2"
+}

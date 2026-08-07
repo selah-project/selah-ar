@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "فوصّى موشيه ⟨את⟩هم قائلًا: «في نهاية سبع سنين، في موعد سنة المشَتّة، في حجّ السُّكوت،»",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "فوصّى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩هم",
+      "marks": "هم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "في نهاية"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبع"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنين"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "في موعد"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "المشَتّة"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "في حجّ"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "السُّكوت"
+    }
+  ],
+  "timestamp": "2026-08-07T01:01:15.670150418Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 11:22",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "«الضأن والبقر يُذبح لهم فيُكفِيهم؟ أو ⟨أيُكفِيهِم⟩ لو جُمِع ⟨את⟩ كلّ سمك البحر لهم فيُكفِيهم؟»",
+  "tokens": [
+    {
+      "surface": "הצאן",
+      "gloss": "الضأن"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "والبقر"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "يُذبح"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "فيُكفي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ سمك البحر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "דגי",
+      "gloss": "سمك"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "جُمِع"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "فيُكفي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "هم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:34:58.724900670Z",
+  "model": "glm-5.2"
+}

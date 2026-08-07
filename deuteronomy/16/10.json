@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 16:10",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "و تصنع عيد أسابيع ل يهوه إلوهيمك، بسخاء نِدبة يدك التي تعطي، كما يباركك يهوه إلوهيمك.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "و تصنع"
+    },
+    {
+      "surface": "חג",
+      "gloss": "عيد"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "أسابيع"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ل يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "מסת",
+      "gloss": "بسخاء"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "نِدبة"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "تعطي"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "يباركك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:56:08.885046137Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 13:33",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "والآن لا يضع سيّدي الملك على قلبه أمرًا قائلًا: «كلُّ أبناء الملك قد ماتوا»، لأنّّ أمّا أمنون وحده فقد مات.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "يضع"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سيّدي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "على"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "قلبه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "أمرًا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "أبناء"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "قد ماتوا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أمّا"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "أمنون"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "وحده"
+    },
+    {
+      "surface": "מת",
+      "gloss": "فقد مات"
+    }
+  ],
+  "timestamp": "2026-08-07T01:35:29.216760883Z",
+  "model": "glm-5.2"
+}

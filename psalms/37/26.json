@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 37:26",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "كلَّ اليوم يحنو ويُقرِض، ونسله ⟨لـ⟩ بركة.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "يحنو"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "ويُقرِض"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ونسله"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "⟨لـ⟩ بركة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:58.132536476Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "فالتفت فرعون ودخل ⟨إلى⟩ بيته، ولم يضع قلبه حتى لهذا أيضًا.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "فالتفت"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ودخل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "بيته"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "שת",
+      "gloss": "يضع"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "قلبه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "لهذا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:01:05.328290719Z",
+  "model": "glm-5.2"
+}

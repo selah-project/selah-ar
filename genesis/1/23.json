@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فكان مساءٌ وكان صباحٌ يومٌ خامس.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "فكان"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "مساء"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صباح"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "خامس"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:18.561299809Z",
+  "model": "glm-5.2"
+}

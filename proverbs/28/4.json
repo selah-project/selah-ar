@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "تراكُ التوراةِ يُسبِّحُ الشرَّ، وحراسُ التوراةِ يُثيرون ⟨الخصومة⟩ عليهم.",
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "تراك"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "التوراة"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "يُسبِّح"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "وحراس"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "التوراة"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "يُثيرون"
+    },
+    {
+      "surface": "בם",
+      "gloss": "عليهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:01.076380019Z",
+  "model": "glm-5.2"
+}

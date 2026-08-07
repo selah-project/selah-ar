@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "وحدّث العبدُ يِتصحاقَ ⟨بـ⟩ ⟨את⟩ جميع الأمور التي فعلها.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "وحدّث"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "العبد"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "يِتصحاق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جميع الأمور"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميع"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "الأمور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعلها"
+    }
+  ],
+  "timestamp": "2026-08-06T23:42:49.373305032Z",
+  "model": "glm-5.2"
+}

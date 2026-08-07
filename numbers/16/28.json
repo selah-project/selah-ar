@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 16:28",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "فقال موشيه: «بهذا تعلمون أنّ يهوه أرسلني لِفعل ⟨את⟩ كلِّ هذه الأعمال، أنّه ليس من قلبي».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "بهذا"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "تعلمون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "أرسلني"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "لِفعل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "هذه الأعمال"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليس\/لا"
+    },
+    {
+      "surface": "מלבי",
+      "gloss": "من قلبي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:37:01.706917073Z",
+  "model": "glm-5.2"
+}

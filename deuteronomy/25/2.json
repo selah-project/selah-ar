@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 25:2",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وكان إذا استحقّ الشرِّيرُ الجَلدَ أن أوقعه القاضي وضرَبه أمامَه على قدر شرِّه بعددٍ ⟨مُحدَّد⟩.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "مستحقّ"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "الجلد"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "الشرِّير"
+    },
+    {
+      "surface": "והפילו",
+      "gloss": "أن أوقعه"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "القاضي"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "وضربه"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمامه"
+    },
+    {
+      "surface": "כדי",
+      "gloss": "على قدر"
+    },
+    {
+      "surface": "רשעתו",
+      "gloss": "شرِّه"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "بعدد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:29.411182457Z",
+  "model": "glm-5.2"
+}

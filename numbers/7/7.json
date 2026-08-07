@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "⟨את⟩ عجلتين و⟨את⟩ أربع بقرات أعطى لبني جيرشون، على قدر خدمتهم.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عجلتين"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "عجلتين"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "العجلات"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أربع"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "أربع"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "بقرات"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطى"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لبني"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "جيرشون"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "على قدر"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "خدمتهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:29:33.306246716Z",
+  "model": "glm-5.2"
+}

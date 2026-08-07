@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 24:24",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "ف⟨قالت⟩ له: «ابنةُ بتوئيل أنا، الذي ولدَتْهُ مَلكَةُ لناحور.»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ف⟨قالت⟩"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ابنةُ"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "بتوئيل"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "مَلكَةُ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ولدَتْهُ"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "لناحور"
+    }
+  ],
+  "timestamp": "2026-08-06T23:42:48.759213039Z",
+  "model": "glm-5.2"
+}

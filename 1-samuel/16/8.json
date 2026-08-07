@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 16:8",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "فدعا يشاي أبيناداب وأمرّه أمامَ شموئيل. فقال: «حتى هذا لم يخترْه يهوه».",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "فدعا"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "يشاي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "أبيناداب"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "وأمرّه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمامَ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "في هذا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "اختار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:46:11.204982210Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "يوم الشبّات، يوم الشبّات يرتّبونه أمام يهوه دائمًا، من لدن بني يسرايل، بريتًا أبديّة.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "الشبّات"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "الشبّات"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "يرتّبونه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "دائمًا"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "من لدن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريت"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "أبديّة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:57.213480611Z",
+  "model": "glm-5.2"
+}

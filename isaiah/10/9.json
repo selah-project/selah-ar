@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "هَلْ ليستْ كَكَرخَميش كَلنو؟ أَليسَتْ كأَرفَد حَمات؟ أَليسَتْ كدَمَشَق شُومرون؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "هل"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "ككرخميش"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "كلنو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أليست"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليست"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "كأرفد"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حمات"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أليست"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليست"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "كدمشق"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شومرون"
+    }
+  ],
+  "timestamp": "2026-08-07T02:06:29.773430747Z",
+  "model": "glm-5.2"
+}

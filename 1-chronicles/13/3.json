@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "ونُرِجع ⟨את⟩ أرون إلوهيم إلينا، لأننا لم ندروه في أيّام شاؤول.»",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "ونُرِجع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أرون"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "إلينا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأننا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "طلبناه"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "في أيّام"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:52.300793220Z",
+  "model": "glm-5.2"
+}

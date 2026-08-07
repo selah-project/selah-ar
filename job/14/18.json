@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 14:18",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "لكنّ الجبل الساقط يذبل، والصخر يُزاح من مكانه.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "لكنّ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "الجبل"
+    },
+    {
+      "surface": "נופל",
+      "gloss": "الساقط"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "يذبل"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "والصخر"
+    },
+    {
+      "surface": "יעתק",
+      "gloss": "يُزاح"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "من مكانه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:36:51.265726841Z",
+  "model": "glm-5.2"
+}

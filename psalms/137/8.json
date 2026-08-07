@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 137,
+  "translation": "يا بنتَ بافلَ المخربة، طوبى لمن يُجازيكِ ⟨⟨את⟩ جزاءكِ الذي جزيتِنا⟩،",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "يا بنتَ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافِل"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "المخربة"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "طوبى لـ"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "من يُجازي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "إيّاكِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جزاءكِ"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "جزاءكِ"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "الذي جزيتِ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "نا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:00.374122700Z",
+  "model": "glm-5.2"
+}

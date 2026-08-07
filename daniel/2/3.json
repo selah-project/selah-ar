@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فقال لهم الملك: «حلمًا حلمتُ، وضطربت روحي لِمعرفة ⟨את⟩ الحلم»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "المَلِك"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "حلمًا"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "حلمتُ"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "وضطربت"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "روحي"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "لِمعرفة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الحلم"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "الحلم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:56:06.658348953Z",
+  "model": "glm-5.2"
+}

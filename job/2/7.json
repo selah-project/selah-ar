@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فخرج الشيطان من أمام وجه يهوه، وضرب ⟨את⟩ أيوب بِشَحَن ردِيء من كفّ رِجله إلى هامته.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "فخرج"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "الشيطان"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "من أمام"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "وضرب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أيوب"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "أيوب"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "بِشَحَن"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ردِيء"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "من كفّ"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "رِجله"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "هامته"
+    }
+  ],
+  "timestamp": "2026-08-07T04:31:56.554671980Z",
+  "model": "glm-5.2"
+}

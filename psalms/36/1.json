@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "للمُنْشِد، لِعبدِ يهوه، لِداوَدَ",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "للمُنْشِد"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "لِعبدِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِداوَد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:51.861179910Z",
+  "model": "glm-5.2"
+}

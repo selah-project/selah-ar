@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "ووضعتُ هناك ⟨את⟩ التابوت الذي ⟨فيه⟩ بريت يهوه الذي قطعه مع بني إسرائيل.»",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "ووضعتُ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "التابوت"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "التابوت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨فيه⟩"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "قطعه"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:21:13.804158635Z",
+  "model": "glm-5.2"
+}

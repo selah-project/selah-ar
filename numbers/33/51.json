@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 33:51",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "كلِّم بَني يِسرائيل و⟨قلتَ⟩ لهم: «⟨حينَه⟩ أنتم عابرون ⟨את⟩ ها-يَردِن إلى أرض كَنعان»،",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "كلِّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "و⟨قلتَ⟩"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨حينَه⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "عابرون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ها-يَردِن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ها-يَردِن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كَنعان"
+    }
+  ],
+  "timestamp": "2026-08-07T07:14:07.791244129Z",
+  "model": "glm-5.2"
+}

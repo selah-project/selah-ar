@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 6:32",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "من يَزني بامرأةٍ ناقصُ قلبٍ هو؛ مُهلِكٌ نَفسه من يفعلها",
+  "tokens": [
+    {
+      "surface": "נֹאֵ֣ף",
+      "gloss": "من يزني"
+    },
+    {
+      "surface": "אִשָּׁ֣ה",
+      "gloss": "بامرأة"
+    },
+    {
+      "surface": "חֲסַר",
+      "gloss": "ناقص"
+    },
+    {
+      "surface": "לֵ֑ב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "מַֽשְׁחִ֥ית",
+      "gloss": "مُهلك"
+    },
+    {
+      "surface": "נַ֝פְשׁ֗וֹ",
+      "gloss": "نفسه"
+    },
+    {
+      "surface": "ה֣וּא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "יַעֲשֶֽׂנָּה",
+      "gloss": "من يفعلها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:52.579727851Z",
+  "model": "glm-5.2"
+}

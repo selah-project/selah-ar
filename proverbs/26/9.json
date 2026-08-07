@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "كشوكةٍ صعدت في يدِ سكران، هكذا مَثَلٌ في فم الجُهّال.",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "شوكة"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "صعدت"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "في يد"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "سكران"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "هكذا مَثَل"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "في فم"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "الجُهّال"
+    }
+  ],
+  "timestamp": "2026-08-07T08:16:14.980686188Z",
+  "model": "glm-5.2"
+}

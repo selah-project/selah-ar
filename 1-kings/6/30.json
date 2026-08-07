@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "و⟨את⟩ أرضية البيت طلى ذهبًا، في الداخل وفي الخارج.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أرضية"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "أرضية"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "طلى"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهبًا"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "في الداخل"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "وفي الخارج"
+    }
+  ],
+  "timestamp": "2026-08-07T05:48:26.271231910Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "فخاصَ الشعبُ موشيه، وقالوا: أعطونا ماءً ونشرب. فقال لهم موشيه: لماذا تخاصمونني؟ ولماذا تجرّبون ⟨את⟩ يهوه؟",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "فخاصَ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعبُ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقالوا"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "أعطوا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماءً"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "ونشرب"
+    },
+    {
+      "surface": "ויאمר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "מה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "تخاصمون"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "معي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ولماذا"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "تجرّبون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:05:50.234324832Z",
+  "model": "glm-5.2"
+}

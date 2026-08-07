@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "بَنُو يهودا: پَرَص، حَصرون، وَكَرمي، وَحور، وَشوبال.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بَنُو"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پَرَص"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حَصرون"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "وَكَرمي"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "وَحور"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "وَشوبال"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:57.339121648Z",
+  "model": "glm-5.2"
+}

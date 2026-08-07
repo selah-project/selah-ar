@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "فأنتم تعرفون ⟨את⟩ الذي سكنا في أرض مصرايم، و⟨את⟩ الذي عبرنا في وسط الأمم الذين عبتم أنتم،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "فأنتم"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "تعرفون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الذي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "سكنا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الذي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "عبرنا"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "عبتم أنتم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:33.342762330Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 68,
+  "translation": "بنشر شدّاي ملوكًا فيها، تسلَّج في صلمون.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "بنشر"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّاي"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ملوكًا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "تسلَّج"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "في صلمون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:58:07.085880188Z",
+  "model": "glm-5.2"
+}

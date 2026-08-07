@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وفعلَ نُواحٍ كُلَّ ما أمرَهُ به يهوه",
+  "tokens": [
+    {
+      "surface": "וַיַּ֖עַשׂ",
+      "gloss": "وفعلَ"
+    },
+    {
+      "surface": "נֹ֑חַ",
+      "gloss": "نُواحٍ"
+    },
+    {
+      "surface": "כְּכֹ֥ל",
+      "gloss": "كُلَّ"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "צִוָּ֖הוּ",
+      "gloss": "أمرَهُ"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:33:54.726275905Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "فقالوا له: «لا، سيّدي، وإنّما عبيدك جاؤوا ليشروا طعامًا».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقالوا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سيّدي"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "وعبيدك"
+    },
+    {
+      "surface": "באו",
+      "gloss": "جاؤوا"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ليشروا"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "طعامًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:39.439121061Z",
+  "model": "glm-5.2"
+}

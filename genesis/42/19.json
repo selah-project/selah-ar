@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 42:19",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "إن صادقين أنتم، أخوكم واحد يُربط في بيت حرسكم، وأنتم اذهبوا هلمّوا بِحَبِّ الجوع إلى بيوتكم.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "صادقين"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "أخوكم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "יאסר",
+      "gloss": "يُربط"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في بيت"
+    },
+    {
+      "surface": "משמרכם",
+      "gloss": "حرسكم"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "وأنتم"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "اذهبوا"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "هلمّوا بـ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "حَبّ"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "الجوع"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "بيوتكم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:39.296540702Z",
+  "model": "glm-5.2"
+}

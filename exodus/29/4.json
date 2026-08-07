@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "و⟨את⟩ أهارون و⟨את⟩ بنيه تُقرّب إلى فم خيمة الموعد، وتغسل ⟨את⟩هم بالماء.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "أهارون"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بنيه"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "وبنيه"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "تُقرّب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "فم"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "وتغسل"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩هم",
+      "marks": "بالماء"
+    },
+    {
+      "surface": "במים",
+      "gloss": "بالماء"
+    }
+  ],
+  "timestamp": "2026-08-07T07:03:12.482252174Z",
+  "model": "glm-5.2"
+}

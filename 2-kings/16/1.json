@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 16:1",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "في سنةِ سبعَ عشرةَ سنةً لفِقاح بن رَمَلياهو، ملَك آحاز بن يوثام ملك يهودا.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "في سنةِ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبع"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرةَ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنةً"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "لفِقاح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "رَمَلياهو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملَك"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "آحاز"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "يوثام"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:59:01.928489722Z",
+  "model": "glm-5.2"
+}

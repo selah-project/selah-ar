@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "أرضٌ يَسأل عنها يهوه إلوهيمك دائمًا؛ عينا يهوه إلوهيمك عليها من رأس السنة إلى آخرها.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "أرضٌ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "يَسأل عنها"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "عنها"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "دائمًا"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "عينا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "בה",
+      "gloss": "عليها"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "من رأس"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "السنة"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "آخر"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:27.542523557Z",
+  "model": "glm-5.2"
+}

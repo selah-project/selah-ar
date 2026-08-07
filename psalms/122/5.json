@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 122,
+  "translation": "لأنّه هناك جلس ⟨إلى⟩ كراسيّ ⟨لـ⟩ حكم، كراسيّ ⟨لـ⟩ بيت دافيد.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "جلس"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "كراسيّ"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "⟨لـ⟩ حكم"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "كراسيّ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "⟨لـ⟩ بيت"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "دافيد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:15:22.964569382Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 4:24",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "رأيتُ الجبال، و⟨ها هي⟩ تتزلزل، وكلّ الآكام ⟨قد⟩ تقلقلت.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "رأيتُ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "الجبال"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و⟨ها هي⟩"
+    },
+    {
+      "surface": "רעשים",
+      "gloss": "تتزلزل"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "الآكام"
+    },
+    {
+      "surface": "התקלקלו",
+      "gloss": "⟨قد⟩ تقلقلت"
+    }
+  ],
+  "timestamp": "2026-08-07T02:29:49.628445380Z",
+  "model": "glm-5.2"
+}

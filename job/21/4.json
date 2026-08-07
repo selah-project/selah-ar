@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 21:4",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "هل أنا لأدمٍ شكواي؟ وإن كان كذلك، فلماذا لا تتضايق روَحي؟",
+  "tokens": [
+    {
+      "surface": "האנכי",
+      "gloss": "هل أنا"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "لأدمٍ"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "شكواي"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "فلماذا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "تتضايق"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "روَحي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:38:31.938717108Z",
+  "model": "glm-5.2"
+}

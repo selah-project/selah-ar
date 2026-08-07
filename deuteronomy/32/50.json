@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 32:50",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "وَمُت في الجبل الذي أنت تصعد إليه، واجمع إلى شعبك، كما مات أهارون أخوك في هور الجبل وجُمع إلى شعبه.",
+  "tokens": [
+    {
+      "surface": "ומת",
+      "gloss": "ومُت"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "في الجبل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "تصعد"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "והאסף",
+      "gloss": "واجمع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "شعبك"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مات"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "أخوك"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "في"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "الجبل"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "وجُمع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "شعبه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:01:44.285561559Z",
+  "model": "glm-5.2"
+}

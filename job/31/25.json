@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 31:25",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "إن فرحتُ لأن ثروتي كثرت، ولأن يدي وجدت الكثير،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "فرحتُ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "רב",
+      "gloss": "كثرت"
+    },
+    {
+      "surface": "חילי",
+      "gloss": "ثروتي"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ولأن"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "كثيرًا"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "وجدت"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "يدي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:40:48.805684386Z",
+  "model": "glm-5.2"
+}

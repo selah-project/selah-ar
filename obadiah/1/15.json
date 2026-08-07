@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "obadiah 1:15",
+  "book": "obadiah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "لأنّ يوم يهوه قريب على كلّ الأمم. كما فعلت يُفعَل بك، معاملتك ترجع في رأسك.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "قريب"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "فعلت"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يُفعَل"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بك"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "معاملتك"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ترجع"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "في رأسك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:27:38.861356779Z",
+  "model": "glm-5.2"
+}

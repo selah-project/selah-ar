@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "ورجلٌ الذي يضاجع ⟨את⟩ امرأةَ أبيه — عورةَ أبيه كشفها. موتًا يُماتان كلاهما، دماؤهما عليهما.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ورجل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "يضاجع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "امرأة أبيه"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "عورة"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "كشفها"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موتًا"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "يُماتان"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "كلاهما"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "دماؤهما"
+    },
+    {
+      "surface": "בם",
+      "gloss": "عليهما"
+    }
+  ],
+  "timestamp": "2026-08-07T05:39:08.871648205Z",
+  "model": "glm-5.2"
+}

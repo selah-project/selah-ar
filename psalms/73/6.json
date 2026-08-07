@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 73,
+  "translation": "لذلك الكبرياء قلادتهم، يلبسون لباسًا من ظلم.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "قلادتهم"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "الكبرياء"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "يلبسون"
+    },
+    {
+      "surface": "שית",
+      "gloss": "لباسًا"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "من ظلم"
+    },
+    {
+      "surface": "למו",
+      "gloss": "لهم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:02.982399374Z",
+  "model": "glm-5.2"
+}

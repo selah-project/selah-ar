@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "قِمْ ⟨ل⟩عبدك قولَك، الذي ⟨هو⟩ لِخشيَتك",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "قِمْ"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "⟨ل⟩عبدك"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "قولَك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "لِخشيَتك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:25.504990666Z",
+  "model": "glm-5.2"
+}

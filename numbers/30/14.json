@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 30:14",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "كلُّ نذرٍ وكلُّ يمينِ قَيدٍ لإذلالِ النفس، رجلُها يُقيمُه ورجلُها يُبطِلُه.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذرٍ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلُّ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "يمينِ"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "قَيدٍ"
+    },
+    {
+      "surface": "לענת",
+      "gloss": "لإذلالِ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "النفس"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "رجلُها"
+    },
+    {
+      "surface": "יקימנו",
+      "gloss": "يُقيمُه"
+    },
+    {
+      "surface": "ואישה",
+      "gloss": "ورجلُها"
+    },
+    {
+      "surface": "יפרנו",
+      "gloss": "يُبطِلُه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:36.788465736Z",
+  "model": "glm-5.2"
+}

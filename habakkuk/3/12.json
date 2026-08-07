@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "بِغَضَبٍ تخطو ⟨في⟩الأرض، بِحرَدٍ تدوسُ أممًا.",
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "بِغَضَبٍ"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "تخطو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "באף",
+      "gloss": "بِحرَدٍ"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "تدوسُ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "أممًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:32:21.094294554Z",
+  "model": "glm-5.2"
+}

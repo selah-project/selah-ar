@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 15:15",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "كلُّ أيّامِ البائسِ شرّيرة، وخيرُ القلبِ وليمةٌ دائمة",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "עני",
+      "gloss": "البائس"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "شرّيرة"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "وخير"
+    },
+    {
+      "surface": "לב",
+      "gloss": "القلب"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "وليمة"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "دائمة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:06.003312617Z",
+  "model": "glm-5.2"
+}

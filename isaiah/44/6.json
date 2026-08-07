@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 44:6",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "هكذا قال يهوه ملك يسرايل وغوئيله يهوه صباؤوت: أنا الأول وأنا الآخر، ومن دوني لا إله.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "وغوئيله"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤوت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "الأول"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "الآخر"
+    },
+    {
+      "surface": "ומבלעדי",
+      "gloss": "ومن دوني"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:19:12.481167550Z",
+  "model": "glm-5.2"
+}

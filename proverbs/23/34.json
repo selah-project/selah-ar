@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 23:34",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "و⟨تصير⟩ كمن ينام في قلب بحر، وكمن ينام على رأس صارية.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "و⟨تصير⟩"
+    },
+    {
+      "surface": "כשכב",
+      "gloss": "كمن ينام"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "في قلب"
+    },
+    {
+      "surface": "ים",
+      "gloss": "بحر"
+    },
+    {
+      "surface": "וכשכב",
+      "gloss": "وكمن ينام"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "على رأس"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "صارية"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:28.580113664Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "وصعد من هناك إلى بئر شافع.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "وصعد"
+    },
+    {
+      "surface": "משם",
+      "gloss": "من هناك"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شافع"
+    }
+  ],
+  "timestamp": "2026-08-06T23:42:54.764881099Z",
+  "model": "glm-5.2"
+}

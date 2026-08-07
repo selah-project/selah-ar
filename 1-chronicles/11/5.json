@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 11:5",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وقال سكّان يفوس لداود: «لا تدخل إلى هنا». فأمسك داود ⟨את⟩ حصن صهيون، هي مدينة داود.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "سكّان"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "يفوس"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "لداود"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "تدخل"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "إلى هنا"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "فأمسك"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حصن"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "حصن"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهيون"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    }
+  ],
+  "timestamp": "2026-08-07T05:14:05.327270666Z",
+  "model": "glm-5.2"
+}

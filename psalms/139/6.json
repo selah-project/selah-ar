@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 139,
+  "translation": "عَجِيبَةٌ دَعْتُ مِنِّي، ارْتَفَعَتْ لَا أَسْتَطِيعُهَا.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "عَجِيبَةٌ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "دَعْتُ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مِنِّي"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "ارْتَفَعَتْ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لَا"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "أَسْتَطِيعُ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "هَا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:17:57.866024453Z",
+  "model": "glm-5.2"
+}

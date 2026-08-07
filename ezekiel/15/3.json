@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 15:3",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "هل يُؤخذُ منه خشبٌ ليُصنع به عملٌ؟ أم يأخذون منه وتداً لتعليق كلِّ آنيةٍ عليه؟",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "هل يُؤخذ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "خشب"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ليُصنع"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أم"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "يأخذون"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "وتداً"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "لتعليق"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "آنية"
+    }
+  ],
+  "timestamp": "2026-08-07T02:59:18.489993001Z",
+  "model": "glm-5.2"
+}

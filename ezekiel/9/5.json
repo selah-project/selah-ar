@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 9:5",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "ولِهؤلاء قال في سمعي: «اعبروا في المدينة خلفه واضربوا — لا تشفق عيونكم ولا ترحموا.»",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "ولِهؤلاء"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "في سمعي"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "اعبروا"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "في المدينة"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "خلفه"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "واضربوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "لا تشفق"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "عيونكم"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תחמלו",
+      "gloss": "ترحموا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:58:11.086736821Z",
+  "model": "glm-5.2"
+}

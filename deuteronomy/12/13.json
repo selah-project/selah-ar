@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 12:13",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "احترس ⟨لنفسك⟩ أن لا تصعّد عولاتِك في كلِّ مكانٍ تراه،",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "احترس"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨لنفسك⟩"
+    },
+    {
+      "surface": "פן",
+      "gloss": "أن لا"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "تصعّد"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "عولاتِك"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلِّ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "مكان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "تراه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:45.112032832Z",
+  "model": "glm-5.2"
+}

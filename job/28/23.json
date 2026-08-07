@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "إلوهيم فهِم طريقها، وهو يعرف ⟨את⟩ مكانها.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "فهِم"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "طريقها"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "يعرف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مكانها"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "مكانها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:39:36.996201925Z",
+  "model": "glm-5.2"
+}

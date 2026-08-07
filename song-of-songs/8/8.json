@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "أختٌ لنا صغيرةٌ وثديانِ ليسَ لها، ماذا نَصنعُ لأُختِنا في اليومِ الذي يُتحدَّثُ فيه عنها؟",
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "أختٌ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "صغيرةٌ"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "وثديانِ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليسَ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "نَصنعُ"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "لأُختِنا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في اليومِ"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "الذي يُتحدَّثُ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيه عنها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:47:25.456527637Z",
+  "model": "glm-5.2"
+}

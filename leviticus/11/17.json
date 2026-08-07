@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨את⟩ الكُوس و⟨את⟩ الشّلاخ و⟨את⟩ اليَنشود",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "الكُوس"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "الكُوس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "الشّلاخ"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "الشّلاخ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اليَنشود"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "اليَنشود"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:04.752770506Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 8:15",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "ولم يحِيدوا عن وصية الملك على الكهنة واللاويين لكلّ أمرٍ وللخزائن.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "يحِيدوا"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "عن وصية"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكهنة"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "واللاويين"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لكلّ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "أمر"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "وللخزائن"
+    }
+  ],
+  "timestamp": "2026-08-07T05:24:25.767320378Z",
+  "model": "glm-5.2"
+}

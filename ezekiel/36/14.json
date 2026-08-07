@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 36:14",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "لذلك لا تأكلين الإنسان بعدُ، وأممكِ لا تُعثْرين بعدُ — نَأْمُ أدوناي يهوه.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאכלי",
+      "gloss": "تأكلين"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعدُ"
+    },
+    {
+      "surface": "וגויך",
+      "gloss": "وأممكِ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תכשלי",
+      "gloss": "تُعثْرين"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعدُ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نَأْم"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:10:42.377373587Z",
+  "model": "glm-5.2"
+}

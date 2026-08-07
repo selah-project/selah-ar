@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "أنت سِتْرٌ لي، من ضيقٍ تحرسُني، بِهُتافِ خلاصٍ تُطوّقُني. سيلاه.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "سِتْر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "من ضيقٍ"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "تحرسُني"
+    },
+    {
+      "surface": "רני",
+      "gloss": "بِهُتافِ"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "خلاصٍ"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "تُطوّقُني"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سيلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:44.808450815Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 3:1",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "و⟨هذه⟩ הגוيم אשר הניח יהوه לנסות בהם ⟨את⟩ יسرائيل: ⟨את⟩ كل الذين لم يعرفوا ⟨את⟩ كل מלחמות كنعان.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و⟨هذه⟩"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "تركهم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "لِيَمتحَن"
+    },
+    {
+      "surface": "בם",
+      "gloss": "بهم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرائيل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "يعرفوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "حروب"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كنعان"
+    }
+  ],
+  "timestamp": "2026-08-07T07:22:32.130393786Z",
+  "model": "glm-5.2"
+}

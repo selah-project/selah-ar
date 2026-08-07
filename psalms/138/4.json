@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 138,
+  "translation": "يحمدونكَ يهوه كلُّ ملوكِ الأرض، لأنهم سمعوا أقوالَ فيك",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "يحمدونكَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ملوكِ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنهم"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سمعوا"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "أقوالَ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "فِيك"
+    }
+  ],
+  "timestamp": "2026-08-07T06:07:56.350450513Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وجمع داوِد ⟨את⟩ كلَّ الشعب وسار إلى رَبّاة، وحارب فيها وأخذها.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "وجمع"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلَّ الشعب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "وسار"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "إلى رَبّاة"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "وحارب"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "وأخذها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:35:05.668656606Z",
+  "model": "glm-5.2"
+}

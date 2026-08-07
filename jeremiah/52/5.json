@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 52:5",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 52,
+  "translation": "فدخلت المدينة ⟨في⟩ الحصار حتى السنة الحادية عشرة للملك صِدقياهو.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "فدخلت"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "⟨في⟩ الحصار"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "الحادية"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرة"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "السنة"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "للملك"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صِدقياهو"
+    }
+  ],
+  "timestamp": "2026-08-07T02:53:16.888594771Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 113,
+  "translation": "من مشرق الشمس إلى مغربها، اسم يهوه مسبَّح",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "من مشرق"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "الشمس"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "مغربها"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "مسبَّح"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:39.861142899Z",
+  "model": "glm-5.2"
+}

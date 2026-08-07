@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وخاف داوِد ⟨את⟩ إلوهيم في ذلك اليوم قائلًا: كيف آتي ⟨إلى⟩ عندي ⟨את⟩ تابوت إلوهيم؟",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "وخاف"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "إلوهيم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "היך",
+      "gloss": "كيف"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "آتي"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إلى عندي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تابوت إلوهيم"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:21.532710166Z",
+  "model": "glm-5.2"
+}

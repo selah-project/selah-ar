@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 34:24",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "«كذا قال يهوه: هأنذا آتٍ بشرّ على المكان هذا وعلى ساكنيه: ⟨את⟩ كلِّ اللعنات المكتوبة على السِّفر الذي قرأوه أمام ملك يهودا.»",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "كذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "هأنذا"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "آتٍ بـ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شرّ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "المكان"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "יושביו",
+      "gloss": "ساكنيه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل اللعنات"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "اللعنات"
+    },
+    {
+      "surface": "הכתובות",
+      "gloss": "المكتوبة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "السِّفر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "قرأوه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    }
+  ],
+  "timestamp": "2026-08-07T08:30:42.239365681Z",
+  "model": "glm-5.2"
+}

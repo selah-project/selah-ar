@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 4:5",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وقال مُضايِقُونا: «لا يعلمون ولا يرون حتى ندخل وسطهم فنقتلهم ونُبطِل ⟨את⟩ العمل».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "مُضايِقُونا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "يعلمون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "يرون"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨أنْ⟩"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "ندخل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "תוכם",
+      "gloss": "وسطهم"
+    },
+    {
+      "surface": "והרגנום",
+      "gloss": "فنقتلهم"
+    },
+    {
+      "surface": "והשבתנו",
+      "gloss": "ونُبطِل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "العمل"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "العمل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:05:30.661098513Z",
+  "model": "glm-5.2"
+}

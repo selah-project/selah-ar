@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 164,
+  "ref": "psalms 119:164",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "سبعًا في اليوم سبّحتُكَ على أحكامِ صِدقِكَ.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "سبعًا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في اليوم"
+    },
+    {
+      "surface": "הללתיך",
+      "gloss": "سبّحتُكَ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "أحكامِ"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "صِدقِكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:39.415774371Z",
+  "model": "glm-5.2"
+}

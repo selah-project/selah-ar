@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "numbers 4:47",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "من ابن ثلاثين سنة فصاعدًا وحتى ابن خمسين سنة، كل الداخل لعمل عمل الخدمة وعمل الحِمل في خيمة الموعد.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "من ابن"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ثلاثين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "فصاعدًا"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وحتى"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "خمسين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "الداخل"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "لعمل"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "الخدمة"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "وعمل"
+    },
+    {
+      "surface": "משא",
+      "gloss": "الحِمل"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "في خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:29:14.416426286Z",
+  "model": "glm-5.2"
+}

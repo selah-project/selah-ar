@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 73,
+  "translation": "في تعب البشر ليسوا، و⟨مع⟩ الإنسان لا يُنغصون.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "في تعب"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "البشر"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "ليسوا"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "و⟨مع⟩"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "يُنغَصون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:02.982180785Z",
+  "model": "glm-5.2"
+}

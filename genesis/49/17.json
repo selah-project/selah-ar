@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 49:17",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "ليكن دانُ حيّةً على طريق، شْفيفون على مسلك، يلدغ عقبَ فرسٍ فيسقط راكبُه إلى الوراء.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ليكن"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دانُ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "حيّةً"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "على"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "طريق"
+    },
+    {
+      "surface": "שפיפן",
+      "gloss": "شْفيفون"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "على"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "مسلك"
+    },
+    {
+      "surface": "הנשך",
+      "gloss": "يلدغ"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "عقبَ"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "فرسٍ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "فيسقط"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "راكبُه"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "إلى الوراء"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:29.501528202Z",
+  "model": "glm-5.2"
+}

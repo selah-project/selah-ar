@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "ويرى الكاهنُ ⟨את⟩ النَّگَعَ في اليومِ السابع، وإذا لم ينتشرِ النتَقُ ولم يكنْ فيه شعرٌ أصفرُ، ومنظرُ النتَقِ ليس أعمقَ من الجلد،",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ويرى"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكاهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "النَّگَع"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "النَّگَع"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في اليوم"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "السابع"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "ينتشر"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "النتَق"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "היה",
+      "gloss": "يكن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "שער",
+      "gloss": "شعر"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "أصفر"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "ومنظر"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "النتَق"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "أعمق"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "העור",
+      "gloss": "الجلد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:19:38.580006244Z",
+  "model": "glm-5.2"
+}

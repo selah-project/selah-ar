@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 106,
+  "translation": "طوبى لِحُرّاسِ المِشپاط، فاعل الصِّدِق في كلِّ وقت.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "طوبى لِ"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "حُرّاسِ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "المِشپاط"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فاعل"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "الصِّدِق"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلِّ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:28.247937355Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 13:16",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وهو أيضًا لي لخلاص، لأنّه ليس أمام وجهه منافقٌ يأتي.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "لخلاص"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمام وجهه"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "منافق"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "يأتي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:34:52.630276571Z",
+  "model": "glm-5.2"
+}

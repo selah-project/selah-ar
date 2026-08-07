@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "و⟨את⟩ دَدان و⟨את⟩ تَيما و⟨את⟩ بوز و⟨את⟩ كُلّ قاطِعي الطُّرَّة",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "دَدان"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "دَدان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "تَيما"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "تَيما"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بوز"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "بوز"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كُلّ قاطِعي الطُّرَّة"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كُلّ"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "قاطِعي"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "الطُّرَّة"
+    }
+  ],
+  "timestamp": "2026-08-07T02:39:13.578739670Z",
+  "model": "glm-5.2"
+}

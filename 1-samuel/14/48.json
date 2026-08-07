@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وعمل بأسًا، وضرب ⟨את⟩ عماليق، وانتشل ⟨את⟩ إسرائيل من يد سالبه.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وعمل"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بأسًا"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "وضرب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عماليق"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عماليق"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "وانتشل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "إسرائيل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يد"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "سالبه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:25:16.478553400Z",
+  "model": "glm-5.2"
+}

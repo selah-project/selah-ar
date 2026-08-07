@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "والغلام لم يعرف شيئًا، إنّما يهوناتان وداود عرفا ⟨את⟩ الأمر.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "والغلام"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "يعرف"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "شيئًا"
+    },
+    {
+      "surface": "אך",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يهوناتان"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "وداود"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "عرفا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأمر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمر"
+    }
+  ],
+  "timestamp": "2026-08-07T01:28:07.627326717Z",
+  "model": "glm-5.2"
+}

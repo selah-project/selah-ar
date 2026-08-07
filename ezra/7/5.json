@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "ابن أفيشوع، ابن پينحاس، ابن ألعازار، ابن أهارون الكاهن الرأس",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "أفيشوع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "پينحاس"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ألعازار"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكاهن"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "الرأس"
+    }
+  ],
+  "timestamp": "2026-08-07T05:01:57.288579474Z",
+  "model": "glm-5.2"
+}

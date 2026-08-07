@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 51,
+  "translation": "أعِد لي بهجةَ خلاصك، وبروحٍ نَدِيبَةٍ ⟨فَلْيَعْضُدْني⟩",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "أعِد"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "بهجةَ"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "خلاصك"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "وروحٍ"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "نَدِيبَةٍ"
+    },
+    {
+      "surface": "תסמכנي",
+      "gloss": "⟨فَلْيَعْضُدْني⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T03:53:26.100805181Z",
+  "model": "glm-5.2"
+}

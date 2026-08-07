@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "مدينةٌ مُخترَقةٌ لا سورَ لها، رجلٌ لا كَبْحَ لروَحه.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "مُخترَقة"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "سور"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "كَبْح"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "لروَحه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:16.145602367Z",
+  "model": "glm-5.2"
+}

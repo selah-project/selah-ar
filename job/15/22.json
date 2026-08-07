@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 15:22",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "لا يُصدِّق ⟨أنه⟩ يرجع من ظلام، وهو مَشفوفٌ ⟨للسيف⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "يُصدِّق"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "يرجع"
+    },
+    {
+      "surface": "מני",
+      "gloss": "من"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ظلام"
+    },
+    {
+      "surface": "וצפו",
+      "gloss": "وهو مَشفوف"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "سيف"
+    }
+  ],
+  "timestamp": "2026-08-07T04:36:52.276072761Z",
+  "model": "glm-5.2"
+}

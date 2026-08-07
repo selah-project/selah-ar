@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 5:15",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وجاء شُوطرا بني يِسراإيل وصرخوا إلى فرعوه قائلين: لماذا تفعل هكذا لعبيدك؟",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "شُوطرا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسراإيل"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "وصرخوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تفعل"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "لعبيدك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:01:07.487861755Z",
+  "model": "glm-5.2"
+}

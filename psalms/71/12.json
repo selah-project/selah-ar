@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 71,
+  "translation": "يا إلوهيم، لا تتباعد عنّي؛ إلهي، إلى نُصرتي أسرع!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "تتباعد"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "عنّي"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلهي"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "إلى نُصرتي"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "أسرع"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:36.036844883Z",
+  "model": "glm-5.2"
+}

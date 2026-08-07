@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "ويُدعى اسمه في يسرائيل: «بيت نازع النعل».",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "ويُدعى"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمه"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "في يسرائيل"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "نازع"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "النعل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:58:56.717717866Z",
+  "model": "glm-5.2"
+}

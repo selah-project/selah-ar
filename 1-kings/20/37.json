@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 20:37",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "و⟨وجد⟩ رجلًا آخر، و⟨قال⟩: اضربني نا. فضربه الرجل ضربًا و⟨شجَّه⟩.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "و⟨وجد⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "آخر"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و⟨قال⟩"
+    },
+    {
+      "surface": "הכיני",
+      "gloss": "اضربني"
+    },
+    {
+      "surface": "נא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "فضربه"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ضربًا"
+    },
+    {
+      "surface": "ופצע",
+      "gloss": "و⟨شجَّه⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T01:51:39.206996859Z",
+  "model": "glm-5.2"
+}

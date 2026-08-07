@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-kings 1:52",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فقال شلومو: «إن كان ابنَ بأسٍ، لا يسقط من شعرته إلى الأرض، وإن وُجد فيه شرٌّ فيموت.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ابنَ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بأس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "يسقط"
+    },
+    {
+      "surface": "משערתו",
+      "gloss": "من شعرته"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "إلى الأرض"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شرٌّ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "وُجد"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "فيموت"
+    }
+  ],
+  "timestamp": "2026-08-07T01:42:10.079100640Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "لا تَعْمَلْ ⟨ضدَّ⟩ قريبك شاهدَ زورٍ.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תַעֲנֶ֥ה",
+      "gloss": "تَعْمَلْ"
+    },
+    {
+      "surface": "בְרֵעֲךָ֖",
+      "gloss": "⟨ضدَّ⟩ قريبك"
+    },
+    {
+      "surface": "עֵ֥ד",
+      "gloss": "شاهدَ"
+    },
+    {
+      "surface": "שָֽׁקֶר",
+      "gloss": "زورٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:38.553785111Z",
+  "model": "glm-5.2"
+}

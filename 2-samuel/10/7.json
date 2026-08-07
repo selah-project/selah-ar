@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فسمع داوود، فأرسل ⟨את⟩ يوآب و⟨את⟩ كلّ جيش الأبطال.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "فسمع"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوآب"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ جيش الأبطال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "جيش"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "الأبطال"
+    }
+  ],
+  "timestamp": "2026-08-07T01:34:12.890985700Z",
+  "model": "glm-5.2"
+}

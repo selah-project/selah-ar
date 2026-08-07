@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "⟨את⟩ كلّ هذا رأيتُ، و⟨جعلتُ⟩ ⟨את⟩ قلبي لكلّ عملٍ يُعمَل تحت الشمس: وقتًا فيه تسلّط الإنسان على الإنسان لشرّه.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ هذا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "رأيتُ"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "و⟨جعلتُ⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قلبي"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لكلّ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "يُعمَل"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "الشمس"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "تسلّط"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "على الإنسان"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "لشرّه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨له⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T06:10:18.664514786Z",
+  "model": "glm-5.2"
+}

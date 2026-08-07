@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 10:7",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فاحتدَم غضبُ يهوه على يسرائيل، فباعهم بيد فلشتيم وبيد بني عمون.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "فاحتدَم"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غضبُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "على يسرائيل"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "فباعهم"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بيد"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلشتيم"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "وبيد"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    }
+  ],
+  "timestamp": "2026-08-07T01:16:27.069014947Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 28:26",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "المُتوكِّلُ على قلبه ⟨هو⟩ جاهل، والسالكُ في حكمة ⟨هو⟩ يُنْجَو.",
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "المتوكِّل"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "على قلبه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "جاهل"
+    },
+    {
+      "surface": "והולך",
+      "gloss": "والسالك"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "في حكمة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "يُنْجَو"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:04.698395051Z",
+  "model": "glm-5.2"
+}

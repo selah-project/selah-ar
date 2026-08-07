@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "ما بالُ إنسان حيّ يشكو، رجل، على خطيئته؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ما بال"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "يشكو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "חי",
+      "gloss": "حيّ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "خطيئته"
+    }
+  ],
+  "timestamp": "2026-08-07T04:49:01.679228296Z",
+  "model": "glm-5.2"
+}

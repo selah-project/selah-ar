@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 18:32",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "لأنّي لا أُسرُّ بموتِ الميّت — نَعْمُ أدوناي يهوه. فارجعوا و живَوا!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אחפץ",
+      "gloss": "أُسرُّ"
+    },
+    {
+      "surface": "במות",
+      "gloss": "بموتِ"
+    },
+    {
+      "surface": "המת",
+      "gloss": "الميّت"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نَعْمُ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "فارجعوا"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "وحيَوا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:01:45.703343975Z",
+  "model": "glm-5.2"
+}

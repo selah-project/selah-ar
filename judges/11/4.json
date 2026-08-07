@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وحدث بعد أيّام أنّ بني عمّون حاربوا إسرائيل.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وحدث"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "بعد أيّام"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "حاربوا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمّون"
+    },
+    {
+      "surface": "עם",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:16:51.476463133Z",
+  "model": "glm-5.2"
+}

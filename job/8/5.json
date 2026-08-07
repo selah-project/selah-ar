@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 8:5",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "إذا أنتَ بَكَّرتَ إلى إيل، وإلى شدّاي تتضرَّع،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "תשחר",
+      "gloss": "بَكَّرتَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّاي"
+    },
+    {
+      "surface": "תתחנן",
+      "gloss": "تتضرَّع"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:03.492742065Z",
+  "model": "glm-5.2"
+}

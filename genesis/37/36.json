@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "والمادانيّون باعوا ⟨את⟩ه إلى مصرايم لفوطيفار خصيّ فرعو، رئيسِ الجلاّدين.",
+  "tokens": [
+    {
+      "surface": "והמדנים",
+      "gloss": "والمادانيّون"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "باعوا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "لفوطيفار"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "خصيّ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعو"
+    },
+    {
+      "surface": "שר",
+      "gloss": "رئيس"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "الجلاّدين"
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:37.960782338Z",
+  "model": "glm-5.2"
+}

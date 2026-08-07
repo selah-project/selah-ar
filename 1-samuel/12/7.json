@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "والآن قفوا، فأُحاكمكم أمام يهوه بكلِّ صِدِقات يهوه التي صنعها معكم ومع آبائكم.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "قفوا"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "فأُحاكم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "كم"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ صِدِقات يهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "صِدِقات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنعها"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "معكم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ومع"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "آبائكم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:24:11.379092152Z",
+  "model": "glm-5.2"
+}

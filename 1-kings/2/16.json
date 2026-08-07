@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "والآن طلبٌ واحد أنا أسأل منكِ: لا تَرُدّي ⟨את⟩ وجهي. و⟨هي⟩ قالت له: «تكلَّم».",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "طلب"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "أسأل"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "منكِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "تَرُدّي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وجهي"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهي"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "وقالت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلَّم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:42:22.057232667Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 69,
+  "translation": "إلوهيم، أنتَ عرفتَ حماقتي،ومعاصيّ منكَ لم تُخفَ.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "عرفتَ"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "حماقتي"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "ومعاصيّ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "منكَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "تُخفَ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:58:22.339589053Z",
+  "model": "glm-5.2"
+}

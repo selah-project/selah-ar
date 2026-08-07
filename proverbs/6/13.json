@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 6:13",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "يغمز بعينيه، يُلملم برِجليه، يُومئ بأصابعه،",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "يغمز"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "بعينيه"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "يُلملم"
+    },
+    {
+      "surface": "ברגלו",
+      "gloss": "برِجليه"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "يُومئ"
+    },
+    {
+      "surface": "באצבעתיו",
+      "gloss": "بأصابعه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:36.322946725Z",
+  "model": "glm-5.2"
+}

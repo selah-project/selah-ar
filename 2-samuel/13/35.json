@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 13:35",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فقال يوناداف للملك: «هوذا أبناء الملك قد جاؤوا؛ كما قال عبدك، هكذا كان الأمر.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יונדב",
+      "gloss": "يوناداف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "أبناء"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "באו",
+      "gloss": "قد جاؤوا"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "كما قال"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدك"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان الأمر"
+    }
+  ],
+  "timestamp": "2026-08-07T01:35:29.217223708Z",
+  "model": "glm-5.2"
+}

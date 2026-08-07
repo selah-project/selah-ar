@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 13:16",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "ففرّ بنو إسرائيل من وجه يهودا، فسلّمهم إلوهيم في أيديهم",
+  "tokens": [
+    {
+      "surface": "וינוסו",
+      "gloss": "ففرّ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجه"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "فسلّمهم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "في أيديهم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:26:05.892572874Z",
+  "model": "glm-5.2"
+}

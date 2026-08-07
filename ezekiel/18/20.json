@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 18:20",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "النفسُ التي تخطأ هي تموت. الابن لا يحمل ذنب الأب، والأب لا يحمل ذنب الابن. صِدقُ الصدِّيق عليه يكون، وشرُّ الشرير عليه يكون.",
+  "tokens": [
+    {
+      "surface": "הנפש",
+      "gloss": "النفسُ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "التي تخطأ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "تموت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "الابن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "يحمل"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "ذنب"
+    },
+    {
+      "surface": "האב",
+      "gloss": "الأب"
+    },
+    {
+      "surface": "ואב",
+      "gloss": "والأب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "يحمل"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "ذنب"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "الابن"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "صِدقُ"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "الصدِّيق"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "ורשעת",
+      "gloss": "وشرُّ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "الشرير"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "يكون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:02:00.358282734Z",
+  "model": "glm-5.2"
+}

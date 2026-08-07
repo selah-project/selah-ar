@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 87,
+  "translation": "والمُغَنُّون كالعَازِفِين على الرَّقَص: كل مَنَابِعي فيك",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "والمغنّون"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "كالعازفين على الرقص"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "منابعي"
+    },
+    {
+      "surface": "בך",
+      "gloss": "فيك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:48.036731097Z",
+  "model": "glm-5.2"
+}

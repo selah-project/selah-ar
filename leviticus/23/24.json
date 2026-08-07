@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 23:24",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "كلِّم بَنِي إسرائيل قائلًا: في الشهر السابع، في أول الشهر يكون لكم شبّتون، ذكرُ هُتافٍ، مِقرا قُدس.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "كلِّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنِي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "في الشهر"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "السابع"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "في أول"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "الشهر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "شبّتون"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ذكرُ"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "هُتافٍ"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "مِقرا"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قُدس"
+    }
+  ],
+  "timestamp": "2026-08-07T00:26:48.365869750Z",
+  "model": "glm-5.2"
+}

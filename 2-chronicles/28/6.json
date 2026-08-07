@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 28:6",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "وقتل فقح بن رملياهو في يهوذا مئةً وعشرين ألفًا في يومٍ واحد، الكلّ بنو بأس، لأنّهم تركوا ⟨את⟩ يهوه إله آبائهم.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "وقتل"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "فقح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "رملياهو"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "في يهوذا"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "وعشرين"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفًا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "الكلّ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بأس"
+    },
+    {
+      "surface": "בעזבם",
+      "gloss": "لأنّهم تركوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إله"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "آبائهم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:29:31.974581290Z",
+  "model": "glm-5.2"
+}

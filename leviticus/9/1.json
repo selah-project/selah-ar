@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "«و»⟨كان⟩ في اليوم الثامن، فدعا موشيه لـ أهارون ولـ بنيه ولـ شيوخ يِسرائيل،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "الثامن"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "فدعا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "لـ أهارون"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ولـ بنيه"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "ولـ شيوخ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:33.451060149Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "تَعشيرًا تعشِّر ⟨את⟩ كلَّ ناتجِ زرعك، الخارجِ ⟨منـ⟩الحقل، سنةً سنةً.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "تَعشيرًا"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "تعشِّر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلَّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ناتجِ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "زرعك"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "الخارجِ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "منـالحقل"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنةً"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنةً"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:48.708853824Z",
+  "model": "glm-5.2"
+}

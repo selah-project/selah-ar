@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "في ذلك اليوم يُؤكَل، لا تُبقوا منه شيئًا إلى الصباح؛ أنا يهوه.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "في…يوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يُؤكَل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "تُبقوا"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "الصباح"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:00.745420224Z",
+  "model": "glm-5.2"
+}

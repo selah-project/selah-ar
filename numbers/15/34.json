@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 15:34",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "فوضعوه في الحَبْس لأنّه لم يُبيَّن ما يُفعل به.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "فوضعوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "الرجل (مفعول)"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "في الحَبْس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "يُبيَّن"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يُفعل"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به"
+    }
+  ],
+  "timestamp": "2026-08-07T00:36:11.464560860Z",
+  "model": "glm-5.2"
+}

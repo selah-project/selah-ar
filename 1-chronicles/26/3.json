@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 26:3",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "عيلام الخامس، يَهوحَنان السادس، أَلْيَهوعيناي السابع.",
+  "tokens": [
+    {
+      "surface": "עילם",
+      "gloss": "عيلام"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "الخامس"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "يَهوحَنان"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "السادس"
+    },
+    {
+      "surface": "אליהועיני",
+      "gloss": "أَلْيَهوعيناي"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "السابع"
+    }
+  ],
+  "timestamp": "2026-08-07T05:18:33.707650013Z",
+  "model": "glm-5.2"
+}

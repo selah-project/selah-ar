@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "اِحفَظْ يا ابني وصيّةَ أبيك، ولا تَهجر توراةَ أُمّك.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "اِحفَظْ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "يا ابني"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "وصيّة"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أبيك"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "تَهجر"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "توراة"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "أُمّك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:33.619973953Z",
+  "model": "glm-5.2"
+}

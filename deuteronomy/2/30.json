@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 2:30",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "ولم يَرْضَ سيحون ملك حشبون أن يُعبرنا في أرضه، لأن يهوه إلوهيمك صعّد ⟨את⟩ روحه وشدّد ⟨את⟩ قلبه لكي يدفعه بيدك كاليوم هذا.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "رضي"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "سيحون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "حشبون"
+    },
+    {
+      "surface": "העברנו",
+      "gloss": "أن يُعبرنا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "صعّد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "روحه"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "روحه"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "وشدّد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قلبه"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "قلبه"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "תתו",
+      "gloss": "يدفعه"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "بيدك"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "كاليوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:56.662571639Z",
+  "model": "glm-5.2"
+}

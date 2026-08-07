@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "مَلِكُ قادِشَ واحدٌ؛ مَلِكُ يَقْنَعامَ لِلكَرمَلِ واحدٌ؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "مَلِكُ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادِشَ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدٌ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلِكُ"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "يَقْنَعامَ"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "لِلكَرمَلِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدٌ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:06:01.362148658Z",
+  "model": "glm-5.2"
+}

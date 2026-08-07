@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 44:24",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "و⟨كان⟩ لما صعدنا إلى عبدك أبي وأخبرناه ⟨את⟩ كلام سيّدي",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لما"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "صعدنا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدك"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "وأخبرناه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨له⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلام"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلام"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سيّدي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:52:16.205697685Z",
+  "model": "glm-5.2"
+}

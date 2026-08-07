@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وأمّا الحنطة والكُسْمِت فلم تُضرَبا، لأنّهما أفيلوت.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "والحنطة"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "والكُسْمِت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "تُضرَبا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّهما"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "متأخّرة\/أفيلوت"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:31.351318120Z",
+  "model": "glm-5.2"
+}

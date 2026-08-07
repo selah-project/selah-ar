@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وعاد ملاكُ يهوه ثانيةً، فلمسه وقال: قُمْ كُلْ، لأنَّ الطريق كثيرٌ عليك.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "وعاد"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ملاك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ثانيةً"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "فلمسه"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ـه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "קום",
+      "gloss": "قُمْ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "كُلْ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "كثيرٌ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "عليك"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "الطريق"
+    }
+  ],
+  "timestamp": "2026-08-07T01:50:25.033322269Z",
+  "model": "glm-5.2"
+}

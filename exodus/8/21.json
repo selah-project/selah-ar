@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "ودعا فرعوه موشيه ولأهارون وقال اذهبوا اذبحوا لإلوهيمكم في الأرض",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "ولأهارون"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "اذهبوا"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "اذبحوا"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "لإلوهيمكم"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:14.800362292Z",
+  "model": "glm-5.2"
+}

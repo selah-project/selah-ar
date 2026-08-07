@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وعند نزول الندى على المحلّة ليلًا، كان المنّ ينزل عليه.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "وعند نزول"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "الندى"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "المحلّة"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ليلًا"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "كان ينزل"
+    },
+    {
+      "surface": "המן",
+      "gloss": "المنّ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:34:56.640448799Z",
+  "model": "glm-5.2"
+}

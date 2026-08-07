@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 109,
+  "translation": "أَقِمْ عليه راشِعًا، وشَطَانْ ليقِفْ عن يمينه.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "أَقِمْ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "راشِعًا"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "وشَطَانْ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ليقِفْ"
+    },
+    {
+      "surface": "על",
+      "gloss": "عِند"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "يمينه"
+    }
+  ],
+  "timestamp": "2026-08-07T06:06:06.000230515Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وابنه البكر عَودون، وصور، وقِيش، وبَعل، وناداف.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "وابنه"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "البكر"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "عَودون"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "وصور"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "وقِيش"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "وبَعل"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "وناداف"
+    }
+  ],
+  "timestamp": "2026-08-07T06:12:51.388961243Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "«يدُ الشهود ⟨تكون⟩ عليه في الأوّل لِإماتته، ويدُ كل الشعب في الآخِر؛ فتنزِع الرديء من وسطك.»",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "يد"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "الشهود"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "בו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "في الأوّل"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "لإماتته"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ويد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "في الآخِر"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "فتُزيل\/تنزِع"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "الرديء"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "من وسطك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:49.552427039Z",
+  "model": "glm-5.2"
+}

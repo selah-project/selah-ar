@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 9:20",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وهناك حين يكون السحاب أيّامًا معدودة على المشكن، على فم يهوه ينزلون وعلى فم يهوه يرحلون.",
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "وهناك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "حين"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "السحاب"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيّامًا"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "معدودة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "المشكن"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "ينزلون"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "يرحلون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:31:43.750808464Z",
+  "model": "glm-5.2"
+}

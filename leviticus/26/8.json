@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 26:8",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "ويطارد منكم خمسة مئة، ومئة منكم ربّابة يطاردون، ويسقط أعداؤكم أمامكم بالسيف.",
+  "tokens": [
+    {
+      "surface": "ורדפו",
+      "gloss": "ويطارد"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "منكم"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "خمسة"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ومئة"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "منكم"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "ربّابة"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "يطاردون"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ويسقط"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "أعداؤكم"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "أمامكم"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "بالسيف"
+    }
+  ],
+  "timestamp": "2026-08-07T00:26:28.425109040Z",
+  "model": "glm-5.2"
+}

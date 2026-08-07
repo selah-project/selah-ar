@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 24:16",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "لأنّ الصِّدِّيق يسقط سبعًا ويقوم، أمّا الأشرار فيتعثّرون في الشرّ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبعًا"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "يسقط"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "الصديق"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ويقوم"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "أمّا الأشرار"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "فيتعثّرون"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "في الشرّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:41.194148091Z",
+  "model": "glm-5.2"
+}

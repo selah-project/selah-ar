@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وإذا استعار رجلٌ من عند صاحبه فانكسر أو مات، صاحبُه ليس معه، تعويضًا يُعوِّضُ.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "استعار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "من عند"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "صاحبه"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "فانكسر"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مات"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "صاحبُه"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "تعويضًا"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "يُعوِّضُ"
+    }
+  ],
+  "timestamp": "2026-08-07T05:37:47.707738307Z",
+  "model": "glm-5.2"
+}

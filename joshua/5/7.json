@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 5:7",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "و⟨את⟩ بنيهم أقام مكانهم؛ إيّاهم ختن يهوشع، لأنّهم كانوا غُرلاً لأنّهم لم يختنوهم في الطريق.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بنيهم"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "بنيهم"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "أقام"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "مكانهم"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "إيّاهم"
+    },
+    {
+      "surface": "מל",
+      "gloss": "ختن"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّهم"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "غُرلاً"
+    },
+    {
+      "surface": "היו",
+      "gloss": "كانوا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّهم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "يختنوهم"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩هم",
+      "marks": "في الطريق"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "في الطريق"
+    }
+  ],
+  "timestamp": "2026-08-07T05:43:27.029727872Z",
+  "model": "glm-5.2"
+}

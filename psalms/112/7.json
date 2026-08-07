@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 112,
+  "translation": "من خبَرٍ سيّئٍ لا يخاف؛ ثابتٌ قلبُهُ، متوكّلٌ على يهوه.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "من خبَرٍ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "سيّئٍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "يخاف"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ثابتٌ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "قلبُهُ"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "متوكّلٌ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "على يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:43.355730362Z",
+  "model": "glm-5.2"
+}

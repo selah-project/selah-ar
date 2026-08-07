@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "بين الفُجّار، مستهزئي الولائم، صرّوا عليّ أسنانهم.",
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "بين الفُجّار"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "مستهزئي"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "الولائم"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "صرّوا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عليّ"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "أسنانهم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:41.641532714Z",
+  "model": "glm-5.2"
+}

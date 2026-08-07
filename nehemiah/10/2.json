@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وعلى المختومينَ نَحَمْيا هاتِرْشاتا بنُ حَكَلْيا وصدَقيا.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "المختومين"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "نَحَمْيا"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "هاتِرْشاتا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنُ"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "حَكَلْيا"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "صدَقيا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:07:02.372218867Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 6:24",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "و⟨كان⟩ بعد ذلك، أنّ بن-هدد ملك أرام جمع ⟨את⟩ كلّ جيشه وصعد وحاصر شمرون.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "جمع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "هدد"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "أرام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ جيشه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "جيشه"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "وصعد"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "وحاصر"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شمرون"
+    }
+  ],
+  "timestamp": "2026-08-07T01:55:05.732547477Z",
+  "model": "glm-5.2"
+}

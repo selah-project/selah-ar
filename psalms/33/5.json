@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "يُحِبُّ صداقةً ⟨و⟩حقًا، حِسِدُ يهوه ملأَ الأرض",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "يُحِبُّ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "صداقة"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "⟨و⟩حقًا"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حِسِدُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ملأَ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:16.840255390Z",
+  "model": "glm-5.2"
+}

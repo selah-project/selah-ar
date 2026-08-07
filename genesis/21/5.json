@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وكان أفراهام ابنَ مئةِ سنةٍ في حين وُلِدَ له ⟨את⟩ يِصحاق ابنه.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "وأفراهام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنَ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "مئةِ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنةٍ"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "في حين وُلِدَ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يِصحاق"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يِصحاق"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:26.320210527Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 105,
+  "translation": "قال فجاء جرادٌ، ويَلَقٌ، ولا عَدَدَ.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "فجاء"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "جراد"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "ويَلَق"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "عدد"
+    }
+  ],
+  "timestamp": "2026-08-07T06:05:59.404655734Z",
+  "model": "glm-5.2"
+}

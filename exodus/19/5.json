@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 19:5",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "والآن إذا سمعًا تسمعون لصوتي وحفظتم ⟨את⟩ بريتي، تصيرون لي سَگُلَّةً من كل الشعوب، لأن لي كل الأرض.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "سماعًا"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "تسمعون"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "لصوتي"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "وحفظتم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بريتي"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "بريتي"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "تصيرون"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "סגלה",
+      "gloss": "سَگُلَّةً"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كل"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "الشعوب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:29.202033778Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 20:24",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "يهرب من سلاحِ حديد، تَعبُرُه قوسٌ نحاسية.",
+  "tokens": [
+    {
+      "surface": "יברח",
+      "gloss": "يهرب"
+    },
+    {
+      "surface": "מנשק",
+      "gloss": "من سلاحِ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "حديد"
+    },
+    {
+      "surface": "תחלפהו",
+      "gloss": "تَعبُرُه"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "قوسٌ"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "نحاسية"
+    }
+  ],
+  "timestamp": "2026-08-07T04:38:13.366456327Z",
+  "model": "glm-5.2"
+}

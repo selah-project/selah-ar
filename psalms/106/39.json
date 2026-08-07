@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 106:39",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 106,
+  "translation": "وتنجّسوا بأعمالهم وزنوا في أفعالهم",
+  "tokens": [
+    {
+      "surface": "ויטמאו",
+      "gloss": "وتنجّسوا"
+    },
+    {
+      "surface": "במעשיהם",
+      "gloss": "بأعمالهم"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "وزنوا"
+    },
+    {
+      "surface": "במעלליהם",
+      "gloss": "في أفعالهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:19.881530438Z",
+  "model": "glm-5.2"
+}

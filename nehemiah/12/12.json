@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 12:12",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وفي أيام يوياقيم كانوا كوهين، رؤوس الآباء: لشريا مرايا، ليرميا حننيا.",
+  "tokens": [
+    {
+      "surface": "ובימי",
+      "gloss": "وفي أيام"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "يوياقيم"
+    },
+    {
+      "surface": "היו",
+      "gloss": "كانوا"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "كوهين"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "رؤوس"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "الآباء"
+    },
+    {
+      "surface": "לשריה",
+      "gloss": "لشريا"
+    },
+    {
+      "surface": "מריה",
+      "gloss": "مرايا"
+    },
+    {
+      "surface": "לירמיה",
+      "gloss": "ليرميا"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "حننيا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:08:40.723272105Z",
+  "model": "glm-5.2"
+}

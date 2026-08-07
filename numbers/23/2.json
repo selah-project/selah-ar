@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 23:2",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "ففعل بالاق كما تكلّم بيلعام، وأصعد بالاق وبيلعام ثورًا وكبشًا ⟨على⟩ المذبح.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ففعل"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بيلعام"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "وأصعد"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "ובלעם",
+      "gloss": "وبيلعام"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ثورًا"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "وكبشًا"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "المذبح"
+    }
+  ],
+  "timestamp": "2026-08-07T05:41:51.877215017Z",
+  "model": "glm-5.2"
+}

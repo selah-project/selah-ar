@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "في الصباح ازرع ⟨את⟩ زرعك، وفي المساء لا تُرخِ يدك، لأنك لا تعرف أيُّ هذا ينجح — هذا أم ذاك؟ و⟨إن⟩ كليهما كواحد طيّبان.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "في الصباح"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ازرع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زرعك"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "زرعك"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "وفي المساء"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "تُرخِ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنك"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "لست"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "تعرف"
+    },
+    {
+      "surface": "אי",
+      "gloss": "أيُّ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "ينجح"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "או",
+      "gloss": "أم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ذاك"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "و⟨إن⟩"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "كليهما"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "كواحد"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "طيّبان"
+    }
+  ],
+  "timestamp": "2026-08-07T04:53:16.371774275Z",
+  "model": "glm-5.2"
+}

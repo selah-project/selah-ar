@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "فارتدّ يهوه عن هذا. «هذا أيضًا لا يكون»، قال أدوناي يهوه.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "فارتدّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "عن"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:27:03.351149625Z",
+  "model": "glm-5.2"
+}

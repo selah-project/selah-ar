@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وبنو ياداع أخي شَمّاي: يَتِر ويوناتان. ومات يَتِر بلا بنين.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "وبنو"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ياداع"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "أخي"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شَمّاي"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "يَتِر"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "ويوناتان"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ومات"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "يَتِر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بنين"
+    }
+  ],
+  "timestamp": "2026-08-07T05:09:54.089839586Z",
+  "model": "glm-5.2"
+}

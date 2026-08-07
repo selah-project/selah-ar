@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 28:25",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "ذو النَّفْس المتسوّعة يُهيّج خصامًا، والـمُتوكِّلُ على يهوه يُسَمَّنُ.",
+  "tokens": [
+    {
+      "surface": "רחב",
+      "gloss": "متّسع"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْس"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "يُهيّج"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "خصام"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "والمتوكِّل"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ידשן",
+      "gloss": "يُسَمَّن"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:04.698232092Z",
+  "model": "glm-5.2"
+}

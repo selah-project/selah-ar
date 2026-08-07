@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "amos 5:17",
+  "book": "amos",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وفي كلِّ الكُروم ندبٌ، لأنّي أعبُرُ في وسطِكُم، قال يهوه.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "وفي كلّ"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "الكروم"
+    },
+    {
+      "surface": "מספד",
+      "gloss": "ندبٌ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "أعبُرُ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "في وسطِكُم"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:26:52.730932963Z",
+  "model": "glm-5.2"
+}

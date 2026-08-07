@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "هل يُؤكَل ما هو بلا مَلح؟ أم هل من طَعم في عصير الخِرْبَق؟",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "هل يُؤكَل"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "ما هو بلا مَلح"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": ""
+    },
+    {
+      "surface": "מלח",
+      "gloss": "ملح"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أم"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هل من"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "طَعم"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "في عصير"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "الخِرْبَق"
+    }
+  ],
+  "timestamp": "2026-08-07T08:16:53.439029966Z",
+  "model": "glm-5.2"
+}

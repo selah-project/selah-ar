@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وأنا لي قلب مثلكم، لا أسقط عنكم؛ و⟨את⟩ مَن لا يوجد مثل هذه؟",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "مثلكم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "أسقط"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "عنكم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مَن"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا يوجد"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "مثل"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:34:53.767321633Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "بنو أَيصَر: بلهان وزعوان ويعقان. بنو ديشون: عوص وأران.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "أَيصَر"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "بلهان"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "وزعوان"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "يعقان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "ديشون"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "عوص"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "وأران"
+    }
+  ],
+  "timestamp": "2026-08-07T05:09:42.614597158Z",
+  "model": "glm-5.2"
+}

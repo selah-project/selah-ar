@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 10:13",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وتأكلونها ⟨את⟩ في مكان مقدّس، لأنّها فريضتك وفريضة بنيك، من نيران يهوه، لأنّه هكذا أُمرتُ.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "وتأكلونها"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاها"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "في مكان"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدّس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "חקך",
+      "gloss": "فريضتك"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "وفريضة"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "بنيك"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "من نيران"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "أُمرتُ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:55.059106111Z",
+  "model": "glm-5.2"
+}

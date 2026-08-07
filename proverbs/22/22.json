@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "لا تسلِبِ الفقيرَ لأنّه فقيرٌ، ولا تسحَقِ البائسَ ⟨في⟩ البوّابةِ،",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "تسلِب"
+    },
+    {
+      "surface": "דל",
+      "gloss": "فقير"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "فقير"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "تسحَق"
+    },
+    {
+      "surface": "עני",
+      "gloss": "البائس"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "⟨في⟩ البوّابة"
+    }
+  ],
+  "timestamp": "2026-08-07T06:39:42.657690468Z",
+  "model": "glm-5.2"
+}

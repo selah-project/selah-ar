@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "فعرَفَ يوآب بن تصَرُويَّة أنَّ قلبَ الملكِ ⟨كان⟩ نحوَ أفعشالوم.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "فعرَفَ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "تصَرُويَّة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنَّ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلبَ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملكِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "نحوَ"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "أفعشالوم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:35:39.133452444Z",
+  "model": "glm-5.2"
+}

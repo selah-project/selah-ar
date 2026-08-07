@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 18:18",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "أبوه، لأنه ظلم ظلمًا، سلب سلبًا أخًا، وما ليس طيِّبًا فعله في وسط شعبه، فهوذا يموت بذنبه.",
+  "tokens": [
+    {
+      "surface": "אביו",
+      "gloss": "أبوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ظلمًا"
+    },
+    {
+      "surface": "גזל",
+      "gloss": "سلب"
+    },
+    {
+      "surface": "גזל",
+      "gloss": "سلبًا"
+    },
+    {
+      "surface": "אח",
+      "gloss": "أخًا"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "وما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيِّبًا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعله"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "شعبه"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "فهوذا"
+    },
+    {
+      "surface": "מת",
+      "gloss": "يموت"
+    },
+    {
+      "surface": "בעונו",
+      "gloss": "بذنبه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:02:00.358090016Z",
+  "model": "glm-5.2"
+}

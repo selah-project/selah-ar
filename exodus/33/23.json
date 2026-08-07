@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "وأُزيلُ ⟨את⟩ كفّي فترى ⟨את⟩ أدباري، ووجهي لا يُرى.»",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "وأُزيل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كفّي"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "كفّي"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "فترى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أدباري"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "أدباري"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ووجهي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "يُرى"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:43.622211405Z",
+  "model": "glm-5.2"
+}

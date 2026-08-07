@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "و⟨كانا⟩ كلاهما عُريانَين، الإنسانُ وامرأته، ولم يخجلا.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و⟨كانا⟩"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "كلاهما"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "عُريانَين"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "وامرأته"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "يخجلا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:34:49.236417478Z",
+  "model": "glm-5.2"
+}

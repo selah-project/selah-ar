@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وبقي في بَني يِسراائيل الذين لم يقسموا ⟨את⟩ مُلكهم سبعة أسباط.",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "وبقي"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "في بَني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسراائيل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "يقسموا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مُلكهم"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "مُلكهم"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سبعة"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "أسباط"
+    }
+  ],
+  "timestamp": "2026-08-07T01:09:55.333860153Z",
+  "model": "glm-5.2"
+}

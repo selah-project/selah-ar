@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 3:20",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وبَني محراري لعشائرهم: محلي وموشي. هؤلاء هم عشائر اللاويين لبيت آبائهم",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "وبَني"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "محراري"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "لعشائرهم"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "محلي"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "وموشي"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "عشائر"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "اللاويين"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "لبيت"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "آبائهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:54.506559683Z",
+  "model": "glm-5.2"
+}

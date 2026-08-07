@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وأخذ يهوه إلوهيم ⟨את⟩ الإنسان ونيّحه في جنّة عِدن ليعملها ويحفظها",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الإنسان"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "ونيّحه"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "في جنّة"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "عِدن"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "ليعملها"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "ويحفظها"
+    }
+  ],
+  "timestamp": "2026-08-06T23:36:57.102674897Z",
+  "model": "glm-5.2"
+}

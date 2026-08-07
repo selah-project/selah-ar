@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وَطَحَنَ بالحَصى أسناني، داسَني في الرماد.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "وَطَحَن"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "بالحَصى"
+    },
+    {
+      "surface": "שני",
+      "gloss": "أسناني"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "داسَني"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "في الرماد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:48:39.094366696Z",
+  "model": "glm-5.2"
+}

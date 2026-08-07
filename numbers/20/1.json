@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 20:1",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "وجاء بنو يسرايل كل ⟨ال⟩جماعة إلى برّية صين في الشهر الأول، فنزل الشعب في قاديش، وماتت هناك مريام ودُفنت هناك.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "الجماعة"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "برّية"
+    },
+    {
+      "surface": "צן",
+      "gloss": "صين"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "في الشهر"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "الأول"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "فنزل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "في قاديش"
+    },
+    {
+      "surface": "ותמת",
+      "gloss": "وماتت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "مريام"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "ودُفنت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:38:07.071051716Z",
+  "model": "glm-5.2"
+}

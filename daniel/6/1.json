@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 6:1",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وداريوش المادي قبِل المُلك، وهو ابنُ نحوِ اثنتين وستّين سنة.",
+  "tokens": [
+    {
+      "surface": "ודריוש",
+      "gloss": "وداريوش"
+    },
+    {
+      "surface": "מדיא",
+      "gloss": "المادي"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "قبِل"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "المُلك"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "نحوُ"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "שתין",
+      "gloss": "ستّين"
+    },
+    {
+      "surface": "ותרתין",
+      "gloss": "واثنتين"
+    }
+  ],
+  "timestamp": "2026-08-07T06:11:24.848144439Z",
+  "model": "glm-5.2"
+}

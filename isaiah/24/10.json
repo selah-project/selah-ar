@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "كُسِرَتْ مَدِينَةُ ٱلْبَاطِلِ؛ أُغْلِقَ كُلُّ بَيْتٍ مِنَ ٱلدُّخُولِ.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "كُسِرت"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ٱلباطل"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "أُغلق"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "من ٱلدخول"
+    }
+  ],
+  "timestamp": "2026-08-07T02:11:12.001200196Z",
+  "model": "glm-5.2"
+}

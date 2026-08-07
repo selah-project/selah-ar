@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 39:6",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "وذبح ملكُ بافل ⟨את⟩ بَني صدقياهو في ريڤلاه أمام عينيه، و⟨את⟩ كلَّ أشراف يهودا ذبح ملكُ بافل.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "وذبح"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بَني"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَني"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صدقياهو"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "في ريڤلاه"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "أمام عينيه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلَّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "أشراف"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "ذبح"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافل"
+    }
+  ],
+  "timestamp": "2026-08-07T07:48:26.845069488Z",
+  "model": "glm-5.2"
+}

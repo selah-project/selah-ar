@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "خيرٌ لي شريعةُ فمك من ألوف الذهب والفضّة.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "خيرٌ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "توراتُ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "فمك"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "من ألوف"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "الذهب"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "والفضّة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:25.554205609Z",
+  "model": "glm-5.2"
+}

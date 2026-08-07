@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 24:16",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "يا ابنَ آدم، ها أنا آخذُ منكَ ⟨את⟩ مُشتَهى عَينَيكَ بضربةٍ، فلا تَنُحْ ولا تبكِ ولا تأتي دمعتُكَ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ها أنا"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "آخذ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "منك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مُشتَهى"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "مُشتَهى"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "عَينيك"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "بضربة"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "תספד",
+      "gloss": "تَنُح"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "تبكِ"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "تأتي"
+    },
+    {
+      "surface": "דמעתך",
+      "gloss": "دمعتُك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:04:47.463545241Z",
+  "model": "glm-5.2"
+}

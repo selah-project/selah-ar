@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "ومَن ضربَ أباه أو أمَّه، موتًا يُقتَل.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "ومَن ضربَ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أباه"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "أو أمَّه"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موتًا"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "يُقتَل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:28.365886244Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 28:38",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "زرعًا كثيرًا تُخرج إلى الحقل وقليلًا تجمع، لأن الجراد يأكله ⟨كلَّه⟩.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "زرعًا"
+    },
+    {
+      "surface": "רב",
+      "gloss": "كثيرًا"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "تُخرج"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "إلى الحقل"
+    },
+    {
+      "surface": "ומעט",
+      "gloss": "وقليلًا"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "تجمع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "יחסלנו",
+      "gloss": "يأكله ⟨كلَّه⟩"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "الجراد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:54.013401072Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 8:13",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "⟨و⟩بِريعة ⟨و⟩شِمعع هما رؤوس الآباء لسكّان أيلون، هما أطلقا سراح ⟨את⟩ سكّان غات",
+  "tokens": [
+    {
+      "surface": "ובריעה",
+      "gloss": "⟨و⟩بِريعة"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "⟨و⟩شِمعع"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هما"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "رؤوس"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "الآباء"
+    },
+    {
+      "surface": "ליושבי",
+      "gloss": "لسكّان"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "أيلون"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هما"
+    },
+    {
+      "surface": "הבריחו",
+      "gloss": "أطلقا سراح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سكّان"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "سكّان"
+    },
+    {
+      "surface": "גת",
+      "gloss": "غات"
+    }
+  ],
+  "timestamp": "2026-08-07T05:12:28.124667182Z",
+  "model": "glm-5.2"
+}

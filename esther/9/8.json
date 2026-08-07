@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "و⟨את⟩ پوراتا، و⟨את⟩ أَدَلْيا، و⟨את⟩ أَريداتا —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "پوراتا"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "پوراتا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أَدَلْيا"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "أَدَلْيا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أَريداتا"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "أَريداتا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:54:49.211789638Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "لأنّهم من وجه سيوف هربوا، من وجه سيف مسلول، ومن وجه قوس موتورة، ومن وجه ثقل الحرب.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّهم"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجه"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "سيوف"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "هربوا"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجه"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "سيف"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "مسلول"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ومن وجه"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "قوس"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "موتورة"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ومن وجه"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ثقل"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "الحرب"
+    }
+  ],
+  "timestamp": "2026-08-07T02:09:09.249459162Z",
+  "model": "glm-5.2"
+}

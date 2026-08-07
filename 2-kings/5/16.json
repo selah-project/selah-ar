@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 5:16",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "فقال: «حيّ هو يهوه الذي وقفت أمامه، لا آخذ!» فألحّ عليه أن يأخذ فأبى.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "חי",
+      "gloss": "حيّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "وقفت"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمامه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "آخذ"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "فألحّ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "أن يأخذ"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "فأبى"
+    }
+  ],
+  "timestamp": "2026-08-07T01:54:38.208254790Z",
+  "model": "glm-5.2"
+}

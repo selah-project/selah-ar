@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وكلَّم يهوه موشيه وأهارون قائلاً لهم:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وكلَّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:15.672501747Z",
+  "model": "glm-5.2"
+}

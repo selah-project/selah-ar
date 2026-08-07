@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 27:10",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "لأنّهم بالكذب هم يتنبّؤون لكم، لأجل إبعادكم عن أرضكم، فأُزيحكم أنتم فتهلكون.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "بالكذب"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "يتنبّؤون"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لأجل"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "إبعاد"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "إيّاكم"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "عن"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "أرضكم"
+    },
+    {
+      "surface": "והדחתי",
+      "gloss": "فأُزيح"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "فتهلكون"
+    }
+  ],
+  "timestamp": "2026-08-07T02:41:05.515860740Z",
+  "model": "glm-5.2"
+}

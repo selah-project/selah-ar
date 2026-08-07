@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "ولا تَشْفُقْ عينُكَ: نَفْسٌ بِنَفْسٍ، عينٌ بِعينٍ، سنٌّ بِسنّ، يدٌ بِيدٍ، رِجْلٌ بِرِجْل.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "تَشْفُقْ"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "عينُكَ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْسٌ"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "بِنَفْسٍ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عينٌ"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "بِعينٍ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "سنٌّ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "بِسنّ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يدٌ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بِيدٍ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "رِجْلٌ"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "بِرِجْل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:56:41.304239307Z",
+  "model": "glm-5.2"
+}

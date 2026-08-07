@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 11:22",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "لم يَبْقَ عناقيّون في أرض بني إسرائيل، إنّما في عزّة وفي غتّ وفي أشدود بَقُوا",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "يَبْقَ"
+    },
+    {
+      "surface": "ענקים",
+      "gloss": "عناقيّون"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "רק",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "בעזה",
+      "gloss": "في عزّة"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "في غتّ"
+    },
+    {
+      "surface": "ובאשדוד",
+      "gloss": "وفي أشدود"
+    },
+    {
+      "surface": "נשארו",
+      "gloss": "بَقُوا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:06:15.360898085Z",
+  "model": "glm-5.2"
+}

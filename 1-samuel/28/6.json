@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "وسأل شاؤول يهوه، فلم يُجبه يهوه، لا في الأحلام ولا في الأوريم ولا في الأنبياء.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "وسأل"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "يُجبه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "لا"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "في الأحلام"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "في الأوريم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "في الأنبياء"
+    }
+  ],
+  "timestamp": "2026-08-07T01:30:42.668709562Z",
+  "model": "glm-5.2"
+}

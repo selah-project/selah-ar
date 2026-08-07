@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 15:1",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وفي سنة ثماني عشرة للملك ياروءام بن نابات، مَلَكَ أَفِيَّام على يهودا",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "وفي سنة"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ثماني"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرة"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "للملك"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ياروءام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "نابات"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلَكَ"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "أَفِيَّام"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:49:14.623083940Z",
+  "model": "glm-5.2"
+}

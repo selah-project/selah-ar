@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "ابنٌ حكيمٌ ⟨يُطيعُ⟩ مَوْصَرَةَ أبيه، ⟨وأمّا⟩ المستهزئ فلا يسمعُ توبيخًا.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حكيم"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "مَوْصَرَة"
+    },
+    {
+      "surface": "אב",
+      "gloss": "أب"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "والمستهزئ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "يسمع"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "توبيخًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:45.084407139Z",
+  "model": "glm-5.2"
+}

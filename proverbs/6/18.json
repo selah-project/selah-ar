@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 6:18",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "قلبٌ يَنحَت مآربَ آثم، أقدامٌ تُسرع للركض إلى الشرّ،",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "يَنحَت"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "مآرب"
+    },
+    {
+      "surface": "און",
+      "gloss": "آثم"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "أقدام"
+    },
+    {
+      "surface": "ממהרות",
+      "gloss": "تُسرع"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "للركض"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "إلى الشرّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:33.619766086Z",
+  "model": "glm-5.2"
+}

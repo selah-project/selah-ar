@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 46:20",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 46,
+  "translation": "ووُلِدَ لِيوسِف في أرض مصرايم، الذين ولدتْهم له أسنات بنت فوتي-فرع كاهن أون: ⟨את⟩ منشّى و⟨את⟩ أفرايم.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ووُلِدَ"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "لِيوسِف"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ولدتْهم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "أسنات"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "فوتي"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "فرع"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "كاهن"
+    },
+    {
+      "surface": "אן",
+      "gloss": "أون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منشّى"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشّى"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أفرايم"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "أفرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T07:00:11.662243996Z",
+  "model": "glm-5.2"
+}

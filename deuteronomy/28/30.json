@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 28:30",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "«امرأة تَخطب، ورجل آخر يضاجعها. بيتًا تبني ولا تسكن فيه. كرمًا تغرس ولا تحلّله.»",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "תארש",
+      "gloss": "تَخطب"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ورجل"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "آخر"
+    },
+    {
+      "surface": "ישגלנה",
+      "gloss": "يضاجعها"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيتًا"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "تبني"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "تسكن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "كرمًا"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "تغرس"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תחללנו",
+      "gloss": "تحلّله"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:16.845466792Z",
+  "model": "glm-5.2"
+}

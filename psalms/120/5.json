@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 120,
+  "translation": "وَيْلي لأنّي تَرَحّلْتُ في مَشيك، سَكَنْتُ مع خِيامِ قيدار!",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "وا ويلي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "تَرَحّلْتُ"
+    },
+    {
+      "surface": "משך",
+      "gloss": "في مَشيك"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "سَكَنْتُ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "خِيامِ"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "قيدار"
+    }
+  ],
+  "timestamp": "2026-08-07T04:13:13.831455208Z",
+  "model": "glm-5.2"
+}

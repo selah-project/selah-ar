@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وشلّوم ولَد ⟨את⟩ يقميا، ويقميا ولَد ⟨את⟩ أليشمع.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "وشلّوم"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يقميا"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "يقميا"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "ويقميا"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ولَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أليشمع"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "أليشمع"
+    }
+  ],
+  "timestamp": "2026-08-07T05:09:14.640523507Z",
+  "model": "glm-5.2"
+}

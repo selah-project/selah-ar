@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 1:13",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "و⟨جعلتُ⟩ ⟨את⟩ قلبي للبحث والتفتيش في الحكمة على كلِّ ما ⟨يُعمَل⟩ تحت السماوات؛ هو شغلٌ سيّئ، أعطاه إلوهيم لبني الإنسان ⟨ليُعذَّبوا⟩ به.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "و⟨جعلتُ⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قلبي"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "للبحث"
+    },
+    {
+      "surface": "ולתור",
+      "gloss": "والتفتيش"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "في الحكمة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "⟨يُعمَل⟩"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "شغل"
+    },
+    {
+      "surface": "רע",
+      "gloss": "سيّئ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطاه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لبني"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "⟨ليُعذَّبوا⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "به"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:03.526158750Z",
+  "model": "glm-5.2"
+}

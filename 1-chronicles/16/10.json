@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 16:10",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "افتخروا باسم قدسه، يفرح قلب طالبي يهوه",
+  "tokens": [
+    {
+      "surface": "הִֽתְהַֽלְלוּ֙",
+      "gloss": "افتخروا"
+    },
+    {
+      "surface": "בְּשֵׁ֣ם",
+      "gloss": "باسم"
+    },
+    {
+      "surface": "קָדְשׁ֔וֹ",
+      "gloss": "قدسه"
+    },
+    {
+      "surface": "יִשְׂמַ֕ח",
+      "gloss": "يفرح"
+    },
+    {
+      "surface": "לֵ֖ב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "מְבַקְשֵׁ֥י",
+      "gloss": "طالبي"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:21.310790856Z",
+  "model": "glm-5.2"
+}

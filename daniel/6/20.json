@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 6:20",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "حينئذٍ قام الملك في الفجر بعجلة، وإلى جبّ الأسود مضى مسرعًا",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "حينئذٍ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "בשפרפרא",
+      "gloss": "بعجلة"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "قام"
+    },
+    {
+      "surface": "בנגהא",
+      "gloss": "في الفجر"
+    },
+    {
+      "surface": "ובהתבהלה",
+      "gloss": "ومسرعًا"
+    },
+    {
+      "surface": "לגבא",
+      "gloss": "إلى جبّ"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨ال⟩"
+    },
+    {
+      "surface": "אריותא",
+      "gloss": "الأسود"
+    },
+    {
+      "surface": "אזל",
+      "gloss": "مضى"
+    }
+  ],
+  "timestamp": "2026-08-07T04:59:07.532133387Z",
+  "model": "glm-5.2"
+}

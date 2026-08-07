@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 45:20",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "ولا تَشْفِق أعينكم على أمتعتكم، لأنّ خيرَ كلِّ أرض مصرايم لكم هو.",
+  "tokens": [
+    {
+      "surface": "ועינכם",
+      "gloss": "وأعينكم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "تَشْفِق"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כליכם",
+      "gloss": "أمتعتكم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خير"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-06T23:57:12.965382379Z",
+  "model": "glm-5.2"
+}

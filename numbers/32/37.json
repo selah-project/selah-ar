@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "وبنو رأوبين بنوا ⟨את⟩ حشبون و⟨את⟩ ألعاله و⟨את⟩ قرياتايم",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "وبنو"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رأوبين"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بنوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حشبون"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "حشبون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "ألعاله"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "ألعاله"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "قرياتايم"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "قرياتايم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:14.649421886Z",
+  "model": "glm-5.2"
+}

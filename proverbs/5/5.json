@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "رِجلاها تنحدران إلى موت، شيول تُمسِكُ خطواتُها.",
+  "tokens": [
+    {
+      "surface": "רגליה",
+      "gloss": "رِجلاها"
+    },
+    {
+      "surface": "יורדות",
+      "gloss": "تنحدران"
+    },
+    {
+      "surface": "מות",
+      "gloss": "إلى موت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شيول"
+    },
+    {
+      "surface": "צעדיה",
+      "gloss": "خطواتها"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "تُمسِكُ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:21:45.625165020Z",
+  "model": "glm-5.2"
+}

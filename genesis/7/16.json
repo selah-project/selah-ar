@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 7:16",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "والداخلون ذكرًا وأنثى من كلِّ بشرٍ دخلوا كما أوصى ⟨את⟩ه إلوهيم، فأغلق يهوه عنه.",
+  "tokens": [
+    {
+      "surface": "והבאים",
+      "gloss": "والداخلون"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ذكرًا"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "وأنثى"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كلِّ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بشرٍ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "دخلوا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "إلوهيم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "فأغلق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "عنه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:11.590745778Z",
+  "model": "glm-5.2"
+}

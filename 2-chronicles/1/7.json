@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 1:7",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "في تلك الليلة ظهر إلوهيم لشلوموه وقال له: «سل، ماذا أُعطيك؟»",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "في تلك الليلة"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "تلك"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ظهر"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "لشلوموه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "سل"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "أُعطي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    }
+  ],
+  "timestamp": "2026-08-07T05:19:40.593378027Z",
+  "model": "glm-5.2"
+}

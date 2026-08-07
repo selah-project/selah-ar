@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 15:5",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "لأبناء قهات: أوريئيل ⟨الرئيس⟩ وإخوته مئة وعشرون.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "لأبناء"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قهات"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "أوريئيل"
+    },
+    {
+      "surface": "השר",
+      "gloss": "الرئيس"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "وإخوته"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "وعشرون"
+    }
+  ],
+  "timestamp": "2026-08-07T05:14:58.530231615Z",
+  "model": "glm-5.2"
+}

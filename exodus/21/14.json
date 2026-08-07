@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 21:14",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وإذا تَعَمَّد رجُلٌ على صاحبِه ليقتلَه بمَكر، فمن على مذبحي تأخذُه ليُقتَل.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "יזד",
+      "gloss": "تَعَمَّد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجُل"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "صاحبه"
+    },
+    {
+      "surface": "להרגו",
+      "gloss": "ليقتله"
+    },
+    {
+      "surface": "בערמה",
+      "gloss": "بمَكر"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "من على"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "مذبحي"
+    },
+    {
+      "surface": "תקחנו",
+      "gloss": "تأخذُه"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ليُقتَل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:28.365726702Z",
+  "model": "glm-5.2"
+}

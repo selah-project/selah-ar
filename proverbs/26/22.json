@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 26:22",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "كلامُ الساعي بالنميمة كـ⟨لـُقم⟩ شهيّة، وهنّ ينزلنَ غرفِ البطن.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "كلمات"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "نمّام"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "كـلُقم"
+    },
+    {
+      "surface": "והם",
+      "gloss": "وهنّ"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ينزلن"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "غرف"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "بطن"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:35.594598462Z",
+  "model": "glm-5.2"
+}

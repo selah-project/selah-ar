@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 121,
+  "translation": "يهوه يحرسك من كل شرّ، يحرس ⟨את⟩ نَفسك.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "يحرسك"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كل"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شرّ"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "يحرس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نَفسك"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "نَفسك"
+    }
+  ],
+  "timestamp": "2026-08-07T06:07:53.273742687Z",
+  "model": "glm-5.2"
+}

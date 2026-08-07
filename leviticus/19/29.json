@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "لا تُدنّس ⟨את⟩ ابنتك بتزنيتها، ولا تَزنِ الأرض، فتمتلئ الأرض رذيلةً.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "تُدنّس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابنتك"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "ابنتك"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "بتزنيتها"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "تَزنِ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "فتمتلئ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "رذيلةً"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:00.784285592Z",
+  "model": "glm-5.2"
+}

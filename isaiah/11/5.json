@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨يكون⟩ صِدِق منطقةً لحقويه، و⟨ال⟩إيمونة منطقةً لوركه.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و⟨يكون⟩"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "صِدِق"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "منطقة"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "لحقويه"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "و⟨ال⟩إيمونة"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "منطقة"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "لوركه"
+    }
+  ],
+  "timestamp": "2026-08-07T07:36:56.954004869Z",
+  "model": "glm-5.2"
+}

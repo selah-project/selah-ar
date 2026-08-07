@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 17:44",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وقال الفلشتي لداود: «تعال إليّ، فأُعطي ⟨את⟩ لحمك لطير السموات ولبهائم الحقل».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "الفلشتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "تعال"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "فأُعطي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لحمك"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "لحمك"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "لطير"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السموات"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "ولبهائم"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "الحقل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:26:35.480112036Z",
+  "model": "glm-5.2"
+}

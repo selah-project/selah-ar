@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 35:16",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "لأنّ بني يهوناداف بن ريكاف أقاموا ⟨את⟩ وصية أبيهم التي وصّاهم بها. وأمّا هذا الشعب فلم يسمعوا إليّ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "הקימו",
+      "gloss": "أقاموا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "יהונדב",
+      "gloss": "يهوناداف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "ريكاف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وصية"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "وصية"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "أبيهم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "צום",
+      "gloss": "وصّاهم"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "وأمّا الشعب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "يسمعوا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:45:37.787439580Z",
+  "model": "glm-5.2"
+}

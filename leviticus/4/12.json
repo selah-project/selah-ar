@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 4:12",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "ويُخرج ⟨את⟩ كلّ الثور إلى خارج المحلّة إلى مكان طاهر إلى مَسكَبة الرماد، ويحرقه على خشب في النار؛ على مَسكَبة الرماد يُحرَق.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "ويُخرج"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "الثور"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "خارج"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "المحلّة"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "مكان"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "طاهر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "مَسكَبة"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "الرماد"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "ويحرقه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "الثور"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "خشب"
+    },
+    {
+      "surface": "באש",
+      "gloss": "في النار"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "مَسكَبة"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "الرماد"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "يُحرَق"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:44.620455362Z",
+  "model": "glm-5.2"
+}

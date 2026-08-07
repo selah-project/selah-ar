@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "في حلقات التابوت تكون العصيّ، لا تُزال منه.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "في حلقات"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "التابوت"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "العصيّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "تُزال"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:21.089565477Z",
+  "model": "glm-5.2"
+}

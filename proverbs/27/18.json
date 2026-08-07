@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 27:18",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "حارسُ التينة يأكلُ ثمرَها، وحارسُ سيّدِه يُكرَّم.",
+  "tokens": [
+    {
+      "surface": "נֹצֵ֣ר",
+      "gloss": "حارس"
+    },
+    {
+      "surface": "תְּאֵנָה",
+      "gloss": "التينة"
+    },
+    {
+      "surface": "יֹאכַ֣ל",
+      "gloss": "يأكل"
+    },
+    {
+      "surface": "פִּרְיָ֑הּ",
+      "gloss": "ثمر"
+    },
+    {
+      "surface": "וְשֹׁמֵ֖ר",
+      "gloss": "وحارس"
+    },
+    {
+      "surface": "אֲדֹנָ֣יו",
+      "gloss": "سيّده"
+    },
+    {
+      "surface": "יְכֻבָּֽד",
+      "gloss": "يُكرَّم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:50.807465218Z",
+  "model": "glm-5.2"
+}

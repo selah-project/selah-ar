@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "الشيوخُ من البابِ كفّوا، الفتيانُ من عزفِهم.",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "الشيوخ"
+    },
+    {
+      "surface": "משער",
+      "gloss": "من الباب"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "كفّوا"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "الفتيان"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "من عزفِهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:50:27.120863369Z",
+  "model": "glm-5.2"
+}

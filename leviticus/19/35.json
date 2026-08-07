@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "«لا تصنعوا ظلمًا في الحُكم: في القياس، في الوزن، وفي المكيل»",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "تصنعوا"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ظلمًا"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "في الحكم"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "في القياس"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "في الوزن"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "وفي المكيل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:46.490201353Z",
+  "model": "glm-5.2"
+}

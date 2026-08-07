@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 121,
+  "translation": "لاَ يَدَعْ رِجْلَكَ لِلزَّلَلِ لاَ يَنْعَسُ حَارِسُكَ",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لاَ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "يَدَعْ"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "لِلزَّلَلِ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "رِجْلَكَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لاَ"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "يَنْعَسُ"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "حَارِسُكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:13:17.788844435Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "مِعزى مئتان وتيوس عشرون، نعاج مئتان وكباش عشرون،",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "مِعزى"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "مئتان"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "وتيوس"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "عشرون"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "نعاج"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "مئتان"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "وكباش"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "عشرون"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:52.100556025Z",
+  "model": "glm-5.2"
+}

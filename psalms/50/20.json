@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "تجلسُ فتتكلَّمُ ضدَّ أخيك، وابنَ أمِّكَ تُلصِقُ به عَثْرة.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "تجلسُ"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "ضدَّ أخيك"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "فتتكلَّمُ"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "وابنَ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "أمِّكَ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "تُعطي"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "عَثْرة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:51:41.654172949Z",
+  "model": "glm-5.2"
+}

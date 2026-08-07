@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 9:13",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "أَلُوَهّ لا يَردُّ أنفَه⟨غضبه⟩؛ تحته انحنى أنصارُ رهَب.",
+  "tokens": [
+    {
+      "surface": "אלוה",
+      "gloss": "أَلُوَهّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "يَردُّ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "أنفَه"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "تحته"
+    },
+    {
+      "surface": "שחחו",
+      "gloss": "انحنى"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "أنصارُ"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "رهَب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:44.590044593Z",
+  "model": "glm-5.2"
+}

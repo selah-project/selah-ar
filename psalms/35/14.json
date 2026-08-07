@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "كصديقٍ كأخٍ لي سلكتُ؛ كنائحٍ ⟨على⟩ أمٍّ، مُظلمًا انحنيتُ.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "كصديقٍ"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "كأخٍ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "سلكتُ"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "كنائحٍ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أمٍّ"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "مُظلمًا"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "انحنيتُ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:41.641317443Z",
+  "model": "glm-5.2"
+}

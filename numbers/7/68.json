@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "numbers 7:68",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "كَفٌّ واحدةٌ، عَشَرَةُ ذَهَبٍ، مَمْلُوءَةٌ قَطورَت.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "كَف"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "واحدة"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرة"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهب"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "مملوءة"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "قطورت"
+    }
+  ],
+  "timestamp": "2026-08-07T00:30:49.552684695Z",
+  "model": "glm-5.2"
+}

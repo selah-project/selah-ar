@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "و⟨كان⟩ عند دخول أفرام مصرايم، فرأى المصريّون ⟨את⟩ المرأة أنّها جميلةٌ جدًّا.",
+  "tokens": [
+    {
+      "surface": "והיי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "عند دخول"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "أفرام"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "فرأى"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "المصريّون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المرأة"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "المرأة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "جميلة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:56.492967855Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 13:30",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فأَسكتَ كالِف ⟨את⟩ الشعب إلى موشيه، فقال: نصعدُ نصعدُ ونرثها، لأنّنا نقدر عليها.",
+  "tokens": [
+    {
+      "surface": "ויהס",
+      "gloss": "فأسكت"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "كاليف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "اصعد"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "نصعد"
+    },
+    {
+      "surface": "וירשנו",
+      "gloss": "ونرثها"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "إيّاها"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "نقدر"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "نقدر"
+    },
+    {
+      "surface": "לה",
+      "gloss": "عليها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:35:38.683874322Z",
+  "model": "glm-5.2"
+}

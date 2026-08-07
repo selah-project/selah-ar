@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "طلب قوهيلت أن يجد كلمات ذات رغبة، ومكتوبًا باستقامة — كلمات إمِت.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "طلب"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "قوهيلت"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "أن يجد"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلمات"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ذات رغبة"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "ومكتوبًا"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "باستقامة"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلمات"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "إمِت"
+    }
+  ],
+  "timestamp": "2026-08-07T04:53:19.899407190Z",
+  "model": "glm-5.2"
+}

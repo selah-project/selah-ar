@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 16:21",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "لم يَدَعْ أحدًا يظلمهم، ووبّخ ملوكًا من أجلِهم،",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "הִנִּ֤יחַ",
+      "gloss": "ترك\/سمح"
+    },
+    {
+      "surface": "לְאִישׁ֙",
+      "gloss": "لأحد"
+    },
+    {
+      "surface": "לְעָשְׁקָ֔ם",
+      "gloss": "لظلمهم"
+    },
+    {
+      "surface": "וַיּ֥וֹכַח",
+      "gloss": "ووبّخ"
+    },
+    {
+      "surface": "עֲלֵיהֶ֖ם",
+      "gloss": "من أجلِهم"
+    },
+    {
+      "surface": "מְלָכִֽים",
+      "gloss": "ملوكًا"
+    }
+  ],
+  "timestamp": "2026-08-07T08:26:07.753280984Z",
+  "model": "glm-5.2"
+}

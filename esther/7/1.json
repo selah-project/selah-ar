@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وجاء الملك وهامان ليشربا مع إستر الملكة",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملكُ"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "وهامان"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ليشربا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "إستر"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "الملكة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:55:21.910025605Z",
+  "model": "glm-5.2"
+}

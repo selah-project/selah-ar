@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "ووضعوا ⟨את⟩ عُدّته في بيت إلوهيمهم، و⟨את⟩ جمجمته نصبوا في بيت داغون.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ووضعوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عُدّته"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "عُدّته"
+    },
+    {
+      "surface": "בית",
+      "gloss": "في بيت"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "إلوهيمهم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "جمجمته"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "جمجمته"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "نصبوا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "في بيت"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "داغون"
+    }
+  ],
+  "timestamp": "2026-08-07T05:13:55.834418119Z",
+  "model": "glm-5.2"
+}

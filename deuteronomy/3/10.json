@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "كلّ مدن السهل، وكلّ الجلعاد، وكلّ الباشان، إلى صَلْخة وإدْرَعي، مدن مملكة عوج في الباشان.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "السهل"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "الجلعاد"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "الباشان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "صَلْخة"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "وإدْرَعي"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "مملكة"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "عوج"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "في الباشان"
+    }
+  ],
+  "timestamp": "2026-08-07T00:48:29.772691565Z",
+  "model": "glm-5.2"
+}

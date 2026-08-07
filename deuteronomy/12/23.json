@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "بل تشدّد، لئلاّ تأكل الدم، لأن الدم هو النَّفْس، فلا تأكل النَّفْس مع اللحم.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "بل"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "تشدّد"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "لئلاّ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "تأكل"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "الدم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "الدم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "النَّفْس"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "تأكل"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "النَّفْس"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "اللحم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:21.391967086Z",
+  "model": "glm-5.2"
+}

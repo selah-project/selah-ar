@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 13:13",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "مَن يحتقر ⟨את⟩ الكلمة يُوثَق له، ومن يخشى ⟨את⟩ الوصية هو يُسَلَّم.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "يحتقر"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "الكلمة"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "يُوثَق"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ومن يخشى"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "الوصية"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "يُسَلَّم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:21.408108621Z",
+  "model": "glm-5.2"
+}

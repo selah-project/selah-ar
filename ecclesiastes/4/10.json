@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فإن وقع أحدهما يُقيم ⟨את⟩ رفيقه؛ أمّا الواحدُ فإنه إذا وقع ولا ثانيَ له ليُقيمه،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "فإن"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "وقع"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "أحدهما"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "يُقيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رفيقه"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "رفيقه"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "أمّا"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "الواحد"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "فإنه إذا وقع"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ثانيَ"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "له ليُقيمه"
+    }
+  ],
+  "timestamp": "2026-08-07T06:10:31.648111369Z",
+  "model": "glm-5.2"
+}

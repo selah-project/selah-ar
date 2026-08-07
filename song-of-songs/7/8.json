@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "هذه قامتك شُبّهت ⟨بـ⟩تَمَر، وثدياك ⟨بـ⟩عناقيد",
+  "tokens": [
+    {
+      "surface": "זֹ֤את",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "קֽוֹמָתֵךְ֙",
+      "gloss": "قامتك"
+    },
+    {
+      "surface": "דָּֽמְתָ֣ה",
+      "gloss": "شُبّهت"
+    },
+    {
+      "surface": "לְתָמָ֔ר",
+      "gloss": "⟨بـ⟩تَمَر"
+    },
+    {
+      "surface": "וְשָׁדַ֖יִךְ",
+      "gloss": "وثدياك"
+    },
+    {
+      "surface": "לְאַשְׁכֹּלֽוֹת",
+      "gloss": "⟨بـ⟩عناقيد"
+    }
+  ],
+  "timestamp": "2026-08-07T06:39:43.076131418Z",
+  "model": "glm-5.2"
+}

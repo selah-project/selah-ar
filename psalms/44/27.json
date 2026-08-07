@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 44:27",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "قُمْ عَوْنًا لَنَا، وَافْدِنَا لِأَجْلِ حِسِدِكَ!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "قُمْ"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "عَوْنًا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لَنَا"
+    },
+    {
+      "surface": "ופדנו",
+      "gloss": "وَافْدِنَا"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لِأَجْلِ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حِسِدِكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:10.622243972Z",
+  "model": "glm-5.2"
+}

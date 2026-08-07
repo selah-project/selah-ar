@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 22:17",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "ووصّى داوِد كلَّ سلاطين يِسرائيل أن يعينوا شلومو ابنه،",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ووصّى"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سلاطين"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "أن يعينوا"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:17:49.940809604Z",
+  "model": "glm-5.2"
+}

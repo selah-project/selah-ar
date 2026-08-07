@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "طوبى لمن ينتظر ويبلغ إلى أيّام ألف وثلاثمائة وخمسة وثلاثين.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "طوبى لـ"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "من ينتظر"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "ويبلغ"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "إلى أيّام"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "وثلاث"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مائة"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "وثلاثين"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "وخمسة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:00:08.926606695Z",
+  "model": "glm-5.2"
+}

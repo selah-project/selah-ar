@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "و⟨هذه⟩ وُلدت له في يروشالايم: شِمعا وشوفَف وناتان وشلومو، أربعة، من بَتْ-شوع بنت عميئيل.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و⟨هذه⟩"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "وُلدت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "في يروشالايم"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "شِمعا"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "وشوفَف"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "وناتان"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "وشلومو"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "أربعة"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "من بنت"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "شوع"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "عميئيل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:19.005732605Z",
+  "model": "glm-5.2"
+}

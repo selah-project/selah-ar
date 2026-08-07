@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 5:3",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "فقال لي: هذه ⟨هي⟩ اللّعنة الخارجة على وجه كل الأرض، لأنّ كل سارق منها كهي ⟨يُبرَّأ⟩، وكل حالف منها كهي ⟨يُبرَّأ⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "اللّعنة"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "الخارجة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "سارق"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "منها"
+    },
+    {
+      "surface": "כמוה",
+      "gloss": "كهي"
+    },
+    {
+      "surface": "נקה",
+      "gloss": "⟨يُبرَّأ⟩"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "حالف"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "منها"
+    },
+    {
+      "surface": "כמוה",
+      "gloss": "كهي"
+    },
+    {
+      "surface": "נקה",
+      "gloss": "⟨يُبرَّأ⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T03:36:11.623559761Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 2:7",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "لأنّ يهوه إلهَك باركك في كلّ عمل يدك، عرف ⟨את⟩ مسيرك في البريّة العظيمة هذه؛ هذه أربعون سنة يهوه إلهك معك ولم تُعوِز ⟨شيئًا⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلهك"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "باركك"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلّ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدك"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "عرف"
+    },
+    {
+      "surface": "לכתך",
+      "gloss": "مسيرك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "البريّة العظيمة هذه"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "البريّة"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "العظيمة"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "أربعون"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلهك"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "חסרת",
+      "gloss": "تُعوِز\/تُفتقد"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شيئًا\/أمرًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:53.037229659Z",
+  "model": "glm-5.2"
+}

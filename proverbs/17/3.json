@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 17:3",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "مِصهَرٌ للفضّة وبوتقةٌ للذهب، ويهوه فاحصُ القلوب.",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "مِصهَرٌ"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "للفضّةِ"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "وبوتقةٌ"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "للذهبِ"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "وفاحصُ"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "القلوبِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:41.978824262Z",
+  "model": "glm-5.2"
+}

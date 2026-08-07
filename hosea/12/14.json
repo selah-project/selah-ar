@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وبنافيٍ أصعد يهوه ⟨את⟩ يسرايل من مصرايم، وبنافيٍ حُفِظ.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "وبنافيٍ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "أصعد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرايل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "من مصرايم"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "وبنافيٍ"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "حُفِظ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:21:24.487545930Z",
+  "model": "glm-5.2"
+}

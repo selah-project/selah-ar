@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 38:7",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "و⟨كان⟩ عير بكر ييهودا شريرًا في عيني يهوه، فأماته يهوه.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عير"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "بكر"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ييهودا"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شريرًا"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عيني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וימתהו",
+      "gloss": "فأماته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:31.293893967Z",
+  "model": "glm-5.2"
+}

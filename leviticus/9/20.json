@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "ووضعوا ⟨את⟩ الشحوم ⟨على⟩ الصدور، فأوقد الشحوم ⟨على⟩ المذبح.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ووضعوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشحوم"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "الشحوم"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨على⟩"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "الصدور"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "فأوقد"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "الشحوم"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "⟨على⟩ المذبح"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:50.305734738Z",
+  "model": "glm-5.2"
+}

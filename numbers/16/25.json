@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 16:25",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "فقام موشيه ومشى إلى داتان وأفيرام، ومشى وراءه شيوخ يسرائيل.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "فقام"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ومشى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "داتان"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "وأفيرام"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ومشى"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "وراءه"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "شيوخ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:37:01.706500067Z",
+  "model": "glm-5.2"
+}

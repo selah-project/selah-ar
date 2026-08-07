@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "ثمّ أرسل ⟨את⟩ الحمامة من عنده ليرى هل خفّت المياه عن وجه الأرض.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ثمّ أرسل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الحمامة"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "الحمامة"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "من عنده"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ليرى"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "هل خفّت"
+    },
+    {
+      "surface": "המים",
+      "gloss": "المياه"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "عن"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T05:33:37.829120814Z",
+  "model": "glm-5.2"
+}

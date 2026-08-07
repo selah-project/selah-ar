@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "تجمّلت أنتَ فوق بني آدم، ⟨صُبَّ⟩ حِن في شفتيك، لذلك باركك إلوهيم إلى الأبد",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "تجمّلت أنت"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "فوق بني"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "⟨صُبَّ⟩"
+    },
+    {
+      "surface": "חן",
+      "gloss": "حِن"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "في شفتيك"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "باركك"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:53:02.827056215Z",
+  "model": "glm-5.2"
+}

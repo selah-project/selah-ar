@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 30:27",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "للذين في بيت-إيل، وللذين في راموت نگف، وللذين في ياتّير.",
+  "tokens": [
+    {
+      "surface": "לאשר",
+      "gloss": "للذين"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في بيت-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "وللذين"
+    },
+    {
+      "surface": "ברמות",
+      "gloss": "في راموت"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "نَگَب"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "وللذين"
+    },
+    {
+      "surface": "ביתר",
+      "gloss": "في ياتّير"
+    }
+  ],
+  "timestamp": "2026-08-07T01:31:01.171721140Z",
+  "model": "glm-5.2"
+}

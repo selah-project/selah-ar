@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "«وأكتب على اللوحين ⟨את⟩ الكلمات التي كانت على اللوحين الأوّلين التي كسّرتها، وتضعها في التابوت».",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "«وأكتب"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "اللوحين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الكلمات"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "الكلمات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "היו",
+      "gloss": "كانت"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "اللوحين"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "الأوّلين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "كسّرتها»"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "وتضعها"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "في التابوت»"
+    }
+  ],
+  "timestamp": "2026-08-07T05:43:42.479999681Z",
+  "model": "glm-5.2"
+}

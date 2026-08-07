@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 106,
+  "translation": "لم يُبيدوا ⟨את⟩ الشعوب التي قالها يهوه لهم",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "يُبيدوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشعوب"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "الشعوب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قالها"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:09.994494807Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 3:24",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فجاء يوآب إلى الملك وقال: «ماذا فعلت؟ هوذا قد جاء أفنير إليك، لماذا هذا أرسلته فمضى ذاهبًا؟»",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "فجاء"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "فعلت"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "בא",
+      "gloss": "قد جاء"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "أفنير"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "שלחתו",
+      "gloss": "أرسلته"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "فمضى"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ذاهبًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:32:35.872113167Z",
+  "model": "glm-5.2"
+}

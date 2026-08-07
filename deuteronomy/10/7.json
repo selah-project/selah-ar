@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "من هناك ارتحلوا إلى غُدْگُده، ومن غُدْگُده إلى يُطْبَته، أرضٍ ذاتِ أوديةٍ ماء.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "من هناك"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "ارتحلوا"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "غُدْگُده"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ومِنْ"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "غُدْگُده"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "يُطْبَته"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "أودية"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:53:43.336316461Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 20:20",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "وأنا أرمي ثلاثة الأسهم إلى جانبه، كأنما أرسل لنفسي نحو هدف.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ثلاثة"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "الأسهم"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "إلى جانبه"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "أرمي"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "كأنما أرسل"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لنفسي"
+    },
+    {
+      "surface": "למטרה",
+      "gloss": "نحو هدف"
+    }
+  ],
+  "timestamp": "2026-08-07T05:46:34.316036174Z",
+  "model": "glm-5.2"
+}

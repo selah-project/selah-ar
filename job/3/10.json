@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "لأنَّهُ لم يُغلِق أبوابَ بطني، وأخفى تعَبًا من عينَيَّ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "يُغلِق"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "أبوابَ"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "بطني"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "وأخفى"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "تعبًا"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "من عينَيَّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:31:20.960756152Z",
+  "model": "glm-5.2"
+}

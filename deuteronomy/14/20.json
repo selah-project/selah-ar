@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "كلَّ طيرٍ طاهرٍ تأكلون",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "طير"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "طاهر"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تأكلون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:26.343593969Z",
+  "model": "glm-5.2"
+}

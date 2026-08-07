@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 24:9",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "لِذلك هكذا قال أدوناي يهوه: ويلٌ ⟨لـ⟩مدينة الدماء! أيضًا أنا أُعظّم ⟨الـ⟩موقدة.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لِذلك"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ويلٌ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "الدماء"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אגדיל",
+      "gloss": "أُعظّم"
+    },
+    {
+      "surface": "המדורה",
+      "gloss": "⟨الـ⟩موقدة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:04:32.790913916Z",
+  "model": "glm-5.2"
+}

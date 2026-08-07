@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 29:22",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "رجلُ الغضب يُهيّج خصومة، و⟨صاحب⟩ الحَمْي كثيرُ التمرّد.",
+  "tokens": [
+    {
+      "surface": "אִֽישׁ",
+      "gloss": "رجلُ"
+    },
+    {
+      "surface": "אַ֭ף",
+      "gloss": "الغضب"
+    },
+    {
+      "surface": "יְגָרֶ֣ה",
+      "gloss": "يُهيّج"
+    },
+    {
+      "surface": "מָד֑וֹן",
+      "gloss": "خصومة"
+    },
+    {
+      "surface": "וּבַ֖עַל",
+      "gloss": "و⟨صاحب⟩"
+    },
+    {
+      "surface": "חֵמָ֣ה",
+      "gloss": "الحَمْي"
+    },
+    {
+      "surface": "רַב",
+      "gloss": "كثيرُ"
+    },
+    {
+      "surface": "פָּֽשַׁע",
+      "gloss": "التمرّد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:14.543477046Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "فوجده رجل، وإذا هو تائهٌ في الحقل، فسأله الرجل قائلًا: ماذا تطلب؟",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "فوجده"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "تائهٌ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "في الحقل"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "فسأله"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "تطلب"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:27.418207907Z",
+  "model": "glm-5.2"
+}

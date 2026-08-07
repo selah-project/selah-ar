@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 22:8",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وقال أفراهام: «إلوهيم يرى له الخروف للعولاه، يا بنيّ.» ومضى كلاهما معًا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "يرى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "השה",
+      "gloss": "الخروف"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "للعولاه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "يا بنيّ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ومضى"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "كلاهما"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "معًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:29.350903741Z",
+  "model": "glm-5.2"
+}

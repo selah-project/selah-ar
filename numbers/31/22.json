@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "فقط ⟨את⟩ الذهب و⟨את⟩ الفضة ⟨את⟩ النحاس ⟨את⟩ الحديد ⟨את⟩ القصدير و⟨את⟩ الرصاص،",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "فقط"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الذهب"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "الذهب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الفضة"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "الفضة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "النحاس"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "النحاس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الحديد"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "الحديد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "القصدير"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "القصدير"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الرصاص"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "الرصاص"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:41.690027297Z",
+  "model": "glm-5.2"
+}

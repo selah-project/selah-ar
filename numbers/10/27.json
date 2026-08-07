@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 10:27",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وعلى جُندِ سبطِ بَنِي نَفْتالي، أَخيرَع بنُ عَينان.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "جُندِ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "سبطِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنِي"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نَفْتالي"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "أَخيرَع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنُ"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "عَينان"
+    }
+  ],
+  "timestamp": "2026-08-07T00:31:45.341000987Z",
+  "model": "glm-5.2"
+}

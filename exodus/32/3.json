@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "فانتزع كل الشعب ⟨את⟩ أقراط الذهب التي في آذانهم، وأتو⟨ها⟩ها إلى أهارون.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "فانتزع"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أقراط الذهب"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "أقراط"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "الذهب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "في آذانهم"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "وأتو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:44.195881674Z",
+  "model": "glm-5.2"
+}

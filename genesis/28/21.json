@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "«وعدتُ بسلام إلى بيت أبي، و⟨كان⟩ يهوه لي لإلوهيم»،",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "«وعدتُ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "بسلام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "لإلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:09.823376603Z",
+  "model": "glm-5.2"
+}

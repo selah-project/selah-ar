@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "لولا أنّي آمَنتُ ⟨لأنظر⟩ إلى طيبِ يهوه في أرضِ الأحياء…",
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "لولا"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "آمَنتُ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "⟨لأنظر⟩"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "إلى طيبِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرضِ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "الأحياء"
+    }
+  ],
+  "timestamp": "2026-08-07T06:04:13.339646787Z",
+  "model": "glm-5.2"
+}

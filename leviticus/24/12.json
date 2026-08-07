@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 24:12",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فوضعوه في الحرس لتبيانِ ⟨الأمر⟩ لهم على فم يهوه.",
+  "tokens": [
+    {
+      "surface": "ויניחהו",
+      "gloss": "فوضعوه"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "في الحرس"
+    },
+    {
+      "surface": "לפרש",
+      "gloss": "لتبيانِ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:26:17.365003464Z",
+  "model": "glm-5.2"
+}

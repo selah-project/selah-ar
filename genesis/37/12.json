@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "وَذَهَبَ إِخوَتُهُ لِرَعْيِ ⟨את⟩ ضَأنِ أَبِيهِم في شَكِم.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "وَذَهَبَ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "إِخوَتُهُ"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "لِرَعْيِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ضأن"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ضَأن"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "أَبِيهِم"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "في شَكِم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:48:33.916365268Z",
+  "model": "glm-5.2"
+}

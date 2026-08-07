@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فقام ومضى، ويهوناتان دخل المدينة.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "فقام"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ومضى"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ويهوناتان"
+    },
+    {
+      "surface": "בא",
+      "gloss": "دخل"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:28:26.590542853Z",
+  "model": "glm-5.2"
+}

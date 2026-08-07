@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 6:7",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وهُم كأدوم تجاوزوا بريت، هناك غدروا بي.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "وهُم"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "كأدوم"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "تجاوزوا"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "غدروا"
+    },
+    {
+      "surface": "בי",
+      "gloss": "بي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:20:29.561344360Z",
+  "model": "glm-5.2"
+}

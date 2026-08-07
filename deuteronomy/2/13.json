@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "الآن قوموا واعبروا لأنفسكم ⟨את⟩ وادي زارِد، فعبرنا ⟨את⟩ وادي زارِد.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "قوموا"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "واعبروا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لأنفسكم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وادي زارِد"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "وادي"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "زارِد"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "فعبرنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وادي زارِد"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "وادي"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "زارِد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:21.560937314Z",
+  "model": "glm-5.2"
+}

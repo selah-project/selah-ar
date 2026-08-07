@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 13:11",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فاختار لنفسه لوط ⟨את⟩ كلِّ دائرةِ هاياردين، ورحل لوط من المشرق، فافترقوا رجلاً عن أخيه.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "فاختار"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لنفسه"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوط"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلِّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "دائرةِ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "هاياردين"
+    },
+    {
+      "surface": "ויסע",
+      "gloss": "ورحل"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوط"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "من المشرق"
+    },
+    {
+      "surface": "ויפרדו",
+      "gloss": "فافترقوا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلاً"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "عن"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "أخيه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:22.494515551Z",
+  "model": "glm-5.2"
+}

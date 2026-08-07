@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "صداقتُكِ صِدِقٌ إلى الأبد، وتوراتُكِ إمِت",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "صداقتُكِ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "صِدِق"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "وتوراتُكِ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "إمِت"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:50.741082984Z",
+  "model": "glm-5.2"
+}

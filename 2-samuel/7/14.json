@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 7:14",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "أنا أكون له أبًا، وهو يكون لي ابنًا. الذي في إثمه، أُوَبِّخُه بعصا البشر وبنِگعات بني آدم.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "أكون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "أبًا"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ابنًا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בהעותו",
+      "gloss": "في إثمه"
+    },
+    {
+      "surface": "והכחתיו",
+      "gloss": "أُوَبِّخُه"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "بعصا"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "البشر"
+    },
+    {
+      "surface": "ובנגעי",
+      "gloss": "وبنِگعات"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:04.091276574Z",
+  "model": "glm-5.2"
+}

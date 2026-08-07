@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "بَقِيَتْ فِي ٱلْمَدِينَةِ خَرَابَةٌ، وَبِلَا أَثَرٍ كُسِرَ ٱلْبَابُ.",
+  "tokens": [
+    {
+      "surface": "נשאר",
+      "gloss": "بقيت"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "في ٱلمدينة"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "خرابة"
+    },
+    {
+      "surface": "ושאיה",
+      "gloss": "وبلٱ أثر"
+    },
+    {
+      "surface": "יכת",
+      "gloss": "كُسر"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ٱلباب"
+    }
+  ],
+  "timestamp": "2026-08-07T02:11:12.001357384Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 27:10",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "صديقك وصديق أبيك لا تترك، وبيت أخيك لا تأتِه في يوم مصيبتك. طوبى لجارٍ قريبٍ من أخٍ بعيد.",
+  "tokens": [
+    {
+      "surface": "רעך",
+      "gloss": "صديقك"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "وصديق"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أبيك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "تترك"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "وبيت"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "أخيك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "تأتي"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "אידך",
+      "gloss": "مصيبتك"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طوبى لـ \/ خير"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "جار"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "قريب"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "من أخ"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "بعيد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:47.598808818Z",
+  "model": "glm-5.2"
+}

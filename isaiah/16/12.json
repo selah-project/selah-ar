@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 16:12",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "و⟨يكون⟩ حين يُرى أنّ موآب قد أُنهِد على المرتفع، ويأتي إلى مقدسه ليُصلّي فلا يَقدِر.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و⟨يكون⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "حين"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "يُرى"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "נלאה",
+      "gloss": "قد أُنهِد"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "المرتفع"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ويأتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "مقدسه"
+    },
+    {
+      "surface": "لהתפלל",
+      "gloss": "ليُصلّي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "يَقدِر"
+    }
+  ],
+  "timestamp": "2026-08-07T02:09:00.103769524Z",
+  "model": "glm-5.2"
+}

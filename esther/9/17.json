@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 9:17",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "في يوم الثالث عشر لشهر آدار، وراحةً في الرابع عشر منه، وصنعوا ⟨את⟩ه يومَ مَشتًى وفرح.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ثلاثة"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "لشهر"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "آدار"
+    },
+    {
+      "surface": "ונוח",
+      "gloss": "وراحة"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "في أربعة"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "وصنعوا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "يوم"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "مَشتًى"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "وفرح"
+    }
+  ],
+  "timestamp": "2026-08-07T04:55:16.646263130Z",
+  "model": "glm-5.2"
+}

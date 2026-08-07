@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 83,
+  "translation": "على شعبك يُخفون مؤامرةً، ويتشاورون على مخبآتك",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "شعبك"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "يُخفون"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "مؤامرةً"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "ويتشاورون"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "مخبآتك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:01:44.845263230Z",
+  "model": "glm-5.2"
+}

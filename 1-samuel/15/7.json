@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وضرب شاؤول ⟨את⟩ عماليك، من حَويلاه مجيئكَ شورًا، الذي على وجهِ مصرايم.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "وضرب"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عماليك"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عماليك"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "من حَويلاه"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "مجيئك"
+    },
+    {
+      "surface": "שור",
+      "gloss": "شور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهِ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:26:12.620086953Z",
+  "model": "glm-5.2"
+}

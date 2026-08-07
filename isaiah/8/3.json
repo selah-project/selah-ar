@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 8:3",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "واقتربتُ من النابية فحبلت وولدت ابنًا. وقال يهوه لي: «ادعُ اسمه مَهير-شلال-حاش-باز».",
+  "tokens": [
+    {
+      "surface": "ואקרב",
+      "gloss": "واقتربتُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "من"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "النابية"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "فحبلت"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "وولدت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنًا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ادعُ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمه"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "مَهير"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "-شلال"
+    },
+    {
+      "surface": "חש",
+      "gloss": "-حاش"
+    },
+    {
+      "surface": "בז",
+      "gloss": "-باز"
+    }
+  ],
+  "timestamp": "2026-08-07T02:05:16.547300043Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 15:11",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "ونزل الطائرُ الجارحُ على الجُثث، فطارَدَهُنَّ أفرام.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ونزل"
+    },
+    {
+      "surface": "העיט",
+      "gloss": "الطائر الجارح"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הפגרים",
+      "gloss": "الجُثث"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "فطارَدَ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩هنّ",
+      "marks": "الطيور الجارحة"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "أفرام"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:42.742628384Z",
+  "model": "glm-5.2"
+}

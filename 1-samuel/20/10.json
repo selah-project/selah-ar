@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "فقال داود لِيهوناتان: مَن يُخبرني؟ أو ماذا يُجيبك أبوك قاسيًا؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لِـ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يهوناتان"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "يُخبر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ني"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "يُجيبك"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أبوك"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "قاسيًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:27:39.272796388Z",
+  "model": "glm-5.2"
+}

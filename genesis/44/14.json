@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 44:14",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "فجاء يهودا وإخوته بيت يوسف، وهو ⟨لا يزال⟩ هناك، فسقطوا أمامه إلى الأرض.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "فجاء"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "وإخوته"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "⟨لا يزال⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "فسقطوا"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمامه"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "إلى الأرض"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:55.082479255Z",
+  "model": "glm-5.2"
+}

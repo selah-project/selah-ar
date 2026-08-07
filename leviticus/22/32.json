@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "ولا تُدنّسون ⟨את⟩ اسمَ قُدسي، وأَتقَدَّس في وسط بني إسرائيل؛ أنا يهوه مُقَدِّسُكم.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "تُدنّسون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسمَ قُدسي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسمَ"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "قُدسي"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "وأَتقَدَّس"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "مُقَدِّسُكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:00.745846358Z",
+  "model": "glm-5.2"
+}

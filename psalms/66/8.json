@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 66,
+  "translation": "باركوا يا شعوب إلوهيمَنا، وأسمِعوا صوتَ تَهليمِه.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "باركوا"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "يا شعوب"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلوهيمَنا"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "وأسمِعوا"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوتَ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "تَهليمِه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:59.044387108Z",
+  "model": "glm-5.2"
+}

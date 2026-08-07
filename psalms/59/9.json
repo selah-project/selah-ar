@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 59,
+  "translation": "وأمّا أنت يا يهوه فتضحك ⟨منهم⟩، تسخر من جميع الأمم.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "وأمّا أنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "فتضحك"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨منهم⟩"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "تسخر"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "من جميع"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "الأمم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:55:59.159598397Z",
+  "model": "glm-5.2"
+}

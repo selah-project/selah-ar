@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 22:25",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "لئلا تتعلّم سُبُلَه فتأخذ فخًّا لنفسك.",
+  "tokens": [
+    {
+      "surface": "פֶּן",
+      "gloss": "لئلا"
+    },
+    {
+      "surface": "תֶּאֱלַ֥ף",
+      "gloss": "تتعلّم"
+    },
+    {
+      "surface": "ארחתו",
+      "gloss": "سُبُلَه"
+    },
+    {
+      "surface": "וְלָקַחְתָּ֖",
+      "gloss": "فتأخذ"
+    },
+    {
+      "surface": "מוֹקֵ֣שׁ",
+      "gloss": "فخًّا"
+    },
+    {
+      "surface": "לְנַפְשֶֽׁךָ",
+      "gloss": "لنفسك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:14.905894693Z",
+  "model": "glm-5.2"
+}

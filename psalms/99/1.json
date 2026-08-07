@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 99,
+  "translation": "يهوه مَلَكَ، ترتعد الشعوب؛ الجالس ⟨على⟩ الكروبيم، تتزلزل الأرض",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلَكَ"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "ترتعد"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "الشعوب"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "الجالس"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "الكروبيم"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "تتزلزل"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:22.986458808Z",
+  "model": "glm-5.2"
+}

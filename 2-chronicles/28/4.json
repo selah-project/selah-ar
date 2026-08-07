@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 28:4",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "وذبَح، وأحرَق بخورًا في المرتفعات وعلى التلال، وتحت كلِّ شجرةٍ نَضِرة.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "وذبح"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "وأحرق بخورًا"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "في المرتفعات"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "التلال"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "وتحت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "شجرة"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "نَضِرة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:29:27.900304027Z",
+  "model": "glm-5.2"
+}

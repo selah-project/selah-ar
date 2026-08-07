@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "وهَداهُم بسحابةً نهارًا، وكلّ الليل بنور نار",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "وهَداهُم"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "بسحابة"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "نهارًا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "الليل"
+    },
+    {
+      "surface": "באור",
+      "gloss": "بنور"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نار"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:23.356370037Z",
+  "model": "glm-5.2"
+}

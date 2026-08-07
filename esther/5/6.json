@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 5:6",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وقال الملك لأستير في مأدبة الخمر: ما سؤلكِ فيُعطى لكِ؟ وما طلبكِ؟ حتى نصف المملكة فيُصنَع.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "لأستير"
+    },
+    {
+      "surface": "במשתה",
+      "gloss": "في مأدبة"
+    },
+    {
+      "surface": "היין",
+      "gloss": "الخمر"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "שאלתך",
+      "gloss": "سؤلكِ"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "فيُعطى"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكِ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "وما"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "طلبكِ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "نصف"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "المملكة"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "فيُصنَع"
+    }
+  ],
+  "timestamp": "2026-08-07T04:54:18.991294059Z",
+  "model": "glm-5.2"
+}

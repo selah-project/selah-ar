@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 27:14",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وخمس عشرة ذراعًا ستائر للكتف، أعمدتهم ثلاثة وقواعدهم ثلاث.",
+  "tokens": [
+    {
+      "surface": "וחמש",
+      "gloss": "وخمس"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرة"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ذراعًا"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "ستائر"
+    },
+    {
+      "surface": "לכתף",
+      "gloss": "للكتف"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "أعمدتهم"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ثلاثة"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "وقواعدهم"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ثلاث"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:53.348456289Z",
+  "model": "glm-5.2"
+}

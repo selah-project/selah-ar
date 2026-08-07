@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "لا تجمع ⟨مع⟩ الخطاة نفسي، ومع أناسي الدماء حياتي",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "تجمع"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "الخطاة"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نفسي"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ومع"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "أناسي"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "الدماء"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "حياتي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:45:40.444522311Z",
+  "model": "glm-5.2"
+}

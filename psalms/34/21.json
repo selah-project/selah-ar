@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "يحرس كلّ عظماته، واحدةٌ منها لا تُكسَر.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "يحرس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "عظماته"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "واحدةٌ"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "منها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "تُكسَر"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:34.408230279Z",
+  "model": "glm-5.2"
+}

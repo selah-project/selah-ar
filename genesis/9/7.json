@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وأمّا أنتم فاثمروا وكثّروا، أحيوا في الأرض وكثّروا فيها.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "وأمّا أنتم"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "فاثمروا"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "وكثّروا"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "أحيوا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "وكثّروا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:42.948673810Z",
+  "model": "glm-5.2"
+}

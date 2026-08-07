@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 33:2",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "«يا ابن آدم، كلّم بني شعبك وقل لهم: أرضٌ متى أُحضرُ عليها سيفًا، وأخذَ شعبُ الأرض رجلًا واحدًا من أطرافهم وجعلوه ⟨את⟩ه لهم رقيبًا،",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "شعبك"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "وقل"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "כי",
+      "gloss": "متى"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "أُحضر"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "عليها"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "سيف"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "شعب"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "מקציהם",
+      "gloss": "من أطرافهم"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "وجعلوا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "الهاء (إليهم)"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "לצפה",
+      "gloss": "رقيبًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:08:49.336813544Z",
+  "model": "glm-5.2"
+}

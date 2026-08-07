@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 107:41",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 107,
+  "translation": "ويُعليِ المعوزَ من مشقّة، ويجعلُ كالقطيع عشائرِ.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "ويُعليِ"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "المعوزَ"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "من مشقّة"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ويجعلُ"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "كالقطيع"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "عشائر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:49.145389987Z",
+  "model": "glm-5.2"
+}

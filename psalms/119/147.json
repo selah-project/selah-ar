@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 147,
+  "ref": "psalms 119:147",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "سبَقتُ الفجرَ وصرختُ؛ لكلامك انتظرتُ",
+  "tokens": [
+    {
+      "surface": "קדמתי",
+      "gloss": "سبَقتُ"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "الفجرَ"
+    },
+    {
+      "surface": "ואשועה",
+      "gloss": "وصرختُ"
+    },
+    {
+      "surface": "לדבריך",
+      "gloss": "لكلامك"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "انتظرتُ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:39.559049694Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "ويحمل التيس عليه ⟨⟨את⟩ كلَّ آثامهم إلى أرض منقطعة، ويطلق ⟨⟨את⟩ التيس في البريّة.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "ويحمل"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "التيس"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلَّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "آثامهم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "منقطعة"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ويطلق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "التيس"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "التيس"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في البريّة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:45.336602775Z",
+  "model": "glm-5.2"
+}

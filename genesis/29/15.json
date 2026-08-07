@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 29:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "فقال لاوان ليعقوف: «ألأنّك أخي تخدمني مجّانًا؟ أخبرني ما أجرتُك.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لاوان"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ليعقوف"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "ألأنّ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "أخي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "ועבדתני",
+      "gloss": "تخدمني"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "مجّانًا"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "أخبرني"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨لي⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "משכרתך",
+      "gloss": "أجرتُك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:45:14.623018719Z",
+  "model": "glm-5.2"
+}

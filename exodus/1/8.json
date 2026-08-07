@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وقام ملكٌ جديدٌ على مصرايم الذي لم يعرف ⟨את⟩ يوسيف.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "وقام"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملكٌ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "جديدٌ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "يعرف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوسيف"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسيف"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:09.451772772Z",
+  "model": "glm-5.2"
+}

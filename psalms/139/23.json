@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 139,
+  "translation": "فاحصْني يا إيل واعرف قلبي، اختبرني واعرف سرائِري،",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "فاحصْني"
+    },
+    {
+      "surface": "אל",
+      "gloss": "يا إيل"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "واعرف"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "اختبرني"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "واعرف"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "سرائِري"
+    }
+  ],
+  "timestamp": "2026-08-07T04:17:50.400659204Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 23:14",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "ودافيد حينئذٍ في الحصن، ومَحطّة فلِشتيم حينئذٍ في بيت-لَحِم.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "ودافيد"
+    },
+    {
+      "surface": "אז",
+      "gloss": "حينئذٍ"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "في الحصن"
+    },
+    {
+      "surface": "ומצב",
+      "gloss": "ومَحطّة"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلِشتيم"
+    },
+    {
+      "surface": "אז",
+      "gloss": "حينئذٍ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لَحِم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:41:10.616372827Z",
+  "model": "glm-5.2"
+}

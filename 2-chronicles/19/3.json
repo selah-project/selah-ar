@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 19:3",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "لكن أموراً صالحةً وُجِدَتْ معك: أنّك أبَدتَ الأَشيريم من الأرض، وهيّأتَ لَبَبَك لطَلَبِ إلوهيم.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "لكن"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "أموراً"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "صالحة"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "وُجدت"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "בערת",
+      "gloss": "أبَدت"
+    },
+    {
+      "surface": "האשרות",
+      "gloss": "الأشيريم"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "והכינות",
+      "gloss": "وهيّأت"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "لَبَبك"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "لطلب"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:27:41.822885708Z",
+  "model": "glm-5.2"
+}

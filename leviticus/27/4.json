@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وإن أنثى ⟨هي⟩، ف⟨يكون⟩ تقويمك ثلاثين شاقل.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "أنثى"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هي⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ف⟨يكون⟩"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "تقويمك"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ثلاثين"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شاقل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:53.077139861Z",
+  "model": "glm-5.2"
+}

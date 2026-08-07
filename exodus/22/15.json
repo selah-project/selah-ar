@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 22:15",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وإذا أغوى رجلٌ بَتولَةً لم تُخطب، فضاع معها، مَهْرًا يُمَهِّرُها له زوجةً",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "أغوى"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "بَتولة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "تُخطب"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "وضاع"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "معها"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "مَهرًا"
+    },
+    {
+      "surface": "ימהרנה",
+      "gloss": "يُمَهِّرُها"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زوجةً"
+    }
+  ],
+  "timestamp": "2026-08-07T05:37:57.440798375Z",
+  "model": "glm-5.2"
+}

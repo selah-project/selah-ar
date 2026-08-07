@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "فقال: أرني الآن ⟨את⟩ كبدك.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "أرني"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كبدك"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "كبدك"
+    }
+  ],
+  "timestamp": "2026-08-07T05:37:12.817644344Z",
+  "model": "glm-5.2"
+}

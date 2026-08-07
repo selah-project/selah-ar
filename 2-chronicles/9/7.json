@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "طوبى لرجالك وطوبى لعبيدك هؤلاء، الواقفين أمامك دائمًا والسامعين ⟨את⟩ حكمتك.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "طوبى لـ"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "رجالك"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "وطوبى لـ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "عبيدك"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "الواقفين"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "أمامك"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "دائمًا"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "والسامعين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حكمتك"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "حكمتك"
+    }
+  ],
+  "timestamp": "2026-08-07T05:25:10.144467886Z",
+  "model": "glm-5.2"
+}

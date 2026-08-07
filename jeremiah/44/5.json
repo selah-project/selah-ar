@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 44:5",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "فلم يسمعوا ولم يميلوا ⟨את⟩ أذنَهم للرجوع من شرّهم، ⟨لِئلّا⟩ يُبخّروا لإلوهيم آخرين.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "يسمعوا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "يميلوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أذنَهم"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "أذنَهم"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "للرجوع"
+    },
+    {
+      "surface": "מרעתם",
+      "gloss": "من شرّهم"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "⟨لِئلّا⟩"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "يُبخّروا"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "لإلوهيم"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "آخرين"
+    }
+  ],
+  "timestamp": "2026-08-07T02:49:06.526549463Z",
+  "model": "glm-5.2"
+}

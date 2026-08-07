@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ف⟨قال⟩ لي: مَن أنت؟ فقلتُ له: عِمليقيّ أنا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ف⟨قال⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقلتُ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "عِملِيقيّ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:31:19.171114528Z",
+  "model": "glm-5.2"
+}

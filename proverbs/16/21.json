@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 16:21",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "لِذِي قلبٍ حكيمٍ يُدعى فهيمًا، وحلاوةُ الشفتين تَزيدُ تلقّفًا.",
+  "tokens": [
+    {
+      "surface": "לחכם",
+      "gloss": "لِذِي حكيم"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "يُدعى"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "فهيم"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "وحلاوة"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "الشفتين"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "تزيد"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "تلقّفًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:16.519912354Z",
+  "model": "glm-5.2"
+}

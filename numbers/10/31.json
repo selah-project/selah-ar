@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 10:31",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فقال: لا نَرجو تَركك ⟨את⟩نا، لأنّك على ذلك تعلم كيف ننزِل في البرّيّة، وكنتَ لنا أعينًا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "نَرجو"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "تَركك"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩نا",
+      "marks": "إيّانا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّك"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "تعلم"
+    },
+    {
+      "surface": "חנתנו",
+      "gloss": "كيف ننزِل"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في البرّيّة"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "وكنتَ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "أعينًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:32:01.352100668Z",
+  "model": "glm-5.2"
+}

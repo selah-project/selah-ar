@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 13:8",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "ويكون في كل الأرض، نأم يهوه: ثلثاها يُقطعان فيموتان، والثلث يُترك فيها.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ويكون"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كل"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نأم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ثلثا"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "اثنان"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "يُقطعان"
+    },
+    {
+      "surface": "יגועו",
+      "gloss": "فيموتان"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "والثلث"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "يُترك"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:37:29.994990386Z",
+  "model": "glm-5.2"
+}

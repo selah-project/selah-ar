@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 75,
+  "translation": "تذوب الأرضُ وكلُّ ساكنيها، أنا ثبَّتُ أعمدتَها. سيلاه",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "تذوب"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرضُ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلُّ"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "ساكنيها"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "ثبَّتُ"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "أعمدتَها"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سيلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:02.347114474Z",
+  "model": "glm-5.2"
+}

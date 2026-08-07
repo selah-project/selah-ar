@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "إذا سألك ابنك غدًا قائلًا: ما الشهادات والفرائض والأحكام التي أوصى بها يهوه إلهنا إيَّاكم؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "سألك"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ابنك"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "غدًا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "الشهادات"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "والفرائض"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "والأحكام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلهنا"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "إيَّاكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:54.825196448Z",
+  "model": "glm-5.2"
+}

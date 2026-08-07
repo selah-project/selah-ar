@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فحمله وأتى به إلى أمّه، فجلس على ركبتيها حتى الظهيرة ومات",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "فحمله"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "وأتى به"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "أمّه"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "فجلس"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "ركبتيها"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "الظهيرة"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ومات"
+    }
+  ],
+  "timestamp": "2026-08-07T01:53:45.800280241Z",
+  "model": "glm-5.2"
+}

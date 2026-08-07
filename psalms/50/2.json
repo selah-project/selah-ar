@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "من صهيون، كمال الجمال، إلوهيم أشرق.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "من صهيون"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "كمال"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "الجمال"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "أشرق"
+    }
+  ],
+  "timestamp": "2026-08-07T03:52:05.845486659Z",
+  "model": "glm-5.2"
+}

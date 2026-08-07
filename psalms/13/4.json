@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "انظرِ استجبْ لي يهوه إلهي، أنِرْ عينيَّ لئلّا أنامَ نومَ الموت،",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "انظرِ"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "استجبْ لي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلهي"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "أنِرْ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "عينيَّ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلّا"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "أنامَ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "نومَ الموت"
+    }
+  ],
+  "timestamp": "2026-08-07T03:42:35.564757178Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "و⟨تضع⟩ على השלחן לחם פנים لפני תמיד",
+  "tokens": [
+    {
+      "surface": "וְנָתַתָּ",
+      "gloss": "و⟨تضع⟩"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "على"
+    },
+    {
+      "surface": "הַשֻּׁלְחָן",
+      "gloss": "השלחן"
+    },
+    {
+      "surface": "לֶחֶם",
+      "gloss": "لחם"
+    },
+    {
+      "surface": "פָּנִים",
+      "gloss": "פנים"
+    },
+    {
+      "surface": "לְפָנַי",
+      "gloss": "לפני"
+    },
+    {
+      "surface": "תָּמִיד",
+      "gloss": "תמיד"
+    }
+  ],
+  "timestamp": "2026-08-07T07:02:32.585372042Z",
+  "model": "glm-5.2"
+}

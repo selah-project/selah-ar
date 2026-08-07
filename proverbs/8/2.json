@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "في رأسِ المرتفعاتِ على الطريقِ، بيتَ المسالكِ تقف.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "في رأسِ"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "المرتفعاتِ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "على"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "الطريقِ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيتَ"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "المسالكِ"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "تقف"
+    }
+  ],
+  "timestamp": "2026-08-07T04:23:21.632375250Z",
+  "model": "glm-5.2"
+}

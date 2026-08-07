@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "أُلبس السماوات ظلامًا، وأجعل المسح لباسهم.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "أُلبس"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "ظلامًا"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "والمسح"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "أجعل"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "لباسهم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:22:20.471079015Z",
+  "model": "glm-5.2"
+}

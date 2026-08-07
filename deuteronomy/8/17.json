@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "⟨و⟩تقول في قلبك: قوّتي و⟨عِظَم⟩ يدي صنعت ⟨لي⟩ ⟨את⟩ هذا الثروة،",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "⟨و⟩تقول"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "في قلبك"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "قوّتي"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "و⟨عِظَم⟩"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "يدي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنعت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨لي⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هذا الثروة"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "الثروة"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:54:42.995473751Z",
+  "model": "glm-5.2"
+}

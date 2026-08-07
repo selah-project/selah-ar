@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "هذا ⟨كانَ⟩ لي كَوْصايَاك حَفِظْتُها.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨كانَ⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "كَـ"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "وَصايَاك"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "حَفِظْتُها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:16.234833985Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "لإمام ⟨الغناء⟩ مزمور لِدافيد",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لإمام ⟨الغناء⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِدافيد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:45.012627217Z",
+  "model": "glm-5.2"
+}

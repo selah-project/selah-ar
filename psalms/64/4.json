@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 64,
+  "translation": "الذين حدّدوا ألسنتهم كالسيف، ووجّهوا سهمهم — كلمة مرّة.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "حدّدوا"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "كالسيف"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ألسنتهم"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ووجّهوا"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "سهمهم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "מר",
+      "gloss": "مرّة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:01.672387894Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 13:23",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وخرج حرَسُ فلشتيمّيم إلى معبر مِخماش.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "حرَسُ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلشتيمّيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "معبر"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "مِخماش"
+    }
+  ],
+  "timestamp": "2026-08-07T01:23:39.994871952Z",
+  "model": "glm-5.2"
+}

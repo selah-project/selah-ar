@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 15:24",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "طريقُ الحياةِ فوقَ للمتبصّر، لِكَي يَحيدَ عن شِيول إلى أسفل",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "طريق"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "الحياة"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "فوق"
+    },
+    {
+      "surface": "למשכיל",
+      "gloss": "للمتبصّر"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "סור",
+      "gloss": "يحيد"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "عن شيول"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "أسفل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:01.068332681Z",
+  "model": "glm-5.2"
+}

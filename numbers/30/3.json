@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 30:3",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "رجلٌ إذا نذر نذرًا ليهوه أو أقسم قسمًا لإلزام إصرٍ على نفسه، فلا يُحنث كلمتَه — حسب كلِّ الخارج من فمه يُفعله.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "ידר",
+      "gloss": "نذر"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذرًا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "أقسم"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "قسمًا"
+    },
+    {
+      "surface": "לאסר",
+      "gloss": "لإلزام"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "إصر"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نفسه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יחל",
+      "gloss": "يُحنث"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "كلمتَه"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "حسب كلّ"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "الخارج"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "من فمه"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يُفعله"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:27.833337002Z",
+  "model": "glm-5.2"
+}

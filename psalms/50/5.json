@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "اجمعوا لي أَصِدِّقائي قاطعي بريتي ⟨على⟩ ذَبْح",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "اجمعوا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "أَصِدِّقائي"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "قاطعي"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "بريتي"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨على⟩"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ذَبْح"
+    }
+  ],
+  "timestamp": "2026-08-07T03:51:43.128632549Z",
+  "model": "glm-5.2"
+}

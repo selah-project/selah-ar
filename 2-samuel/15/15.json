@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 15:15",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وقال عبيد الملك للملك: ككل ما يختاره سيّدي الملك هوذا عبيدك.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عبيد"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ككل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "يختاره"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سيّدي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "عبيدك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:36:17.660150262Z",
+  "model": "glm-5.2"
+}

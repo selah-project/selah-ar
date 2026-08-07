@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 10:19",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وبَقِيّة أشجار وَعْرِه ⟨تكون⟩ بعدد، وفَتًى يَكتبها.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "وبقية"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "أشجار"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "وَعْرِه"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "بعدد"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨تكون⟩"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "وفتى"
+    },
+    {
+      "surface": "יכתבם",
+      "gloss": "يَكتبها"
+    }
+  ],
+  "timestamp": "2026-08-07T02:07:47.536842658Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 17:13",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وإن أُجمع إلى مدينة، يحمل كل يسرايل إلى تلك المدينة حبالًا، فنسحب ⟨את⟩ه إلى النهر، حتى لا يُوجَد هناك حتى حصاة.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "أُجمع"
+    },
+    {
+      "surface": "והשיאו",
+      "gloss": "يحمل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "تلك"
+    },
+    {
+      "surface": "חבלים",
+      "gloss": "حبال"
+    },
+    {
+      "surface": "וסחבנו",
+      "gloss": "فنسحب"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "إلى النهر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "النهر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "أن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "يُوجَد"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "גם",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "צרור",
+      "gloss": "حصاة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:37:22.139889049Z",
+  "model": "glm-5.2"
+}

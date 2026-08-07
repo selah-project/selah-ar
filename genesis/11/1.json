@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨كانت⟩ كل الأرض شفة واحدة، وكلمات واحدات.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كانت⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "شفة"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "واحدة"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "وكلمات"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "واحدات"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:14.090155594Z",
+  "model": "glm-5.2"
+}

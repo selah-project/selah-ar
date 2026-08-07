@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "«وآخذ ⟨את⟩ خبزي و⟨את⟩ مياهي و⟨את⟩ ذبيحتي التي ذبحتها لجزّازيّ وأعطيها لرجال لا أعرف هم من أين هم؟»",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "وآخذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خبزي"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "خبزي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مياهي"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "مياهي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "ذبيحتي"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "ذبيحتي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "ذبحتها"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "لجزّازيّ"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "وأعطيها"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "لرجال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "أعرف"
+    },
+    {
+      "surface": "אי",
+      "gloss": "هم"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "من أين"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:29:04.024288463Z",
+  "model": "glm-5.2"
+}

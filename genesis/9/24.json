@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "ف⟨استيقظ⟩ نوح من خمره، و⟨عرف⟩ ⟨את⟩ ما فعله به ابنه الصغير",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "و⟨استيقظ⟩"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "من خمره"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "و⟨عرف⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ما فعله به ابنه الصغير"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعله"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "الصغير"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:47.131520228Z",
+  "model": "glm-5.2"
+}

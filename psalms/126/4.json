@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 126,
+  "translation": "أرجِع يا يهوه ⟨את⟩ سبيَنا كأفايقِ في النگِب!",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "أرجِع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سبيَنا"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "سبيَنا"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "كأفايقِ"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "في النگِب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:15:43.143805524Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 10:9",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فقال لهم: ماذا تنصحون فنردّ كلمة ⟨على⟩ ⟨את⟩ هذا الشعب الذي كلّمني قائلًا: خفّف ⟨من⟩ النير الذي وضعه أبوك علينا؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "تنصحون"
+    },
+    {
+      "surface": "ונשיב",
+      "gloss": "فنردّ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هذا الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "كلّم"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "خفّف"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "העל",
+      "gloss": "النير"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "وضعه"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أبوك"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "علينا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:25:08.201715312Z",
+  "model": "glm-5.2"
+}

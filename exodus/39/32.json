@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 39:32",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "فاكتملت كلُّ خدمة مِشكان خيمة الاجتماع، وصنع بنو يسرائيل وفق كلِّ ما أوصى به يهوه ⟨את⟩ موشيه، هكذا صنعوا.",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "فاكتملت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "خدمة"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "مِشكان"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الاجتماع"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "وصنع"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "وفق كلِّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "صنعوا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:05.793559729Z",
+  "model": "glm-5.2"
+}

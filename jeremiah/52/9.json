@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 52:9",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 52,
+  "translation": "فأمسكوا ⟨את⟩ الملك وأصعدوه إلى ملك بافل، رِبْلاتة، في أرض حَماة، فكلّمه ⟨بـ⟩أحكام.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "فأمسكوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الملك"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "وأصعدوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافل"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "رِبْلاتة"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حَماة"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "فكلّمه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "أحكام"
+    }
+  ],
+  "timestamp": "2026-08-07T02:53:23.844147887Z",
+  "model": "glm-5.2"
+}

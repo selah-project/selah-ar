@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 15:26",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "كلُّ الفراش الذي تنام عليه كلَّ أيّام سيلانها كفراش نِدّتها يكون لها، وكلُّ الإناء الذي تجلس عليه نجسٌ يكون كنجاسة نِدّتها.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "الفراش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "تنام"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "זובה",
+      "gloss": "سيلانها"
+    },
+    {
+      "surface": "כמשכב",
+      "gloss": "كفراش"
+    },
+    {
+      "surface": "נדתה",
+      "gloss": "نِدّتها"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "الإناء"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "تجلس"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "כטמאת",
+      "gloss": "كنجاسة"
+    },
+    {
+      "surface": "נדתה",
+      "gloss": "نِدّتها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:01.063019826Z",
+  "model": "glm-5.2"
+}

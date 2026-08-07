@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 26:18",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "هذه مِشْپَحات بَني جاد لِمُفْقَدِيّم أربَعون ألفًا وخَمْسُ مِئَة.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "مِشپَحات"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "גד",
+      "gloss": "جاد"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "لِمُفْقَدِيّم"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "أربعون"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفًا"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "وخمسُ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:40:02.878953610Z",
+  "model": "glm-5.2"
+}

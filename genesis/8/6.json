@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "و⟨كان⟩ في نهاية أربعين يومًا، أنّ نوحًا فتح ⟨את⟩ نافذة التابوت التي صنعها",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "في نهاية"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "أربعين"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يومًا"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "أنّ… فتح"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوحًا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نافذة"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "نافذة"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "التابوت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنعها"
+    }
+  ],
+  "timestamp": "2026-08-07T06:55:46.098471342Z",
+  "model": "glm-5.2"
+}

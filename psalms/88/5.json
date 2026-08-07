@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 88,
+  "translation": "حُسِبتُ مع هابطي ⟨את⟩ البئر، صِرتُ كرجلٍ لا قوّةَ له،",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "حُسِبتُ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "هابطي"
+    },
+    {
+      "surface": "בור",
+      "gloss": "البئر"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "صِرتُ"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "كرجلٍ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "איל",
+      "gloss": "قوّة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:58.413669748Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 15:30",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "نورُ العينين يفرّح قلبًا، وخبرٌ طيّب يُسَمِّنُ عظمًا.",
+  "tokens": [
+    {
+      "surface": "מאור",
+      "gloss": "نور"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "العينين"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "يفرّح"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلبًا"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "طيّب"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "يُسَمِّنُ"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "عظمًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:07.501351920Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "وَهذِهِ توليداتُ عيسو — ⟨هو⟩ أدوم.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "وهذه"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "توليدات"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "أدوم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:54.006290488Z",
+  "model": "glm-5.2"
+}

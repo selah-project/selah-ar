@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 6:12",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وتُدارُ بيوتُهم لآخرين، حقولٌ ونساءٌ معًا، لأنّي أُميلُ ⟨את⟩ يدِي على ساكِني الأرض، نَأْم يهوه.",
+  "tokens": [
+    {
+      "surface": "ונסבו",
+      "gloss": "وتُدارُ"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "بيوتُهم"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "لآخرين"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "حقولٌ"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "ونساءٌ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "معًا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "אטה",
+      "gloss": "أُميلُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يدِي"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "يدِي"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ساكِني"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نَأْم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:53:56.381088198Z",
+  "model": "glm-5.2"
+}

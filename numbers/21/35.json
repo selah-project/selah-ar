@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 21:35",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فضربوهُ ⟨את⟩هُ و⟨את⟩ بنيهِ و⟨את⟩ كلِّ شعبه، حتّى لم يُبقِ له ناجيًا، فورثوا ⟨את⟩ أرضَه.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "فضربوهُ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩هُ",
+      "marks": "إيّاه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بنيه"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "بنيهِ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ شعبه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتّى"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "لم"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "يُبقِ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "ناجيًا"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "فورثوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أرضه"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "أرضَه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:37:49.572471849Z",
+  "model": "glm-5.2"
+}

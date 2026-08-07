@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 7:4",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "و⟨كان⟩ في تلكَ الليلةِ، فكانَ كلمةُ يهوه إلى ناتانَ قائلًا:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "في الليلةِ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "تلكَ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "فكانَ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمةُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتانَ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:32.181482051Z",
+  "model": "glm-5.2"
+}

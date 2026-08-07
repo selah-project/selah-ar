@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وعرف أدام أيضًا ⟨את⟩ امرأته فولدت ابنًا، ودعت ⟨את⟩ اسمه شيت: «لأنه قد وضع لي إلوهيم زرعًا آخر عوضًا عن هافِل، لأن قايين قتله».",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "وعرف"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "أدام"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "امرأته"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "امرأته"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "فولدت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنًا"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ودعت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسمه"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمه"
+    },
+    {
+      "surface": "שת",
+      "gloss": "شيت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "שת",
+      "gloss": "قد وضع"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "زرعًا"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "آخر"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "عوضًا عن"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هافِل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "قتله"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قايين"
+    }
+  ],
+  "timestamp": "2026-08-06T23:34:56.629731655Z",
+  "model": "glm-5.2"
+}

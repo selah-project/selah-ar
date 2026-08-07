@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "و⟨את⟩ المرتدّين من وراء يهوه، والذين لم يطلبوا ⟨את⟩ يهوه ولم يطلبوه،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "المرتدّين"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "المرتدّين"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "من وراء"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "والذين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "يطلبوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "يطلبوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:33:03.110209902Z",
+  "model": "glm-5.2"
+}

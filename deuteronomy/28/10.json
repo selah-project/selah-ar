@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "ويرى جميع شعوب الأرض أنّ اسم يهوه دُعي عليك، فيخافون منك.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "ويرى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميع"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "شعوب"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "دُعي"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "عليك"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "فيخافون"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "منك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:51.222460144Z",
+  "model": "glm-5.2"
+}

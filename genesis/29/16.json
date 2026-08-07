@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وللاوان ابنتان: اسم الكبرى لِئاه، واسم الصغرى راحِل.",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "وللاوان"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ابنتان"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "⟨ابنتان⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "الكبرى"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لِئاه"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "واسم"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "الصغرى"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحِل"
+    }
+  ],
+  "timestamp": "2026-08-06T23:45:14.623191236Z",
+  "model": "glm-5.2"
+}

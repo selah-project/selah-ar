@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 1:24",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فقال ناتان: سيّدي الملك، أأنت قلت إنّ أدونياهو يملك بعدي وهو يجلس على كرسيّي؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سيّدي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أأنت"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "قلت"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "أدونياهو"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "يملك"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعدي"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "يجلس"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "كرسيّي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:42:01.485374925Z",
+  "model": "glm-5.2"
+}

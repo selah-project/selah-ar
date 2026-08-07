@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 22:21",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "يهوه كافأنّي حسب صِدقي، حسب طهارة يديّ يردّه ⟨لي⟩.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "كافأنّي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "حسب صِدقي"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "حسب طهارة"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "يديّ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "يردّه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:40:36.395136838Z",
+  "model": "glm-5.2"
+}

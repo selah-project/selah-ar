@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "فقصّت ⟨את⟩ كفّها — لا تشفق عينك.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "فقصّت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كفّها"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "كفّها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "تشفق"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "عينك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:58:56.717918539Z",
+  "model": "glm-5.2"
+}

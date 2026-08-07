@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "لا تقدر أن تذبح ⟨את⟩ الفصح في أحد أبوابك الذي يهوه إلهيمك يعطيك.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תוּכַל",
+      "gloss": "تقدر"
+    },
+    {
+      "surface": "לִזְבֹּחַ",
+      "gloss": "أن تذبح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الفصح"
+    },
+    {
+      "surface": "הפָּסַח",
+      "gloss": "الفصح"
+    },
+    {
+      "surface": "בְּאַחַד",
+      "gloss": "في أحد"
+    },
+    {
+      "surface": "שְׁעָרֶיךָ",
+      "gloss": "أبوابك"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "إلهيمك"
+    },
+    {
+      "surface": "נֹתֵן",
+      "gloss": "يعطي"
+    },
+    {
+      "surface": "לָךְ",
+      "gloss": "لك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:56:11.918396890Z",
+  "model": "glm-5.2"
+}

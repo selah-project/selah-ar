@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "ورجل ⟨את⟩ قُداشيه له يُصبحون؛ رجلٌ ما يُعطي للكوهين له يُصبح.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ورجل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قُداشيه"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "قُداشيه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "يُصبحون"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "يُعطي"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "للكوهين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يُصبح"
+    }
+  ],
+  "timestamp": "2026-08-07T05:40:46.711517104Z",
+  "model": "glm-5.2"
+}

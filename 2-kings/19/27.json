@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وجلوسك وخروجك ودخولك عرفتُ. و⟨את⟩ غيظك عليّ.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "وجلوسك"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "وخروجك"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "ودخولك"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "عرفتُ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "غيظك"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "غيظك"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "عليّ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:00:52.320657702Z",
+  "model": "glm-5.2"
+}

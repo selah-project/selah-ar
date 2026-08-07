@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 68,
+  "translation": "رأوا مسيركاتِكَ يا إلوهيم، مسيركاتِ إيلي ملكي في القدس:",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "رأوا"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "مسيركاتِكَ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "يا إلوهيم"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "مسيركاتِ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إيلي"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ملكي"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "في القدس"
+    }
+  ],
+  "timestamp": "2026-08-07T03:58:05.645985634Z",
+  "model": "glm-5.2"
+}

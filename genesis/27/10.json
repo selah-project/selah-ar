@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 27:10",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "فتُحضِرُها إلى أبيك فيأكل، من أجل أن يباركك أمام موته.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "فتُحضِرُ"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "إلى أبيك"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "فيأكل"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "من أجل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "أن"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "يباركك"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "موته"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:38.477514124Z",
+  "model": "glm-5.2"
+}

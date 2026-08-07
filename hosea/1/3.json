@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فذهب وأخذ ⟨את⟩ جُومَر بنت دِبلايم، فحبلت وولدت له ابنا.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "فذهب"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جُومَر"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "جُومَر"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "دِبلايم"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "فحبلت"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "وولدت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:20:55.790617637Z",
+  "model": "glm-5.2"
+}

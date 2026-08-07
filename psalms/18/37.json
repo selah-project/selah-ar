@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 18:37",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "تُوسِّع خَطواتي تحتي وكعباي لم يتعثّرا",
+  "tokens": [
+    {
+      "surface": "תַּרְחִ֣יב",
+      "gloss": "تُوسِّع"
+    },
+    {
+      "surface": "צַעֲדִ֣י",
+      "gloss": "خطواتي"
+    },
+    {
+      "surface": "תַחְתָּ֑י",
+      "gloss": "تحتي"
+    },
+    {
+      "surface": "וְלֹ֥א",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "מָ֝עֲד֗וּ",
+      "gloss": "يتعثّرا"
+    },
+    {
+      "surface": "קַרְסֻלָּֽי",
+      "gloss": "كعباي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:19.053173902Z",
+  "model": "glm-5.2"
+}

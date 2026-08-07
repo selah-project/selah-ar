@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "ابن شَلّوم ابن صادوق ابن أخيطوف",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شَلّوم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "صادوق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "أخيطوف"
+    }
+  ],
+  "timestamp": "2026-08-07T05:02:05.156890700Z",
+  "model": "glm-5.2"
+}

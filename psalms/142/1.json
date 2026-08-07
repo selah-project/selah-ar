@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 142,
+  "translation": "تأملٌ لداوِد، عند كونه في المغارة. صلاةٌ.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "تأمل"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لداوِد"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "عند كونه"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "في المغارة"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "صلاة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:15.136500344Z",
+  "model": "glm-5.2"
+}

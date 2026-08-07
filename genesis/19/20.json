@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 19:20",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "«هوذا الآن المدينة هذه قريبة للفرار هناك، وهي صغيرة. أَهربْ الآن هناك! أليست صغيرة هي؟ وتعيش نَفْسي».",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "قريبة"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "للفرار"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "وهي"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "صغيرة"
+    },
+    {
+      "surface": "אמלטה",
+      "gloss": "أَهربْ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "أليست"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "صغيرة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "ותחי",
+      "gloss": "وتعيش"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفْسي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:41.756876068Z",
+  "model": "glm-5.2"
+}

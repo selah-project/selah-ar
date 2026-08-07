@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 8:11",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "الذي لا يُنفَّذ فيه حكمُ أمرِ الشرّ سريعًا — لذلك يمتلئ قلبُ بني الإنسان فيهم لفعل الشرّ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "يُنفَّذ"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "حكم"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "أمر"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "سريعًا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "يمتلئ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "فيهم"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "لفعل"
+    },
+    {
+      "surface": "רע",
+      "gloss": "الشرّ"
+    }
+  ],
+  "timestamp": "2026-08-07T06:10:16.332048687Z",
+  "model": "glm-5.2"
+}

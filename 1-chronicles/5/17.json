@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 5:17",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "كلّهم انتسبوا بالأنساب في أيام يوتام ملك يهودا، وفي أيام ياروفعام ملك يسرائيل.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "كلّهم"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "انتسبوا"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "في أيام"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "يوتام"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "وفي أيام"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ياروفعام"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:22.698741980Z",
+  "model": "glm-5.2"
+}

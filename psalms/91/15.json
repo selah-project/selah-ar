@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 91,
+  "translation": "يدعوني فأُجيبه، أنا معه في الضيق، أُنقذه ⟨و⟩ أُكرمه.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "يدعوني"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "فأُجيبه"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "في الضيق"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "أُنقذه"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "⟨و⟩ أُكرمه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:08.547978089Z",
+  "model": "glm-5.2"
+}

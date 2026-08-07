@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 32:16",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "أَغاروهُ بِأَجانِبَ، بِمَعايِفَ أَسْخَطُوهُ.",
+  "tokens": [
+    {
+      "surface": "יקנאהו",
+      "gloss": "أَغاروهُ"
+    },
+    {
+      "surface": "בזרים",
+      "gloss": "بِأَجانِبَ"
+    },
+    {
+      "surface": "בתועבת",
+      "gloss": "بِمَعايِفَ"
+    },
+    {
+      "surface": "יכעיסהו",
+      "gloss": "أَسْخَطُوهُ"
+    }
+  ],
+  "timestamp": "2026-08-07T05:45:22.483221034Z",
+  "model": "glm-5.2"
+}

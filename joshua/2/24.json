@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 2:24",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وقالوا ليهوشوع: «إنّ يهوه قد أعطى بأيدينا ⟨את⟩ كلّ الأرض. وقد ذاب كلّ ساكني الأرض من أمامنا.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقالوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ليهوشوع"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ليهوشوع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إنّ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "قد أعطى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "بأيدينا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ الأرض"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "وقد"
+    },
+    {
+      "surface": "נמגו",
+      "gloss": "ذاب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ساكني"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "من أمامنا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:02:52.126554106Z",
+  "model": "glm-5.2"
+}

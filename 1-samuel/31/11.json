@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "فسمعوا عنه سكّان يابيش جلعاد ⟨את⟩ ما صنعه فِلِشتيّم لِشاؤول",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "فسمعوا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "عنه"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "سكّان"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "يابيش"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "جلعاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ما صنعه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "صنعه"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فِلِشتيّم"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "لِشاؤول"
+    }
+  ],
+  "timestamp": "2026-08-07T01:31:52.634714433Z",
+  "model": "glm-5.2"
+}

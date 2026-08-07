@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "numbers 7:80",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "كَفٌّ واحدةٌ، عَشَرَةُ ذَهَب، ممْلُوَّةٌ قُطورَة.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "كَفٌّ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "واحدةٌ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عَشَرَةُ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهب"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ممْلُوَّةٌ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "قُطورَة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:30:57.900816269Z",
+  "model": "glm-5.2"
+}

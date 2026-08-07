@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "judges 6:36",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فقال جدعون للإلوهيم: إن كنتَ مُخَلِّصًا بيدي ⟨את⟩ يسرايل كما تكلّمتَ،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "جدعون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الإلوهيم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "كنتَ"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "مُخَلِّصًا"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "بيدي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرايل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "تكلّمتَ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:14:34.310796866Z",
+  "model": "glm-5.2"
+}

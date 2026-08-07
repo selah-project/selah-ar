@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 40:18",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "عظامُه أنابيبُ نحاس، وهياكلُه كقضيبِ حديد.",
+  "tokens": [
+    {
+      "surface": "עצמיו",
+      "gloss": "عظامُه"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "أنابيبُ"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "نحاس"
+    },
+    {
+      "surface": "גרמיו",
+      "gloss": "وهياكلُه"
+    },
+    {
+      "surface": "כמטיל",
+      "gloss": "كقضيبِ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "حديد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:44:15.465033313Z",
+  "model": "glm-5.2"
+}

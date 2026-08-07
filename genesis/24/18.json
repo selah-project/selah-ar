@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 24:18",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فقالت: «اشرب يا سيّدي»، وأسرعت وأنزلت كدّها على يدها وسقته",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "اشرب"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "يا سيّدي"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "وأسرعت"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "وأنزلت"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "كدّها"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ידה",
+      "gloss": "يدها"
+    },
+    {
+      "surface": "ותשקהו",
+      "gloss": "وسقته"
+    }
+  ],
+  "timestamp": "2026-08-07T05:33:54.471956205Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 113,
+  "translation": "عالٍ على كل الأمم يهوه، ⟨على⟩ السماوات مجده",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "عالٍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "مجده"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:39.861245580Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 7:2",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "من كلّ البهيمة الطاهرة تأخذ لك سبعةً سبعةً، ذكرًا وأنثاه، ومن البهيمة التي ليست طاهرة هي اثنين، ذكرًا وأنثاه.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "من كلّ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "البهيمة"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "الطاهرة"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "تأخذ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سبعةً"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سبعةً"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ذكرًا"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "وأنثاه"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "البهيمة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليست"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "طاهرة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "اثنين"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ذكرًا"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "وأنثاه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:42.080725766Z",
+  "model": "glm-5.2"
+}

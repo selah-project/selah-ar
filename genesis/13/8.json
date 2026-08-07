@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 13:8",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "فقال أفرامُ للُوط: لا يكنْ، أرجوك، مِراءٌ بيني وبينكَ، وبين رُعاتي ورُعاتكَ، لأنّا رجالٌ إخوةٌ نحن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "أفرام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لُوط"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "أرجوك"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "يكن"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "مِراء"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "بيني"
+    },
+    {
+      "surface": "וביניך",
+      "gloss": "وبينك"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "رُعاتي"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "رُعاتك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "إخوة"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "نحن"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:15.946152273Z",
+  "model": "glm-5.2"
+}

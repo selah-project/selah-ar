@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "و⟨את⟩ رَسَن، بين نينوى وبين كَلَح — هي المدينة الكبرى.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "رَسَن"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "رَسَن"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نينوى"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "كَلَح"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "الكبرى"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:42.556146816Z",
+  "model": "glm-5.2"
+}

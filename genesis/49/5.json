@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "شمعون ولاوي إخوةٌ؛ أدواتُ عنفٍ سيوفُهم.",
+  "tokens": [
+    {
+      "surface": "שִׁמְע֥וֹן",
+      "gloss": "شمعون"
+    },
+    {
+      "surface": "וְלֵוִ֖י",
+      "gloss": "ولاوي"
+    },
+    {
+      "surface": "אַחִ֑ים",
+      "gloss": "إخوة"
+    },
+    {
+      "surface": "כְּלֵ֥י",
+      "gloss": "أدواتُ"
+    },
+    {
+      "surface": "חָמָ֖ס",
+      "gloss": "عنفٍ"
+    },
+    {
+      "surface": "מְכֵרֹתֵיהֶֽם",
+      "gloss": "سيوفُهم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:57.098976967Z",
+  "model": "glm-5.2"
+}

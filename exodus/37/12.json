@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 37:12",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "وصنع لها حاشيةَ قبضة حولها، وصنع إكليلَ ذهب لحاشيتها حولها.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وصنع"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لها"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "حاشية"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "قبضة"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "حولها"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "وصنع"
+    },
+    {
+      "surface": "זר",
+      "gloss": "إكليل"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهب"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "لحاشيتها"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "حولها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:13:53.603016078Z",
+  "model": "glm-5.2"
+}

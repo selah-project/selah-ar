@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "حلوةٌ شَولةُ العامل، سواءٌ أكل قليلًا أم كثيرًا؛ أمّا الشَّبَعُ عند الغنيّ فهو لا يَدَعُهُ ينام.",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "حلوةٌ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "شَولةُ"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "العامل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "سواءٌ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "قليلًا"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "أم"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "كثيرًا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "أكل"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "أمّا الشَّبَعُ"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "عند الغنيّ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "فهو لا"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "يَدَعُهُ"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "לישון",
+      "gloss": "ينام"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:02.247661006Z",
+  "model": "glm-5.2"
+}

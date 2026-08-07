@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 3:29",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وضربوا ⟨את⟩ موآب في ذلك الوقت نحو عشرة آلاف رجل، كلّ سمين وكل رجل بأس، ولم ينجُ أحد.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "وضربوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موآب"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "في وقت"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "نحو عشرة"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "آلاف"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "سمين"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بأس"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "ينجُ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "أحد"
+    }
+  ],
+  "timestamp": "2026-08-07T01:13:36.175766762Z",
+  "model": "glm-5.2"
+}

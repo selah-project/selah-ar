@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "فأخذهم وعبرّهم ⟨את⟩ النهروأعبر ⟨את⟩ ما له.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "فأخذهم"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "وعبّرهم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "النهر"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "النهر"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "وأعبر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ما له"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T05:34:57.694949126Z",
+  "model": "glm-5.2"
+}

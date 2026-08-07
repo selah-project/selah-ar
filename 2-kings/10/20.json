@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وقال ييهو: «قدِّسوا اجتماعًا للبعل.» فنادوا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ييهو"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "قدِّسوا"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "اجتماعًا"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "للبعل"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "فنادوا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:56:35.135607207Z",
+  "model": "glm-5.2"
+}

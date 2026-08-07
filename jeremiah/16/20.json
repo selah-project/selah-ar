@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "هل يصنع لنفسه إنسانٌ إلوهيم، وهي ليست إلوهيم؟",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "هل يصنع"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لنفسه"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "وهي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليست"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:35:55.561096364Z",
+  "model": "glm-5.2"
+}

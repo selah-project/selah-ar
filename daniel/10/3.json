@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "خبزَ ⟨ال⟩مُشتَهَيات لم آكل، ولحمًا وخمرًا لم يدخل إلى فمي، ودهنًا لم أدهن به، حتى كمُلِ ثلاثةُ أسابيع أيّامًا.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "خبز"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "المُشتَهَيات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "آكل"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ولحمًا"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "وخمرًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "בא",
+      "gloss": "يدخل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فمي"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "ودهنًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "أدهن"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "كمُلَ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ثلاثة"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "أسابيع"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيّامًا"
+    }
+  ],
+  "timestamp": "2026-08-07T06:11:22.497858456Z",
+  "model": "glm-5.2"
+}

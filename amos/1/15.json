@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 1:15",
+  "book": "amos",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ويذهب ملكُهم في السبي هو وشرفاؤه معًا، قال يهوه.",
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "ويذهب"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "ملكُهم"
+    },
+    {
+      "surface": "בגולה",
+      "gloss": "في السبي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "وشرفاؤه"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "معًا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:23:50.917084109Z",
+  "model": "glm-5.2"
+}

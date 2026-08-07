@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "إنّما بالزَّهو يكونُ الخصام، ومع المُتشاوِرين حِكمة.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "بالزَّهو"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "يكونُ"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "الخصام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "المُتشاوِرين"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "المُتشاوِرين"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حِكمة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:24.245128951Z",
+  "model": "glm-5.2"
+}

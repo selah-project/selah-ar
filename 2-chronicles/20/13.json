@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 20:13",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "وكلّ يهودا واقفون أمام يهوه، أيضًا أطفالُهم ونساؤُهم وأبناؤُهم.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "واقفون"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "أطفالُهم"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "نساؤُهم"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "وأبناؤُهم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:27:49.911859118Z",
+  "model": "glm-5.2"
+}

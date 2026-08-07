@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وضرب داوِد ⟨את⟩ هَدَدعَزَر بن رَحوب ملك صوبا في ذهابه لإعادة يده عند النهر.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "فضرب"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هَدَدعَزَر"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "هَدَدعَزَر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "رَحوب"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "صوبا"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "في ذهابه"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "لإعادة"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "عند النهر"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:55.419586226Z",
+  "model": "glm-5.2"
+}

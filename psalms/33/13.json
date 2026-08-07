@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "من السماوات تأمّل يهوه، رأى ⟨את⟩ كلّ بني الإنسان.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "من السماوات"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "تأمّل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "رأى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ بني الإنسان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسان"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:06.368648475Z",
+  "model": "glm-5.2"
+}

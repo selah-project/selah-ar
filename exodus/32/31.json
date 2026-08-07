@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 32:31",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "ورجع موشيه إلى يهوه وقال: «آهِ، لقد أخطأ هذا الشعب خطيئةً عظيمةً، وصنعوا لأنفسهم آلهةً من ذهب».",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ورجع"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "آهِ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "أخطأ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "هذا الشعب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "خطيئةً"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "عظيمةً"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "وصنعوا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لأنفسهم"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "آلهةً"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "من ذهب"
+    }
+  ],
+  "timestamp": "2026-08-07T08:32:55.502635391Z",
+  "model": "glm-5.2"
+}

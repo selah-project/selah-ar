@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "طيّبٌ لقمةٌ يابسة ومعها هدوءٌ، من بيتٍ ملآن ذبائحَ خصامًا.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "طيّبٌ"
+    },
+    {
+      "surface": "פת",
+      "gloss": "لقمةٌ"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "يابسةٌ"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "وهدوءٌ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "معها"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "من بيتٍ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ملآنُ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ذبائحِ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "خصامٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:41.978404270Z",
+  "model": "glm-5.2"
+}

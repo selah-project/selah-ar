@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 38:22",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "وبصَلْئيل بنِ أوري بنِ حور لسبطِ يهودا صنع ⟨את⟩ كلَّ ما أوصى به يهوه ⟨את⟩ موشيه.",
+  "tokens": [
+    {
+      "surface": "ובצלאל",
+      "gloss": "وبصَلْئيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنِ"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "أوري"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنِ"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حور"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "لسبطِ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلَّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى به"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:13:44.280475314Z",
+  "model": "glm-5.2"
+}

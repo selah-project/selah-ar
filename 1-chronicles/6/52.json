@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 6:52",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فأعطوهم ⟨את⟩ مدن الملجأ ⟨את⟩ شكيم و⟨את⟩ مرابعها في جبل أفرايم و⟨את⟩ غازر و⟨את⟩ مرابعها.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "فأعطوهم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مدن الملجأ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "الملجأ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شكيم"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شكيم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مرابعها"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مرابعها"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "في جبل"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "أفرايم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "غازر"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "غازر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مرابعها"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مرابعها"
+    }
+  ],
+  "timestamp": "2026-08-07T05:12:06.241365067Z",
+  "model": "glm-5.2"
+}

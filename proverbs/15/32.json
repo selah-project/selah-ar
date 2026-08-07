@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 15:32",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "مُهْمِلُ التأديب يُزري بنفسه، وسامعُ التوبيخ يقتني قلبًا.",
+  "tokens": [
+    {
+      "surface": "פורע",
+      "gloss": "مُهْمِل"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "التأديب"
+    },
+    {
+      "surface": "מואס",
+      "gloss": "يُزري بـ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نفسه"
+    },
+    {
+      "surface": "ושומע",
+      "gloss": "وسامع"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "التوبيخ"
+    },
+    {
+      "surface": "קונה",
+      "gloss": "يقتني"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلبًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:07.501599655Z",
+  "model": "glm-5.2"
+}

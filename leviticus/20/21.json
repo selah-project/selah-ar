@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "ورجلٌ يأخذ ⟨את⟩ امرأةَ أخيه—نجاسةٌ هي؛ عورةَ أخيه كشف، عقيمين يكونون.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ورجل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "يأخذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "امرأة"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "أخيه"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "نجاسة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "عورة"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "أخيه"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "كشف"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "عقيمين"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "يكونون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:36.282536437Z",
+  "model": "glm-5.2"
+}

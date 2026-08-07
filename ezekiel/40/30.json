@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 40:30",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "والأروقة حولًا حولًا: طوله خمسٌ وعشرون ذراعًا، والعرضُ خمس أذرع.",
+  "tokens": [
+    {
+      "surface": "ואלמות",
+      "gloss": "والأروقة"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "حولًا"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "حولًا"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "طولُه"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "خمس"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "وعشرون"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ذراعًا"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "والعرضُ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "خمس"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "أذرع"
+    }
+  ],
+  "timestamp": "2026-08-07T03:14:55.319034616Z",
+  "model": "glm-5.2"
+}

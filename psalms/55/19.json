@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 55,
+  "translation": "افتدى ⟨في⟩ شالوم نَفْسي من الاقتراب بي، لأنّهم بكثرة كانوا معي.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "افتدى"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "⟨في⟩ شالوم"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نفسي"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "من الاقتراب"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّهم"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "بكثرة"
+    },
+    {
+      "surface": "היו",
+      "gloss": "كانوا"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "معي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:15.896858764Z",
+  "model": "glm-5.2"
+}

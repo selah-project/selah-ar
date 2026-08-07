@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 13:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "أفرام سكن في أرض كنعان، ولوط سكن في مدن الدائرة، فضرب خيمه حتى سدوم.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "أفرام"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "سكن"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كنعان"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "ولوط"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "سكن"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "في مدن"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "الدائرة"
+    },
+    {
+      "surface": "ויאהל",
+      "gloss": "فضرب خيمه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدوم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:22.496042040Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 9:20",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وأخبر الناطر قائلاً: «جاء إليهم ولم يرجع. والقيادة كقيادة ييهو بن نَمشِي، لأنه في جُنون يقود».",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "وأخبر"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "الناطر"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "בא",
+      "gloss": "جاء"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "שב",
+      "gloss": "يرجع"
+    },
+    {
+      "surface": "והמנהג",
+      "gloss": "والقيادة"
+    },
+    {
+      "surface": "כמנהג",
+      "gloss": "كقيادة"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ييهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "نمشِي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "في جُنون"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "يقود"
+    }
+  ],
+  "timestamp": "2026-08-07T01:56:05.925132864Z",
+  "model": "glm-5.2"
+}

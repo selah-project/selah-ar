@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "ورجلٌ أو امرأة، إذا يكونُ ⟨فيه⟩ نَگَعٌ في الرأسِ أو في اللحية،",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ورجل"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "نَگَع"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "في الرأس"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "في اللحية"
+    }
+  ],
+  "timestamp": "2026-08-07T00:19:38.578479556Z",
+  "model": "glm-5.2"
+}

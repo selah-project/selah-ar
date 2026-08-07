@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 1:29",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وقال إلوهيم: «ها أنا قد أعطيتكم ⟨את⟩ كل عِشب يَبذُر بَذراً الذي على وجه كل الأرض، و⟨את⟩ كل الشجر الذي فيه ثمر شجر يَبذُر بَذراً — لكم يكون طعاماً».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "أعطيت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل عشب يبذر بذراً"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "عِشب"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "يَبذُر"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "بَذراً"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كل الشجر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "الشجر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ثمر"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "شجر"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "يَبذُر"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "بَذراً"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "طعاماً"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:23.043597399Z",
+  "model": "glm-5.2"
+}

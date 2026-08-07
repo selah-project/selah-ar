@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "الحكيم يهاب وينصرف عن الشرّ، والجاهل يتعدّى الوغر ويعتمد.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "الحكيم"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "يهاب"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "وينصرف"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "عن الشرّ"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "والجاهل"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "يتعدّى الوغر"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "ويعتمد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:33.488098290Z",
+  "model": "glm-5.2"
+}

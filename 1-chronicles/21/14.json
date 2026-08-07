@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 21:14",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فأعطى يهوه دَبَرًا في إسرايل، وسقط من إسرايل سبعون ألف رجل.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "فأعطى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دَبَرًا"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "في إسرايل"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "وسقط"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "من إسرايل"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "سبعون"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:17:38.342622647Z",
+  "model": "glm-5.2"
+}

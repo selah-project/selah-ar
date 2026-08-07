@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 23:9",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "في أُذُنَيِ كَسيل لا تتكلّم، لأنّه سيحتقر فطنةَ كلامِك.",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "في أُذُنَي"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "كَسيل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "تتكلّم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "יבוז",
+      "gloss": "سيحتقر"
+    },
+    {
+      "surface": "לשכל",
+      "gloss": "فطنةَ"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "كلامِك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:13.967356448Z",
+  "model": "glm-5.2"
+}

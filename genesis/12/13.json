@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 12:13",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "قولي ⟨من فضلك⟩ إنّكِ أختي لكي يُحسَن إليّ بسبَبكِ وتحيا نَفسي من أجلِكِ.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "قولي"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨من فضلك⟩"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "أختي"
+    },
+    {
+      "surface": "את",
+      "gloss": "أنتِ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "يُحسَن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "בעבורך",
+      "gloss": "بسببكِ"
+    },
+    {
+      "surface": "וחיתה",
+      "gloss": "وتحيا"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نفسي"
+    },
+    {
+      "surface": "בגללך",
+      "gloss": "من أجلكِ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:56.492659722Z",
+  "model": "glm-5.2"
+}

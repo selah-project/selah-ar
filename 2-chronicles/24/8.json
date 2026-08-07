@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 24:8",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فأمر الملكُ فصنعوا تابوتًا واحدًا ووضعوه عند باب بيت يهوه في الخارج.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فأمر"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "فصنعوا"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "ووضعوه"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "عند باب"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "في الخارج"
+    }
+  ],
+  "timestamp": "2026-08-07T05:28:10.531732013Z",
+  "model": "glm-5.2"
+}

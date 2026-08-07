@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 30:29",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "فقال له: «أنتَ تعرف ⟨את⟩ الذي خدمتُك به، و⟨את⟩ الذي كان قطيعك معي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "تعرف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الذي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "خدمتُك"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الذي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "قطيعك"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "معي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:06.460606835Z",
+  "model": "glm-5.2"
+}

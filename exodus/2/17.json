@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فجاء الرُّعاةُ وطردوهنّ، فقام موشيه ونجّاهنّ وسقى ⟨את⟩ قطيعهنّ.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "فجاء"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "الرُّعاة"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "وطردوهنّ"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "فقام"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "ونجّاهنّ"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "وسقى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قطيعهنّ"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "قطيعهنّ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:44.722758609Z",
+  "model": "glm-5.2"
+}

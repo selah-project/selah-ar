@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 21:14",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "ها يهوه يَضرِب ضربةً عظيمةً في شعبك وفي بنيك وفي نسائك وفي كلِّ أملاكك.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "يَضرِب"
+    },
+    {
+      "surface": "מגפה",
+      "gloss": "ضربةً"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "عظيمةً"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "في شعبك"
+    },
+    {
+      "surface": "ובבניך",
+      "gloss": "وفي بنيك"
+    },
+    {
+      "surface": "ובנשיך",
+      "gloss": "وفي نسائك"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "وفي كلِّ"
+    },
+    {
+      "surface": "רכושך",
+      "gloss": "أملاكك"
+    }
+  ],
+  "timestamp": "2026-08-07T05:28:11.311528698Z",
+  "model": "glm-5.2"
+}

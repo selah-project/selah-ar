@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 55,
+  "translation": "الذي معًا نُحلّي السرّ، في بيت إلوهيم نسير في الجماعة.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "معًا"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "نُحلّي"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "السرّ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في بيت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "نسير"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "في الجماعة"
+    }
+  ],
+  "timestamp": "2026-08-07T06:04:29.624206210Z",
+  "model": "glm-5.2"
+}

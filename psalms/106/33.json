@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 106,
+  "translation": "لأنّهم أمرّوا ⟨את⟩ روَحه فتكلّم بطيش ⟨مع⟩ شفتيه",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّهم"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "أمرّوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "روَحه"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "روَحه"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "فتكلّم بطيش"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "⟨مع⟩ شفتيه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:09.994213577Z",
+  "model": "glm-5.2"
+}

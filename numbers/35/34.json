@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 35:34",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "ولا تُنجّسوا ⟨את⟩ الأرض التي أنتم ساكنون فيها، التي أنا ساكن في وسطها، لأنني أنا يهوه ساكن في وسط بني يسرائيل.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "تُنجّسوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "ساكنون"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ساكن"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "في وسطها"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ساكن"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:47.867228112Z",
+  "model": "glm-5.2"
+}

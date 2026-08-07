@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 3:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وأضع عداوة بينك وبين المرأة، وبين نسلك ونسلها. ⟨هو⟩ يسحقك ⟨في⟩ الرأس وأنتِ تسحقينه ⟨في⟩ العقب.",
+  "tokens": [
+    {
+      "surface": "ואיבה",
+      "gloss": "وعداوةً"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "أضع"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "بينك"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "المرأة"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "نسلك"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "זרעה",
+      "gloss": "نسلها"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ישופך",
+      "gloss": "يسحقك"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "الرأس"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "وأنتِ"
+    },
+    {
+      "surface": "תשופנו",
+      "gloss": "تسحقينه"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "العقب"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:20.594414797Z",
+  "model": "glm-5.2"
+}

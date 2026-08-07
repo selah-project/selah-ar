@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 33:20",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "ولِجاد قال: مباركٌ الواسِعُجاد، كلبوةٍ يَسكُن ويُمَزِّق ذراعًا بل هامةَ الرأس.",
+  "tokens": [
+    {
+      "surface": "ולגד",
+      "gloss": "ولجاد"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "مبارك"
+    },
+    {
+      "surface": "מרחיב",
+      "gloss": "الواسع"
+    },
+    {
+      "surface": "גד",
+      "gloss": "جاد"
+    },
+    {
+      "surface": "כלביא",
+      "gloss": "كلبوة"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "يسكن"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "ويمزّق"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ذراعًا"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بل"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "هامة الرأس"
+    }
+  ],
+  "timestamp": "2026-08-07T01:01:24.324998191Z",
+  "model": "glm-5.2"
+}

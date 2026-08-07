@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-samuel 19:34",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "فقال الملك لبرزلاي: «أعبر معي، وأُطعمك معي في يروشالايم».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "برزلاي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "اعبر"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "معي"
+    },
+    {
+      "surface": "וכלכלתי",
+      "gloss": "وأُطعمك"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاك"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "معي"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "في يروشالايم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:39:16.165828321Z",
+  "model": "glm-5.2"
+}

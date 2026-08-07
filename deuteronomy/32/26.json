@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 32:26",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "قلتُ: أُبدّدهم إلى الأطراف، أُبيدُ ذكرهم من بين البشر.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "قلتُ"
+    },
+    {
+      "surface": "אפאיהם",
+      "gloss": "أُبدّدهم إلى الأطراف"
+    },
+    {
+      "surface": "אשביתה",
+      "gloss": "أُبيدُ"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "من بين البشر"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ذكرهم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:01:56.149245005Z",
+  "model": "glm-5.2"
+}

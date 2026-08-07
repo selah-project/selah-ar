@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 9:4",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فقال له الملك: «أين هو؟» فقال صيبّا للملك: «هوذا هو في بيت ماشير ابن عَمّيئيل بِلُو دِبار.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "أين"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "صيبّا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "في بيت"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ماشير"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "عَمّيئيل"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "بِلُو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دِبار"
+    }
+  ],
+  "timestamp": "2026-08-07T01:34:09.181989797Z",
+  "model": "glm-5.2"
+}

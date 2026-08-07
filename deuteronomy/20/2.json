@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "«و⟨يكون⟩ عند اقترابكم إلى الحرب، فيتقدّم الكوهين (الكاهن) ويُكلِّم الشعب».",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و⟨يكون⟩"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "عند اقترابكم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "الحرب"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "فيتقدّم"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين (الكاهن)"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ويُكلِّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:46.464165499Z",
+  "model": "glm-5.2"
+}

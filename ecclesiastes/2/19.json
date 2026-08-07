@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 2:19",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "ومَن يعلم: الحكيمُ يكون أم الجاهل؟ و⟨هو⟩ يتسلّط على كلِّ تعبي الذي تعبتُه وحكمتُه تحت الشمس. وهذا أيضًا هَبَل.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "يعلم"
+    },
+    {
+      "surface": "החכם",
+      "gloss": "الحكيم"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "או",
+      "gloss": "أم"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "الجاهل"
+    },
+    {
+      "surface": "וישלט",
+      "gloss": "ويتسلّط"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "على كلّ"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "تعبي"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "الذي تعبتُه"
+    },
+    {
+      "surface": "ושחכמתי",
+      "gloss": "وحكمتُه"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "الشمس"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هَبَل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:14.810368762Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فأجاب يهوه ⟨את⟩ الملاك المتكلّم فيّ كلامًا طيّبة، كلامًا مُعزّية.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "فأجاب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الملاك"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "الملاك"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "المتكلّم"
+    },
+    {
+      "surface": "בי",
+      "gloss": "فيّ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "كلامًا"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "طيّبة"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "كلامًا"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "مُعزّية"
+    }
+  ],
+  "timestamp": "2026-08-07T03:34:49.062770979Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 37:2",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "اسمعوا سماعًا ⟨بـ⟩رعدة صوته، والهدير من فمه يخرج.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "اسمعوا"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "سماعًا"
+    },
+    {
+      "surface": "ברגז",
+      "gloss": "برعدة"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "صوته"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "والهدير"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "من فمه"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "يخرج"
+    }
+  ],
+  "timestamp": "2026-08-07T04:42:47.510445812Z",
+  "model": "glm-5.2"
+}

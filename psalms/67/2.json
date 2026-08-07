@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 67,
+  "translation": "إلوهيم يَمْنَنْ علينا ويباركنا، يُنير وجهه معنا. سِلاه.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "يمتن علينا"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "ويباركنا"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "يُنير"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "وجهه"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "معنا"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T06:04:40.959305764Z",
+  "model": "glm-5.2"
+}

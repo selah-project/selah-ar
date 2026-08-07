@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "قضى دينَ الفقير والمسكين — حينئذٍ خيرٌ. أليس هذا هو معرفةَ ⟨את⟩ يدّعي يهوه؟",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "قضى"
+    },
+    {
+      "surface": "דין",
+      "gloss": "دينَ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "الفقير"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "والمسكين"
+    },
+    {
+      "surface": "אז",
+      "gloss": "حينئذٍ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خيرٌ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "أليس"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "معرفةَ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "يدّعي يهوه"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "يدّعي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:37:54.089817468Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "وصنع ⟨את⟩ العارضة الوسطى للعبور في وسط الألواح من الطرف إلى الطرف.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وصنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "العوارض"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "العوارض"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "الوسطى"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "للعبور"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "الألواح"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "الطرف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "الطرف"
+    }
+  ],
+  "timestamp": "2026-08-07T00:14:07.697787248Z",
+  "model": "glm-5.2"
+}

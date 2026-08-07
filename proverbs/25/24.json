@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 25:24",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "الجلوس في زاوية سقيف أفضل من امرأة مشاحنات وبيت شركة.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "أفضل"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "الجلوس"
+    },
+    {
+      "surface": "על",
+      "gloss": "في"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "زاوية"
+    },
+    {
+      "surface": "גג",
+      "gloss": "سقيف"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "من امرأة"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "مشاحنات"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "وبيت"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "شركة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:59.519042621Z",
+  "model": "glm-5.2"
+}

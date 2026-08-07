@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 22:11",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وكوهين إنِ اشترى نَفْسًا مُقتنَى فضّته، فهو يأكل منه، ومولود بيته، هم يأكلون من خبزه.",
+  "tokens": [
+    {
+      "surface": "וכהן",
+      "gloss": "وكوهين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إنِ"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "اشترى"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْسًا"
+    },
+    {
+      "surface": "קנין",
+      "gloss": "مُقتنَى"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "فضّه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يأكل"
+    },
+    {
+      "surface": "בו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "ויליד",
+      "gloss": "ومولود"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "بيته"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "يأكلون"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "من خبزه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:35.615772968Z",
+  "model": "glm-5.2"
+}

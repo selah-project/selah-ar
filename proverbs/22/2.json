@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "غنيٌّ وفقيرٌ التقَيا؛ صانعُ كُلِّهِم يهوه.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "غنيّ"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "وفقير"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "التقَيا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صانع"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "كُلِّهم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T06:08:44.216986638Z",
+  "model": "glm-5.2"
+}

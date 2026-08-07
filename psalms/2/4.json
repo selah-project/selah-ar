@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "الْجَالِسُ فِي ⟨اله⟩شَّمَاوَاتِ يَضْحَكُ، أَدُونَاي يَسْخَرُ مِنْهُمْ.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "الجالس"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "في السماوات"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "يضحك"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "يسخر"
+    },
+    {
+      "surface": "למו",
+      "gloss": "منهم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:40:30.822485165Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 77,
+  "translation": "صوتي إلى إلوهيم وأصرخ، صوتي إلى إلوهيم فيُصغي إليّ",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "صوتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "وأصرخ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "صوتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "فيُصغي"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:15.978206993Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "و⟨تعرف⟩ مع قلبك أنه كما يؤدّب رجل ⟨את⟩ ابنه، يهوه إلوهيمك يؤدّبك.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "و⟨تعرف⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "قلبك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "يؤدّب"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابنه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "يؤدّبك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:54:16.464614214Z",
+  "model": "glm-5.2"
+}

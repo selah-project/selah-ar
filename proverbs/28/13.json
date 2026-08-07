@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 28:13",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "مَنْ يُغطّي معاصيه لا يُفلِح، ومن يَعتَرِف ويَتْرُكها يُرْحَم.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "مَنْ يُغطّي"
+    },
+    {
+      "surface": "פשעיו",
+      "gloss": "معاصيه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "يُفلِح"
+    },
+    {
+      "surface": "ומודה",
+      "gloss": "ومن يَعتَرِف"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ويَتْرُكها"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "يُرْحَم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:58.872513526Z",
+  "model": "glm-5.2"
+}

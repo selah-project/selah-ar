@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 19:19",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وفعلتم به كما أضمر أن يفعل بأخيه، واستأصلت الشرّ من وسطك.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "وفعلتم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "זמם",
+      "gloss": "أضمر"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "أن يفعل"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "بأخيه"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "واستأصلت"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "من وسطك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:04.375582503Z",
+  "model": "glm-5.2"
+}

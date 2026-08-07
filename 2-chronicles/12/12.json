@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 12:12",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "ولما تواضع، ارتدّ عنه غضب يهوه فلم يُهلك إهلاكاً تامّاً؛ وكان أيضاً في يهودا أمور صالحة.",
+  "tokens": [
+    {
+      "surface": "ובהכנעו",
+      "gloss": "ولما تواضع"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ارتدّ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "عنه"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "يُهلك"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "إهلاكاً تامّاً"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "وكان أيضاً"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "في يهودا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "أمور"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "صالحة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:25:31.894610962Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 2:19",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "كلُّ الداخلين إليها لا يعودون، و⟨هم⟩ لا يُدركون سُبُل حياة.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "באיה",
+      "gloss": "الداخلين إليها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "يعودون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "يُدركون"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "سُبُل"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حياة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:21:24.934760395Z",
+  "model": "glm-5.2"
+}

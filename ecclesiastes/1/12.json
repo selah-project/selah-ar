@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "أنا قوهيلت كنت ملكًا على يسرائيل في يروشالايم.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "قوهيلت"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "كنت"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملكًا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "في يروشالايم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:50:47.048726541Z",
+  "model": "glm-5.2"
+}

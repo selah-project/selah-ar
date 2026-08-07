@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 6:10",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فأقام يهوه ⟨את⟩ كلمته التي تكلّم بها، ووقفتُ مكان دايد أبي، وجلستُ على كرسي إسرائيل كما تكلّم يهوه، وبنيتُ البيت لاسم يهوه إله إسرائيل.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "فأقام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلمته"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "كلمته"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "ואקום",
+      "gloss": "ووقفتُ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "مكان"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "دايد"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "وجلستُ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "كرسي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "وبنيتُ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "لاسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إله"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:21:13.803981137Z",
+  "model": "glm-5.2"
+}

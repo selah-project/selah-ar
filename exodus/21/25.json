@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "كَيّ مقابل كَيّ، جُرح مقابل جُرح، رَبْضَة مقابل رَبْضَة.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "كَيّ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "مقابل"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "كَيّ"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "جُرح"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "مقابل"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "جُرح"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "رَبْضَة"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "مقابل"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "رَبْضَة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:02.109182284Z",
+  "model": "glm-5.2"
+}

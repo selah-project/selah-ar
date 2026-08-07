@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 22:3",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وذهب داوِد من هناك إلى مِصفاه موآب، وقال لملك موآب: «ليخرجْ يا رجائي أبي وأمّي معكم، حتى أعرف ماذا يفعل بي إلوهيم».",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "وذهب"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "משם",
+      "gloss": "من هناك"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "مِصفاه"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ل"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ليخرجْ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "يا رجائي"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "وأمّي"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "معكم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "أن"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "أعرف"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يفعل"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:29:14.316206951Z",
+  "model": "glm-5.2"
+}

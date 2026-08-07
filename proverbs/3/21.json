@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 3:21",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "يا ابني لا تَزِغْ من عينيك، احفظْ توشيّة ومزيمة.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "يا ابني"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יָלֻ֣זוּ",
+      "gloss": "تَزِغْ"
+    },
+    {
+      "surface": "מֵעֵינֶ֑יךָ",
+      "gloss": "من عينيك"
+    },
+    {
+      "surface": "נְצֹ֥ר",
+      "gloss": "احفظْ"
+    },
+    {
+      "surface": "תֻּ֝שִׁיָּ֗ה",
+      "gloss": "توشيّة"
+    },
+    {
+      "surface": "וּמְזִמָּֽה",
+      "gloss": "ومزيمة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:21:26.077289809Z",
+  "model": "glm-5.2"
+}

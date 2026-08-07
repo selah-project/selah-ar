@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "ستّون هنّ مَلِكات، وثمانون سُرِّيّات، وعَذارى بلا عدد.",
+  "tokens": [
+    {
+      "surface": "שִׁשִּׁים",
+      "gloss": "ستّون"
+    },
+    {
+      "surface": "הֵמָּה",
+      "gloss": "هنّ"
+    },
+    {
+      "surface": "מְלָכוֹת",
+      "gloss": "مَلِكات"
+    },
+    {
+      "surface": "וּשְׁמֹנִים",
+      "gloss": "وثمانون"
+    },
+    {
+      "surface": "פִּילַגְשִׁים",
+      "gloss": "سُرِّيّات"
+    },
+    {
+      "surface": "וַעֲלָמוֹת",
+      "gloss": "وعَذارى"
+    },
+    {
+      "surface": "אֵין",
+      "gloss": "بلا"
+    },
+    {
+      "surface": "מִסְפָּר",
+      "gloss": "عدد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:45:46.463002727Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "ورأت مَلِكَة شَبا ⟨את⟩ حكمة شلومو، والبيت الذي بناه.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ورأت"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "مَلِكَة"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شَبا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حكمة"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "حكمة"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "والبيت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بناه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:25:12.610206277Z",
+  "model": "glm-5.2"
+}

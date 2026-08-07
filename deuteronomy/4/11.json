@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "واقتربتم ووقفتم تحت الجبل، والجبل يشتعل بالنار إلى لبّ السماوات: ظلامٌ سحابٌ وعرفيل.",
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "واقتربتم"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "ووقفتم"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "الجبل"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "والجبل"
+    },
+    {
+      "surface": "בער",
+      "gloss": "يشتعل"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بالنار"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "לב",
+      "gloss": "لبّ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ظلام"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "سحاب"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "وعرفيل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:15.318606509Z",
+  "model": "glm-5.2"
+}

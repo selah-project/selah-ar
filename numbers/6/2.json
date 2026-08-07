@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 6:2",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "«كلّم بني يسرايل وقل لهم: رجلٌ أو امرأةٌ، حين يُفرد نذرًا، نذر نَزير، للتفرّد ليهوه —",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "كلّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "وقل"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "حين"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "يُفرد"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "نذرًا"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذر"
+    },
+    {
+      "surface": "נזיר",
+      "gloss": "نَزير"
+    },
+    {
+      "surface": "להזיר",
+      "gloss": "للتفرّد"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:30:29.650282825Z",
+  "model": "glm-5.2"
+}

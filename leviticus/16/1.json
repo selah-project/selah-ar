@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وكلّم يهوه موشيه بعد موت ابني أهارون عند اقترابهم أمام يهوه فماتوا",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨إلى⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "שני",
+      "gloss": "اثني"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ابني"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "בקרבתם",
+      "gloss": "عند اقترابهم"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "فماتوا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:08.671041486Z",
+  "model": "glm-5.2"
+}

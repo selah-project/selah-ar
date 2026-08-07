@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وفعل يهوه ككلمة موشيه، فماتت الضفادع من البيوت ومن الأَحواط ومن الحقول.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وفعل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ككلمة"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "فماتت"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "الضفادع"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "البيوت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "الأحواط"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "الحقول"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:04.444288668Z",
+  "model": "glm-5.2"
+}

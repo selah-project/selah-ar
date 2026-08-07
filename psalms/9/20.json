@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "قُمْ، يا يهوه! لا يَتَعزّز الإنسان! لِتُدان الأمم أمام وجهك!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "قُمْ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "يتعزّز"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "لِتُدان"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "על",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:42:33.307771584Z",
+  "model": "glm-5.2"
+}

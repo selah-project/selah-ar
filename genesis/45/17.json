@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 45:17",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "وقال فرعون ليوسف: قل لإخوتك: هذا افعلوه: حمِّلوا ⟨את⟩ بهائمكم واذهبوا ادخلوا أرض كنعان،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "إخوتك"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "افعلوا"
+    },
+    {
+      "surface": "טענו",
+      "gloss": "حمِّلوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بهائمكم"
+    },
+    {
+      "surface": "בעירכם",
+      "gloss": "بهائمكم"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "واذهبوا"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ادخلوا"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كنعان"
+    }
+  ],
+  "timestamp": "2026-08-06T23:57:12.964835649Z",
+  "model": "glm-5.2"
+}

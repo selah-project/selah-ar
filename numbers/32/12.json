@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 32:12",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "«إلا كالِف ابن يفنّه القِنَزيّ، ويهوشوع بن نون، لأنهم أتمّوا السير وراء يهوه»",
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "إلا"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "كالِف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "يفنّه"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "القِنَزيّ"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "ويهوشوع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنهم"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "أتمّوا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "السير وراء"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:02.792237428Z",
+  "model": "glm-5.2"
+}

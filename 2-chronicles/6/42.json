@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-chronicles 6:42",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "يا يهوه إلوهيم، لا تُعرْ وجه ماشيحك. اذكرْ لحِسِدي داود عبدك.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "تُعرْ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "משיחיך",
+      "gloss": "ماشيحك"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "اذكرْ"
+    },
+    {
+      "surface": "לחסדי",
+      "gloss": "لحِسِدي"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدك"
+    }
+  ],
+  "timestamp": "2026-08-07T05:20:31.047251449Z",
+  "model": "glm-5.2"
+}

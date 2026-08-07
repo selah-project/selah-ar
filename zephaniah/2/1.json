@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "احتشِدوا، بل احتشِدوا، أيتها الأمة غير المستحقة ⟨ل⟧ الاشتياق.",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "احتشِدوا"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "بل احتشِدوا"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "أيتها الأمة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "غير"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "المستحقة ⟨ل⟧ الاشتياق"
+    }
+  ],
+  "timestamp": "2026-08-07T03:33:43.674365852Z",
+  "model": "glm-5.2"
+}

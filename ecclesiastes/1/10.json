@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "هل من شيءٍ يُقال عنه: «انظر، هذا جديد»؟ قد كان منذ الدهور التي كانت قبلنا.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "هل من"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شيء"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "يُقال"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "انظر"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "جديد"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "منذ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "الدهور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كانت"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "قبلنا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:50:47.048521449Z",
+  "model": "glm-5.2"
+}

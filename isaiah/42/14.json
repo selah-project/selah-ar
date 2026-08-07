@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 42:14",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "صمتُ منذ الأزل، أسكت، أتمالك. ⟨ك⟩الوالدة أصرخ، أُبيد وأبتلع معًا.",
+  "tokens": [
+    {
+      "surface": "החשיתי",
+      "gloss": "صمتُ"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "منذ الأزل"
+    },
+    {
+      "surface": "אחריש",
+      "gloss": "أسكت"
+    },
+    {
+      "surface": "אתאפק",
+      "gloss": "أتمالك"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "كالوالدة"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "أصرخ"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "أُبيد"
+    },
+    {
+      "surface": "ואשאף",
+      "gloss": "وأبتلع"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "معًا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:19:06.878397101Z",
+  "model": "glm-5.2"
+}

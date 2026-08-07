@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 6:16",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "«الغامقةُ مِن جَليدٍ، عليها يتوارى الثَّلْج.»",
+  "tokens": [
+    {
+      "surface": "הקדרים",
+      "gloss": "الغامقة"
+    },
+    {
+      "surface": "מני",
+      "gloss": "من"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "جليد"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "عليها"
+    },
+    {
+      "surface": "יתעלם",
+      "gloss": "يتوارى"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "الثلج"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:42.840086751Z",
+  "model": "glm-5.2"
+}

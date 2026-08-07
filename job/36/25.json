@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "كلُّ إنسانٍ قد رآه، والبشرُ ينظر من بعيد.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "رأى"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ه"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "البشر"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ينظر"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "من بعيد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:42:29.810504621Z",
+  "model": "glm-5.2"
+}

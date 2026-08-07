@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "ثَمَرُ الصِّدِّيقِ شَجَرَةُ حَياةٍ، وآخِذُ النُّفوسِ حَكيمٌ.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "ثَمَرُ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "الصِّدِّيقِ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "شَجَرَةُ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حَياةٍ"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "وآخِذُ"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "النُّفوسِ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حَكيمٌ"
+    }
+  ],
+  "timestamp": "2026-08-07T06:08:26.483704787Z",
+  "model": "glm-5.2"
+}

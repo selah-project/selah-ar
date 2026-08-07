@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 136,
+  "translation": "للماشي بِشعبه في البريَّة، لأنَّ إلى الأبد حِسِدُهُ",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "للماشي"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "بِشعبه"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في البريَّة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حِسِدُهُ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:17:28.893285351Z",
+  "model": "glm-5.2"
+}

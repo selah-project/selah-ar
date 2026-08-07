@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 11:22",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "خاتمُ ذهبٍ في خِنزير أنفِهِ، امرأةٌ جميلةٌ تخلو من التمييز.",
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "خاتمُ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهبٍ"
+    },
+    {
+      "surface": "באף",
+      "gloss": "في"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "خِنزير"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأةٌ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "جميلةٌ"
+    },
+    {
+      "surface": "וסרת",
+      "gloss": "تخلو"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "من التمييز"
+    }
+  ],
+  "timestamp": "2026-08-07T04:24:42.644152722Z",
+  "model": "glm-5.2"
+}

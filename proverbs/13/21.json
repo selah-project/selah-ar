@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "الخطاة تطاردهم رَعالة، و⟨أمّا⟩ ⟨את⟩ الصدّيقين فيُوَفَّى طيِّب.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "الخطاة"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "تطارد"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "رَعالة"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "الصدّيقين"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "الصدّيقين"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "يُوَفَّى"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيِّب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:12.247632551Z",
+  "model": "glm-5.2"
+}

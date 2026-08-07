@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "لأنَّ المحتاج لا ينقطع من وسط الأرض، لذلك أنا أوصيك قائلًا: افتحًا تفتح ⟨את⟩ يدك لأخيك، وللمسكينك، ولمحتاجك في أرضك:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "ينقطع"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "المحتاج"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "من وسط"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "על",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨لذلك⟩"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "أوصيك"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "افتحًا"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "تفتح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يدك"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدك"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "لأخيك"
+    },
+    {
+      "surface": "לעניך",
+      "gloss": "لمسكينك"
+    },
+    {
+      "surface": "ולאבינך",
+      "gloss": "ولمحتاجك"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "في أرضك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:56:34.943480691Z",
+  "model": "glm-5.2"
+}

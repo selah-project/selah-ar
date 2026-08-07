@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 3:6",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "لأنّ إنسانًا يتشبّث بأخيه في بيت أبيه قائلًا: «لَكَ ثوبٌ، كن لنا قائدًا، ولتكن ⟨تحت⟩ يدك هذه الكارثة.»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "יתפש",
+      "gloss": "يتشبّث"
+    },
+    {
+      "surface": "איש",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "بأخيه"
+    },
+    {
+      "surface": "בית",
+      "gloss": "في بيت"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "ثوب"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "لَكَ"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "قائد"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "كن"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "והמכשלה",
+      "gloss": "والكارثة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدك"
+    }
+  ],
+  "timestamp": "2026-08-07T02:04:10.629659971Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "يهوه، بقوّتك يفرح ملك، وبخلاصك ما أشدّ فرحه!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "بقوّتك"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "يفرح"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "وبخلاصك"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "أشدّ فرحه"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "أشدّ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:45.012807970Z",
+  "model": "glm-5.2"
+}

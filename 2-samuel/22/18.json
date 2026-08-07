@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 22:18",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "أنقذني من عدوّي العزيز، من مبغضيّ، لأنّهم قووا عليّ.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "أنقذني"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "من عدوّي"
+    },
+    {
+      "surface": "עז",
+      "gloss": "العزيز"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "من مبغضيّ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّهم"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "قووا"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "عليّ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:40:30.682103163Z",
+  "model": "glm-5.2"
+}

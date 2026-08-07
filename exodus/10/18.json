@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 10:18",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فخرج من لدن فرعون، وتباركى إلى يهوه.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "فخرج"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "من لدن"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "وتباركى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:01:46.840676438Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "مزمور لداود. أعطوا ليهوه يا بني إيليم، أعطوا ليهوه كبد وعزّا",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِدَاوُد"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "أعطوا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "لِيَهْوَه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "يا بني"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "إِيليم"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "أعطوا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "لِيَهْوَه"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "كَبُود"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "وعِزّا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:29.516883702Z",
+  "model": "glm-5.2"
+}

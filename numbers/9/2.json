@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "«فليصنع بنو إسرائيل ⟨את⟩ الفصح في موعده.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "فليصنعوا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الفصح"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "الفصح"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "في موعده"
+    }
+  ],
+  "timestamp": "2026-08-07T00:31:19.771700174Z",
+  "model": "glm-5.2"
+}

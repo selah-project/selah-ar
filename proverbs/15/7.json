@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "شَفَتا الحُكماء تَنْشُرانِ المعرفة، وقلبُ الحَمقى ليس كذلك.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "شَفَتا"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "الحُكماء"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "تَنْشُرانِ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "المعرفة"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "وقلب"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "الحَمقى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "كذلك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:59.503551609Z",
+  "model": "glm-5.2"
+}

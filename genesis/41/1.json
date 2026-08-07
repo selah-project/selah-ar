@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 41:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "و⟨كان⟩ في نهاية سنتين يومًا أنّ فرعون حلم، وإذا هو واقف على النّهر",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "في نهاية"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "سنتين"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "يومًا"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "وفرعون"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "حلم"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "واقف"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "النّهر"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:20.176917712Z",
+  "model": "glm-5.2"
+}

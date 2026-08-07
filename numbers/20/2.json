@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "ولم تكن مياه للجماعة، فتجمَّعوا على موشيه وعلى أهارون.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تكن"
+    },
+    {
+      "surface": "מים",
+      "gloss": "مياه"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "للجماعة"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "فتجمَّعوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:38:07.071256527Z",
+  "model": "glm-5.2"
+}

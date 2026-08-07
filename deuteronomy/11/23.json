@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "فإنّ يهوه يُخلي ⟨את⟩ كلّ الأمم هؤلاء من أمامكم، فترثون أممًا أكبر وأعزّ منكم.",
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "فإنّ... يُخلي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ الأمم هؤلاء"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "من أمامكم"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "فترثون"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "أممًا"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "أكبر"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "وأعزّ"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "منكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:54:05.274878755Z",
+  "model": "glm-5.2"
+}

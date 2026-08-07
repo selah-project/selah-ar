@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 5:3",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "أو إذْ يمسّ بنجاسةِ إنسانٍ لكلِّ نجاستِه التي يتنجَّس بها — وخفي عنه ثم عَلِم فهو آثم.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذْ"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "يمسّ"
+    },
+    {
+      "surface": "בטמאת",
+      "gloss": "بنجاسةِ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "إنسانٍ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لكلِّ"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "نجاستِه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "يتنجَّس"
+    },
+    {
+      "surface": "בה",
+      "gloss": "بها"
+    },
+    {
+      "surface": "ונעלם",
+      "gloss": "وخفي"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "عنه"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ثم"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "عَلِم"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "فهو آثم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:50.724416450Z",
+  "model": "glm-5.2"
+}

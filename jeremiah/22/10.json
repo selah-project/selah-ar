@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 22:10",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "لا تبكوا ⟨على⟩ ميّت ولا تندبوه؛ بكوا بكاءً للذاهب، لأنّه لا يعود بعد، ولا يرى ⟨את⟩ أرض مولده.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "تبكوا"
+    },
+    {
+      "surface": "למת",
+      "gloss": "لميّت"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תנדו",
+      "gloss": "تندبوا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "ابكوا"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "بكاءً"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "للذاهب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "يعود"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ويرى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أرض مولده"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "مولده"
+    }
+  ],
+  "timestamp": "2026-08-07T02:38:52.980319232Z",
+  "model": "glm-5.2"
+}

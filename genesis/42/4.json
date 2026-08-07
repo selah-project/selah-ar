@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "وأمّا ⟨את⟩ بنيامين أخا يوسف فلم يُرسله يعقوف مع إخوته، لأنه قال: «عسى أن يُصيبه أَسون».",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بنيامين"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "بنيامين"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "أخا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "يُرسل"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "إخوته"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "إخوته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "פן",
+      "gloss": "عسى أن"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "يُصيبه"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "أَسون"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:43.747378745Z",
+  "model": "glm-5.2"
+}

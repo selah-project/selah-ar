@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "في ذنبِ رجلٍ رَشْراشٍ فخٌّ، ⟨و⟩الصِّدِّيقُ يُرَنِّمُ ⟨و⟩يفرح",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "في ذنب"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "רע",
+      "gloss": "رَشْراش"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "فخّ"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "⟨و⟩الصِّدِّيق"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "يُرَنِّم"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "⟨و⟩يفرح"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:15.542246032Z",
+  "model": "glm-5.2"
+}

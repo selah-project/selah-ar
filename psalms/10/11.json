@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "قال في قلبه: «نسي إيل، أخفى وجهه، لا يرى أبدًا»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "في قلبه"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "نسي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "أخفى"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "وجهه"
+    },
+    {
+      "surface": "בל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "يرى"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "أبدًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:42:10.709229973Z",
+  "model": "glm-5.2"
+}

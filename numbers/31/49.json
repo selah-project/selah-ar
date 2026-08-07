@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 31:49",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "وقالوا لموشيه: «عبيدك رفعوا ⟨את⟩ رأس رجال الحرب الذين في يدنا، ولم يُفقَد منّا أحد».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقالوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "عبيدك"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "رفعوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رأس"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأس"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "الحرب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "في يدنا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "נפקד",
+      "gloss": "يُفقَد"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منّا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "أحد"
+    }
+  ],
+  "timestamp": "2026-08-07T05:42:26.276051968Z",
+  "model": "glm-5.2"
+}

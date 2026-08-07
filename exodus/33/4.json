@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "وسمعَ الشعبُ ⟨את⟩ الكلامَ الرديءَ هذا فناحوا، ولم يضعْ أحدٌ زينتَه عليه.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "وسمع"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الكلام"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الكلام"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "الرديء"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "فناحوا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "يضع"
+    },
+    {
+      "surface": "איש",
+      "gloss": "أحد"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "زينتَه"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:45.645311701Z",
+  "model": "glm-5.2"
+}

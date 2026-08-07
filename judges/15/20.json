@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وقضى ⟨את⟩ يِسراائيل في أيّام فلِشتيّم عشرين سنًة.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "وقضى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يِسراائيل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسراائيل"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "في أيّام"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلِشتيّم"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "عشرين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنًة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:17:55.339050679Z",
+  "model": "glm-5.2"
+}

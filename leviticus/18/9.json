@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 18:9",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "عورة أختك بنت أبيك أو بنت أمّك، مولودة البيت أو مولودة الخارج، لا تكشف عورتهنّ.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "عورة"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "أختك"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أبيك"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "أمّك"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "مولودة"
+    },
+    {
+      "surface": "בית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "مولودة"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "الخارج"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "تكشف"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "عورتهنّ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:18.332864147Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 60,
+  "translation": "أعطيتَ ⟨لـ⟩خائفيك رايةً ⟨لـ⟩تُرفع، من وجه القَوْس. صَلاه.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "أعطيتَ"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "لخائفيك"
+    },
+    {
+      "surface": "נס",
+      "gloss": "رايةً"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "لتُرفع"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجه"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "القَوْس"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "صَلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T06:04:51.400213272Z",
+  "model": "glm-5.2"
+}

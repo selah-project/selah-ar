@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 19:22",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "أسرع، اهرب إلى هناك، لأنني لا أقدر أن أفعل شيئاً حتى تأتي إلى هناك.» لذلك دعا اسم المدينة صوغر.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "أسرع"
+    },
+    {
+      "surface": "המלט",
+      "gloss": "اهرب"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "إلى هناك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنني"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "أقدر"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "أن أفعل"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شيئاً"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "באך",
+      "gloss": "تأتي"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "إلى هناك"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨لهذا⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "دعا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "صوغر"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:31.529677393Z",
+  "model": "glm-5.2"
+}

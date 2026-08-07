@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "ما أكرم حِسِدَك يا إلوهيم، فبنو الإنسان في ظلّ جناحيك يحتمون.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "أكرم"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حِسِدَك"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "فبنو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "في ظلّ"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "جناحيك"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "يحتمون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:43.572205879Z",
+  "model": "glm-5.2"
+}

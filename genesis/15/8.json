@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 15:8",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "فقال: أدوناي يهوه، بماذا أعرف أنني أملكها؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "במה",
+      "gloss": "بماذا"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "أعرف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "אירשנה",
+      "gloss": "أملكها"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:24.049699064Z",
+  "model": "glm-5.2"
+}

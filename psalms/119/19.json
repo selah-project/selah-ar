@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "غريبٌ أنا في الأرض، لا تَستُر عنّي وصاياك.",
+  "tokens": [
+    {
+      "surface": "גֵּ֣ר",
+      "gloss": "غريبٌ"
+    },
+    {
+      "surface": "אָנֹכִ֣י",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "בָאָ֑רֶץ",
+      "gloss": "في الأرض"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תַּסְתֵּ֥ר",
+      "gloss": "تَستُر"
+    },
+    {
+      "surface": "מִ֝מֶּ֗נִּי",
+      "gloss": "عنّي"
+    },
+    {
+      "surface": "מִצְוֺתֶֽיךָ",
+      "gloss": "وصاياك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:35.942106836Z",
+  "model": "glm-5.2"
+}

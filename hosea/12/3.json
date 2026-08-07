@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 12:3",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وليهوه خصومة مع يهوذا، وفيزيارة يعقوف على طرقه. كأفعاله يرد عليه.",
+  "tokens": [
+    {
+      "surface": "וריב",
+      "gloss": "ولخصومة"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوذا"
+    },
+    {
+      "surface": "ולפקד",
+      "gloss": "وفيزيارة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "كطرقه"
+    },
+    {
+      "surface": "כמעלליו",
+      "gloss": "كأفعاله"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "يردّ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "عليه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:22:31.313782372Z",
+  "model": "glm-5.2"
+}

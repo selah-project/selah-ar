@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 56,
+  "translation": "بسبب الإثم أَفلِتْهم؟ بغضبٍ شعوبًا أَهبِطْ — يا إلوهيم.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "بسبب"
+    },
+    {
+      "surface": "און",
+      "gloss": "الإثم"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "أَفلِتْهم؟"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨هم⟩"
+    },
+    {
+      "surface": "באף",
+      "gloss": "بغضبٍ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "شعوبًا"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "أَهبِطْ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "يا إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:42.061119822Z",
+  "model": "glm-5.2"
+}

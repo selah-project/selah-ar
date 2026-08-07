@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 43:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 43,
+  "translation": "وقال إليه يهودا قائلًا: «أشهدَ شهادةً فينا الرجلُ قائلًا: لا ترون وجهي إلا أخاكم معكم.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "העד",
+      "gloss": "أشهدَ"
+    },
+    {
+      "surface": "העד",
+      "gloss": "شهادةً"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "فينا"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "ترون"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهي"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "إلا"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "أخاكم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "معكم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:52:10.038424887Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "اثنتي عشرة سنة خَدَموا ⟨את⟩ كدرلاعومر، وثلاث عشرة سنة تمرّدوا.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "اثنتي"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرة"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "خَدَموا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كدرلاعومر"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "كدرلاعومر"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "وثلاث"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرة"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "تمرّدوا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:28.699473216Z",
+  "model": "glm-5.2"
+}

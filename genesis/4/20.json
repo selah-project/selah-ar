@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "ووَلَدت عاداه ⟨את⟩ يابال؛ ⟨هو⟩ كان أبا ساكني الخيام والمواشي.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ووَلَدت"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عاداه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يابال"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "يابال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبا"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ساكني"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "الخيام"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "والمواشي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:59.878049181Z",
+  "model": "glm-5.2"
+}

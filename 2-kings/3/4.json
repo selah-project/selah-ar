@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "ومِيشع ملك موآب كان راعيَ ضأن، وكان يُعيد لملك يسرائيل مئة ألف خِراف ومئة ألف كباش صوفًا",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "ومِيشع"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "راعيَ ضأن"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "وكان يُعيد"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "لملك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "خِراف"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ومئة"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "كبش"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "صوفًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:53:14.519399242Z",
+  "model": "glm-5.2"
+}

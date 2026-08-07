@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 18:24",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "صاحبُ رُفَقاءِ ⟨لِلهَلاكِ⟩، وهُناكَ مُحِبٌّ يَلتَصِقُ أكثرْ من أخ.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "صاحب"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "رفقاء"
+    },
+    {
+      "surface": "להתרעע",
+      "gloss": "⟨لِلهَلاكِ⟩"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "وهُناكَ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "مُحِبٌّ"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "يَلتَصِقُ"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "أكثرْ من أخ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:02.233877766Z",
+  "model": "glm-5.2"
+}

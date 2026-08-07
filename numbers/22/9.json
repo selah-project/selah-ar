@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "فجاء إلوهيم إلى بلعام وقال: من ⟨هم⟩ هؤلاء الرجال الذين ⟨معك⟩؟",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "وجاء"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بلعام"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "هؤلاء الرجال"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:38:44.552118995Z",
+  "model": "glm-5.2"
+}

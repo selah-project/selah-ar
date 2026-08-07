@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 110,
+  "translation": "شعبك نذورٌ في يوم قوّتك. بهيارات قدسٍ من رحم الفجر لك طَلُّ حداثتك.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "شعبك"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "نذور"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "قوّتك"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "بهيارات"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدس"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "من رحم"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "الفجر"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "טל",
+      "gloss": "طَلّ"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "حداثتك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:17.969917689Z",
+  "model": "glm-5.2"
+}

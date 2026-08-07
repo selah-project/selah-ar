@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "إلوهيمٌ قاضٍ صدّيق، وإيلٌ غاضبٌ في كلِّ يوم.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيمٌ"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "قاضٍ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صدّيق"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإيلٌ"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "غاضبٌ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلِّ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:39:49.064891281Z",
+  "model": "glm-5.2"
+}

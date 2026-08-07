@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 15:16",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "والجيلُ الرابعُ يعود هُنّا، لأنّ إثمَ الأموريّ لم يكتمل حتى الآن.",
+  "tokens": [
+    {
+      "surface": "ודור",
+      "gloss": "والجيل"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "الرابع"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "يعود"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هُنّا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "يكتمل"
+    },
+    {
+      "surface": "עון",
+      "gloss": "إثم"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "الأموريّ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "الآن"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:42.432355099Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 20:2",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "وَقال أفراهام لِساره زوجتِه: «هيَ أُختي.» فأرسل أَفيميلك مَلِك جرار وَأخذ ⟨את⟩ ساره.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وَقال"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لِ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ساره"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "زوجتِه"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "أُختي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هيَ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "أَفيميلك"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلِك"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "جرار"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "وَأخذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساره"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ساره"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:58.765386907Z",
+  "model": "glm-5.2"
+}

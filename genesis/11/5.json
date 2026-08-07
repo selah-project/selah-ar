@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "ونزل يهوه ليرى ⟨את⟩ المدينة و⟨את⟩ البرج اللذين بناهما بنو آدم.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ونزل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "ليرى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المدينة"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "البرج"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "البرج"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اللذين"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بناهما"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:10.381432399Z",
+  "model": "glm-5.2"
+}

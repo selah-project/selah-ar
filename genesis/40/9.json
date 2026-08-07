@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 40:9",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "فقصّ ساقي رئيس السقاة ⟨את⟩ حلْمه ليوسف وقال له في حلْمي وإذا كرمة أمامي",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "فقصّ"
+    },
+    {
+      "surface": "שר",
+      "gloss": "رئيس"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "السقاة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حلْمه"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "حلْمه"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "ليوسف"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "בחלומי",
+      "gloss": "في حلْمي"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "كرمة"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمامي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:12.926817032Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "امنحني حِنَك يا يهوه لأنّني في ضيق، غشيت ⟨من⟩ الغمّ عيني ونَفسي وبطني.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "امنحني حِنَك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّني"
+    },
+    {
+      "surface": "צר",
+      "gloss": "في ضيق"
+    },
+    {
+      "surface": "לי",
+      "gloss": ""
+    },
+    {
+      "surface": "עששה",
+      "gloss": "غشيت"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "⟨من⟩ الغمّ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "عيني"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ونَفسي"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "وبطني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:32.930380035Z",
+  "model": "glm-5.2"
+}

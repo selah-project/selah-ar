@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "بل إنّ إلى البِينا ناديتَ، وإلى التَّبُّونة رفعتَ صوتَك،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨بل⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إنّ"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "إلى البِينا"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ناديتَ"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "وإلى التَّبُّونة"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "رفعتَ"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "صوتَك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:06.110944915Z",
+  "model": "glm-5.2"
+}

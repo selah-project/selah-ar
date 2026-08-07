@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "و⟨את⟩ عَتَرُوت شُوفان و⟨את⟩ يَعزِير ويوگبهاه.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "عَتَروت شوفان"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "عَتَروت"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "شُوفان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "يعزير"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "يَعزِير"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "ويوگبهاه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:23.903878920Z",
+  "model": "glm-5.2"
+}

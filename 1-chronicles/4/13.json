@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 4:13",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وَبَنُو قِنَز: عُتْنِئِيل، وَسَرَيَاه. وَبَنُو عُتْنِئِيل: حَتَت.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "وَبَنُو"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "قِنَز"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "عُتْنِئِيل"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "وَسَرَيَاه"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "وَبَنُو"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "عُتْنِئِيل"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "حَتَت"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:59.132470636Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 25:29",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وَطَبَخَ يعقوف نَزيدًا، وَجاءَ عيساو مِنَ الحقل، وَهو⟨كان⟩ مُنهَكًا.",
+  "tokens": [
+    {
+      "surface": "ויזד",
+      "gloss": "وَطَبَخَ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "נזיד",
+      "gloss": "نَزيدًا"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "وَجاءَ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيساو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مِنْ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "الحقل"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وَهو"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "مُنهَكًا"
+    }
+  ],
+  "timestamp": "2026-08-07T06:34:56.591858465Z",
+  "model": "glm-5.2"
+}

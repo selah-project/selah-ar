@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 30:2",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "هكذا قال يهوه إلهوهيم يسرايل ⟨قائلًا⟩: اكتب لك ⟨את⟩ كل الكلمات التي كلّمتك إيّاها على سِفر",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلهوهيم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨قائلًا⟩"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "اكتب"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل الكلمات"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "الكلمات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "كلّمتك"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إيّاها"
+    },
+    {
+      "surface": "אל",
+      "gloss": "على"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سِفر"
+    }
+  ],
+  "timestamp": "2026-08-07T07:47:26.349629730Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "مَشاءُ نِينْوِه. سِفْر رُؤْيا نَحُوم ⟨الإلقوشي⟩.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "مَشاءُ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نِينْوِه"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سِفْر"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "رُؤْيا"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "نَحُوم"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "الإلقوشي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:31:34.031185870Z",
+  "model": "glm-5.2"
+}

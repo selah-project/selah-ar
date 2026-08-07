@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 97,
+  "translation": "نارٌ أمامَه تَسْلُك، وتُحْرِقُ حولَه مُضَايِقِيه.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "نار"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمامَه"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "تَسْلُك"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "وتُحْرِقُ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "حولَه"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "مُضَايِقِيه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:58.284819734Z",
+  "model": "glm-5.2"
+}

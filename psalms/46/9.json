@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 46,
+  "translation": "هلمّوا وانظروا أعمال يهوه، الذي جعل خرابًا في الأرض",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "هلمّوا"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "وانظروا"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "أعمال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "جعل"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "خرابًا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:55.182471969Z",
+  "model": "glm-5.2"
+}

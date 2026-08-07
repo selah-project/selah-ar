@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "أنا رفيقٌ لكلِّ الذين يهابونَك، ولحُرّاسِ وصاياك.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "رفيقٌ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لكلِّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "يهابونَك"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "ولحُرّاسِ"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "وصاياك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:03.956174738Z",
+  "model": "glm-5.2"
+}

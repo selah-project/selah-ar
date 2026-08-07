@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "ولتدبير تصاميمَ للصنعة بالذهب، وبالفضّة، وبالنحاس.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "ولتدبير"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "تصاميمَ"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "للصنعة"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "بالذهب"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "وبالفضّة"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "وبالنحاس"
+    }
+  ],
+  "timestamp": "2026-08-07T00:13:57.801540498Z",
+  "model": "glm-5.2"
+}

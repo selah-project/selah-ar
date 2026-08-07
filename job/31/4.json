@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 31:4",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "أليس ⟨هو⟩ يرى طرقي، وكلّ خطواتي يعدّها؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "أليس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "يرى"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "طرقي"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "خطواتي"
+    },
+    {
+      "surface": "יספור",
+      "gloss": "يعدّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:40:47.110601472Z",
+  "model": "glm-5.2"
+}

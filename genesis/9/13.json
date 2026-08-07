@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "⟨את⟩ قوسي قد جعلتُه في السحاب، ⟨ف⟩كان ⟨ل⟩آية بريت (عهد) بيني وبين الأرض.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوسي"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "قوسي"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "جعلتُ"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "في السحاب"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "وكانت"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "لآية"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريت"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "بيني"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:14.654624082Z",
+  "model": "glm-5.2"
+}

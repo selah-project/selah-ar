@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "عورة أخي أبيك لا تكشفها، إلى امرأته لا تقترب، عمّتك ⟨هي⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "عورة"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "أخي"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أبيك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "تكشفها"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "امرأته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "تقترب"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "عمّتك"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هي⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T05:38:28.322069008Z",
+  "model": "glm-5.2"
+}

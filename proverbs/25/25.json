@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "مياهٌ باردةٌ على نَفْسٍ مُتعَبة، وخبرٌ طيّبٌ ⟨من⟩ أرضٍ بعيدة.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "مياه"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "باردة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْس"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "مُتعَبة"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "وخبر"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "طيّب"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "من أرض"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "بعيدة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:16.145186623Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 51:18",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 51,
+  "translation": "ليس لها قائدٌ من كلّ البنين ولدتْه، و⟨ليس⟩ ممسكٌ بيدها من كلّ البنين ربّتهم.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "מנהל",
+      "gloss": "قائدٌ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كلّ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "البنين"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ولدتْه"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و⟨ليس⟩"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "ممسكٌ"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "بيدها"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كلّ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "البنين"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "ربّتهم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:22:56.894442560Z",
+  "model": "glm-5.2"
+}

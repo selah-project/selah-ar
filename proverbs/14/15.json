@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 14:15",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "البسيط يُصدِّق كلَّ كلام، والماكر يفطن إلى خطوِه.",
+  "tokens": [
+    {
+      "surface": "פתי",
+      "gloss": "البسيط"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "يُصدِّق"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلام"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "والماكر"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "يفطن"
+    },
+    {
+      "surface": "לאשרו",
+      "gloss": "إلى خطوِه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:33.487973926Z",
+  "model": "glm-5.2"
+}

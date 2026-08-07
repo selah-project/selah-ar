@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 63:14",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 63,
+  "translation": "كالبَهيمة في الوادي يَهبط، روَح يهوه يُقيله. هكذا سُقتَ شعبَك لِتصنع لنفسك اسمَ بهاءٍ",
+  "tokens": [
+    {
+      "surface": "כבהמה",
+      "gloss": "كالبهيمة"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "في الوادي"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "يهبط"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روَح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "תניחנו",
+      "gloss": "يُقيله"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "נהגת",
+      "gloss": "سُقت"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "شعبك"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "لِتصنع"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "بهاء"
+    }
+  ],
+  "timestamp": "2026-08-07T02:25:43.548978998Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وكبِر الطفلُ وفُطِم. فصنع أفراهام مأدبةً كبيرةً في يومَ فطام ⟨את⟩ يِصحاق.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "وكبِر"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "الطفلُ"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "وفُطِم"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "فصنع"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "مأدبةً"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "كبيرةً"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يومَ"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "فطام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يِصحاق"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يِصحاق"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:26.320608244Z",
+  "model": "glm-5.2"
+}

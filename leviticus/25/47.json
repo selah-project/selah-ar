@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 25:47",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وإذا طالت يَد غريب أو ساكن عندك، وافتقر أخوك ⟨هو⟩ معه، وبِيع للغريب الساكن عندك أو لأصل عشيرة غريب،",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "طالت"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يَد"
+    },
+    {
+      "surface": "גר",
+      "gloss": "غريب"
+    },
+    {
+      "surface": "ותושב",
+      "gloss": "أو ساكن"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "عندك"
+    },
+    {
+      "surface": "ומך",
+      "gloss": "وافتقر"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "أخوك"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "وبِيع"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "للغريب"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "الساكن"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "عندك"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "לעקר",
+      "gloss": "لأصل"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "عشيرة"
+    },
+    {
+      "surface": "גר",
+      "gloss": "غريب"
+    }
+  ],
+  "timestamp": "2026-08-07T00:26:50.687270015Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 7:26",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "لأنّ كثيرين صرعَتْهم قتلاها، وجميع قتلاها عِزازٌ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرين"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "صرعى"
+    },
+    {
+      "surface": "הפילה",
+      "gloss": "أسقطتْهم"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "وعِزازٌ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميع"
+    },
+    {
+      "surface": "הרגיה",
+      "gloss": "قتلاها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:47.318740720Z",
+  "model": "glm-5.2"
+}

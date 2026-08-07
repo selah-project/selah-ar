@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "«فإنّي أنا مائتٌ في هذه الأرض، لا أعبُر أنا ⟨את⟩ الأردن، وأمّا أنتم فتعبرون وترثون ⟨את⟩ الأرضَ الطيبةَ هذه».",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "فإنّي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مائتٌ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه الأرض"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "لا"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "أعبُر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأردن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "أنا الأردن"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "وأمّا أنتم"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "فتعبرون"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "وترثون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "الطيبة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:01.405052061Z",
+  "model": "glm-5.2"
+}

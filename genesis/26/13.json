@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "وكَبُرَ الرجلُ، ومضى يمضي ويكبرُ حتّى أنهُ كبُرَ جدًّا،",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "وكَبُرَ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجلُ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ومضى"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "يمضي"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "ويكبرُ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتّى"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "كبُرَ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    }
+  ],
+  "timestamp": "2026-08-07T06:58:37.585112515Z",
+  "model": "glm-5.2"
+}

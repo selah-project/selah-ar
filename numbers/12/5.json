@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 12:5",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "ونزل يهوه في عمود سحاب ووقف عند باب الخيمة ودعا أهارون وميريام فخرجا كلاهما",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ونزل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "في عمود"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "سحاب"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ووقف"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "عند باب"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "الخيمة"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "وميريام"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "فخرجا"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "كلاهما"
+    }
+  ],
+  "timestamp": "2026-08-07T00:35:09.426744470Z",
+  "model": "glm-5.2"
+}

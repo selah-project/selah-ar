@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "هأنذا أُبيد أعقاب بعشا وأعقاب بيته، وأجعل ⟨את⟩ بيتك كبيت ياربعام بن نباط.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "هأنذا"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "أُبيد"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "أعقاب"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بعشا"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "وأعقاب"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "بيته"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "وأجعل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيتك"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "بيتك"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "كبيت"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ياربعام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "نباط"
+    }
+  ],
+  "timestamp": "2026-08-07T01:49:31.652252829Z",
+  "model": "glm-5.2"
+}

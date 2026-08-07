@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وبنى شلوموه ⟨את⟩ گيزر و⟨את⟩ بيت حورون السفلى،",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "وبنى"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گيزر"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "گيزر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بيت حورون"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "حورون"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "السفلى"
+    }
+  ],
+  "timestamp": "2026-08-07T01:45:35.144720352Z",
+  "model": "glm-5.2"
+}

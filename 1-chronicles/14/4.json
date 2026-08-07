@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 14:4",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وهذه أسماء المولودين ⟨الذين⟩ كانوا له في يروشالايم: شَمّوع، وشواف، ناطان، وشلومو.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "وهذه"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "أسماء"
+    },
+    {
+      "surface": "הילודים",
+      "gloss": "المولودين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "היו",
+      "gloss": "كانوا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "في يروشالايم"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "شَمّوع"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "وشواف"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناطان"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "وشلومو"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:34.431358929Z",
+  "model": "glm-5.2"
+}

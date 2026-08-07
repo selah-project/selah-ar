@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 71,
+  "translation": "فمي يخبر بِصِدقِكَ كلَّ النهارٍ بخلاصِك، لأنّي لا عرفتُ ⟨لها⟩ عددًا.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "فمي"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "يخبر"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "بصِدقِكَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "النهار"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "بخلاصِك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "عرفتُ"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "عددًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:58:19.911572966Z",
+  "model": "glm-5.2"
+}

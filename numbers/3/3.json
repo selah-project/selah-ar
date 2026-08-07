@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "هذه أسماء بني أهارون، الكهنة الممسوحين الذين ملأ ⟨أحدٌ⟩ أيديهم للكهنوت.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "أسماء"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكهنة"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "الممسوحين"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ملأ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "أيديهم"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "للكهنوت"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:58.187986886Z",
+  "model": "glm-5.2"
+}

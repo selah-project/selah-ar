@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "أمّةً عَزيزةَ الوجه، لا يَرفعُ وجهًا لشيخٍ ولا يَرحَمُ فتى.",
+  "tokens": [
+    {
+      "surface": "גּ֖וֹי",
+      "gloss": "أمّةً"
+    },
+    {
+      "surface": "עַ֣ז",
+      "gloss": "عَزيزةَ"
+    },
+    {
+      "surface": "פָּנִ֑ים",
+      "gloss": "الوجهِ"
+    },
+    {
+      "surface": "אֲשֶׁ֨ר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יִשָּׂ֤א",
+      "gloss": "يَرفعُ"
+    },
+    {
+      "surface": "פָנִים֙",
+      "gloss": "وجهًا"
+    },
+    {
+      "surface": "לְזָקֵ֔ן",
+      "gloss": "لشيخٍ"
+    },
+    {
+      "surface": "וְנַ֖עַר",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יָחֹֽן",
+      "gloss": "يَرحَمُ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:35.834632462Z",
+  "model": "glm-5.2"
+}

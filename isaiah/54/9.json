@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 54:9",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 54,
+  "translation": "لأنّ مياه نوح هذه لي، التي أقسمتُ من أن تعبر مياه نوح أيضًا على الأرض، هكذا أقسمتُ من أن أغضب عليكِ ومن أن أُوبّخ فيكِ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مياه"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "أقسمتُ"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "من أن تعبر"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مياه"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "أقسمتُ"
+    },
+    {
+      "surface": "מקצף",
+      "gloss": "من أن أغضب"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "عليكِ"
+    },
+    {
+      "surface": "ומגער",
+      "gloss": "ومن أن أُوبّخ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "فيكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T05:53:32.091743815Z",
+  "model": "glm-5.2"
+}

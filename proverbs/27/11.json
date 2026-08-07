@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 27:11",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "كن حكيمًا يا ابني وأفرح قلبي، فأردَّ كلمةً على مُعيِّري.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "كن حكيمًا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "يا ابني"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "وأفرح"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "ואשיבה",
+      "gloss": "فأردَّ"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "على مُعيِّري"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:47.598943071Z",
+  "model": "glm-5.2"
+}

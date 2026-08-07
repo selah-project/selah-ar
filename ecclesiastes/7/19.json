@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "الحكماه تعُزّ للحاكم مِن عشْره شَلِّيطيم الذي كانوا في المدينة",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "الحكماه"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "تعُزّ"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "للحكيم"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "من عشرة"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "حكام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "היו",
+      "gloss": "كانوا"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "فيالمدينة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:23.962892112Z",
+  "model": "glm-5.2"
+}

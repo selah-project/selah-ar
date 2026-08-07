@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 69,
+  "translation": "أجبني يا يهوه لأنّ حِسِدَك طيّب، كثرةَ رَحَمِك أَقبِل ⟨إلى⟩ وجهك نحوي",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "أجبني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيّب"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حِسِدَك"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "كثرةَ"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "رَحَمِك"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "أَقبِل"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "نحوي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:33.082474177Z",
+  "model": "glm-5.2"
+}

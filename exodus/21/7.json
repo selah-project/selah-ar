@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وإذا باعَ رجلٌ ⟨את⟩ ابنته أمَةً، لا تخرجُ كخروجِ العبيد.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "باعَ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلٌ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابنته"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ابنته"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "أمَةً"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "تخرجُ"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "كخروجِ"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "العبيد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:38.283335824Z",
+  "model": "glm-5.2"
+}

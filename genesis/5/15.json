@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "و⟨عاش⟩ مهللئيل خمسًا وستين سنة، و⟨وَلَدَ⟩ ⟨את⟩ يارد",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و⟨عاش⟩"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "مهللئيل"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "خمسًا"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنين"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "وستين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و⟨وَلَدَ⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يارد"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "يارد"
+    }
+  ],
+  "timestamp": "2026-08-06T23:36:09.795081119Z",
+  "model": "glm-5.2"
+}

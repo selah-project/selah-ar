@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 149,
+  "translation": "تَعْلِيَاتُ إيل في حُنُوقِهم، وسيفٌ ذو حدَّين في أيديهم",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "تَعْلِيَات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "في حُنُوقهم"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "وسيف"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "ذو حدَّين"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "في أيديهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:19:30.553860826Z",
+  "model": "glm-5.2"
+}

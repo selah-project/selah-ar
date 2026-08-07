@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 20:3",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "ليلجأ إلى هناك القاتلُ ضاربُ النفس خطأً بلا علم، فتكون لكم ملجأً من غوئيل الدم.",
+  "tokens": [
+    {
+      "surface": "לנוס",
+      "gloss": "ليلجأ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "القاتل"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ضارب"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "النفس"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "خطأً"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "بلا"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "فتكون"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "למקלט",
+      "gloss": "ملجأً"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "من غوئيل"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "الدم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:11:09.844571808Z",
+  "model": "glm-5.2"
+}

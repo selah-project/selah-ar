@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "كلامي أَصغِي يهوه، فهَمْتَ تأمّلي",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "كلامي"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "أَصغِي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "فهَمْتَ"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "تأمّلي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:40:13.863442342Z",
+  "model": "glm-5.2"
+}

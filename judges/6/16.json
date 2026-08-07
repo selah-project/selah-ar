@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فقال له يهوه: «بأنني أكون معك، فضربتَ ⟨את⟩ مديان كرجل واحد»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بأنّ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "أكون"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "فضربتَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مديان"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مديان"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "كرجل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    }
+  ],
+  "timestamp": "2026-08-07T01:14:33.871892113Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "و⟨את⟩ كشد، و⟨את⟩ حزو، و⟨את⟩ فلداش، و⟨את⟩ يدلاف، و⟨את⟩ بتوئيل.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كشد"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "كشد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "حزو"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "حزو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "فلداش"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "فلداش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "يدلاف"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "يدلاف"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بتوئيل"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "بتوئيل"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:51.294603719Z",
+  "model": "glm-5.2"
+}

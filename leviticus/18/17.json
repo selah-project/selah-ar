@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 18:17",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "عورة امرأةٍ وابنتها لا تكشفها. ⟨את⟩ بنت ابنها و⟨את⟩ بنت بنتها لا تأخذ لكشف عورتها. قرابتهنّ هنّ ⟨هي⟩ زِمّةٌ.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "عورة"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "ובתה",
+      "gloss": "وابنتها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "تكشف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بنت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ابنها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بنت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "بنتها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "تأخذ"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "لكشف"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "عورتها"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "قرابتهنّ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هنّ"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "زِمّة"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:03.031763171Z",
+  "model": "glm-5.2"
+}

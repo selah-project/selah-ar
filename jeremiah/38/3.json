@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 38:3",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "«هكذا قال يهوه: إعطاءً تُعطى هذه المدينة ليد جيش مَلِك بافل ويأخذها.»",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "إعطاءً"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "تُعطى"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "هذه المدينة"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": ""
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ليد"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "جيش"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلِك"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافل"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "ويأخذها"
+    }
+  ],
+  "timestamp": "2026-08-07T02:47:20.865358053Z",
+  "model": "glm-5.2"
+}

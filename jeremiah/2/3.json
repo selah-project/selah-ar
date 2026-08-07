@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "قُدسٌ إسرائيلُ ليهوه، باكورةُ غلّته. كلُّ آكليه يُأثَمون. شرٌّ يأتي عليهم — نأْمُ يهوه.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "قُدسٌ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيلُ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "باكورةُ"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "غلّته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "آكليه"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "يُأثَمون"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شرٌّ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "يأتي"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نأْمُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:28:26.789584795Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 32:42",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "أُسكِرُ سهامي من دمٍ، وسيفي يأكل لحمًا، من دمِ قتلى وأسرى، من رأسِ قاداتِ العدوّ.",
+  "tokens": [
+    {
+      "surface": "אשכיר",
+      "gloss": "أُسكِرُ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "سهامي"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "من دمٍ"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "وسيفي"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "يأكل"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "لحمًا"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "من دمِ"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "قتلى"
+    },
+    {
+      "surface": "ושביה",
+      "gloss": "وأسرى"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "من رأسِ"
+    },
+    {
+      "surface": "פרעות",
+      "gloss": "قاداتِ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "العدوّ"
+    }
+  ],
+  "timestamp": "2026-08-07T01:02:04.674233703Z",
+  "model": "glm-5.2"
+}

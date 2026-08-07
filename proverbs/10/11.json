@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "ينبوع حياة فم الصِّدِّيق، وفم الرِّشعيم يغطّي حاماس.",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "ينبوع"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حياة"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فم"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "الصِّدِّيق"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "وفم"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الرِّشعيم"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "يغطّي"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "حاماس"
+    }
+  ],
+  "timestamp": "2026-08-07T04:23:40.859434675Z",
+  "model": "glm-5.2"
+}

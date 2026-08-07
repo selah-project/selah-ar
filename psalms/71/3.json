@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 71,
+  "translation": "كُن لي صخرَ مأوًى للدُّخول دائمًا، أنتَ أمرتَ بخلاصي، لأنَّ صخرتي وحصني ⟨هو⟩ أنتَ.",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "كُن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "صخر"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "مأوًى"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "للدخول"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "دائمًا"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "أمرتَ"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "بخلاصي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "صخرتي"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "وحصني"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:57.292637475Z",
+  "model": "glm-5.2"
+}

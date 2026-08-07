@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 2:21",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "شعبٌ عظيمٌ وكثيرٌ وطويلٌ كالعناقيين، فأبادهم يهوه من أمامهم فورثوهم وسكنوا مكانَهم.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "شعبٌ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيمٌ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "وكثيرٌ"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "وطويلٌ"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "كالعناقيين"
+    },
+    {
+      "surface": "וישמידם",
+      "gloss": "فأبادهم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "من أمامهم"
+    },
+    {
+      "surface": "ויירשם",
+      "gloss": "فورثوهم"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "وسكنوا"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "مكانَهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:48:03.621379035Z",
+  "model": "glm-5.2"
+}

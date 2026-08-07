@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "إلعازار وَلَّد ⟨את⟩ فِينْحَس، فِينْحَس وَلَّد ⟨את⟩ أَفِيشُوع.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "إلعازار"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وَلَّد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فِينْحَس"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "فِينْحَس"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "فِينْحَس"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "وَلَّد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أَفِيشُوع"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "أَفِيشُوع"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:57.395873067Z",
+  "model": "glm-5.2"
+}

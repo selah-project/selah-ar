@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "daniel 11:23",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "ومن ⟨ال⟩تَّحالُف معه يصنع غدرًا، ويصعد ويعتزّ ⟨ب⟨ال⟩قليل⟩ من أُمّة.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "התחברות",
+      "gloss": "⟨ال⟩تَّحالُف"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يصنع"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "غدرًا"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "ويصعد"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "ويُعَظَّم"
+    },
+    {
+      "surface": "במעט",
+      "gloss": "بقليل"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "أُمّة"
+    }
+  ],
+  "timestamp": "2026-08-07T08:21:23.234696168Z",
+  "model": "glm-5.2"
+}

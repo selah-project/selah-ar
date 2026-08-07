@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 9:16",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "إن دعوتُ فأجابني، لا أُصدِّقُ أنّه يُصغي إلى صوتي.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "دعوتُ"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "فأجابني"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אאמין",
+      "gloss": "أُصدِّقُ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّه"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "يُصغي"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "إلى صوتي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:44.590662554Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "لأنّه من هو إيل سوى يهوه؟ ومن هو صخرٌ سوى إلوهيم-نا؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "سوى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صخرٌ"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "سوى"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلوهيم-نا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:40:40.266729955Z",
+  "model": "glm-5.2"
+}

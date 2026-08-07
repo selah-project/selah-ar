@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وأخذنا ⟨את⟩ كلّ مدنه في ذلك الوقت، لم تكن مدينة لم نأخذها منهم: ستّون مدينة، كلّ حِبَل أرگوب مملكة عوج في الباشان.",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "وأخذنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "مدنه"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "في"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك الوقت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "تكن"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "نأخذها"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "منهم"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ستّون"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "حِبَل"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "أرگوب"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "مملكة"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "عوج"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "في الباشان"
+    }
+  ],
+  "timestamp": "2026-08-07T00:48:29.159316020Z",
+  "model": "glm-5.2"
+}

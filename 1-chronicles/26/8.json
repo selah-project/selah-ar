@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 26:8",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "كلّ هؤلاء من بني عُوبيد أدوم، هم وبنوهم وإخوتهم، رجالُ قوّةٍ بالقدرة للخدمة، اثنان وستّون لعُوبيد أدوم.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "من بني"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عُوبيد"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "أدوم"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "وبنوهم"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "وإخوتهم"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجالُ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "قوّةٍ"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "بالقدرة"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "للخدمة"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ستّون"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "واثنان"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "لعُوبيد"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "أدوم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:18:35.402376311Z",
+  "model": "glm-5.2"
+}

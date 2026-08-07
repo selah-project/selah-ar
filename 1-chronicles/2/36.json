@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وعَتّاي ولّد ⟨את⟩ ناتان، وناتان ولّد ⟨את⟩ زاباد.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "وعَتّاي"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ولّد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناتان"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "وناتان"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولّد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زاباد"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "زاباد"
+    }
+  ],
+  "timestamp": "2026-08-07T05:09:55.649378730Z",
+  "model": "glm-5.2"
+}

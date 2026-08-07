@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 83,
+  "translation": "يا إلوهيم لا ⟨يكن⟩ صمتٌ لك، لا تتوقّف ولا تسكن يا إيل",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "يا إلوهيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "صمت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "تتوقّف"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "تسكن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "يا إيل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:01:44.845076144Z",
+  "model": "glm-5.2"
+}

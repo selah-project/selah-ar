@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "وضرب يهوه ⟨את⟩ الشعب على ما صنعوه — ⟨את⟩ العِجل الذي صنع⟨ه⟩ أهارون.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "وضرب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "صنعوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "العِجل"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "العِجل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنع"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:22.656154926Z",
+  "model": "glm-5.2"
+}

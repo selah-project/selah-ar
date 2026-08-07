@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 9:22",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وفي تافِراه، وفي مَسّاه، وفي قبور التَّأوَّه، كنتم مُغضِبين يهوه.",
+  "tokens": [
+    {
+      "surface": "ובתבערה",
+      "gloss": "وفي تافِراه"
+    },
+    {
+      "surface": "ובמסה",
+      "gloss": "وفي مَسّاه"
+    },
+    {
+      "surface": "ובקברת",
+      "gloss": "وفي قبور"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "التَّأوَّه"
+    },
+    {
+      "surface": "מקצפים",
+      "gloss": "مُغضِبين"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "كنتم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨أمام⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:53:39.493028523Z",
+  "model": "glm-5.2"
+}

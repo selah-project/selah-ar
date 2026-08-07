@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 47:2",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 47,
+  "translation": "خذي الرحى واطحني طحينًا! اكشفي نقابك، شمّري الذيل! اكشفي الساق، اعبري الأنهار!",
+  "tokens": [
+    {
+      "surface": "קחי",
+      "gloss": "خذي"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "الرحى"
+    },
+    {
+      "surface": "וטחני",
+      "gloss": "واطحني"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "طحينًا"
+    },
+    {
+      "surface": "גלי",
+      "gloss": "اكشفي"
+    },
+    {
+      "surface": "צמתך",
+      "gloss": "نقابك"
+    },
+    {
+      "surface": "חשפי",
+      "gloss": "شمّري"
+    },
+    {
+      "surface": "שבל",
+      "gloss": "الذيل"
+    },
+    {
+      "surface": "גלי",
+      "gloss": "اكشفي"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "الساق"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "اعبري"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "الأنهار"
+    }
+  ],
+  "timestamp": "2026-08-07T02:20:39.748388941Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 17:5",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وقال يهوه لموشيه: اعبر أمام الشعب وخذ معك من شيوخ يسرائيل، وعصاك التي ضربت بها ⟨את⟩ النهر، خذ بيدك و⟨ذهبت⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "اعبر"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "وخذ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "من شيوخ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ומטך",
+      "gloss": "وعصاك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ضربت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "بها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "النهر"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "النهر"
+    },
+    {
+      "surface": "קח",
+      "gloss": "خذ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "بيدك"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "وذهبت"
+    }
+  ],
+  "timestamp": "2026-08-07T00:05:50.330016109Z",
+  "model": "glm-5.2"
+}

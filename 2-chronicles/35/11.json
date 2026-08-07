@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 35:11",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "وذبحوا الفِصح، ورشّ الكهنة ⟨الدم⟩ من أيديهم، واللاويون يَسلِخون.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "وذبحوا"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "الفِصح"
+    },
+    {
+      "surface": "ויזרקו",
+      "gloss": "ورشّ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكهنة"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "من أيديهم"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "واللاويون"
+    },
+    {
+      "surface": "מפשיטים",
+      "gloss": "يَسلِخون"
+    }
+  ],
+  "timestamp": "2026-08-07T05:32:27.210567887Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 3:4",
+  "book": "joel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "الشمس تتحوّل إلى ظُلمة، والقمر إلى دم، قبل مجيء يوم يهوه العظيم والمهوب.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "الشمس"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "تتحوّل"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "إلى ظُلمة"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "والقمر"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "إلى دم"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "قبل"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "مجيء"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "العظيم"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "والمهوب"
+    }
+  ],
+  "timestamp": "2026-08-07T03:24:20.796601397Z",
+  "model": "glm-5.2"
+}

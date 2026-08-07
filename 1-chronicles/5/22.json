@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 5:22",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "لأنّ كثيرين سقطوا قتلى، لأنّ من إلوهيم كانت الحرب، فسكنوا مكانَهم إلى الغَوْلَة.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "قتلى"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "كثيرين"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "سقطوا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "מהאלהים",
+      "gloss": "من إلوهيم"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "الحرب"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "فسكنوا"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "مكانَهم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "الغَوْلَة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:31.718508584Z",
+  "model": "glm-5.2"
+}

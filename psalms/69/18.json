@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 69,
+  "translation": "ولا تستر وجهك عن عبدك، لأنّ ⟨الأمر⟩ ضاقَ لي؛ أسرِع، أجبني",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "تستر"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهك"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "عن عبدك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ضاقَ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "أسرِع"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "أجبني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:33.082702335Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 5:15",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "فأرسل حيرام ملك صور ⟨את⟩ عبيده إلى شلومو، لأنه سمع أنه مسحوه ملكًا عوض أبيه، لأن حيرام كان محبًّا لداوِد كل الأيام.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "حيرام"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صور"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عبيده"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "عبيده"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سمع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "إيّاه"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "مسحوه"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ملكًا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "عوض"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "محب"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "حيرام"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لداوِد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "الأيام"
+    }
+  ],
+  "timestamp": "2026-08-07T01:43:58.204305532Z",
+  "model": "glm-5.2"
+}

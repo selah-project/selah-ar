@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "تحتَ عبدٍ حين يملِك، وנבל حين يَشبَع خبزًا —",
+  "tokens": [
+    {
+      "surface": "תַּֽחַת",
+      "gloss": "تحتَ"
+    },
+    {
+      "surface": "עֶ֭בֶד",
+      "gloss": "عبدٍ"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "حين"
+    },
+    {
+      "surface": "יִמְל֑וֹךְ",
+      "gloss": "يملِك"
+    },
+    {
+      "surface": "וְ֝נָבָ֗ל",
+      "gloss": "ونَبَل"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "حين"
+    },
+    {
+      "surface": "יִֽשְׂבַּֽע",
+      "gloss": "يَشبَع"
+    },
+    {
+      "surface": "לָֽחֶם",
+      "gloss": "خبزًا"
+    }
+  ],
+  "timestamp": "2026-08-07T08:37:23.680673883Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "فأمسكوا ⟨את⟩ الملك وأصعدوه إلى ملك بافِل ربلة، وتكلّموا معه ⟨بال⟩قضاء",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "فأمسكوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الملك"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "وأصعدوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "هو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافِل"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "ربلة"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "وتكلّموا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "قضاء"
+    }
+  ],
+  "timestamp": "2026-08-07T02:02:59.496232233Z",
+  "model": "glm-5.2"
+}

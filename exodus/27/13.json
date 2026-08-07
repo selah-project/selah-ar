@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وعرض الدار للجانب الشرقيّ شرقًا خمسون ذراعًا.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "وعرض"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "الدار"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "للجانب"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "الشرقيّ"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "شرقًا"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "خمسون"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ذراعًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:53.347087500Z",
+  "model": "glm-5.2"
+}

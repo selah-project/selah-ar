@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "«وهذا ما تصنعه ⟨⟨את⟩⟩: ثلاثُمئةِ ذراعٍ طولُ التابوت، وخمسون ذراعًا عرضُه، وثلاثون ذراعًا ارتفاعُه».",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "وهذا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تصنعه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاه"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ثلاث"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ذراع"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "طول"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "التابوت"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "خمسون"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ذراع"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "عرضُه"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "وثلاثون"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ذراع"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "ارتفاعُه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:54.895834382Z",
+  "model": "glm-5.2"
+}

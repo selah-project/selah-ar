@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "ولهذا الشعب تقول: هكذا قال يهوه: هأنذا واضعٌ أمامكم ⟨את⟩ طريقَ الحياةِ و⟨את⟩ طريقَ الموت.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ولـ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "هذا الشعب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "تقول"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "هأنذا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "واضعٌ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "أمامكم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "طريق"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "طريقَ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "الحياةِ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "طريق"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "طريقَ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "الموت"
+    }
+  ],
+  "timestamp": "2026-08-07T02:37:54.471109784Z",
+  "model": "glm-5.2"
+}

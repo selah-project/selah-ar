@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 15:14",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "و⟨ال⟩باموت لم تُزَل، إنّما قلب آسا كان شالمًا مع يهوه كل أيامه.",
+  "tokens": [
+    {
+      "surface": "והבמות",
+      "gloss": "و⟨ال⟩باموت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "تُزِل"
+    },
+    {
+      "surface": "רק",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "شالمًا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "أيامه"
+    }
+  ],
+  "timestamp": "2026-08-07T07:32:35.607804158Z",
+  "model": "glm-5.2"
+}

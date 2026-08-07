@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وعاش مَتوشيلح سبعًا وثمانين سنة ومئة سنة، ووَلَد ⟨את⟩ لامِك.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "وعاش"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "مَتوشيلح"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبعًا"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "وثمانين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ومئة"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ووَلَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لامك"
+    },
+    {
+      "surface": "למך",
+      "gloss": "لامِك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:24.670088714Z",
+  "model": "glm-5.2"
+}

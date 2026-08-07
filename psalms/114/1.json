@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 114,
+  "translation": "في خروج يسرايل من مصرايم، بيت يعقوف من شعب ⟨ذوي⟩ لسان غريب،",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "في خروج"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "من مصرايم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "من شعب"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "لسان غريب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:47.456527481Z",
+  "model": "glm-5.2"
+}

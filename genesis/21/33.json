@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 21:33",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "و⟨غرس⟩ أَشَل في بئر شابُع، و⟨دعا⟩ هناك باسم يهوه، إيل عولام.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "و⟨غرس⟩"
+    },
+    {
+      "surface": "אשל",
+      "gloss": "أَشَل"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "في بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شابُع"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و⟨دعا⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "باسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "عولام"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:49.577426699Z",
+  "model": "glm-5.2"
+}

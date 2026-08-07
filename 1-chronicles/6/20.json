@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "ابن صوف ابن ألقانة ابن ماحات ابن عماساي.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "صوف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ألقانة"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "ماحات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "عماساي"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:33.977698878Z",
+  "model": "glm-5.2"
+}

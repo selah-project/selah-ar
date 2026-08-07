@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "دودي مشرق ⟨وهو⟩ أحمر، مُعلَمٌ بين رَبوةٍ",
+  "tokens": [
+    {
+      "surface": "דּוֹדִ֥י",
+      "gloss": "دودي"
+    },
+    {
+      "surface": "צַח֙",
+      "gloss": "مشرق"
+    },
+    {
+      "surface": "וְאָד֔וֹם",
+      "gloss": "وأحمر"
+    },
+    {
+      "surface": "דָּג֖וּל",
+      "gloss": "مُعلَم"
+    },
+    {
+      "surface": "מֵרְבָבָֽה",
+      "gloss": "بين رَبوة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:44:58.373111183Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "أليس ها هي من عِند يهوه صباؤوت؟ فيتعب شعوب ⟨في⟩ نار، وأمم ⟨في⟩ فراغ يُنهَدون.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "أليس"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها هي"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "من عِند"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤوت"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "فيتعب"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "شعوب"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "في"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نار"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "وأمم"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "في"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "فراغ"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "يُنهَدون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:32:05.116460174Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "هل يُخبئ رجل نارًا في حضنه وثيابه لا تحترق؟",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "هل يُخبئ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نارًا"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "في حضنه"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "وثيابه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "تحترق"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:45.846313119Z",
+  "model": "glm-5.2"
+}

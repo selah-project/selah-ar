@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وقال يهوه لموشيه: «انظر، إيّاك جعلتُ إلوهيم لفرعون، وأهارون أخوك يكون نافيك.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "انظر"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "جعلتُك"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "لفرعون"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "وأهارون"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "أخوك"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "نافيك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:01:22.272059184Z",
+  "model": "glm-5.2"
+}

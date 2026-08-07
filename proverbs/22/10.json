@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "اطردِ المستهزئَ فيخرجَ النزاع، ⟨ف⟩تنقطعِ الخصومةُ والعار.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "اطرد"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "المستهزئ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "فيخرج"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "النزاع"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "فينقطع"
+    },
+    {
+      "surface": "דין",
+      "gloss": "الخصومة"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "والعار"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:06.651913975Z",
+  "model": "glm-5.2"
+}

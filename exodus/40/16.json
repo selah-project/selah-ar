@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "وفعَلَ موشيهُ ككُلِّ ما أمَرَ به يهوه ⟨את⟩ إيّاه، هكذا فعَل.",
+  "tokens": [
+    {
+      "surface": "ועש",
+      "gloss": "وفعَل"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ككلِّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أمَرَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعَل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:21.150747129Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "بعد ضربه ⟨את⟩ سيحون ملك الأُموريّ الساكن في حشبون، و⟨את⟩ عوج ملك الباشان الساكن في عَشتاروت في أدرَعي.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "ضربه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سيحون"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "سيحون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "الأُموريّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الـ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "الساكن"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "في حشبون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "عوج"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "عوج"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "الباشان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الـ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "الساكن"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "في عَشتاروت"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "في أدرَعي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:45.573277185Z",
+  "model": "glm-5.2"
+}

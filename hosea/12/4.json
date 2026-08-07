@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "في البطن عقب ⟨את⟩ أخاه، وفي قوّته صارع ⟨את⟩ إلوهيم.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "في البطن"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "عقب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أخاه"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "أخاه"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "وفي قوّته"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "صارع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "إلوهيم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:22:31.313863430Z",
+  "model": "glm-5.2"
+}

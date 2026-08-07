@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 78:38",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "وهو رحيم، يكفّر إثمًا ولا يُهلك، وكثيرًا ما ردّ أنفه، ولم يُثر كلّ حمته.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "رحيم"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "يكفّر"
+    },
+    {
+      "surface": "עון",
+      "gloss": "إثمًا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ישחית",
+      "gloss": "يُهلك"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "وكثيرًا ما"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "ردّ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "أنفه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "يُثر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "حمته"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:46.655697483Z",
+  "model": "glm-5.2"
+}

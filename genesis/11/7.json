@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 11:7",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "هلمّ ننزل ونبلبل هناك لسانهم، حتى لا يسمع بعضُهم لسانَ رفيقه.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "هلمّ"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "ننزل"
+    },
+    {
+      "surface": "ונבלה",
+      "gloss": "ونبلبل"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "שפתם",
+      "gloss": "لسانهم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "يسمع"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بعضهم"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "لسان"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "رفيقه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:10.382702877Z",
+  "model": "glm-5.2"
+}

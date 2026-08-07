@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "الغنيُّ في الفقراء يَسود، والعبدُ ⟨هو⟩ المُقترضُ لِلرجلِ المُقرِض",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "الغنيُّ"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "في الفقراء"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "يَسود"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "والعبدُ"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "المُقترضُ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "لِلرجلِ"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "المُقرِض"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:10.598403704Z",
+  "model": "glm-5.2"
+}

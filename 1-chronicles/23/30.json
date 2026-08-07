@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 23:30",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "وللوقوفِ صباحًا فصباحًا لِحمدِ يهوه ولتسبيحِه، وهكذا عند المساءِ:",
+  "tokens": [
+    {
+      "surface": "ולעמד",
+      "gloss": "وللوقوفِ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صباحًا"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "فصباحًا"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "لِحمدِ"
+    },
+    {
+      "surface": "ולהלל",
+      "gloss": "ولتسبيحِه"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "وهكذا"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "عند المساءِ"
+    }
+  ],
+  "timestamp": "2026-08-07T05:18:35.215969770Z",
+  "model": "glm-5.2"
+}

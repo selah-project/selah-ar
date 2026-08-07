@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 25:15",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "فحمي غضب يهوه على أماصياهو، فأرسل إليه نافيًا وقال له: «لماذا طلبت ⟨את⟩ آلهة الشعب الذين لم يُنقذوا ⟨את⟩ شعبهم من يدك؟»",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "فحمي"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "באמציהו",
+      "gloss": "على أماصياهو"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نافيًا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "דרשת",
+      "gloss": "طلبت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آلهة الشعب"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "آلهة"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "يُنقذوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شعبهم"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "شعبهم"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "من يدك"
+    }
+  ],
+  "timestamp": "2026-08-07T05:30:10.778910934Z",
+  "model": "glm-5.2"
+}

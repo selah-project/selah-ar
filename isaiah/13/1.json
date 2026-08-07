@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "مَسَأ بافِل، الذي رآه يَشَعْياهو بن آموصل",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "مَسَأ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافِل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "رآه"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "يَشَعْياهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "آموصل"
+    }
+  ],
+  "timestamp": "2026-08-07T06:37:28.313464648Z",
+  "model": "glm-5.2"
+}

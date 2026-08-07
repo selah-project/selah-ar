@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وبنى يهوه إلوهيم ⟨את⟩ الضلع التي أخذها من هآدام ⟨إلى⟩ امرأة، وأتى بها إلى هآدام.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "وبنى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الضلع"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "الضلع"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "أخذها"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "هآدام"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "⟨إلى⟩ امرأة"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "وأتى بها"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "هآدام"
+    }
+  ],
+  "timestamp": "2026-08-06T23:36:01.583243247Z",
+  "model": "glm-5.2"
+}

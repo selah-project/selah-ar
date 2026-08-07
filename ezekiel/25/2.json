@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 25:2",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "يا ابنَ آدم، وجّه وجهك نحو بني عمّون وتنبّأ عليهم.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ابنَ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שים",
+      "gloss": "وجّه"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نحو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمّون"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "وتنبّأ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "عليهم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:04:56.884195870Z",
+  "model": "glm-5.2"
+}

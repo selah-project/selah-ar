@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "أيضًا هذا رأيتُهُ: حكمةً تحت الشمس، وهي عظيمةٌ إليّ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "رأيتُهُ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حكمةً"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "الشمس"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "وهي عظيمة"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:54.678416945Z",
+  "model": "glm-5.2"
+}

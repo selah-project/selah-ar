@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 32:20",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "وقال: أستِر وجهي عنهم، أرى ما آخرتهم، لأنهم جيل تقلّبات هم، بنون لا أمانة فيهم",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אסתירה",
+      "gloss": "أستِر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهي"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "عنهم"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "أرى"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אחריתם",
+      "gloss": "آخرتهم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنهم"
+    },
+    {
+      "surface": "דור",
+      "gloss": "جيل"
+    },
+    {
+      "surface": "תהפכת",
+      "gloss": "تقلّبات"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بنون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "أمانة"
+    },
+    {
+      "surface": "בם",
+      "gloss": "فيهم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:02:14.161620478Z",
+  "model": "glm-5.2"
+}

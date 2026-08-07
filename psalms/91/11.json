@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 91,
+  "translation": "لأنّ ملائكته يُوصي لك، لحفظك في كلّ طرقك",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "ملائكته"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "يُوصي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "لحفظك"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلّ"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "طرقك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:02.571677513Z",
+  "model": "glm-5.2"
+}

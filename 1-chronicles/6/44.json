@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "و⟨את⟩ عشان و⟨את⟩ مراعيها، و⟨את⟩ بيت شَمَش و⟨את⟩ مراعيها",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "عشان"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "عشان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مراعيها"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مراعيها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بيت شَمَش"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "شَمَش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مراعيها"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مراعيها"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:45.501186132Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "نَفْسُ البَطّال تشتهي وليس لها، ونَفْسُ الاجتهاد تُسَمَّنُ.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "تشتهي"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "وليس"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نَفْسُ... لها"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "البَطّال"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ونَفْس"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "الاجتهاد"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "تُسَمَّنُ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:45.084724340Z",
+  "model": "glm-5.2"
+}

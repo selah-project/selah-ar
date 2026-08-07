@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 27:2",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "«كلّم بني يسرائيل وقل لهم: رجلٌ إذا أفرز نذرًا، بتقويمك نَفْشات ليهوه —",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "كلّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "وقُل"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "أفرز"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذرًا"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "بتقويمك"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "نَفْشات"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:53.076897997Z",
+  "model": "glm-5.2"
+}

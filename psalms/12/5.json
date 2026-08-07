@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "الذين قالوا: «بِلِساننا نُقوِي، شفاهنا ⟨معنا⟩، مَن ⟨هو⟩ سيّدٌ علينا؟»",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "قالوا"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "بِلِساننا"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "نُقوِي"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "شفاهنا"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨معنا⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "سيّدٌ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "علينا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:42:11.179874243Z",
+  "model": "glm-5.2"
+}

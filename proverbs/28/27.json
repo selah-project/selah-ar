@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 28:27",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "نَحْوَ الفقير لا نقص، ومُغْمِضُ عينيه كثيرُ اللّعنات.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "يُعطي\/نَحْوَ"
+    },
+    {
+      "surface": "לרש",
+      "gloss": "الفقير"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "نقص"
+    },
+    {
+      "surface": "ומעלים",
+      "gloss": "ومُغْمِض"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "عينيه"
+    },
+    {
+      "surface": "רב",
+      "gloss": "كثير"
+    },
+    {
+      "surface": "מארות",
+      "gloss": "لعنات"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:04.698494516Z",
+  "model": "glm-5.2"
+}

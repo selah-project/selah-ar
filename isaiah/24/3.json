@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "إفراغًا تُفرَغ الأرض ونَهْبًا تُنهَب، لأنّ يهوه تكلّم ⟨את⟩ الكلمةَ هذه.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "إفراغًا"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "تُفرَغ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "و⟨⟩نَهْبًا"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "تُنهَب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الكلمة"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الكلمة"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:12:11.268697358Z",
+  "model": "glm-5.2"
+}

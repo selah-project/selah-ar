@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 16:22",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "ولا تُقِم لكُم مَصفاةً التي يُبغِضها يهوه إلوهيمك.",
+  "tokens": [
+    {
+      "surface": "וְלֹֽא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תָקִ֥ים",
+      "gloss": "تُقِم"
+    },
+    {
+      "surface": "לְךָ֖",
+      "gloss": "لكُم"
+    },
+    {
+      "surface": "מַצֵּבָ֑ה",
+      "gloss": "مَصفاةً"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "שָׂנֵ֖א",
+      "gloss": "يُبغِضها"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אֱלֹהֶֽיךָ",
+      "gloss": "إلوهيمك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:56:45.021905727Z",
+  "model": "glm-5.2"
+}

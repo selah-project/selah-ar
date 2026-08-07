@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "احفظُون تحرُصون ⟨את⟩ وصايا يهوه إلهكم وشهاداته وفرائضه التي أوصاكم بها،",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "احفظُون"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "تحرُصون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وصايا"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "وصايا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلهكم"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "وشهاداته"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "وفرائضه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "أوصاكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:54.824822877Z",
+  "model": "glm-5.2"
+}

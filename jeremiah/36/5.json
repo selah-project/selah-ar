@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "ووصى يرمياهو ⟨את⟩ باروخ قائلًا: أنا محبوس، لا أقدر أن آتي بيت يهوه.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "ووصى"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرمياهو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "باروخ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروخ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "محبوس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "أقدر"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "أن آتي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:44:37.376436556Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 4:2",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فتآمروا كلُّهم معًا للمجيء لمحاربة يروشالايم ولصنع له تشويش.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "فتآمروا"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "كلُّهم"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "معًا"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "للمجيء"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "لمحاربة"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "يروشالايم"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ولصنع"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "تشويش"
+    }
+  ],
+  "timestamp": "2026-08-07T05:05:18.955188094Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 29:22",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "بعد كلمتي لا يُبدّلون، وعليهم تقطر كلمتي.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلمتي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "يُبدّلون"
+    },
+    {
+      "surface": "ועלימו",
+      "gloss": "وعليهم"
+    },
+    {
+      "surface": "תטף",
+      "gloss": "تقطر"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "كلمتي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:40:12.870441928Z",
+  "model": "glm-5.2"
+}

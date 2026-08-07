@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 7:30",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "بنو آشَر: يمنة، ويشوة، ويشوي، وبَريعة، وسراح أختهم.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشَر"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "يمنة"
+    },
+    {
+      "surface": "וישוה",
+      "gloss": "ويشوة"
+    },
+    {
+      "surface": "וישוי",
+      "gloss": "ويشوي"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "وبَريعة"
+    },
+    {
+      "surface": "ושרח",
+      "gloss": "وسرح"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "أختهم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:12:28.044812603Z",
+  "model": "glm-5.2"
+}

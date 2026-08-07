@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 103,
+  "translation": "رحيمٌ وحنونٌ يهوه، بطيءُ الغضب وعظيمُ الحِسِد",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "رحيم"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "وحنون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "بطيء"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "الغضب"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "وعظيم"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "الحِسِد"
+    }
+  ],
+  "timestamp": "2026-08-07T06:05:46.930565590Z",
+  "model": "glm-5.2"
+}

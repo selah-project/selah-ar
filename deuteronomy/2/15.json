@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وأيضًا كانت يدُ يهوه عليهم لِيُهلكِهم من وسط المحلّة حتّى فنوا.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يدُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "كانت"
+    },
+    {
+      "surface": "בם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "لِيُهلكِهم"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "من وسط"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "المحلّة"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتّى"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "فنوا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:21.561315073Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 9:10",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وأنا أيضًا لا تشفق عيني ولا أرفق؛ طريقهم على رأسهم وضعتُ.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "تشفق"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "عيني"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "أرفق"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "طريقهم"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "على رأسهم"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "وضعتُ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:57:03.644991119Z",
+  "model": "glm-5.2"
+}

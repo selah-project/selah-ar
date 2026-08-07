@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "ابن أمَريا ابن عَزاريا ابن مَرا يوت",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "أمَريا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عَزاريا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "مَرا يوت"
+    }
+  ],
+  "timestamp": "2026-08-07T05:02:05.157069600Z",
+  "model": "glm-5.2"
+}

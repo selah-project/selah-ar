@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "لِذٰلِكَ أَرْفُضُ ⟨كَلامِي⟩ وَأَتَنَدَّمُ عَلَىٰ تُرَابٍ وَرَمَادٍ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "أرفض"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "وأتندّم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "تراب"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "ورماد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:45:57.031460739Z",
+  "model": "glm-5.2"
+}

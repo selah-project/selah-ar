@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "فكلّم يهوه موشيه قائلًا:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "مשה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:30:00.639119121Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وقال يهوه إلوهيم للمرأة: ما هذا فعلتِه؟ فقالت المرأة: الحيّة أضلّلتني فأكلتُ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "للمرأة"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "فعلتِ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "المرأة"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "الحيّة"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "أضلّلتني"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "فأكلتُ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:20.594086374Z",
+  "model": "glm-5.2"
+}

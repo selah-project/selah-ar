@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "لإمام ⟨المنشدين⟩ على ⟨الجتيّة⟩ مزمور لداويد",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لإمام المنشدين"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "الجتيّة"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لداويد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:41:12.292542693Z",
+  "model": "glm-5.2"
+}

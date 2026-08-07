@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 20:2",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "وأتوا وأخبروا يهوشافاط قائلين: أتى عليك جمٌّ غفير من عبر البحر، من أرام، وها هم في حصصون تامر، هي عين جِدي.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "وأتوا"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "وأخبروا"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "يهوشافاط"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "בא",
+      "gloss": "أتى"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "عليك"
+    },
+    {
+      "surface": "המון",
+      "gloss": "جمّ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "غفير"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "من عبر"
+    },
+    {
+      "surface": "לים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "מארם",
+      "gloss": "من أرام"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "وها هم"
+    },
+    {
+      "surface": "בחצצון",
+      "gloss": "في حصصون"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "تامر"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عين"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "جِدي"
+    }
+  ],
+  "timestamp": "2026-08-07T05:28:08.091022514Z",
+  "model": "glm-5.2"
+}

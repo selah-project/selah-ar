@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 15:28",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وإذا طهرت من سيلانها، تحصُر لها سبعةَ أيّام، وبعدها تطهر.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "طهرت"
+    },
+    {
+      "surface": "מזובה",
+      "gloss": "من سيلانها"
+    },
+    {
+      "surface": "וספרה",
+      "gloss": "تحصُر"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سبعة"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "وبعدها"
+    },
+    {
+      "surface": "תטהר",
+      "gloss": "تطهر"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:01.063401683Z",
+  "model": "glm-5.2"
+}

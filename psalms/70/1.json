@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 70,
+  "translation": "لإمام ⟨المنشدين⟩، لداود، ⟨تذكيرًا⟩",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لإمام المنشدين"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لدافيد"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "⟨للتذكير⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:53.609559716Z",
+  "model": "glm-5.2"
+}

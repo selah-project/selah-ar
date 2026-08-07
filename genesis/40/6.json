@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "فدخل إليهما يوسف في الصباح ورآهما فإذا هما عابسانِ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "فدخل"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "إليهما"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "في الصباح"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ورأى"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاهما"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "فإذا هما"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "عابسانِ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:39.318287360Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 13:16",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "هذه ⟨هي⟩ أسماء الرجال الذين أرسلهم موشيه لِجَسِّ ⟨את⟩ الأرض، فدعا موشيه هوشِيع ابن نون يهوشوع.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "أسماء"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "الرجال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "أرسلهم"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "لِجَسِّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "فدعا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "هوشِيع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشوع"
+    }
+  ],
+  "timestamp": "2026-08-07T00:34:54.400057049Z",
+  "model": "glm-5.2"
+}

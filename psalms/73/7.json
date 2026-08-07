@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 73,
+  "translation": "تخرج من الشحم عينهم، تجاوزوا تخيّلات القلب.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "تخرج"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "من الشحم"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "عينهم"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "تجاوزوا"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "تخيّلات"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "القلب"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:02.982497336Z",
+  "model": "glm-5.2"
+}

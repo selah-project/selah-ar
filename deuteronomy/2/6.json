@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "طعامًا تشترونه من عندهم بفضّة وتأكلون، وكذلك ماءً تشترونه من عندهم بفضّة وتشربون",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "طعامًا"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "تشترون"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "من عندهم"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "بفضّة"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "وتأكلون"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "وكذلك"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماءً"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "تشترون"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "من عندهم"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "بفضّة"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "وتشربون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:53.037145173Z",
+  "model": "glm-5.2"
+}

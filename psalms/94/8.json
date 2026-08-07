@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 94,
+  "translation": "افهموا يا غِلافاً في الشعب، ويا جُهّال، متى تَعقِلون؟",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "افهموا"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "يا غِلافاً"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "في الشعب"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "ويا جُهّال"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "متى"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "تَعقِلون"
+    }
+  ],
+  "timestamp": "2026-08-07T04:08:25.877661906Z",
+  "model": "glm-5.2"
+}

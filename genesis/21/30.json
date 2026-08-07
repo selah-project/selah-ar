@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فقال: «لأنَّكَ تأخذُ من يدي ⟨את⟩ السَّبعَ نعاجٍ، لكي تكونَ لي لشهادةٍ أنّي حفرتُ ⟨את⟩ البئرَ هذه».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّكَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "السبع نعاج"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "السبع"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "نعاج"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "تأخذ"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "من يدي"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "لشهادة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "حفرتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "البئر"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "البئر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:39.065600290Z",
+  "model": "glm-5.2"
+}

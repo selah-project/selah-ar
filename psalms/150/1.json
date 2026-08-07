@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 150:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 150,
+  "translation": "هلّلوا ياه، هلّلوا إيل في مقدسه، هلّلوه في جلد عزّه",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "هلّلوا"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "هلّلوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "في مقدسه"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "هلّلوه"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "في جلد"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "عزّه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:19:16.068043208Z",
+  "model": "glm-5.2"
+}

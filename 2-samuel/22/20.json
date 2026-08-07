@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وأخرج ⟨إلٰى⟩ الفضاء ⟨את⟩ي، انتشلني لأنّه رضي عنّي.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "وأخرج"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "الفضاء"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاي"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "انتشلني"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "رضي"
+    },
+    {
+      "surface": "בי",
+      "gloss": "عنّي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:40:30.682387962Z",
+  "model": "glm-5.2"
+}

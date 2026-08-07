@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 6:8",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "كلَّ أيّامِ نذرِه مقدَّسًا ⟨هو⟩ ليهوه.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّامِ"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "نذرِه"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدَّسًا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:30:12.303384688Z",
+  "model": "glm-5.2"
+}

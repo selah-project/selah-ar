@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وغسل ⟨את⟩ الأحشاء و⟨את⟩ الساقين، وأوقد على العولاه على المذبح.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "وغسل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأحشاء"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "الأحشاء"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الساقين"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "الساقين"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "وأوقد"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "العولاه"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "المذبح"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:49.443786447Z",
+  "model": "glm-5.2"
+}

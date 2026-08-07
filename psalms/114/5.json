@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 114,
+  "translation": "ما لكِ ⟨أيّتها⟩ البحرُ إنّكِ تهربين؟ ⟨أيّها⟩ الأردنُ إنّكَ ترجعُ إلى الوراء؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إنّك"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "تهرب"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "الأردن"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "ترجع"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "إلى الوراء"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:43.235612190Z",
+  "model": "glm-5.2"
+}

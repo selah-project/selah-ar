@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وأخذنا ⟨את⟩ أرضَهم ووهَبناها مُلكًا لِرأوفين ولِجادِي ولِنصفِ سبطِ مَنَشّي.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "وأخذنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أرضَهم"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "أرضَهم"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ووهَبناها"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "مُلكًا"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "لِرأوفين"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "ولِجادِي"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "ولِنصفِ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "سبطِ"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "مَنَشّي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:24.226976896Z",
+  "model": "glm-5.2"
+}

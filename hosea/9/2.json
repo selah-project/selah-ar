@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "بيدرٌ ومعصرةٌ لا يرعيانِهِم، والعصيرُ يكذبُ فيهم.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "بيدرٌ"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "ومعصرةٌ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "يرعيانِهِم"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "والعصيرُ"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "يكذبُ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:22:38.935893371Z",
+  "model": "glm-5.2"
+}

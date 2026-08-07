@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 16:14",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وصعدت طبقة الطّلّ، وإذا على وجه البرّيّة دقّ مُفتّت، دقّ كالصقيع على الأرض.",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "وصعدت"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "طبقة"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "الطّلّ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "البرّيّة"
+    },
+    {
+      "surface": "דק",
+      "gloss": "دقّ"
+    },
+    {
+      "surface": "מחספס",
+      "gloss": "مُفتّت"
+    },
+    {
+      "surface": "דק",
+      "gloss": "دقّ"
+    },
+    {
+      "surface": "ככפר",
+      "gloss": "كالصقيع"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T00:05:52.638262157Z",
+  "model": "glm-5.2"
+}

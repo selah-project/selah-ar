@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 148,
+  "translation": "هلِّلوه سماواتُ السماوات، والمياهُ التي فوق السماوات.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "هلِّلوه"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "سماواتُ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "والمياه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "فوق"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    }
+  ],
+  "timestamp": "2026-08-07T04:19:02.226211319Z",
+  "model": "glm-5.2"
+}

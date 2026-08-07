@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 97,
+  "translation": "أخبرت السماوات صِدِقه، و⟨رأت⟩ جميع الشعوب كَبوده",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "أخبرت"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "صِدِقه"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "و⟨رأت⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميع"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "الشعوب"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "كَبوده"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:02.977658156Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وعلى جيش سبط بني گاد ألياساف بن دعوئيل.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "جيش"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "سبط"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ألياساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "دعوئيل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:31:36.481664979Z",
+  "model": "glm-5.2"
+}

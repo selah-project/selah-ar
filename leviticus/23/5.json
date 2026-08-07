@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "في الشهر الأول، في أربعة عشر للشهر، بين العَشِيّتين، فِصَح ليهوه.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "في الشهر"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "الأول"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "في أربعة"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "للشهر"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "العَشِيّتين"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "فِصَح"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:16.662662687Z",
+  "model": "glm-5.2"
+}

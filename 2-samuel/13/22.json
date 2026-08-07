@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 13:22",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "ولم يتكلّم أفعالوم مع أمونون لا لشرّ ولا لخير، لأنّ أفعالوم أبغض ⟨את⟩ أمونون على أمر أنّه أذلّ ⟨את⟩ تامار أخته.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "يتكلّم"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "أفعالوم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "أمونون"
+    },
+    {
+      "surface": "למרע",
+      "gloss": "لشرّ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "لخير"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "أبغض"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "أفعالوم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أمونون"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "أمونون"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "أمر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "أنّه"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "أذلّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تامار"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "تامار"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "أخته"
+    }
+  ],
+  "timestamp": "2026-08-07T05:48:01.253073918Z",
+  "model": "glm-5.2"
+}

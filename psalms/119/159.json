@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 159,
+  "ref": "psalms 119:159",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "انظُرْ أنّي وصاياك أحببتُ، يا يهوه؛ كحِسِدِك أحيني.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "انظُرْ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّي"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "وصاياك"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "أحببتُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "كحِسِدِك"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "أحيني"
+    }
+  ],
+  "timestamp": "2026-08-07T04:13:07.999086338Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "لِدان: أخيعزر بن عميشدّاي.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "لِدان"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "أخيعزر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "عميشدّاي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:23.338407615Z",
+  "model": "glm-5.2"
+}

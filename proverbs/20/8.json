@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "ملكٌ جالسٌ على كرسيِّ دِين، يُذَرّي بعينَيه كلَّ شرّ.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "جالس"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "كرسيّ"
+    },
+    {
+      "surface": "דין",
+      "gloss": "دِين"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "يُذَرّي"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "بعينَيه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شرّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:29.587618719Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فقال: «ارفع ⟨لنفسك⟩»، فمدّ يدَه وأخذه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "ارفع"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨لنفسك⟩"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "فمدّ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يدَه"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "وأخذه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:54:21.153837973Z",
+  "model": "glm-5.2"
+}

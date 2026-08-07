@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 39:27",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "وصنعوا ⟨את⟩ القمصان من كتّان، عمل نَسّاج، لهارون ولِبَنيه.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "وصنعوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "القمصان"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "القمصان"
+    },
+    {
+      "surface": "שש",
+      "gloss": "كتّان"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "نَسّاج"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "لهارون"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ولِبَنيه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:06.286335955Z",
+  "model": "glm-5.2"
+}

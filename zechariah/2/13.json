@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 2:13",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "لأنّي هاءنذا أُلوّح ⟨بيدي⟩ على عليهم، فيكونون نهباً لعبيدِهم، فتعرفون أنّ يهوه صباؤت أرسلني.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "هاءنذا"
+    },
+    {
+      "surface": "מניף",
+      "gloss": "أُلوّح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يدي"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "يدي"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "وفيكونون"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "نهباً"
+    },
+    {
+      "surface": "לעבדיהם",
+      "gloss": "لعبيدِهم"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "فتعرفون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤت"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "أرسلني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:35:12.159354814Z",
+  "model": "glm-5.2"
+}

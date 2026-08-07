@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 48:10",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "وعينا يسرايل ثَقُلتا من الكِبَر، فلم يَقْدِر أن يرى. فقرّبهما ⟨את⟩ إليه وقبّلهما وعانقهما.",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "وعينا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "ثَقُلتا"
+    },
+    {
+      "surface": "מזקן",
+      "gloss": "من الكِبَر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "يَقْدِر"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "أن يرى"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "فقرّب"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "إليه"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "وقبّل"
+    },
+    {
+      "surface": "להם",
+      "gloss": "هما"
+    },
+    {
+      "surface": "ויחבק",
+      "gloss": "وعانق"
+    },
+    {
+      "surface": "להם",
+      "gloss": "هما"
+    }
+  ],
+  "timestamp": "2026-08-06T23:56:57.088345996Z",
+  "model": "glm-5.2"
+}

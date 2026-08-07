@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 14:10",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "فنزل أبوه إلى المرأة، وصنع هناك شِمشون مَشرَبًا، لأنّه هكذا يفعل الفتيان.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "فنزل"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "أبوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "المرأة"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "وصنع"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "شِمشون"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "مَشرَبًا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "يفعل"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "الفتيان"
+    }
+  ],
+  "timestamp": "2026-08-07T01:17:48.293934240Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "«كلّم كلّ عاداة بني يِسرائيل وقل لهم: قُدُوس تكونون، لأنّ قدّوسًا أنا يهوه إلوهيمكم.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "كلّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "عاداة"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "وقل"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "قُدُوس"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "تكونون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "قدّوسًا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلوهيمكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:32.608743574Z",
+  "model": "glm-5.2"
+}

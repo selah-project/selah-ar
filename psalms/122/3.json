@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 122,
+  "translation": "يروشالايمُ المَبنيّةُ كمدينةٍ ⟨التي⟩ رُبِطَتْ معًا",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "المَبنيّة"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "كمدينة"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "التي رُبِطَتْ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "معًا"
+    }
+  ],
+  "timestamp": "2026-08-07T08:12:03.182661955Z",
+  "model": "glm-5.2"
+}

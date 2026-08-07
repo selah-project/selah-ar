@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 27:2",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "«حيّ ⟨هو⟩ إيل الذي أزال حَقّي، وشدّاي الذي أمرَّ نَفسي.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "حيّ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "أزال"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "حَقّي"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "وشدّاي"
+    },
+    {
+      "surface": "המר",
+      "gloss": "أمرَّ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفسي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:40:03.205572398Z",
+  "model": "glm-5.2"
+}

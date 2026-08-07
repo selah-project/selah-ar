@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 35:20",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "بعد كلّ هذا، الذي هيّأه يوشياهو ⟨את⟩ البيت، صعد نِخو ملك مصرايم ليتحارب في كركميش على فُرات، وخرج للقائه يوشياهو.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "هيّأه"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "يوشياهو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "البيت"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "صعد"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "نِخو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ليتحارب"
+    },
+    {
+      "surface": "בכרכמיש",
+      "gloss": "في كركميش"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "فُرات"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "للقائه"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "يوشياهو"
+    }
+  ],
+  "timestamp": "2026-08-07T05:32:37.965571571Z",
+  "model": "glm-5.2"
+}

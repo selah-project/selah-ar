@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "ارتجفوا ⟨من⟩ أمام وجهه، كلُّ الأرض! نعم، ⟨هي⟩ ثابتةٌ تِفل، لا تتزعزع.",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "ارتجفوا"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "⟨من⟩ أمام وجهه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אף",
+      "gloss": "نعم"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ثابتةٌ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "تِفل"
+    },
+    {
+      "surface": "בל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "تتزعزع"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:17.107717822Z",
+  "model": "glm-5.2"
+}

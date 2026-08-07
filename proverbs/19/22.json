@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "تَشوُّقُ الإنسانِ حِسِدُهُ، و⟨الأفضلُ⟩ فقيرٌ من إنسانٍ كاذب.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "تَشوُّق"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حِسِدُهُ"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "والأفضل"
+    },
+    {
+      "surface": "רש",
+      "gloss": "فقير"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "من"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "كاذب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:07.638334532Z",
+  "model": "glm-5.2"
+}

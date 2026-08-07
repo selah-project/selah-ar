@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 118,
+  "translation": "لا أموت بل أَحْيَا، وأُخبرُ بأعمالِ ياه.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "أموت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بل"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "أَحْيَا"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "وأُخبرُ"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "بأعمالِ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:14.383048494Z",
+  "model": "glm-5.2"
+}

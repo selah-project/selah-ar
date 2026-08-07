@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 66,
+  "translation": "مبارك إلوهيم الذي لم يُصرف صلاتي، و⟨لا⟩ حِسِده عنّي.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "مبارك"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "يُصرف\/يُبعد"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "صلاتي"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "و⟨لا⟩ حِسِده"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "عنّي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:20.565339366Z",
+  "model": "glm-5.2"
+}

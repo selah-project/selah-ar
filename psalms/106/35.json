@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 106,
+  "translation": "وخالطوا الأمم وتعلّموا أعمالهم",
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "وخالطوا"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "وتعلّموا"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "أعمالهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:09.994669199Z",
+  "model": "glm-5.2"
+}

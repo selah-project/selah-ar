@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 5:7",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "والآن، يا بنين، اسمعوا لي، ولا تحيدوا عن أقوال فمي.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "يا بنين"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "اسمعوا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "تحيدوا"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "عن أقوال"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فمي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:21:45.625511609Z",
+  "model": "glm-5.2"
+}

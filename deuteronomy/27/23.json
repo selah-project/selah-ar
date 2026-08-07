@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "«ملعونٌ من يضاجعُ حماتَه»، ويقولُ كلُّ الشعبِ: «آمين».",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملعون"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "يضاجع"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "حماته"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ويقول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمين"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:27.638431037Z",
+  "model": "glm-5.2"
+}

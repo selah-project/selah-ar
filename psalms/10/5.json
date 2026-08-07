@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "تتشبّث طرقُه في كلّ وقت، مرتفعةٌ أحكامُك من أمامه؛ أمّا كلّ خصومه فينفخ ⟨فيهم⟩.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "تتشبّث"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "طرقُه"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلّ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "مرتفعةٌ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "أحكامُك"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "من أمامه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "خصومه"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "ينفخ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨فيهم⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T03:43:00.045918671Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 39:25",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "لذلك هكذا قال أدوناي يهوه: الآن أَردُّ ⟨את⟩ سبي يعقوف وأرحم كلّ بيت يِسرايل، وغيرتُّ لاسم قدسي.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "أَردُّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سبي"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "سبي"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "وأرحم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرايل"
+    },
+    {
+      "surface": "וקנאתי",
+      "gloss": "وغيرتُّ"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "لاسم"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "قدسي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:15:06.798453123Z",
+  "model": "glm-5.2"
+}

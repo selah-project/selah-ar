@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "يدعو السماوات من فوق، والأرض، ليدين شعبه.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "يدعو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "من فوق"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "والى"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "ليدين"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:52:05.845649417Z",
+  "model": "glm-5.2"
+}

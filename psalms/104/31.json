@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 104,
+  "translation": "ليكن مجدُ يهوه إلى الأبد، يفرح يهوه بأعماله.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ليكن"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "مجدُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "يفرح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "بأعماله"
+    }
+  ],
+  "timestamp": "2026-08-07T04:08:48.949350096Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 28:16",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "فقال شموئيل: ولماذا تسألني؟ ويهوه قد حاد عنك وصار عدوّك.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ولماذا"
+    },
+    {
+      "surface": "תשאלני",
+      "gloss": "تسألني"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ويهوه"
+    },
+    {
+      "surface": "סר",
+      "gloss": "حاد"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "عنك"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وصار"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "عدوّك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:30:54.200914754Z",
+  "model": "glm-5.2"
+}

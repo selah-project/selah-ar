@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 71,
+  "translation": "لأنّ أعدائي قالوا فيّ، وراقبو نَفسي تشاوروا معًا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "قالوا"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "أعدائي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "فيّ"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "وراقبو"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفسي"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "تشاوروا"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "معًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:36.036684588Z",
+  "model": "glm-5.2"
+}

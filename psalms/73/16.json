@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 73,
+  "translation": "وفكّرتُ في معرفة هذا، فهو تعبٌ في عينيّ.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "وفكّرتُ"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "في معرفة"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "تعبٌ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عينيّ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:17.002365187Z",
+  "model": "glm-5.2"
+}

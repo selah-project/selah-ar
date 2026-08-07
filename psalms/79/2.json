@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 79,
+  "translation": "أعطوا ⟨את⟩ جُثَث عبيدك طعامًا لطير السماء، لحمَ حاسيدِيك لوحوش الأرض.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "أعطوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جُثَث عبيدك"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "جُثَث"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "عبيدك"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "طعامًا"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "لطير"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماء"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "لحم"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "حاسيدِيك"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "لوحوش"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:01.671125103Z",
+  "model": "glm-5.2"
+}

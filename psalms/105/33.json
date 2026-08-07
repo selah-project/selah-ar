@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 105,
+  "translation": "وَضَرَبَ كَرْمَتَهُمْ وَتِينَتَهُمْ، وَكَسَرَ شَجَرَ تُخُومِهِمْ.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "وضرَب"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "كرمتهم"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "وتينتهم"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "وكسر"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "شجر"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "تخومهم"
+    }
+  ],
+  "timestamp": "2026-08-07T06:05:59.404440753Z",
+  "model": "glm-5.2"
+}

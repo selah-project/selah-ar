@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "⟨את⟩ سُتُور الدار ⟨את⟩ أعمدتها و⟨את⟩ قواعدها و⟨את⟩ سِتار باب الدار،",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سُتُور"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "سُتُور"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "الدار"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أعمدتها"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "أعمدتها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "قواعدها"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "قواعدها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "ستار"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ستار"
+    },
+    {
+      "surface": "שער",
+      "gloss": "باب"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "الدار"
+    }
+  ],
+  "timestamp": "2026-08-07T00:13:19.202437524Z",
+  "model": "glm-5.2"
+}

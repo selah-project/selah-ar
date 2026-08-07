@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 68,
+  "translation": "للمُنْشِد لِدافِد مَزمور نَشيد",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "للمُنْشِد"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِدافِد"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مَزمور"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "نَشيد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:57:11.975294903Z",
+  "model": "glm-5.2"
+}

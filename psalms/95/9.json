@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 95,
+  "translation": "حيث جرّبَني آباؤكم، اختبروني، بل رأوا أيضًا فعلي،",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "حيث"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "جرّبَني"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "آباؤكم"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "اختبروني"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "رأوا"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "فعلي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:25.575304853Z",
+  "model": "glm-5.2"
+}

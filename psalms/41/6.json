@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "أعدّائي يقولون شرّاً ⟨لي⟩: متى يموت ويهلك اسمه؟",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "أعدّائي"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "يقولون"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شرّاً"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨لي⟩"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "متى"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "يموت"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ويهلك"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:07.425766948Z",
+  "model": "glm-5.2"
+}

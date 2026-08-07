@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "بنو أفرايم، ناشرو القوس المرمومة، انقلبوا في يوم قتال.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "أفرايم"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "ناشري"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "مرمومة"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "القوس"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "انقلبوا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "قتال"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:25.165764851Z",
+  "model": "glm-5.2"
+}

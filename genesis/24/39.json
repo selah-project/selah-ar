@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فقلتُ لسيّدي: ربّما لا تذهبُ المرأةُ بعدي.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "فقلتُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سيّدي"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ربّما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "تذهبُ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "المرأةُ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعدي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:42:58.576644968Z",
+  "model": "glm-5.2"
+}

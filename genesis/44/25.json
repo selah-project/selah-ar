@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "وقال أبونا: ارجعوا، واشِروا لنا قليلًا طعامًا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "أبونا"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ارجعوا"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "واشِروا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "قليلًا"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "طعامًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:56:35.627802197Z",
+  "model": "glm-5.2"
+}

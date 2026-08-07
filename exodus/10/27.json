@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وقوّى يهوه ⟨את⟩ قلب فرعون، فلم يُرد أن يُطلقهم.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "وقوّى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قلب"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "يُرد"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "أن يُطلقهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:01:45.043754862Z",
+  "model": "glm-5.2"
+}

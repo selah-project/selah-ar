@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "أنا הגבר ראה עני בשבט עברתו.",
+  "tokens": [
+    {
+      "surface": "אֲנִ֤י",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "הַגֶּ֨בֶר֙",
+      "gloss": "הגבר"
+    },
+    {
+      "surface": "רָאָ֣ה",
+      "gloss": "رأى"
+    },
+    {
+      "surface": "עֳנִ֔י",
+      "gloss": "עני"
+    },
+    {
+      "surface": "בְּשֵׁ֖בֶט",
+      "gloss": "בשבט"
+    },
+    {
+      "surface": "עֶבְרָתֽוֹ",
+      "gloss": "עברתו"
+    }
+  ],
+  "timestamp": "2026-08-07T08:19:50.272016414Z",
+  "model": "glm-5.2"
+}

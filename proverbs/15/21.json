@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 15:21",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "السّذاجةُ بهجةٌ لِفاقدِ القلب، ورجلُ التَّبَصُّرِ يُقَوِّمُ سَيْرَهُ",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "السذاجة"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "بهجة"
+    },
+    {
+      "surface": "לחסר",
+      "gloss": "لفاقد"
+    },
+    {
+      "surface": "לב",
+      "gloss": "القلب"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ورجل"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "التبصّر"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "يُقوّم"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "السير"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:01.067897039Z",
+  "model": "glm-5.2"
+}

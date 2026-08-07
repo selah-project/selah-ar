@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 15:7",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وأمّا أنتم فتشدّدوا ولا ترتخِ أيديكم، لأنّ ثَمَّ أجرًا لعملكم.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "وأمّا أنتم"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "فتشدّدوا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "ترتخِ"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "أيديكم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ثَمَّ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "أجرًا"
+    },
+    {
+      "surface": "לפעלתכם",
+      "gloss": "لعملكم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:26:05.104734896Z",
+  "model": "glm-5.2"
+}

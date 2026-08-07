@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 7:5",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "لأنَّ أرام أشارت بشرٍّ عليك، إفرايم وابن رملياهو، قائلين:",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨أنَّ⟩"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "أشارت"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "عليك"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "أرام"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بشرٍّ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "إفرايم"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "وابن"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "رملياهو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    }
+  ],
+  "timestamp": "2026-08-07T02:04:42.741588726Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 18:2",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "إلى متى تضعون نهايةً للكلام؟ تفهّموا ثم نتكلّم",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "متى"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "تضعون"
+    },
+    {
+      "surface": "קנצי",
+      "gloss": "نهايةً"
+    },
+    {
+      "surface": "למלין",
+      "gloss": "للكلام"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "تفهّموا"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ثم"
+    },
+    {
+      "surface": "נדבר",
+      "gloss": "نتكلّم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:37:29.321165418Z",
+  "model": "glm-5.2"
+}

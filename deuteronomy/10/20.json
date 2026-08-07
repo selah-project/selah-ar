@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "⟨את⟩ يهوه إلوهيمك تَهاب، إيّاه تعبد، وبه تلصق، وباسمه تحلف.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "تَهاب"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "إيّاه"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "تعبد"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "وبه"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "تلصق"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "وباسمه"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "تحلف"
+    }
+  ],
+  "timestamp": "2026-08-07T05:42:58.437861595Z",
+  "model": "glm-5.2"
+}

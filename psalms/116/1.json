@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 116,
+  "translation": "أحببتُ لأنه يسمع يهوه ⟨את⟩ صوتي تضرّعاتي",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "أحببتُ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "يسمع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صوتي"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "صوتي"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "تضرّعاتي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:01.676127191Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 19:21",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وقال يهوه لموشيه: انزل، أحْذِرِ الشعب، لئلاّ يقتحموا نحو يهوه لِيَرَوا، فيسقط منهم كثيرون.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "רד",
+      "gloss": "انزل"
+    },
+    {
+      "surface": "העד",
+      "gloss": "أحْذِرْ"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "الشعبَ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلاّ"
+    },
+    {
+      "surface": "יהרסו",
+      "gloss": "يقتحموا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نحو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "لِيَرَوا"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "فيسقط"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منهم"
+    },
+    {
+      "surface": "רב",
+      "gloss": "كثيرون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:35.035285896Z",
+  "model": "glm-5.2"
+}

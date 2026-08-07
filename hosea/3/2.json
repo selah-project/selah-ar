@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فابتعتُها لي بخمسةَ عشرَ من الفضة، وحمَر شعير، ولَتَك شعير.",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "فابتعتُها"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "بخمسةَ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشرَ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "من الفضة"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "وحمَر"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "شعير"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "ولَتَك"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "شعير"
+    }
+  ],
+  "timestamp": "2026-08-07T06:01:08.313705568Z",
+  "model": "glm-5.2"
+}

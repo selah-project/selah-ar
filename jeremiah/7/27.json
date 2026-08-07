@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 7:27",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وتُكلِّمُهم ⟨את⟩ كلِّ هذه الكلماتِ، ولا يسمعون إليك، وتدعوهم ولا يستجيبون لك.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "وتُكلِّمُ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل هذه الكلمات"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "الكلماتِ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "يسمعون"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "وتدعو"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יענוכה",
+      "gloss": "يستجيبون لك"
+    }
+  ],
+  "timestamp": "2026-08-07T02:32:17.031936634Z",
+  "model": "glm-5.2"
+}

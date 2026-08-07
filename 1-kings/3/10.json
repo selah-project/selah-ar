@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "و⟨طاب⟩ الكلام في عيني أدوناي، لأن شلوموه سأل ⟨את⟩ الكلام هذا.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "و⟨طاب⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الكلام"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عيني"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "سأل"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الكلام"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الكلام"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:42:48.780034605Z",
+  "model": "glm-5.2"
+}

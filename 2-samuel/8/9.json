@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وسمع توعي ملك حماط أن دافيد ضرب ⟨את⟩ كل جيش هددعازر،",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "وسمع"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "توعي"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حماط"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ضرب"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "دافيد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "جيش"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "هددعازر"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:25.043179859Z",
+  "model": "glm-5.2"
+}

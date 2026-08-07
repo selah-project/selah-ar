@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "ونعطي نحن ⟨את⟩ بناتنا لكم، و⟨את⟩ بناتكم نأخذ لأنفسنا، ونسكن معكم، ونصير شعبًا واحدًا.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "ونعطي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بناتنا"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "بناتنا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بناتكم"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "بناتكم"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "نأخذ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لأنفسنا"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "ونسكن"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "معكم"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "ونصير"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "شعبًا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:48:25.653988900Z",
+  "model": "glm-5.2"
+}

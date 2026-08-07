@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "ولم يُمسِكْ يَروبعام قوّةً بعدُ في أيّام أَفِيّاهو، فضَرَبَه يهوه فمات.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "يُمسِكْ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "قوّةً"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "يَروبعام"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعدُ"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "في أيّام"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "أَفِيّاهو"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "فضَرَبَه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "فمات"
+    }
+  ],
+  "timestamp": "2026-08-07T05:26:16.565112407Z",
+  "model": "glm-5.2"
+}

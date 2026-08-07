@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 22:11",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وصنع لنفسه صِدقيّا بن كنعنة قرونًا من حديد، وقال: «هكذا قال يهوه: بهذه تنطح ⟨את⟩ آرام حتى تفنيهم.»",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وصنع"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لنفسه"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "صِدقيّا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "كنعنة"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "قرونًا"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "من حديد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "بهذه"
+    },
+    {
+      "surface": "תנגח",
+      "gloss": "تنطح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آرام"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "آرام"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "כלתם",
+      "gloss": "تفنيهم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:52:16.908277492Z",
+  "model": "glm-5.2"
+}

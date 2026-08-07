@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "فأرسل شاؤول رسلاً إلى يشاي وقال: أرسل إليّ ⟨את⟩ داود ابنك الذي مع الغنم.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "رسلاً"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "يشاي"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "أرسل"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داود"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ابنك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "مع الغنم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:26:19.210718067Z",
+  "model": "glm-5.2"
+}

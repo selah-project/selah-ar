@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 19:6",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "كثيرون يتضرَّعون أمامَ سَخيٍّ، وكلَّ صديقٍ ⟨يرغبُ في⟩ رجلِ عطايا.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "كثيرون"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "يتضرَّعون"
+    },
+    {
+      "surface": "פני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "سخيٍّ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلَّ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "صديقٍ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "رجلِ"
+    },
+    {
+      "surface": "מתן",
+      "gloss": "عطايا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:13.918145807Z",
+  "model": "glm-5.2"
+}

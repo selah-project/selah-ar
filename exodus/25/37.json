@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وتصنع ⟨את⟩ مصابيحها سبعة، وتُصعد ⟨את⟩ مصابيحها، فتُضيء على جهةِ وجهها",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "وتصنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مصابيحها"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "مصابيحها"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سبعة"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "وتُصعد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مصابيحها"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "مصابيحها"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "فتُضيء"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "جهة"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "وجهها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:04.563119845Z",
+  "model": "glm-5.2"
+}

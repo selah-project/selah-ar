@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 56,
+  "translation": "كلَّ اليومَ كلامي يُعذّبون، عليَّ كلَّ أفكارِهم للشرّ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليومَ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلامي"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "يُعذّبون"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عليَّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "أفكارِهم"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "للشرّ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:42.060828632Z",
+  "model": "glm-5.2"
+}

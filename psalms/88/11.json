@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 88,
+  "translation": "أللموتى تصنعُ آية؟ هل يقوم الرّفائيون فيحمدوك؟ سيله.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "أللموتى"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تصنعُ"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "آية"
+    },
+    {
+      "surface": "אם",
+      "gloss": "هل"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "الرّفائيون"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "يقوم"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "فيحمدوك"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سيله"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:38.480723706Z",
+  "model": "glm-5.2"
+}

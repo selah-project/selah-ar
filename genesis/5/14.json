@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "و⟨كانت⟩ كل أيام قينان عشر سنين وتسعمئة سنة، فمات",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و⟨كانت⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "قينان"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنين"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "وتسع"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "فمات"
+    }
+  ],
+  "timestamp": "2026-08-06T23:36:09.794940774Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 20:18",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "لأنّ يهوه كان قد أَغلق إغلاقًا كلَّ رَحِمٍ لِبَيت أَفيمَلِك، بسبب أمرِ سارةَ امرأةِ أفراهام.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "أغلق"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "إغلاقًا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "⟨في شأن⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "رَحِم"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "لبيت"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "أَفيمَلِك"
+    },
+    {
+      "surface": "על",
+      "gloss": "بسبب"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "أمرِ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارة"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "امرأةِ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:52.932501076Z",
+  "model": "glm-5.2"
+}

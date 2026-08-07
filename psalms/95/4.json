@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 95,
+  "translation": "الذي بيده أعماقُ الأرض، وقممُ الجبال له",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "بيده"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "أعماق"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "وقمم"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "الجبال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:39.367105774Z",
+  "model": "glm-5.2"
+}

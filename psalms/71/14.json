@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 71,
+  "translation": "أمّا أنا فدائمًا أنتظر، وأزيد على كلّ تسبيحك.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "أمّا أنا"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "فدائمًا"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "أنتظر"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "وأزيد"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "تسبيحك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:58:19.911476246Z",
+  "model": "glm-5.2"
+}

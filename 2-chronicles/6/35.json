@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فاسمعْ من السماوات ⟨את⟩ صلاتَهم و⟨את⟩ تضرُّعَهم، وافعلْ حقَّهم.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "فاسمعْ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماوات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صلاتَهم"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "صلاتَهم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "تضرُّعَهم"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "تضرُّعَهم"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "وافعلْ"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "حقَّهم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:21:28.015198861Z",
+  "model": "glm-5.2"
+}

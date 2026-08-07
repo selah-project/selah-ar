@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وعِيفةُ سُرّيّةُ كالِب ولدت ⟨את⟩ حَران و⟨את⟩ مُوصا و⟨את⟩ جازِز، وحَران ولد ⟨את⟩ جازِز.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "وعِيفةُ"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "سُرّيّةُ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "كالِب"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ولدت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حَران"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "حَران"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "مُوصا"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "مُوصا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "جازِز"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "جازِز"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "وحَران"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ولّد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جازِز"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "جازِز"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:10.121588834Z",
+  "model": "glm-5.2"
+}

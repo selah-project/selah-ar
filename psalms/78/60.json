@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "وفارق مِشكان شيلوه، الخيمةَ التي نزلها بين البشر.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "وفارق"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "مِشكان"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "شيلوه"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "نزلها\/أسكنها"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "بين البشر"
+    }
+  ],
+  "timestamp": "2026-08-07T06:05:21.092756400Z",
+  "model": "glm-5.2"
+}

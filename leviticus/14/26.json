@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "ومن الزيت يَصُبّ الكوهين على كفّ الكوهين اليسرى.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "الزيت"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "يَصُبّ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כף",
+      "gloss": "كفّ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "اليسرى"
+    }
+  ],
+  "timestamp": "2026-08-07T00:20:11.873226635Z",
+  "model": "glm-5.2"
+}

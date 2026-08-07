@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 12:30",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "فقام فرعوه ليلًا، هو وكل عبيده وكل مصرايم، و⟨كانت⟩ صرخة عظيمة في مصرايم، لأنه ليس بيت ليس فيه ميّت.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "فقام"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعوه"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ليلًا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "عبيده"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "و⟨كانت⟩"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "صرخة"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "عظيمة"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "في مصرايم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "שם",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ميّت"
+    }
+  ],
+  "timestamp": "2026-08-07T00:04:18.006050049Z",
+  "model": "glm-5.2"
+}

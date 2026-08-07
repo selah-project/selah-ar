@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 15:10",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "لِبَنِي عُزِّئِيل: عَمِّينادافُ الرَّأْسُ وإخوَتُه مِئَةٌ واثنا عَشَر.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "لبني"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "عُزِّئِيل"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "عمِّيناداف"
+    },
+    {
+      "surface": "השر",
+      "gloss": "الرأس"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "وإخوته"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "واثنا"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:12.419345779Z",
+  "model": "glm-5.2"
+}

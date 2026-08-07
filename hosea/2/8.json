@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "لذلك ها أنا أسدّ ⟨את⟩ طريقك بالشوك، وأبني ⟨את⟩ سورها، وسُبُلها لا تجدها",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ها أنا"
+    },
+    {
+      "surface": "שך",
+      "gloss": "أسدّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "طريقك"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "طريقك"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "بالشوك"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "وأبني"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سورها"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "سورها"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "وسُبُلها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "تجدها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:19:59.444739385Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "كالماء سُكبتُ، وانفصلتْ كلُّ عظامي، صار قلبي كالشمع، ذائبًا في وسط أحشائي.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "كالماء"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "سُكبتُ"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "وانفصلتْ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "عظامي"
+    },
+    {
+      "surface": "היה",
+      "gloss": "صار"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "كالشمع"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "ذائبًا"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "أحشائي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:45:04.767125394Z",
+  "model": "glm-5.2"
+}

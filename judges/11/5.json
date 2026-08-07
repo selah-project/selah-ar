@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 11:5",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨كان⟩ لمّا حارب بنو عمّون مع يسرائيل، أن مشايخ جلعاد ذهبوا لأخذ ⟨את⟩ يفتاح من أرض طوب",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لمّا"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "حارب"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمّون"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "وذهبوا"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "مشايخ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "جلعاد"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "لأخذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يفتاح"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "يفتاح"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "من أرض"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طوب"
+    }
+  ],
+  "timestamp": "2026-08-07T01:16:49.953839047Z",
+  "model": "glm-5.2"
+}

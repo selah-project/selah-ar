@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 17:12",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "فملأ ميخا ⟨את⟩ يدَ اللاوي، فصار الفتى له لكوهين، وكان في بيت ميخا.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "فملأ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ميخا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يد"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يدَ"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "اللاوي"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "فصار"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "الفتى"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "لكوهين"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في بيت"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ميخا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:18:15.532642994Z",
+  "model": "glm-5.2"
+}

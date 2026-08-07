@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 4:4",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وأمّا أنت فنَم على جنبك الأيسر، و⟨ضع⟩ ⟨את⟩ ذنب بيت يسرائيل عليه — عدد الأيّام التي تنام عليها تحمل ⟨את⟩ ذنبهم.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "وأمّا أنت"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "نَم"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "צדך",
+      "gloss": "جنبك"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "الأيسر"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "و⟨ضع⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ذنب"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ذنب"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "عدد"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "الأيّام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "تنام"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليها"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "تحمل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ذنبهم"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ذنبهم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:55:35.170131232Z",
+  "model": "glm-5.2"
+}

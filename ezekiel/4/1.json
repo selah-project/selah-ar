@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وأمّا أنت يا ابن آدم فخذ لنفسك لبِنةً و⟨ضعها⟩ أمامك، وارسم عليها مدينةً ⟨את⟩ يروشالايم.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "وأمّا أنت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "קח",
+      "gloss": "خذ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "لبِنة"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "و⟨ضعها⟩"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاها"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "أمامك"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "وارسم"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "عليها"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يروشالايم"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:55:35.169704693Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "وتصنع ⟨את⟩ الألواح للمِشكان خشب شِطيم قائمة.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "وتصنع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الألواح"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "الألواح"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "للمِشكان"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "خشب"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شِطيم"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "قائمة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:09:01.770573675Z",
+  "model": "glm-5.2"
+}

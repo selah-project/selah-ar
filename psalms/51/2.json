@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 51,
+  "translation": "في مجيء ناتان الناطق إليه، حين دخل على بَث-شابع.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "في مجيء"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "الناطق"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "حين"
+    },
+    {
+      "surface": "בא",
+      "gloss": "دخل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "على"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بَث-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شابع"
+    }
+  ],
+  "timestamp": "2026-08-07T03:53:34.220467130Z",
+  "model": "glm-5.2"
+}

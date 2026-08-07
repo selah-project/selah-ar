@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فأجاب الملك وقال: أعطوها ⟨את⟩ المولود الحيّ، والميّت لا تميتوه. ⟨هي⟩ أمّه.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "فأجاب"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "أعطوا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المولود"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "المولود"
+    },
+    {
+      "surface": "החי",
+      "gloss": "الحيّ"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "والميّت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "تميتوه"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨هي⟩"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "أمّه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:43:11.687835799Z",
+  "model": "glm-5.2"
+}

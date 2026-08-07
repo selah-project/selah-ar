@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 28:47",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "«تحت أنك لم تعبد ⟨את⟩ يهوه إلهيك بفرح وبطيب قلب من فيض كل شيء»",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "أنك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "عبدت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلهيك"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "بفرح"
+    },
+    {
+      "surface": "ובטוב",
+      "gloss": "وبطيب"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "من فيض"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل شيء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:55.394033983Z",
+  "model": "glm-5.2"
+}

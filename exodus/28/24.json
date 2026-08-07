@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "وتُعطي ⟨את⟩ ضفيرتَيِ الذهبِ على الحلقتينِ نحوَ طرفَيِ الصِّندوق",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "وتُعطي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ضفيرتَيِ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ضفيرتَيِ"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": ""
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "الذهبِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "الحلقتينِ"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "نحوَ"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "طرفَيِ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "الصِّندوق"
+    }
+  ],
+  "timestamp": "2026-08-07T00:09:30.231308644Z",
+  "model": "glm-5.2"
+}

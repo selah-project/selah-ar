@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "أ أيضًا عبدُك يُنذَر بها؛ ⟨في⟩ حفظِها أجرٌ عظيم.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "أ أيضًا"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدُك"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "يُنذَر"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "بها"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "حفظِها"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "أجرٌ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "عظيم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:43:56.505788931Z",
+  "model": "glm-5.2"
+}

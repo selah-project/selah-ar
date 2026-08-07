@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "حَفَرَ المتغطرسون لِي حِبَارًا، هم الذين ليسوا حسب توراتِكَ.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "حَفَرَ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لِي"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "المتغطرسون"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "حِبَارًا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليسوا"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "حسب توراتِكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:22.267098642Z",
+  "model": "glm-5.2"
+}

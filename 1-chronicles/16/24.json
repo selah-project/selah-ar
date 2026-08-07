@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "أخبروا في الأمم ⟨את⟩ مجده، وفي جميع الشعوب عجائبه.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "أخبروا"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "في الأمم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مجده"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "مجده"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في جميع"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "الشعوب"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "عجائبه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:26.351387071Z",
+  "model": "glm-5.2"
+}

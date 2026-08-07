@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 30:36",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وجعل مسيرةَ ثلاثةِ أيامٍ بينه وبين يعقوف، وكان يعقوف يرعى ⟨את⟩ قطيعَ لافان الباقي.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "وجعل"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "مسيرةَ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ثلاثةِ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيامٍ"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "بينه"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "وكان يعقوف"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "يرعى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قطيعَ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "قطيعَ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لافان"
+    },
+    {
+      "surface": "הנותרת",
+      "gloss": "الباقي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:24.878525078Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 2:22",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فشُفيت المياه إلى هذا اليوم، ككلمة أليشاع التي تكلّم بها.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "فشُفيت"
+    },
+    {
+      "surface": "המים",
+      "gloss": "المياه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "היום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ككلمة"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "أليشاع"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم بها"
+    }
+  ],
+  "timestamp": "2026-08-07T01:53:17.364428684Z",
+  "model": "glm-5.2"
+}

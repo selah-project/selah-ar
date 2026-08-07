@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "في اليوم الأول ⟨هو⟩ مِقرا قُدُس، كلَّ مَلأخِت عِبودَة لا تعملوها.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "فييوم"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "الأول"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "مِقرا\/استدعاء"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قُدُس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "مَلأخِت\/عمل"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "عِبودَة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "تعملوها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:26:20.260489929Z",
+  "model": "glm-5.2"
+}

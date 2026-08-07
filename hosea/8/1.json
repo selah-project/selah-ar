@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "إلى حَنَكِكَ شوفار، كالنسر على بيت يهوه، لأنهم تجاوزوا بريتي وعلى توراتي عصوا.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "حنكك"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "شوفار"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "كالنسر"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יען",
+      "gloss": "لأنهم"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "تجاوزوا"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "بريتي"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "توراتي"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "عصوا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:22:32.367040138Z",
+  "model": "glm-5.2"
+}

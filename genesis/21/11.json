@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 21:11",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فساء الأمر جدًّا في عيني أفراهام بسبب ابنه",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "فساء"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عيني"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "על",
+      "gloss": "بسبب"
+    },
+    {
+      "surface": "אודת",
+      "gloss": "⟨أجل⟩"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:07.559092872Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "صِرْتُ سُخْريَةً لِكُلِّ شَعْبي، ⟨و⟩نَغِينَتَهُمْ كُلَّ اليومِ.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "صِرتُ"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "سُخْريَة"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لكل"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "شعبي"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "نَغِينَتَهُم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليومِ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:48:39.094192866Z",
+  "model": "glm-5.2"
+}

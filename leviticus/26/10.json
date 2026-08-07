@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "فتأكلون قديمًا معتّقًا، والقديمَ من وجهِ الجديد تُخرجون.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "فتأكلون"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "قديمًا"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "معتّقًا"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "والقديمَ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجهِ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "الجديدِ"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "تُخرجون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:26:39.435491148Z",
+  "model": "glm-5.2"
+}

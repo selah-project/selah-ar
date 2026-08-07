@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "في سنة ثمانيَ عشرةَ للملك ياروفعام، ملك أَبيَّا على يهودا.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "في سنة"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ثمانيَ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرةَ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "للملك"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ياروفعام"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "وملك"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "أَبيَّا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:26:49.846648572Z",
+  "model": "glm-5.2"
+}

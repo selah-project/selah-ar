@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 45:11",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "وأُعولك ⟨את⟩ هناك، لأنّ خمسَ سنين جوعٍ بعد، لئلّا تَفتقر أنت وبيتُك وكلّ ما لك.",
+  "tokens": [
+    {
+      "surface": "וכלכלתי",
+      "gloss": "وأُعول"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "أنت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "خمس"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنين"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "جوع"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلّا"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "تَفتقر"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "وبيتُك"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:57:24.785456256Z",
+  "model": "glm-5.2"
+}

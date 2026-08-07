@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 9:5",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "هُم دخلوا أرضَ صوف، وقال شاؤولُ للفتى الذي معه: «تعالَ نعود، لئلا يَكفَّ أبي عن الأتانِ ويقلقَ علينا».",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    },
+    {
+      "surface": "באו",
+      "gloss": "دخلوا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "צוף",
+      "gloss": "صوف"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "وشاؤول"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "لفتاه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "تعالَ"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "ونعود"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلا"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "يكفّ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "عن"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "الأتان"
+    },
+    {
+      "surface": "ודאג",
+      "gloss": "ويقلق"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "علينا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:23:39.018303213Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 4:23",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فأخضع إلوهيم في ذلك اليوم ⟨את⟩ يابين ملك كنعان أمام بني يسرائيل.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "فأخضع"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يابين ملك كنعان"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "يابين"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كنعان"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:14:14.137324971Z",
+  "model": "glm-5.2"
+}

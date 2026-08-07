@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 2:11",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وفعل بنو إسرائيل ⟨את⟩ الشرَّ في عيني يهوه، فعبدوا ⟨את⟩ البَعليم.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "وفعل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشرَّ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "الشرَّ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عيني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "فعبدوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "البَعليم"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "البَعليم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:12:10.185405673Z",
+  "model": "glm-5.2"
+}

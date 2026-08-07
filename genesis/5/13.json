@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 5:13",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "و⟨عاش⟩ قينان بعد ولادته ⟨את⟩ مهللئيل أربعين سنة وثمانمئة سنة، و⟨وَلَدَ⟩ بنين وبنات",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و⟨عاش⟩"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "قينان"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ولادته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مهللئيل"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "مهللئيل"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "أربعين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "وثماني"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و⟨وَلَدَ⟩"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بنين"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "وبنات"
+    }
+  ],
+  "timestamp": "2026-08-06T23:36:09.794587873Z",
+  "model": "glm-5.2"
+}

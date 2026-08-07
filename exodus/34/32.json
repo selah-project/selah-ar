@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "وبعد ذلك اقترب كل بني يسرايل، فأوصاهم ⟨بـ⟩ ⟨את⟩ كل ما كلّم به يهوه إيّاه في جبل سيناي.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "وبعد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "اقترب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "فأوصاهم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلّم به"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "إيّاه"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "في جبل"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سيناي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:13:05.569487871Z",
+  "model": "glm-5.2"
+}

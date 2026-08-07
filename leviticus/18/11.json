@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 18:11",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "عورة بنت امرأة أبيك، المولودة لأبيك، هي أختك، لا تكشف عورتها.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "عورة"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أبيك"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "المولودة"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "لأبيك"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "أختك"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "تكشف"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "عورتها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:18.333968198Z",
+  "model": "glm-5.2"
+}

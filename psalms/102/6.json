@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 102,
+  "translation": "من صوتِ تنهّدي التصقت عظمي بجسدي.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "من صوتِ"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "تنهّدي"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "التصقت"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "عظمي"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "بجسدي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:34.649545390Z",
+  "model": "glm-5.2"
+}

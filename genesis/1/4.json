@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فرأى إلوهيم ⟨את⟩ النور أنّه طيّب، وفرق إلوهيم بين النور وبين الظلمة.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "فرأى"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "النور"
+    },
+    {
+      "surface": "האור",
+      "gloss": "النور"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيّب"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "وفرق"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "האור",
+      "gloss": "النور"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "الظلمة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:33:42.619671823Z",
+  "model": "glm-5.2"
+}

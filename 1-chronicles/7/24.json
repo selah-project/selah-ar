@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وابنته شَأَراةُ. وهي بنَتْ ⟨את⟩ بيتَ حورونَ السفلى و⟨את⟩ العليا و⟨את⟩ عُزَّنَ شَأَراة.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "وابنته"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "شأرات"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "وبنت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيت حورون"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "حورون"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "السفلى"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "العليا"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "العليا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "عزن شأرات"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "عزن"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "شأرات"
+    }
+  ],
+  "timestamp": "2026-08-07T05:12:16.051326833Z",
+  "model": "glm-5.2"
+}

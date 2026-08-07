@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 31:2",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "يا ابن آدم، قُل إلى فرعون مَلِكِ مصرايم وإلى جموعه: بمَن شابهتَ في عظمتك؟",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "يا ابن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قُل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلِكِ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "המונו",
+      "gloss": "جموعه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨إلى⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "بمَن"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "شبهتَ"
+    },
+    {
+      "surface": "בגדלך",
+      "gloss": "في عظمتك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:07:55.475620154Z",
+  "model": "glm-5.2"
+}

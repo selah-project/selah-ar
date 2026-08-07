@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 1:14",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فقال له داود: كيف لم تخف أن تمدّ يدك لتُهلِك ⟨את⟩ ماشيح يهوه؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "איך",
+      "gloss": "كيف"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "خفت"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "أن تمدّ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدك"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "لتُهلِك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماشيح"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "ماشيح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T07:25:22.101546256Z",
+  "model": "glm-5.2"
+}

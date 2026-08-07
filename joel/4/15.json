@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "الشمسُ والقمرُ أظلما، والكواكبُ حَجَبَتْ لمعانَها.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "الشمس"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "والقمر"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "أظلما"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "والكواكب"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "حَجَبَتْ"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "لمعانَها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:24:03.070107633Z",
+  "model": "glm-5.2"
+}

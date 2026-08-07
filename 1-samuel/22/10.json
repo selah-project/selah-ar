@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وسأل له بيهوه، وزوّادةً أعطاه، و⟨את⟩ سيف جُليات الفلشتيّ أعطاه.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "وسأل"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "بيهوه"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "وزوّادةً"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "إيّاه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سيف جُليات"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "سيف"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "جُليات"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "الفلشتيّ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "إيّاه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:28:48.701793410Z",
+  "model": "glm-5.2"
+}

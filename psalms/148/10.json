@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 148,
+  "translation": "الوحوش وكل البهائم، الزواحف والطير ذوات الأجنحة،",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "الوحوش"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "البهائم"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "الزواحف"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "والطير"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ذوات الأجنحة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:45.801073318Z",
+  "model": "glm-5.2"
+}

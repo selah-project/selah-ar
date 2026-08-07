@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 27:33",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "لا يُفحَص بين الجيّد والرّديّ، ولا يُبْدِلُه. وإن أبدله، ف⟨كان⟩ هو وبدلُه قُدسًا لا يُفْتَدى.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יבקר",
+      "gloss": "يُفحَص"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "الجيّد"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "والرّديّ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "ימירנו",
+      "gloss": "يُبدله"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "המר",
+      "gloss": "أبدل"
+    },
+    {
+      "surface": "ימירנו",
+      "gloss": "يُبدله"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ف⟨كان⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "وبدله"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قُدسًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "يُفتدى"
+    }
+  ],
+  "timestamp": "2026-08-07T00:27:09.712909244Z",
+  "model": "glm-5.2"
+}

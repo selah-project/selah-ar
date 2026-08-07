@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "أرضُ حنطةٍ وشعيرٍ، وكرمةٍ وتينةٍ ورمانٍ؛ أرضُ زيتِ زيتونٍ وعسل.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "أرضُ"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "حنطةٍ"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "وشعيرٍ"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "وكرمةٍ"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "وتينةٍ"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "ورمانٍ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرضُ"
+    },
+    {
+      "surface": "זית",
+      "gloss": "زيت"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "زيتونٍ"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "وعسل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:54:16.465201162Z",
+  "model": "glm-5.2"
+}

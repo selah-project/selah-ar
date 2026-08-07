@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 12:12",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "ومات إيلون الزبولوني ودُفن في أيالون في أرض زبولن.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ومات"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "إيلون"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "الزبولوني"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ودُفن"
+    },
+    {
+      "surface": "באילון",
+      "gloss": "في أيالون"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زبولن"
+    }
+  ],
+  "timestamp": "2026-08-07T01:16:43.493734565Z",
+  "model": "glm-5.2"
+}

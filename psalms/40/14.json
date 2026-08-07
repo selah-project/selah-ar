@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "ارْضَ، يا يهوه، ⟨عن⟩ إنقاذي؛ يا يهوه، ⟨إلى⟩ نُصرتي أسرِعْ!",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "ارضَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "لإنقاذي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "لنُصرتي"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "أسرِعْ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:50.475589516Z",
+  "model": "glm-5.2"
+}

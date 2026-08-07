@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "خبز إلوهيمه من قداشي القداشات ومن القداشات يأكل.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "خبز"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "إلوهيمه"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "من قداشي"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "القداشات"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "القداشات"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يأكل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:52.446286468Z",
+  "model": "glm-5.2"
+}

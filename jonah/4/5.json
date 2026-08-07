@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 4:5",
+  "book": "jonah",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وخرج يوناه من المدينة وجلس شرقًا للمدينة، فصنع ⟨لنفسه⟩ هناك سُكّة وجلس تحتها في الظلّ، حتى يرى ما يكون في المدينة.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "يوناه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "وجلس"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "شرقًا"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "للمدينة"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "وفعل\/صنع"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "סכה",
+      "gloss": "سُكّة"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "وجلس"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "تحتها"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "في الظلّ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "أن"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "يرى"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "في المدينة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:29:47.655803957Z",
+  "model": "glm-5.2"
+}

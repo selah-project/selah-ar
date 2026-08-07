@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 19:27",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "فقال: «سيّدي الملك، عبدي خدعني، لأنّ عبدك قال: أسرج لي الحمار وأركب عليه وأمشي ⟨إلى⟩ ⟨את⟩ الملك، لأنّ عبدك أعرج.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سيّدي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عبدي"
+    },
+    {
+      "surface": "רמני",
+      "gloss": "خدعني"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدك"
+    },
+    {
+      "surface": "אחבשה",
+      "gloss": "أسرج"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "الحمار"
+    },
+    {
+      "surface": "וארכב",
+      "gloss": "وأركب"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "وأمشي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الملك"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "أعرج"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:38:51.353301963Z",
+  "model": "glm-5.2"
+}

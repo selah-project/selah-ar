@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 116,
+  "translation": "وباسم يهوه أدعو: آهِ يا يهوه، نجِّ نَفسي!",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "وباسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "أدعو"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "آهِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "نجِّ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفسي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:01.676488398Z",
+  "model": "glm-5.2"
+}

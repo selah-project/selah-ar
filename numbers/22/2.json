@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "ورأى بالَق بنُ صِفّور ⟨את⟩ كلَّ ما فعله يسرائيل بالأموري.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ورأى"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالَق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنُ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "صِفّور"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعله"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "بالأموري"
+    }
+  ],
+  "timestamp": "2026-08-07T00:38:55.919342600Z",
+  "model": "glm-5.2"
+}

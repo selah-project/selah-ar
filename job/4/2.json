@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 4:2",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "هل يحاول أحد كلمةً معك فتتعب؟ ⟨و⟩في كبح الكلمات مَن يقدر؟",
+  "tokens": [
+    {
+      "surface": "הנסה",
+      "gloss": "هل يحاول"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "תלאה",
+      "gloss": "فتتعب"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "⟨و⟩في كبح"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "الكلمات"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "يقدر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:31:40.386513994Z",
+  "model": "glm-5.2"
+}

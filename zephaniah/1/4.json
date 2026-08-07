@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 1:4",
+  "book": "zephaniah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "وأمدّ يدي على يهودا وعلى كلّ سكّان يروشالايم، وأستأصل من هذا المكان ⟨את⟩ بقيّة البَعْل و⟨את⟩ اسم الكَمَريم مع الكهنة.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "وأمدّ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "يدي"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "سكّان"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "وأستأصل"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "المكان"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بقيّة"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "بقيّة"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "البَعْل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "الكَمَريم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكهنة"
+    }
+  ],
+  "timestamp": "2026-08-07T07:58:56.006914919Z",
+  "model": "glm-5.2"
+}

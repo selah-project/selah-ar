@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وأُبعد ⟨את⟩ أسماء البَعَليم من فمها، فلا تُذكر بعدُ بأسمائها.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "وأُبعد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أسماء"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "أسماء"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "البَعَليم"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "من فمها"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "تُذكر"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعدُ"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "بأسمائها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:20:28.244905091Z",
+  "model": "glm-5.2"
+}

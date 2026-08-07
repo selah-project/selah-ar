@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "فجمعهم ⟨את⟩ إلى حَرَسٍ ثلاثةَ أيامٍ.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "فجمع"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "هم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "حَرَسٍ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ثلاثةَ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيامٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T06:59:53.740654080Z",
+  "model": "glm-5.2"
+}

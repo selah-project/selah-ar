@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 13:15",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "هوذا يقتلني — لا أنتظر؛ فقطّ سُبُلي إلى وجهه أحاجّ.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "יקטלני",
+      "gloss": "يقتلني"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "أنتظر"
+    },
+    {
+      "surface": "אך",
+      "gloss": "فقطّ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "سُبُلي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "وجهه"
+    },
+    {
+      "surface": "אוכיח",
+      "gloss": "أحاجّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:34:52.630176505Z",
+  "model": "glm-5.2"
+}

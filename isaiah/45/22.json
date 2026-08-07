@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 45:22",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "توجّهوا إليّ ولتُخَلَّصوا، جميع أقاصي الأرض، لأنّي إيل ولا آخر.",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "توجّهوا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "והושעו",
+      "gloss": "ولتُخَلَّصوا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميع"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "أقاصي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ني"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "آخر"
+    }
+  ],
+  "timestamp": "2026-08-07T02:20:08.580153768Z",
+  "model": "glm-5.2"
+}

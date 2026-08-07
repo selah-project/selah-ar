@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وإلى امرأة قريبك لا تعطِ اضطجاعك لزرع، للتتنجيس بها.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "قريبك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "تعطِ"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "اضطجاعك"
+    },
+    {
+      "surface": "لזרע",
+      "gloss": "لزرع"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "للتتنجيس"
+    },
+    {
+      "surface": "בה",
+      "gloss": "بها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:03.032598737Z",
+  "model": "glm-5.2"
+}

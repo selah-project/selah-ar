@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "كلُّ ذكرٍ في الكهنة يأكلُه، في مكانٍ مقدّسٍ يُؤكَل، قدسَ أقداسٍ هو.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ذكر"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "في الكهنة"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "يأكله"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "في مكان"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "مقدّس"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "يُؤكَل"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدس"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "أقداس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:59.938226560Z",
+  "model": "glm-5.2"
+}

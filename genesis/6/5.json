@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 6:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فرأى يهوه أنّ شرّ الإنسان قد كثر في الأرض، وأن كلّ يَصَر أفكار قلبه إنّما ⟨هو⟩ شرّ كلّ اليوم.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "فرأى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "قد كثر"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "شرّ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وأن كلّ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "يَصَر"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "أفكار"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "قلبه"
+    },
+    {
+      "surface": "רק",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شرّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:34:27.335615909Z",
+  "model": "glm-5.2"
+}

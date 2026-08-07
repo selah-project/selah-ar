@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "لِلمُنْتَدِبِ مَزْمُورٌ لِداوُدَ",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لِلمُنْتَدِبِ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مَزْمُورٌ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِداوُدَ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:53.278113379Z",
+  "model": "glm-5.2"
+}

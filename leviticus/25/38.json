@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "أنا يهوه إلوهيمكم الذي أخرج ⟨את⟩كم من أرض مصرايم، لأعطيكم ⟨את⟩ أرض كنعان، لأكون لكم لإلوهيم.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلوهيمكم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "أخرج"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩كم"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "من أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "لأعطي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أرض"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كنعان"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "لأكون"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "لإلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:58.497583598Z",
+  "model": "glm-5.2"
+}

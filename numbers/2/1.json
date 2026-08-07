@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وكلَّم يهوه موشيه و⟨⟨את⟩⟩ أهارون قائلًا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وكلَّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:10.039827125Z",
+  "model": "glm-5.2"
+}

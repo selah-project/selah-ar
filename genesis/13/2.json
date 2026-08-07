@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وكان أفرام ثقيلًا جدًّا بالماشية بالفضّة وبالذهب",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "وكان أفرام"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ثقيلًا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "بالماشية"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "بالفضّة"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "وبالذهب"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:38.166574076Z",
+  "model": "glm-5.2"
+}

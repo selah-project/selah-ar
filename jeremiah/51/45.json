@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "jeremiah 51:45",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 51,
+  "translation": "اخرجوا من وسطها يا شعبي، ونجّوا كلُّ واحدٍ ⟨את⟩ نَفسه من حُمُوغ غضب يهوه.",
+  "tokens": [
+    {
+      "surface": "צאו",
+      "gloss": "اخرجوا"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "من وسطها"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "يا شعبي"
+    },
+    {
+      "surface": "ומלטו",
+      "gloss": "و نجّوا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كلُّ واحدٍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نَفسه"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نَفسه"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "من حُمُوغ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:52:46.010093191Z",
+  "model": "glm-5.2"
+}

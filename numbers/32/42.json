@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "ونوبح سار فأخذ ⟨את⟩ قنات و⟨את⟩ بناتها ودعا لها نوبح باسمه.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "ونوبح"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "سار"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "فأخذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قنات"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "قنات"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بناتها"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "بناتها"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "نوبح"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "باسمه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:42:13.840958903Z",
+  "model": "glm-5.2"
+}

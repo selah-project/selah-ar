@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 73,
+  "translation": "لو قلتُ: «أرويها هكذا»، فهأنذا قد غدرتُ بجيل بنيك،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "لو"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "قلتُ"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "أرويها"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "فهأنذا"
+    },
+    {
+      "surface": "דור",
+      "gloss": "جيل"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "بنيك"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "غدرتُ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:17.002268638Z",
+  "model": "glm-5.2"
+}

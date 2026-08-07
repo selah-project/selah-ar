@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 113,
+  "translation": "لِيُجلِسَه مع النُّبَلاء، مع نُبَلاء شعبِه.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "لِيُجلِسَه"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "النُّبَلاء"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "نُبَلاء"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبِه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:39.969611745Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "⟨את⟩ فضّتَك لا تُعطيه بالرِّبا، ولا بالمراباة تُعطي ⟨את⟩ طعامَك.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فضّتك"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "فضّتك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "تُعطي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "بالرِّبا"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "وبالمراباة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "تُعطي"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "طعامك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:58.497396702Z",
+  "model": "glm-5.2"
+}

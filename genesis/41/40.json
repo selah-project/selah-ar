@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 41:40",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "أنت تكون على بيتي، وعلى فمك يُقبَّل كلّ شعبي، إنّما العرش أحدَرُ منك.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "بيتي"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "فمك"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "يُقبَّل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "شعبي"
+    },
+    {
+      "surface": "רק",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "العرش"
+    },
+    {
+      "surface": "אגדל",
+      "gloss": "أنا أكبر\/أحدَرُ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "منك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:52:32.002070063Z",
+  "model": "glm-5.2"
+}

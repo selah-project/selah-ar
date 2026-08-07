@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 138,
+  "translation": "لِداوُد. أحمدك بكلِّ قلبي، أمام إلوهيم أُرَنِّم لك.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "لِداوُد"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "أحمدك"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بكلِّ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "أُرَنِّم لك"
+    }
+  ],
+  "timestamp": "2026-08-07T06:07:55.402998374Z",
+  "model": "glm-5.2"
+}

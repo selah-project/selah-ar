@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 59,
+  "translation": "هوذا يدُ يهوه لم تَقْصُرْ عن التخليص، وأذنُه لم تَثقُلْ عن السمع.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "تَقْصُرْ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يدُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "عن التخليص"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "تَثقُلْ"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "أذنُه"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "عن السمع"
+    }
+  ],
+  "timestamp": "2026-08-07T02:24:36.186714868Z",
+  "model": "glm-5.2"
+}

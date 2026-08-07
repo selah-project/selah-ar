@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "وقتٌ للعمل ليهوه — ⟨هم⟩ أبطلوا توراتك.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "للعمل"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "أبطلوا"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "توراتك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:33.771025612Z",
+  "model": "glm-5.2"
+}

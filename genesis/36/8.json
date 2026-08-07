@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "فسكن عيسو في جبل سَعير. عيسو هو أدوم.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "فسكن"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "في جبل"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سَعير"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "أدوم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:48:06.006034212Z",
+  "model": "glm-5.2"
+}

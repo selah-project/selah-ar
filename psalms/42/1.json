@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "للمُنْشِد. مَشكيلٌ لبني قوراح.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "للمُنْشِد"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "مَشكيل"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لبني"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قوراح"
+    }
+  ],
+  "timestamp": "2026-08-07T06:04:06.015241719Z",
+  "model": "glm-5.2"
+}

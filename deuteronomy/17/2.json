@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 17:2",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "إذا وُجد في وسطك في أحد أبوابك التي يعطيها يهوه إلوهيمك لك رجلٌ أو امرأةٌ يصنع ⟨את⟩ الشرّ في عيني يهوه إلوهيمك لِيعبر بريتَه،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "وُجد"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "في وسطك"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "في أحد"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "أبوابك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "يعطيها"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "يصنع"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشرّ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في عيني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "لِيعبر"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "بريتَه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:27.743278753Z",
+  "model": "glm-5.2"
+}

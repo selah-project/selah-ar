@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "صالحٌ أنتَ، و⟨فعلُك⟩ صالحٌ؛ علّمني فرائضك.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "صالحٌ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "و⟨فعلُك⟩ صالحٌ"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "علّمني"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "فرائضك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:12.090627550Z",
+  "model": "glm-5.2"
+}

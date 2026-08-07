@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 139,
+  "translation": "وانظرْ إنْ كان طريق وجع فيّ، واهدِني في طريق عولام.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "وانظرْ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إنْ كان"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "طريق"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "وجع"
+    },
+    {
+      "surface": "בי",
+      "gloss": "فيّ"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "واهدِني"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "في طريق"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "عولام"
+    }
+  ],
+  "timestamp": "2026-08-07T04:17:50.400753258Z",
+  "model": "glm-5.2"
+}

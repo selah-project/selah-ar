@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "والآن أَبْقِني، فليحمَ غضبي عليهم وآكلهم، وأصنعك ⟨את⟩ لأُمّة عظيمة.»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "أَبْقِني"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "فليحمَ"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "غضبي"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "وآكلهم"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "وأصنع"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ك",
+      "marks": "لأمة عظيمة"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "لأُمّة"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيمة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:31.987425527Z",
+  "model": "glm-5.2"
+}

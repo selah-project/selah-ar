@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فتمرَّد موآب على يسرائيل بعد موت أخآب.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "فتمرَّد"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "على يسرائيل"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "أخآب"
+    }
+  ],
+  "timestamp": "2026-08-07T01:52:56.508050840Z",
+  "model": "glm-5.2"
+}

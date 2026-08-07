@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 32:44",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "فجاء موشيه وكلّم ⟨את⟩ جميعَ كلماتِ هذه الشِّيرا في أذني الشعب، هو وهوشِع بن نون.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "فجاء"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "وكلّم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جميع"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جميعَ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلماتِ"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "الشِّيرا"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "في أذني"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "وهوشِع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    }
+  ],
+  "timestamp": "2026-08-07T01:02:04.674442191Z",
+  "model": "glm-5.2"
+}

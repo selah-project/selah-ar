@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 7:5",
+  "book": "amos",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "فقلتُ: أدوناي يهوه، كُفّْ ⟨نعم⟩، كيف يقوم يعقوف؟ لأنه صغير هو.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "فقلتُ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "كُفّْ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨نعم⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "كيف"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "يقوم"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "صغير"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T03:27:03.350861233Z",
+  "model": "glm-5.2"
+}

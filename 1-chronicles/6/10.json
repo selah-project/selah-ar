@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وابنا ألْقانة: عماساي وأخيموت.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "وابنا"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ألْقانة"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "عماساي"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "وأخيموت"
+    }
+  ],
+  "timestamp": "2026-08-07T05:13:17.539729773Z",
+  "model": "glm-5.2"
+}

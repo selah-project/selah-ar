@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 112,
+  "translation": "مُسنَدٌ قلبُهُ لا يخاف، حتّى يَنظُر في مُتضايقِيه.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "مُسنَدٌ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "قلبُهُ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "يخاف"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتّى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨حتّى⟩"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "يَنظُر"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "في مُتضايقِيه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:43.355812583Z",
+  "model": "glm-5.2"
+}

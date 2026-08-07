@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "لا يكون لكُ إلوهيم آخرون فوق وجهي:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكُ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "آخرون"
+    },
+    {
+      "surface": "על",
+      "gloss": "فوق"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:45.288600025Z",
+  "model": "glm-5.2"
+}

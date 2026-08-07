@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "لأنّ ⟨את⟩ نير حِملِه و⟨את⟩ عصا كتفه، عصا المُسخِّط عليه، حَطَمَها كيوم مِديان.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نير حِمله"
+    },
+    {
+      "surface": "על",
+      "gloss": "نير"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "حِملِه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "عصا كتفه"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "عصا"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "كتفه"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "عصا"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "المُسخِّط"
+    },
+    {
+      "surface": "בו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "حَطَمَها"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "كيوم"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مِديان"
+    }
+  ],
+  "timestamp": "2026-08-07T02:06:18.795484261Z",
+  "model": "glm-5.2"
+}

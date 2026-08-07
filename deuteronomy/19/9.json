@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 19:9",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "إذ تحفظ ⟨את⟩ كل الوصية هذه لتعملها التي أنا أوصيك بها اليوم، لمحبّة ⟨את⟩ يهوه إلهَك وللسير في طرقه كل الأيام، تضيف لنفسك أيضًا ثلاث مدن على الثلاث هذه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "إذ"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "تحفظ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "الوصية"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "לעשתה",
+      "gloss": "لتعملها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "أوصيك"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "لمحبّة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلهك"
+    },
+    {
+      "surface": "וללכת",
+      "gloss": "وللسير"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "في طرقه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "الأيام"
+    },
+    {
+      "surface": "ויספת",
+      "gloss": "وتضيف"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لنفسك"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ثلاث"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "השלש",
+      "gloss": "الثلاث"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:00.194208552Z",
+  "model": "glm-5.2"
+}

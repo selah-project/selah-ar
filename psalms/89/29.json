@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 89:29",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "إلى الأبد أحفظ له حِسِدي، وبريتي ⟨تكون⟩ ثابتة له.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "אשמור",
+      "gloss": "أحفظ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "حِسِدي"
+    },
+    {
+      "surface": "ובריתי",
+      "gloss": "وبريتي"
+    },
+    {
+      "surface": "נאמנת",
+      "gloss": "ثابتة"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:21.970049231Z",
+  "model": "glm-5.2"
+}

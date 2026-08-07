@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 35:14",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "هكذا قال أدوناي يهوه: عند فرح كلّ الأرض، خرابًا أصنع ⟨لأجلك⟩.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כשמח",
+      "gloss": "عند فرح"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "خرابًا"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "أصنع"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨لأجلك⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T03:10:14.205828616Z",
+  "model": "glm-5.2"
+}

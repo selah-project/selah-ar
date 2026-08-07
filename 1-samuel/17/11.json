@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "فسمع شاؤل وكلُّ إسرائيل ⟨את⟩ كلامات الفلشتي هذه، فانهاروا ورعبوا جدًا.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "فسمع"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلامات"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلامات"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "الفلشتي"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "فانهاروا"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ورعبوا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:26:27.208407286Z",
+  "model": "glm-5.2"
+}

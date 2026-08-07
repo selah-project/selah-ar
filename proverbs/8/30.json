@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 8:30",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "وكنتُ عندَه أَمونًا، وكنتُ شَعْشُعًا يومًا فيومًا، لاعبةً أمامَه في كلِّ وقت",
+  "tokens": [
+    {
+      "surface": "ואהיה",
+      "gloss": "وكنتُ"
+    },
+    {
+      "surface": "אצלו",
+      "gloss": "عندَه"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "أَمونًا"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "وكنتُ"
+    },
+    {
+      "surface": "שעשעים",
+      "gloss": "شَعْشُعًا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يومًا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "فيومًا"
+    },
+    {
+      "surface": "משחקת",
+      "gloss": "لاعبةً"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمامَه"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كلِّ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    }
+  ],
+  "timestamp": "2026-08-07T08:13:48.393569805Z",
+  "model": "glm-5.2"
+}

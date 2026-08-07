@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 41:39",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "وقال فرعون ليوسیف: بعد أن أعلَمَكَ إلوهيم ⟨את⟩ كلَّ هذا، لا يوجد فَهِيمٌ وحكيمٌ مثلك.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسیف"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "הודיע",
+      "gloss": "أعلَمَ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "إيّاك",
+      "marks": "أعلَمَكَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلَّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "فَهِيم"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "وحكيم"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "مثلك"
+    }
+  ],
+  "timestamp": "2026-08-07T06:59:56.296794648Z",
+  "model": "glm-5.2"
+}

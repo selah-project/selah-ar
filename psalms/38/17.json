@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "لأنّي قلتُ لئلّا يفرحوا ⟨بي⟩، عند زلّة قدمي عليّ كبّروا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "قلتُ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلّا"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "يفرحوا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨بي⟩"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "عند زلّة"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "قدمي"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عليّ"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "كبّروا"
+    }
+  ],
+  "timestamp": "2026-08-07T06:04:09.084232301Z",
+  "model": "glm-5.2"
+}

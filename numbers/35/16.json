@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "«وإن ضربه بأداةٍ من حَديدٍ فمات، فهو قاتلٌ: قَتْلًا يُقْتَلُ القاتل.»",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "بأداة"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "من حديد"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "ضربه"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "فمات"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "قاتل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "מות",
+      "gloss": "قَتْلًا"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "يُقْتَل"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "القاتل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:45:17.735024622Z",
+  "model": "glm-5.2"
+}

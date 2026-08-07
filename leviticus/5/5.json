@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "و⟨يكون⟩ إذا أَثِمَ في إحدى هذه، فإنّه يَعترف ⟨بـ⟩ الذي أخطأ فيه.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و⟨يكون⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "أَثِمَ"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "في إحدى"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "فإنّه يعترف"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "أخطأ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "فيه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:08.300054765Z",
+  "model": "glm-5.2"
+}

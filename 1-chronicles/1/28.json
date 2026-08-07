@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "بنو أَفراهام: يِصحاق، و⟨את⟩ يِشماعيل.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أَفراهام"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يِصحاق"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "يِشماعيل"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "يِشماعيل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:09:08.516331498Z",
+  "model": "glm-5.2"
+}

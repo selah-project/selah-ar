@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 83,
+  "translation": "فإنّه هوذا أعداؤك يهتاجون، ومبغضوك رفعوا رأسًا",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "فإنّه"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "أعداؤك"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "يهتاجون"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "ومبغضوك"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "رفعوا"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأسًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:01:44.845175087Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "فولدتْ زِلفَة جاريةُ لِئاه لِيعقوف ابنًا.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "فولدتْ"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زِلفَة"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "جاريةُ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لِئاه"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "لِيعقوف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:45:11.647977967Z",
+  "model": "glm-5.2"
+}

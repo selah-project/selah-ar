@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "deuteronomy 28:39",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "كرمًا تَزرع و⟨تعمَل⟩، وخمرًا لا تشرب ولا تخزن، لأن الدود يأكله.",
+  "tokens": [
+    {
+      "surface": "כרמים",
+      "gloss": "كرمًا"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "تَزرع"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "و⟨تعمَل⟩"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "وخمرًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "تشرب"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תאגר",
+      "gloss": "تخزن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "يأكله"
+    },
+    {
+      "surface": "התלעת",
+      "gloss": "الدود"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:54.013511027Z",
+  "model": "glm-5.2"
+}

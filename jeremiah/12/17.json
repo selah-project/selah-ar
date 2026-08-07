@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 12:17",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وإن لم يسمعوا، فإنّي أَنْتُشُ ⟨את⟩ الأمّةَ تلك، نَتْشًا و⟨أُهلِكُ⟩ — نَأْمُ يهوه.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "يسمعوا"
+    },
+    {
+      "surface": "ונתשתי",
+      "gloss": "فإنّي أنتُشُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأمّة"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "الأمّة"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "تلك"
+    },
+    {
+      "surface": "נתוש",
+      "gloss": "نتشًا"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "وأهلك"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نأمُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:34:10.015559710Z",
+  "model": "glm-5.2"
+}

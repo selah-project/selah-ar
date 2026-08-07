@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 24:23",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "و⟨قال⟩: «ابنةُ مَنْ أنتِ؟ أخبريني نا، هل في بيت أبيكِ مكانٌ لنا للمبيت؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و⟨قال⟩"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ابنةُ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَنْ"
+    },
+    {
+      "surface": "את",
+      "gloss": "أنتِ"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "أخبريني"
+    },
+    {
+      "surface": "נא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "לי",
+      "gloss": ""
+    },
+    {
+      "surface": "היש",
+      "gloss": "هل… في"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أبيكِ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "مكانٌ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "ללין",
+      "gloss": "للمبيت"
+    }
+  ],
+  "timestamp": "2026-08-06T23:42:48.759121620Z",
+  "model": "glm-5.2"
+}

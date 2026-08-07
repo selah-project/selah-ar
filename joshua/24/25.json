@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 24:25",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فقَطَع يهوشُعَ بريتًا للشعب في اليوم ذلك، ووضع له فريضةً وحُكمًا في شكيم.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "فقطع"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشُعَ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريتًا"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "للشعب"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في اليوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ووضع"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "חק",
+      "gloss": "فريضةً"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "وحُكمًا"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "في شكيم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:12:02.200632407Z",
+  "model": "glm-5.2"
+}

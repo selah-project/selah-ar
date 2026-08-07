@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 51:15",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 51,
+  "translation": "وأنا يهوه إلوهيمك، مُثيرُ البحر فتئنُّ أمواجُه، يهوه جنودٍ اسمُه.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "مُثيرُ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "ויהמו",
+      "gloss": "فتئنُّ"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "أمواجُه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "جنودٍ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمُه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:23:04.073245449Z",
+  "model": "glm-5.2"
+}

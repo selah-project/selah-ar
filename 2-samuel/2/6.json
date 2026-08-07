@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 2:6",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "والآن، فليصنع يهوه معكم حِسِدًا وإمِتًا، وأمّا أنا فأصنع معكم الخير هذا الذي صنعتم الأمر هذا.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "יעש",
+      "gloss": "فليصنع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "معكم"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حِسِدًا"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "وإمِتًا"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "وأمّا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "فأصنع"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "معكم"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "الخير"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "صنعتم"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:32:09.709244672Z",
+  "model": "glm-5.2"
+}

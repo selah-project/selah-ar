@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 15:6",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "أو للكبش تُعدّ تقدمةً: دقيقًا عُشريْن مَعجونًا بالزيت، ثلث الهِن.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "للكبش"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تُعدّ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "تقدمة"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "دقيقًا"
+    },
+    {
+      "surface": "שני",
+      "gloss": "اثنَيْن"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "عُشر"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "مَعجونًا"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "بالزيت"
+    },
+    {
+      "surface": "שלשית",
+      "gloss": "ثلث"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "الهِن"
+    }
+  ],
+  "timestamp": "2026-08-07T00:36:09.827292466Z",
+  "model": "glm-5.2"
+}

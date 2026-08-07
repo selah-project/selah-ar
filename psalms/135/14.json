@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 135,
+  "translation": "لأنَّ يهوهَ يقضي لشعبه، وعلى عبيده يتحنَّن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "يقضي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "لشعبه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "عبيده"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "يتحنَّن"
+    }
+  ],
+  "timestamp": "2026-08-07T04:16:23.793976464Z",
+  "model": "glm-5.2"
+}

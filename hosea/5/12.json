@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وأنا كالعُثّة لأفرايم، وكالرَدَأة لبيت يهودا.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "كالعُثّة"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "لأفرايم"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "وكالرَدَأة"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "لبيت"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:20:07.372951559Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 102,
+  "translation": "يهوه، اسمَعْ صلاتي، وصراخي إليك يأتي.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "اسمَعْ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "صلاتي"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "وصراخي"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "يأتي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:06:31.978367674Z",
+  "model": "glm-5.2"
+}

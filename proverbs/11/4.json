@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "لا يَنفَعُ الثَّروَةُ في يَومِ الغَضَب، وَالصِّدقَةُ تُنقِذُ مِنَ المَوت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "ينفع"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ثروة"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "والصدقة"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "تنقذ"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "من الموت"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:00.705757549Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "لأنّ كلَّ أيامه أوجاعٌ وغضبٌ شغلُه؛ حتّى في الليل لا يَضطجعُ قلبُه — هذا أيضًا هَفَاءٌ هو.",
+  "tokens": [
+    {
+      "surface": "כִּ֧י",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "יָמָ֣יו",
+      "gloss": "أيامه"
+    },
+    {
+      "surface": "מַכְאֹבִ֗ים",
+      "gloss": "أوجاع"
+    },
+    {
+      "surface": "וָכַ֨עַס֙",
+      "gloss": "وغضب"
+    },
+    {
+      "surface": "עִנְיָנ֔וֹ",
+      "gloss": "شغلُه"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "حتّى"
+    },
+    {
+      "surface": "בַּלַּ֖יְלָה",
+      "gloss": "في الليل"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "שָׁכַ֣ב",
+      "gloss": "يَضطجع"
+    },
+    {
+      "surface": "לִבּ֑וֹ",
+      "gloss": "قلبه"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "זֶ֖ה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "הֶ֥בֶל",
+      "gloss": "هَفَاء"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:04.575796533Z",
+  "model": "glm-5.2"
+}

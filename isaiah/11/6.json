@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 11:6",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "ويُضيف ذئبٌ عند خروفٍ، ونمرٌ عند جديٍّ يربض. وعجلٌ وشبلٌ ومُمارٍ معًا، وصبيٌّ صغيرٌ يقودُهُم.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "ويُضيف"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "ذئب"
+    },
+    {
+      "surface": "עם",
+      "gloss": "عند"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "خروف"
+    },
+    {
+      "surface": "ונמר",
+      "gloss": "ونمر"
+    },
+    {
+      "surface": "עם",
+      "gloss": "عند"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "جدي"
+    },
+    {
+      "surface": "ירבץ",
+      "gloss": "يربض"
+    },
+    {
+      "surface": "ועגל",
+      "gloss": "وعجل"
+    },
+    {
+      "surface": "וכפיר",
+      "gloss": "وشبل"
+    },
+    {
+      "surface": "ומריא",
+      "gloss": "ومُمار"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "معًا"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "وصبي"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "صغير"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "يقود"
+    },
+    {
+      "surface": "בם",
+      "gloss": "هم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:52:24.587954351Z",
+  "model": "glm-5.2"
+}

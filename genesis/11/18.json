@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وعاش فَلَغ ثلاثين سنة، وولد ⟨את⟩ رَعُو.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "وعاش"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "فَلَغ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ثلاثين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "وولد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رَعُو"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "رَعُو"
+    }
+  ],
+  "timestamp": "2026-08-06T23:38:55.591410523Z",
+  "model": "glm-5.2"
+}

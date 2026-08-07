@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "إليك يهوه أصرخ، وإلى أدوناي أتضرّع.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "أصرخ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "أتضرّع"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:13.424248885Z",
+  "model": "glm-5.2"
+}

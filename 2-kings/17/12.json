@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وعبدوا الغِلول التي قالها يهوه لهم: «لا تفعلوا ⟨את⟩ الأمر هذا».",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "وعبدوا"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "الغلول"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قالها"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "تفعلوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأمر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:58:59.566590926Z",
+  "model": "glm-5.2"
+}

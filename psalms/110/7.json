@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 110,
+  "translation": "من نَهَلٍ في الطريق يشرب؛ لذلك يرفع الرأس.",
+  "tokens": [
+    {
+      "surface": "מִ֭נַּחַל",
+      "gloss": "من نَهَل"
+    },
+    {
+      "surface": "בַּדֶּ֣רֶךְ",
+      "gloss": "في الطريق"
+    },
+    {
+      "surface": "יִשְׁתֶּ֑ה",
+      "gloss": "يشرب"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "على\/لذلك"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "كذلك"
+    },
+    {
+      "surface": "יָרִ֥ים",
+      "gloss": "يرفع"
+    },
+    {
+      "surface": "רֹֽאשׁ",
+      "gloss": "الرأس"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:11.512175955Z",
+  "model": "glm-5.2"
+}

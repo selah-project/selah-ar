@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "psalms 78:69",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "و⟨بنى⟩ كالعلَى مِقداسَه، كالأرض أسّسها إلى الأبد.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "و⟨بنى⟩"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "كـ"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "العلَى"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "مِقداسه"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "كالأرض"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "أسّسها"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:01:07.542382003Z",
+  "model": "glm-5.2"
+}

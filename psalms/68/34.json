@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 68:34",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 68,
+  "translation": "ل⟨لراكب⟩ في سمواتِ سماواتِ القِدَم؛ ها هو يُعطي بصوته صوتَ عِزّة.",
+  "tokens": [
+    {
+      "surface": "לרכב",
+      "gloss": "للراكب"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "في سمواتِ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "سماواتِ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "القِدَم"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ها"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "هو يُعطي"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "بصوته"
+    },
+    {
+      "surface": "קול",
+      "gloss": "صوتَ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "عِزّة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:58:16.468367229Z",
+  "model": "glm-5.2"
+}

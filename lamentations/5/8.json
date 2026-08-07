@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "عبيد تسلّطوا علينا، ⟨لا⟩ مخلِّص من أيديهم.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "عبيد"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "تسلّطوا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "علينا"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "مخلِّص"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "من أيديهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:50:33.455716843Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "سُرّيّةُ كالِب مَعكة ولدت شَبَر و⟨את⟩ تِرحَنة.",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "سُرّيّةُ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "كالِب"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "مَعكة"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ولدت"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شَبَر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "تِرحَنة"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "تِرحَنة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:10.122312541Z",
+  "model": "glm-5.2"
+}

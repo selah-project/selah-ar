@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 14:41",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وقال موشيه: لماذا هذا أنتم تعبرون ⟨את⟩ فم يهوه، وهو لا ينجح؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "تعبرون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فم يهوه"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תצלח",
+      "gloss": "ينجح"
+    }
+  ],
+  "timestamp": "2026-08-07T00:35:51.919120327Z",
+  "model": "glm-5.2"
+}

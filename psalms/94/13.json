@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 94:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 94,
+  "translation": "لِيُهدِئَهُ من أيّام الشرّ، حتى يُحفَر للرّاشِع ⟨هُوَّة⟩.",
+  "tokens": [
+    {
+      "surface": "להשקיט",
+      "gloss": "لِيُهدِئَهُ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "من أيّام"
+    },
+    {
+      "surface": "רע",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "يُحفَر"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "للرّاشِع"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "⟨هُوَّة⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:00.064950006Z",
+  "model": "glm-5.2"
+}

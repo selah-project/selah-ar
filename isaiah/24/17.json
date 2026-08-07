@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فزعٌ وحفرةٌ وفخٌّ عليكَ يا ساكنَ الأرض",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "فزع"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "وحفرة"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "وفخ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "عليك"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "يا ساكن"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T02:11:15.221885247Z",
+  "model": "glm-5.2"
+}

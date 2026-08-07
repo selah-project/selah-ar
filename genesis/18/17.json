@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وقال يهوه: «هل أُخفي عن أفراهام ما أنا فاعِلُه؟»",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "وقال يهوه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": ""
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "هل أُخفي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "عن أفراهام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فاعِلُه"
+    }
+  ],
+  "timestamp": "2026-08-07T06:56:34.296939467Z",
+  "model": "glm-5.2"
+}

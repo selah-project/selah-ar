@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "صنعتُ لنفسي جنّاتٍ وفراديس، وغرستُ فيها شجرَ كلِّ فاكهة",
+  "tokens": [
+    {
+      "surface": "עָשִׂ֣יתִי",
+      "gloss": "صنعتُ"
+    },
+    {
+      "surface": "לִ֔י",
+      "gloss": "لي"
+    },
+    {
+      "surface": "גַּנּ֖וֹת",
+      "gloss": "جنّات"
+    },
+    {
+      "surface": "וּפַרְדֵּסִ֑ים",
+      "gloss": "وفراديس"
+    },
+    {
+      "surface": "וְנָטַ֥עְתִּי",
+      "gloss": "وغرستُ"
+    },
+    {
+      "surface": "בָהֶ֖ם",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "עֵ֥ץ",
+      "gloss": "شجرَ"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "פֶּֽרִי",
+      "gloss": "فاكهة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:50:59.150823012Z",
+  "model": "glm-5.2"
+}

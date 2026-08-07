@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 3:21",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وزاد يهوه أن يُرى في شيلوه، لأنه تَجَلّى يهوه لشموئيل في شيلوه بكلمة يهوه.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "وزاد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "להראה",
+      "gloss": "أن يُرى"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "في شيلوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "تَجَلّى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "في شيلوه"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "بكلمة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:21:19.183613321Z",
+  "model": "glm-5.2"
+}

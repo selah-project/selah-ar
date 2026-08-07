@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "لا تأخذ منه نَشَكًا ولا تَربيتًا، واتّقِ إلوهيمَك، فيحيا أخوك معك.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "تأخذ"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "نَشَكًا"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "ولا تَربيتًا"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "واتّقِ"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "إلوهيمَك"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "فيحيا"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "أخوك"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:59.101401249Z",
+  "model": "glm-5.2"
+}

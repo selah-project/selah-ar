@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "أُذُنٌ تسمعُ وعينٌ تبصرُ — يهوه صنعهما كليهما.",
+  "tokens": [
+    {
+      "surface": "אֹזֶן",
+      "gloss": "أُذُنٌ"
+    },
+    {
+      "surface": "שֹׁמַעַת",
+      "gloss": "تسمعُ"
+    },
+    {
+      "surface": "וְעַיִן",
+      "gloss": "وعينٌ"
+    },
+    {
+      "surface": "רֹאָה",
+      "gloss": "تبصرُ"
+    },
+    {
+      "surface": "יְהוָ֗ה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עָשָׂ֥ה",
+      "gloss": "صنع"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "كليهما"
+    },
+    {
+      "surface": "שְׁנֵיהֶֽם",
+      "gloss": "هما"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:22.896483248Z",
+  "model": "glm-5.2"
+}

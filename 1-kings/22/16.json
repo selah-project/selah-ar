@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 22:16",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "فقال له الملك: «كم مرّةً أستحلِفُك ألّا تتكلّم معي إلّا إمِتًا باسم يهوه؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "كم"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "مرّة"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "משבעך",
+      "gloss": "أستحلِفُك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "أن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "تتكلّم"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "معي"
+    },
+    {
+      "surface": "רק",
+      "gloss": "إلّا"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "إمِت"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "باسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:52:19.652698715Z",
+  "model": "glm-5.2"
+}

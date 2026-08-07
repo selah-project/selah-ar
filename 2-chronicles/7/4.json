@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "والملك وجميع الشعب يذبحون ذبيحة أمام يهوه.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "والملك"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وجميع"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "يذبحون"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ذبيحة"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:22:05.378680790Z",
+  "model": "glm-5.2"
+}

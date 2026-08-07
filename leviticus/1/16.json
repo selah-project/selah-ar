@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ويُزِل ⟨את⟩ حوصلته بـِرِيشها، ويطرحها إلى جانب المذبح شرقًا، إلى موضع الرماد.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "ويُزِل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حوصلته"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "حوصلته"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "بـِرِيشها"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "ويطرحها"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "إياها"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "إلى جانب"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "شرقًا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "موضع"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "الرماد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:22.620474536Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 7:14",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "نفخوا في الشوفار، وأعدّ⟨وا⟩ الكلّ، ولا ذاهبَ إلى الحرب، لأنّ غضبي على كلّ جمهورها.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "نفخوا"
+    },
+    {
+      "surface": "בתקוע",
+      "gloss": "في الشوفار"
+    },
+    {
+      "surface": "והכין",
+      "gloss": "وأعدّ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "الكلّ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ذاهبَ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "إلى الحرب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "חרוני",
+      "gloss": "غضبي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "جمهورها"
+    }
+  ],
+  "timestamp": "2026-08-07T05:56:09.051691405Z",
+  "model": "glm-5.2"
+}

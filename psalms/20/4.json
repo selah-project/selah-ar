@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "يذكُر كلَّ تقدِماتِكَ، وعولاتِكَ يُسمنها. سيلاه.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "يذكُر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "تقدِماتِكَ"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "وعولاتِكَ"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "يُسمنها"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سيلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:28.741538597Z",
+  "model": "glm-5.2"
+}

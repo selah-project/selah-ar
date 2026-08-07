@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "الذي يُقرّب ⟨את⟩ دم ذبائح الشاليم و⟨את⟩ الشحم، من بني أهرون، له تكون ساق اليمين نصيبًا.",
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "الذي يُقرّب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دم"
+    },
+    {
+      "surface": "דם",
+      "gloss": "دم"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ذبائح الشاليم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الشحم"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "الشحم"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "من بني"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهرون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ساق"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "اليمين"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "نصيبًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:44.206053489Z",
+  "model": "glm-5.2"
+}

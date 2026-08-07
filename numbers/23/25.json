@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "فقال بلق لبيلعم: لا تطعنهم أصلًا، ولا تباركنّهم أصلًا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بلق"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بيلعم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أصلًا"
+    },
+    {
+      "surface": "קב",
+      "gloss": "طعن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "تطعنهم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أصلًا"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "بارك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "تبركنّهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:40:04.996307735Z",
+  "model": "glm-5.2"
+}

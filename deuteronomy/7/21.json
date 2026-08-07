@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "لا ترعب من وجوههم لأن يهوه إلوهيمك في وسطك إيل عظيم ونورا",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "ترعب"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "من وجوههم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "في وسطك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيم"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ونورا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:53:23.992602177Z",
+  "model": "glm-5.2"
+}

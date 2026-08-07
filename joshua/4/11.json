@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 4:11",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "و⟨كان⟩ لمّا اكتمل عبور كل الشعب، أنّ تابوت يهوه والكوهنة عبرا أمام الشعب.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لمّا"
+    },
+    {
+      "surface": "תם",
+      "gloss": "اكتمل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "عبور"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "أنّ… عبرا"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "والكوهنة"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    }
+  ],
+  "timestamp": "2026-08-07T01:03:20.133980162Z",
+  "model": "glm-5.2"
+}

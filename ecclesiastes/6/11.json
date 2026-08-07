@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "لأنه توجد أمورٌ تُكثِّر الهَواءَ كثيرًا — ما الفائضةُ للإنسان؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "יש",
+      "gloss": "توجد"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "أمورٌ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "كثيرًا"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "تُكثِّر"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "الهَواءَ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "الفائضةُ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "للإنسان"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:28.369931062Z",
+  "model": "glm-5.2"
+}

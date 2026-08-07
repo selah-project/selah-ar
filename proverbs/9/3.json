@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "أرسلت فتياتها، تنادي على أطراف شواهق المدينة:",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "أرسلت"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "فتياتها"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "تنادي"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "أطراف"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "شواهق"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "المدينة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:23:38.748774835Z",
+  "model": "glm-5.2"
+}

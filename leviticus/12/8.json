@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 12:8",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وإذا لا تبلغ يدها كفاية شاة، تأخذ تورين أو فرخي يمامة، واحد لعولاه وواحد لحطاة، ويكفّر عنها الكوهين فتطهر.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "تبلغ"
+    },
+    {
+      "surface": "ידה",
+      "gloss": "يدها"
+    },
+    {
+      "surface": "די",
+      "gloss": "كفاية"
+    },
+    {
+      "surface": "שה",
+      "gloss": "شاة"
+    },
+    {
+      "surface": "ולקחה",
+      "gloss": "تأخذ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "اثنين"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "تورين"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "שני",
+      "gloss": "فرخي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "فرخي"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "يمامة"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "لعولاه"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "وواحد"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "لحطاة"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ويكفّر"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "عنها"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "וטהרה",
+      "gloss": "فتطهر"
+    }
+  ],
+  "timestamp": "2026-08-07T00:20:30.123009674Z",
+  "model": "glm-5.2"
+}

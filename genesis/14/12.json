@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وأخذوا ⟨את⟩ لُوط و⟨את⟩ ممتلكاته، ابن أخي أفرام، ومضوا — وهو ساكن في سَدوم.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "وأخذوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لُوط"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لُوط"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "ممتلكاته"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "ممتلكاته"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "أخي"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "أفرام"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ومضوا"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ساكن"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "في سَدوم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:20.038630878Z",
+  "model": "glm-5.2"
+}

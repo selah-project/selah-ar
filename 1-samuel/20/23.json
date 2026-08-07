@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 20:23",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "والأمر الذي تكلّمنا به أنا وأنت، ها يهوه بيني وبينك إلى الأبد.",
+  "tokens": [
+    {
+      "surface": "והדבר",
+      "gloss": "والأمر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "تكلّمنا به"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "وأنت"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "بيني"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "وبينك"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T01:27:35.994855590Z",
+  "model": "glm-5.2"
+}

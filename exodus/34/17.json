@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "إلهيّ مَسكَة لا تصنع لنفسك.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "إلهيّ"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "مَسكَة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تصنع"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لنفسك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:13:07.647804200Z",
+  "model": "glm-5.2"
+}

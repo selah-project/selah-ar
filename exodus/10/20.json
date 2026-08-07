@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 10:20",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وشدّد يهوه ⟨את⟩ قلب فرعون، فلم يُطلق ⟨את⟩ بني يسرائيل.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "وشدّد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قلب"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "يُطلق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بني"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:01:46.840914704Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "«ويُجيبون ويقولون: أيدينا لم تسفك ⟨את⟩ هذا الدم، وعيوننا لم تَرَ».",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "ويُجيبون"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ويقولون"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "أيدينا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "تسفك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هذا الدم"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "الدم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "وعيوننا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "تَرَ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:47.667408623Z",
+  "model": "glm-5.2"
+}

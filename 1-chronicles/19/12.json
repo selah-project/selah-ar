@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 19:12",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وقال: إنِ اشتدّ عليّ أرام، فكن لي لخلاص، وإنِ اشتدّ عليك بنو عمّون، فأنا أُخلّصك.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إنِ"
+    },
+    {
+      "surface": "תחזק",
+      "gloss": "اشتدّ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "عليّ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "أرام"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "فكن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "لخلاص"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإنِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمّون"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "اشتدّ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "عليك"
+    },
+    {
+      "surface": "והושעתיך",
+      "gloss": "فأنا أُخلّصك"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:38.586180237Z",
+  "model": "glm-5.2"
+}

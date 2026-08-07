@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 122,
+  "translation": "من أجل إخوتي وأصحابي أتكلّمَنّ الآن: شالوم فيك.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "من أجل"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "إخوتي"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "وأصحابي"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "أتكلّمَنّ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "בך",
+      "gloss": "فيك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:15:22.964992761Z",
+  "model": "glm-5.2"
+}

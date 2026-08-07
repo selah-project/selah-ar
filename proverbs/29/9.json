@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "رجلٌ حكيمٌ يُحاكَم ⟨أمام⟩ ⟨את⟩ رجلٍ جاهلٍ، فهو غاضبٌ وهو ضاحكٌ، وليس هدوءٌ.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "رجلٌ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حكيمٌ"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "يُحاكَم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رجلٍ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلٍ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "جاهلٍ"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "وهو غاضبٌ"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "وهو ضاحكٌ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "وليس"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "هدوءٌ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:10.339919057Z",
+  "model": "glm-5.2"
+}

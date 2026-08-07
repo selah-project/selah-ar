@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 14:17",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وخرج ملك سدوم لاستقباله بعد عودته من ضرب ⟨את⟩ كدرلعومر و⟨את⟩ الملوك الذين معه إلى عمق شَوه، ⟨هو⟩ عمق الملك.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدوم"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "لاستقباله"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "عودته"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "من ضرب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كدرلعومر"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "كدرلعومر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الملوك"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "الملوك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "عمق"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "شَوِه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "عمق"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:22.519052355Z",
+  "model": "glm-5.2"
+}

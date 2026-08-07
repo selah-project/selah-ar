@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 3:12",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "والآن خذوا لأنفسكم اثني عشر رجلاً من أسباط يسرايل، رجلًا واحدًا رجلًا واحدًا لكلّ سبط.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "خذوا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لأنفسكم"
+    },
+    {
+      "surface": "שני",
+      "gloss": "اثني"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلاً"
+    },
+    {
+      "surface": "משבטי",
+      "gloss": "من أسباط"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلًا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلًا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدًا"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "لكلّ سبط"
+    }
+  ],
+  "timestamp": "2026-08-07T01:02:53.723061759Z",
+  "model": "glm-5.2"
+}

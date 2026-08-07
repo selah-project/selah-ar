@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 8:32",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "ومات جدعون بن يوآش في شيبةٍ صالحةٍ، ودُفن في قبر يوآش أبيه في عفرة أبي هَعَزري.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ومات"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "جدعون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "يوآش"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "في شيبةٍ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "صالحةٍ"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ودُفن"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "في قبر"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "يوآش"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "בעפרה",
+      "gloss": "في عفرة"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "העזרי",
+      "gloss": "هَعَزري"
+    }
+  ],
+  "timestamp": "2026-08-07T01:15:46.413026217Z",
+  "model": "glm-5.2"
+}

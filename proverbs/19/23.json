@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 19:23",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "خشيةُ يهوه ⟨هي⟩ للحياةِ، و⟨الشبعانُ⟩ يَبيتُ لا ⟨يُفقَدُ⟩ شرٌّ.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "خشية"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "للحياة"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "والشبعان"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "يَبيت"
+    },
+    {
+      "surface": "בל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "يُفقَد"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:07.638423346Z",
+  "model": "glm-5.2"
+}

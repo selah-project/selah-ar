@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وَرجَعَ يَهوشافاطُ مَلِكُ يَهوذا إلى بَيتِهِ بِشالوم إلى يروشالايم.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ورجع"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "يهوشافاط"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوذا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "بيته"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "بشالوم"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "إلى يروشالايم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:27:41.813865403Z",
+  "model": "glm-5.2"
+}

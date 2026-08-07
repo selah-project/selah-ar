@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وكل الرَّحل الذي يُركب عليه صاحبُ السيل ⟨يكون⟩ نجسًا",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "الرَّحل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "يُركب"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "الزابّ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "يتنجّس"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:00.679936962Z",
+  "model": "glm-5.2"
+}

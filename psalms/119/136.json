@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "جداولُ ماءٍ انحدرت عيناي، على أنّهم لم يحفظوا توراتك.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "جداولُ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماءٍ"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "انحدرت"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "عيناي"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "يحفظوا"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "توراتك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:36.020685214Z",
+  "model": "glm-5.2"
+}

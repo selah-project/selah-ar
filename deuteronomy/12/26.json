@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 12:26",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "إنّما قَدْسِيكَ التي تكون لك ونُذُورك تَحْمِلُها وتأتي إلى ⟨الـ⟩مكان الذي يَخْتارُه يهوه.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "إنّما"
+    },
+    {
+      "surface": "קדשיך",
+      "gloss": "قَدْسِيكَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "ונדריך",
+      "gloss": "ونُذُورك"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "تَحْمِلُها"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "وتأتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨الـ⟩مكان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "يَخْتارُه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:56:10.750884385Z",
+  "model": "glm-5.2"
+}

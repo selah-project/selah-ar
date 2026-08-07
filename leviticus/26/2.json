@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "⟨את⟩ شبّاتي تحفظون، ومِقداشي تهابون، أنا يهوه.",
+  "tokens": [
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "شبّاتي"
+    },
+    {
+      "surface": "שַׁבְּתֹתַ֣י",
+      "gloss": "شبّاتي"
+    },
+    {
+      "surface": "תִּשְׁמֹ֔רוּ",
+      "gloss": "تحفظون"
+    },
+    {
+      "surface": "וּמִקְדָּשִׁ֖י",
+      "gloss": "ومِقداشي"
+    },
+    {
+      "surface": "תִּירָ֑אוּ",
+      "gloss": "تهابون"
+    },
+    {
+      "surface": "אֲנִ֖י",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:26:55.664267212Z",
+  "model": "glm-5.2"
+}

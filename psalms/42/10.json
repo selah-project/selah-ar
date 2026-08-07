@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "أقول لإيل صخرتي: لماذا نَسِيتَني؟ لماذا أذهب مُظلمًا تحت ضغط عدوّ؟",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "أقول"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "لإيل"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "صخرتي"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "نسيتني"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "مُظلمًا"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "أذهب"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "تحت ضغط"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "عدوّ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:55.727789851Z",
+  "model": "glm-5.2"
+}

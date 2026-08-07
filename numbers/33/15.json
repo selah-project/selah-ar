@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 33:15",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "وَرَحَلوا مِن رَفِيدِيم، وَنَزَلوا في مَدبَر سيناي.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ورحلوا"
+    },
+    {
+      "surface": "מרפידם",
+      "gloss": "من رفيدِيم"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ونزلوا"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في مدبر"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سيناي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:39.350675991Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 115,
+  "translation": "لا الموتى يسبّحون ياه، ولا كلُّ النازلين إلى الصمت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "الموتى"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "يسبّحون"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ياه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "النازلين إلى"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "الصمت"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:52.994143026Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 46:4",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 46,
+  "translation": "وحتى الشَّيبة أنا ⟨هو⟩، وحتى المشيب أحمل، أنا صنعتُ وأنا أحمل وأنا أُقلّ وأُنقذ.",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "وحتى"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "الشَّيبة"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وحتى"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "المشيب"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "أحمل"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "صنعتُ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "أحمل"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "أُقلّ"
+    },
+    {
+      "surface": "ואמלט",
+      "gloss": "وأُنقذ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:19:58.242060965Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 18:8",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "بالرِّبا لا يُعطي، وتربيتًا لا يأخذ، من الظلم يردُّ يدَه، مِشپاط إمِت يفعل بين رجلٍ لرجل —",
+  "tokens": [
+    {
+      "surface": "בנשך",
+      "gloss": "بالرِّبا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "يُعطي"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "وتربيتًا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "يأخذ"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "من الظلم"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "يردّ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يدَه"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "مِشپاط"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "إمِت"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يفعل"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "لرجل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:00:56.143335770Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "obadiah 1:4",
+  "book": "obadiah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "إنْ تتعالَ كالنسر، وإن بين النجوم تضعُ عشَّك، فمن هناك أُهبطُكَ — نَأْمُ يهوه —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إنْ"
+    },
+    {
+      "surface": "תגביה",
+      "gloss": "تتعالَ"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "كالنسر"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "النجوم"
+    },
+    {
+      "surface": "שים",
+      "gloss": "تضعُ"
+    },
+    {
+      "surface": "קנך",
+      "gloss": "عشَّك"
+    },
+    {
+      "surface": "משם",
+      "gloss": "من هناك"
+    },
+    {
+      "surface": "אורידך",
+      "gloss": "أُهبطُكَ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نَأْمُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:27:33.183677055Z",
+  "model": "glm-5.2"
+}

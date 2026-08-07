@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "يُرسِل عونَكَ مِن مِقداس، ومِن صهيون يَعضُدكَ.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "يُرسِل"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "عونَكَ"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "مِن مِقداس"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "ومِن صهيون"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "يَعضُدكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:28.741414996Z",
+  "model": "glm-5.2"
+}

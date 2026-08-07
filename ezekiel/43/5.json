@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 43:5",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 43,
+  "translation": "فرفعَتني روَحٌ وأتت بي إلى الدار الداخليّة، وإذا البيت ممتلئٌ بمجد يهوه.",
+  "tokens": [
+    {
+      "surface": "ותשאני",
+      "gloss": "فرفعَتني"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روَحٌ"
+    },
+    {
+      "surface": "ותביאני",
+      "gloss": "وأتت بي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "الدار"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "الداخليّة"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ممتلئٌ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "بمجد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    }
+  ],
+  "timestamp": "2026-08-07T03:16:46.648885356Z",
+  "model": "glm-5.2"
+}

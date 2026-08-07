@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "و⟨كان⟩ لمّا ولدت راحيل ⟨את⟩ يوسف، أن قال يعقوف لِلاوان: «أطلقني فأمضي إلى مكاني وإلى أرضي».",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لمّا"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ولدت"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحيل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوسف"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "أن قال"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لِـ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لاوان"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "أطلقني"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "فأمضي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "مكاني"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "وإلى أرضي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:45:11.202022005Z",
+  "model": "glm-5.2"
+}

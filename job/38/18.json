@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 38:18",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "هل تأمّلت حتى عرض الأرض؟ أخبر إن كنت تعرف كلّها.",
+  "tokens": [
+    {
+      "surface": "התבננת",
+      "gloss": "هل تأمّلت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "רחבי",
+      "gloss": "عرض"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "أخبر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "كنت تعرف"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "كلّها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:43:25.064716889Z",
+  "model": "glm-5.2"
+}

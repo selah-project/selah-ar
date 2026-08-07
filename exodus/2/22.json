@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فولدت ابناً، فدعا ⟨את⟩ اسمه جيرشوم، لأنه قال: «غريباً كنتُ في أرضٍ غريبة».",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "فولدت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابناً"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "فدعا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسمه"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمه"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "جيرشوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "גר",
+      "gloss": "غريباً"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "كنتُ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرضٍ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "غريبة"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:58.782479122Z",
+  "model": "glm-5.2"
+}

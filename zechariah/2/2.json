@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فقلتُ للملك المتكلّم فيّ: ما هذه؟ فقال لي: هذه القرون التي بدّدت ⟨את⟩ يهودا ⟨את⟩ إسرائيل و⟨את⟩ يروشالايم.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "فقلتُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "المَلَك"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "المتكلّم"
+    },
+    {
+      "surface": "בי",
+      "gloss": "فيّ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "القرون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "بدّدت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهودا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "إسرائيل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ويروشالايم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:35:28.520511781Z",
+  "model": "glm-5.2"
+}

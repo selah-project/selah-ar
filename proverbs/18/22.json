@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "مَنْ وجَدَ امرأةً وجَدَ طيبًا، ويستجلِبُ رِضًا مِنْ يهوه.",
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "وجَد"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "وجَد"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيبًا"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "ويستجلِب"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "رضًا"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "مِنْ يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:02.233666904Z",
+  "model": "glm-5.2"
+}

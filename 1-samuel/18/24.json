@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 18:24",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فأخبر عبيدُ شاؤول إيّاه قائلين: «حسب هذه الكلمات تكلّم داود».",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "فأخبروا"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عبيدُ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "לו",
+      "gloss": "إيّاه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "حسب\/مثل"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    }
+  ],
+  "timestamp": "2026-08-07T01:27:12.740999976Z",
+  "model": "glm-5.2"
+}

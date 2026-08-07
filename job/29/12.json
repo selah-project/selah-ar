@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 29:12",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "لأنّي أُنقذت المسكين المستغيث، واليتيم الذي لا معين له.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّي"
+    },
+    {
+      "surface": "אמלט",
+      "gloss": "أُنقذت"
+    },
+    {
+      "surface": "עני",
+      "gloss": "المسكين"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "المستغيث"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "واليتيم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "معين"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T04:40:04.244234185Z",
+  "model": "glm-5.2"
+}

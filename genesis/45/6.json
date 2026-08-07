@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 45:6",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "لأنّ هذين سنتين الجوع في وسط الأرض و ⟨بقيَ⟩ خمس سنوات لا فيها فلاحة و لا حصاد",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذين"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "سنتين"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "الجوع"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "و ⟨بقيَ⟩"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "خمس"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنوات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "חריש",
+      "gloss": "فيها فلاحة"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "و لا حصاد"
+    }
+  ],
+  "timestamp": "2026-08-06T23:56:54.624166814Z",
+  "model": "glm-5.2"
+}

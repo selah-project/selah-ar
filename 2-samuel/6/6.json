@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 6:6",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وجاءوا حتى بيدر ناخون، فمدّ عوزّا ⟨يده⟩ إلى صندوق إلوهيم وأمسكه، لأن البقر كانت تَتَعَثَّر.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "وجاءوا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "بيدر"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ناخون"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "فمدّ"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "عوزّا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "وأمسك"
+    },
+    {
+      "surface": "בו",
+      "gloss": "به"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "تتعثر"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "البقر"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:14.631809562Z",
+  "model": "glm-5.2"
+}

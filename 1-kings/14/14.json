@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 14:14",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "ويُقيم يهوه له ملكًا على إسرايل يقطع ⟨את⟩ بيت يروبعام اليوم هذا، وماذا أيضًا الآن؟",
+  "tokens": [
+    {
+      "surface": "והקים",
+      "gloss": "ويُقيم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملكًا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرايل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "يقطع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيت يروبعام"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "يروبعام"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "وماذا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "الآن"
+    }
+  ],
+  "timestamp": "2026-08-07T05:48:51.146784707Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 66,
+  "translation": "كلُّ الأرضِ تَسْجُدُ لك وَتُرَنِّمُ لك، يُرَنِّمونَ لاسمِكَ. سِلاه.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرضِ"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "تَسْجُدُ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "وَتُرَنِّمُ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "يُرَنِّمونَ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "لاسمِكَ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:44.587377556Z",
+  "model": "glm-5.2"
+}

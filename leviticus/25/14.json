@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وحين تبيعون بيعًا لِقَرِيبكُم أو تشترون من يد قريبك، لا تَظْلِموا، الإنسان ⟨את⟩ أخاه.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "وحين"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "تبيعون"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "بيعًا"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "لِقَرِيبكَ"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "تشترون"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "من يد"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "قريبك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "تَظْلِموا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أخاه"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "أخاه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:55.213657245Z",
+  "model": "glm-5.2"
+}

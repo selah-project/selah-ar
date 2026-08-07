@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 2:9",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "ورأيتُ، وإذا يدٌ مرسلةٌ إليّ، وإذا فيها مَجِلَّةُ سِفرٍ،",
+  "tokens": [
+    {
+      "surface": "ואראה",
+      "gloss": "ورأيتُ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يد"
+    },
+    {
+      "surface": "שלוחה",
+      "gloss": "مرسلة"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "מגלת",
+      "gloss": "مَجِلَّةُ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سِفرٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:54:17.506717745Z",
+  "model": "glm-5.2"
+}

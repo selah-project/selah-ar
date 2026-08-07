@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 16:26",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "لأنّ كلّ آلهة الشّعوب أوثان، ويهوه صنع السّماوات.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "آلهة"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "الشّعوب"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "أوثان"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ويهوه"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "السّماوات"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنع"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:58.262636424Z",
+  "model": "glm-5.2"
+}

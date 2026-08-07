@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 24:9",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فأعطى يوآب ⟨את⟩ عدد إحصاء الشعب إلى الملك، فكان يسرايل ثمانمئة ألف رجل بأس سلّ سيفًا، ورجال يهوداه خمسمئة ألف رجل.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "فأعطى"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عدد"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "عدد"
+    },
+    {
+      "surface": "מפקד",
+      "gloss": "إحصاء"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "فكان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ثمانمئة"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بأس"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "سلّ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "سيف"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ورجال"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوداه"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "خمسمئة"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألف"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:41:14.556908882Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "فيصنعوا لي مَقدِسًا، فأسكُن في وسطهم.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "فيصنعوا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "مَقدِسًا"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "فأسكُن"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "في وسطهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:08:38.059557040Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "في يومِ الخيرِ كُنْ في الخير، وفي يومِ الشَّرّ انظُر: أيضًا ⟨את⟩ هذا مقابلَ ذاك صنع إلوهيم، لأجلِ أن لا يجدَ الإنسانُ من بعده شيئًا.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "الخير"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كُن"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "في الخير"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "وفي يوم"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "الشَّرّ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "انظر"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هذا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "مقابل"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ذاك"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنع"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "על",
+      "gloss": "لأجل"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "أن"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "يجد"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "من بعده"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "شيئًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:16.694353790Z",
+  "model": "glm-5.2"
+}

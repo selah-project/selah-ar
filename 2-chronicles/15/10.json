@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 15:10",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "واجتمعوا في يروشالايم في الشهر الثالث لسنة خمسَ عشرةَلمُلك آسا.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "واجتمعوا"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "في يروشالايم"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "في الشهر"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "الثالث"
+    },
+    {
+      "surface": "לשנת",
+      "gloss": "لسنة"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "خمس"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرة"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "لمُلك"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:25:53.060907800Z",
+  "model": "glm-5.2"
+}

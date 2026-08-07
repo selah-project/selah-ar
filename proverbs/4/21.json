@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 4:21",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "لا تَزِلْ مِن عينيك، احفظها في وسط قلبك.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יליזו",
+      "gloss": "تَزِلْ"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "مِن عينيك"
+    },
+    {
+      "surface": "שמרם",
+      "gloss": "احفظها"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "قلبك"
+    }
+  ],
+  "timestamp": "2026-08-07T06:08:11.915224476Z",
+  "model": "glm-5.2"
+}

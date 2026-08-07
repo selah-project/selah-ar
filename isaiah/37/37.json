@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "isaiah 37:37",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "فارتحل وذهب ورجع سنحيريف ملك أشور، وأقام في نينوى.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "فارتحل"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "وذهب"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ورجع"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "سنحيريف"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "أشور"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "وأقام"
+    },
+    {
+      "surface": "בנינוה",
+      "gloss": "في نينوى"
+    }
+  ],
+  "timestamp": "2026-08-07T02:15:36.033900528Z",
+  "model": "glm-5.2"
+}

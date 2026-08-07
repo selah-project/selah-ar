@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "إن فعلت ⟨את⟩ هذا الأمر، وأوصاك إلوهيم، فتستطيع الثبات، وأيضًا كل هذا الشعب إلى مقامه يأتي بسلام.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هذا الأمر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "فعلت"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "وأوصاك"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "فتستطيع"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "الثبات"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "על",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "مقامه"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "يأتي"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "بسلام"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:13.356759418Z",
+  "model": "glm-5.2"
+}

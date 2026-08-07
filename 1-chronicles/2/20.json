@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وحور ولَد ⟨את⟩ أوري، وأوري ولَد ⟨את⟩ بِتصَلإيل.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "وحور"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أوري"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "أوري"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "وأوري"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بِتصَلإيل"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "بِتصَلإيل"
+    }
+  ],
+  "timestamp": "2026-08-07T06:41:56.547075735Z",
+  "model": "glm-5.2"
+}

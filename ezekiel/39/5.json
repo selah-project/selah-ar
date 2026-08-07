@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "على وجه الصحراء تسقط، لأنّي أنا تكلّمت، نُطقُ أدوناي يهوه.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "الصحراء"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "تسقط"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "تكلّمت"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نُطقُ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T06:00:14.554393683Z",
+  "model": "glm-5.2"
+}

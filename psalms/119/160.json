@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "رأسُ كلامك إمِت، وإلى الأبد كلُّ حُكمِ صِدِقِك.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "رأسُ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "كلامك"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "إمِت"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "وإلى الأبد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حُكمِ"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "صِدِقِك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:13:07.999207284Z",
+  "model": "glm-5.2"
+}

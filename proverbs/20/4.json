@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "بسببِ الشتاء الكسلانُ لا يحرث؛ يستجدي وقتَ الحصاد ولا شيء.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "بسبب الشتاء"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "الكسلان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "يحرث"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "يستجدي"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "وقت الحصاد"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا شيء"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:52.084398951Z",
+  "model": "glm-5.2"
+}

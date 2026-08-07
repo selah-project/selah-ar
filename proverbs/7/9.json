@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "في العَتَمِ، في عشيّةِ اليومِ، في سوادِ الليلِ والظَّلمةِ.",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "في العَتَم"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "في عشيّة"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "في سواد"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ليل"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "والظلمة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:56.806806861Z",
+  "model": "glm-5.2"
+}

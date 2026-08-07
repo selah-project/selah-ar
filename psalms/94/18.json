@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 94,
+  "translation": "حين قلتُ: «تزلزلَتْ رجلي»، حِسِدُكَ يا يهوه سَنَدَني.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "حين\/إذا"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "قلتُ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "تزلزلت"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "رجلي"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حِسِدُكَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "سندني"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:47.149259887Z",
+  "model": "glm-5.2"
+}

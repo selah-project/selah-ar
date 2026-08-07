@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 25:8",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "فدخل بعد رجل يسرايل إلى القُبّة فطعن ⟨את⟩ كليهما: ⟨את⟩ رجل يسرايل و⟨את⟩ المرأة إلى بطنها، فامتنعت الضربة عن بني يسرايل",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "فدخل"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הקבה",
+      "gloss": "القُبّة"
+    },
+    {
+      "surface": "וידקר",
+      "gloss": "فطعن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كليهما"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "كليهما"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رجل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "المرأة"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "المرأة"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "קבתה",
+      "gloss": "بطنها"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "فامتنعت"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "الضربة"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "عن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:40:15.659741619Z",
+  "model": "glm-5.2"
+}

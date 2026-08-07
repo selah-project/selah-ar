@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nahum 1:13",
+  "book": "nahum",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "والآن أَكسِرُ نيرَهُ عنكِ، وقيودَكِ أقتلعُها.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "אשבר",
+      "gloss": "أَكسِرُ"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "نيرَهُ"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "عنكِ"
+    },
+    {
+      "surface": "ומוסרתיך",
+      "gloss": "وقيودَكِ"
+    },
+    {
+      "surface": "אנתק",
+      "gloss": "أقتلعُها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:30:11.142357398Z",
+  "model": "glm-5.2"
+}

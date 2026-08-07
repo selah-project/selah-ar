@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "و⟨أحرق⟩ ⟨את⟩ الثور و⟨את⟩ جلده و⟨את⟩ لحمه و⟨את⟩ فرثه بالنار خارج المحلّة، كما أوصى يهوه ⟨את⟩ موشيه.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الثور"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "الثور"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "جلده"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "جلده"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "لحمه"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "لحمه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "فرثه"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "فرثه"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "أحرق"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بالنار"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "خارج"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "المحلّة"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:49.074131019Z",
+  "model": "glm-5.2"
+}

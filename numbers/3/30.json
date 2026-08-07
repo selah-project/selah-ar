@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 3:30",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "ورئيسُ بيتِ أبٍ لأسباطِ القِهاتيّ ⟨هو⟩ أليصافانُ بنُ عُزّيئيل",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "ورئيسُ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيتِ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "أبٍ"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "لأسباطِ"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "القِهاتيّ"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "أليصافانُ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنُ"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "عُزّيئيل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:52.154678905Z",
+  "model": "glm-5.2"
+}

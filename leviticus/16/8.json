@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "ويُلقِي أهارون على التيسين قِرعًا: قُرعةٌ واحدة ليهوه وقُرعةٌ واحدة لعزازيل.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "و⟨يُلقِي⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שני",
+      "gloss": "اثنين"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "التيوس"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "قِرعًا"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "قُرعة"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدة"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "وقُرعة"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدة"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "لعزازيل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:38:13.388218330Z",
+  "model": "glm-5.2"
+}

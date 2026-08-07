@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 41:51",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "ودعا يوسف ⟨את⟩ اسم البكر مَنَشّه، لأنّ إلوهيم أنساني كلّ تعبي و⟨את⟩ كلّ بيت أبي.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "اسم"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "البكر"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مَنَشّه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "נשני",
+      "gloss": "أنساني"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "تعبي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:52:20.658017583Z",
+  "model": "glm-5.2"
+}

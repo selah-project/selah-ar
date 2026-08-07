@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "بِتَخْ ثِقْ في يهوه بكل قلبك، وعلى فهمك لا ⟨تستند⟩.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "ثِقْ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "في"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بكل"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "قلبك"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "فهمك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "تستند"
+    }
+  ],
+  "timestamp": "2026-08-07T04:21:42.889386678Z",
+  "model": "glm-5.2"
+}

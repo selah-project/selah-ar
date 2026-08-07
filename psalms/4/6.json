@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "اذبحوا ذبائحَ صِدِق، وثقوا ⟨بـ⟩ يهوه.",
+  "tokens": [
+    {
+      "surface": "זִבְח֥וּ",
+      "gloss": "اذبحوا"
+    },
+    {
+      "surface": "זִבְחֵי",
+      "gloss": "ذبائحَ"
+    },
+    {
+      "surface": "צֶ֑דֶק",
+      "gloss": "صِدِق"
+    },
+    {
+      "surface": "וּ֝בִטְח֗וּ",
+      "gloss": "وثقوا"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨بـ⟩"
+    },
+    {
+      "surface": "יְהוָֽה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T08:01:04.593066773Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 89:19",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "لأنَّ ليَهوه تُدرُنّا، ولقدّوس يسرائيل مَلِكُنا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "تُرسُنا"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "ولقدّوسِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "مَلِكُنا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:24.239785137Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "حين تُرضي طرقُ رجلٍ يهوه، حتى أعداءه يُصالحهم معه.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "حين تُرضي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "طرقُ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلٍ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "أعداءه"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "يُصالحهم"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "معه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:48.306084823Z",
+  "model": "glm-5.2"
+}

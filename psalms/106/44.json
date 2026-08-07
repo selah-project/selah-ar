@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 106,
+  "translation": "فرأى ⟨في⟩ ضيقِهم، عند سماعه ⟨את⟩ صراخِهم.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "فرأى"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "⟨في⟩ ضيقِهم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "عند سماعه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صراخِهم"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "صراخِهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:32.830423233Z",
+  "model": "glm-5.2"
+}

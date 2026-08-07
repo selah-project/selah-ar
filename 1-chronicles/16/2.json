@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "ولمّا فرغ داوِد من إصعاد العولاه والشَّلاميم، بارك ⟨את⟩ الشعب باسم يهوه.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ولمّا فرغ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "من إصعاد"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "العولاه"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "والشَّلاميم"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "بارك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "باسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:58.096411157Z",
+  "model": "glm-5.2"
+}

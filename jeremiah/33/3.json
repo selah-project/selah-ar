@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 33:3",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "ادعُني فأُجيبك، وأُخبرك بأُمور عظيمةٍ ومُحصَّناتٍ لا تعرفها.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "ادعُ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "ואענך",
+      "gloss": "فأُجيبك"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "وأُخبرك"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بـ"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "أُمورٍ عظيمة"
+    },
+    {
+      "surface": "ובצרות",
+      "gloss": "ومُحصَّنات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "تعرفها"
+    }
+  ],
+  "timestamp": "2026-08-07T02:44:21.231619446Z",
+  "model": "glm-5.2"
+}

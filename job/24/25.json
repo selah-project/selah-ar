@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 24:25",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "وإنْ لا، فمن ذا يُكذِّبني، ويجعل كلامي ⟨إلى⟩ لا شيء؟",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإنْ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "فـ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من ذا"
+    },
+    {
+      "surface": "יכזיבני",
+      "gloss": "يُكذِّبني"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ويجعل"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "إلى لا شيء"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "كلامي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:38:59.250659479Z",
+  "model": "glm-5.2"
+}

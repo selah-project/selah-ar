@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وشموئيل يخدم ⟨את⟩ وجهَ يهوه، فتىً مت зонارًا بأفودٍ من كتّان.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "وشموئيل"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "يخدم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وجهَ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "נער",
+      "gloss": "فتىً"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "متّزرًا"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "بأفودٍ"
+    },
+    {
+      "surface": "בד",
+      "gloss": "كتّان"
+    }
+  ],
+  "timestamp": "2026-08-07T01:21:10.804778693Z",
+  "model": "glm-5.2"
+}

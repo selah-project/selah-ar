@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "بذبحٍ في عظامي عيّرني مضايقي، بقولهم إليّ كلّ النهار: أين إلوهيمك؟",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "بذبحٍ"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "في عظامي"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "عيّرني"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "مضايقي"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "بقولهم"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "النهار"
+    },
+    {
+      "surface": "איה",
+      "gloss": "أين"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:55.727885048Z",
+  "model": "glm-5.2"
+}

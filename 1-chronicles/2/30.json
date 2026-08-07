@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وبنو ناداب: سَلِد وأَفّايم. ومات سَلِد بلا بنين.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "وبنو"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ناداب"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "سَلِد"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "وأَفّايم"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ومات"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "سَلِد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بنين"
+    }
+  ],
+  "timestamp": "2026-08-07T05:09:54.089579337Z",
+  "model": "glm-5.2"
+}

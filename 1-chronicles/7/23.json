@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 7:23",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "ودخل على امرأته فحبلت وولدت ابنًا، ودعا ⟨את⟩ اسمَه بَريعة، لأنّه بشرٍّ ⟨كان⟩ في بيته.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ودخل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "على"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "امرأته"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "فحبلت"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "وولدت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنًا"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ودعا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسمه"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمه"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "بريعة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "بشرٍّ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "في بيته"
+    }
+  ],
+  "timestamp": "2026-08-07T05:12:16.051222970Z",
+  "model": "glm-5.2"
+}

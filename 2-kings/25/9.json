@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وأحرق ⟨את⟩ بيت يهوه و⟨את⟩ بيت الملك، و⟨את⟩ كلّ بيوت يروشالايم، و⟨את⟩ كلّ بيت كبير أحرق بالنار.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "وأحرق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بيت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "بيوت"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "كبير"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "أحرق"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بالنار"
+    }
+  ],
+  "timestamp": "2026-08-07T02:02:53.411069530Z",
+  "model": "glm-5.2"
+}

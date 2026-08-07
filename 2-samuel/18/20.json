@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 18:20",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فقال له يوآب: «لست أنت رجل بشارة هذا اليوم، بل تبشّر في يوم آخر؛ أما هذا اليوم فلا تبشّر، لأنه بسبب موت ابن الملك».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لست"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "بشارة"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "היום",
+      "gloss": "هذا اليوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "ובשרת",
+      "gloss": "بل تبشّر"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "آخر"
+    },
+    {
+      "surface": "והיום",
+      "gloss": "أما هذا اليوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "תבשר",
+      "gloss": "تبشّر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بسبب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "موت ابن"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "מת",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-07T01:39:48.410574562Z",
+  "model": "glm-5.2"
+}

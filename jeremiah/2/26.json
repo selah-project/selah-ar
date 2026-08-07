@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 2:26",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "كخجل سارقٍ حين يُمسك، هكذا خُزِيَ بيتُ إسرائيل، هم ملوكُهم رؤساؤهم وكهنتهم وأنبياؤهم.",
+  "tokens": [
+    {
+      "surface": "כבשת",
+      "gloss": "كخجل"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "سارق"
+    },
+    {
+      "surface": "כי",
+      "gloss": "حين"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "يُمسك"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "הבישו",
+      "gloss": "خُزِيَ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "ملوكُهم"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "رؤساؤهم"
+    },
+    {
+      "surface": "וכהניהם",
+      "gloss": "وكهنتهم"
+    },
+    {
+      "surface": "ונביאיהם",
+      "gloss": "وأنبياؤهم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:27:40.318232217Z",
+  "model": "glm-5.2"
+}

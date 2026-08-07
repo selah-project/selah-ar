@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وسمع زبل سار المدينة ⟨את⟩ كلمات غاعل بن عابد، فحمي غضبه.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "وسمع"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "زبل"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سار"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلمات غاعل بن عابد"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلمات"
+    },
+    {
+      "surface": "געל",
+      "gloss": "غاعل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عابد"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "فحمي"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "غضبه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:15:13.102692049Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "و⟨ب⟩هذه تتنجّسون: كلُّ من ي مسّ〈⟨את⟩〉 جيفةِ منها يتنجّس حتى المساء.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "و⟨ب⟩هذه"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "تتنجّسون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "من ي"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "مسّ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جيفةِ منها"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "يتنجّس"
+    }
+  ],
+  "timestamp": "2026-08-07T07:07:06.056940555Z",
+  "model": "glm-5.2"
+}

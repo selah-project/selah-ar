@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 55,
+  "translation": "للموزِّم على نغينوت. مَسكيل لِداوِد.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "للموزِّم"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "على نغينوت"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "مَسكيل"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِداوِد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:15.497020317Z",
+  "model": "glm-5.2"
+}

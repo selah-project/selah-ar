@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 21:25",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "و⟨هذا⟩ يموت بنَفْس مرّة، ولم يأكل في الطّيبة.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "و⟨هذا⟩"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "يموت"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "بنَفْس"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "مرّة"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "يأكل"
+    },
+    {
+      "surface": "בטובה",
+      "gloss": "في الطّيبة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:38:39.286597867Z",
+  "model": "glm-5.2"
+}

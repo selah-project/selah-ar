@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 2:21",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فألقى يهوه إلوهيم ترديمة على هآدام فنام، وأخذ واحدة من أضلاعه، وأغلق لحماً تحتها.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "فألقى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "תרדמه",
+      "gloss": "ترديمة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "هآدام"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "فنام"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "واحدة"
+    },
+    {
+      "surface": "מצלעתיו",
+      "gloss": "من أضلاعه"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "وأغلق"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "لحماً"
+    },
+    {
+      "surface": "תחתנה",
+      "gloss": "تحتها"
+    }
+  ],
+  "timestamp": "2026-08-06T23:36:01.583028416Z",
+  "model": "glm-5.2"
+}

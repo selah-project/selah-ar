@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 107,
+  "translation": "احمَدوا يهوه لأنّه صالح، لأنّ إلى الأبد حِسِدُه.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "احمَدوا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "صالح"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حِسِدُه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:47.297714315Z",
+  "model": "glm-5.2"
+}

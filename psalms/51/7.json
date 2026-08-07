@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 51,
+  "translation": "هو في عَوَنٍ صُنِعتُ، وبخطيئةٍ حبلت بي أمّي.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "هو"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "في عَوَنٍ"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "صُنِعتُ"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "وبخطيئةٍ"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "حبلت بي"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "أمّي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:53:32.197502195Z",
+  "model": "glm-5.2"
+}

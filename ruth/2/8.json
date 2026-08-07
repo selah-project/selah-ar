@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 2:8",
+  "book": "ruth",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فقال بوآز لِروت: ألم تسمعي يا ابنتي؟ لا تذهبي لتلتقطي في حقلٍ آخر، وحتى لا تعبري من هنا، وهكذا تلتصقين مع فتيايَّ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "بوآز"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لِـ"
+    },
+    {
+      "surface": "רות",
+      "gloss": "روت"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ألم"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "تسمعي"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "يا ابنتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "تذهبي"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "لتلتقطي"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "في حقلٍ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "آخر"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "وحتى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעבורי",
+      "gloss": "تعبري"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "من هنا"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "وهكذا"
+    },
+    {
+      "surface": "תדבקין",
+      "gloss": "تلتصقين"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "נערתי",
+      "gloss": "فتيايَّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:48:06.454347482Z",
+  "model": "glm-5.2"
+}

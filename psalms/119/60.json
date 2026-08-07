@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "أسرعتُ و⟨لم⟩ أتراخَ ⟨عن أن⟩ أحفظ وصاياك",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "أسرعتُ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "أتردَّد\/أتراخَ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "لأن أحرُس\/أحفظ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "وصاياك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:55.133483967Z",
+  "model": "glm-5.2"
+}

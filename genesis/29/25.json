@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 29:25",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "و⟨كان⟩ في الصباح وإذا هي لِيئاه، فقال للاوان: ما هذا الذي فعلتَه لي؟ أما بِراخيل عملتُ معك؟ فلماذا خدعتَني؟",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "في الصباح"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لِيئاه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لاوان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "فعلتَ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "أما"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "بِراخيل"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "عملتُ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "فلماذا"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "خدعتَني"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:54.022251959Z",
+  "model": "glm-5.2"
+}

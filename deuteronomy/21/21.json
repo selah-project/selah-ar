@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 21:21",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "ويرجمه كلّ رجال مدينته بالحجارة فيموت، فتبيد الشرّ من وسطك، وكلّ يسرايل يسمعون ويخافون.",
+  "tokens": [
+    {
+      "surface": "ורגמהו",
+      "gloss": "ويرجمونه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "مدينته"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "بالحجارة"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "فيموت"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "فتبيد"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "من وسطك"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "يسمعون"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ويخافون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:25.370409745Z",
+  "model": "glm-5.2"
+}

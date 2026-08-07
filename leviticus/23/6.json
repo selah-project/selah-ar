@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 23:6",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "وفي خمسة عشر يومًا لهذا الشهر، عيد الفطير ليهوه؛ سبعة أيامٍ فطيرًا تأكلون.",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "وفي خمسة"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يومًا"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "لهذا الشهر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "חג",
+      "gloss": "عيد"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "الفطير"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سبعة"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "فطيرًا"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تأكلون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:16.663068772Z",
+  "model": "glm-5.2"
+}

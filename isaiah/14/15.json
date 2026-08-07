@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "أوّلًا، إلى شيول تُنزل، إلى أعماق البور.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "أوّلًا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شيول"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "تُنزل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "أعماق"
+    },
+    {
+      "surface": "בור",
+      "gloss": "البور"
+    }
+  ],
+  "timestamp": "2026-08-07T02:07:26.072465116Z",
+  "model": "glm-5.2"
+}

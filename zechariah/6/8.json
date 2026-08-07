@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 6:8",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فنادى ⟨⟨את⟩⟩ي وكلّمني قائلاً: «انظر، الخارجات إلى أرض صافون قد أنزلت ⟨⟨את⟩⟩ روَحي في أرض صافون».",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "فنادى"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ي",
+      "marks": "أنا"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "وكلّمني"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "انظر"
+    },
+    {
+      "surface": "היוצאים",
+      "gloss": "الخارجات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "صافون"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "أنزلت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "روَحي"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "روَحي"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "صافون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:35:25.935428535Z",
+  "model": "glm-5.2"
+}

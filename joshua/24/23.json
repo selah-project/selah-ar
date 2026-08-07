@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 24:23",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "والآن أزيلوا ⟨את⟩ آلهة الغريب التي في وسطكم، واملوا ⟨את⟩ قلوبكم إلى يهوه إله إسرايل.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "أزيلوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آلهة"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "آلهة"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "الغريب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "في وسطكم"
+    },
+    {
+      "surface": "והטו",
+      "gloss": "واملوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قلوبكم"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "قلوبكم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إله"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:11:47.589667220Z",
+  "model": "glm-5.2"
+}

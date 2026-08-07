@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 84,
+  "translation": "نَفَسي تَشْتاقُ بل وتَنْهَدُ إلى دِيارِ يهوه، قَلبي ولَحمي يُهَلِّلانِ لإيل حَيّ",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "تشتاق"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "بل"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "وتنهَد"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نفَسي"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "إلى ديار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "ولحمي"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "يهلّلان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "חי",
+      "gloss": "حيّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:34.562736293Z",
+  "model": "glm-5.2"
+}

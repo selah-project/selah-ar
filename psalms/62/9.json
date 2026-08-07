@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 62:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 62,
+  "translation": "ثِقوا به في كل وقت، يا شعب، اسكبوا أمامه قلبَكم. إلوهيم مَلجأٌ لنا. سيلاه",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "ثِقوا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "به"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كل"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "يا شعب"
+    },
+    {
+      "surface": "שפכו",
+      "gloss": "اسكبوا"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمامه"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "قلبَكم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "مَلجأ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سيلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:33.320573047Z",
+  "model": "glm-5.2"
+}

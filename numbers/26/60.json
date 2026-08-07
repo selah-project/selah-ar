@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "ووُلِدَ لأهارون ⟨את⟩ ناداف و⟨את⟩ أڤيهو⟨،⟩ ⟨את⟩ ألعازار و⟨את⟩ إيتامار.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ووُلِدَ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "لأهارون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناداف"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ناداف"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أڤيهو"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "أڤيهو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ألعازار"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ألعازار"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "إيتامار"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "إيتامار"
+    }
+  ],
+  "timestamp": "2026-08-07T00:42:26.522284756Z",
+  "model": "glm-5.2"
+}

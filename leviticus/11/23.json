@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وكلّ شِرص الطائر الذي له أربع أرجل، ⟨هو⟩ شِقّص لكم.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "شِرص"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "الطائر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "أربع"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "أرجل"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "شِقّص"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:38:15.127511095Z",
+  "model": "glm-5.2"
+}

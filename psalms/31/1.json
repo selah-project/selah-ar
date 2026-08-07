@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "لإمام ⟨ال⟩فرقة مزمور لِداوِد",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لإمام الفرقة"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِداوِد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:54.821464608Z",
+  "model": "glm-5.2"
+}

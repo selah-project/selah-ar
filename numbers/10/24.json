@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 10:24",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وعلى جيشِ سِبطِ بَني بِنْيامين، أَفيدانُ بنُ جِدعوني.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "جيشِ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "سبطِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَني"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بِنْيامين"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "أَفيدانُ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنُ"
+    },
+    {
+      "surface": "גדעוני",
+      "gloss": "جِدعوني"
+    }
+  ],
+  "timestamp": "2026-08-07T00:31:22.929427664Z",
+  "model": "glm-5.2"
+}

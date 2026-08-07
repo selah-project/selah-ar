@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فقال شاؤول لفتاه: «كلامك طيّب، هلمّ نذهب». فذهبوا إلى المدينة التي هناك رجلُ إلوهيم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "لفتاه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيّب"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "كلامك"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "هلمّ"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "نذهب"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "فذهبوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:23:10.205153277Z",
+  "model": "glm-5.2"
+}

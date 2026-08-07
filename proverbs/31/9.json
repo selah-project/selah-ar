@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "افتح فاك، اقضِ صِدِقًا، ⟨و⟩داوِ ⟨حقوقَ⟩ المسكين والبائس.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "افتح"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "فاك"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "اقضِ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "صِدِقًا"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "⟨و⟩داوِ⟨حقوقَ⟩"
+    },
+    {
+      "surface": "עני",
+      "gloss": "المسكين"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "⟨و⟩البائس"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:44.923982937Z",
+  "model": "glm-5.2"
+}

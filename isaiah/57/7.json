@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 57:7",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 57,
+  "translation": "على جبلٍ عالٍ ومنيفٍ وضعْتِ مِشكابكِ، أيضًا هناك صعدْتِ لتذبح ذبيحة.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הר",
+      "gloss": "جبلٍ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "عالٍ"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ومُنيفٍ"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "وضعْتِ"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "مِشكابكِ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "صعدْتِ"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "لتذبح"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ذبيحة"
+    }
+  ],
+  "timestamp": "2026-08-07T02:23:31.847424459Z",
+  "model": "glm-5.2"
+}

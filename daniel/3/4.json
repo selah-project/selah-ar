@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 3:4",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "ونادى المنادي بقوّةٍ: «إليكم ⟨يُقال⟩: الشعوبُ والأممُ والألسنة،",
+  "tokens": [
+    {
+      "surface": "וכרוזא",
+      "gloss": "والمنادي"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "نادى"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "بقوّة"
+    },
+    {
+      "surface": "לכון",
+      "gloss": "إليكم"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "يُقال"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "الشعوب"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "والألسنة"
+    }
+  ],
+  "timestamp": "2026-08-07T06:12:20.255451927Z",
+  "model": "glm-5.2"
+}

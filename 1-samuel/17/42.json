@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "ونظر الفلشتي فرأى ⟨את⟩ داود واحتقره، لأنه ⟨كان⟩ فتىً وأحمرَ البشرة مع حَسَن المنظر.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "ونظر"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "الفلشتي"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "فرأى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داود"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "واحتقره"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "נער",
+      "gloss": "فتىً"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "وأحمرَ البشرة"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "حَسَن"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "منظر"
+    }
+  ],
+  "timestamp": "2026-08-07T01:26:35.479783523Z",
+  "model": "glm-5.2"
+}

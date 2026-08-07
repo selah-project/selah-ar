@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 103,
+  "translation": "الذي يصفح عن كلّ آثامكِ، الشافي لكلّ أمراضكِ،",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "الذي يصفح"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "عن كلّ"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "آثامكِ"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "الشافي"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لكلّ"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "أمراضكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:06:06.667806073Z",
+  "model": "glm-5.2"
+}

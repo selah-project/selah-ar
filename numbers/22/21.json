@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وَقام بِلعام في الصباح وَلجَم ⟨את⟩ أتُنَه، وَذَهَب مع رُؤَساء موآب.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "وَقام"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلعام"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "في الصباح"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "وَلجَم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أتُنَه"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "أتُنَه"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "وَذَهَب"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "رُؤَساء"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    }
+  ],
+  "timestamp": "2026-08-07T00:38:38.472595784Z",
+  "model": "glm-5.2"
+}

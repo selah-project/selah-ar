@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 19:6",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وقال للشُّوفَّارين: «انظروا ماذا أنتم فاعلون، لأنَّكم ليس للإنسان تقضون، بل ليهوه، ومعكم في أمر القضاء.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "الشُّوفَّارين"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "انظروا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "فاعلون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "للإنسان"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "تقضون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بل"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "ومعكم"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "في أمر"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "القضاء"
+    }
+  ],
+  "timestamp": "2026-08-07T05:27:38.987700431Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "فلتكنْ الآنَ حِسِدُك لتعزيتي، كقولِك لعبدِك.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "فلتكنْ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآنَ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حِسِدُك"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "لتعزيتي"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "كقولِك"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "لعبدِك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:22.394917712Z",
+  "model": "glm-5.2"
+}

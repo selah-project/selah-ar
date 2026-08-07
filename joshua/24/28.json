@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "وصَرَف يهوشُعَ ⟨את⟩ الشعب، كل واحد إلى ميراثه.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "وصرف"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشُعَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كل واحد"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "إلى ميراثه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:12:02.201069241Z",
+  "model": "glm-5.2"
+}

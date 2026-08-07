@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 44:28",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "وخرج الواحد من عندي، فقلت: أكيدًا فُرِسَ فَرْسًا، ولم أره حتّى الآن.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "وخرج"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "الواحد"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "من عندي"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "فقلت"
+    },
+    {
+      "surface": "אך",
+      "gloss": "أكيدًا"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "فُرِسَ"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "فَرْسًا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "أره"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتّى"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "الآن"
+    }
+  ],
+  "timestamp": "2026-08-06T23:56:35.628214313Z",
+  "model": "glm-5.2"
+}

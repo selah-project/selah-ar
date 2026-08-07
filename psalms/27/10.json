@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "لأنّ أبي وأمّي قد تركاني، ويهوه يضمّني.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אָבִ֣י",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "וְאִמִּ֣י",
+      "gloss": "وأمّي"
+    },
+    {
+      "surface": "עֲזָב֑וּנִי",
+      "gloss": "تركاني"
+    },
+    {
+      "surface": "וַֽיהוָ֣ה",
+      "gloss": "ويهوه"
+    },
+    {
+      "surface": "יַֽאַסְפֵֽנִי",
+      "gloss": "يضمّني"
+    }
+  ],
+  "timestamp": "2026-08-07T08:03:28.111471573Z",
+  "model": "glm-5.2"
+}

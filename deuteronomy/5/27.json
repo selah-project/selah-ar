@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 5:27",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "اقتربْ أنتَ واسمع ⟨את⟩ كلِّ ما يقولُه يهوه إلهُنا، وأنتَ تتكلّمُ إلينا ⟨את⟩ كلِّ ما يكلّمُكَ به يهوه إلهُنا، فنسمعُ ونعملُ",
+  "tokens": [
+    {
+      "surface": "קרב",
+      "gloss": "اقتربْ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "واسمع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "يقولُه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلهُنا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "وأنتَ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "تتكلّمُ"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "إلينا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "يكلّمُكَ به"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلهُنا"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليكَ"
+    },
+    {
+      "surface": "ושמענו",
+      "gloss": "فنسمعُ"
+    },
+    {
+      "surface": "ועשינו",
+      "gloss": "ونعملُ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:48.077574158Z",
+  "model": "glm-5.2"
+}

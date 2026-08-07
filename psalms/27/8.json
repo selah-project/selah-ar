@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "لكَ قال قلبي: «اطلبوا وجهي». وجهَكَ، يا يهوه، أطلب.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "لكَ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "اطلبوا"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وجهَكَ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهَكَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "أطلب"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:31.228717662Z",
+  "model": "glm-5.2"
+}

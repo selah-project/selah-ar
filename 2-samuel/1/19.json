@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 1:19",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "الظبي، يا إسرائيل، على مرتفعاتك صريعٌ؛ كيف سقط الأبطال!",
+  "tokens": [
+    {
+      "surface": "הצבי",
+      "gloss": "الظبي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يا إسرائيل"
+    },
+    {
+      "surface": "عל",
+      "gloss": "على"
+    },
+    {
+      "surface": "במותיך",
+      "gloss": "مرتفعاتك"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "صريع"
+    },
+    {
+      "surface": "איך",
+      "gloss": "كيف"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "سقط"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "الأبطال"
+    }
+  ],
+  "timestamp": "2026-08-07T01:31:49.264724733Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 27:13",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "خُذ ثوبَه لأنّه ضمِن غريبًا، ومن أجل الغريبة اصطحِن منه",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "خُذ"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ثوبَه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ضَمِن"
+    },
+    {
+      "surface": "זר",
+      "gloss": "غريبًا"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ومن أجل"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "الغريبة"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "اصطحِن منه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:45.480847625Z",
+  "model": "glm-5.2"
+}

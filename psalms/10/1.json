@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "لِمَاذا يا يهوه تقف بعيدًا، تتوارى ⟨في⟩ الأوقات في الضيق؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "تقف"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "بعيدًا"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "تتوارى"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "في الأوقات"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "في الضيق"
+    }
+  ],
+  "timestamp": "2026-08-07T03:42:36.501234080Z",
+  "model": "glm-5.2"
+}

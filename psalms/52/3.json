@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 52,
+  "translation": "ماذا تفتخر بالشرّ، أيها الجبّار؟ حِسِد إيل كلَّ اليوم.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "تفتخر"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "بالشرّ"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "أيها الجبّار"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حِسِد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:53:56.352296009Z",
+  "model": "glm-5.2"
+}

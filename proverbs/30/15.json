@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 30:15",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "للعلوقِ ابنتان: «أعطِ! أعطِ!». ثلاثٌ هنَّ لا تشبعن، أربعٌ لا يقلن: كفى!",
+  "tokens": [
+    {
+      "surface": "לעלוקה",
+      "gloss": "للعلوقِ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "اثنتان"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ابنتان"
+    },
+    {
+      "surface": "הב",
+      "gloss": "أعطِ!"
+    },
+    {
+      "surface": "הב",
+      "gloss": "أعطِ!"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ثلاثٌ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هنَّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "تشبعن"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "أربعٌ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "يقلن"
+    },
+    {
+      "surface": "הון",
+      "gloss": "كفى"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:38.344217897Z",
+  "model": "glm-5.2"
+}

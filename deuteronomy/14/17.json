@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "والقاآت و⟨את⟩ الرَحَمَة و⟨את⟩ الشّالاخ",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "والقاآت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "الرَحَمَة"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "الرَحَمَة"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "الشّالاخ"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "الشّالاخ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:26.343071156Z",
+  "model": "glm-5.2"
+}

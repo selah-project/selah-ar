@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "و⟨كنتُ⟩ لهم كلاّب، كنمر على طريق أكمنه لهم.",
+  "tokens": [
+    {
+      "surface": "וָאֱהִ֥י",
+      "gloss": "وكنت"
+    },
+    {
+      "surface": "לָהֶ֖ם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "כְּמוֹ",
+      "gloss": "كـ"
+    },
+    {
+      "surface": "שָׁ֑חַל",
+      "gloss": "لاّب"
+    },
+    {
+      "surface": "כְּנָמֵ֖ר",
+      "gloss": "كنمر"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "على"
+    },
+    {
+      "surface": "דֶּ֥רֶךְ",
+      "gloss": "طريق"
+    },
+    {
+      "surface": "אָשֽׁוּר",
+      "gloss": "أكمنه لهم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:22:44.679418713Z",
+  "model": "glm-5.2"
+}

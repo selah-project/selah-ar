@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 21:15",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "«ما هو شدّاي حتّى نعبده؟ وما النّفع أن نلتقي به؟»",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّاي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "حتّى"
+    },
+    {
+      "surface": "נעבדנו",
+      "gloss": "نعبده"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "وما"
+    },
+    {
+      "surface": "נועיל",
+      "gloss": "النّفع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أن"
+    },
+    {
+      "surface": "נפגע",
+      "gloss": "نلتقي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "به"
+    }
+  ],
+  "timestamp": "2026-08-07T04:38:32.269122472Z",
+  "model": "glm-5.2"
+}

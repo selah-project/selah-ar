@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 16:24",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "شهدُ عسلٍ أقوالُ البهاء، حلوٌ للنفس وشفاءٌ للعظم.",
+  "tokens": [
+    {
+      "surface": "צוף",
+      "gloss": "شهد"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "عسل"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "أقوال"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "البهاء"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "حلو"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "للنفس"
+    },
+    {
+      "surface": "ומרפא",
+      "gloss": "وشفاء"
+    },
+    {
+      "surface": "לעצם",
+      "gloss": "للعظم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:16.520348999Z",
+  "model": "glm-5.2"
+}

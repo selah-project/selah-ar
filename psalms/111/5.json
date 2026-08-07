@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 111,
+  "translation": "طعامًا أعطى لمتّقيه، يذكر إلى الأبد بريتَه",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "طعامًا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطى"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "لمتّقيه"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "يذكر"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "بريتَه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:38.811780458Z",
+  "model": "glm-5.2"
+}

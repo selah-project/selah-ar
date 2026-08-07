@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 9:6",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فقال موشيه: «هذا هو ⟨الأمر⟩ الذي أوصى به يهوه تفعلوه، فيُرى لكم مجد يهوه».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "تفعلوه"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "فيُرى"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "مجد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:11.978478196Z",
+  "model": "glm-5.2"
+}

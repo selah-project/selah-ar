@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 41:31",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "ولن يُعرَف الشَّبَع في الأرض من وجه ذلك الجوع بعدها، لأنّه ثقيل جدًّا.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولن"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "يُعرَف"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "الشَّبَع"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجه"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "الجوع"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك\/ها"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ثقيل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:35:28.096858600Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 6:15",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "لأنَّ إيلًا غيورًا يهوهَ إلهكَ في وسطِكَ، كي لا يحمى غضبُ يهوه إلهكَ عليكَ فيُبيدَكَ عن وجهِ الأرضِ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيلًا"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "غيورًا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلهكَ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "في وسطِكَ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "كي لا"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "يحمى"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غضبُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلهكَ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "عليكَ"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "فيُبيدَكَ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "عن"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهِ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "الأرضِ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:30.218726772Z",
+  "model": "glm-5.2"
+}

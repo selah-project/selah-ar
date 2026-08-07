@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezra 2:17",
+  "book": "ezra",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "بَنو بِتصاي ثلاثَ مئة وعشرين وثلاثة",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بَنو"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "بِتصاي"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ثلاث"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "وعشرين"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "وثلاثة"
+    }
+  ],
+  "timestamp": "2026-08-07T06:11:41.483409565Z",
+  "model": "glm-5.2"
+}

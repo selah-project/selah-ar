@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "فأَبقوه إلى الصباح كما أمرَ موشيه، فلم يُنتِن، ودودةٌ لم تكن فيه.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "فأَبقوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "إلى الصباح"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "الصباح"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أمرَ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "يُنتِن"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "ودودةٌ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:05:52.487084328Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 2:23",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وقال هآدام: «هذه المرة عظم من عظامي ولحم من لحمي؛ لهذه تُدعى امرأة، لأنها من رجل أُخذت هذه.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "هآدام"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "المرة"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "عظم"
+    },
+    {
+      "surface": "מעצמי",
+      "gloss": "من عظامي"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ولحم"
+    },
+    {
+      "surface": "מבשרי",
+      "gloss": "من لحمي"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "لهذه"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "تُدعى"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنها"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "من رجل"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "أُخذت"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:36:01.583349445Z",
+  "model": "glm-5.2"
+}

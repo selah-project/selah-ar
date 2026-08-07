@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وبنت كوهين إنِ صارت لرجل غريب، هي من تَروفَة المقدَّسات لا تأكل.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "وبنت"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "كوهين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إنِ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "صارت"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "لرجل"
+    },
+    {
+      "surface": "זר",
+      "gloss": "غريب"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "من تَروفَة"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "المقدَّسات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "تأكل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:35.616014852Z",
+  "model": "glm-5.2"
+}

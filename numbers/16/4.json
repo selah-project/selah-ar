@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وسمع موشيه، فسقط على وجهه.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "وسمع"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "فسقط"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "وجهه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:36:48.904579294Z",
+  "model": "glm-5.2"
+}

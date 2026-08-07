@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "والباقي ⟨مِن⟩ التقدمة لأهارون ولِبنيه، قُدسُ أقداسٍ هو من وقودي يهوه.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "والباقي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "التقدمة"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "لأهارون"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ولِبنيه"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قُدس"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "أقداس"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "من وقودي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:18.408711076Z",
+  "model": "glm-5.2"
+}

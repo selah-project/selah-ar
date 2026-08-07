@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 9:18",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وحتى الآن، في باب الملك شرقًا، هم البوّابون لِمَحلات بني ليفي.",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "وحتى"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "في باب"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "شرقًا"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "البوّابون"
+    },
+    {
+      "surface": "למחנות",
+      "gloss": "لِمَحلات"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ليفي"
+    }
+  ],
+  "timestamp": "2026-08-07T05:14:02.269034002Z",
+  "model": "glm-5.2"
+}

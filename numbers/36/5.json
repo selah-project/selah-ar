@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "فوصى موشيه ⟨את⟩ بَنِي يسرائيل على فم يهوه قائلًا: «هكذا سبطُ بَنِي يوسف يتكلّمون».",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "فوصى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بَنِي يسرائيل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنِي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "سبط"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنِي"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "يتكلّمون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:47:28.808649008Z",
+  "model": "glm-5.2"
+}

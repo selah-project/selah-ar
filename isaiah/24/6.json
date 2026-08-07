@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 24:6",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "على ذلك أكلت اللعنة الأرض، وذنّب سكّانها؛ على ذلك ذبل سكّان الأرض، وبقي أناس قلّة.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اللعنة"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "أكلت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ויאשמו",
+      "gloss": "وذنّب"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "سكّان"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "חרו",
+      "gloss": "ذبل"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "سكّان"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ונשאר",
+      "gloss": "وبقي"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "أناس"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "قلّة"
+    }
+  ],
+  "timestamp": "2026-08-07T02:11:40.618700849Z",
+  "model": "glm-5.2"
+}

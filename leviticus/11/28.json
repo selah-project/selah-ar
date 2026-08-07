@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 11:28",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "والذي يحمل ⟨את⟩ جيفتهم يَغْسِل ثيابه ويكون طامِسًا حتى المساء — طَمايسُ هم لكم.",
+  "tokens": [
+    {
+      "surface": "והנשא",
+      "gloss": "والذي يحمل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جيفتهم"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "جيفتهم"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "يغسل"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ثيابه"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ويكون طامِسًا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "المساء"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "طَمايسُ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:22:42.715142277Z",
+  "model": "glm-5.2"
+}

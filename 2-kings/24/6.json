@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 24:6",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فضجع يهوياقيم مع آبائه، وملك يهوياكين ابنُه مكانه.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "فضجع"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "يهوياقيم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "آبائه"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "وملك"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "يهوياكين"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ابنه"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "مكانه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:03:00.869325427Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 16:13",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "يا زرع يسرايل عبده، يا بني يعقوف مختاريه!",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "يا زرع"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "عبده"
+    },
+    {
+      "surface": "בני",
+      "gloss": "يا بني"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "مختاريه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:00.666527849Z",
+  "model": "glm-5.2"
+}

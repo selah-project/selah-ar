@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 46:15",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 46,
+  "translation": "لماذا انسُحِق أبطالك؟ لم يقف ثابتًا، لأنّ يهوه دفعه.",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "נסחף",
+      "gloss": "انسُحِق"
+    },
+    {
+      "surface": "אביריך",
+      "gloss": "أبطالك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "وقف ثابتًا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הדפו",
+      "gloss": "دفعه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:48:33.514573879Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "حافظُ وصيّةٍ يحفظُ نفسَه، مُحتَقِرُ سُبُلِه يُقتَل.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "حافظ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "وصيّة"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "يحفظ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "نفسَه"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "مُحتَقِر"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "سُبُلِه"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "يُقتَل"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:35.135172477Z",
+  "model": "glm-5.2"
+}

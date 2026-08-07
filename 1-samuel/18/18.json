@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 18:18",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وقال داود لشاؤول: «من أنا وما هي حياتي، ⟨أو⟩ عشيرة أبي في إسرائيل، حتى أصير صهرًا للملك؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "מי",
+      "gloss": "من"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "وما"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "حياتي"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "عشيرة"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "في إسرائيل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "أصير"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "صهرًا"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "للملك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:27:17.019548175Z",
+  "model": "glm-5.2"
+}

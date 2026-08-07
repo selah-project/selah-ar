@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "حافظُ الوصيّة لا يعرف أمرًا رَيِّبًا، والوقتُ والمِشپات يعرفُهما قلبُ الحكيم.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "حافظ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "الوصيّة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "يعرف"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "أمرًا"
+    },
+    {
+      "surface": "רע",
+      "gloss": "رَيِّبًا"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "والوقت"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "والمِشپات"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "يعرف"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "الحكيم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:51.518039499Z",
+  "model": "glm-5.2"
+}

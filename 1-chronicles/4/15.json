@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وَبَنُو كَالِب بْن يَفُنَّة: عِيرُو، أِيلَه، وَنَعَم. وَبَنُو أِيلَه: وَقِنَز.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "وَبَنُو"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "كَالِب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بْن"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "يَفُنَّة"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "عِيرُو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "أِيلَه"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "وَنَعَم"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "وَبَنُو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "أِيلَه"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "وَقِنَز"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:59.132959963Z",
+  "model": "glm-5.2"
+}

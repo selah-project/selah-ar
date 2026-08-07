@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "في اليوم الأول، في الأول للشهر، تُقيم ⟨את⟩ مِشكان خيمة الموعد.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "الشهر"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "الأول"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "في واحد"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "للشهر"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "تُقيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مِشكان"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "مِشكان"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمة"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:15:28.634712688Z",
+  "model": "glm-5.2"
+}

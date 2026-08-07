@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 35:1",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "وكلّم يهوه موشهيه في عربوت موآب، على يردن يريحو، قائلًا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وكلّم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "في عربوت"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "يَردَن"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "يريحو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:45:25.150902758Z",
+  "model": "glm-5.2"
+}

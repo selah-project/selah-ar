@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "عَلِمتُ أنّك كلَّ شيءٍ تقدر، ولا يُحجَز عنك ⟨أيُّ⟩ مشورة:",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "عَلِمتُ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "تقدر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "يُحجَز"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "عنك"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "مشورة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:44:39.656099124Z",
+  "model": "glm-5.2"
+}

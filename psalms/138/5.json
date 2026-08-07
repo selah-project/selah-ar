@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 138,
+  "translation": "ويُنشِدون في طُرُق يهوه، لأنَّ عظيمًا ⟨هو⟩ مجد يهوه.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "ويُنشِدون"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "في طُرُق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيمًا"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "مجد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:17:51.950694942Z",
+  "model": "glm-5.2"
+}

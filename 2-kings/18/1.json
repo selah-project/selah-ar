@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 18:1",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "و⟨كان⟩ في سنة الثالثة لهوشيه بن إيلا ملك يسرائيل أن مَلَكَ حزقيا بن آحاز ملك يهودا",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "في سنة"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "الثالثة"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "لهوشيه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "إيلا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلَكَ"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "حزقيا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "آحاز"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:59:48.230918630Z",
+  "model": "glm-5.2"
+}

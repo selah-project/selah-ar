@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 9:16",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فنظرتُّ وها أنتم قد أخطأتم إلى يهوه إلهيكم، صنعتم لأنفسكم عجلَ مسبوكة، حدتم سريعًا من الطريق الذي أوصى به يهوه إيّاكم",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "فنظرتُ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وها"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "أخطأتم"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "إلى يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلهيكم"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "صنعتم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لأنفسكم"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "عجل"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "مسبوكة"
+    },
+    {
+      "surface": "סרתם",
+      "gloss": "حدتم"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "سريعًا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "الطريق"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "إيّاكم",
+      "marks": "إيّاكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:54:09.620692264Z",
+  "model": "glm-5.2"
+}

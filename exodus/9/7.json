@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فأرسل فرعو، وإذا لم يمت من ماشية يسرايل حتى واحد، فثَقُلَ قلبُ فرعو، فلم يُطلِق ⟨את⟩ الشعب.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "فأرسل"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعو"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "מת",
+      "gloss": "يمت"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "من ماشية"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "فثَقُلَ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلبُ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "يُطلِق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:22.623898968Z",
+  "model": "glm-5.2"
+}

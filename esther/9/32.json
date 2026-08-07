@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "esther 9:32",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وأمر إستير أقام ⟨את⟩ كلمات الفوريم هذه وكُتب في السفر",
+  "tokens": [
+    {
+      "surface": "ומאמר",
+      "gloss": "وأمر"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "إستير"
+    },
+    {
+      "surface": "קים",
+      "gloss": "أقام"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلمات"
+    },
+    {
+      "surface": "הפורים",
+      "gloss": "الفوريم"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ונכתב",
+      "gloss": "وكُتب"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "في السفر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:55:46.035339233Z",
+  "model": "glm-5.2"
+}

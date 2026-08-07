@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "يطرُدُهم يعبُر شالوم. طريقٌ برِجلَيه لا يدخُلُه.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "يطرُدُهم"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "يعبُر"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "طريقٌ"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "برِجلَيه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "يدخُلُه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:19:00.064293195Z",
+  "model": "glm-5.2"
+}

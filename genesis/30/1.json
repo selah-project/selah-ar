@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 30:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "فرأت راحيل أنّها لم تلد ليعقوف، فغيظَت راحيل على أُختها، وقالت ليعقوف: هات لي بَنين، وإن لم يكن فأنا ميّتة.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "فرأت"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحيل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "تلد"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ليعقوف"
+    },
+    {
+      "surface": "ותקנא",
+      "gloss": "فغيظَت"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحيل"
+    },
+    {
+      "surface": "באחתה",
+      "gloss": "على أُختها"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "وقالت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "هات"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بَنين"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لم يكن"
+    },
+    {
+      "surface": "מתה",
+      "gloss": "ميّتة"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:45:19.865799768Z",
+  "model": "glm-5.2"
+}

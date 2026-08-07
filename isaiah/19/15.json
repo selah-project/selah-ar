@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "ولا يكونُ لمصرايم عملٌ يعملُه، رأسٌ وذنبٌ سعفةُ وبرديّة.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكونُ"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "لمصرايم"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "عملٌ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يعملُه"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأسٌ"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "وذنبٌ"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "سعفةُ"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "وبرديّة"
+    }
+  ],
+  "timestamp": "2026-08-07T02:09:29.920078201Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "كلّ شجرك وثمر أرضك يَسترُهُ الـحَشَرَةُ الطـَّيَّارَة",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "شجرك"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "وثمر"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "أرضك"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "يَسترُهُ"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "الـحَشَرَةُ الطـَّيَّارَة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:43.920568162Z",
+  "model": "glm-5.2"
+}

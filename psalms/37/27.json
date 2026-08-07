@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "أعرِضْ عن الشرّ وافعَلِ الخير، واسكُنْ إلى الأبد.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "أعرِضْ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "عن الشرّ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "وافعَلِ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "الخير"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "واسكُنْ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:58.132631832Z",
+  "model": "glm-5.2"
+}

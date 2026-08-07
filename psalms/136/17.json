@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 136,
+  "translation": "لِضاربِ ملوكٍ عِظَام، لأنَّ إلى الأبدِ حِسِدُهُ",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "لِضاربِ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ملوكٍ"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "عِظَام"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبدِ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حِسِدُهُ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:17:31.485009693Z",
+  "model": "glm-5.2"
+}

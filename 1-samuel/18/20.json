@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وأحبّت ميكال بنت شاؤول ⟨את⟩ داود، فأخبروا شاؤول، فاستقام الأمرُ في عينيه.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "وأحبّت"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "ميكال"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داود"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "فأخبروا"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "فاستقام"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمرُ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "في عينيه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:27:17.019850196Z",
+  "model": "glm-5.2"
+}

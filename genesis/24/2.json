@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 24:2",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فقالَ أَفراهام لِعَبدِه، زَكَن بَيتِه، المُشْتَبِّكِ على كلِّ ما له: «ضَعِ الآن يدَك تحت فَخذي».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "عبده"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "زَكَن"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "بيته"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "المشتبك"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "على كل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "שים",
+      "gloss": "ضع"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "يدك"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "ירכי",
+      "gloss": "فخذي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:35.394272404Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 142,
+  "translation": "صوتي إلى يهوه أصرخ، صوتي إلى يهوه أَتضرَّع.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "صوتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "أصرخ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "صوتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "أَتضرَّع"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:15.136736786Z",
+  "model": "glm-5.2"
+}

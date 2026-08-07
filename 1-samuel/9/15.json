@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "ويهوهُ كان قد كشفَ ⟨أُذُنَ⟩ شموئيلَ، يومًا واحدًا قبلَ مجيءِ شاؤول، قائلاً:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ويهوه"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "كشف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أذن"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "أذن"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "قبل"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "مجيء"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    }
+  ],
+  "timestamp": "2026-08-07T01:24:45.991276003Z",
+  "model": "glm-5.2"
+}

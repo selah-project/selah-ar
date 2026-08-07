@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 16:16",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وفعل أوريا الكوهين حسب كل ما أوصى ⟨به⟩ الملك أَحاز.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وفعل"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "أوريا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "حسب كل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "أحز"
+    }
+  ],
+  "timestamp": "2026-08-07T01:59:09.315715173Z",
+  "model": "glm-5.2"
+}

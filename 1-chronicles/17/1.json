@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 17:1",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "و⟨كان⟩ عندما جلس داوِد في بيته، وقال داوِد لِناتان الناطق: «ها أنا جالسٌ في بيتٍ من أرزٍ، وتابوت بريت يهوه تحت أستارٍ».",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "عندما"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "جلس"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "في بيته"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لِـ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "الناطق"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "جالسٌ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في بيتٍ"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "من أرزٍ"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "وتابوت"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "أستارٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:30.369911124Z",
+  "model": "glm-5.2"
+}

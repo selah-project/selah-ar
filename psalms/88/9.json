@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 88,
+  "translation": "أبعدتَ معارفي عنّي، جعلتني رِجسًا لهم، حُبستُ ولا أخرج.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "أبعدتَ"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "معارفي"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "عنّي"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "جعلتني"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "رِجسًا"
+    },
+    {
+      "surface": "למו",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "حُبستُ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "أخرج"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:38.480319956Z",
+  "model": "glm-5.2"
+}

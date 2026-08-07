@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 115,
+  "translation": "وإلوهيمُنا في السماوات، كلَّ ما يَشاءُ فَعَلَ.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "وإلوهيمُنا"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "في السماوات"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "يَشاءُ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فَعَلَ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:11:02.692223872Z",
+  "model": "glm-5.2"
+}

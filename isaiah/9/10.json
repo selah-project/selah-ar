@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "ورفع يهوه ⟨את⟩ ضارّي رَصين عليه، و⟨את⟩ أعدائه يُسكِنُهم",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "ورفع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ضارّي رَصين"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ضارّي"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "رَصين"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "أعدائه"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "أعدائه"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "يُسكِنُهم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:06:30.525728439Z",
+  "model": "glm-5.2"
+}

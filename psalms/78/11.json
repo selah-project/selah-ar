@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "ونَسوا أعماله، وعجائبه التي أراهم إيّاها.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "ونَسوا"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "أعماله"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "وعجائبه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "أراهم إيّاها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:25.166096220Z",
+  "model": "glm-5.2"
+}

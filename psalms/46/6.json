@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 46,
+  "translation": "إلوهيم في وسطِها فلن تتزعزع؛ يُعينُها إلوهيم عند إقبالِ الصباح.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "في وسطِها"
+    },
+    {
+      "surface": "בל",
+      "gloss": "فلن"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "تتزعزع"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "يُعينُها"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "لפנות",
+      "gloss": "عند إقبال"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "الصباح"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:52.623953505Z",
+  "model": "glm-5.2"
+}

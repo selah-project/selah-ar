@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "بكلمةِ يهوه صُنِعَتِ السماواتُ، وبرَوَحِ فِيهِ كلُّ صَبْعِها",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "بكلمةِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "السماواتُ"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "صُنِعَتِ"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "وبرَوَحِ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "فِيهِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "صَبْعِها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:16.840489368Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 22:24",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "وَوقَف ملاك يهوه في مَمرّ الكُروم، سور من هنا وَسور من هنا.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "وَوقَف"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ملاك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "במשעול",
+      "gloss": "في مَمرّ"
+    },
+    {
+      "surface": "הכרמים",
+      "gloss": "الكُروم"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "سور"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "من هنا"
+    },
+    {
+      "surface": "וגדר",
+      "gloss": "وَسور"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "من هنا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:38:38.473271175Z",
+  "model": "glm-5.2"
+}

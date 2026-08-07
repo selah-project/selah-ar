@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 5:2",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "«في ذلك الوقت قال يهوه لِيهوشوع: اصنع لنفسك سيوفًا من صوان، وعُد فاختن ⟨את⟩ بني إسرائيل ثانيةً».",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "في وقت"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشوع"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "اصنع"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "سيوف"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "صوان"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "وعُد"
+    },
+    {
+      "surface": "מל",
+      "gloss": "اختن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بني إسرائيل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ثانيةً"
+    }
+  ],
+  "timestamp": "2026-08-07T01:03:56.613377342Z",
+  "model": "glm-5.2"
+}

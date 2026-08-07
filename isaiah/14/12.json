@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 14:12",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "كيف سقطتَ من السماوات يا هيليل ابن الفجر، قُطِعتَ إلى الأرض يا مُضعِف الأمم!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "كيف"
+    },
+    {
+      "surface": "נפלת",
+      "gloss": "سقطتَ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "من السماوات"
+    },
+    {
+      "surface": "הילל",
+      "gloss": "يا هيليل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "الفجر"
+    },
+    {
+      "surface": "נגדעת",
+      "gloss": "قُطِعتَ"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "إلى الأرض"
+    },
+    {
+      "surface": "חולש",
+      "gloss": "يا مُضعِف"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "الأمم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:06:31.725111898Z",
+  "model": "glm-5.2"
+}

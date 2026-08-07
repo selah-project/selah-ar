@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 132,
+  "translation": "الذي حلف ليهوه، نذر لعَبير يعقوف،",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "حلف"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذر"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "لعَبير"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    }
+  ],
+  "timestamp": "2026-08-07T04:16:03.771730206Z",
+  "model": "glm-5.2"
+}

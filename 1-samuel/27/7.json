@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 27:7",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "و⟨كان⟩ عدد الأيام التي сидن فيها داود في حقل فِلِشتيم أيامًا وأربعة أشهر.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "عدد"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "الأيام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "سكن"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "في حقل"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلشتيم"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيامًا"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "وأربعة"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "أشهر"
+    }
+  ],
+  "timestamp": "2026-08-07T01:30:26.201716234Z",
+  "model": "glm-5.2"
+}

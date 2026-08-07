@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 107,
+  "translation": "كلَّ طعامٍ تَقذرُهُ نَفْسُهم، وبلغوا حتى أبوابِ موت.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "طعام"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "تقذّره"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "نَفْسهم"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "ووصلوا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "أبواب"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:44.229893825Z",
+  "model": "glm-5.2"
+}

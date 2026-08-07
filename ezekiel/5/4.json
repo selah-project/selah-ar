@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 5:4",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "«ومنها أيضًا تأخذ، فتطرح ⟨את⟩هم إلى وسط النار، وتحرق ⟨את⟩هم فيها. منها يخرج نار إلى كلّ بيت يسرائيل.»",
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "ومنها"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "تأخذ"
+    },
+    {
+      "surface": "והשלכת",
+      "gloss": "فتطرح"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩هم",
+      "marks": "المأخوذ منها"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "وسط"
+    },
+    {
+      "surface": "האש",
+      "gloss": "النار"
+    },
+    {
+      "surface": "ושרפת",
+      "gloss": "وتحرق"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩هم",
+      "marks": "إيّاهم في النار"
+    },
+    {
+      "surface": "באש",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منها"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "يخرج"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T02:56:33.394509748Z",
+  "model": "glm-5.2"
+}

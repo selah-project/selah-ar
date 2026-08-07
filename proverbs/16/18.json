@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "أمامَ الانكسار ⟨يقف⟩ الغُرور، وأمامَ التَّعثُر ⟨يقف⟩ ارتفاعُ الروَح.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "الانكسار"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "الغُرور"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "وأمام"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "التَّعثُر"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ارتفاع"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "الروَح"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:24.235961371Z",
+  "model": "glm-5.2"
+}

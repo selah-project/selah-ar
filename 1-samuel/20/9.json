@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 20:9",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "فقال يهوناتان: حاشا لك! لأنّي ⟨إن⟩ عرفًا أعرف أنّ الشرّ قد قُضي من عند أبي ليأتي عليك، فلا ⟨إيّاها⟩ أخبرك",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يهوناتان"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "حاشا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨إن⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "عرفًا"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "أعرف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "قُضي"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "الشرّ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "من عند"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ليأتي"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "عليك"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاها (الأمر)"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "أخبر"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:27:39.272501210Z",
+  "model": "glm-5.2"
+}

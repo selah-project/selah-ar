@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 10:11",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "فقال يهوه لبني إسرائيل: «أليس من مصرايم ومن الأموريّ ومن بني عمّون ومن فلِشتيّم",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لبني"
+    },
+    {
+      "surface": "בני",
+      "gloss": "لبني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "أليس"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "من مصرايم"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "الأموريّ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمّون"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ومن"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلِشتيّم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:15:55.702058359Z",
+  "model": "glm-5.2"
+}

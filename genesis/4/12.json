@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "حين تُفلح ⟨את⟩ الأرض لا تزيدُ أن تعطيَ قوّتَها لك؛ تائهاً وهائماً تكون في الأرض.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "حين"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "تُفلح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "تزيد"
+    },
+    {
+      "surface": "תת",
+      "gloss": "أن تعطيَ"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "قوّتَها"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "נע",
+      "gloss": "تائهاً"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "وهائماً"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:01.870048520Z",
+  "model": "glm-5.2"
+}

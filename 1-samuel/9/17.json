@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وشموئيل رأى ⟨את⟩ شاؤول، ويهوه أجابه: «هوذا الرجل الذي قلتُ لك عنه، هذا يحكم في شعبي».",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "وشموئيل"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "رأى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شاؤول"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ويهوه"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "أجابه"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هوذا"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "قلتُ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "يحكم"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "في شعبي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:23:20.703032900Z",
+  "model": "glm-5.2"
+}

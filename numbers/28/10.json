@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "عولاةُ شبّاتٍ بشبّاته، فوق عولةِ الدائم وسكبها.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "عولة"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "شبّات"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "بشبّاته"
+    },
+    {
+      "surface": "על",
+      "gloss": "فوق"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "عولة"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "الدائم"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "وسكبها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:42:41.950846473Z",
+  "model": "glm-5.2"
+}

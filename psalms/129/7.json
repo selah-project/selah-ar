@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 129,
+  "translation": "الذي لا يملأ كفَّ حاصدٍ وحِجرَه حاصد الحزم",
+  "tokens": [
+    {
+      "surface": "שֶׁלֹּ֤א",
+      "gloss": "الذي لا"
+    },
+    {
+      "surface": "מִלֵּ֖א",
+      "gloss": "يملأ"
+    },
+    {
+      "surface": "כַפּ֥וֹ",
+      "gloss": "كفّ"
+    },
+    {
+      "surface": "קוֹצֵ֗ר",
+      "gloss": "حاصد"
+    },
+    {
+      "surface": "וְחִצְנ֥וֹ",
+      "gloss": "وحِجره"
+    },
+    {
+      "surface": "מְעַמֵּֽר",
+      "gloss": "حاصد الحزم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:16:11.533935847Z",
+  "model": "glm-5.2"
+}

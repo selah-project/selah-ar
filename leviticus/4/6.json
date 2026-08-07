@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "ويغمس الكوهين ⟨את⟩ إصبعه في الدم، وينضح من الدم سبع مرّات أمام يهوه، ⟨את⟩ وجه باروخيت القدُس.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "ويغمس"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "إصبعه"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "إصبعه"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "في الدم"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "وينضح"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "الدم"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبع"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "مرّات"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وجه"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "باروخيت"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "القدُس"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:04.332303954Z",
+  "model": "glm-5.2"
+}

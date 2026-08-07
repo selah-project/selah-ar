@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وكرمك لا تُصلِّه، وفرط كرمك لا تُلقّطه؛ للفقير وللغريب تتركهما. أنا يهوه إلوهيمكم.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "وكرمك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "تُصلّيه"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "وفرط"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "كرمك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "تُلقّطه"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "للفقير"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "وللغريب"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "تترك"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "الفرط واللُقّاط"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلوهيمكم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:38:31.391828443Z",
+  "model": "glm-5.2"
+}

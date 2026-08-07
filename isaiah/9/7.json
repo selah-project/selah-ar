@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "كَلِمَةً أَرْسَلَ أَدوناي في يعقوف، فسقطت في يِسرايل.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "كلمةً"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "أرسل"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "في يعقوف"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "فسقطت"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "في يِسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T07:36:54.702472209Z",
+  "model": "glm-5.2"
+}

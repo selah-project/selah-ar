@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 86,
+  "translation": "أحمدُك يا أدوناي إلهي بكلِّ قلبي، وأُمجِّدُ اسمك إلى الأبد.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "أحمدُك"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "يا أدوناي"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلهي"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بكلِّ"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "وأُمجِّدُ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "اسمك"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "إلى الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:25.843295113Z",
+  "model": "glm-5.2"
+}

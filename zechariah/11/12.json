@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 11:12",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "وقُلتُ لهم: إن حَسُن في أعينكم فهاتوا أجرتي، وإن لا فكُفّوا. فوزنوا ⟨את⟩ أجرتي ثلاثين من الفضّة.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "وقُلتُ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "حَسُن"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "في أعينكم"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "فهاتوا"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "أجرتي"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "فكُفّوا"
+    },
+    {
+      "surface": "וישקלו",
+      "gloss": "فوزنوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أجرتي"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "أجرتي"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ثلاثين"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "من الفضّة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:37:17.830961052Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "مزمور لِداود. يهوه راعيّ، فلا أَعوَز.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِداود"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "راعيّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "أَعوَز"
+    }
+  ],
+  "timestamp": "2026-08-07T03:45:20.374573698Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 28:15",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "كاملاً أنتَ في طرقِكَ من يومِ خَلقِكَ حتى وُجِدَ ظُلمٌ فيكَ.",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "كاملاً"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "في طرقِكَ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "من يومِ"
+    },
+    {
+      "surface": "הבראך",
+      "gloss": "خَلقِكَ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "وُجِدَ"
+    },
+    {
+      "surface": "עולתה",
+      "gloss": "ظُلمٌ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "فيكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:07:12.907753157Z",
+  "model": "glm-5.2"
+}

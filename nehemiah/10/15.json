@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "رؤوس الشعب: فَرْعُوش، فَحَت موأَف، عيلام، زَتُوئي، باني.",
+  "tokens": [
+    {
+      "surface": "רָאשֵׁי",
+      "gloss": "رؤوس"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "פַּרְעֹשׁ",
+      "gloss": "فَرْعُوش"
+    },
+    {
+      "surface": "פַּחַת",
+      "gloss": "فَحَت"
+    },
+    {
+      "surface": "מוֹאָב",
+      "gloss": "موأَب"
+    },
+    {
+      "surface": "עֵילָם",
+      "gloss": "عيلام"
+    },
+    {
+      "surface": "זַתּוּא",
+      "gloss": "زَتُوئي"
+    },
+    {
+      "surface": "בָּנִי",
+      "gloss": "باني"
+    }
+  ],
+  "timestamp": "2026-08-07T06:12:36.500604645Z",
+  "model": "glm-5.2"
+}

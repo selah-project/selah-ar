@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 2:28",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وجيشُهُ ومُعدودوهُم: واحدٌ وأربعون ألفاً وخمسُمِئة.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "وجيشُهُ"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "ومُعدودوهُم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحدٌ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "وأربعون"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفاً"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "وخمسُ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "مِئة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:24.403409124Z",
+  "model": "glm-5.2"
+}

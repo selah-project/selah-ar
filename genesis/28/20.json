@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 28:20",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "ونذر يعقوف نذرًا قائلاً: «إن كان إلوهيم معي وحفظني في هذا الطريق الذي أنا سالكه، وأعطاني خبزًا لآكل وثوبًا لألبس،",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "ونذر"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذرًا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "معي"
+    },
+    {
+      "surface": "ושמרני",
+      "gloss": "وحفظني"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "في"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا الطريق"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "سالكه"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "وأعطاني"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزًا"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "لآكل"
+    },
+    {
+      "surface": "ובגד",
+      "gloss": "وثوبًا"
+    },
+    {
+      "surface": "ללבש",
+      "gloss": "لألبس"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:16.241880125Z",
+  "model": "glm-5.2"
+}

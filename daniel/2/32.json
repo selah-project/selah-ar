@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "daniel 2:32",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "ذلك الصنمُ، رأسُه من ذهبٍ جيّد، صدرُه وذراعاه من فضّةٍ، بطنُه وفخذاه من نحاس.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "צלמא",
+      "gloss": "الصنمُ"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "رأسُه"
+    },
+    {
+      "surface": "די",
+      "gloss": "من"
+    },
+    {
+      "surface": "דהב",
+      "gloss": "ذهبٍ"
+    },
+    {
+      "surface": "טב",
+      "gloss": "جيّد"
+    },
+    {
+      "surface": "חדוהי",
+      "gloss": "صدرُه"
+    },
+    {
+      "surface": "ודרעוהי",
+      "gloss": "وذراعاه"
+    },
+    {
+      "surface": "די",
+      "gloss": "من"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضّةٍ"
+    },
+    {
+      "surface": "מעוהי",
+      "gloss": "بطنُه"
+    },
+    {
+      "surface": "וירכתה",
+      "gloss": "وفخذاه"
+    },
+    {
+      "surface": "די",
+      "gloss": "من"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "نحاس"
+    }
+  ],
+  "timestamp": "2026-08-07T04:57:38.017004622Z",
+  "model": "glm-5.2"
+}

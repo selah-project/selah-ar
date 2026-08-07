@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 29:4",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وعِسرونٌ واحد للخروف الواحد، لِسبعةِ الخراف.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "وعِسرون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "للخروف"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "الواحد"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "لسبعة"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "الخراف"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:16.580604802Z",
+  "model": "glm-5.2"
+}

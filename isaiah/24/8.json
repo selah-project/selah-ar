@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 24:8",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "كفّ طَرب الطبول، انقطع ضجيج المبتهجين، كفّ طَرب القيثار.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "كفّ"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "طَرب"
+    },
+    {
+      "surface": "תפים",
+      "gloss": "الطبول"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "انقطع"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ضجيج"
+    },
+    {
+      "surface": "עליזים",
+      "gloss": "المبتهجين"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "كفّ"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "طَرب"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "القيثار"
+    }
+  ],
+  "timestamp": "2026-08-07T02:11:40.618900740Z",
+  "model": "glm-5.2"
+}

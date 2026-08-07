@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "و⟨كان⟩ بعد ذلك فضرب قلب داود إيّاه، على أنه قطع ⟨את⟩ الطرف الذي لشاؤول.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "فضرب"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "إيّاه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "أنه"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "قطع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الطرف"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "الطرف"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "لشاؤول"
+    }
+  ],
+  "timestamp": "2026-08-07T01:29:17.001565678Z",
+  "model": "glm-5.2"
+}

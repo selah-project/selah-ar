@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 20:16",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "غدًا انزلوا عليهم، هم ذا صاعدون في صعود التصّ، فتجدون ⟨את⟩هم في طرف النهر، وجه برّية يَروئيل.",
+  "tokens": [
+    {
+      "surface": "מחר",
+      "gloss": "غدًا"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "انزلوا"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "هم ذا"
+    },
+    {
+      "surface": "עלימים",
+      "gloss": "صاعدون"
+    },
+    {
+      "surface": "במעלה",
+      "gloss": "في صعود"
+    },
+    {
+      "surface": "הציץ",
+      "gloss": "التصّ"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "فتجدون"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "هم"
+    },
+    {
+      "surface": "בסוף",
+      "gloss": "في طرف"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "النهر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "برّية"
+    },
+    {
+      "surface": "ירואל",
+      "gloss": "يَروئيل"
+    }
+  ],
+  "timestamp": "2026-08-07T05:27:49.912227980Z",
+  "model": "glm-5.2"
+}

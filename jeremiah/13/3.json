@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 13:3",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "و⟨كان⟩ كلمة يهوه إليّ ثانيةً قائلًا:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلمة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ثانيةً"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:35:28.559031492Z",
+  "model": "glm-5.2"
+}

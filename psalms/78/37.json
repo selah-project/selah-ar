@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "وقلبهم لم يثبت معه، ولم يؤمنوا ببريته.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "وقلبهم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "يثبت"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "يؤمنوا"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "ببريته"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:46.655523542Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "لا يثبت الإنسانُ بالشرّ، أمّا جذرُ الصدّيقين فلا يتزعزع.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "يثبت"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسانُ"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "بالشرّ"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "أمّا جذرُ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "الصدّيقين"
+    },
+    {
+      "surface": "בל",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "يتزعزع"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:24.117254097Z",
+  "model": "glm-5.2"
+}

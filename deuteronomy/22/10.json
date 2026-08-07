@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "لا تحرث بثور وبحمار معًا.",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תַחֲרֹ֥שׁ",
+      "gloss": "تحرث"
+    },
+    {
+      "surface": "בְּשׁוֹר",
+      "gloss": "بثور"
+    },
+    {
+      "surface": "וּבַחֲמֹ֖ר",
+      "gloss": "وبحمار"
+    },
+    {
+      "surface": "יַחְדָּֽו",
+      "gloss": "معًا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:49.668607635Z",
+  "model": "glm-5.2"
+}

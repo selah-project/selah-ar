@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 134,
+  "translation": "שיר המעלות. הנה بارِخو ⟨את⟩ يهوه، كل عبْدي يهوه، העומדים בבית يهوه בלيلات.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "שיר"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "המעלות"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هناه"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "بارِخوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عبْدي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "העומדים"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "في בית"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "בלيلات"
+    }
+  ],
+  "timestamp": "2026-08-07T08:13:08.930933205Z",
+  "model": "glm-5.2"
+}

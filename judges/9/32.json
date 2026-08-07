@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 9:32",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "والآن قُم ليلًا أنت والشعب الذي معك، واكمُن في الحقل.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "קום",
+      "gloss": "قُم"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ليلًا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "والشعب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "واكمُن"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "في الحقل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:15:13.103270910Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "ونزل يهوه في السحاب، ووقف معه هناك، ونادى باسم يهوه.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ونزل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "في السحاب"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "ووقف"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ونادى"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "باسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:48.724897849Z",
+  "model": "glm-5.2"
+}

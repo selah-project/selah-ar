@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 106,
+  "translation": "عجائب في أرض حام، ومخاوف على بحر السّوف.",
+  "tokens": [
+    {
+      "surface": "נִ֭פְלָאוֹת",
+      "gloss": "عجائب"
+    },
+    {
+      "surface": "בְּאֶ֣רֶץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "חָ֑ם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "נ֝וֹרָא֗וֹת",
+      "gloss": "ومخاوف"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "على"
+    },
+    {
+      "surface": "יַם",
+      "gloss": "بحر"
+    },
+    {
+      "surface": "סֽוּף",
+      "gloss": "السّوف"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:14.001620746Z",
+  "model": "glm-5.2"
+}

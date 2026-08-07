@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 1:17",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "لأنَّ ⟨عبثًا⟩ يُنشَر الشَّبَكَةُ أمامَ عينَيْ كلِّ ذي جناحٍ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "عبثًا"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "يُنشَر"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "الشَّبَكَةُ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "أمامَ عينَيْ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ذي"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "جناحٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:19:37.760083716Z",
+  "model": "glm-5.2"
+}

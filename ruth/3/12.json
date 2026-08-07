@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "والآن، وإن كان حقًا أنني غوئيل، فهناك أيضًا غوئيل أقرب مني.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "حقًا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أن"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "غوئيل"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "غوئيل"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "أقرب"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مني"
+    }
+  ],
+  "timestamp": "2026-08-07T04:47:43.805195665Z",
+  "model": "glm-5.2"
+}

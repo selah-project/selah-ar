@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "ويقولُ أبو الناعرةِ للشيوخ: ⟨את⟩ ابنتي أعطيتُ للرجلِ هذا زوجةً، فأبغضها،",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ويقولُ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبو"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "الناعرةِ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "الشيوخ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابنتي"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ابنتي"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "أعطيتُ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "لـِرجلِ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "زوجةً"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "فأبغضها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:58:12.518559471Z",
+  "model": "glm-5.2"
+}

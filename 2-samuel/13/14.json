@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "ولم يَشَأ أن يسمع في صوتها، فتشبّث منها وأذلّها واضطجع ⟨את⟩ها.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "يَشَأ"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "أن يسمع"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "في صوتها"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "فتتشبّث"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "منها"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "وأذلّها"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "واضطجع"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ها (تامار)"
+    }
+  ],
+  "timestamp": "2026-08-07T01:35:31.939826487Z",
+  "model": "glm-5.2"
+}

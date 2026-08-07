@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 4:8",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "⟨هناك⟩ واحدٌ وليس ثانٍ، وكذلك ابنٌ وأخٌ ليس له، وليس نهايةٌ لكلِّ تعبه؛ وعيناه أيضًا لا تشبعانِ غِنىً؛ «ولِمنَ أنا متعبٌ وأحرمُ ⟨את⟩ نفسي من الخير؟» هذا أيضًا هَبَلٌ وعناءٌ ردّئ هو.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "⟨هناك⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "وليس"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ثان"
+    },
+    {
+      "surface": "גם",
+      "gloss": "وكذلك"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "وأخ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "وليس"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "نهاية"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لكلِّ"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "تعبه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "وعيناه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "تشبعان"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "غِنى"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "ولِمن"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "متعب"
+    },
+    {
+      "surface": "ומחסר",
+      "gloss": "وأحرم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نفسي"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نفسي"
+    },
+    {
+      "surface": "מטובה",
+      "gloss": "من الخير"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هَبَل"
+    },
+    {
+      "surface": "וענין",
+      "gloss": "وعناء"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ردّئ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:42.469826756Z",
+  "model": "glm-5.2"
+}

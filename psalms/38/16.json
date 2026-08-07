@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "لأنَّهُ إيّاكَ يَهوه انْتَظَرْتُ، أنتَ تُجيبُ يا أدوناي إلوهيم",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّهُ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "إيّاكَ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "انْتَظَرْتُ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "تُجيبُ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "يا أدوناي"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:30.258822176Z",
+  "model": "glm-5.2"
+}

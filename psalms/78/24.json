@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "وأمطر عليهم مَنًّا ⟨لأكل⟩، وحَبَّ السماء أعطى لهم.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "وأمطر"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "عليهم"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مَنًّا"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "لأكل"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "وحب"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "السماء"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطى"
+    },
+    {
+      "surface": "למו",
+      "gloss": "لهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:30.710261633Z",
+  "model": "glm-5.2"
+}

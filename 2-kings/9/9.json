@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "و⟨جعلتُ⟩ ⟨את⟩ بيت أخآب كبيت يَروبْعام بن نَباط وكبيت بَعْشا بن أَخِيا.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "و⟨جعلتُ⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيت أخآب"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "أخآب"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "كبيت"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "يَروبْعام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "نَباط"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "وكبيت"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بَعْشا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "أَخِيا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:55:25.012700236Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وقوص ولد ⟨את⟩ عانوب و⟨את⟩ هَصوبيفاه، وعشائر أخَرحِل بن هاروم.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "وقوص"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عانوب"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "عانوب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "هَصوبيفاه"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "هَصوبيفاه"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "وعشائر"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "أخَرحِل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "هاروم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:38.069110233Z",
+  "model": "glm-5.2"
+}

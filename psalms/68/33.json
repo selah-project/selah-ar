@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 68,
+  "translation": "ممالكُ الأرض، غنّوا لإلوهيم؛ رنّموا ⟨لأدوناي⟩. سِلاه.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "ممالكُ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "غنّوا"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "لإلوهيم"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "رنّموا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "لأدوناي"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:58:16.468181104Z",
+  "model": "glm-5.2"
+}

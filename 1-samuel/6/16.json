@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 6:16",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وخمسة سرَنى فلِشتيّم رأوا فعادوا عَقْرون في اليوم ذاك.",
+  "tokens": [
+    {
+      "surface": "וחמשה",
+      "gloss": "وخمسة"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "سرَنى"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلِشتيّم"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "رأوا"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "فعادوا"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "عَقْرون"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في اليوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذاك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:22:29.708604339Z",
+  "model": "glm-5.2"
+}

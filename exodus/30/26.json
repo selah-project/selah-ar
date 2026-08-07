@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وتَمسَحُ به ⟨את⟩ خيمةَ الموعد، و⟨את⟩ تابوتِ الشهادة.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "وتَمسَحُ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "به"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خيمة الموعد"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خيمةَ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "الموعد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "تابوت الشهادة"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوتِ"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "الشهادة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:10:16.886743422Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 15:25",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "بَيتَ المتعجرفين يقتلع يهوه، ⟨أمّا⟩ تثبّتُ حدود الأرملة.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "المتعجرفين"
+    },
+    {
+      "surface": "יסח",
+      "gloss": "يقتلع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וגויצב",
+      "gloss": "وتثبّت"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "حدود"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "الأرملة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:36.669432470Z",
+  "model": "glm-5.2"
+}

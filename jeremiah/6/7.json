@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 6:7",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "كما يُفرِغ البئر مياهها، هكذا أفرغت شرَّها. ظلمٌ و⟨و⟩سلب يُسمَع فيها؛ أمام وجهي دائمًا مرضٌ و⟨و⟩ضَرْب.",
+  "tokens": [
+    {
+      "surface": "כהקיר",
+      "gloss": "كما يُفرِغ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "البئر"
+    },
+    {
+      "surface": "מימיה",
+      "gloss": "مياهها"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "הקרה",
+      "gloss": "أفرغت"
+    },
+    {
+      "surface": "רעתה",
+      "gloss": "شرَّها"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ظلمٌ"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "⟨و⟩سلب"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "يُسمَع"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "על",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهي"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "دائمًا"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "مرضٌ"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "⟨و⟩ضَرْب"
+    }
+  ],
+  "timestamp": "2026-08-07T02:31:00.644625755Z",
+  "model": "glm-5.2"
+}

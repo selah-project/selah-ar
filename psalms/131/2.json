@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 131,
+  "translation": "بل هكذا فعلتُ: سوّيتُ وهدّأتُ نَفسي كَفَطيمٍ على أمّه، كالفطيمِ عليَّ نَفسي.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إنْ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "سوّيتُ"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "وهدّأتُ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفسي"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "كَفَطيم"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "على"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "أمّه"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "كالفطيم"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "علَيَّ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفسي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:15:51.464429035Z",
+  "model": "glm-5.2"
+}

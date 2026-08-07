@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "ومن رأس جبال القدِيم، ونفائس الآكام الأزلية،",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "ومن رأس"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "جبال"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "القدِيم"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "ونفائس"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "الآكام"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "الأزلية"
+    }
+  ],
+  "timestamp": "2026-08-07T01:01:57.794580804Z",
+  "model": "glm-5.2"
+}

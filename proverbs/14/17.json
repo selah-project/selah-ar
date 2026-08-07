@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 14:17",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "قصيرُ النفَس يصنعُ أَوَلْتًا، ورجلُ المَكائد يُكرَه.",
+  "tokens": [
+    {
+      "surface": "קצר",
+      "gloss": "قصيرُ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "الأنفِ\/النفَس"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يصنعُ"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "أَوَلْتًا"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ورجلُ"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "المَكائد"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "يُكرَه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:43.272229221Z",
+  "model": "glm-5.2"
+}

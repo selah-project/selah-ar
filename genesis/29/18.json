@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 29:18",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وأحبّ يعقوف ⟨את⟩ راحيل، فقال: أخدمك سبع سنين ⟨من أجل⟩ راحيل ابنتك الصغيرة",
+  "tokens": [
+    {
+      "surface": "ואהב",
+      "gloss": "وأحبّ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "راحيل"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحيل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אעבדך",
+      "gloss": "أخدمك"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبع"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنين"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "⟨من أجل⟩ راحيل"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "ابنتك"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "الصغيرة"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:55.620860737Z",
+  "model": "glm-5.2"
+}

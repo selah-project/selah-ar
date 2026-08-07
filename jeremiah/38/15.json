@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 38:15",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "فقال يرميا هو لصدقيا هو: «إن أُخبرك، أليس تُميتني؟ وإن أُشِرْ عليك، فلا تسمع إليّ».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرميا هو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صدقيا هو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إن"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "أُخبر"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ك"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "أليس"
+    },
+    {
+      "surface": "המת",
+      "gloss": "تُميت"
+    },
+    {
+      "surface": "תמיתני",
+      "gloss": "ني"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "أُشِرْ عليك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "تسمع"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:47:18.389402396Z",
+  "model": "glm-5.2"
+}

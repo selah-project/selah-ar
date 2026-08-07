@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 12:6",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "فخَضَعَ شَراي يِسرائِيل والمَلِك وقالوا: «صادِقٌ يهوه».",
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "فخَضَعَ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "شَراي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائِيل"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "والمَلِك"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقالوا"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صادِقٌ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:25:25.007178355Z",
+  "model": "glm-5.2"
+}

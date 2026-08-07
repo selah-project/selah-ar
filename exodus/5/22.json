@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "فرجع موشيه إلى يهوه وقال: «أدوناي، لماذا أسأت إلى هذا الشعب؟ لماذا هذا أرسلتني؟»",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "فرجع"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "أسأت"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "إلى هذا الشعب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "أرسلتني"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:48.165583343Z",
+  "model": "glm-5.2"
+}

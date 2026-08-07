@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 14:22",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "ألا يَضِلّون مُدبِّرو الشّرّ؟ وحِسِدٌ وإمِت لِمُدبِّري الخير.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ألا"
+    },
+    {
+      "surface": "יתעו",
+      "gloss": "يَضِلّون"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "مُدبِّرو"
+    },
+    {
+      "surface": "רע",
+      "gloss": "الشّرّ؟"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "وحِسِدٌ"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "وإمِت"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "لِمُدبِّري"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "الخير."
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:45.182467645Z",
+  "model": "glm-5.2"
+}

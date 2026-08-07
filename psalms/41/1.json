@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "لإمام ⟨المنشدين⟩، مَزمور لِدافيد.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لإمام"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مَزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِدافيد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:51.438656217Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 31:23",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "معروف في الأبواب بَعلها، في جلوسه مع شيوخ الأرض.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "معروف"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "في الأبواب"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "بَعلها"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "في جلوسه"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "شيوخ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:46.337790573Z",
+  "model": "glm-5.2"
+}

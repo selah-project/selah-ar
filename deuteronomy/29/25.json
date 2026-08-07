@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "«فذهبوا وعبدوا إلوهيم آخرين وسجدوا لهم، إلوهيم لم يعرفوهم ولم يُقسِم لهم»،",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "فذهبوا"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "وعبدوا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "آخرين"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "وسجدوا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "يعرفوهم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "يُقسِم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:36.115723824Z",
+  "model": "glm-5.2"
+}

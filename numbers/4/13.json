@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "ويُنظّفون ⟨את⟩ المذبح، ويبسطون عليه ثوبًا من أرگمان،",
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "ويُنظّفون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المذبح"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ويبسطون"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ثوبًا"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "من أرگمان"
+    }
+  ],
+  "timestamp": "2026-08-07T00:29:21.543185644Z",
+  "model": "glm-5.2"
+}

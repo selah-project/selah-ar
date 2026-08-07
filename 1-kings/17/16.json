@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 17:16",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "جرّة الدقيق لم تَفنَ، وقارورة الزيت لم تَنقُص، ككلام يهوه الذي تكلّم بيد ألياهو.",
+  "tokens": [
+    {
+      "surface": "כד",
+      "gloss": "جرّة"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "الدقيق"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "تَفنَ"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "وقارورة"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "الزيت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "تَنقُص"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ككلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بيد"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ألياهو"
+    }
+  ],
+  "timestamp": "2026-08-07T01:49:41.099505473Z",
+  "model": "glm-5.2"
+}

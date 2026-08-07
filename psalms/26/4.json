@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "لم أُجالس أهلَ الباطل، ومع المُتَستِّرين لا أدخل.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "جلستُ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "أهل"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "الباطل"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ومع"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "المُتَستِّرين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "أدخل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:47.492212198Z",
+  "model": "glm-5.2"
+}

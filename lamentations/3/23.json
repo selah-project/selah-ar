@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "هي جديدة صباحًا صباحًا، عظيمةٌ ⟨هي⟩ أمانتُك.",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "جديدة"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "صباحًا صباحًا"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "عظيمة"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "أمانتُك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:48:59.943936796Z",
+  "model": "glm-5.2"
+}

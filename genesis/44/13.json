@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 44:13",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "فشقّوا ثيابهم، وحمّل كلّ واحد على حماره، ورجعوا إلى المدينة.",
+  "tokens": [
+    {
+      "surface": "ויקרעו",
+      "gloss": "فشقّوا"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "ثيابهم"
+    },
+    {
+      "surface": "ויעמס",
+      "gloss": "وحمّل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كلّ واحد"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "حماره"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ورجعوا"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "إلى المدينة"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:55.081939839Z",
+  "model": "glm-5.2"
+}

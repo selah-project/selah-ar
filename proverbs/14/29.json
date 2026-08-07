@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 14:29",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "طَويلُ النَّفَسِ كثيرُ التَّبَيُّن، وقصيرُ الروَح يَرفعُ الحماقة.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "طَويل"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "النَّفَس"
+    },
+    {
+      "surface": "רב",
+      "gloss": "كثير"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "التَّبَيُّن"
+    },
+    {
+      "surface": "וקצר",
+      "gloss": "وقصير"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "الروَح"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "يَرفع"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "الحماقة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:51.769596559Z",
+  "model": "glm-5.2"
+}

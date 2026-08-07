@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "فجاء بنو يسرايل ليشبروا في وسط القادمين، لأنّ ⟨كان⟩ الجوع في أرض كنعان.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "فجاء"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ليشبروا"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "القادمين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨كان⟩"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "الجوع"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كنعان"
+    }
+  ],
+  "timestamp": "2026-08-06T23:51:42.732983957Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "لا تأكل ⟨את⟩ خبز ذي عين شرّيرة، ولا تشتهِ لق همّه الشّهيّة.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "تأكل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خبز"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبز"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شرّيرة"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عين"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "تشتهِ"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "لق همّه الشّهيّة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:37.881696077Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "والآن، يهوه إلوهَيّ، أنت ملّكتْ ⟨את⟩ عبدك مكان داود أبي، وأنا نَعَرٌ صغير لا أعرف خروجًا ودخولًا.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهَيّ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "ملّكتْ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عبدك"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدك"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "مكان"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "נער",
+      "gloss": "نَعَر"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "صغير"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "أعرف"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "خروجًا"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ودخولًا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:43:10.359650613Z",
+  "model": "glm-5.2"
+}

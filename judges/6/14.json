@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 6:14",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فالتفت يهوه إليه وقال: «اذهب بقوّتك هذه وأنقذ ⟨את⟩ يسرايل من قبضة مديان. أما أرسلتك؟»",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "فالتفت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اذهب"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "بقوّتك"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "והושעת",
+      "gloss": "وأنقذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرايل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "من قبضة"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مديان"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "أما"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "أرسلتك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:14:33.871649549Z",
+  "model": "glm-5.2"
+}

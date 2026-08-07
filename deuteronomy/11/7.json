@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "لأن أعينكم هي الرائية ⟨את⟩ كل عمل يهوه العظيم الذي فعله،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "أعينكم"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "هي الرائية"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل عمل يهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "العظيم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فعله"
+    }
+  ],
+  "timestamp": "2026-08-07T00:53:49.429312277Z",
+  "model": "glm-5.2"
+}

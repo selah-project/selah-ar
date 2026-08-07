@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "أمثال شلومو: ابنٌ حكيمٌ يُفرِح أبًا، وابنٌ كسول ⟨هو⟩ حزنُ أمِّه.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "أمثال"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حكيم"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "يُفرِح"
+    },
+    {
+      "surface": "אב",
+      "gloss": "أب"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "وابن"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "كسول"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "حزن"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "أمِّه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:23:47.669341580Z",
+  "model": "glm-5.2"
+}

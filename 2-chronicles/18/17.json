@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 18:17",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وقال ملك يسرايل ليهوشافاط: ألم أقل لك لا يتنبّأ ⟨عنّي⟩ ⟨بـ⟩خير، بل ⟩بـ⟩شرّ؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "يهوشافاط"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ألم"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "أقل"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "يتنبّأ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عنّي"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خير"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إلّا"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "لشرّ"
+    }
+  ],
+  "timestamp": "2026-08-07T05:26:57.292140966Z",
+  "model": "glm-5.2"
+}

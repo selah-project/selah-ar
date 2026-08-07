@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "اقْنِ حَكمةً اقْنِ فَهْمًا لا تنسَ ⟨و⟩لا تمُل عن أقوال فمي",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "اقْنِ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حَكمةً"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "اقْنِ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "فَهْمًا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "تنسَ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "⟨و⟩لا"
+    },
+    {
+      "surface": "תט",
+      "gloss": "تمُل"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "عن أقوال"
+    },
+    {
+      "surface": "פי",
+      "gloss": "فمي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:03.954075774Z",
+  "model": "glm-5.2"
+}

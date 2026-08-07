@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "فسَمِع داودُ في البريّة أنّ نافالَ يجُزّ ⟨את⟩ غنمه.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "فسَمِع"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داودُ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في البريّة"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "يجُزّ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نافالَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غنمه"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "غنمه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:46:34.249073342Z",
+  "model": "glm-5.2"
+}

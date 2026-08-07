@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 147,
+  "translation": "مُعِيدًا القِوى يهوه، مُخفِضًا الأشرارَ إلى الأرض",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "مُعِيدًا"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "القِوى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "مُخفِضًا"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الأشرارَ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T04:19:23.335058687Z",
+  "model": "glm-5.2"
+}

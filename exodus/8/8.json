@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 8:8",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "فخرج موشيه وأهارون من لدن فرعون، وصرخ موشيه إلى يهوه بسبب أمر الضفادع الذي جعل لفرعون.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "فخرج"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "وأهارون"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "من لدن"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "وصرخ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "بسبب"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "أمر"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "الضفادع"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "جعل"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "لفرعون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:05.307633797Z",
+  "model": "glm-5.2"
+}

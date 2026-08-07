@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 16:14",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "هو يهوه إلوهيم⟨ن⟩، في كل الأرض أحكام⟨ه⟩.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلوهيم⟨ن⟩"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كل"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "أحكام⟨ه⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:00.666714895Z",
+  "model": "glm-5.2"
+}

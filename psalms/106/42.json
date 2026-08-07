@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 106,
+  "translation": "وضغطَهم أعداؤهم، فخضَعوا تحت يدهم.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "وضغطَهم"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "أعداؤهم"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "فخضَعوا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "يدهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:32.830101975Z",
+  "model": "glm-5.2"
+}

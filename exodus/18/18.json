@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 18:18",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "«↛تَبْلُ ↛بُلولاً، أنت أيضاً وهذا الشعب أيضاً الذي معك، لأنّ الأمرَ أثقلُ منك، لا تستطيع فعله وحدك.»",
+  "tokens": [
+    {
+      "surface": "נבל",
+      "gloss": "تَبْلُ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "بُلولاً"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضاً"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضاً"
+    },
+    {
+      "surface": "העם",
+      "gloss": "وهذا الشعب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "أثقلُ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "منك"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمرَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "تستطيع"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "فعله"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "وحدك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:28.724827688Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 22:2",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "فقال: «خذ الآن ⟨את⟩ ابنك، ⟨את⟩ وحيدك الذي أحببت، ⟨את⟩ يِصحاق، واذهب لك إلى أرض همورياه، وأصعده هناك لعولاه على أحد الجبال الذي أقول لك».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "קח",
+      "gloss": "خذ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابنك"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ابنك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وحيدك"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "وحيدك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "أحببت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يِصحاق"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يِصحاق"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "وامشِ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "המריה",
+      "gloss": "همورياه"
+    },
+    {
+      "surface": "והעלהו",
+      "gloss": "وأصعده"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "لعولاه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "أحد"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "الجبال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "أقول"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "لك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:17.068289801Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 24:7",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "وقال لرجاله: معاذ يهوه أن أفعل ⟨את⟩ الأمر هذا لسيّدي، لمسيح يهوه، أن أمدّ يدي فيه، لأنه مسيح يهوه هو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "לאנשיו",
+      "gloss": "لرجاله"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "معاذ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "من يهوه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "أن"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "أفعل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأمر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الأمر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "لسيّدي"
+    },
+    {
+      "surface": "למשיח",
+      "gloss": "لمسيح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "أن أمدّ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "يدي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "مسيح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T01:29:17.002069684Z",
+  "model": "glm-5.2"
+}

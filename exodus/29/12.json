@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 29:12",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "وتأخذ من دم الثور وتجعل على قرون المذبح بإصبعك، و⟨את⟩ كل الدم تسفك إلى أساس المذبح.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "وتأخذ"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "من دم"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "الثور"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "وتجعل"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "قرون"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "באצבעך",
+      "gloss": "بإصبعك"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "كل الدم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "الدم"
+    },
+    {
+      "surface": "תשפך",
+      "gloss": "تسفك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "أساس"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    }
+  ],
+  "timestamp": "2026-08-07T00:09:45.404641951Z",
+  "model": "glm-5.2"
+}

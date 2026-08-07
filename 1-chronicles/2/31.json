@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 2:31",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وبنو أَفّايم: يِشْعِي. وبنو يِشْعِي: شِيشان. وبنو شِيشان: أَحْلاي.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "وبنو"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "أَفّايم"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "يِشْعِي"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "وبنو"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "يِشْعِي"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "شِيشان"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "وبنو"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "شِيشان"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "أَحْلاي"
+    }
+  ],
+  "timestamp": "2026-08-07T05:09:54.089701696Z",
+  "model": "glm-5.2"
+}

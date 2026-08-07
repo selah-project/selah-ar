@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 78:54",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "وأدخلهم إلى تخوم قدسه، هذا الجبل الذي اقتنته يمينه.",
+  "tokens": [
+    {
+      "surface": "ויביאם",
+      "gloss": "وأدخلهم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "تخوم"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "قدسه"
+    },
+    {
+      "surface": "הר",
+      "gloss": "الجبل"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "קנתה",
+      "gloss": "اقتنته"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "يمينه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:51.189015731Z",
+  "model": "glm-5.2"
+}

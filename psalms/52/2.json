@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 52,
+  "translation": "بمجيء دوئغ الأدوميّ ⟨فـ⟩أخبر شاؤول، ⟨فـ⟩قال له: «جاء داوود إلى بيت أخيميلك».",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "بمجيء"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "دوئغ"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "الأدوميّ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "⟨فـ⟩أخبر"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "⟨فـ⟩قال"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "בא",
+      "gloss": "جاء"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داويد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "أخيميلك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:53:56.352194510Z",
+  "model": "glm-5.2"
+}

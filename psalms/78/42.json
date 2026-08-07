@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 78,
+  "translation": "لم يذكروا ⟨את⟩ يده، يومَ فداهم من عدوٍّ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "يذكروا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يده"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يده"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يومَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "فداهم"
+    },
+    {
+      "surface": "מני",
+      "gloss": "من"
+    },
+    {
+      "surface": "צר",
+      "gloss": "عدوٍّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:45.432666431Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 127,
+  "translation": "كالسهام في يد جبّار، كذلك بنو הנעורים.",
+  "tokens": [
+    {
+      "surface": "כְּחִצִּ֥ים",
+      "gloss": "كالسهام"
+    },
+    {
+      "surface": "בְּיַד",
+      "gloss": "في يد"
+    },
+    {
+      "surface": "גִּבּ֑וֹר",
+      "gloss": "جبّار"
+    },
+    {
+      "surface": "כֵּ֝֗ן",
+      "gloss": "كذلك"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "הַנְּעוִרִֽים",
+      "gloss": "הנעורים"
+    }
+  ],
+  "timestamp": "2026-08-07T08:12:43.120560539Z",
+  "model": "glm-5.2"
+}

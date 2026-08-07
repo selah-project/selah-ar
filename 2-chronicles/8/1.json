@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "ف⟨كان⟩ ⟨في⟩ نهاية عشرين سنة التي بناها فيها شلومو ⟨את⟩ بيت يهوه و⟨את⟩ بيته،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ف⟨كان⟩"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "نهاية"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "عشرين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بناها"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بيته"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "بيته"
+    }
+  ],
+  "timestamp": "2026-08-07T05:24:41.863102049Z",
+  "model": "glm-5.2"
+}

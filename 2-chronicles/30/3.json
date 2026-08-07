@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 30:3",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "لأنهم لم يستطيعوا عمله في ذلك الوقت، لأن الكهنة لم يتقدّسوا بما يكفي، والشعب لم يُجمَع إلى يروشالايم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنهم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "يستطيعوا"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "عمله"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "في ذلك الوقت"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "⟨ذلك الوقت⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكهنة"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "يتقدّسوا"
+    },
+    {
+      "surface": "למ",
+      "gloss": "بما"
+    },
+    {
+      "surface": "די",
+      "gloss": "يكفي"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "والشعب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "يُجمَع"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "إلى يروشالايم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:30:49.896776921Z",
+  "model": "glm-5.2"
+}

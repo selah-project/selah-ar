@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 60,
+  "translation": "ويسير أممٌ ⟨في⟩ نوركِ، وملوكٌ ⟨عند⟩ بهاء شروقكِ",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "ويسير"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "أممٌ"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "⟨في⟩ نوركِ"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "وملوكٌ"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "⟨عند⟩ بهاء"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "شروقكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:24:44.269632360Z",
+  "model": "glm-5.2"
+}

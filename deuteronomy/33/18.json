@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 33:18",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "ولِزَبولون قال: افرح يا زَبولون في خروجك، ويَسّاكَر في خيامك.",
+  "tokens": [
+    {
+      "surface": "ולזבולן",
+      "gloss": "ولزَبولون"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "افرح"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "يا زَبولون"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "في خروجك"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "ويَسّاكَر"
+    },
+    {
+      "surface": "באהליך",
+      "gloss": "في خيامك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:01:24.324823289Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 86,
+  "translation": "علِّمني يا يهوه طريقك، أسلكُ في إمِتِك؛ وحِّد قلبي ليهاب اسمك.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "علِّمني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "طريقك"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "أسلكُ"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "في إمِتِك"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "وحِّد"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "قلبي"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "ليهاب"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "اسمك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:02:25.843182993Z",
+  "model": "glm-5.2"
+}

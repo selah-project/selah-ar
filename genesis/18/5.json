@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 18:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وآخذُ قطعةَ خبزٍ فأسندوا قلبكم، ثم تَعبرون، لأنْ لذلك عبرتم إلى عبدكم». فقالوا: «هكذا تفعل كما تكلّمتَ».",
+  "tokens": [
+    {
+      "surface": "ואקחה",
+      "gloss": "وآخذُ"
+    },
+    {
+      "surface": "פת",
+      "gloss": "قطعةَ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزٍ"
+    },
+    {
+      "surface": "וסעדו",
+      "gloss": "فأسندوا"
+    },
+    {
+      "surface": "לבכם",
+      "gloss": "قلبكم"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بعدُ"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "تعبرون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨من⟩ أجلِ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "عبرتم"
+    },
+    {
+      "surface": "על",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עבדכם",
+      "gloss": "عبدكم"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقالوا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تفعلُ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "تكلّمتَ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:55.032459768Z",
+  "model": "glm-5.2"
+}

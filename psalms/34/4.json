@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "كبِّروا يهوه معي، ونُرفِّعنَّ اسمه معًا",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "كبِّروا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "معي"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "ونُرفِّعنَّ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اسمه"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "معًا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:23.131609285Z",
+  "model": "glm-5.2"
+}

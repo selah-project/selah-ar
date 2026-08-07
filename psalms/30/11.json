@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "اسمع يهوه وارحمني؛ يهوه كن لي عونًا.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "اسمع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "وارحمني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كن"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "عونًا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:13.424546847Z",
+  "model": "glm-5.2"
+}

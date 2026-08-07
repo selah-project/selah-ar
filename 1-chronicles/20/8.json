@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 20:8",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "هؤلاء وُلدوا للرافا في گت، وسقطوا بيد داود وبيد عبيده.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "وُلدوا"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "للرافا"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "في گت"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "وسقطوا"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بيد"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "وبيد"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "عبيده"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:52.749531588Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "تبلّد قلبهم كالشحم، أمّا أنا فتوراتك ⟨هي⟩ نَدْوتِي.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "تبلّد"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "كالشحم"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "قلبهم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أمّا أنا"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "توراتك"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "نَدْوتِي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:25.553970368Z",
+  "model": "glm-5.2"
+}

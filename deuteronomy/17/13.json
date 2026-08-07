@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "وكل الشعب يسمعون ويخافون ولا يتغطرسون بعدُ",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "يسمعون"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ويخافون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "يتغطرسون"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعدُ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:29.410169504Z",
+  "model": "glm-5.2"
+}

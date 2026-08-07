@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 19:4",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "قبل أن يضطجعوا، طاف رجال المدينة رجال سدوم بالبيت، من الناشئ إلى الشيخ، كلّ الشعب من كلّ صوب.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "قبل"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "أن يضطجعوا"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "رجال"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدوم"
+    },
+    {
+      "surface": "נסבו",
+      "gloss": "طافوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "بـ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "البيت"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "من الناشئ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "الشيخ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "من كلّ صوب"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:16.784785026Z",
+  "model": "glm-5.2"
+}

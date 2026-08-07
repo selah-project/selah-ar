@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "عزّموا لِيهوه يا أتقياءه، واهدوا ⟨لـ⟩ ذِكر قَدَسه.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "عزّموا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "لِيهوه"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "يا أتقياءه"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "واهدوا"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "⟨لـ⟩ ذِكر"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "قَدَسه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:45.679263190Z",
+  "model": "glm-5.2"
+}

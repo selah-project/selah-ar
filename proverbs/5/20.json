@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 5:20",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "ولماذا تَتْهَ يا ابني غريبةً، وتُعانِقُ حِضنَ نَكَرِيَّة؟",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "ولماذا"
+    },
+    {
+      "surface": "תשגה",
+      "gloss": "تَتْهَ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "يا ابني"
+    },
+    {
+      "surface": "בזרה",
+      "gloss": "غريبةً"
+    },
+    {
+      "surface": "ותחבק",
+      "gloss": "وتُعانِقُ"
+    },
+    {
+      "surface": "חק",
+      "gloss": "حِضنَ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "نَكَرِيَّة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:21:54.718577387Z",
+  "model": "glm-5.2"
+}

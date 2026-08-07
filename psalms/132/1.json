@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 132,
+  "translation": "أنشودة المصاعد. اذكر يا يهوه ⟨لأجل⟩ داود ⟨את⟩ كلّ مشقّاته،",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "أنشودة"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "المصاعد"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "اذكر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "⟨لأجل⟩ داود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "مشقّاته"
+    }
+  ],
+  "timestamp": "2026-08-07T04:16:03.771562157Z",
+  "model": "glm-5.2"
+}

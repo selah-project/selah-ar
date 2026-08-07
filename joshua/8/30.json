@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 8:30",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "حينئذ بنى يهوشوع مذبحًا ليهوه إلهِ يسرائيل في جبل عيبال،",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "حينئذ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "بنى"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشوع"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبحًا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلهِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "فيجبل"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "عيبال"
+    }
+  ],
+  "timestamp": "2026-08-07T01:05:49.209000025Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 49:39",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "ويكون في آخر الأيّام أنني أَرُدُّ ⟨את⟩ سبي عيلام — نَأْم يهوه.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ويكون"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "في آخر"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "الأيّام"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "أَرُدُّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سبي عيلام"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "سبي"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عيلام"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نَأْم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:50:07.415353317Z",
+  "model": "glm-5.2"
+}

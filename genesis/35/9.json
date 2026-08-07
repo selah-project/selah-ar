@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "وتراءى إلوهيم ليعقوف أيضاً في مجيئه من فدّان أرام، وبارك ⟨את⟩ه.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "وتراءى"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "أيضاً"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "في مجيئه"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "من فدّان"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "أرام"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "وبارك"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ه",
+      "marks": "يعقوف"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:28.558160264Z",
+  "model": "glm-5.2"
+}

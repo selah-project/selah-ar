@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 14:15",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "إذ أمُرّ وحشًا ردّيًّا في الأرض وأُخليها، فتصير خرابًا بلا عابر — من وجه الوحش —",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "إذ"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "وحش"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ردّيّ"
+    },
+    {
+      "surface": "אעביר",
+      "gloss": "أمُرّ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    },
+    {
+      "surface": "ושכלתה",
+      "gloss": "وأُخليها"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "فتصير"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "خرابًا"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "بلا"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "عابر"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجه"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "الوحش"
+    }
+  ],
+  "timestamp": "2026-08-07T02:59:29.293428750Z",
+  "model": "glm-5.2"
+}

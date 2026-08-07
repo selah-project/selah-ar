@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 36:30",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "وكثّرتُ ⟨את⟩ ثمرَ الشجر وغلّةَ الحقل، حتّى لا تحملوا بعد عارَ الجوع بين الأمم.",
+  "tokens": [
+    {
+      "surface": "והרביתי",
+      "gloss": "وكثّرتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ثمرَ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ثمرَ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "الشجر"
+    },
+    {
+      "surface": "ותנובת",
+      "gloss": "وغلّةَ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "الحقل"
+    },
+    {
+      "surface": "למען",
+      "gloss": "حتّى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "تحملوا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "عارَ"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "الجوع"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "بين الأمم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:10:26.421594808Z",
+  "model": "glm-5.2"
+}

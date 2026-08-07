@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 8:17",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "و⟨كان⟩ مع قلب دافيد أبي أن يبني بيتًا لاسم يهوه إلهَ إسرايل.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "دافيد"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "أن يبني"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيتًا"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "لاسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلهَ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T01:46:29.122046789Z",
+  "model": "glm-5.2"
+}

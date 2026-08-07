@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "فنادى يهوهُ شموئيل، فقال: «هأنذا».",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "فنادى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئيل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "هأنذا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:46:12.448308565Z",
+  "model": "glm-5.2"
+}

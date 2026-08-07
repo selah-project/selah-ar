@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وأَخْطُبُكِ لي بالإيمونة، وتَعْرِفِينَ ⟨את⟩ يهوه",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "وأَخْطُبُكِ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "بالإيمونة"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "وتَعْرِفِينَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:20:22.292109574Z",
+  "model": "glm-5.2"
+}

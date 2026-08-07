@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "نصب الأشرار فخًّا لي، ومن وصاياك لم أَزِغ.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "نصب"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "الأشرار"
+    },
+    {
+      "surface": "פח",
+      "gloss": "فخًّا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "ومن وصاياك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "أَزِغ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:57.098645793Z",
+  "model": "glm-5.2"
+}

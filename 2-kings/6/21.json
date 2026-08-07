@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "وقال ملك يسرايل لأليشع عند رؤيته إيّاهم: ⟨את⟩ هل أضرب، أضرب يا أبي؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "أليشع"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "عند رؤيته"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "إيّاهم"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "هل أضرب"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "أضرب"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "يا أبي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:55:05.732129138Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "احترَزْ لنفسك لئلاّ تنسى ⟨את⟩ يهوه الذي أخرجك من أرضِ مصرايم (مصر)، من بيتِ عبيد",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "احترَزْ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لنفسك"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لئلاّ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "تنسى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "أخرجك"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "من أرضِ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "من بيتِ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "عبيد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:41.560590336Z",
+  "model": "glm-5.2"
+}

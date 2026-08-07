@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "رجلي وقفت في مستوٍّ، في المجامع أبارك يهوه",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "رجلي"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "وقفت"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "في مستوٍّ"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "في المجامع"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "أبارك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:45:40.444987280Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "من أجل عبدي يعقوف، وإسرائيل مختاري، ودعوتُك باسمك، لقّبتُك، لكنّك لم تعرفني.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "من أجل"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عبدي"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "وإسرائيل"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "مختاري"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "ودعوتُ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ك"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "باسمك"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "لقّبتُك"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "تعرفني"
+    }
+  ],
+  "timestamp": "2026-08-07T05:52:36.638600615Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 142,
+  "translation": "أُسكِبْ أمامَه همسي، ضيقي أمامه أُخبر.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "أُسكِبْ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمامَه"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "همسي"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "ضيقي"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "أمامَه"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "أُخبر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:15.136844738Z",
+  "model": "glm-5.2"
+}

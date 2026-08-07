@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 35:6",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "إن أخطأتَ، ماذا تعملُ فيه؟ وإن كثرتْ معاصيك، ماذا تصنعُ له؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "أخطأتَ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "תפעל",
+      "gloss": "تعمل"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "وكثرت"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "معاصيك"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تصنع"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-07T04:42:27.708168942Z",
+  "model": "glm-5.2"
+}

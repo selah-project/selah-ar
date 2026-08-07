@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 17:11",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "فتطوّع اللاوي للسكن مع ⟨את⟩ الرجل، فصار الفتى له كأحد بنيه.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "فتطوّع"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "اللاوي"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "للسكن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الرجل"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "فصار"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "الفتى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "كأحد"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "بنيه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:18:15.532555283Z",
+  "model": "glm-5.2"
+}

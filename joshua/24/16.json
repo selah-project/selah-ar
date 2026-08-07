@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فأجاب الشعب وقال: حاشا لنا أن نترك ⟨את⟩ يهوه لنعبد إلوهيم آخرين.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "فأجاب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "حاشا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "لنا"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "أن نترك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "لنعبد"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "آخرين"
+    }
+  ],
+  "timestamp": "2026-08-07T01:12:20.666879498Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 139,
+  "translation": "أجنحة الفجر أرفع، ⟨في⟩ أقاصي البحر أسكن —",
+  "tokens": [
+    {
+      "surface": "אֶשָּׂא",
+      "gloss": "أرفع"
+    },
+    {
+      "surface": "כַנְפֵי",
+      "gloss": "أجنحة"
+    },
+    {
+      "surface": "שָׁחַר",
+      "gloss": "الفجر"
+    },
+    {
+      "surface": "אֶשְׁכְּנָה",
+      "gloss": "أسكن"
+    },
+    {
+      "surface": "בְּאַחֲרִית",
+      "gloss": "⟨في⟩ أقاصي"
+    },
+    {
+      "surface": "יָם",
+      "gloss": "البحر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:17:55.266265441Z",
+  "model": "glm-5.2"
+}

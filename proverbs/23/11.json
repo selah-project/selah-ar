@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "لأنّ غوئيلَهم قويٌّ هو، سيُخاصم ⟨את⟩ قضيّتَهم معك.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "غوئيلَهم"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "قويٌّ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "سيُخاصم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قضيّتهم"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "قضيّتَهم"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "معك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:13.967693538Z",
+  "model": "glm-5.2"
+}

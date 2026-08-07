@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 6:11",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "ما قوّتي حتى أنتظر؟ وما نهايتي حتى أُطيل نَفسي؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "قوّتي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "أنتظر"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "وما"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "نهايتي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "أُطيل"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفسي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:15.761300067Z",
+  "model": "glm-5.2"
+}

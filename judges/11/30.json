@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 11:30",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "ونذر يِفتاح نَذراً ليهوه وقال: «إن عطاءً تعطي ⟨את⟩ بني عَمّون بيدي،»",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "ونذر"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "يِفتاح"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذراً"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "عطاءً"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "تعطي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بني عمون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عَمّون"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "بيدي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:17:10.667495539Z",
+  "model": "glm-5.2"
+}

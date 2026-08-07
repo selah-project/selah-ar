@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "و⟨את⟩ البحر وضعه من جهة الكتف اليمنى شرقًا، مقابلًا نحو الجنوب.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "البحر"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "وضعه"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "من جهة كتف"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "اليمنى"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "شرقًا"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "مقابلًا"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "نحو الجنوب"
+    }
+  ],
+  "timestamp": "2026-08-07T05:20:38.966463787Z",
+  "model": "glm-5.2"
+}

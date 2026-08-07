@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "فقال لهم يعقوف: «إخوتي، من أين أنتم؟» فقالوا: «من حاران نحن.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "إخوتي"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "من أين"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "فقالوا"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "من حاران"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "نحن"
+    }
+  ],
+  "timestamp": "2026-08-06T23:44:52.468641870Z",
+  "model": "glm-5.2"
+}

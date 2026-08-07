@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "وتصل ⟨את⟩ خمس الستائر وحدها، و⟨את⟩ ستّ الستائر وحدها، وتضعف ⟨את⟩ الستارة السادسة تجاه وجه الخيمة.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "وتصل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خمس"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "خمس"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "الستائر"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "وحدها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "ستّ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ستّ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "الستائر"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "وحدها"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "وتضعف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الستارة"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "الستارة"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "السادسة"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "מול",
+      "gloss": "تجاه"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "الخيمة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:09:12.709336773Z",
+  "model": "glm-5.2"
+}

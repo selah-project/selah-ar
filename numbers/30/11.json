@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 30:11",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وإذا في بيت زوجها نذرت أو ربطت قيدًا على نفسها بقسم،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإذا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "زوجها"
+    },
+    {
+      "surface": "נדרה",
+      "gloss": "نذرت"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ربطت"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "قيدًا"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "نفسها"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "بقسم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:43:31.218839764Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 30:31",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "زَرزيرُ حَقوَين، أو تَيس، ومَلِكٌ لا قِيامَةَ ضِدَّه.",
+  "tokens": [
+    {
+      "surface": "זרזיר",
+      "gloss": "زرزير"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "حقوين"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "תיש",
+      "gloss": "تيس"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ومَلِك"
+    },
+    {
+      "surface": "אלקום",
+      "gloss": "لا قِيامَةَ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ضده"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:36.630607851Z",
+  "model": "glm-5.2"
+}

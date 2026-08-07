@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 27:40",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وبسيفك تحيا، و⟨את⟩ أخاك تستعبد. ويكون حينما تتسلّط أنك تنزع نيره عن عنقك.»",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "سيفك"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "تحيا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "أخاك"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "أخاك"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "تستعبد"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ويكون"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "حينما"
+    },
+    {
+      "surface": "תריד",
+      "gloss": "تتسلّط"
+    },
+    {
+      "surface": "ופרקת",
+      "gloss": "أنك تنزع"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "نيره"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "عن"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "عنقك"
+    }
+  ],
+  "timestamp": "2026-08-06T23:45:28.820674070Z",
+  "model": "glm-5.2"
+}

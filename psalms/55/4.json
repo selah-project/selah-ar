@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 55,
+  "translation": "من صوت العدوّ، من وجه ضيق الراشِع. لأنهم يُسقِطون عليّ آوَن، وبرغم يَشتَمونني.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "من صوت"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "العدوّ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجه"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "ضيق"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "الراشِع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنهم"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "يُسقِطون"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عليّ"
+    },
+    {
+      "surface": "און",
+      "gloss": "آوَن"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "وبرغم"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "يَشتَمونني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:15.497409939Z",
+  "model": "glm-5.2"
+}

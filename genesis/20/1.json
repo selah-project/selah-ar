@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "وِرحل من هناك أفراهام نحوَ أرضِ النَّجَب، وَنزل بين قادِيش وبين شور، وَتغرّب في جرار.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "وَرحل"
+    },
+    {
+      "surface": "משם",
+      "gloss": "من هناك"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "نحوَ أرضِ"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "النَّجَب"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "وَنزل"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بين"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادِيش"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "שור",
+      "gloss": "شور"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "وَتغرّب"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "في جرار"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:58.765231393Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "فقالَ: «ننطلقْ ونمضِ، وأمضي أمامَكَ.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقالَ"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "ننطلقْ"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "ونمضِ"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "وأمضي"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "أمامَكَ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:33.490954026Z",
+  "model": "glm-5.2"
+}

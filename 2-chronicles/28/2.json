@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 28:2",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "وسارَ في طُرُق ملوك يِسرايل، وصنَع أيضًا تماثيلَ مَسبوكةً للبَعلِيم.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "وسار"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "في طرق"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ملوك"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرايل"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "מסכות",
+      "gloss": "تماثيل مَسبوكة"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنع"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "للبعلِيم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:29:27.900073446Z",
+  "model": "glm-5.2"
+}

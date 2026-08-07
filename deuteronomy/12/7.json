@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 12:7",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وتأكلون هناك أمام يهوه إلوهيمكم، وتفرحون بكل مَبْعَث أيديكم، أنتم وبيوتكم، الذي باركك يهوه إلوهيك.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "وتأكلون"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلوهيمكم"
+    },
+    {
+      "surface": "ושמחתם",
+      "gloss": "وتفرحون"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بكل"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "مَبْعَث"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "أيديكم"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "ובתיכם",
+      "gloss": "وبيوتكم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "باركك"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:55:22.622576962Z",
+  "model": "glm-5.2"
+}

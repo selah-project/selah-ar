@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "تجعلنا مَثَلاً في الأمم، وهزّ رأسٍ في الشعوب.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "تجعلنا"
+    },
+    {
+      "surface": "משל",
+      "gloss": "مَثَلاً"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "في الأمم"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "وهزّ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأسٍ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "في"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "الشعوب"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:26.673058537Z",
+  "model": "glm-5.2"
+}

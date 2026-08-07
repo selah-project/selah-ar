@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 62,
+  "translation": "مرّةً تكلّم إلوهيم، ومرّتين سمعتُ هذا: أنّ العِزّةَ لإلوهيم.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "مرّةً"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلّم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "مرّتين"
+    },
+    {
+      "surface": "זו",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "سمعتُ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "العِزّة"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "لإلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:33.320904977Z",
+  "model": "glm-5.2"
+}

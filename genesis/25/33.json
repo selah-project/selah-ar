@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 25:33",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "فقال يعقوف: «احلف لي كاليوم». فحلف له، وباع ⟨את⟩ بكوريته ليعقوف.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "احلف"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "كاليوم"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "فحلف"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "وباع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بكوريته"
+    },
+    {
+      "surface": "בכרתו",
+      "gloss": "بكوريته"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ليعقوف"
+    }
+  ],
+  "timestamp": "2026-08-06T23:42:29.571110655Z",
+  "model": "glm-5.2"
+}

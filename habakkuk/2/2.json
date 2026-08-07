@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 2:2",
+  "book": "habakkuk",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فأجابني يهوه وقال: اكتب الرؤية ووضّحها على الألواح لكي يركض قارئُها.",
+  "tokens": [
+    {
+      "surface": "ויענני",
+      "gloss": "فأجابني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "اكتب"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "الرؤية"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "ووضّحها"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הלחות",
+      "gloss": "الألواح"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "يركض"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "قارئُ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيها"
+    }
+  ],
+  "timestamp": "2026-08-07T03:32:18.978600570Z",
+  "model": "glm-5.2"
+}

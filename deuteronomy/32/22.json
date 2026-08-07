@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 32:22",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "لأنّ نارًا اشتعلت في أنفي، فأضرمت حتى شيول التّحتية، فالتهمت الأرض وغلّاتها، وأحرقت أسس الجبال.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نارًا"
+    },
+    {
+      "surface": "קדחה",
+      "gloss": "اشتعلت"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "في أنفي"
+    },
+    {
+      "surface": "ותיקד",
+      "gloss": "فأضرمت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شيول"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "التّحتية"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "فالتهمت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ויבלה",
+      "gloss": "وغلّاتها"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "وأحرقت"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "أسس"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "الجبال"
+    }
+  ],
+  "timestamp": "2026-08-07T05:43:04.612988135Z",
+  "model": "glm-5.2"
+}

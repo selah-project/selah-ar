@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 7:3",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "أيضًا من طير السماء سبعةً سبعةً، ذكرًا وأنثى، لإحياء نسلٍ على وجه كلّ الأرض.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "من طير"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "السماء"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سبعةً"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سبعةً"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ذكرًا"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "وأنثى"
+    },
+    {
+      "surface": "לחיות",
+      "gloss": "لإحياء"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نسلٍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:42.080895178Z",
+  "model": "glm-5.2"
+}

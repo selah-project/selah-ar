@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "يا ابني، إن ضَمِنت ⟨صاحبك⟩، إن صفّقت كفّيك للغريب،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "يا ابني"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "ضَمِنت"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "لصاحبك"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "صفّقت"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "للغريب"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "كفّيك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:27.901856761Z",
+  "model": "glm-5.2"
+}

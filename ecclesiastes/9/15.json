@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "ووُجِدَ فيها رجلٌ مسكين حكيم، فهو أنقذ ⟨את⟩ المدينة بحكمته. وإنسانٌ لم يَذكُر ⟨את⟩ الرجلَ المسكينَ ذاك.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "ووُجِدَ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "مسكين"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حكيم"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "وأنقذ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المدينة"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "المدينة"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "بحكمته"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "وإنسان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "يَذكُر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الرجل"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "المسكين"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذاك"
+    }
+  ],
+  "timestamp": "2026-08-07T08:20:29.021766966Z",
+  "model": "glm-5.2"
+}

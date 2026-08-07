@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 14:17",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "الذي جعل المسكونة كالمَدبَر وهدّم مدنَها، أسراه لم يفتح ⟨لهم⟩ بيتًا",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "جعل"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "المسكونة"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "كالمَدبَر"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "ومدنَه"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "هدّم"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "أسراه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "فتح"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "بيتًا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:07:34.114269617Z",
+  "model": "glm-5.2"
+}

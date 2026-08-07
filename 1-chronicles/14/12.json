@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وتركوا هناك ⟨את⟩ آلهتهم، فأمر داود فأُحرقوا بالنار.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "وتركوا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آلهتهم"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "آلهتهم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فأمر"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "فأُحرقوا"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بالنار"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:23.278202403Z",
+  "model": "glm-5.2"
+}

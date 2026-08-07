@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "ولم تُسَلِّمني في يد العدوّ، أوقفتَ ⟨في⟩ مكانٍ رحب قدمَيَّ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولم"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "تُسَلِّمني"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "في يد"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "العدوّ"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "أوقفتَ"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "⟨في⟩ مكانٍ رحب"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "قدمَيَّ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:32.930147821Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "وعاد إلى إخوته وقال: «الولد ليس موجودًا وأنا إلى أين أنا ذاهب؟»",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "وعاد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "إخوته"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "الولد"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ليس موجودًا"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "وأنا"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "إلى أين"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ذاهب"
+    }
+  ],
+  "timestamp": "2026-08-06T23:50:55.980338775Z",
+  "model": "glm-5.2"
+}

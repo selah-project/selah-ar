@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "لأنك صخرتي وحصني ⟨هو⟩ أنت، ومن أجل اسمك ترشدني وتَهديني",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنك"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "صخرتي"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "وحصني"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ومن أجل"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "اسمك"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ترشدني"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "تَهديني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:54.821793461Z",
+  "model": "glm-5.2"
+}

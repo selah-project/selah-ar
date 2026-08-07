@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 26:10",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 26,
+  "translation": "فقال أَڤيميلك: «ما هذا الذي فعلتَ بنا؟ كاد أحدُ الشعب يضاجع ⟨את⟩ امرأتك، فأدخلتَ علينا إثمًا!»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "أَڤيميلك"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "فعلتَ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بنا"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "كاد"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "يضاجع"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "أحدُ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "امرأتك"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "امرأتك"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "فأدخلتَ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "علينا"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "إثمًا"
+    }
+  ],
+  "timestamp": "2026-08-06T23:43:24.303487113Z",
+  "model": "glm-5.2"
+}

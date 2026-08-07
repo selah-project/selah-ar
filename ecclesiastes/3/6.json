@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وقتٌ لطلب، ووقتٌ لإعدام؛ وقتٌ لحفظ، ووقتٌ لرمي.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وقتٌ"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "لطلب"
+    },
+    {
+      "surface": "ו־עת",
+      "gloss": "ووقتٌ"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "لإعدام"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقتٌ"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "لحفظ"
+    },
+    {
+      "surface": "ו־עת",
+      "gloss": "ووقتٌ"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "لرمي"
+    }
+  ],
+  "timestamp": "2026-08-07T06:09:57.693531221Z",
+  "model": "glm-5.2"
+}

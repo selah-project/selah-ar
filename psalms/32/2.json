@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "طُوبى للإنسان الّذي لا يَحسُب له يهوه إثمًا، ولا ⟨يوجد⟩ في روَحه غشّ",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "طُوبى"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "للإنسان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "يَحسُب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "له يهوه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨له⟩"
+    },
+    {
+      "surface": "עון",
+      "gloss": "إثمًا"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا ⟨يوجد⟩"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "في روَحه"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "غشّ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:47:48.095488157Z",
+  "model": "glm-5.2"
+}

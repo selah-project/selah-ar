@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "بن حَشَبْياه بن أمَصْياه بن حِلْقِياه.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "حَشَبْياه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "أمَصْياه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "حِلْقِياه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:11:36.042071059Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "و⟨إذا كانت⟩ ابنةُ رجلٍ كوهين تتدنّس بالزِّنا، ⟨فإنّ⟩ ⟨את⟩ أبيها هي تدنّس — بالنار تُحرق.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "وابنة"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "كوهين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "تتدنّس"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "بالزِّنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أبيها"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "أبيها"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "تدنّس"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بالنار"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "تُحرق"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:51.356071554Z",
+  "model": "glm-5.2"
+}

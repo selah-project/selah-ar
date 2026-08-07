@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 20:23",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "ولا تسلكوا في فرائض الأمم التي أنا طاردٌ من أمامكم، لأنهم فعلوا ⟨את⟩ كلَّ هذه فكرهتهم.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "تسلكوا"
+    },
+    {
+      "surface": "בחקת",
+      "gloss": "في فرائض"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "طارد"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "من أمامكم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنهم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "فعلوا"
+    },
+    {
+      "surface": "ואקץ",
+      "gloss": "فكرهتهم"
+    },
+    {
+      "surface": "בם",
+      "gloss": "فيهم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:25:36.282849089Z",
+  "model": "glm-5.2"
+}

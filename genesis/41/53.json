@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "genesis 41:53",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "فاكتملت سبع سنوات ⟨الشبع⟩ التي كانت في أرض مصرايم.",
+  "tokens": [
+    {
+      "surface": "ותכלינה",
+      "gloss": "فاكتملت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبع"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سنوات"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "الشبع"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كانت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:52:28.827615337Z",
+  "model": "glm-5.2"
+}

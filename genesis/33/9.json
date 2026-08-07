@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "فقالَ عيسو: «لي كثيرٌ يا أخي. ليكنْ لكَ ما لكَ.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقالَ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عيسو"
+    },
+    {
+      "surface": "יש",
+      "gloss": "يوجد"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "רב",
+      "gloss": "كثيرٌ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "يا أخي"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ليكنْ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكَ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لكَ"
+    }
+  ],
+  "timestamp": "2026-08-06T23:46:33.490504297Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "ووقع يوسف على وجه أبيه وبكى عليه وقبّله.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ووقع"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوسف"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أبيه"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "وبكى"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "وقبّل"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    }
+  ],
+  "timestamp": "2026-08-06T23:59:29.699264660Z",
+  "model": "glm-5.2"
+}

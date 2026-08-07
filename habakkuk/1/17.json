@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "habakkuk 1:17",
+  "book": "habakkuk",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "هل ⟨على⟩ ⟨ذلك⟩ يُفرِغ شَبكَتَهُ، ودائمًا يَقتُلُ الأممَ ⟨لا⟩ يَشفِق؟",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "هل"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨على ذلك⟩"
+    },
+    {
+      "surface": "יריק",
+      "gloss": "يُفرِغ"
+    },
+    {
+      "surface": "חרמו",
+      "gloss": "شَبكَتَهُ"
+    },
+    {
+      "surface": "ותמיד",
+      "gloss": "ودائمًا"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "يَقتُلُ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "الأممَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨لا⟩"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "يَشفِق"
+    }
+  ],
+  "timestamp": "2026-08-07T03:32:03.650681004Z",
+  "model": "glm-5.2"
+}

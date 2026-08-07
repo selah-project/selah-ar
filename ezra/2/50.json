@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezra 2:50",
+  "book": "ezra",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "بَنو أَسْنَه، بَنو مَعونيم، بَنو نَفيسيم",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بَنو"
+    },
+    {
+      "surface": "אסנה",
+      "gloss": "أَسْنَه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنو"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "مَعونيم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنو"
+    },
+    {
+      "surface": "נפיסים",
+      "gloss": "نَفيسيم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:01:21.288571207Z",
+  "model": "glm-5.2"
+}

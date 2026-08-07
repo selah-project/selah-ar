@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 21:5",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فقلتُ: آهٍ أدوناي يهوه! هم قائلون لي: أليس ⟨هو⟩ صانعَ أمثال؟",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "فقلتُ"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "آهٍ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "أدوناي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "قائلون"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "أليس"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "صانعَ أمثال"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "أمثال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    }
+  ],
+  "timestamp": "2026-08-07T03:02:18.940823549Z",
+  "model": "glm-5.2"
+}

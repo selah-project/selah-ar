@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 9:13",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "و⟨את⟩ العولاه قرّبوه إليه إلى قطعها و⟨את⟩ الرأس، وأوقد ⟨عليها⟩ على المذبح.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "العولاه"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "العولاه"
+    },
+    {
+      "surface": "המציאו",
+      "gloss": "قرّبوه"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "إلى قطعها"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الرأس"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "الرأس"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "وأوقد"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:49.441648473Z",
+  "model": "glm-5.2"
+}

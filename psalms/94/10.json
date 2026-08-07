@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 94,
+  "translation": "⟨أ⟩مؤدّب الأمم، هل لا يحاجّ؟ معلّم الإنسان معرفة، ⟨ألا يعلم؟⟩",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "مؤدّب"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "الأمم"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "هل لا"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "يحاجّ"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "معلّم"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "معرفة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:08.121947674Z",
+  "model": "glm-5.2"
+}

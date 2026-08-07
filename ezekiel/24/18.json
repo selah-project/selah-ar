@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 24:18",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فكلّمتُ الشعب في الصباح، وماتت زوجتي في المساء، ففعلتُ في الصباح كما أُمرتُ.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "فكلّمتُ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "في الصباح"
+    },
+    {
+      "surface": "ותמת",
+      "gloss": "وماتت"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "زوجتي"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "في المساء"
+    },
+    {
+      "surface": "ואעש",
+      "gloss": "ففعلتُ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "في الصباح"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "أُمرتُ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:04:46.407903898Z",
+  "model": "glm-5.2"
+}

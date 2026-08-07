@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 1:9",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "نجاستُها في أذيالها لم تذكر ⟨أخيرتها⟩ فنزلت ⟨أمرًا⟩ عجيبًا، ليس من يُعزّيها. انظرْ يا يهوه ⟨את⟩ بؤسي لأن العدوّ قد عظُم.",
+  "tokens": [
+    {
+      "surface": "טמאתה",
+      "gloss": "نجاستها"
+    },
+    {
+      "surface": "בשוליה",
+      "gloss": "في أذيالها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "تذكر"
+    },
+    {
+      "surface": "אחריתה",
+      "gloss": "⟨أخيرتها⟩"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "فنزلت"
+    },
+    {
+      "surface": "פלאים",
+      "gloss": "⟨أمرًا⟩ عجيبًا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "من يُعزّيها"
+    },
+    {
+      "surface": "לה",
+      "gloss": ""
+    },
+    {
+      "surface": "ראה",
+      "gloss": "انظرْ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يا يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بؤسي"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "بؤسي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "قد عظُم"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "العدوّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:49:31.841129666Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 38:4",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "وصنع للمذبح شبكة عمل شباك نحاس، تحت حافّته من الأسفل إلى نصفه.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وصنع"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "للمذبح"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "شبكة"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "شباك"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "نحاس"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "כרכבו",
+      "gloss": "حافّته"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "من الأسفل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "نصفه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:14:11.348675954Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 9:13",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فقطع يهوه من يسرائيل رأسًا وذنبًا، سعفة النخل و⟨القصبة⟩، في يوم واحد.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "فقطع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "من يسرائيل"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأسًا"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "وذنبًا"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "سعفة النخل"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "و⟨القصبة⟩"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    }
+  ],
+  "timestamp": "2026-08-07T05:52:21.257206819Z",
+  "model": "glm-5.2"
+}

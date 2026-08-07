@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "تمنّيات قلبه أعطيتها له، وطلبة شفتيه لم تمنع. سلاه",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "تمنّيات"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "قلبه"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "أعطيتها"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "وطلبة"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "شفتيه"
+    },
+    {
+      "surface": "בל",
+      "gloss": "لم"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "تمنع"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:45.012908858Z",
+  "model": "glm-5.2"
+}

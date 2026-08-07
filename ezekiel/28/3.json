@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 28:3",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "ها أنتَ أحكمُ من دانيئيل، كلُّ سَتّومٍ لم يُظلِّلكَ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "أحكمُ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "מדנאל",
+      "gloss": "من دانيئيل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "סתום",
+      "gloss": "سَتّومٍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "עממוך",
+      "gloss": "يُظلِّلكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:07:31.333435506Z",
+  "model": "glm-5.2"
+}

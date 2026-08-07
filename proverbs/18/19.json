@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 18:19",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "أخٌ مُعتدًى عليه أعزُّ من مدينةٍ حصينةٍ، والخصوماتُ كمزلاجِ القلعةِ.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "أخ"
+    },
+    {
+      "surface": "נפשע",
+      "gloss": "مُعتدًى عليه"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "من مدينة"
+    },
+    {
+      "surface": "עז",
+      "gloss": "حصينة"
+    },
+    {
+      "surface": "ומדונים",
+      "gloss": "والخصومات"
+    },
+    {
+      "surface": "כבריח",
+      "gloss": "كمزلاج"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "القلعة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:01.167614328Z",
+  "model": "glm-5.2"
+}

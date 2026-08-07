@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وحزائيل ملك أرام ضايق ⟨את⟩ يسرائيل كلَّ أيام يهوآحاز.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "وحزائيل"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "أرام"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ضايق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يسرائيل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "يهوآحاز"
+    }
+  ],
+  "timestamp": "2026-08-07T05:50:18.753912473Z",
+  "model": "glm-5.2"
+}

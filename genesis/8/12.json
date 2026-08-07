@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "فانتظر أيضًا سبعة أيام أُخر، وأرسل الحمامة، فلم تَعُد تزيد أن ترجع إليه بعدُ.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "فانتظر"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سبعة"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "أُخر"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "وأرسل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الحمامة"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "الحمامة"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "تَعُد تزيد"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "أن ترجع"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعدُ"
+    }
+  ],
+  "timestamp": "2026-08-07T05:34:15.015691925Z",
+  "model": "glm-5.2"
+}

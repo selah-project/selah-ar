@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 11:3",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "كَمالُ المُستَقيمينَ يَهديهِم، وَاعوِجاجُ الغادِرينَ ⟨يُهلِكُهُم⟩.",
+  "tokens": [
+    {
+      "surface": "תמת",
+      "gloss": "كمال"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "المستقيمين"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "يهديهم"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "واعوجاج"
+    },
+    {
+      "surface": "בוגדים",
+      "gloss": "الغادرين"
+    },
+    {
+      "surface": "ושדם",
+      "gloss": "ويهلكهم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:00.705623306Z",
+  "model": "glm-5.2"
+}

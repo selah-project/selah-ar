@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 20:8",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "وصنعتَ حِسِدًا إلى عبدك، لأن في بريت يهوه أدخلتَ ⟨את⟩ عبدك معك. وإن كان فيّ إثم فاقتلني أنت، وإلى أبيك فلماذا هذا تدخلني؟",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "وصنعتَ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حِسِدًا"
+    },
+    {
+      "surface": "על",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "في بريت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "أدخلتَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عبدك"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدك"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "معك"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "ייש",
+      "gloss": "كان"
+    },
+    {
+      "surface": "בי",
+      "gloss": "فيّ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "إثم"
+    },
+    {
+      "surface": "המיתני",
+      "gloss": "فاقتلني"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أبيك"
+    },
+    {
+      "surface": "למה",
+      "gloss": "لماذا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "תביאני",
+      "gloss": "تدخلني"
+    }
+  ],
+  "timestamp": "2026-08-07T01:27:52.234044689Z",
+  "model": "glm-5.2"
+}

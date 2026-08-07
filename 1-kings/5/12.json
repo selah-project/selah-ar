@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وتكلَّم ثلاثة آلاف مَثَل، وكانت أغانيه خمسةً وَألفًا.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وتكلَّم"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ثلاثة"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "آلاف"
+    },
+    {
+      "surface": "משל",
+      "gloss": "مَثَل"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وكانت"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "أغانيه"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "خمسة"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "وألف"
+    }
+  ],
+  "timestamp": "2026-08-07T01:44:39.832936843Z",
+  "model": "glm-5.2"
+}

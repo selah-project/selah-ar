@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 27:4",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "غضبٌ — ليس لي. مَن يُعطيني شائكًا وحسكًا في القتال؟ أَقتحمنَّه، أُشعلنَّه معًا.",
+  "tokens": [
+    {
+      "surface": "חמה",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "يُعطيني"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "شائك"
+    },
+    {
+      "surface": "שית",
+      "gloss": "وحسك"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "في القتال"
+    },
+    {
+      "surface": "אפשעה",
+      "gloss": "أَقتحمنَّ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "אציתנה",
+      "gloss": "أُشعلنَّه"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "معًا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:12:12.676163171Z",
+  "model": "glm-5.2"
+}

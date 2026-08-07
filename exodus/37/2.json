@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 37,
+  "translation": "وغشّاه ذهبًا طاهرًا من داخل ومن خارج، وصنع له إكليلًا من ذهب حوله.",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "وغشّاه"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ذهبًا"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "طاهرًا"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "من داخل"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "ومن خارج"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "وصنع"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "זר",
+      "gloss": "إكليلًا"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "من ذهب"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "حوله"
+    }
+  ],
+  "timestamp": "2026-08-07T00:14:33.210216869Z",
+  "model": "glm-5.2"
+}

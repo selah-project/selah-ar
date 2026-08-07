@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "لا تتبجّح بيوم غد، لأنك لا تعرف ماذا يلِد يومٌ",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "تتبجّح"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "بيوم"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "غد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "تعرف"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "يلِد"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يومٌ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:29:37.348588261Z",
+  "model": "glm-5.2"
+}

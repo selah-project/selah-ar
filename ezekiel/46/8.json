@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 46:8",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 46,
+  "translation": "وعِند دخول الرئيس: بطريق رواق الباب يَدخُل، ومن طريقه يَخرُج.",
+  "tokens": [
+    {
+      "surface": "ובבוא",
+      "gloss": "وعِند دخول"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "الرئيس"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "بطريق"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "رواق"
+    },
+    {
+      "surface": "השער",
+      "gloss": "الباب"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "يَدخُل"
+    },
+    {
+      "surface": "ובדרכו",
+      "gloss": "ومن طريقه"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "يَخرُج"
+    }
+  ],
+  "timestamp": "2026-08-07T03:16:50.197833754Z",
+  "model": "glm-5.2"
+}

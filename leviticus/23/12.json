@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "وتصنعون يوم ترجيجكم ⟨את⟩ العُمر خروفًا تامًّا ابن سنته عولاه ليهوه.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "وتصنعون"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "ترجيجكم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "العُمر"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "العُمر"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "خروفًا"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "تامًّا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "سنته"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "عولاه"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:24:43.796353586Z",
+  "model": "glm-5.2"
+}

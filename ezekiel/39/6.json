@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 39:6",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 39,
+  "translation": "وأُرسل نارًا في ماجوج وفي ساكني الجزائر طمأنينة، فيعرفون أنّي أنا يهوه.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "وأُرسل"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نارًا"
+    },
+    {
+      "surface": "במגוג",
+      "gloss": "في ماجوج"
+    },
+    {
+      "surface": "ובישבי",
+      "gloss": "وفي ساكني"
+    },
+    {
+      "surface": "האיים",
+      "gloss": "الجزائر"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "طمأنينة"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "فيعرفون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T06:00:14.554578745Z",
+  "model": "glm-5.2"
+}

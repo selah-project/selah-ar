@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 22:19",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "يقتسمون ثيابي بينهم، وعلى لباسي يُلقون القرعة.",
+  "tokens": [
+    {
+      "surface": "יחלקו",
+      "gloss": "يقتسمون"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ثيابي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بينهم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعلى"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "لباسي"
+    },
+    {
+      "surface": "יפילו",
+      "gloss": "يُلقون"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "القرعة"
+    }
+  ],
+  "timestamp": "2026-08-07T03:45:02.593479507Z",
+  "model": "glm-5.2"
+}

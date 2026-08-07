@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "رجلُ حاجةٍ يحبُّ الفرحَ، محبُّ الخمرِ والزيتِ لا يستغني.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "حاجة"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "يحب"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "فرح"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "محب"
+    },
+    {
+      "surface": "יין",
+      "gloss": "خمر"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "وزيت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "يستغني"
+    }
+  ],
+  "timestamp": "2026-08-07T04:27:56.299215927Z",
+  "model": "glm-5.2"
+}

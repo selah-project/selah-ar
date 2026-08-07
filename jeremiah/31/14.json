@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 31:14",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "وأُروي نَفْس الكهنة دسَنًا، وشعبي ⟨بـ⟩⟨את⟩ طيبي يشبعون، نُعُم يهوه.",
+  "tokens": [
+    {
+      "surface": "ורויתי",
+      "gloss": "وأُروي"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفْس"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "الكهنة"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "دسَنًا"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "وشعبي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "طيبي"
+    },
+    {
+      "surface": "טובי",
+      "gloss": "طيبي"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "يشبعون"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نُعُم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:43:08.872070444Z",
+  "model": "glm-5.2"
+}

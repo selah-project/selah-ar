@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "طيّبُ رؤيةُ العينين من تَهْلوكِ النَّفْس؛ وهذا أيضًا هَواءٌ ورِعْيُ روَحٍ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "طيّبُ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "رؤيةُ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "العينين"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "من تَهْلوكِ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "النَّفْس"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "وهذا"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هَواءٌ"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ورِعْيُ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روَحٍ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:28.369625684Z",
+  "model": "glm-5.2"
+}

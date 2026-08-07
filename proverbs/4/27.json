@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "لا تَمِل يمينًا وشمالاً، أَبعِدْ قدمك عن الشرّ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תט",
+      "gloss": "تَمِل"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "يمينًا"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "وشمالاً"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "أَبعِدْ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "قدمك"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "عن الشرّ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:21:49.377668240Z",
+  "model": "glm-5.2"
+}

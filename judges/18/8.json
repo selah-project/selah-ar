@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 18:8",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وأتى إخوتهم إلى صُرعة وأشتاؤول، وقال لهم إخوتهم: «ما أنتم؟»",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "وأتى"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "إخوتهم"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "صُرعة"
+    },
+    {
+      "surface": "ואשתאל",
+      "gloss": "وأشتاؤول"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "إخوتهم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:18:43.111692287Z",
+  "model": "glm-5.2"
+}

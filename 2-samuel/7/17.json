@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 7:17",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "حسب كلِّ هذه الكلمات وحسب كلِّ هذه الرؤيا، هكذا تكلَّم ناتان مع داوِد.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "حسب كلِّ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "الكلمات"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "وحسب كلِّ"
+    },
+    {
+      "surface": "החזיון",
+      "gloss": "الرؤيا"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "تكلَّم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مع"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:10.037578041Z",
+  "model": "glm-5.2"
+}

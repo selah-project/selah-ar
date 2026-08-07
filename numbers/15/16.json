@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "توراةٌ واحدة وحكمٌ واحد يكون لكم وللغريب النازل عندكم.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "توراةٌ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "واحدة"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "وحكمٌ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "وللغريب"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "النازل"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "عندكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:36:09.002307953Z",
+  "model": "glm-5.2"
+}

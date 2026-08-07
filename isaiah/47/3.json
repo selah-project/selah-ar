@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 47,
+  "translation": "يُكشف عورتك، بل تُرى عارك! أنتقم أنا، ولا أواجه أحدًا!",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "يُكشف"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "عورتك"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بل"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "تُرى"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "عارك"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "انتقم"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "آخذ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "أواجه"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "أحدًا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:20:39.748502723Z",
+  "model": "glm-5.2"
+}

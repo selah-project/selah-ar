@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 87,
+  "translation": "مُخبَراتٌ مَجيدةٌ يُتحدَّثُ ⟨بها⟩ عنكِ، يا مدينةَ إلوهيم. سيلاه.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "مجيدة"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "يُتحدَّث"
+    },
+    {
+      "surface": "בך",
+      "gloss": "عنكِ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "يا مدينة"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سيلاه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:03:01.527078206Z",
+  "model": "glm-5.2"
+}

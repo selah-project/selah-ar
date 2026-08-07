@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 4:22",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "فإنّها حياةٌ لِمُلتَمِسيها، ولكلِّ بَدَنِهِ شِفاءٌ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "فإنّها"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حياةٌ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هُم"
+    },
+    {
+      "surface": "למצאיהם",
+      "gloss": "لِمُلتَمِسيها"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ولكلِّ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "بَدَنِهِ"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "شِفاءٌ"
+    }
+  ],
+  "timestamp": "2026-08-07T06:08:11.916868224Z",
+  "model": "glm-5.2"
+}

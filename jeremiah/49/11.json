@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 49:11",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 49,
+  "translation": "اترك يتاماك، أنا أُحييهم، وأراملك عليّ يتوكّلون.",
+  "tokens": [
+    {
+      "surface": "עזבה",
+      "gloss": "اترك"
+    },
+    {
+      "surface": "יתמיך",
+      "gloss": "يتاماك"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "أُحيي"
+    },
+    {
+      "surface": "ואלמנתיך",
+      "gloss": "وأراملك"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عليّ"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "يتوكّلون"
+    }
+  ],
+  "timestamp": "2026-08-07T05:55:22.909093597Z",
+  "model": "glm-5.2"
+}

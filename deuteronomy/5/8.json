@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "لا تصنع لك منحوتًا، كلّ صورة، التي في السماوات من فوق، والتي في الأرض من تحت، والتي في المياه من تحت للأرض:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تصنع"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "منحوتًا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "صورة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "في السماوات"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "من فوق"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "والتي"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في الأرض"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "من تحت"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "والتي"
+    },
+    {
+      "surface": "במים",
+      "gloss": "في المياه"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "من تحت"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "للأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T00:51:56.736398790Z",
+  "model": "glm-5.2"
+}

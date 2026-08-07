@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 7:8",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "فصنع شلومو ⟨את⟩ العيدِ في ذلك الوقت سبعةَ أيام، وكل إسرائيل معه، محفلًا عظيمًا جدًّا، من مدخل حَماةَ إلى وادي مصرايم.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "فصنع"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "العيد"
+    },
+    {
+      "surface": "החג",
+      "gloss": "العيد"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "في"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ذلك الوقت"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سبعة"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيام"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "محفل"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظيم"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "جدًّا"
+    },
+    {
+      "surface": "מלבוא",
+      "gloss": "من مدخل"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حماة"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "وادي"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:24:43.260944319Z",
+  "model": "glm-5.2"
+}

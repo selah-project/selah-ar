@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "شفاءُ اللسان شجرةُ حياة، ⟨و⟩اعوجاجُه فيها كسرٌ في الروَح.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "شفاءُ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "اللسان"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "شجرةُ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حياة"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "واعوجاجُ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "كسرٌ"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "في الروَح"
+    }
+  ],
+  "timestamp": "2026-08-07T04:26:09.442881951Z",
+  "model": "glm-5.2"
+}

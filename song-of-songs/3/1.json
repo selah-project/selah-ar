@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "على مِشكاني في الليالي التمستُ ⟨את⟩ الذي تُحبّه نَفسي، التمستُه فلم أجده.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "مِشكاني"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "في الليالي"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "التمستُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الذي تُحبّه نَفسي"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "الذي تُحبّه"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفسي"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "التمستُه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلم"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "أجده"
+    }
+  ],
+  "timestamp": "2026-08-07T04:45:37.396339805Z",
+  "model": "glm-5.2"
+}

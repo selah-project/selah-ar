@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وقسّم لكلّ رجلٍ من يسرائيل من الرجل وإلى المرأة: لكلّ رجلٍ كارةُ خبزٍ وتمرةً وعِيشة.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "وقسّم"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لكلّ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلٍ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "من الرجل"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "المرأة"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "لكلّ رجلٍ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "كارةُ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزٍ"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "وتمرةً"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "وعِيشةً"
+    }
+  ],
+  "timestamp": "2026-08-07T05:15:58.096528717Z",
+  "model": "glm-5.2"
+}

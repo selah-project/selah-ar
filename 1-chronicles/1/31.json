@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "يَطُور، نافيش، وَقِدمَة. هؤلاء هم بَني يِشماعيل.",
+  "tokens": [
+    {
+      "surface": "יְטוּר",
+      "gloss": "يَطُور"
+    },
+    {
+      "surface": "נָפִישׁ",
+      "gloss": "نافيش"
+    },
+    {
+      "surface": "וָקֵדְמָה",
+      "gloss": "وَقِدمَة"
+    },
+    {
+      "surface": "אֵלֶּה",
+      "gloss": "هؤلاء"
+    },
+    {
+      "surface": "הֵם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "بَني"
+    },
+    {
+      "surface": "יִשְׁמָעֵאל",
+      "gloss": "يِشماعيل"
+    }
+  ],
+  "timestamp": "2026-08-07T08:24:47.141506865Z",
+  "model": "glm-5.2"
+}

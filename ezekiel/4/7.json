@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 4:7",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "ومِن جهة حصار يروشالايم تُوجّه وجهك، وذراعك مكشوفة، وتتنبّأ عليها.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ومِن جهة"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "حصار"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "تُوجّه"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهك"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "وذراعك"
+    },
+    {
+      "surface": "חשופה",
+      "gloss": "مكشوفة"
+    },
+    {
+      "surface": "ונבאת",
+      "gloss": "وتتنبّأ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "عليها"
+    }
+  ],
+  "timestamp": "2026-08-07T02:55:55.902914869Z",
+  "model": "glm-5.2"
+}

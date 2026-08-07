@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 4:22",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وصِلّة هي أيضًا ولدت ⟨את⟩ توفال قايين، صاقلَ كلِّ صانعٍ نحوشت وبَرزَل. وأختُ توفال قايين نَعَمَة.",
+  "tokens": [
+    {
+      "surface": "וצלה",
+      "gloss": "وصِلّة"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ولدت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "توفال قايين"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "توفال"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قايين"
+    },
+    {
+      "surface": "לטש",
+      "gloss": "صاقلَ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلِّ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "صانعٍ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "نحوشت"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "وبَرزَل"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "وأختُ"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "توفال"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قايين"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "نَعَمَة"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:42.374139656Z",
+  "model": "glm-5.2"
+}

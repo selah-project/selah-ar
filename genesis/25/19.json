@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "وهذه تولَدات يِصحاق بن أفراهام: أفراهام وَلَد ⟨את⟩ يِصحاق.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "وهذه"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "تولَدات"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يِصحاق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "أفراهام"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وَلَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يِصحاق"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يِصحاق"
+    }
+  ],
+  "timestamp": "2026-08-06T23:43:27.662662851Z",
+  "model": "glm-5.2"
+}

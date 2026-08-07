@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 8:6",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "إذا زاكٍ ⟨وأنتَ⟩ مستقيم، فإنّه الآن يوقظ ⟨لأجلك⟩، ويُنعِم مسكنَ صِدقِك،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "זך",
+      "gloss": "زاكٍ"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ومستقيم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنتَ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "فإنّه"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "الآن"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "يوقظ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "لأجلك"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "ويُنعِم"
+    },
+    {
+      "surface": "נות",
+      "gloss": "مسكن"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "صِدقِك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:33:03.492991904Z",
+  "model": "glm-5.2"
+}

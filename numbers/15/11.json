@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "هكذا يُفعَل للثور الواحد أو للكبش الواحد أو للشاة في الحملان أو في المعز.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يُفعَل"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "للثور"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "الواحد"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "للكبش"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "الواحد"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "للشاة"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "في الحملان"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "في المعز"
+    }
+  ],
+  "timestamp": "2026-08-07T00:36:06.082675446Z",
+  "model": "glm-5.2"
+}

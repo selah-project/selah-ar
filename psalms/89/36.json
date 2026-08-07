@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 89,
+  "translation": "مرَّةً واحدةً حلفتُ في قدسي: إِنْ كُنتُ لداوُد أَكذِب —",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "مرَّةً واحدةً"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "حلفتُ"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "في قدسي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إِنْ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لداوُد"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "أَكذِب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:04.898367866Z",
+  "model": "glm-5.2"
+}

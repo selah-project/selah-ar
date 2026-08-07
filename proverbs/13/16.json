@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "كلُّ فَطِن يفعل بمعرفة، والكَسْلان يُذيع حماقة.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "فَطِن"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يفعل"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "بمعرفة"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "والكَسْلان"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "يُذيع"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "حماقة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:21.408494125Z",
+  "model": "glm-5.2"
+}

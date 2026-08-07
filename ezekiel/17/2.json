@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "«يا ابن آدم، اطرح لغزًا ومثِّل مثلاً إلى بيت يسرايل.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "يا ابن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "اطرح"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "لغزًا"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ومثِّل"
+    },
+    {
+      "surface": "משל",
+      "gloss": "مثلاً"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:01:11.508543712Z",
+  "model": "glm-5.2"
+}

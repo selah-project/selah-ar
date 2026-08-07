@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "ورشّ منه على المذبح سبع مرّات، ومسح ⟨את⟩ المذبح و⟨את⟩ كلّ آنيته و⟨את⟩ الحوض و⟨את⟩ قاعدته لتقديسها.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "ورشّ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبع"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "مرّات"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "ومسح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "المذبح"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "المذبح"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "كلّ آنيته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "آنيته"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "الحوض"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "الحوض"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "قاعدته"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "قاعدته"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "لتقديسها"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:10.634569723Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "لا يغَرْ قلبُك بالمخطئين، بل ⟨بل⟩ في يَهْوَه كلَّ اليوم.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "يغَرْ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "قلبُك"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "بالمخطئين"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بل"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "في يَرْأَةِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:24.225484979Z",
+  "model": "glm-5.2"
+}

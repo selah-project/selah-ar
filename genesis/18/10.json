@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 18:10",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فقال: عائدٌ أعود إليك نحو زمان الحياة، وها ابن لسارة امرأتك. وسارة سامعة عند باب الخيمة، وهو خلفه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "عائد"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "أعود"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "إليك"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "نحو زمان"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "الحياة"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "وها"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "لسارة"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "امرأتك"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "وسارة"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "سامعة"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "عند باب"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "الخيمة"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "خلفه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:39:58.756139191Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "و⟨عادت⟩ لتلد ⟨את⟩ أخاه ⟨את⟩ هافِل. و⟨كان⟩ هافِل راعيَ ضأنٍ، وكان قاين عاملًا في أَداماه.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "و⟨عادت⟩"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "لتلد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أخاه"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "أخاه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هافِل"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هافِل"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هافِل"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "راعيَ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ضأنٍ"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "وكان قاين"
+    },
+    {
+      "surface": "היה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عاملًا"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "أَداماه"
+    }
+  ],
+  "timestamp": "2026-08-06T23:35:41.668874379Z",
+  "model": "glm-5.2"
+}

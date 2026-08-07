@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 119,
+  "translation": "من وصاياك أتعلّم، لذلك أبغضتُ كلَّ طريق كذب.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "من وصاياك"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "أتعلّم"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨لذلك⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨لذلك⟩"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "أبغضتُ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "طريق"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "كذب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:12:15.267362982Z",
+  "model": "glm-5.2"
+}

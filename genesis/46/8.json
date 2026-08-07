@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 46:8",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 46,
+  "translation": "وهذه أسماء بني يسرايل الآتين مصرايمًا: يعقوف وبنوه. بكور يعقوف رأوبين.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "وهذه"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "أسماء"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "الآتين"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "مصرايمًا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "وبنوه"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "بكور"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رأوبين"
+    }
+  ],
+  "timestamp": "2026-08-06T23:56:47.543739285Z",
+  "model": "glm-5.2"
+}

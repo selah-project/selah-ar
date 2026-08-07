@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "وتراءى يهوه في الخيمة في عمود السحابة، ووقف عمود السحابة على باب الخيمة.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "وتراءى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "في الخيمة"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "في عمود"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "السحابة"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ووقف"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "عمود"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "السحابة"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "باب"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "الخيمة"
+    }
+  ],
+  "timestamp": "2026-08-07T01:01:38.904632555Z",
+  "model": "glm-5.2"
+}

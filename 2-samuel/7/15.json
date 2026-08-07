@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 7:15",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وحِسِدي لا يَزول عنه، كما أزَلْتُه عن شاؤول الذي أزَلْتُه من أمامك.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "وحِسِدي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "يزول"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "عنه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "הסרתי",
+      "gloss": "أزَلْتُه"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "عن"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤول"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "הסרתי",
+      "gloss": "أزَلْتُه"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "من أمامك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:04.091413882Z",
+  "model": "glm-5.2"
+}

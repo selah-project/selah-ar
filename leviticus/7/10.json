@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 7:10",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "وكل تقدمة مَعجونة بزيت ويابسة، لكل بني أهارون تكون، الرجل كأخيه.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "تقدمة"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "مَعجونة"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "بزيت"
+    },
+    {
+      "surface": "וחרבה",
+      "gloss": "ويابسة"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لكل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تكون"
+    },
+    {
+      "surface": "איש",
+      "gloss": "الرجل"
+    },
+    {
+      "surface": "כאחיו",
+      "gloss": "كأخيه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:16:54.534719441Z",
+  "model": "glm-5.2"
+}

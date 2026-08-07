@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "أتمَّ يهوه ⟨את⟩ سخطه، سكب حُمُوَّ غضبه، وأشعل نارًا في صهيون، فالتهمَت أساساتها.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "أتمَّ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سخطه"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "سخطه"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "سكب"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "حُمُوَّ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "غضبه"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "وأشعل"
+    },
+    {
+      "surface": "אש",
+      "gloss": "نارًا"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "في صهيون"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "فالتهمَت"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "أساساتها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:49:29.843816364Z",
+  "model": "glm-5.2"
+}

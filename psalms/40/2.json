@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 40,
+  "translation": "انتظارًا انتظرتُ يهوه، فمالَ نحوي وسمعَ صراخي",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "انتظارًا"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "انتظرتُ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "فمالَ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "نحوي"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "وسمعَ"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "صراخي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:49:42.028290139Z",
+  "model": "glm-5.2"
+}

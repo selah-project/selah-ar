@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "وقال يهوه لموشيه: «حتى متى تأبَون أن تحفظوا وصاياي وتوراتي؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "متى"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "تأبَون"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "أن تحفظوا"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "وصاياي"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "وتوراتي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:05:49.669249278Z",
+  "model": "glm-5.2"
+}

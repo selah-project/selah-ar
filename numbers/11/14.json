@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "لا أستطيع أنا وحدي أن أحملَ ⟨את⟩ كلَّ هذا الشعب، لأنّه أثقلُ منّي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "أستطيع"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "وحدي"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "أن أحملَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلَّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "أثقلُ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "منّي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:35:17.876201875Z",
+  "model": "glm-5.2"
+}

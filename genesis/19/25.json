@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "و⟨قلب⟩ ⟨את⟩ هذه المدن و⟨את⟩ كلّ السهل و⟨את⟩ كلّ سكّان المدن ونبت الأرض.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "و⟨قلب⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هذه المدن"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "المدن"
+    },
+    {
+      "surface": "האל",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ",
+      "marks": "السهل"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "السهل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ",
+      "marks": "سكّان المدن"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "سكّان"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "المدن"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "ونبت"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-06T23:40:35.708815615Z",
+  "model": "glm-5.2"
+}

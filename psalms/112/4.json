@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 112,
+  "translation": "أشرق نورٌ في الظلام للمستقيمين: ذو حِنٍّ ورحيم وصادِق",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "أشرق"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "في الظلام"
+    },
+    {
+      "surface": "אור",
+      "gloss": "نور"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "للمستقيمين"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "ذو حِنّ"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ورحيم"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "وصادِق"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:29.588512695Z",
+  "model": "glm-5.2"
+}

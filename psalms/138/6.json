@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 138,
+  "translation": "لأنَّ عاليًا ⟨هو⟩ يهوه، والوضيعَ يرى، والمتَكبّرَ من بعيدٍ يعرف.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنَّ"
+    },
+    {
+      "surface": "רם",
+      "gloss": "عاليًا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "والوضيعَ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "يرى"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "والمتَكبّرَ"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "من بعيدٍ"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "يعرف"
+    }
+  ],
+  "timestamp": "2026-08-07T04:17:51.950943188Z",
+  "model": "glm-5.2"
+}

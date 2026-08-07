@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "مَن يَزْحَزِحُ حِجارةً يُؤذَىٰ بها، ومَنْ يَشُقُّ عيدانًا يَنغَمس في الخطر بها.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "يَزحَزِح"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "حِجارة"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "يُؤذَى"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "بها"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "يَشُقّ"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "عيدانًا"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "يَنغَمِس في الخطر"
+    },
+    {
+      "surface": "בם",
+      "gloss": "بها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:27.995405302Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 45,
+  "translation": "كرسيّك إلوهيم إلى دهرٍ و°إلى° أبَدٍ، صولجان استقامة صولجان مُلكك.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "كرسيّك"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "إلى دهر"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وإلى أبَد"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "صولجان"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "استقامة"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "صولجان"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "مُلكك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:52:11.619671252Z",
+  "model": "glm-5.2"
+}

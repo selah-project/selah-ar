@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 24:15",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "وإلى بني يسرايل تتكلّم قائلًا: رجلٌ رجلٌ إذا لعن إلوهيمه يحمل خطيئته.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "تتكلّم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إذا"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "لعن"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "إلوهيمه"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "يحمل"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "خطيئته"
+    }
+  ],
+  "timestamp": "2026-08-07T05:40:56.385096660Z",
+  "model": "glm-5.2"
+}

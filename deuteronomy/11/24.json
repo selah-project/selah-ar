@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 11:24",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "كلّ المكان الذي تدوسه بطن أقدامكم فيكم يكون. من البرّيّة واللبانون، من النهر نهر پرات وإلى البحر الآخر يكون تخمكم.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "المكان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "تدوسه"
+    },
+    {
+      "surface": "כף",
+      "gloss": "بطن"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "أقدامكم"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "البرّيّة"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "واللبانون"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "النهر"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "نهر"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "پرات"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "وإلى"
+    },
+    {
+      "surface": "הים",
+      "gloss": "البحر"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "الآخر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكون"
+    },
+    {
+      "surface": "גבלכם",
+      "gloss": "تخمكم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:54:05.274994021Z",
+  "model": "glm-5.2"
+}

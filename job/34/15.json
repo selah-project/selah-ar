@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 34:15",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "يفنى كلُّ بَشَر معًا، والإنسان إلى تراب يعود.»",
+  "tokens": [
+    {
+      "surface": "יגוע",
+      "gloss": "يفنى"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلُّ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بَشَر"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "معًا"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "والإنسان"
+    },
+    {
+      "surface": "על",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "تراب"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "يعود"
+    }
+  ],
+  "timestamp": "2026-08-07T04:41:44.273997938Z",
+  "model": "glm-5.2"
+}

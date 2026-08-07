@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وختنوا ⟨את⟩ غُرلةَ قلوبكم، ورقابَكم لا تُقَسّوا بعدُ.",
+  "tokens": [
+    {
+      "surface": "וּמַלְתֶּם",
+      "gloss": "وختنوا"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "غُرلةَ"
+    },
+    {
+      "surface": "עָרְלַת",
+      "gloss": "غُرلةَ"
+    },
+    {
+      "surface": "לְבַבְכֶם",
+      "gloss": "قلوبكم"
+    },
+    {
+      "surface": "וְעָרְפְּכֶם",
+      "gloss": "ورقابَكم"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תַקְשׁוּ",
+      "gloss": "تُقَسّوا"
+    },
+    {
+      "surface": "עוֹד",
+      "gloss": "بعدُ"
+    }
+  ],
+  "timestamp": "2026-08-07T05:43:05.009378362Z",
+  "model": "glm-5.2"
+}

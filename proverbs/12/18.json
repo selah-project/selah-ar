@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 12:18",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "يُوجَدُ متحدِّثٌ بطيشٍ كطعناتِ سيف، ولسانُ الحكماءِ شفاء.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "يُوجَدُ"
+    },
+    {
+      "surface": "בוטה",
+      "gloss": "متحدِّثٌ بطيشٍ"
+    },
+    {
+      "surface": "כמדקרות",
+      "gloss": "كطعناتِ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "سيف"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "و⟨أمّا⟩ لسانُ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "الحكماءِ"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "شفاء"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:09.258071093Z",
+  "model": "glm-5.2"
+}

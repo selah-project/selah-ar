@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 10:31",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "و⟨أنّ⟩ لا نُعطي بناتنا لشعوب الأرض، و⟨أنّ⟩ بناتهم ⟨את⟩ لا نأخذ لبنيئنا.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "و⟨أنّ⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "نُعطي"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "بناتنا"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "لشعوب"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بناتهم"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "بناتهم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "نأخذ"
+    },
+    {
+      "surface": "לבנינו",
+      "gloss": "لبنيئنا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:08:13.377187697Z",
+  "model": "glm-5.2"
+}

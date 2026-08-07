@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 5:19",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "لأنّه لا يُكثر ذكرَ أيّام حياته، لأنّ إلوهيم يُجيب ⟨في⟩ فرح قلبه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "يُكثر"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "ذكرَ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أيّام حياته"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "حياته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "يُجيب"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "في فرح"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "قلبه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:51:52.603811015Z",
+  "model": "glm-5.2"
+}

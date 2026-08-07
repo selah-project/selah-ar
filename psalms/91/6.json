@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 91,
+  "translation": "من دبَرٍ يسعى في العتمة، ومن هَلاكٍ يُهلكُ نصفَالنهار.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "من دبَر"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "في العتمة"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "يسعى"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "من هَلاك"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "يُهلك"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "نصف النهار"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:24.707948411Z",
+  "model": "glm-5.2"
+}

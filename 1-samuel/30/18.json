@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "وأنقذ داوود ⟨את⟩ كلَّ ما أخذه عمالق، و⟨את⟩ امرأتيه أنقذ داوود.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "وأنقذ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلَّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "أخذه"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عمالق"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "امرأتيه"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "اثنتَي"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "زوجتيه"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "أنقذ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    }
+  ],
+  "timestamp": "2026-08-07T01:31:06.647163644Z",
+  "model": "glm-5.2"
+}

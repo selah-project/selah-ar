@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وقال يهوه لموشيه: ادخل إلى فرعون، لأنّي أنا أثقّلتُ ⟨את⟩ قلبَه و⟨את⟩ قلبَ عبيده، لكي أضعَ آياتي هذه في وسطه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ادخل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "أثقّلتُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قلبه"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "قلبَه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "قلب"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلبَ"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "عبيده"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لكي"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "أضعَ"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "آياتي"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "في وسطه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:02:10.783083528Z",
+  "model": "glm-5.2"
+}

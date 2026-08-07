@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 28:1",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "لأَنَّ لِلْفِضَّةِ مَخْرَجًا، وَمَكَانًا لِلذَّهَبِ يُصَفَّى،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "يوجد"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "للفضّة"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "مخرج"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "ومكان"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "للذهب"
+    },
+    {
+      "surface": "יזקו",
+      "gloss": "يُصفّى"
+    }
+  ],
+  "timestamp": "2026-08-07T04:39:53.134173038Z",
+  "model": "glm-5.2"
+}

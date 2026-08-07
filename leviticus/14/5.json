@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "ويأمر الكوهين، فيُذبح ⟨את⟩ الطير الواحد إلى إناء خزف على ماء حيّ.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ويأمر"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "الكوهين"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "فيُذبح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الطير الواحد"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "الطير"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "الواحد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "إناء"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "خزف"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ماء"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حيّ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:20:14.272053037Z",
+  "model": "glm-5.2"
+}

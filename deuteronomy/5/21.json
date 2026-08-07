@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 5:21",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "ولن تشته امرأة قريبك، ولن تتشوّق بيت قريبك، حقله وعبدَه وأمَته، ثوره وحماره، وكل ما لقريبك",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولن"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "تشته"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "امرأة"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "قريبك"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولن"
+    },
+    {
+      "surface": "תתאוה",
+      "gloss": "تتشوّق"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بيت"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "قريبك"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "حقله"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "وعبده"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "وأمَته"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "ثوره"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "وحماره"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "لقريبك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:52:24.671981471Z",
+  "model": "glm-5.2"
+}

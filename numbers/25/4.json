@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 25:4",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "فقال يهوه لموشيه: خُذ ⟨את⟩ كلَّ رؤوس الشعب، وعلِّقهم ليَهوه مقابل الشمس، فيرتدَّ حُمُوّ أنفِ يهوه عن يسرايل.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "קח",
+      "gloss": "خُذ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلَّ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "رؤوس"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "והוקע",
+      "gloss": "وعلِّقهم"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩هم",
+      "marks": "ليهوه"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "مقابل"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "الشمس"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "فيرتدَّ"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "حُمُوّ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "أنفِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "عن يسرايل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:39:45.930905245Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 27:7",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "وإن ⟨كان⟩ من ابن ستين سنة وصاعدًا، إن ⟨كان⟩ ذكرًا، فيكون تقويمك خمسة عشر شاقلًا، وللأنثى عشرة شواقل.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "من ابن"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ستين"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "وصاعدًا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ذكرًا"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "فيكون"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "تقويمك"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "خمسة"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شاقلًا"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "وللأنثى"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "عشرة"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شواقل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:28:07.263286005Z",
+  "model": "glm-5.2"
+}

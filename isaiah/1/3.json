@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "عرف الثور قاناه والحمير مذود أسياده، أما يسرائيل فلا يعرف، شعبي لا يفقه",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "عرف"
+    },
+    {
+      "surface": "שור",
+      "gloss": "الثور"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "قاناه"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "والحمير"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "مذود"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "أسياده"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "يعرف"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "شعبي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "يفقه"
+    }
+  ],
+  "timestamp": "2026-08-07T02:04:19.268521558Z",
+  "model": "glm-5.2"
+}

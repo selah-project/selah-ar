@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "أُبارك ⟨את⟩ يهوه في كل وقت، دائمًا تسبيحه في فمي",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "أُبارك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "في كل"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "دائمًا"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "تسبيحه"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "في فمي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:48:23.131415526Z",
+  "model": "glm-5.2"
+}

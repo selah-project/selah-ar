@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "والآن ارجع واذهب بِشالوم (سلام)، ولا تفعل شرًّا في أعين سَرَنة فلشتيم.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ارجع"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "واذهب"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "بِشالوم (سلام)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تفعل"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شرًّا"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "في أعين"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "سَرَنة"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلشتيم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:30:47.283733599Z",
+  "model": "glm-5.2"
+}

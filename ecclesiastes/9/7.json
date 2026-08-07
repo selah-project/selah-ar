@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "اذهب، كُلْ بخَفْرٍ خبزَك، واشرب بخيرِ قلبٍ خمرَك، لأنّ إلوهيم قد رضيَ ⟨عن⟩ أعمالك.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "اذهب"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "كُلْ"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "بخَفْرٍ"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "خبزَك"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "واشرب"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "بقلب"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خيرِ"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "خمرَك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "قد"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "رضيَ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أعمالك"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "أعمالك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:52:51.299856608Z",
+  "model": "glm-5.2"
+}

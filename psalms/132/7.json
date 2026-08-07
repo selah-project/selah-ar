@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 132,
+  "translation": "نأتي ⟨إلى⟩ مسكناته، نسجد ⟨عند⟩ موطئ قدميه.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "نأتي"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "⟨إلى⟩ مسكناته"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "نسجد"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "⟨عند⟩ موطئ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "قدميه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:16:15.198385329Z",
+  "model": "glm-5.2"
+}

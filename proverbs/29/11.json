@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 29:11",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "الجاهلُ يُخرِج كلَّ روَحِهِ، والحكيمُ يُسكِتُها إلى آخرٍ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "روَحِهِ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "يُخرِج"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "الجاهلُ"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "والحكيمُ"
+    },
+    {
+      "surface": "באחור",
+      "gloss": "إلى آخرٍ"
+    },
+    {
+      "surface": "ישבחנה",
+      "gloss": "يُسكِتُها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:10.340273331Z",
+  "model": "glm-5.2"
+}

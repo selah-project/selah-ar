@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 8:9",
+  "book": "song-of-songs",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "إن كانت سورًا ⟨هي⟩ نبني عليها طيرة فضّة، وإن كانت بابًا ⟨هي⟩ نصفها بلوح أرز.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "سور"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "نبني"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "عليها"
+    },
+    {
+      "surface": "טירת",
+      "gloss": "طيرة"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضة"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "باب"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "نصفّ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "عليها"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "بلوح"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "أرز"
+    }
+  ],
+  "timestamp": "2026-08-07T04:47:19.044110349Z",
+  "model": "glm-5.2"
+}

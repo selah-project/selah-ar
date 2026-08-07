@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "يحمل بركة من لدن يهوه، وصداقةً من إله خلاصه.",
+  "tokens": [
+    {
+      "surface": "יִשָּׂא",
+      "gloss": "يحمل"
+    },
+    {
+      "surface": "בְרָכָה",
+      "gloss": "بركة"
+    },
+    {
+      "surface": "מֵאֵת",
+      "gloss": "من لدن"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וּצְדָקָה",
+      "gloss": "وصداقة"
+    },
+    {
+      "surface": "מֵאֱלֹהֵי",
+      "gloss": "من إله"
+    },
+    {
+      "surface": "יִשְׁעוֹ",
+      "gloss": "خلاصه"
+    }
+  ],
+  "timestamp": "2026-08-07T03:45:54.402741839Z",
+  "model": "glm-5.2"
+}

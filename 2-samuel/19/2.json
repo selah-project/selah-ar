@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "فا⟨أُخبر⟩ يوآب: «ها الملك يبكي ويتوجّع على أفشالوم.»",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "فا⟨أُخبر⟩"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "يبكي"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "ويتوجّع"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "أفشالوم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:39:52.763517762Z",
+  "model": "glm-5.2"
+}

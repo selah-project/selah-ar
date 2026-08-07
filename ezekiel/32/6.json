@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 32:6",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 32,
+  "translation": "و⟨أنا⟩ أسقي الأرض فيضك بدمك إلى الجبال، والأودية تمتلئ منك.",
+  "tokens": [
+    {
+      "surface": "והשקיתי",
+      "gloss": "و⟨أنا⟩ أسقي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "צפתך",
+      "gloss": "فيضك"
+    },
+    {
+      "surface": "מדמך",
+      "gloss": "بدمك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "الجبال"
+    },
+    {
+      "surface": "ואפקים",
+      "gloss": "والأودية"
+    },
+    {
+      "surface": "ימלאון",
+      "gloss": "تمتلئ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "منك"
+    }
+  ],
+  "timestamp": "2026-08-07T03:08:00.452820561Z",
+  "model": "glm-5.2"
+}

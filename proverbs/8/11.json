@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 8:11",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "لأنّ الحكمة خير من اللآلئ، وكلّ المشتهيات لا تُساوى بها.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "خير"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "الحكمة"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "من اللآلئ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "חפצים",
+      "gloss": "المشتهيات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ישוו",
+      "gloss": "تُساوى"
+    },
+    {
+      "surface": "בה",
+      "gloss": "بها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:23:03.859742211Z",
+  "model": "glm-5.2"
+}

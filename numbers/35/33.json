@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 35:33",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "ولا تُدنّسوا ⟨את⟩ الأرض التي أنتم فيها، لأن الدم ⟨هو⟩ يُدنّس ⟨את⟩ الأرض، وللأرض لا يُكفّر عن الدم الذي سُفك فيها إلاّ بدم سافكه.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "תחניפו",
+      "gloss": "تُدنّسوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "الدم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "יחניף",
+      "gloss": "يُدنّس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "ולארץ",
+      "gloss": "وللأرض"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "يُكفّر"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "عن الدم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "سُفك"
+    },
+    {
+      "surface": "בה",
+      "gloss": "فيها"
+    },
+    {
+      "surface": "כי",
+      "gloss": "إلاّ"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בדם",
+      "gloss": "بدم"
+    },
+    {
+      "surface": "שפכו",
+      "gloss": "سافكه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:44:47.866874891Z",
+  "model": "glm-5.2"
+}

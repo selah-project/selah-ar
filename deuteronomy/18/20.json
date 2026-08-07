@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 18:20",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "أمّا النافي الذي يطغى فينطق بكلمة باسمي ⟨بـ⟩⟨את⟩ ما لم أوصِهِ أن ينطق به، أو الذي يكلّم باسم آلهة أخرى، فيموت ذلك النافي.»",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "أمّا"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "النافي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יזיד",
+      "gloss": "يطغى"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "فيُنطق"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بكلمة"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "باسمي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ما"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "צויתיו",
+      "gloss": "أوصيه"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "أن يُنطق به"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "أو الذي"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "يُكلّم"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "باسم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "آلهة"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "أخرى"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "فيموت"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "النافي"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:56:54.622750425Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 27:2",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "في اليوم ذلك: «كرمُ نعيمٍ، أُنشدنَّ لها.»",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "كرم"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "نعيم"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "أُنشدنَّ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لها"
+    }
+  ],
+  "timestamp": "2026-08-07T02:12:12.675948912Z",
+  "model": "glm-5.2"
+}

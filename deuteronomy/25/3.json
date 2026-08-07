@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 25:3",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "أربعين يضرِبُه لا يزيد، كيلا يزيدَ على ضَربه فوقَ هذه ضرباتٍ كثيرةً فيَحقُرَ أخوك في عينيك.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "أربعين"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "يضربه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "يزيد"
+    },
+    {
+      "surface": "פן",
+      "gloss": "كيلا"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "يزيد"
+    },
+    {
+      "surface": "להכתו",
+      "gloss": "على ضربه"
+    },
+    {
+      "surface": "על",
+      "gloss": "فوق"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ضربات"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "كثيرة"
+    },
+    {
+      "surface": "ונקלה",
+      "gloss": "فيَحقُر"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "أخوك"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "في عينيك"
+    }
+  ],
+  "timestamp": "2026-08-07T00:59:29.411297683Z",
+  "model": "glm-5.2"
+}

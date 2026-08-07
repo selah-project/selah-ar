@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 14:8",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وإخوتي الذين صعدوا معي أذابوا ⟨את⟩ قلب الشعب، أمّا أنا فقد امتلأتُ اتباعًا ليهوه إلهي.",
+  "tokens": [
+    {
+      "surface": "ואחי",
+      "gloss": "وإخوتي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذين"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "صعدوا"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "معي"
+    },
+    {
+      "surface": "המסיו",
+      "gloss": "أذابوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قلب"
+    },
+    {
+      "surface": "לב",
+      "gloss": "قلب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "أمّا أنا"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "فقد امتلأتُ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "اتباعًا لـ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلهي"
+    }
+  ],
+  "timestamp": "2026-08-07T01:06:35.861798168Z",
+  "model": "glm-5.2"
+}

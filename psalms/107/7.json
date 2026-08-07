@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 107,
+  "translation": "وسيّرهم في طريقٍ مستقيمة، للسير إلى مدينة سُكنى.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "وسيّرهم"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "في طريقٍ"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "مستقيمة"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "للسير"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "سُكنى"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:44.271338635Z",
+  "model": "glm-5.2"
+}

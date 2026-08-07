@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 35:10",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 35,
+  "translation": "فسكَنا في الخيام وسمعنا وفعلنا حسب كلّ ما أوصانا به يوناداف أبونا.",
+  "tokens": [
+    {
+      "surface": "ונשב",
+      "gloss": "فسكَنا"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "في الخيام"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "وسمعنا"
+    },
+    {
+      "surface": "ונעש",
+      "gloss": "وفعلنا"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "حسب كلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "צונו",
+      "gloss": "أوصانا به"
+    },
+    {
+      "surface": "יונדב",
+      "gloss": "يوناداف"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "أبونا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:44:42.863951701Z",
+  "model": "glm-5.2"
+}

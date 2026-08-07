@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 145,
+  "translation": "جيلٌ لِجيلٍ يُسبِّحُ أعمالكَ، وعزائمكَ يُخبرونَ.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "جيلٌ"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "لجيلٍ"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "يُسبِّحُ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "أعمالكَ"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "وعزائمكَ"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "يُخبرونَ"
+    }
+  ],
+  "timestamp": "2026-08-07T04:18:56.501583569Z",
+  "model": "glm-5.2"
+}

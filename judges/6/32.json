@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 6:32",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "فدعاه في ذلك اليوم يَرُبَّعل، قائلين: ليُخاصم البعل في وجهه، لأنه هدم ⟨את⟩ مذبحه.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "فدعاه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في يوم"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "يَرُبَّعل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "ليُخاصم"
+    },
+    {
+      "surface": "בו",
+      "gloss": "في وجهه"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "البعل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنه"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "هدم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مذبحه"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "مذبحه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:14:54.870296014Z",
+  "model": "glm-5.2"
+}

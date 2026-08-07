@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 63,
+  "translation": "مزمور لِدافيد، في كونه في برّيّة يهودا",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لِدافيد"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "في كونه"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في برّيّة"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    }
+  ],
+  "timestamp": "2026-08-07T03:56:33.422049844Z",
+  "model": "glm-5.2"
+}

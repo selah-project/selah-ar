@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 48:30",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "أنا علمتُ، نَتْق يهوه، سطوتَه — وليس هكذا؛ أكاذيبه، ليس هكذا صنعوا.",
+  "tokens": [
+    {
+      "surface": "אֲנִ֤י",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יָדַ֨עְתִּי֙",
+      "gloss": "علمتُ"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "نتق"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "עֶבְרָת֖וֹ",
+      "gloss": "سطوتَه"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "وليس"
+    },
+    {
+      "surface": "כֵ֑ן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "בַּדָּ֖יו",
+      "gloss": "أكاذيبه"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ليس"
+    },
+    {
+      "surface": "כֵ֥ן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "עָשֽׂוּ",
+      "gloss": "صنعوا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:55:19.385713503Z",
+  "model": "glm-5.2"
+}

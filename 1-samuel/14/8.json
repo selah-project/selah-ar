@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 14:8",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 14,
+  "translation": "وقال يِهوناتان: ها نحن عابرون إلى القوم، فنُكشَف لهم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "يِهوناتان"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "نحن"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "عابرون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "القوم"
+    },
+    {
+      "surface": "ונגלינו",
+      "gloss": "فنُكشَف"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "لهم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:24:25.107484803Z",
+  "model": "glm-5.2"
+}

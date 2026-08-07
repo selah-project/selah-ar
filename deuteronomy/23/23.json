@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "وإن تمتنع عن النذر، لا يكون فيك ذنبٌ.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "تمتنع"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "عن النذر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨يكون⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "فيك"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ذنبٌ"
+    }
+  ],
+  "timestamp": "2026-08-07T00:58:35.568984788Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "كل ستائر الدار حواليها كتانٌ مَبروم",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "ستائر"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "الدار"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "حواليها"
+    },
+    {
+      "surface": "שש",
+      "gloss": "كتانٌ"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "مَبروم"
+    }
+  ],
+  "timestamp": "2026-08-07T00:13:38.006502156Z",
+  "model": "glm-5.2"
+}

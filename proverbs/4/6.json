@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "لا تتركها فتحفظك أحببها فتَصُونك",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "تتركها"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "فـ⟨هي⟩ تحفظك"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "أحببها"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "فـ⟨هي⟩ تَصُونك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:22:03.954253782Z",
+  "model": "glm-5.2"
+}

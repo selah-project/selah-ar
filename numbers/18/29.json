@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 18:29",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "من كل عطاياكم ترفعون ⟨את⟩ كل تَرومات يهوه، من كل دَسمِه ⟨את⟩ مقدَّسه منه.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "من كل"
+    },
+    {
+      "surface": "מתנתיכם",
+      "gloss": "عطاياكم"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ترفعون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "تَرومات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "من كل"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "دَسمه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مقدَّسه"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "مقدَّسه"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "منه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:37:44.950363442Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "فقال يهوشافاط: أليس ههنا نافٍ ليهوه بعد، فنسأله؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "يهوشافاط"
+    },
+    {
+      "surface": "האין",
+      "gloss": "أليس"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ههنا"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نافٍ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "فنسأله"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "منه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:27:01.221628456Z",
+  "model": "glm-5.2"
+}

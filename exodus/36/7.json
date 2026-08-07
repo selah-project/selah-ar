@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "والعمل كان كافيًا لكل العمل لعمله ⟨את⟩هُ، وفاض.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "والعمل"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "דים",
+      "gloss": "كافيًا"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "لكل"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "العمل"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "لعمل"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "هُ"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "وفاض"
+    }
+  ],
+  "timestamp": "2026-08-07T00:14:18.121122996Z",
+  "model": "glm-5.2"
+}

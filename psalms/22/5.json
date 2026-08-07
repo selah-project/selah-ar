@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "بِك اتّكل آباؤُنا؛ اتّكلوا فنجَّيتَهم.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "بك"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "اتّكل"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "آباؤُنا"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "اتّكلوا"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "فنجَّيتهم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:44:49.963091718Z",
+  "model": "glm-5.2"
+}

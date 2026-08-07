@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 10:13",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "وأمّا أنتم فقد تركتم ⟨את⟩ي وعبدتم إلوهيم آخرين، لذلك لا أعود أُنقذ ⟨את⟩كم.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "وأمّا أنتم"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "فقد تركتم"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ي"
+    },
+    {
+      "surface": "ותעבדו",
+      "gloss": "وعبدتم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "آخرين"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "أعود"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "أُنقذ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "كم"
+    }
+  ],
+  "timestamp": "2026-08-07T07:22:47.907366774Z",
+  "model": "glm-5.2"
+}

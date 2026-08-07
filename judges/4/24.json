@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 4:24",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وذهبت يدُ بني يسرائيل تذهب وتقسو على يابين ملك كنعان، حتى استأصلوا ⟨את⟩ يابين ملك كنعان.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "وذهبت"
+    },
+    {
+      "surface": "יד",
+      "gloss": "يد"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "تذهب"
+    },
+    {
+      "surface": "וקשה",
+      "gloss": "وتقسو"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "يابين"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كنعان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "حيث"
+    },
+    {
+      "surface": "הכריתו",
+      "gloss": "استأصلوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يابين ملك كنعان"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "يابين"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كنعان"
+    }
+  ],
+  "timestamp": "2026-08-07T01:14:14.137574388Z",
+  "model": "glm-5.2"
+}

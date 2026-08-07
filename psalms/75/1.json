@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 75,
+  "translation": "لإمام ⟨الغناء⟩ «لا تُهلِك» مزمور لأساف، ترنيمة",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "لإمام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "«لا"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "تُهلِك»"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "لأساف"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ترنيمة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:00:02.346659412Z",
+  "model": "glm-5.2"
+}

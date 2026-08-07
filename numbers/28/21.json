@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 28:21",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "عُشرًا عُشرًا تُصنع للخروف الواحد، لِسبعة الخراف.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "عُشرًا"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "عُشرًا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تُصنع"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "للخروف"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "الواحد"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "لِسبعة"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "الخراف"
+    }
+  ],
+  "timestamp": "2026-08-07T00:42:43.547307761Z",
+  "model": "glm-5.2"
+}

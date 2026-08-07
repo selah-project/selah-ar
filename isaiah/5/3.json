@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "والآن يا سكّانَ يروشالايم ورجالَ يهودا، احكموا نَّ بيني وبين كرمي.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "يا سكّانَ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "يروشالايم"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ورجالَ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "احكموا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "نَّ"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "بيني"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "وبين"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "كرمي"
+    }
+  ],
+  "timestamp": "2026-08-07T02:05:47.359388857Z",
+  "model": "glm-5.2"
+}

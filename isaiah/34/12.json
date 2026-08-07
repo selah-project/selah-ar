@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 34:12",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "أشرافُها، ولا مُلكَ هناك يُنادى، وكلّ أمرائها يصيرون عدمًا.",
+  "tokens": [
+    {
+      "surface": "חריה",
+      "gloss": "أشرافُها"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "مُلك"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "يُنادى"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "أمرائها"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "يصيرون"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "عدمًا"
+    }
+  ],
+  "timestamp": "2026-08-07T02:16:00.471434026Z",
+  "model": "glm-5.2"
+}

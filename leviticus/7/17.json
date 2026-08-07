@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "والباقي من لحم الذبيحة في اليوم الثالث بالنار يُحرَق،",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "والباقي"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "من لحم"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "الذبيحة"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "في اليوم"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "الثالث"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بالنار"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "يُحرَق"
+    }
+  ],
+  "timestamp": "2026-08-07T00:17:14.897745207Z",
+  "model": "glm-5.2"
+}

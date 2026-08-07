@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "ظالمُ الفقير ليكثِرَ لنفسه، ومُعطي الغنيَّ — أكلا إلى فقر",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "ظالمُ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "الفقير"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "ليكثِرَ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ومُعطي"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "للغني"
+    },
+    {
+      "surface": "אך",
+      "gloss": "أكلا"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "إلى فقر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:28:09.226512460Z",
+  "model": "glm-5.2"
+}

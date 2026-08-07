@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "وقلتَ لفرعون: «هكذا قال يهوه: ابني بكوري يسرائيل.»",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "وقلتَ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ابني"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "بكوري"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T00:00:20.629088741Z",
+  "model": "glm-5.2"
+}

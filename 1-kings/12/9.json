@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 12:9",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وقال لهم: ماذا تنصحون فنردّ كلامًا ⟨إلى⟩ ⟨את⟩ الشعب هذا الذي كلّمني قائلًا: خفّف عن النير الذي وضعه أبوك علينا؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "أنتم"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "تنصحون"
+    },
+    {
+      "surface": "ונשיב",
+      "gloss": "فنردّ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "كلامًا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "كلّموني"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "إليّ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلًا"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "خفّف"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "העל",
+      "gloss": "النير"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "وضعه"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "أبوك"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "علينا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:47:52.201644810Z",
+  "model": "glm-5.2"
+}

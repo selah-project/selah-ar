@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "ف⟨قالوا⟩: لأنهم تركوا ⟨את⟩ بريت يهوه إلوهيم آبائهم الذي قطع معهم، عند إخراجه ⟨את⟩هم من أرض مصرايم،",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ف⟨قالوا⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "لأن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "تركوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بريت"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بريت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "آبائهم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "قطع"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "معهم"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "عند إخراجه"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "هم"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "من أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:00:55.417565929Z",
+  "model": "glm-5.2"
+}

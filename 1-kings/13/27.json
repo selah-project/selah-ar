@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وكلّم بنيه قائلاً: «لجموا لي ⟨את⟩ الحمار.» فألجموه.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وكلّم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "بنيه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلاً"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "لجموا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الحمار"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "الحمار"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "فألجموه"
+    }
+  ],
+  "timestamp": "2026-08-07T01:48:25.242689446Z",
+  "model": "glm-5.2"
+}

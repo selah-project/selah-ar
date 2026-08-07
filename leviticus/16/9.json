@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "ويُقرِّب أهارون ⟨את⟩ التيسَ الذي صعد عليه القرع ليهوه، ويجعله ذبحَ خطيئة.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ويُقرِّب"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "التيس"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "التيس"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "صعد"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "عليه"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "القرع"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ليهوه"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "ويجعله"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ذبحَ خطيئة"
+    }
+  ],
+  "timestamp": "2026-08-07T07:08:32.259905845Z",
+  "model": "glm-5.2"
+}

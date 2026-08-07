@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 15:12",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 15,
+  "translation": "وإناءُ الخزف الذي يمسّه الزابّ يُكسر، وكل إناء خشب يُغسل في الماء",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "وإناء"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "الخزف"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "يمسّه"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "الزابّ"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "يُكسر"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "إناء"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "خشب"
+    },
+    {
+      "surface": "ישטף",
+      "gloss": "يُغسل"
+    },
+    {
+      "surface": "במים",
+      "gloss": "في الماء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:23:00.680662271Z",
+  "model": "glm-5.2"
+}

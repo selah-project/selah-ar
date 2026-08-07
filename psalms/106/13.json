@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 106:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 106,
+  "translation": "أسرعوا، نسوا أعماله، لم ينتظروا مشورته.",
+  "tokens": [
+    {
+      "surface": "מֽ֭הֲרוּ",
+      "gloss": "أسرعوا"
+    },
+    {
+      "surface": "שָׁכְח֣וּ",
+      "gloss": "نسوا"
+    },
+    {
+      "surface": "מַעֲשָׂ֑יו",
+      "gloss": "أعماله"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "חִ֝כּ֗וּ",
+      "gloss": "انتظروا"
+    },
+    {
+      "surface": "לַעֲצָתֽוֹ",
+      "gloss": "مشورته"
+    }
+  ],
+  "timestamp": "2026-08-07T04:09:12.496258258Z",
+  "model": "glm-5.2"
+}

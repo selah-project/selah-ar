@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "كلَّ اليوم خزاي أمامي، وخجل وجهي غطّاني.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "كلَّ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اليوم"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "خزاي"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "أمامي"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "وخجل"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجهي"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "غطّاني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:26.673195946Z",
+  "model": "glm-5.2"
+}

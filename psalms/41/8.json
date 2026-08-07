@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "معاً عليّ يتهامسون كلّ مبغضيّ؛ عليّ يُحسبون شرّاً ⟨لي⟩.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "معاً"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عليّ"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "يتآمرون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "مبغضيّ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عليّ"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "يُحسبون"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شرّاً"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨لي⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T03:50:07.425965757Z",
+  "model": "glm-5.2"
+}

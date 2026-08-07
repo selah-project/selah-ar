@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 30:8",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "باطلًا ⟨و⟩كلمةَ كذب أَبْعِدها عنّي، فقرًا ⟨و⟩غِنىً لا تُعطِني، أطعِمني خبزَ نصيبي",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "باطلًا"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "⟨و⟩كلمةَ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "كذب"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "أَبْعِد"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "عنّي"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "فقرًا"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "⟨و⟩غِنىً"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "تُعطِ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ني"
+    },
+    {
+      "surface": "הטריפני",
+      "gloss": "أطعِمني"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبزَ"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "نصيبي"
+    }
+  ],
+  "timestamp": "2026-08-07T06:08:51.179142539Z",
+  "model": "glm-5.2"
+}

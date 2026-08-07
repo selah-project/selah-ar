@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "وَيهوه إلوهيم القوّات، يهوه ⟨هوَ⟩ ذِكرُهُ.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "وَيهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "القوّات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "ذِكرُهُ"
+    }
+  ],
+  "timestamp": "2026-08-07T07:56:38.909768559Z",
+  "model": "glm-5.2"
+}

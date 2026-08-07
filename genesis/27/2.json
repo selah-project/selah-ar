@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "فقال: «ها إنّي قد شخت، لا أعرف يوم موتي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "נא",
+      "gloss": "إنّ"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "قد شخت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "أعرف"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "موتي"
+    }
+  ],
+  "timestamp": "2026-08-06T23:43:03.778896219Z",
+  "model": "glm-5.2"
+}

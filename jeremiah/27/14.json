@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 27:14",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 27,
+  "translation": "فلا تسمعوا إلى كلام النوافي القائلين إليكم قائلين: لا تُخدموا ⟨את⟩ ملك بافل، لأنّهم كذبٌ ينوفون لكم.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "تسمعوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلام"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "النوافي"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "القائلين"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "إليكم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "قائلين"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "تُخدموا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ملك"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملك"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بافل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "كذبٌ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "ينوفون"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:41:12.208237835Z",
+  "model": "glm-5.2"
+}

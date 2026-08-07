@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 7:26",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 7,
+  "translation": "كفٌّ واحدة، عشرَ ⟨من⟩ الذهب، ملآنةُ بَخورًا،",
+  "tokens": [
+    {
+      "surface": "כַּ֥ף",
+      "gloss": "كفٌّ"
+    },
+    {
+      "surface": "אַחַ֛ת",
+      "gloss": "واحدة"
+    },
+    {
+      "surface": "עֲשָׂרָ֥ה",
+      "gloss": "عشرَ"
+    },
+    {
+      "surface": "זָהָ֖ב",
+      "gloss": "الذهب"
+    },
+    {
+      "surface": "מְלֵאָ֥ה",
+      "gloss": "ملآنةُ"
+    },
+    {
+      "surface": "קְטֹֽרֶת",
+      "gloss": "بَخورًا"
+    }
+  ],
+  "timestamp": "2026-08-07T07:10:49.487971138Z",
+  "model": "glm-5.2"
+}

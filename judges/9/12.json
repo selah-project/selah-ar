@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وقالت ⟨ال⟩أشجار للكرمة: تعالي، أنتِ مَلِكَةٌ علينا.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "وقالت"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "الأشجار"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "للكرمة"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "تعالي"
+    },
+    {
+      "surface": "את",
+      "gloss": "أنتِ"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "ملكة"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "علينا"
+    }
+  ],
+  "timestamp": "2026-08-07T01:15:34.857954716Z",
+  "model": "glm-5.2"
+}

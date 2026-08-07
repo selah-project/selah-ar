@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 23:26",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "ويُعَرّونكِ ⟨את⟩ ثيابَكِ، ويأخُذون أمتعةَ زينَتِكِ.",
+  "tokens": [
+    {
+      "surface": "והפשיטוך",
+      "gloss": "ويُعَرّونكِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ثيابَكِ"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "ثيابَكِ"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "ويأخُذون"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "أمتعةَ"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "زينَتِكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T03:05:26.797680142Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "فذهب بنو إسرائيل وفعلوا كما أوصى يهوه ⟨את⟩ موشيه و⟨את⟩ أهرون، هكذا فعلوا.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "فذهب"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "وفعلوا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "إسرائيل"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "أوصى"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشيه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "وأهرون"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "فعلوا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:03:43.932836120Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 8:18",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 8,
+  "translation": "⟨بل⟩ تذكر ⟨את⟩ يهوه إلوهيمك، فإنه ⟨هو⟩ المعطي لك قوّةً لصنع ثروة، ⟨لكي⟩ يقيم ⟨את⟩ بريته التي حلف لآبائك كاليوم هذا.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "⟨بل⟩ تذكر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "כי",
+      "gloss": "فإنه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "المعطي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لك"
+    },
+    {
+      "surface": "כח",
+      "gloss": "قوّةً"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "لصنع"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ثروة"
+    },
+    {
+      "surface": "למען",
+      "gloss": "⟨لكي⟩"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "يقيم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بريته"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "بريته"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "حلف"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "لآبائك"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "كاليوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "هذا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:54:42.995671919Z",
+  "model": "glm-5.2"
+}

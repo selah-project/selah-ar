@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 23,
+  "translation": "فأخذ بلق ⟨את⟩ بيلعم إلى رأس فعور، المُطِلّ على وجه اليشيمون.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "فأخذ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بلق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بيلعم"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بيلعم"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "رأس"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "فعور"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "المُطِلّ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "פני",
+      "gloss": "وجه"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "اليشيمون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:40:04.996719811Z",
+  "model": "glm-5.2"
+}

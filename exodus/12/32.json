@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "أيضًا غنمكم أيضًا بقركم خذوا كما تكلّمتم واذهبوا، وباركني أيضًا ⟨את⟩ي.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "غنمكم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "بقركم"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "خذوا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "كما"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "تكلّمتم"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "واذهبوا"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "وباركني"
+    },
+    {
+      "surface": "גם",
+      "gloss": "أيضًا"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ي"
+    }
+  ],
+  "timestamp": "2026-08-07T00:04:18.006395214Z",
+  "model": "glm-5.2"
+}

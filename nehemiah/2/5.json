@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 2:5",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "فقلتُ للملك: إن كان على الملك طيّب، وإن حسُن عبدك أمامك، أن تُرسلني إلى يهودا، إلى مدينة قبور آبائي، فأبنيها.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "وقلتُ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "للملك"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيّب"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "حسُن"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدك"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "أمامك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "أن"
+    },
+    {
+      "surface": "תשלחני",
+      "gloss": "تُرسلني"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "مدينة"
+    },
+    {
+      "surface": "קברות",
+      "gloss": "قبور"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "آبائي"
+    },
+    {
+      "surface": "ואבננה",
+      "gloss": "فأبنيها"
+    }
+  ],
+  "timestamp": "2026-08-07T05:05:02.082750001Z",
+  "model": "glm-5.2"
+}

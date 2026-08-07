@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 41,
+  "translation": "وقال فِرعون ليوصف: «انظر، إنّي قد جعلتُ ⟨את⟩ك على كلّ أرض مصرايم».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فِرعون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوصف"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "انظر"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "إنّي قد جعلتُ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "إيّاك"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كلّ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:52:40.185628733Z",
+  "model": "glm-5.2"
+}

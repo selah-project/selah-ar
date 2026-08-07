@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 2:9",
+  "book": "1-kings",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "والآن لا تُبرئه، لأنّك رجلٌ حكيمٌ، فتعرف ⟨את⟩ ماذا تفعل به، وتُنزل شيباته بدمٍ إلى شيول.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "والآن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תנקהו",
+      "gloss": "تُبرئه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّك"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجلٌ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حكيمٌ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "فتعرف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماذا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تفعل"
+    },
+    {
+      "surface": "לו",
+      "gloss": "به"
+    },
+    {
+      "surface": "והורדת",
+      "gloss": "وتُنزل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شيباته"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "شيباته"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "بدمٍ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شيول"
+    }
+  ],
+  "timestamp": "2026-08-07T01:42:07.997135166Z",
+  "model": "glm-5.2"
+}

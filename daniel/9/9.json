@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 9:9",
+  "book": "daniel",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "لأدوناي إلوهيمنا الرحمة ⟨و⟩الصفح، لأنّنا تمرّدنا عليه.",
+  "tokens": [
+    {
+      "surface": "לאדני",
+      "gloss": "لأدوناي"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "إلوهيمنا"
+    },
+    {
+      "surface": "הרחמים",
+      "gloss": "الرحمة"
+    },
+    {
+      "surface": "והסלחות",
+      "gloss": "والصفح"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "מרדנו",
+      "gloss": "تمرّدنا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "عليه"
+    }
+  ],
+  "timestamp": "2026-08-07T04:59:26.785598277Z",
+  "model": "glm-5.2"
+}

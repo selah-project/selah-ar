@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 10:3",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "لأنّ فرائض الشعوب بطلًا ⟨هي⟩، لأنّ شجرة من الوعر قطعوها عمل أيدي حِرفيّ بالمعول",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "فرائض"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "الشعوب"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "بطلًا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هي⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "شجرة"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "من الوعر"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "قطعوها"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "أيدي"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "حِرفيّ"
+    },
+    {
+      "surface": "במעצד",
+      "gloss": "بالمعول"
+    }
+  ],
+  "timestamp": "2026-08-07T02:33:52.445914708Z",
+  "model": "glm-5.2"
+}

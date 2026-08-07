@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 9:2",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "«و»قال لـ أهارون: خذ لَك عجل بَن بَقَر لِـذبيحة خطية «و»كبش لِـعولاه، تَمام، «و»قرّب أمام وجه يهوه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "«و»قال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "أهارون"
+    },
+    {
+      "surface": "קח",
+      "gloss": "خذ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لَك"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "عجل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "بَقَر"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "لِـذبيحة خطية"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "«و»كبش"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "لِـعولاه"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "تَمام"
+    },
+    {
+      "surface": "והקרב",
+      "gloss": "«و»قرّب"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام وجه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    }
+  ],
+  "timestamp": "2026-08-07T00:18:33.451268527Z",
+  "model": "glm-5.2"
+}

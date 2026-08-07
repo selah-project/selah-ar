@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 1:15",
+  "book": "joel",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "آهِ على اليوم! لأنّ يوم يهوه قريبٌ، وكهلاكٍ من قِبَل شدّاي يأتي.",
+  "tokens": [
+    {
+      "surface": "אהה",
+      "gloss": "آهِ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "على اليوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "قريبٌ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "يوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וכשד",
+      "gloss": "وكهلاكٍ"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "من قِبَل شدّاي"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "يأتي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:23:49.990813686Z",
+  "model": "glm-5.2"
+}

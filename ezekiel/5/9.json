@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "«وأفعلُ فيكِ ⟨את⟩ ما لم أفعله، و⟨את⟩ ما لا أفعله مِثلَه بعدُ، بسبب كل رجساتكِ.»",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "وأفعلُ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "فيكِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ما"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لم"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "أفعله"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "ما"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "أفعله"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "مِثلَه"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعدُ"
+    },
+    {
+      "surface": "יען",
+      "gloss": "بسبب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "كل"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "رجساتكِ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:56:02.322839019Z",
+  "model": "glm-5.2"
+}

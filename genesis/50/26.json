@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 50:26",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 50,
+  "translation": "ومات يوصِيف ابن مئة وعشر سنة، فحنّطوه ووضعوه في تابوت في مصرايم.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ومات"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يوصِيف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "مئة"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "وعشر"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "فحنّطوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ضع\/ه"
+    },
+    {
+      "surface": "ויישם",
+      "gloss": "ووُضع"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "في تابوت"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "في مصرايم"
+    }
+  ],
+  "timestamp": "2026-08-07T05:36:56.765639729Z",
+  "model": "glm-5.2"
+}

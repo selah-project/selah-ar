@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "بنو پَرعَش: ألفان ومئة واثنان وسبعون.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "پَرعَش"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ألفان"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ومئة"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "وسبعون"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "واثنان"
+    }
+  ],
+  "timestamp": "2026-08-07T05:01:10.364423958Z",
+  "model": "glm-5.2"
+}

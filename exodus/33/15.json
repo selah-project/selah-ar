@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 33,
+  "translation": "فقال له: «إن لم يسرْ وجهك، فلا تصعدْنا من هنا».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لم"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "وجهك"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "يسير"
+    },
+    {
+      "surface": "אל",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "تصعدْنا"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "من هنا"
+    }
+  ],
+  "timestamp": "2026-08-07T00:12:48.874997409Z",
+  "model": "glm-5.2"
+}

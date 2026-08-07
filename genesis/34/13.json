@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 34,
+  "translation": "فأجاب بَنُو يعقوف ⟨את⟩ شكيم و⟨את⟩ حَمور أباه بمكر، وتكلّموا ⟨لأنّه⟩ نجَّس ⟨את⟩ ديناه أختهم.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "فأجاب"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شكيم"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شكيم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "حَمور"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "حَمور"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أباه"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "بمكر"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "وتكلّموا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي\/لأنّه"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجَّس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ديناه"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "ديناه"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "أختهم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:48:25.653558709Z",
+  "model": "glm-5.2"
+}

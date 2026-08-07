@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 99,
+  "translation": "בְּעַמּוּד עָנָן יְדַבֵּר אֲלֵיהֶם שָׁמְרוּ עֵדֹתָיו וְחֹק נָתַן לָמוֹ",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "في عمود"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "سحاب"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "كان يتكلّم"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "إليهم"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "حفظوا"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "شهاداته"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "وفريضة"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "أعطى"
+    },
+    {
+      "surface": "למו",
+      "gloss": "لهم"
+    }
+  ],
+  "timestamp": "2026-08-07T08:07:57.221408013Z",
+  "model": "glm-5.2"
+}

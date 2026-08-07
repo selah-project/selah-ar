@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 62:3",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 62,
+  "translation": "وتكونين تاجَ بهاءٍ بيد يهوه، وعِصابةَ مُلكٍ بكفّ إلوهيم.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "وتكونين"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "تاجَ"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "بهاءٍ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بيد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וצנוף",
+      "gloss": "وعِصابةَ"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "مُلكٍ"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "بكفّ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:25:16.066690646Z",
+  "model": "glm-5.2"
+}

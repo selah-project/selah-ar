@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "ar",
+  "chapter": 16,
+  "translation": "و⟨كان⟩ عند دخولهم، فرأى ⟨את⟩ أليآب، فقال: «حقًّا أمام يهوه ماشيحه.»",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "عند دخولهم"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "فرأى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أليآب"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "أليآب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אך",
+      "gloss": "حقًّا"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "ماشيحه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:46:29.262136064Z",
+  "model": "glm-5.2"
+}

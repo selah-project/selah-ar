@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "لا تُحْرِكْ ضدَّ صاحبِكَ شرًّا، وهو ساكنُ ⟨ب⟩طُمأنينةٍ معكَ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "تُحْرِك"
+    },
+    {
+      "surface": "על",
+      "gloss": "ضدَّ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "صاحبِكَ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شرًّا"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ساكنُ"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "طُمأنينة"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "معكَ"
+    }
+  ],
+  "timestamp": "2026-08-07T08:13:26.656212729Z",
+  "model": "glm-5.2"
+}

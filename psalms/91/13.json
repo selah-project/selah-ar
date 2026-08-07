@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 91,
+  "translation": "على شَحَل ⟨و⟩ فِتَن تَدوس، تَطأ كَفير ⟨و⟩ تَنين.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "شَحَل"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "⟨و⟩ فِتَن"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "تَدوس"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "تَطأ"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "كَفير"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "⟨و⟩ تَنين"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:08.547682270Z",
+  "model": "glm-5.2"
+}

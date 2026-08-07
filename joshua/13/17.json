@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 13:17",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "وحَشْبون وكلّ مدنها التي في الميسور: ديفون، وباموت بَعَل، وبيت بَعَل مَعون",
+  "tokens": [
+    {
+      "surface": "חשבון",
+      "gloss": "حَشبون"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "עריה",
+      "gloss": "مدنها"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "במישר",
+      "gloss": "في الميسور"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "ديفون"
+    },
+    {
+      "surface": "ובמות",
+      "gloss": "وباموت"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بَعَل"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "وبيت"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بَعَل"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "مَعون"
+    }
+  ],
+  "timestamp": "2026-08-07T01:06:22.258578127Z",
+  "model": "glm-5.2"
+}

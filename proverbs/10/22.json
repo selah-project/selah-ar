@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "بركة يهوه ⟨هي⟩ تُغني، ⟨و⟩لا يزيد تعب معها.",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "بركة"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨هي⟩"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "تُغني"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "يزيد"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "تعب"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "معها"
+    }
+  ],
+  "timestamp": "2026-08-07T04:24:42.606637083Z",
+  "model": "glm-5.2"
+}

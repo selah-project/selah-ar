@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 95,
+  "translation": "لا تقسّوا قلوبكم كمريبا، كيوم مَسّاة في البريّة.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "تقسّوا"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "قلوبكم"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "كمريبا"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "كيوم"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "مَسّاة"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "في البريّة"
+    }
+  ],
+  "timestamp": "2026-08-07T04:05:03.731987790Z",
+  "model": "glm-5.2"
+}

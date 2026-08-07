@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "ar",
+  "chapter": 3,
+  "translation": "وقال يهوشُع لبني يسرايل: تقدّموا إلى هنا واسمعوا ⟨את⟩ كلمات يهوه إلوهيمكم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يهوشُع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "تقدّموا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "إلى هنا"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "واسمعوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "كلمات"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "كلمات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "إلوهيمكم"
+    }
+  ],
+  "timestamp": "2026-08-07T01:02:53.722606688Z",
+  "model": "glm-5.2"
+}

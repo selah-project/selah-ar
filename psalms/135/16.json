@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 135,
+  "translation": "فمًا لها فلا تتكلَّم؛ عينانِ لها فلا تُبصر.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "فمًا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لها"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "تتكلَّم"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "عينان"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لها"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "تُبصر"
+    }
+  ],
+  "timestamp": "2026-08-07T04:16:23.794217546Z",
+  "model": "glm-5.2"
+}

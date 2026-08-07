@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 91,
+  "translation": "«لأنّه ⟨بي⟩ تعلّق ⟨محبّةً⟩ فأُنقذه، أُشَمِّره لأنّه عرف اسمي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨بي⟩"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "تعلّق ⟨محبّةً⟩"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "فأُنقذه"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "أُشَمِّره"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "عرف"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "اسمي"
+    }
+  ],
+  "timestamp": "2026-08-07T04:04:08.547851111Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 105,
+  "translation": "اطلبوا يهوه وقدرته، التمسوا وجهه دائمًا",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "اطلبوا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "وقدرته"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "التمسوا"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "وجهه"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "دائمًا"
+    }
+  ],
+  "timestamp": "2026-08-07T04:08:48.334689804Z",
+  "model": "glm-5.2"
+}

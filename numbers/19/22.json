@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 19:22",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وكلّ ما يَمَسّه النّجِسُ يتنجّس، والنّفس الماسّةُ ⟨إيّاه⟩ تتنجّسُ إلى المساء.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "وكلّ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "يمسّه"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨إيّاه⟩"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "النّجِس"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "يتنجّس"
+    },
+    {
+      "surface": "והנפש",
+      "gloss": "والنّفس"
+    },
+    {
+      "surface": "הנגעת",
+      "gloss": "الماسّة"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "تتنجّس"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "المساء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:37:39.766348709Z",
+  "model": "glm-5.2"
+}

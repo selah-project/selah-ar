@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "وهذه أبناءُ ديشود: حمدان، وإشبان، ويتران، وكاران.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "وهذه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "أبناء"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "ديشود"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "حمدان"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "وإشبان"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "ويتران"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "وكاران"
+    }
+  ],
+  "timestamp": "2026-08-06T23:47:56.048422404Z",
+  "model": "glm-5.2"
+}

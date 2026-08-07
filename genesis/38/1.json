@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 38,
+  "translation": "و⟨كان⟩ في ذلك الوقت، فنزل يهودا من عند إخوته، ومال إلى رجل عَدُلاميّ اسمه حيراه.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "في وقت"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ذلك"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "فنزل"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "من عند"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "إخوته"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ومال"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "عَدُلاميّ"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "واسمه"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "حيراه"
+    }
+  ],
+  "timestamp": "2026-08-07T05:35:01.558738413Z",
+  "model": "glm-5.2"
+}

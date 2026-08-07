@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 17,
+  "translation": "ليلَهم إلى نهارٍ يجعلون، ونورًا قريبًا من وجهِ ظلام.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "ليلَهم"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "إلى نهارٍ"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "يجعلون"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ونورًا"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "قريبًا"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "من وجهِ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ظلام"
+    }
+  ],
+  "timestamp": "2026-08-07T04:37:12.542748750Z",
+  "model": "glm-5.2"
+}

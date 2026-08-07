@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 24:5",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 24,
+  "translation": "فقال له العبد: «ربّما لا ترضى ⟨المرأة⟩ بالسير خلفي إلى هذه الأرض. هل أُعيد ⟨את⟩ ابنك إلى الأرض التي خرجتَ منها؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "له"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "العبد"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ربّما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "ترضى"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "المرأة"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "بالسير"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "خلفي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "ההשב",
+      "gloss": "هل أُعيد"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "أُعيد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابنك"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ابنك"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "خرجتَ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "منها"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:58.754478328Z",
+  "model": "glm-5.2"
+}

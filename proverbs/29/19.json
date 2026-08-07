@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 29:19",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "بالكلام لا يُؤدَّب عبد، لأنّهُ يفهمُ وليس ثمّة جواب.",
+  "tokens": [
+    {
+      "surface": "בִּדְבָרִים",
+      "gloss": "بالكلام"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יִוָּסֶר",
+      "gloss": "يؤدَّب"
+    },
+    {
+      "surface": "עֶבֶד",
+      "gloss": "عبد"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "יָבִין",
+      "gloss": "يفهم"
+    },
+    {
+      "surface": "וְאֵין",
+      "gloss": "وليس"
+    },
+    {
+      "surface": "מַעֲנֶה",
+      "gloss": "جواب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:30:15.050240501Z",
+  "model": "glm-5.2"
+}

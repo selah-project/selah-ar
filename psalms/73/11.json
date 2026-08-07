@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 73,
+  "translation": "ويقولون: «كيف يعرف إيل؟ وهل توجد معرفةٌ في عليون؟»",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ويقولون"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "كيف"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "يعرف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إيل"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "وهل توجد"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "معرفة"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "في عليون"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:09.372218760Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 111,
+  "translation": "قوّة ماعَليه أعلن لشعبه، ⟨ل⟩يعطيهم ميراثَ أمم",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "قوّة"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ماعَليه"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "أعلن"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "لشعبه"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "⟨ل⟩يعطي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ميراثَ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "أمم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:10:38.811960550Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 19:10",
+  "book": "deuteronomy",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "فلا يُسفك دم بريء في وسط أرضك التي يهوه إلهك يعطيك نصيبًا، فيكون عليك دماء.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "فلا"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "يُسفك"
+    },
+    {
+      "surface": "דם",
+      "gloss": "دم"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بريء"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "في وسط"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "أرضك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "التي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلهك"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "يعطي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ك"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "نصيبًا"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "فيكون"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "عليك"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "دماء"
+    }
+  ],
+  "timestamp": "2026-08-07T00:57:00.194430546Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 31:3",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 31,
+  "translation": "أليس هلاكًا للفاعل الشرّ، وغربةً لصانعي الإثم؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "أليس"
+    },
+    {
+      "surface": "איד",
+      "gloss": "هلاكًا"
+    },
+    {
+      "surface": "לעול",
+      "gloss": "للمعوجّ"
+    },
+    {
+      "surface": "ונכר",
+      "gloss": "وغربةً"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "لفاعلي"
+    },
+    {
+      "surface": "און",
+      "gloss": "الإثم"
+    }
+  ],
+  "timestamp": "2026-08-07T04:40:47.110444715Z",
+  "model": "glm-5.2"
+}

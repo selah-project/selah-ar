@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 43,
+  "translation": "أنا، أنا يهوه، ولا غيري مُنقذ.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "غيري"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "مُنقذ"
+    }
+  ],
+  "timestamp": "2026-08-07T02:18:23.641799668Z",
+  "model": "glm-5.2"
+}

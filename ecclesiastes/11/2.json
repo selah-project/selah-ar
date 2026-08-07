@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 11,
+  "translation": "أعطِ نصيبًا لسبعةٍ وأيضًا لثمانية، لأنّكَ لا تعرفُ ماذا يكونُ مِنْ شرٍّ على الأرض",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "أعطِ"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "نصيبًا"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "لسبعةٍ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "وأيضًا"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "لثمانية"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّكَ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "تعرفُ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ماذا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "يكونُ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "مِنْ شرٍّ"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T04:53:13.024679696Z",
+  "model": "glm-5.2"
+}

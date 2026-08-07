@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 30,
+  "translation": "فسمع يهوه لحزقيا، فشفى ⟨את⟩ الشعب.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "فسمع"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "حزقيا"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "فشفى"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الشعب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    }
+  ],
+  "timestamp": "2026-08-07T05:30:50.723960703Z",
+  "model": "glm-5.2"
+}

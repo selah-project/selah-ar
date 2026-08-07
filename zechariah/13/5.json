@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 13:5",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 13,
+  "translation": "ويقول: لا نافي أنا، رجلٌ يعمل الأرض أنا، لأنّ الإنسان اقتناني ⟨منذ⟩ نعومتي.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ويقول"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نافي"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "رجل"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "يعمل"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "أنا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "الإنسان"
+    },
+    {
+      "surface": "הקנני",
+      "gloss": "اقتناني"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "نعومتي"
+    }
+  ],
+  "timestamp": "2026-08-07T03:37:29.994631715Z",
+  "model": "glm-5.2"
+}

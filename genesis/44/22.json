@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 44,
+  "translation": "فقلنا ⟨ل⟩سيّدي لا يستطيع الفتى أن يترك ⟨את⟩ أباه، وقد ترك ⟨את⟩ أباه ومات",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "فقلنا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سيّدي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "يستطيع"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "الفتى"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "أن يترك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أباه"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أباه"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "وقد ترك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أباه"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "أباه"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ومات"
+    }
+  ],
+  "timestamp": "2026-08-06T23:52:16.205437476Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 36,
+  "translation": "حتى مجيئي وآخذ ⟨את⟩كم إلى أرض كأرضكم، أرض حنطة وعصير، أرض خبز وكرُوم،",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "באי",
+      "gloss": "مجيئي"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "وآخذ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "كم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "كأرضكم"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "حنطة"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "وعصير"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "أرض"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خبز"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "وكرُوم"
+    }
+  ],
+  "timestamp": "2026-08-07T02:16:39.514430392Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 48,
+  "translation": "من معرفتي أنّك قاسٍ، وعقدةُ حديدٍ عُنقُك، وجبهتُك نحاس.",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "من معرفتي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "قاسٍ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "أنت"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "وعقدة"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "حديد"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "عُنقُك"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "وجبهتُك"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "نحاس"
+    }
+  ],
+  "timestamp": "2026-08-07T02:21:00.729593390Z",
+  "model": "glm-5.2"
+}

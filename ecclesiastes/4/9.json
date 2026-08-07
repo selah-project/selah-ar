@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "ar",
+  "chapter": 4,
+  "translation": "طيّبانِ الاثنانِ من الواحد، اللذان لهم أجرٌ طيّبٌ في تعبهما.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "طيّبانِ"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "الاثنانِ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "من"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "الواحد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اللذان"
+    },
+    {
+      "surface": "יש",
+      "gloss": "لهم"
+    },
+    {
+      "surface": "להם",
+      "gloss": ""
+    },
+    {
+      "surface": "שכר",
+      "gloss": "أجرٌ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيّبٌ"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "في تعبهما"
+    }
+  ],
+  "timestamp": "2026-08-07T06:10:31.647234542Z",
+  "model": "glm-5.2"
+}

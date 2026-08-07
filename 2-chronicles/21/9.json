@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 21:9",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "فعبر يهورام مع ⟨رؤسائه⟩ وكل المركبات معه، و⟨كان⟩ قد قام ليلًا فضرب ⟨את⟩ أدوم المحيط به و⟨את⟩ رؤساء المركبات.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "فعبر"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "يهورام"
+    },
+    {
+      "surface": "עם",
+      "gloss": "مع"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "رؤسائه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "وكل"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "المركبات"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "معه"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و⟨كان⟩"
+    },
+    {
+      "surface": "קם",
+      "gloss": "قد قام"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ليلًا"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "فضرب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أدوم"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "أدوم"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "المحيط"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "به"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "رؤساء المركبات"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "رؤساء"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "المركبات"
+    }
+  ],
+  "timestamp": "2026-08-07T05:27:48.352874269Z",
+  "model": "glm-5.2"
+}

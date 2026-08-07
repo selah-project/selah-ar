@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 20,
+  "translation": "أناكِ يهوه إلوهيمك الذي أخرجتكُ من أرضِ مصرايم (مصر)، من بيتِ عبيد:",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "أناكِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "إلوهيمك"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "أخرجتكُ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "من أرضِ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مصرايم"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "من بيتِ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "عبيد"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:45.288438829Z",
+  "model": "glm-5.2"
+}

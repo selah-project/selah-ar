@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 47:21",
+  "book": "ezekiel",
+  "lang": "ar",
+  "chapter": 47,
+  "translation": "وتُقَسِّمون ⟨את⟩ الأرضَ هذه لكم لِأسباطِ يِسرائيل.",
+  "tokens": [
+    {
+      "surface": "וחלקתם",
+      "gloss": "وتُقَسِّمون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لكم"
+    },
+    {
+      "surface": "לשבטי",
+      "gloss": "لِأسباطِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-07T03:17:24.652313711Z",
+  "model": "glm-5.2"
+}

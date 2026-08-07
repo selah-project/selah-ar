@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وإن كان هلاك فتُعطي نَفسًا تحت نَفس",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وإن"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "هلاك"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "كان"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "فتُعطي"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفسًا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تحت"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفس"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:21.288978638Z",
+  "model": "glm-5.2"
+}

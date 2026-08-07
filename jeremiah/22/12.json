@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "لأنّه في المكان الذي سبوه إليه هناك يموت، و⟨את⟩ هذه الأرض لا يرى بعد.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "لأنّه"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "في المكان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "سبوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "إليه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هناك"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "يموت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "هذه الأرض"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "هذه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "يرى"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بعد"
+    }
+  ],
+  "timestamp": "2026-08-07T02:38:52.980520947Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وسگوب ولّد ⟨את⟩ يائير، فكان له ثلاث وعشرون مدينة في أرض جلعاد.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "وسگوب"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولّد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يائير"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "يائير"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "فكان"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "عشرون"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "وثلاث"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "مدن"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "في أرض"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "جلعاد"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:17.916603891Z",
+  "model": "glm-5.2"
+}

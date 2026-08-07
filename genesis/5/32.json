@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وكان نُواح ابن خمسمائة سنة، فولد نُواح ⟨את⟩ شِمًّ و⟨את⟩ حام و⟨את⟩ يافت",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وكان"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُواح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابن"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "خمسمائة"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سنة"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "فولد"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُواح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شِمًّ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شِمًّ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حام"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "يافت"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "يافت"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:28.768266404Z",
+  "model": "glm-5.2"
+}

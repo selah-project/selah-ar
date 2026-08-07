@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "لا تُخبَز خميرًا. نصيبَهم أعطيتُ ⟨את⟩ها من نائري. قُدسُ أقداسٍ ⟨هي⟩، كالخطيئة وكالأَشام.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "تُخبَز"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "خميرًا"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "نصيبَهم"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "أعطيتُ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "نصيبَهم"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "من نائري"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قُدس"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "أقداس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هي"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "كالخطيئة"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "وكالأَشام"
+    }
+  ],
+  "timestamp": "2026-08-07T05:38:15.661834543Z",
+  "model": "glm-5.2"
+}

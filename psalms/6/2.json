@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 6,
+  "translation": "يهوه لا في سخطك توبخني، ولا في غضبك تؤدّبني",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "في سخطك"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "توبخني"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ولا"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "في غضبك"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "تؤدّبني"
+    }
+  ],
+  "timestamp": "2026-08-07T03:41:01.201026813Z",
+  "model": "glm-5.2"
+}

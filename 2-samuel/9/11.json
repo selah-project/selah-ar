@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 9:11",
+  "book": "2-samuel",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فقال صيبـا للملك: ككل ما يأمر به سيّدي الملك عبدَه هكذا يفعل عبدك. ومفيبوشيت يأكل على مائدتي كواحد من أبناء الملك.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "صيبـا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ككل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ما"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "يأمر"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "سيّدي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عبدَه"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "عبده"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هكذا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يفعل"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "عبدك"
+    },
+    {
+      "surface": "ומפיבשת",
+      "gloss": "ومفيبوشيت"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "يأكل"
+    },
+    {
+      "surface": "על",
+      "gloss": "على"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "مائدتي"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "كواحد"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "من أبناء"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    }
+  ],
+  "timestamp": "2026-08-07T01:33:58.715868992Z",
+  "model": "glm-5.2"
+}

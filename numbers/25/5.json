@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 25:5",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 25,
+  "translation": "فقال موشيه لقضاة يسرايل: «اقتلوا كلٌّ رجاله المتعلّقين ببَعل فعور»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فقال"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشيه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "قضاة"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرايل"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "اقتلوا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "كلٌّ"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "رجاله"
+    },
+    {
+      "surface": "הנצמדים",
+      "gloss": "المتعلّقين"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ببَعل"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "فعور"
+    }
+  ],
+  "timestamp": "2026-08-07T00:40:15.659328311Z",
+  "model": "glm-5.2"
+}

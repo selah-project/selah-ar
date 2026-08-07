@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 9:5",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فقالت ⟨ل⟩ الملك: إمِت ⟨هو⟩ الكلام الذي سمعته في أرضي على ⟨شأن⟩ كلامك وعلى ⟨شأن⟩ حكمتك.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "فقالت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "إمِت"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "الكلام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "سمعته"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "في أرضي"
+    },
+    {
+      "surface": "על",
+      "gloss": "عن"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "كلامك"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "وعن"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "حكمتك"
+    }
+  ],
+  "timestamp": "2026-08-07T05:25:10.144149593Z",
+  "model": "glm-5.2"
+}

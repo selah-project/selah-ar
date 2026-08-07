@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 29,
+  "translation": "ويُراقِصُها كعِجلٍ، لفنانون وسرعون كابنِ رَأيميم",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "ويُراقِصُها"
+    },
+    {
+      "surface": "كמו",
+      "gloss": "ك"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "عِجلٍ"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "لفنانون"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "وسرعون"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ك"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ابنِ"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "رَأيميم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:46:28.023751096Z",
+  "model": "glm-5.2"
+}

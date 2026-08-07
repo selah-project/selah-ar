@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 18,
+  "translation": "وأبشاي بن تصرويا ضرب ⟨את⟩ أدوم في وادي الملح، ثمانية عشر ألفًا.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "وأبشاي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "تصرويا"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ضرب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أدوم"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "أدوم"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "في وادي"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "الملح"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ثمانية"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ألفًا"
+    }
+  ],
+  "timestamp": "2026-08-07T05:16:54.716621752Z",
+  "model": "glm-5.2"
+}

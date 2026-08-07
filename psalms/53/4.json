@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 53,
+  "translation": "الكلُّ معًا ارتدّ، تأفّكوا جميعًا؛ لا فاعلَ خير، لا حتى واحد.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "الكلُّ"
+    },
+    {
+      "surface": "סג",
+      "gloss": "ارتدّ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "معًا"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "تأفّكوا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "فاعل"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "خير"
+    },
+    {
+      "surface": "אין",
+      "gloss": "لا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "حتى"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "واحد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:54:29.787232194Z",
+  "model": "glm-5.2"
+}

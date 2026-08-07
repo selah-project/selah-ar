@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 22,
+  "translation": "⟨את⟩ عوص بكره، و⟨את⟩ بوز أخوه، و⟨את⟩ قموئيل أبي أرام.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عوص"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "عوص"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "بكره"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "بوز"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "بوز"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "أخوه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "قموئيل"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "قموئيل"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "أبي"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "أرام"
+    }
+  ],
+  "timestamp": "2026-08-06T23:41:51.294428256Z",
+  "model": "glm-5.2"
+}

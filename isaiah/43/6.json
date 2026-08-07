@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "ar",
+  "chapter": 43,
+  "translation": "أقول للشمال أعطِ وللجنوب لا تمنعي، أدخلي بنيّ من بعيد وبناتي من أقصى الأرض.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "أقول"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "للشمال"
+    },
+    {
+      "surface": "תני",
+      "gloss": "أعطِ"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "وللجنوب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "تمنعي"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "أدخلي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنيّ"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "من بعيد"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "وبناتي"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "من أقصى"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    }
+  ],
+  "timestamp": "2026-08-07T02:19:03.226159178Z",
+  "model": "glm-5.2"
+}

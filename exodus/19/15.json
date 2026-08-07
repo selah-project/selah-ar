@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 19,
+  "translation": "وقال للشعب: كونوا مستعدّين لثلاثة أيّام، لا تقتربوا إلى امرأة.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وقال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لـ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "الشعب"
+    },
+    {
+      "surface": "היו",
+      "gloss": "كونوا"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "مستعدّين"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "لثلاثة"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "أيّام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لا"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "تقتربوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأة"
+    }
+  ],
+  "timestamp": "2026-08-07T00:06:35.411887063Z",
+  "model": "glm-5.2"
+}

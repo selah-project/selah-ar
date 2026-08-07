@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "esther 2:19",
+  "book": "esther",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وعند جمع العذارى ثانيةً، كان مُردخاي جالسًا في باب الملك.",
+  "tokens": [
+    {
+      "surface": "ובהקבץ",
+      "gloss": "وعند جمع"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "العذارى"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ثانيةً"
+    },
+    {
+      "surface": "ומרדכי",
+      "gloss": "ومُردخاي"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "جالسًا"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "في باب"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "الملك"
+    }
+  ],
+  "timestamp": "2026-08-07T04:53:34.430909490Z",
+  "model": "glm-5.2"
+}

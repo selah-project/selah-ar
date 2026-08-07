@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 42:24",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 42,
+  "translation": "فانصرف عنهم وبكى، ثم رجع إليهم وكلّمهم، وأخذ منهم ⟨את⟩ شمعون وقيّد ⟨את⟩ه أمام أعينهم.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "فانصرف"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "عنهم"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "وبكى"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ثم رجع"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "إليهم"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "وكلّمهم"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "إليهم"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "وأخذ"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "منهم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شمعون"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمعون"
+    },
+    {
+      "surface": "ויאסר",
+      "gloss": "وقيّد"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ه"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "أمام أعينهم"
+    }
+  ],
+  "timestamp": "2026-08-06T23:52:01.368314209Z",
+  "model": "glm-5.2"
+}

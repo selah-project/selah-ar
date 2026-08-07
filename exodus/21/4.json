@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 21:4",
+  "book": "exodus",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "إن أعطاه سيّدُه امرأةً وولدت له بنين أو بنات، فالمرأة وأولادها يكونون لسيّدها، وهو يخرج بجسده.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "إن"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "سيّدُه"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "أعطى"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "امرأةً"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "وولدت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "له"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بنين"
+    },
+    {
+      "surface": "או",
+      "gloss": "أو"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "بنات"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "فالمرأة"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "وأولادها"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "يكونون"
+    },
+    {
+      "surface": "לאדניה",
+      "gloss": "لسيّدها"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وهو"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "يخرج"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "بجسده"
+    }
+  ],
+  "timestamp": "2026-08-07T00:07:51.361850468Z",
+  "model": "glm-5.2"
+}

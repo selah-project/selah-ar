@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 10,
+  "translation": "الطامس ⟨بـ⟩العين يُعطي ألماً، والأحمق الشفاه يُضرَب.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "الطامس"
+    },
+    {
+      "surface": "עין",
+      "gloss": "العين"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "يُعطي"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "ألماً"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "والأحمق"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "الشفاه"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "يُضرَب"
+    }
+  ],
+  "timestamp": "2026-08-07T04:23:40.859339709Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 73,
+  "translation": "لذلك يرجع ⟨إليه⟩ شعبه إلى هنا، ومياه الملء تُمَصُّ لهم.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لذلك"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "يرجع"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "شعبه"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "إلى هنا"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ومياه"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "الملء"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "تُمَصّ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "لهم"
+    }
+  ],
+  "timestamp": "2026-08-07T03:59:09.372110959Z",
+  "model": "glm-5.2"
+}

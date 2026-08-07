@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 5:27",
+  "book": "job",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "هَا هذا، حقّقنا فيه — كذلك ⟨هو⟩؛ اسمعْه يا ⟨أنت⟩، واعرفْه لنفسك.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "هَا"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "هذا"
+    },
+    {
+      "surface": "חקרנוה",
+      "gloss": "حقّقنا فيه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "كذلك"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "שמענה",
+      "gloss": "اسمعْه"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ويا ⟨أنت⟩"
+    },
+    {
+      "surface": "דע",
+      "gloss": "واعرفْه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لنفسك"
+    }
+  ],
+  "timestamp": "2026-08-07T06:08:40.301044720Z",
+  "model": "glm-5.2"
+}

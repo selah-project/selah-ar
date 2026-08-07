@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "فرأيتِ ⟨את⟩ بُؤس آبائنا في مصرايم، و⟨את⟩ صراخهم سمعتِ عند بحر سوف",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "فرأيتِ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بُؤس آبائنا"
+    },
+    {
+      "surface": "עני",
+      "gloss": "بُؤس"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "آبائنا"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "في مصرايم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و⟨את⟩",
+      "marks": "صراخهم"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "صراخهم"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "سمعتِ"
+    },
+    {
+      "surface": "על",
+      "gloss": "عند"
+    },
+    {
+      "surface": "ים",
+      "gloss": "بحر"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سوف"
+    }
+  ],
+  "timestamp": "2026-08-07T05:06:28.371499659Z",
+  "model": "glm-5.2"
+}

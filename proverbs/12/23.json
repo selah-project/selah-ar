@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 12:23",
+  "book": "proverbs",
+  "lang": "ar",
+  "chapter": 12,
+  "translation": "إنسانٌ عاروم يَكتُم دَعت، وقلب كسيليم يُنادي إولِت.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "إنسان"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "عاروم"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "يَكتُم"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "دَعت"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "وقلب"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "كسيليم"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "يُنادي"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "إولِت"
+    }
+  ],
+  "timestamp": "2026-08-07T04:25:18.342109802Z",
+  "model": "glm-5.2"
+}

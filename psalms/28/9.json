@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "ar",
+  "chapter": 28,
+  "translation": "خَلِّصْ ⟨את⟩ شعبَك وباركْ ⟨את⟩ ميراثَك، وارعَهُم ⟨وارفعْهُم⟩ إلى الأبد.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "خَلِّصْ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شعبك"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "شعبَك"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "وباركْ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ميراثك"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ميراثَك"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "وارعَهُم"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "وارفعْهُم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "الأبد"
+    }
+  ],
+  "timestamp": "2026-08-07T03:45:18.654095437Z",
+  "model": "glm-5.2"
+}

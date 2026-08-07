@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 9:3",
+  "book": "zechariah",
+  "lang": "ar",
+  "chapter": 9,
+  "translation": "وبنت صُورُ لنفسها حِصنًا، وكمَّلت فضةً كالتراب، وذهبًا كطينِ الشوارع.",
+  "tokens": [
+    {
+      "surface": "ותבן",
+      "gloss": "وبنت"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صُورُ"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "حِصنًا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لنفسها"
+    },
+    {
+      "surface": "ותצבר",
+      "gloss": "وكمَّلت"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "فضةً"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "كالتراب"
+    },
+    {
+      "surface": "וחרוץ",
+      "gloss": "وذهبًا"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "كطينِ"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "الشوارع"
+    }
+  ],
+  "timestamp": "2026-08-07T03:36:31.951301103Z",
+  "model": "glm-5.2"
+}

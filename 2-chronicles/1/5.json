@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 1:5",
+  "book": "2-chronicles",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "ومذبح النحاس الذي صنعه بِصَلْئيل بن أوري بن حور وضعه أمام مِشكان يهوه، وطلبه شلوموه والجماعة.",
+  "tokens": [
+    {
+      "surface": "ומזבח",
+      "gloss": "ومذبح"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "النحاس"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "صنعه"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "بِصَلْئيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "أوري"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حور"
+    },
+    {
+      "surface": "שם",
+      "gloss": "وضعه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "أمام"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "مِشكان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "يهوه"
+    },
+    {
+      "surface": "וידרשהו",
+      "gloss": "وطلبه"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموه"
+    },
+    {
+      "surface": "והקהל",
+      "gloss": "والجماعة"
+    }
+  ],
+  "timestamp": "2026-08-07T05:19:40.592711442Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 1:12",
+  "book": "genesis",
+  "lang": "ar",
+  "chapter": 1,
+  "translation": "فأخرجت الأرض عشبًا، عشبًا يُبذِر بذرًا لنوعه، وشجرًا يصنع فاكهة الذي بذره فيه لنوعه. ورأى إلوهيم أنّه طيّب.",
+  "tokens": [
+    {
+      "surface": "ותוצא",
+      "gloss": "فأخرجت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "الأرض"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "عشبًا"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "عشبًا"
+    },
+    {
+      "surface": "מזריע",
+      "gloss": "يُبذِر"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "بذرًا"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "لنوعه"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "وشجرًا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "يصنع"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "فاكهة"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "الذي"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "بذره"
+    },
+    {
+      "surface": "בו",
+      "gloss": "فيه"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "لنوعه"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ورأى"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "إلوهيم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "أنّه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "طيّب"
+    }
+  ],
+  "timestamp": "2026-08-06T23:37:09.355453633Z",
+  "model": "glm-5.2"
+}

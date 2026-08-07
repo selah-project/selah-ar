@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 2,
+  "translation": "وبُوعَز ولَد ⟨את⟩ عُوبيد، وعُوبيد ولَد ⟨את⟩ يِشاي.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "وبُوعَز"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عُوبيد"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "عُوبيد"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "وعُوبيد"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ولَد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يِشاي"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "يِشاي"
+    }
+  ],
+  "timestamp": "2026-08-07T05:09:58.668182234Z",
+  "model": "glm-5.2"
+}

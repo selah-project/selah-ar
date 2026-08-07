@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "ar",
+  "chapter": 5,
+  "translation": "وعُزّي وَلَّد ⟨את⟩ زَرَحْياه، وزَرَحْياه وَلَّد ⟨את⟩ مَرا يوت.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "وعُزّي"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وَلَّد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زَرَحْياه"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "زَرَحْياه"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "وزَرَحْياه"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وَلَّد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مَرا يوت"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "مَرا يوت"
+    }
+  ],
+  "timestamp": "2026-08-07T05:10:57.396174898Z",
+  "model": "glm-5.2"
+}

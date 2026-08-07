@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 21:24",
+  "book": "numbers",
+  "lang": "ar",
+  "chapter": 21,
+  "translation": "وضربه يِسراائيل بفم السيف، فامتلك ⟨את⟩ أرضه من أرنون إلى يبُّوق، إلى بني عمّون، لأنّ تخم بني عمّون كان منيعًا.",
+  "tokens": [
+    {
+      "surface": "ויכהו",
+      "gloss": "وضربه"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسراائيل"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "بفم"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "السيف"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "فامتلك"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "أرضه"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "أرضه"
+    },
+    {
+      "surface": "מארנן",
+      "gloss": "من أرنون"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "يبُّوق"
+    },
+    {
+      "surface": "עד",
+      "gloss": "إلى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمّون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لأنّ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "منيعًا"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "تخم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمّون"
+    }
+  ],
+  "timestamp": "2026-08-07T00:38:36.577479262Z",
+  "model": "glm-5.2"
+}
