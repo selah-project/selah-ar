@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "ar",
   "chapter": 2,
-  "translation": "والنَّعِل شموئيل كان يمشي ويزداد ويُحسَن، tanto مع يهوه como también مع الناس.",
+  "translation": "و⟨كان⟩ الفتى شموئيل يمضي وينمو ويَطيب، مع يهوه ومع الناس",
   "tokens": [
     {
       "surface": "והנער",
-      "gloss": "والنَّعِل"
+      "gloss": "والفتى"
     },
     {
       "surface": "שמואל",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "הלך",
-      "gloss": "كان يمشي"
+      "gloss": "يمضي"
     },
     {
       "surface": "וגדל",
-      "gloss": "ويزداد"
+      "gloss": "وينمو"
     },
     {
       "surface": "וטוב",
-      "gloss": "ويُحسَن"
+      "gloss": "ويَطيب"
     },
     {
       "surface": "גם",
-      "gloss": "tanto"
+      "gloss": "مع"
     },
     {
       "surface": "עם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "וגם",
-      "gloss": "como también"
+      "gloss": "ومع"
     },
     {
       "surface": "עם",
@@ -52,6 +52,6 @@
       "gloss": "الناس"
     }
   ],
-  "timestamp": "2026-08-07T07:23:41.343700718Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:27:40.203189843Z",
+  "model": "glm-5.3"
 }

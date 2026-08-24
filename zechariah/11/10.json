@@ -5,74 +5,74 @@
   "book": "zechariah",
   "lang": "ar",
   "chapter": 11,
-  "translation": "فأخذتُ عصايّ ⟨את⟩ نُعْم، وقطعتُه ⟨אתו⟩ لإبطالِ ⟨את⟩ بريتي التي قطعتُها مع ⟨את⟩ كلّ الشعوب",
+  "translation": "وأخذت عصايّ «نعم» فقطعتها لِأُبطل بريتي التي قطعتها ⟨مع⟩ كل الشعوب.",
   "tokens": [
     {
-      "surface": "וָאֶקַּח",
-      "gloss": "فأخذتُ"
+      "surface": "ואקח",
+      "gloss": "وأخذت"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "عصايّ"
     },
     {
-      "surface": "מַקְלִי֙",
+      "surface": "מקלי",
       "gloss": "عصايّ"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "نُعْم"
+      "marks": "«نعم»"
     },
     {
-      "surface": "נֹ֔עַם",
-      "gloss": "نُعْم"
+      "surface": "נעם",
+      "gloss": "«نعم»"
     },
     {
-      "surface": "וָאֶגְדַּ֖ע",
-      "gloss": "وقطعتُه"
+      "surface": "ואגדע",
+      "gloss": "فقطعتها"
     },
     {
-      "surface": "אֹת֑וֹ",
-      "gloss": "⟨אתו⟩",
-      "marks": "عصايّ (مفعول به سابق)"
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
+      "marks": "عصايّ"
     },
     {
-      "surface": "לְהָפֵ֣יר֙",
-      "gloss": "لإبطالِ"
+      "surface": "להפיר",
+      "gloss": "لِأُبطل"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "بريتي"
     },
     {
-      "surface": "בְּרִיתִ֔י",
+      "surface": "בריתי",
       "gloss": "بريتي"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "التي"
     },
     {
-      "surface": "כָּרַ֖תִּי",
-      "gloss": "قطعتُها"
+      "surface": "כרתי",
+      "gloss": "قطعتها"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "كلّ الشعوب"
+      "marks": "كل الشعوب"
     },
     {
-      "surface": "כָּל",
-      "gloss": "كلّ"
+      "surface": "כל",
+      "gloss": "كل"
     },
     {
-      "surface": "הַעַמִּֽים",
+      "surface": "העמים",
       "gloss": "الشعوب"
     }
   ],
-  "timestamp": "2026-08-07T07:59:47.223402246Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:45:48.200378178Z",
+  "model": "glm-5.3"
 }

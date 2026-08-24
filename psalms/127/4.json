@@ -5,33 +5,33 @@
   "book": "psalms",
   "lang": "ar",
   "chapter": 127,
-  "translation": "كالسهام في يد جبّار، كذلك بنو הנעורים.",
+  "translation": "كسِهامٍ في يد جبّار، كذلك بنو الشباب.",
   "tokens": [
     {
-      "surface": "כְּחִצִּ֥ים",
-      "gloss": "كالسهام"
+      "surface": "כחצים",
+      "gloss": "كسِهامٍ"
     },
     {
-      "surface": "בְּיַד",
+      "surface": "ביד",
       "gloss": "في يد"
     },
     {
-      "surface": "גִּבּ֑וֹר",
+      "surface": "גבור",
       "gloss": "جبّار"
     },
     {
-      "surface": "כֵּ֝֗ן",
+      "surface": "כן",
       "gloss": "كذلك"
     },
     {
-      "surface": "בְּנֵ֣י",
+      "surface": "בני",
       "gloss": "بنو"
     },
     {
-      "surface": "הַנְּעוִרִֽים",
-      "gloss": "הנעורים"
+      "surface": "הנעורים",
+      "gloss": "الشباب"
     }
   ],
-  "timestamp": "2026-08-07T08:12:43.120560539Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:29:52.445919202Z",
+  "model": "glm-5.3"
 }

@@ -5,283 +5,41 @@
   "book": "daniel",
   "lang": "ar",
   "chapter": 8,
-  "translation": "הָאַיִל אֲשֶׁר־רָאִיתָ בַּעַל הַקְּרָנָיִם מַלְכֵי מָדַי וּפָרָֽס׃",
+  "translation": "أمّا الكبش الذي رأيتَه ذو القرنين فهو ملوك ميدي وفارس.",
   "tokens": [
     {
-      "is_participle": false,
-      "occurrences_in_verse": 1,
-      "glosses_en": [
-        "ram"
-      ],
-      "glosses_ar": [
-        "الكبش"
-      ],
-      "freq_rank": 15432,
-      "strong": "H352a",
-      "occurrences_in_book": 3,
-      "grammar": {
-        "pos": "noun",
-        "tense": "",
-        "person": "",
-        "gender": "masculine",
-        "number": "singular",
-        "state": "determined"
-      },
-      "is_not_translateable": false,
-      "occurrences_in_chapter": 1,
-      "lexeme": "אַיִל",
-      "is_propnoun": false,
-      "occurrences_in_corpus": 7,
-      "notes": [
-        {
-          "kind": "lexical",
-          "content": "Pun on אַיִל 'ram' and אֵיל 'strength, chief man' (cf. Ezek 17:13); the ram symbolizes a powerful kingdom."
-        }
-      ],
-      "is_aramaic": false,
-      "transliteration": "ha'ayil",
       "surface": "האיל",
-      "gloss": "הָאַיִל",
-      "is_divine_name": false
+      "gloss": "أمّا الكبش"
     },
     {
-      "is_participle": false,
-      "occurrences_in_verse": 1,
-      "glosses_en": [
-        "which",
-        "that",
-        "who"
-      ],
-      "glosses_ar": [
-        "الذي",
-        "التي"
-      ],
-      "freq_rank": 1,
-      "strong": "H834",
-      "occurrences_in_book": 1,
-      "grammar": {
-        "pos": "relative_pronoun",
-        "tense": "",
-        "person": "",
-        "gender": "",
-        "number": "",
-        "state": ""
-      },
-      "is_not_translateable": false,
-      "occurrences_in_chapter": 2,
-      "lexeme": "אֲשֶׁר",
-      "is_propnoun": false,
-      "occurrences_in_corpus": 100,
-      "notes": [],
-      "is_aramaic": false,
-      "transliteration": "'asher",
       "surface": "אשר",
-      "gloss": "אֲשֶׁר",
-      "is_divine_name": false
+      "gloss": "الذي"
     },
     {
-      "is_participle": false,
-      "occurrences_in_verse": 1,
-      "glosses_en": [
-        "you saw"
-      ],
-      "glosses_ar": [
-        "رأيتَ"
-      ],
-      "freq_rank": 1,
-      "strong": "H7200",
-      "occurrences_in_book": 1,
-      "grammar": {
-        "pos": "verb",
-        "tense": "perfect",
-        "person": "2",
-        "gender": "masculine",
-        "number": "singular",
-        "state": ""
-      },
-      "is_not_translateable": false,
-      "occurrences_in_chapter": 2,
-      "lexeme": "רָאָה",
-      "is_propnoun": false,
-      "occurrences_in_corpus": 100,
-      "notes": [],
-      "is_aramaic": false,
-      "transliteration": "ra'ita",
       "surface": "ראית",
-      "gloss": "רָאִיתָ",
-      "is_divine_name": false
+      "gloss": "رأيتَه"
     },
     {
-      "is_participle": false,
-      "occurrences_in_verse": 1,
-      "glosses_en": [
-        "possessor of",
-        "owner of",
-        "lord of",
-        "having"
-      ],
-      "glosses_ar": [
-        "صاحب",
-        "ذو"
-      ],
-      "freq_rank": 1,
-      "strong": "H1167",
-      "occurrences_in_book": 1,
-      "grammar": {
-        "pos": "noun",
-        "tense": "",
-        "person": "",
-        "gender": "masculine",
-        "number": "singular",
-        "state": "construct"
-      },
-      "is_not_translateable": false,
-      "occurrences_in_chapter": 1,
-      "lexeme": "בַּעַל",
-      "is_propnoun": false,
-      "occurrences_in_corpus": 100,
-      "notes": [
-        {
-          "kind": "lexical",
-          "content": "Construct noun used as an attributive circumstantial clause; KJV\/ASV render 'having', lit. 'master\/owner of [the] horns'."
-        }
-      ],
-      "is_aramaic": false,
-      "transliteration": "ba'al",
       "surface": "בעל",
-      "gloss": "בַּעַל",
-      "is_divine_name": false
+      "gloss": "ذو"
     },
     {
-      "is_participle": false,
-      "occurrences_in_verse": 1,
-      "glosses_en": [
-        "the two horns"
-      ],
-      "glosses_ar": [
-        "القرنان"
-      ],
-      "freq_rank": 1,
-      "strong": "H7161a",
-      "occurrences_in_book": 1,
-      "grammar": {
-        "pos": "noun",
-        "tense": "",
-        "person": "",
-        "gender": "feminine",
-        "number": "dual",
-        "state": "determined"
-      },
-      "is_not_translateable": false,
-      "occurrences_in_chapter": 1,
-      "lexeme": "קֶרֶן",
-      "is_propnoun": false,
-      "occurrences_in_corpus": 100,
-      "notes": [],
-      "is_aramaic": false,
-      "transliteration": "haqqeranayim",
       "surface": "הקרנים",
-      "gloss": "הַקְּרָנָיִם",
-      "is_divine_name": false
+      "gloss": "القرنين"
     },
     {
-      "is_participle": false,
-      "occurrences_in_verse": 1,
-      "glosses_en": [
-        "kings of"
-      ],
-      "glosses_ar": [
-        "ملوك"
-      ],
-      "freq_rank": 1,
-      "strong": "H4428",
-      "occurrences_in_book": 1,
-      "grammar": {
-        "pos": "noun",
-        "tense": "",
-        "person": "",
-        "gender": "masculine",
-        "number": "plural",
-        "state": "construct"
-      },
-      "is_not_translateable": false,
-      "occurrences_in_chapter": 2,
-      "lexeme": "מֶלֶךְ",
-      "is_propnoun": false,
-      "occurrences_in_corpus": 100,
-      "notes": [],
-      "is_aramaic": false,
-      "transliteration": "malke",
       "surface": "מלכי",
-      "gloss": "מַלְכֵי",
-      "is_divine_name": false
+      "gloss": "ملوك"
     },
     {
-      "is_participle": false,
-      "occurrences_in_verse": 1,
-      "glosses_en": [
-        "Media",
-        "Medes"
-      ],
-      "glosses_ar": [
-        "مادي"
-      ],
-      "freq_rank": 1,
-      "strong": "H4074",
-      "occurrences_in_book": 1,
-      "grammar": {
-        "pos": "proper_noun",
-        "tense": "",
-        "person": "",
-        "gender": "",
-        "number": "",
-        "state": ""
-      },
-      "is_not_translateable": false,
-      "occurrences_in_chapter": 2,
-      "lexeme": "מָדַי",
-      "is_propnoun": true,
-      "occurrences_in_corpus": 100,
-      "notes": [],
-      "is_aramaic": false,
-      "transliteration": "maday",
       "surface": "מדי",
-      "gloss": "מָדַי",
-      "is_divine_name": false
+      "gloss": "ميدي"
     },
     {
-      "is_participle": false,
-      "occurrences_in_verse": 1,
-      "glosses_en": [
-        "and Persia"
-      ],
-      "glosses_ar": [
-        "وفارس"
-      ],
-      "freq_rank": 1,
-      "strong": "H6539",
-      "occurrences_in_book": 1,
-      "grammar": {
-        "pos": "proper_noun",
-        "tense": "",
-        "person": "",
-        "gender": "",
-        "number": "",
-        "state": ""
-      },
-      "is_not_translateable": false,
-      "occurrences_in_chapter": 1,
-      "lexeme": "פָּרָס",
-      "is_propnoun": true,
-      "occurrences_in_corpus": 100,
-      "notes": [],
-      "is_aramaic": false,
-      "transliteration": "ufaras",
       "surface": "ופרס",
-      "gloss": "וּפָרָס",
-      "is_divine_name": false
+      "gloss": "وفارس"
     }
   ],
-  "timestamp": "2026-08-07T08:21:55.635978515Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:30:21.527920493Z",
+  "model": "glm-5.3"
 }

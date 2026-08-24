@@ -5,110 +5,54 @@
   "book": "leviticus",
   "lang": "ar",
   "chapter": 13,
-  "translation": "וְצִוָּה֙ הַכֹּהֵ֔ן וְכִבְּס֔וּ אֶת־אֲשֶׁ֥ר בּ֖וֹ הַנֶּ֒גַע וְהִסְגִּ֥יר אֹת֛וֹ שִׁבְעַ֥ת יָמִ֖ים שֵׁנִֽית׃",
+  "translation": "و⟨يأمر⟩ الكوهين فيغسلوا ⟨את⟩ الذي فيه النَّگَع ويُحجَز سبعةَ أيّام ثانيًا.",
   "tokens": [
     {
-      "surface": "וְצִוָּה֙",
-      "lemma": "c\/6680",
-      "morph": "Piel wayyiqtol 3ms",
-      "gloss": "and he commanded",
-      "notes": []
+      "surface": "וְצִוָּה֙",
+      "gloss": "و⟨يأمر⟩"
     },
     {
-      "surface": "הַכֹּהֵ֔ן",
-      "lemma": "d\/3548",
-      "morph": "Noun ms abs",
-      "gloss": "the priest",
-      "notes": []
+      "surface": "הַכֹּהֵ֔ן",
+      "gloss": "الكوهين"
     },
     {
-      "surface": "וְכִבְּס֔וּ",
-      "lemma": "c\/3526",
-      "morph": "Piel impv mp",
-      "gloss": "and wash",
-      "notes": []
+      "surface": "וְכִ֨בְּס֔וּ",
+      "gloss": "فيغسلوا"
     },
     {
-      "surface": "אֶת־",
-      "lemma": "אֵת",
-      "morph": "DirObjM",
+      "surface": "אֵ֥ת",
       "gloss": "⟨את⟩",
-      "marks": "אֲשֶׁר",
-      "notes": [
-        {
-          "kind": "dom",
-          "note": "Marks אֲשֶׁר בּוֹ הַנֶּגַע as definite object."
-        }
-      ]
+      "marks": "الذي"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
-      "lemma": "אֲשֶׁר",
-      "morph": "RelPrt",
-      "gloss": "[that] which",
-      "notes": []
+      "surface": "אֲשֶׁר",
+      "gloss": "الذي"
     },
     {
       "surface": "בּ֖וֹ",
-      "lemma": "b",
-      "morph": "Prep+PrnSuffix 3ms",
-      "gloss": "in it",
-      "notes": []
+      "gloss": "فيه"
     },
     {
-      "surface": "הַנֶּ֒גַע",
-      "lemma": "d\/5061",
-      "morph": "Noun ms abs",
-      "gloss": "the plague",
-      "notes": []
+      "surface": "הַנָּ֑גַע",
+      "gloss": "النَّگَع"
     },
     {
-      "surface": "וְהִסְגִּ֥יר",
-      "lemma": "c\/5462",
-      "morph": "Hifil wayyiqtol 3ms",
-      "gloss": "and he confined",
-      "notes": [
-        {
-          "kind": "mt_kethiv_qere",
-          "note": "K: וְהִסְגִּ֥ירוֹ (with suffix). Q: וְהִסְגִּ֥יר (without suffix). Translation follows Q."
-        }
-      ]
+      "surface": "וְהִסְגִּיר֥וֹ",
+      "gloss": "ويُحجَز"
     },
     {
-      "surface": "אֹת֛וֹ",
-      "lemma": "אֵת",
-      "morph": "DirObjM+PrnSuffix 3ms",
-      "gloss": "⟨את⟩ him",
-      "marks": "[implied object]",
-      "notes": [
-        {
-          "kind": "dom",
-          "note": "Object marker with 3ms suffix; marks implied 'it'."
-        }
-      ]
-    },
-    {
-      "surface": "שִׁבְעַ֥ת",
-      "lemma": "שֶׁבַע",
-      "morph": "Num cs",
-      "gloss": "seven[ty]",
-      "notes": []
+      "surface": "שִׁבְעַת",
+      "gloss": "سبعةَ"
     },
     {
       "surface": "יָמִ֖ים",
-      "lemma": "יוֹם",
-      "morph": "Noun mp abs",
-      "gloss": "days",
-      "notes": []
+      "gloss": "أيّام"
     },
     {
-      "surface": "שֵׁנִֽית׃",
-      "lemma": "שֵׁנִי",
-      "morph": "Num\/Adv fs abs",
-      "gloss": "a second [time]",
-      "notes": []
+      "surface": "שֵׁנִֽית",
+      "gloss": "ثانيًا"
     }
   ],
-  "timestamp": "2026-08-07T07:08:17.190690412Z",
+  "timestamp": "2026-08-07T19:14:07.581058913Z",
   "model": "glm-5.2"
 }

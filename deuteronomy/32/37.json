@@ -5,33 +5,33 @@
   "book": "deuteronomy",
   "lang": "ar",
   "chapter": 32,
-  "translation": "וְאָמַר: אֵי אֱלֹהֵימוֹ? צוּר חָסָיוּ בֽוֹ?",
+  "translation": "و⟨قال⟩: أينَ آلِهَتُهُم، صخرتُهم التي احتمَوا ⟨بها⟩؟",
   "tokens": [
     {
-      "surface": "וְאָמַ֖ר",
-      "gloss": "ויאמר"
+      "surface": "ואמר",
+      "gloss": "و⟨قال⟩"
     },
     {
-      "surface": "אֵ֣י",
-      "gloss": "אֵי"
+      "surface": "אי",
+      "gloss": "أين"
     },
     {
-      "surface": "אֱלֹהֵ֑ימוֹ",
-      "gloss": "אֱלֹהֵימוֹ"
+      "surface": "אלהימו",
+      "gloss": "آلِهَتُهُم"
     },
     {
-      "surface": "צ֖וּר",
-      "gloss": "צוּר"
+      "surface": "צור",
+      "gloss": "صخرتُهم"
     },
     {
-      "surface": "חָסָ֥יוּ",
-      "gloss": "חָסָיוּ"
+      "surface": "חסיו",
+      "gloss": "احتمَوا"
     },
     {
-      "surface": "בֽוֹ",
-      "gloss": "בּוֹ"
+      "surface": "בו",
+      "gloss": "⟨بها⟩"
     }
   ],
-  "timestamp": "2026-08-07T07:19:33.304096580Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:31:07.574875653Z",
+  "model": "glm-5.3"
 }

@@ -5,33 +5,33 @@
   "book": "psalms",
   "lang": "ar",
   "chapter": 119,
-  "translation": "طريقَ مِصوothek أركُض، لأنّك ⟨تُرْحِبُ⟩ قلبي.",
+  "translation": "دربَ وصاياك أركض، لأنك ⟨أنت⟩ تُوسِّع قلبي",
   "tokens": [
     {
-      "surface": "דֶּֽרֶךְ",
-      "gloss": "طريقَ"
+      "surface": "דרך",
+      "gloss": "درب"
     },
     {
-      "surface": "מִצְוֺתֶ֥יךָ",
-      "gloss": "مَصَايِفَك"
+      "surface": "מצותיך",
+      "gloss": "وصاياك"
     },
     {
-      "surface": "אָר֑וּץ",
-      "gloss": "أَرْكُضُ"
+      "surface": "ארוץ",
+      "gloss": "أركض"
     },
     {
-      "surface": "כִּ֖י",
-      "gloss": "لأنّك"
+      "surface": "כי",
+      "gloss": "لأنك"
     },
     {
-      "surface": "תַרְחִ֣יב",
-      "gloss": "تُرْحِبُ"
+      "surface": "תרחיב",
+      "gloss": "تُوسِّع"
     },
     {
-      "surface": "לִבִּֽי",
-      "gloss": "قَلْبِي"
+      "surface": "לבי",
+      "gloss": "قلبي"
     }
   ],
-  "timestamp": "2026-08-07T08:10:03.122698715Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:29:36.849484506Z",
+  "model": "glm-5.3"
 }

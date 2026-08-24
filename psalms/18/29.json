@@ -5,23 +5,23 @@
   "book": "psalms",
   "lang": "ar",
   "chapter": 18,
-  "translation": "«因为أنتَ تُضيءُ سراجي، يهوه إلهي يُنيرُ ظلامي.»",
+  "translation": "لأنّك أنت تُضيء نيرِي؛ يهوه إلوهيم يُنير ظلمتي.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "لأنّ"
+      "gloss": "لأنّك"
     },
     {
       "surface": "אתה",
-      "gloss": "أنتَ"
+      "gloss": "أنت"
     },
     {
       "surface": "תאיר",
-      "gloss": "تُضيءُ"
+      "gloss": "تُضيء"
     },
     {
       "surface": "נרי",
-      "gloss": "سراجي"
+      "gloss": "نيرِي"
     },
     {
       "surface": "יהוה",
@@ -29,17 +29,17 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "إلهي"
+      "gloss": "إلوهيم"
     },
     {
       "surface": "יגיה",
-      "gloss": "يُنيرُ"
+      "gloss": "يُنير"
     },
     {
       "surface": "חשכי",
-      "gloss": "ظلامي"
+      "gloss": "ظلمتي"
     }
   ],
-  "timestamp": "2026-08-07T06:01:39.236374446Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:28:52.829018976Z",
+  "model": "glm-5.3"
 }

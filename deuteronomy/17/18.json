@@ -5,106 +5,74 @@
   "book": "deuteronomy",
   "lang": "ar",
   "chapter": 17,
-  "translation": "וְהָיָה כְּשִׁבְתּוֹ עַל כִּסֵּא מַמְלַכְתּוֹ, וְכָתַב לוֹ אֶת־מִשְׁנֵה הַתּוֹרָה הַזֹּאת עַל־סֵפֶר מִלִּפְנֵי הַכֹּהֲנִים הַלְוִיִּם׃",
+  "translation": "و⟨كان⟩ عند جلوسه على كرسي مُلكُه، يكتب لنفسه ⟨את⟩ نسخةُ هذه التوراةِ على سِفْرٍ من أمام الكهنة اللاويّين.",
   "tokens": [
     {
-      "surface": "וְהָיָה",
-      "translit": "vehayah",
-      "gloss": "and it shall be",
-      "gloss_ar": "و⟨يكون⟩"
+      "surface": "וְהָיָ֣ה",
+      "gloss": "و⟨كان⟩"
     },
     {
-      "surface": "כְּשִׁבְתּוֹ",
-      "translit": "kheshivto",
-      "gloss": "when he sits",
-      "gloss_ar": "عند جلوسه"
+      "surface": "כְשִׁבְתּ֔וֹ",
+      "gloss": "عند جلوسه"
     },
     {
-      "surface": "עַל",
-      "translit": "al",
-      "gloss": "on",
-      "gloss_ar": "على"
+      "surface": "עַ֖ל",
+      "gloss": "على"
     },
     {
-      "surface": "כִּסֵּא",
-      "translit": "kise",
-      "gloss": "the throne of",
-      "gloss_ar": "كرسي"
+      "surface": "כִּסֵּ֣א",
+      "gloss": "كرسي"
     },
     {
-      "surface": "מַמְלַכְתּוֹ",
-      "translit": "mamlekhto",
-      "gloss": "his kingdom",
-      "gloss_ar": "مُلكه"
+      "surface": "מַמְלַכְתּ֑וֹ",
+      "gloss": "مُلكه"
     },
     {
-      "surface": "וְכָתַב",
-      "translit": "vekhatav",
-      "gloss": "then he shall write",
-      "gloss_ar": "فيكتب"
+      "surface": "וְכָ֨תַב",
+      "gloss": "ويكتب"
     },
     {
-      "surface": "לוֹ",
-      "translit": "lo",
-      "gloss": "for himself",
-      "gloss_ar": "له"
+      "surface": "ל֜וֹ",
+      "gloss": "له"
     },
     {
       "surface": "אֶת",
-      "translit": "et",
-      "gloss": "⟨את⟩ (direct object marker)",
-      "gloss_ar": "⟨את⟩",
-      "marks": "نسخة (מִשְׁנֵה)"
+      "gloss": "⟨את⟩",
+      "marks": "نسخة"
     },
     {
-      "surface": "מִשְׁנֵה",
-      "translit": "mishneh",
-      "gloss": "a copy of",
-      "gloss_ar": "نسخة"
+      "surface": "מִשְׁנֵ֨ה",
+      "gloss": "نسخة"
     },
     {
-      "surface": "הַתּוֹרָה",
-      "translit": "hatorah",
-      "gloss": "this law",
-      "gloss_ar": "هذه التوراة"
+      "surface": "הַתּוֹרָ֤ה",
+      "gloss": "التوراة"
     },
     {
-      "surface": "הַזֹּאת",
-      "translit": "hazot",
-      "gloss": "this",
-      "gloss_ar": "هذه"
+      "surface": "הַזֹּאת֙",
+      "gloss": "هذه"
     },
     {
       "surface": "עַל",
-      "translit": "al",
-      "gloss": "in",
-      "gloss_ar": "على"
+      "gloss": "على"
     },
     {
-      "surface": "סֵפֶר",
-      "translit": "sefer",
-      "gloss": "a book",
-      "gloss_ar": "سِفْر"
+      "surface": "סֵ֔פֶר",
+      "gloss": "سِفْر"
     },
     {
-      "surface": "מִלִּפְנֵי",
-      "translit": "milinei",
-      "gloss": "from before",
-      "gloss_ar": "من أمام"
+      "surface": "מִלִּפְנֵ֥י",
+      "gloss": "من أمام"
     },
     {
-      "surface": "הַכֹּהֲנִים",
-      "translit": "hakohanim",
-      "gloss": "the priests",
-      "gloss_ar": "الكهنة"
+      "surface": "הַכֹּהֲנִ֖ים",
+      "gloss": "الكهنة"
     },
     {
-      "surface": "הַלְוִיִּם",
-      "translit": "haleviyyim",
-      "gloss": "the Levites",
-      "gloss_ar": "اللاويين"
+      "surface": "הַלְוִיִּֽם",
+      "gloss": "اللاويّين"
     }
   ],
-  "timestamp": "2026-08-07T07:18:10.422211416Z",
+  "timestamp": "2026-08-07T19:14:19.691899134Z",
   "model": "glm-5.2"
 }

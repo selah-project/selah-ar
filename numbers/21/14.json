@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "ar",
   "chapter": 21,
-  "translation": "لذلك يُقال في سفر حروب يهوه: ⟨את⟩ وَهَب في سوفة، و⟨את⟩ النّhaulim أرنون.",
+  "translation": "لذلك يُقال في سفر حروب يهوه: ⟨את⟩ واهِف في سوفاه، و⟨את⟩ الأودية أرنون.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "على"
+      "gloss": "لذلك (על)"
     },
     {
       "surface": "כן",
-      "gloss": "ذلك"
+      "gloss": "لذلك (כן)"
     },
     {
       "surface": "יאמר",
@@ -34,30 +34,30 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "وَهَب"
+      "marks": "واهِف"
     },
     {
       "surface": "והב",
-      "gloss": "وَهَب"
+      "gloss": "واهِف"
     },
     {
       "surface": "בסופה",
-      "gloss": "في سوفة"
+      "gloss": "في سوفاه"
     },
     {
       "surface": "ואת",
-      "gloss": "و⟨את⟩",
-      "marks": "النّhaulim"
+      "gloss": "⟨את⟩",
+      "marks": "الأودية"
     },
     {
       "surface": "הנחלים",
-      "gloss": "النّhaulim"
+      "gloss": "الأودية"
     },
     {
       "surface": "ארנון",
       "gloss": "أرنون"
     }
   ],
-  "timestamp": "2026-08-07T07:12:14.358719439Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:26:05.643757486Z",
+  "model": "glm-5.3"
 }

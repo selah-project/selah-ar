@@ -5,49 +5,29 @@
   "book": "genesis",
   "lang": "ar",
   "chapter": 12,
-  "translation": "וְנָסַע אַבְרָם הָלוֹךְ וְנָסוֹעַ הַנֶּגְבָּה׃",
+  "translation": "ورتحل أفراهام، مسيرًا ورحيلًا نحو ⟨النقب⟩ في الجنوب.",
   "tokens": [
     {
-      "surface": "וַיִּסַּע",
-      "gloss": "וַיִּסַּע",
-      "transliteration": "wayyissa",
-      "lemma": "נסע",
-      "morph": "wayyiqtol 3ms",
-      "english_gloss": "And Abram journeyed"
+      "surface": "ויסע",
+      "gloss": "ورتحل"
     },
     {
-      "surface": "אַבְרָם",
-      "gloss": "אַבְרָם",
-      "transliteration": "avram",
-      "lemma": "אַבְרָם",
-      "morph": "proper name",
-      "english_gloss": "Abram"
+      "surface": "אברם",
+      "gloss": "أفراهام"
     },
     {
-      "surface": "הָלוֹךְ",
-      "gloss": "הָלוֹךְ",
-      "transliteration": "halokh",
-      "lemma": "הלך",
-      "morph": "infinitive construct",
-      "english_gloss": "going on"
+      "surface": "הלוך",
+      "gloss": "مسيرًا"
     },
     {
-      "surface": "וְנָסוֹעַ",
-      "gloss": "וְנָסוֹעַ",
-      "transliteration": "venaso'a",
-      "lemma": "נסע",
-      "morph": "infinitive construct",
-      "english_gloss": "and journeying"
+      "surface": "ונסוע",
+      "gloss": "ورحيلًا"
     },
     {
-      "surface": "הַנֶּגְבָּה",
-      "gloss": "הַנֶּגְבָּה",
-      "transliteration": "hanegevah",
-      "lemma": "נגב",
-      "morph": "noun + directional he",
-      "english_gloss": "toward the Negev (south)"
+      "surface": "הנגבה",
+      "gloss": "نحو النقب"
     }
   ],
-  "timestamp": "2026-08-07T06:55:52.598659019Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:24:51.508010994Z",
+  "model": "glm-5.3"
 }

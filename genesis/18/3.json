@@ -5,57 +5,57 @@
   "book": "genesis",
   "lang": "ar",
   "chapter": 18,
-  "translation": "وقال: «أدوناي، إن وجدتُ ⟨حِنًّا⟩ في عينيك، لا تتعدَّ现在ا منعند عبدك.",
+  "translation": "وقال: «أدوناي، إن كنتُ قد وجدتُ حِن (نعمة\/حُظوة) في عينيك، فلا تَعْبُرْ الآن من عند عبدك.»",
   "tokens": [
     {
-      "surface": "וַיֹּאמֶר",
+      "surface": "ויאמר",
       "gloss": "وقال"
     },
     {
-      "surface": "אֲדֹנָי",
+      "surface": "אדני",
       "gloss": "أدوناي"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "gloss": "إن"
     },
     {
-      "surface": "נָא",
-      "gloss": "⟨أرجوك⟩"
+      "surface": "נא",
+      "gloss": "الآن\/أرجوك"
     },
     {
-      "surface": "מָצָאתִי",
+      "surface": "מצאתי",
       "gloss": "وجدتُ"
     },
     {
-      "surface": "חֵן",
-      "gloss": "⟨حِنًّا⟩"
+      "surface": "חן",
+      "gloss": "حِن (نعمة)"
     },
     {
-      "surface": "בְּעֵינֶיךָ",
+      "surface": "בעיניך",
       "gloss": "في عينيك"
     },
     {
-      "surface": "אַל",
-      "gloss": "لا"
+      "surface": "אל",
+      "gloss": "فلا"
     },
     {
-      "surface": "נָא",
-      "gloss": "⟨أرجوك⟩"
+      "surface": "נא",
+      "gloss": "أرجوك"
     },
     {
-      "surface": "תַעֲבֹר",
-      "gloss": "تتعدّى"
+      "surface": "תעבר",
+      "gloss": "تعبر"
     },
     {
-      "surface": "מֵעַל",
-      "gloss": "منعند"
+      "surface": "מעל",
+      "gloss": "من عند"
     },
     {
-      "surface": "עַבְדְּךָ",
+      "surface": "עבדך",
       "gloss": "عبدك"
     }
   ],
-  "timestamp": "2026-08-06T23:39:57.934385925Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:25:20.601409716Z",
+  "model": "glm-5.3"
 }

@@ -5,65 +5,65 @@
   "book": "hosea",
   "lang": "ar",
   "chapter": 13,
-  "translation": "أوجاعُ والدةٍ تأتي عليه، هو⟨⟨ ابنٌ⟩⟩ غيرُ حكيم، لأنه وقتًا لا يقفُ في مخرجِ البنين.",
+  "translation": "مخاضُ وليدةٍ يأتي إليه؛ هو ابنٌ لا حكيم، لأنه في الوقت لا يقف عند مِشبار البنين.",
   "tokens": [
     {
-      "surface": "חֶבְלֵ֥י",
-      "gloss": "أوجاعُ"
+      "surface": "חבלי",
+      "gloss": "مخاض"
     },
     {
-      "surface": "יֽוֹלֵדָ֖ה",
-      "gloss": "والدةٍ"
+      "surface": "יולדה",
+      "gloss": "وليدة"
     },
     {
-      "surface": "יָבֹ֣אוּ",
-      "gloss": "تأتي"
+      "surface": "יבאו",
+      "gloss": "يأتي"
     },
     {
-      "surface": "ל֑וֹ",
-      "gloss": "عليه"
+      "surface": "לו",
+      "gloss": "إليه"
     },
     {
-      "surface": "הוּא",
+      "surface": "הוא",
       "gloss": "هو"
     },
     {
-      "surface": "בֵן֙",
-      "gloss": "ابنٌ"
+      "surface": "בן",
+      "gloss": "ابن"
     },
     {
-      "surface": "לֹ֣א",
-      "gloss": "غيرُ"
-    },
-    {
-      "surface": "חָכָ֔ם",
-      "gloss": "حكيم"
-    },
-    {
-      "surface": "כִּֽי",
-      "gloss": "لأنه"
-    },
-    {
-      "surface": "עֵ֥ת",
-      "gloss": "وقتًا"
-    },
-    {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "لا"
     },
     {
-      "surface": "יַעֲמֹ֖ד",
-      "gloss": "يقفُ"
+      "surface": "חכם",
+      "gloss": "حكيم"
     },
     {
-      "surface": "בְּמִשְׁבַּ֥ר",
-      "gloss": "في مخرجِ"
+      "surface": "כי",
+      "gloss": "لأنه"
     },
     {
-      "surface": "בָּנִֽים",
+      "surface": "עת",
+      "gloss": "الوقت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لا"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "يقف"
+    },
+    {
+      "surface": "במשבר",
+      "gloss": "عند مِشبار"
+    },
+    {
+      "surface": "בנים",
       "gloss": "البنين"
     }
   ],
-  "timestamp": "2026-08-07T03:22:12.663305222Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:29:16.949333817Z",
+  "model": "glm-5.3"
 }

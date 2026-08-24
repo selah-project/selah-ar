@@ -5,82 +5,82 @@
   "book": "1-kings",
   "lang": "ar",
   "chapter": 13,
-  "translation": "لأنه هكذا أُوصيتُ ⟨⟨את⟩⟩ بكلمة يهوه قائلًا: لا تأكل خبزًا ولا تشرب ماءً ولا ترجع في الطريق الذي سلكتَه.",
+  "translation": "لأنّه هكذا أُوصيتُ ⟨את⟩ بكلمة يهوه قائلًا: لا تأكل خبزًا ولا تشرب ماءً ولا ترجع في الطريق الذي سلكتَه.",
   "tokens": [
     {
-      "surface": "כִּֽי",
-      "gloss": "لأنه"
+      "surface": "כי",
+      "gloss": "لأنّه"
     },
     {
-      "surface": "כֵ֣ן",
+      "surface": "כן",
       "gloss": "هكذا"
     },
     {
-      "surface": "צִוָּ֣ה",
+      "surface": "צוה",
       "gloss": "أُوصيتُ"
     },
     {
-      "surface": "אֹתִ֗י",
+      "surface": "אתי",
       "gloss": "⟨את⟩",
-      "marks": "بكلمة"
+      "marks": "بي"
     },
     {
-      "surface": "בִּדְבַ֤ר",
+      "surface": "בדבר",
       "gloss": "بكلمة"
     },
     {
-      "surface": "יְהוָה֙",
+      "surface": "יהוה",
       "gloss": "يهوه"
     },
     {
-      "surface": "לֵאמֹ֔ר",
+      "surface": "לאמר",
       "gloss": "قائلًا"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "لا"
     },
     {
-      "surface": "תֹ֥אכַל",
+      "surface": "תאכל",
       "gloss": "تأكل"
     },
     {
-      "surface": "לֶ֖חֶם",
+      "surface": "לחם",
       "gloss": "خبزًا"
     },
     {
-      "surface": "וְלֹ֣א",
+      "surface": "ולא",
       "gloss": "ولا"
     },
     {
-      "surface": "תִשְׁתֶּה",
+      "surface": "תשתה",
       "gloss": "تشرب"
     },
     {
-      "surface": "מָּ֑יִם",
+      "surface": "מים",
       "gloss": "ماءً"
     },
     {
-      "surface": "וְלֹ֣א",
+      "surface": "ולא",
       "gloss": "ولا"
     },
     {
-      "surface": "תָשׁ֔וּב",
+      "surface": "תשוב",
       "gloss": "ترجع"
     },
     {
-      "surface": "בַּדֶּ֖רֶךְ",
+      "surface": "בדרך",
       "gloss": "في الطريق"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "gloss": "الذي"
     },
     {
-      "surface": "הָלָֽכְתָּ",
+      "surface": "הלכת",
       "gloss": "سلكتَه"
     }
   ],
-  "timestamp": "2026-08-07T01:47:54.019688828Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:27:32.456814094Z",
+  "model": "glm-5.3"
 }

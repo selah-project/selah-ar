@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "ar",
   "chapter": 44,
-  "translation": "أليس هذا ⟨الذي⟩ يشرب فيه سيّدي، وهو يت硝ّأ به؟ أسأتم في ما فعلتم.»",
+  "translation": "«أليس هذا ⟨الذي⟩ يشرب فيه أدوناي، وهو به يُنَجِّم تنجيمًا؟ قد أسأتم ⟨في⟩ ما فعلتم».",
   "tokens": [
     {
       "surface": "הלוא",
@@ -20,46 +20,46 @@
       "gloss": "الذي"
     },
     {
-      "surface": "ישתה",
+      "surface": "יִשְׁתֶּה",
       "gloss": "يشرب"
     },
     {
-      "surface": "אדני",
-      "gloss": "سيّدي"
+      "surface": "אֲדֹנִי",
+      "gloss": "أدوناي"
     },
     {
-      "surface": "בו",
+      "surface": "בּוֹ",
       "gloss": "فيه"
     },
     {
-      "surface": "והוא",
+      "surface": "וְהוּא",
       "gloss": "وهو"
     },
     {
-      "surface": "נחש",
-      "gloss": "يت硝ّأ"
+      "surface": "נַחֵשׁ",
+      "gloss": "يُنجّم"
     },
     {
-      "surface": "ינחש",
-      "gloss": "يت硝ّأ"
+      "surface": "יְנַחֵשׁ",
+      "gloss": "تنجيمًا"
     },
     {
-      "surface": "בו",
+      "surface": "בּוֹ",
       "gloss": "به"
     },
     {
-      "surface": "הרעתם",
+      "surface": "הֲרֵעֹתֶם",
       "gloss": "أسأتم"
     },
     {
-      "surface": "אשר",
-      "gloss": "في ما"
+      "surface": "אֲשֶׁר",
+      "gloss": "ما"
     },
     {
-      "surface": "עשיתם",
+      "surface": "עֲשִׂיתֶם",
       "gloss": "فعلتم"
     }
   ],
-  "timestamp": "2026-08-06T23:52:12.439238221Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:31:18.242109958Z",
+  "model": "glm-5.3"
 }

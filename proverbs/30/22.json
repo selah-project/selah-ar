@@ -5,41 +5,41 @@
   "book": "proverbs",
   "lang": "ar",
   "chapter": 30,
-  "translation": "تحتَ عبدٍ حين يملِك، وנבל حين يَشبَع خبزًا —",
+  "translation": "تحتَ عبدٍ إذا مَلَك، ونَفْلٍ إذا شبع خبزًا",
   "tokens": [
     {
-      "surface": "תַּֽחַת",
+      "surface": "תחת",
       "gloss": "تحتَ"
     },
     {
-      "surface": "עֶ֭בֶד",
-      "gloss": "عبدٍ"
+      "surface": "עבד",
+      "gloss": "عبد"
     },
     {
-      "surface": "כִּ֣י",
-      "gloss": "حين"
+      "surface": "כי",
+      "gloss": "إذا"
     },
     {
-      "surface": "יִמְל֑וֹךְ",
-      "gloss": "يملِك"
+      "surface": "ימלוך",
+      "gloss": "مَلَك"
     },
     {
-      "surface": "וְ֝נָבָ֗ל",
-      "gloss": "ونَبَل"
+      "surface": "ונבל",
+      "gloss": "ونَفْل"
     },
     {
-      "surface": "כִּ֣י",
-      "gloss": "حين"
+      "surface": "כי",
+      "gloss": "إذا"
     },
     {
-      "surface": "יִֽשְׂבַּֽע",
-      "gloss": "يَشبَع"
+      "surface": "ישבע",
+      "gloss": "شبع"
     },
     {
-      "surface": "לָֽחֶם",
+      "surface": "לחם",
       "gloss": "خبزًا"
     }
   ],
-  "timestamp": "2026-08-07T08:37:23.680673883Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:29:44.915537656Z",
+  "model": "glm-5.3"
 }

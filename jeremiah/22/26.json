@@ -5,70 +5,71 @@
   "book": "jeremiah",
   "lang": "ar",
   "chapter": 22,
-  "translation": "«وأُلقِي بكَ و⟨بـאת⟩ أمِّكَ التي ولدتكَ، على أرضٍ أُخرى التي لم تُولَدوا فيها، وهناك تموتون.»",
+  "translation": "وأُقذفُ بك وب⟨את⟩ أمّك التي ولدتك على أرضٍ أخرى لم تُولَدوا فيها، وهناك تموتون.",
   "tokens": [
     {
-      "surface": "וְהֵֽטַלְתִּ֣י",
-      "gloss": "وأُلقِي"
+      "surface": "והטלתי",
+      "gloss": "وأُقذفُ"
     },
     {
-      "surface": "אֹתְךָ֗",
-      "gloss": "بكَ"
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "بك"
     },
     {
-      "surface": "וְאֶֽת",
-      "gloss": "⟨بـאת⟩",
-      "marks": "أمِّكَ"
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ⟨ואת⟩",
+      "marks": "أمّك"
     },
     {
-      "surface": "אִמְּךָ֙",
-      "gloss": "أمِّكَ"
+      "surface": "אמך",
+      "gloss": "أمّك"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "gloss": "التي"
     },
     {
-      "surface": "יְלָדַ֔תְךָ",
-      "gloss": "ولدتكَ"
+      "surface": "ילדתך",
+      "gloss": "ولدتك"
     },
     {
-      "surface": "עַ֚ל",
+      "surface": "על",
       "gloss": "على"
     },
     {
-      "surface": "הָאָ֣רֶץ",
-      "gloss": "الأرضِ"
+      "surface": "הארץ",
+      "gloss": "الأرض"
     },
     {
-      "surface": "אַחֶ֔רֶת",
-      "gloss": "أُخرى"
+      "surface": "אחרת",
+      "gloss": "أخرى"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
-      "gloss": "التي"
+      "surface": "אשר",
+      "gloss": "⟨حيث⟩"
     },
     {
-      "surface": "לֹֽא",
+      "surface": "لא",
       "gloss": "لم"
     },
     {
-      "surface": "יֻלַּדְתֶּ֖ם",
+      "surface": "يלدתם",
       "gloss": "تُولَدوا"
     },
     {
-      "surface": "שָׁ֑ם",
-      "gloss": "هناك"
+      "surface": "שם",
+      "gloss": "فيها"
     },
     {
-      "surface": "וְשָׁ֖ם",
+      "surface": "ושם",
       "gloss": "وهناك"
     },
     {
-      "surface": "תָּמֽוּתוּ",
+      "surface": "תמותו",
       "gloss": "تموتون"
     }
   ],
-  "timestamp": "2026-08-07T07:45:57.245789447Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:45:48.273100123Z",
+  "model": "glm-5.3"
 }

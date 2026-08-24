@@ -5,66 +5,66 @@
   "book": "ezekiel",
   "lang": "ar",
   "chapter": 11,
-  "translation": "هذه لا تكون لكم قدرًا، وأنتم تكونون في وسطها لحمًا؛ عند حدود يسرائيل أحكمُ ⟨בـ⟩(בְּ)ـكم(כֶם).",
+  "translation": "«هذه لا تكون لكم قِدرًا، وأنتم تكونون في وسطها لحمًا؛ عند تخوم يسرائيل أحكم ⟨ב⟩אתכם».",
   "tokens": [
     {
-      "surface": "הִ֗יא",
+      "surface": "היא",
       "gloss": "هذه"
     },
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "لا"
     },
     {
-      "surface": "תִהְיֶ֤ה",
+      "surface": "תהיה",
       "gloss": "تكون"
     },
     {
-      "surface": "לָכֶם֙",
+      "surface": "לכם",
       "gloss": "لكم"
     },
     {
-      "surface": "לְסִ֔יר",
-      "gloss": "لقدر"
+      "surface": "לסיר",
+      "gloss": "قِدرًا"
     },
     {
-      "surface": "וְאַתֶּ֛ם",
+      "surface": "ואתם",
       "gloss": "وأنتم"
     },
     {
-      "surface": "תִּהְי֥וּ",
+      "surface": "תהיו",
       "gloss": "تكونون"
     },
     {
-      "surface": "בְתוֹכָ֖הּ",
+      "surface": "בתוכה",
       "gloss": "في وسطها"
     },
     {
-      "surface": "לְבָשָׂ֑ר",
+      "surface": "לבשר",
       "gloss": "لحمًا"
     },
     {
-      "surface": "אֶל",
-      "gloss": "إلى"
+      "surface": "אל",
+      "gloss": "عند"
     },
     {
-      "surface": "גְּב֥וּל",
-      "gloss": "حدود"
+      "surface": "גבול",
+      "gloss": "تخوم"
     },
     {
-      "surface": "יִשְׂרָאֵ֖ל",
-      "gloss": "يسرائيل"
+      "surface": "ישראל",
+      "gloss": "يسرايل"
     },
     {
-      "surface": "אֶשְׁפֹּ֥ט",
-      "gloss": "أحكمُ"
+      "surface": "אשפוט",
+      "gloss": "أحكم"
     },
     {
-      "surface": "אֶתְכֶֽם",
+      "surface": "אתכם",
       "gloss": "⟨את⟩",
       "marks": "إيّاكم"
     }
   ],
-  "timestamp": "2026-08-07T07:50:25.661503624Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:29:27.830508055Z",
+  "model": "glm-5.3"
 }

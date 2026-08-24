@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "ar",
   "chapter": 15,
-  "translation": "يهوه ⟨⟨رجل⟩⟩ حرب، يهوه اسمُه.",
+  "translation": "يهوه رجلُ حرب، يهوه اسمُه",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "رجل"
+      "gloss": "رجلُ"
     },
     {
       "surface": "מלחמה",
@@ -28,6 +28,6 @@
       "gloss": "اسمُه"
     }
   ],
-  "timestamp": "2026-08-07T00:03:16.616156387Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:24:53.893671076Z",
+  "model": "glm-5.3"
 }

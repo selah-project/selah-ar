@@ -5,45 +5,45 @@
   "book": "deuteronomy",
   "lang": "ar",
   "chapter": 4,
-  "translation": "حينئذٍ فرَّز موشيه ثلاث مدن في عَبْرَةُ הْيَرْدَنْ، مَشْرِقَةَ شَمَش.",
+  "translation": "حينئذٍ فرز موشيه ثلاث مدن في عبر الأردن جهة شروق الشمس.",
   "tokens": [
     {
-      "surface": "אָז",
+      "surface": "אז",
       "gloss": "حينئذٍ"
     },
     {
-      "surface": "יַבְדִּיל",
-      "gloss": "فرّز"
+      "surface": "יבדיל",
+      "gloss": "فرز"
     },
     {
-      "surface": "מֹשֶׁה",
+      "surface": "משה",
       "gloss": "موشيه"
     },
     {
-      "surface": "שָׁלֹשׁ",
+      "surface": "שלש",
       "gloss": "ثلاث"
     },
     {
-      "surface": "עָרִים",
+      "surface": "ערים",
       "gloss": "مدن"
     },
     {
-      "surface": "בְּעֵבֶר",
-      "gloss": "في عَبْرَةُ"
+      "surface": "בעבר",
+      "gloss": "في عبر"
     },
     {
-      "surface": "הַיַּרְדֵּן",
-      "gloss": "الْيَرْدَنْ"
+      "surface": "הירדן",
+      "gloss": "الأردن"
     },
     {
-      "surface": "מִזְרְחָה",
-      "gloss": "مَشْرِقَةَ"
+      "surface": "מזרחה",
+      "gloss": "جهة شروق"
     },
     {
-      "surface": "שָׁמֶשׁ",
-      "gloss": "شَمَش"
+      "surface": "שמש",
+      "gloss": "الشمس"
     }
   ],
-  "timestamp": "2026-08-07T07:15:17.355978556Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:27:03.817156015Z",
+  "model": "glm-5.3"
 }

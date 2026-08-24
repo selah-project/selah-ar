@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "ar",
   "chapter": 2,
-  "translation": "و⟨كان> حين فني جميع رجال الحرب للموت من وسط الشعب،",
+  "translation": "و⟨كان⟩ لما كَمُلَ جميع رجال الحرب للموت من وسط الشعب،",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "و⟨كان>"
+      "gloss": "و⟨كان⟩"
     },
     {
       "surface": "כאשר",
-      "gloss": "حين"
+      "gloss": "لما"
     },
     {
       "surface": "תמו",
-      "gloss": "فني"
+      "gloss": "كَمُلَ"
     },
     {
       "surface": "כל",
@@ -44,6 +44,6 @@
       "gloss": "الشعب"
     }
   ],
-  "timestamp": "2026-08-07T00:47:21.561420730Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:25:34.233994172Z",
+  "model": "glm-5.3"
 }

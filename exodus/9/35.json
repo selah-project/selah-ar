@@ -5,62 +5,62 @@
   "book": "exodus",
   "lang": "ar",
   "chapter": 9,
-  "translation": "וتشديّدَ قلبُ فرعون، فلم يُطلِق ⟨את⟩ بَني يسرايم، كما تكلّم يهوه بيد موشيه.",
+  "translation": "وتشدّد قلب فرعون فلم يُرسِل ⟨את⟩ بني يسرايل، كما تكلّم يهوه بيد موشيه.",
   "tokens": [
     {
-      "surface": "וַֽיֶּחֱזַק֙",
-      "gloss": "وتشديّدَ"
+      "surface": "ויחזק",
+      "gloss": "وتشدّد"
     },
     {
-      "surface": "לֵ֣ב",
+      "surface": "לב",
       "gloss": "قلب"
     },
     {
-      "surface": "פַּרְעֹ֔ה",
+      "surface": "פרעה",
       "gloss": "فرعون"
     },
     {
-      "surface": "וְלֹ֥א",
+      "surface": "ולא",
       "gloss": "فلم"
     },
     {
-      "surface": "שִׁלַּ֖ח",
-      "gloss": "أطلق"
+      "surface": "שלח",
+      "gloss": "يُرسِل"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "بني يسرايم"
+      "marks": "بني يسرايل"
     },
     {
-      "surface": "בְּנֵ֣י",
-      "gloss": "بَني"
+      "surface": "בני",
+      "gloss": "بني"
     },
     {
-      "surface": "יִשְׂרָאֵ֑ל",
-      "gloss": "يسرايم"
+      "surface": "ישראל",
+      "gloss": "يسرايل"
     },
     {
-      "surface": "כַּאֲשֶׁ֛ר",
+      "surface": "כאשר",
       "gloss": "كما"
     },
     {
-      "surface": "דִּבֶּ֥ר",
+      "surface": "דבר",
       "gloss": "تكلّم"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "gloss": "يهوه"
     },
     {
-      "surface": "בְּיַד",
+      "surface": "ביד",
       "gloss": "بيد"
     },
     {
-      "surface": "מֹשֶֽׁה",
+      "surface": "משה",
       "gloss": "موشيه"
     }
   ],
-  "timestamp": "2026-08-07T07:01:35.557116704Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:24:50.863379015Z",
+  "model": "glm-5.3"
 }

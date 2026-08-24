@@ -5,33 +5,33 @@
   "book": "lamentations",
   "lang": "ar",
   "chapter": 3,
-  "translation": "أنا הגבר ראה עני בשבט עברתו.",
+  "translation": "أنا הגבּר הرجل الذي رأى عَنِيًّا تحت שבט عصا עברתו غضبه",
   "tokens": [
     {
-      "surface": "אֲנִ֤י",
+      "surface": "אני",
       "gloss": "أنا"
     },
     {
-      "surface": "הַגֶּ֨בֶר֙",
-      "gloss": "הגבר"
+      "surface": "הגבר",
+      "gloss": "הגבּר الرجل"
     },
     {
-      "surface": "רָאָ֣ה",
+      "surface": "ראה",
       "gloss": "رأى"
     },
     {
-      "surface": "עֳנִ֔י",
-      "gloss": "עני"
+      "surface": "עני",
+      "gloss": "عَنِيًّا (البؤس)"
     },
     {
-      "surface": "בְּשֵׁ֖בֶט",
-      "gloss": "בשבט"
+      "surface": "בשבט",
+      "gloss": "تحت שבט عصا"
     },
     {
-      "surface": "עֶבְרָתֽוֹ",
-      "gloss": "עברתו"
+      "surface": "עברתו",
+      "gloss": "غضبه"
     }
   ],
-  "timestamp": "2026-08-07T08:19:50.272016414Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:30:16.820157152Z",
+  "model": "glm-5.3"
 }

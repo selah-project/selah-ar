@@ -5,58 +5,58 @@
   "book": "leviticus",
   "lang": "ar",
   "chapter": 19,
-  "translation": "لا تنتقم ولا تحقد ⟨⟨على⟩⟩ ⟨את⟩ بني شعبك، وأحببت ⟨⟨لـ⟩⟩ قريبك مثلك. أنا يهوه.",
+  "translation": "لا تنتقم ولا تحقد على أبناء شعبك، وأحببتَ قريبك مثلك — أنا يهوه.",
   "tokens": [
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "لا"
     },
     {
-      "surface": "תִקֹּ֤ם",
+      "surface": "תקם",
       "gloss": "تنتقم"
     },
     {
-      "surface": "וְלֹֽא",
+      "surface": "ולא",
       "gloss": "ولا"
     },
     {
-      "surface": "תִטֹּר֙",
+      "surface": "תטר",
       "gloss": "تحقد"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "بني شعبك"
+      "marks": "أبناء شعبك"
     },
     {
-      "surface": "בְּנֵ֣י",
-      "gloss": "بني"
+      "surface": "בני",
+      "gloss": "أبناء"
     },
     {
-      "surface": "עַמֶּ֔ךָ",
+      "surface": "עמך",
       "gloss": "شعبك"
     },
     {
-      "surface": "וְאָֽהַבְתָּ֥",
-      "gloss": "وأحببت"
+      "surface": "ואהבת",
+      "gloss": "وأحببتَ"
     },
     {
-      "surface": "לְרֵעֲךָ֖",
-      "gloss": "لقريبك"
+      "surface": "לרעך",
+      "gloss": "قريبك"
     },
     {
-      "surface": "כָּמ֑וֹךָ",
+      "surface": "כמוך",
       "gloss": "مثلك"
     },
     {
-      "surface": "אֲנִ֖י",
+      "surface": "אני",
       "gloss": "أنا"
     },
     {
-      "surface": "יְהוָֽה",
+      "surface": "יהוה",
       "gloss": "يهوه"
     }
   ],
-  "timestamp": "2026-08-07T00:25:21.101632216Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:25:32.205732930Z",
+  "model": "glm-5.3"
 }

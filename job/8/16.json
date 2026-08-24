@@ -5,41 +5,41 @@
   "book": "job",
   "lang": "ar",
   "chapter": 8,
-  "translation": "رطبٌ هو أمام الشمس، وعلى جنّته تخرج شُ庸ُه.",
+  "translation": "رَطيبٌ هو أمام الشمس، وعلى جنّته تخرج فسيلته",
   "tokens": [
     {
-      "surface": "רָטֹ֣ב",
-      "gloss": "رطبٌ"
+      "surface": "רטב",
+      "gloss": "رَطيب"
     },
     {
-      "surface": "ה֭וּא",
+      "surface": "הוא",
       "gloss": "هو"
     },
     {
-      "surface": "לִפְנֵי",
+      "surface": "לפני",
       "gloss": "أمام"
     },
     {
-      "surface": "שָׁ֑מֶשׁ",
+      "surface": "שמש",
       "gloss": "الشمس"
     },
     {
-      "surface": "וְעַ֥ל",
+      "surface": "ועל",
       "gloss": "وعلى"
     },
     {
-      "surface": "גַּ֝נָּת֗וֹ",
+      "surface": "גנתו",
       "gloss": "جنّته"
     },
     {
-      "surface": "יֹֽנַקְתּ֥וֹ",
-      "gloss": "شُ庸ُه"
+      "surface": "ינקתו",
+      "gloss": "فسيلته"
     },
     {
-      "surface": "תֵצֵֽא",
+      "surface": "תצא",
       "gloss": "تخرج"
     }
   ],
-  "timestamp": "2026-08-07T04:33:10.818287286Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T20:31:05.458930803Z",
+  "model": "glm-5.3"
 }
