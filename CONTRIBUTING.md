@@ -54,3 +54,8 @@ python3 -m json.tool genesis/1/1.json >/dev/null
 يقارن فريق الصيانة الاقتراح بالعبرية وبالاصطلاحات وبالمصادر
 وبالمحاذاة، وقد يقبله أو يراجعه معك أو ينتظر مزيدًا من الأدلة أو
 يرفضه مع بيان السبب. انقد القراءة لا الشخص.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
